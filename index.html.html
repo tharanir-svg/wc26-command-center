@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FIFA World Cup 2026 — Command Center v4.1</title>
+<style>
+  :root {
+    --bg: #0b1220;
+    --card: #111827;
+    --border: #1f2937;
+    --text: #e5e7eb;
+    --head: #ffffff;
+    --muted: #94a3b8;
+    --alt-row: #0f172a;
+    --red: #dc2626;
+    --amber: #f59e0b;
+    --green: #059669;
+    --blue: #3b82f6;
+  }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: system-ui, -apple-system, Inter, "Segoe UI", Roboto, Ubuntu, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: #93c5fd; text-decoration: none; transition: color 0.2s; }
+  a:hover { text-decoration: underline; color: #bfdbfe; }
+  
+  /* Header */
+  .header {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    background: rgba(11,18,32,0.85);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border);
+    padding: 14px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .header-left { display: flex; align-items: baseline; gap: 16px; flex-wrap: wrap; }
+  .brand {
+    color: var(--head);
+    font-weight: 800;
+    letter-spacing: 0.06em;
+    font-size: 16px;
+  }
+  .meta { display: flex; align-items: center; gap: 10px; font-size: 14px; color: var(--muted); }
+  .meta .dot { opacity: 0.5; }
+  .header-right { display: flex; gap: 8px; }
+  
+  /* Filters */
+  .filter {
+    padding: 6px 14px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    border: 1px solid var(--border);
+    background: #0f172a;
+    color: var(--muted);
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  .filter.red.active { background: rgba(220,38,38,0.15); color: #fecaca; border-color: var(--red); box-shadow: 0 0 10px rgba(220,38,38,0.2); }
+  .filter.amber.active { background: rgba(245,158,11,0.15); color: #fde68a; border-color: var(--amber); box-shadow: 0 0 10px rgba(245,158,11,0.2); }
+  .filter.green.active { background: rgba(5,150,105,0.15); color: #a7f3d0; border-color: var(--green); box-shadow: 0 0 10px rgba(5,150,105,0.2); }
+  .filter:hover:not(.active) { border-color: #334155; color: var(--text); }
+
+  /* Navigation */
+  .tabs {
+    display: flex;
+    gap: 8px;
+    padding: 12px 20px 0;
+    border-bottom: 1px solid var(--border);
+    background: var(--bg);
+    position: sticky;
+    top: 62px;
+    z-index: 40;
+    overflow-x: auto;
+  }
+  .tabs button {
+    background: transparent;
+    border: none;
+    color: var(--muted);
+    padding: 12px 14px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    white-space: nowrap;
+    transition: color 0.2s, border-color 0.2s;
+  }
+  .tabs button.active { color: var(--head); border-bottom-color: var(--blue); }
+  .tabs button:hover:not(.active) { color: var(--text); }
+
+  main { padding: 24px 20px 60px; max-width: 1400px; margin: 0 auto; }
+
+  /* Tab Panes */
+  .tab-pane { display: none; animation: fadeIn 0.3s ease-in-out; }
+  .tab-pane.active { display: block; }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(5px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  /* Cards */
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px;
+    transition: transform 0.2s, border-color 0.2s;
+  }
+  .card:hover { border-color: #334155; }
+  .section-head {
+    font-size: 20px;
+    color: var(--head);
+    font-weight: 700;
+    margin: 0 0 16px;
+  }
+
+  /* Risk Grid */
+  .risk-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+  }
+  .risk-card { display: flex; flex-direction: column; gap: 12px; }
+  .card-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; }
+  .card-head h3 {
+    margin: 0;
+    font-size: 15px;
+    color: var(--head);
+    font-weight: 700;
+    line-height: 1.3;
+  }
+  .risk-pill, .impact {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 0.05em;
+    padding: 4px 10px;
+    border-radius: 6px;
+    color: white;
+    white-space: nowrap;
+    text-transform: uppercase;
+  }
+  .risk-pill.high, .impact.high { background: var(--red); }
+  .risk-pill.medium, .impact.medium { background: var(--amber); }
+  .risk-pill.low, .impact.low { background: var(--green); }
+  .desc {
+    color: var(--text);
+    font-size: 14px;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    min-height: 60px;
+  }
+  .card-links { display: flex; gap: 14px; margin-top: auto; padding-top: 10px; }
+  .card-links a { font-size: 13px; font-weight: 600; }
+
+  /* Buttons */
+  .quick-actions {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  .action {
+    height: 48px;
+    background: #1e293b;
+    border: 1px solid #334155;
+    color: var(--text);
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background 0.15s, border-color 0.15s, transform 0.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+  }
+  .action:hover { background: #233146; border-color: #475569; }
+  .action:active { background: #1a2433; transform: scale(0.98); }
+
+  /* Cities Grid */
+  .cities-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  .region-title {
+    font-size: 18px;
+    color: var(--head);
+    font-weight: 700;
+    margin: 0 0 14px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border);
+  }
+  .city-list { display: flex; flex-direction: column; gap: 12px; }
+  .city-card { padding: 18px 20px; }
+  .city-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; margin-bottom: 10px; }
+  .city-name { font-weight: 700; color: var(--head); font-size: 15px; }
+  .stadium { font-size: 14px; color: var(--muted); margin-top: 2px; }
+  .city-links { display: flex; gap: 8px; align-items: center; font-size: 13px; color: var(--muted); }
+
+  /* Timeline Table */
+  .table-card { padding: 0; overflow-x: auto; }
+  .timeline { width: 100%; border-collapse: collapse; font-size: 14px; min-width: 600px; }
+  .timeline thead th {
+    text-align: left;
+    padding: 14px 16px;
+    color: #9ca3af;
+    font-weight: 600;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-bottom: 1px solid var(--border);
+    background: #0d1628;
+  }
+  .timeline tbody td {
+    padding: 14px 16px;
+    border-bottom: 1px solid rgba(31,41,55,0.7);
+    vertical-align: top;
+  }
+  .timeline tbody tr:nth-child(odd) { background: var(--alt-row); }
+  .timeline tbody tr:hover { background: #1e293b; }
+  .timeline tbody tr:last-child td { border-bottom: none; }
+  .timeline td:first-child { white-space: nowrap; color: var(--muted); width: 90px; }
+  .timeline td:nth-child(2) { white-space: nowrap; width: 150px; font-weight: 600; color: var(--text); }
+
+  /* Sources Grid */
+  .sources-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+  .hashtags { display: flex; flex-wrap: wrap; gap: 8px; }
+  .tag {
+    background: #0f172a;
+    border: 1px solid var(--border);
+    padding: 6px 12px;
+    border-radius: 999px;
+    font-size: 13px;
+    color: #cbd5e1;
+    transition: background 0.2s;
+    cursor: default;
+  }
+  .tag:hover { background: #1e293b; border-color: #475569; }
+  .keyword-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin-top: 16px;
+  }
+  .keyword-grid h4 {
+    margin: 0 0 10px;
+    font-size: 14px;
+    color: var(--head);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .keyword-grid ul { margin: 0; padding-left: 18px; color: var(--muted); }
+  .keyword-grid li { margin: 6px 0; font-size: 14px; }
+
+  .hidden { display: none !important; }
+
+  /* Responsive */
+  @media (max-width: 1024px) {
+    .cities-grid { grid-template-columns: 1fr 1fr; }
+    .sources-grid { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 768px) {
+    .header { top: 0; flex-direction: column; align-items: flex-start; padding: 12px 16px; }
+    .tabs { top: 108px; }
+    .cities-grid { grid-template-columns: 1fr; }
+    .quick-actions { grid-template-columns: 1fr; }
+    .keyword-grid { grid-template-columns: 1fr; }
+    
+    /* Responsive Table */
+    .timeline { min-width: 100%; font-size: 13px; }
+    .timeline thead { display: none; }
+    .timeline tbody td { display: block; padding: 8px 16px; border: none; }
+    .timeline tbody tr { display: block; padding: 12px 0; border-bottom: 1px solid var(--border); }
+    .timeline tbody td:first-child { padding-top: 12px; font-weight: 600; color: #e5e7eb; }
+    .timeline tbody td:nth-child(2)::before { content: "City: "; color: var(--muted); font-weight: normal; }
+    .timeline tbody td:nth-child(3)::before { content: "Event: "; color: var(--muted); }
+    .timeline tbody td:nth-child(4) { padding-bottom: 12px; }
+  }
+</style>
+</head>
+<body>
+  <header class="header">
+    <div class="header-left">
+      <div class="brand">FIFA WORLD CUP 2026</div>
+      <div class="meta">
+        <span id="utc-clock">00:00:00 UTC</span>
+        <span class="dot">•</span>
+        <span id="countdown">T-12 days</span>
+      </div>
+    </div>
+    <div class="header-right">
+      <button class="filter red" data-level="high">RED (HIGH)</button>
+      <button class="filter amber" data-level="medium">AMBER (MED)</button>
+      <button class="filter green" data-level="low">GREEN (LOW)</button>
+    </div>
+  </header>
+
+  <nav class="tabs">
+    <button data-tab="overview" class="active">Overview & Risks</button>
+    <button data-tab="cities">Host Cities</button>
+    <button data-tab="timeline">Operations Timeline</button>
+    <button data-tab="sources">Intel Sources</button>
+  </nav>
+
+  <main>
+    <!-- OVERVIEW -->
+    <section id="overview" class="tab-pane active">
+      <h2 class="section-head">Core Risk Intelligence (Updated June 3, 2026)</h2>
+      <div class="risk-grid">
+        <article class="card risk-card" data-risk="high">
+          <div class="card-head">
+            <h3>SoFi Stadium Labor Strike</h3>
+            <span class="risk-pill high">HIGH</span>
+          </div>
+          <p class="desc">UNITE HERE Local 11 (2,000+ workers) explicitly threatening strike action if ICE operates near SoFi. 120+ civil rights groups issued travel warnings.</p>
+          <div class="card-links">
+            <a href="https://www.theguardian.com/us-news/2026/jun/01/ice-fifa-world-cup-immigrant-rights" target="_blank" rel="noopener">Guardian Report</a>
+            <a href="https://www.unitehere11.org" target="_blank" rel="noopener">Local 11</a>
+          </div>
+        </article>
+
+        <article class="card risk-card" data-risk="high">
+          <div class="card-head">
+            <h3>Ebola Travel Restrictions</h3>
+            <span class="risk-pill high">HIGH</span>
+          </div>
+          <p class="desc">US, Mexico, and Canada issue Joint Statement on strict public health travel measures for individuals coming from African regions at high risk for Ebola.</p>
+          <div class="card-links">
+            <a href="https://sv.usembassy.gov" target="_blank" rel="noopener">US Embassy Brief</a>
+            <a href="https://www.dhs.gov" target="_blank" rel="noopener">DHS Alerts</a>
+          </div>
+        </article>
+
+        <article class="card risk-card" data-risk="medium">
+          <div class="card-head">
+            <h3>Cyber Fraud & Scams</h3>
+            <span class="risk-pill medium">MEDIUM</span>
+          </div>
+          <p class="desc">Meta launches new AI taskforce and safety alerts across platforms to tackle the "World Cup Scam Economy" involving fake tickets and crypto fraud.</p>
+          <div class="card-links">
+            <a href="https://www.mi-3.com.au" target="_blank" rel="noopener">Meta Security Update</a>
+            <a href="https://www.fifa.com/tickets" target="_blank" rel="noopener">Official Tickets</a>
+          </div>
+        </article>
+
+        <article class="card risk-card" data-risk="medium">
+          <div class="card-head">
+            <h3>Infrastructure & Drones</h3>
+            <span class="risk-pill medium">MEDIUM</span>
+          </div>
+          <p class="desc">ZeroFox assesses unmanned aircraft systems (UAS) as emerging threat. FAA expanding TFR zones. NJ State Police scaling ops around MetLife.</p>
+          <div class="card-links">
+            <a href="https://www.faa.gov/uas" target="_blank" rel="noopener">FAA NOTAM</a>
+            <a href="https://www.cbsnews.com/newyork/" target="_blank" rel="noopener">NJ Police Ops</a>
+          </div>
+        </article>
+
+        <article class="card risk-card" data-risk="medium">
+          <div class="card-head">
+            <h3>Geopolitical Tensions</h3>
+            <span class="risk-pill medium">MEDIUM</span>
+          </div>
+          <p class="desc">Activism surrounding international conflicts expected to manifest outside stadiums. State Dept monitoring international travel advisories.</p>
+          <div class="card-links">
+            <a href="https://www.state.gov" target="_blank" rel="noopener">State Dept</a>
+            <a href="https://www.amnesty.org" target="_blank" rel="noopener">Amnesty Tracker</a>
+          </div>
+        </article>
+      </div>
+
+      <div class="quick-actions">
+        <button class="action" id="open-wires">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+          Open Latest News Wires
+        </button>
+        <button class="action" id="copy-checklist">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+          Copy Daily Briefing Checklist
+        </button>
+      </div>
+    </section>
+
+    <!-- CITIES -->
+    <section id="cities" class="tab-pane">
+      <div class="cities-grid">
+        <div class="region" id="region-western">
+          <h2 class="region-title">Western Corridor</h2>
+          <div class="city-list">
+            <article class="card city-card" data-risk="high">
+              <div class="city-head">
+                <div><div class="city-name">Los Angeles</div><div class="stadium">SoFi Stadium</div></div>
+                <span class="risk-pill high">HIGH</span>
+              </div>
+              <div class="city-links"><a href="https://www.lacity.gov" target="_blank" rel="noopener">Official</a><span>|</span><a href="https://www.latimes.com" target="_blank" rel="noopener">Local</a><span>|</span><a href="https://x.com/search?q=SoFi%20WorldCup" target="_blank" rel="noopener">OSINT</a></div>
+            </article>
+            <article class="card city-card" data-risk="medium">
+              <div class="city-head">
+                <div><div class="city-name">San Francisco Bay Area</div><div class="stadium">Levi's Stadium</div></div>
+                <span class="risk-pill medium">MEDIUM</span>
+              </div>
+              <div class="city-links"><a href="https://www.santaclaraca.gov" target="_blank" rel="noopener">Official</a><span>|</span><a href="https://www.mercurynews.com" target="_blank" rel="noopener">Local</a><span>|</span><a href="https://x.com/search?q=Levis%20WorldCup" target="_blank" rel="noopener">OSINT</a></div>
+            </article>
+            <article class="card city-card" data-risk="low">
+              <div class="city-head">
+                <div><div class="city-name">Seattle</div><div class="stadium">Lumen Field</div></div>
+                <span class="risk-pill low">LOW</span>
+              </div>
+              <div class="city-links"><a href="https://seattle.gov" target="_blank" rel="noopener">Official</a><span>|</span><a href="https://www.seattletimes.com" target="_blank" rel="noopener">Local</a><span>|</span><a href="https://x.com/search?q=Seattle%20WorldCup" target="_blank" rel="noopener">OSINT</a></div>
+            </article>
+            <article class="card city-card" data-risk="low">
+              <div class="city-head">
+                <div><div class="city-name">Vancouver</div><div class="stadium">BC Place</div></div>
+                <span class="risk-pill low">LOW</span>
+              </div>
+              <div class="city-links"><a href="https://vancouver.ca" target="_blank" rel="noopener">Official</a><span>|</span><a href="https://vancouversun.com" target="_blank" rel="noopener">Local</a><span>|</span><a href="https://x.com/search?q=Vancouver%20WorldCup" target="_blank" rel="noopener">OSINT</a></div>
+            </article>
+            <article class="card city-card" data-risk="low">
+              <div class="city-head">
+                <div><div class="city-name">Guadalajara</div><div class="stadium">Estadio Akron</div></div>
+                <span class="risk-pill low">LOW</span>
+              </div>
+              <div class="city-links"><a href="https://guadalajara.gob.mx" target="_blank" rel="noopener">Official</a><span>|</span><a href="https://www.informador.mx" target="_blank" rel="noopener">Local</a><span>|</span><a href="https://x.com/search?q=Guadalajara%20Mundial" target="_blank" rel="noopener">OSINT</a></div>
+            </article>
+          </div>
+        </div>
+
+        <div class="region" id="region-central">
+          <h2 class="region-title">Central Corridor</h2>
+          <div class="city-list">
+            <article class="card city-card" data-risk="high">
+              <div class="city-head">
+                <div><div class="city-name">Mexico City</div><div class="stadium">Estadio Azteca</div></div>
+                <span class="risk-pill high">HIGH</span>
+              </div>
+              <div class="city-links"><a href="https://www.cdmx.gob.mx" target="_blank" rel="noopener">Official</a><span>|</span><a href="https://www.eluniversal.com.mx" target="_blank" rel="noopener">Local</a><span>|</span><a href="https://x.com/search?q=CDMX%20Mundial" target="_blank" rel="noopener">OSINT</a></div>
+            </article>
+            <article class="card city-card" data-risk="medium">
+              <div class="city-head">
+                <div><div class="city-name">Houston</div><div class="stadium">NRG Stadium</div></div>
+                <span class="risk-pill medium">MEDIUM</span>
+              </div>
+              <div class="city-links"><a href="https://www.houstontx.gov" target="_blank" rel="noopener">Official</a><span>|</span><a href="https://www.houstonchronicle.com" target="_blank" rel="noopener">Local</a><span>|</span><a href="https://x.com/search?q=Houston%20WorldCup" target="_blank" rel="noopener">OSINT</a></div>
+            </article>
+            <article class="card city-card" data-risk="medium">
+              <div class="city-head">
+                <div><div class="city-name">Dallas</div><div class="stadium">AT&T Stadium</div></div>
+                <span class="risk-pill medium">MEDIUM</span>
+              </div>
+              <div class="city-links"><a href="https://dallascityhall.com" target="_blank" rel="noopener">Official</a><span>|</span><a href="https://www.dallasnews.com" target="_blank" rel="noopener">Local</a><span>|</span><a href="https://x.com/search?q=Dallas%20WorldCup" target="_blank" rel="noopener">OSINT</a></div>
+            </article>
+            <article class="card city-card" data-risk="medium">
+              <div class="city-head">
+                <div><div class="city-name">Kansas City</div><div class="stadium">Arrowhead Stadium</div></div>
+                <span class="risk-pill medium">MEDIUM</span>
+              </div>
+              <div class="city-links"><a href="https://www.kcmo.gov" target="_blank" rel="noopener">Official</a><span>|</span><a href="https://www.kansascity.com" target="_blank" rel="noopener">Local</a><span>|</span><a href="https://x.com/search?q=Kansas%20City%20WorldCup" target="_blank" rel="noopener">OSINT</a></div>
+            </article>
+            <article class="card city-card" data-risk="low">
+              <div class="city-head">
+                <div><div class="city-name">Monterrey</div><div class="stadium">Estadio BBVA</div></div>
+                <span class="risk-pill low">LOW</span>
+              </div>
+              <div class="city-links"><a href="https://www.monterrey.gob.mx" target="_blank" rel="noopener">Official</a><span>|</span><a href="https://www.elnorte.com" target="_blank" rel="noopener">Local</a><span>|</span><a href="https://x.com/search?q=Monterrey%20Mundial" target="_blank" rel="noopener">OSINT</a></div>
+            </article>
+          </div>
+        </div>
+
+        <div class="region" id="region-eastern">
+          <h2 class="region-title">Eastern Corridor</h2>
+          <div class="city-list">
+            <article class="card city-card" data-risk="medium">
+              <div class="city-head">
+                <div><div class="city-name">New York/New Jersey</div><div class="stadium">MetLife Stadium</div></div>
+                <span class="risk-pill medium">MEDIUM</span>
+              </div>
+              <div class="city-links"><a href="https://www.nj.gov" target="_blank" rel="noopener">Official</a><span>|</span><a href="https://www.nytimes.com" target="_blank" rel="noopener">Local</a><span>|</span><a href="https://x.com/search?q=MetLife%20WorldCup" target="_blank" rel="noopener">OSINT</a></div>
+            </article>
+            <article class="card city-card" data-risk="medium">
+              <div class="city-head">
+                <div><div class="city-name">Toronto</div><div class="stadium">BMO Field</div></div>
+                <span class="risk-pill medium">MEDIUM</span>
+              </div>
+              <div class="city-links"><a href="https://www.toronto.ca" target="_blank" rel="noopener">Official</a><span>|</span><a href="https://www.thestar.com" target="_blank" rel="noopener">Local</a><span>|</span><a href="https://x.com/search?q=Toronto%20WorldCup" target="_blank" rel="noopener">OSINT</a></div>
+            </article>
+            <article class="card city-card" data-risk="medium">
+              <div class="city-head">
+                <div><div class="city-name">Atlanta</div><div class="stadium">Mercedes-Benz Stadium</div></div>
+                <span class="risk-pill medium">MEDIUM</span>
+              </div>
+              <div class="city-links"><a href="https://www.atlantaga.gov" target="_blank" rel="noopener">Official</a><span>|</span><a href="https://www.ajc.com" target="_blank" rel="noopener">Local</a><span>|</span><a href="https://x.com/search?q=Atlanta%20WorldCup" target="_blank" rel="noopener">OSINT</a></div>
+            </article>
+            <article class="card city-card" data-risk="medium">
+              <div class="city-head">
+                <div><div class="city-name">Miami</div><div class="stadium">Hard Rock Stadium</div></div>
+                <span class="risk-pill medium">MEDIUM</span>
+              </div>
+              <div class="city-links"><a href="https://www.miamigov.com" target="_blank" rel="noopener">Official</a><span>|</span><a href="https://www.miamiherald.com" target="_blank" rel="noopener">Local</a><span>|</span><a href="https://x.com/search?q=Miami%20WorldCup" target="_blank" rel="noopener">OSINT</a></div>
+            </article>
+            <article class="card city-card" data-risk="low">
+              <div class="city-head">
+                <div><div class="city-name">Boston</div><div class="stadium">Gillette Stadium</div></div>
+                <span class="risk-pill low">LOW</span>
+              </div>
+              <div class="city-links"><a href="https://www.boston.gov" target="_blank" rel="noopener">Official</a><span>|</span><a href="https://www.boston.com" target="_blank" rel="noopener">Local</a><span>|</span><a href="https://x.com/search?q=Boston%20WorldCup" target="_blank" rel="noopener">OSINT</a></div>
+            </article>
+            <article class="card city-card" data-risk="low">
+              <div class="city-head">
+                <div><div class="city-name">Philadelphia</div><div class="stadium">Lincoln Financial Field</div></div>
+                <span class="risk-pill low">LOW</span>
+              </div>
+              <div class="city-links"><a href="https://www.phila.gov" target="_blank" rel="noopener">Official</a><span>|</span><a href="https://www.inquirer.com" target="_blank" rel="noopener">Local</a><span>|</span><a href="https://x.com/search?q=Philadelphia%20WorldCup" target="_blank" rel="noopener">OSINT</a></div>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TIMELINE -->
+    <section id="timeline" class="tab-pane">
+      <h2 class="section-head">Forward Operations Timeline</h2>
+      <div class="card table-card">
+        <table class="timeline">
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>City</th>
+              <th>Security Event / Operation</th>
+              <th>Alert Tier</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Jun 04</td>
+              <td>Mexico City</td>
+              <td>Stadium security rehearsal – major road closures around Azteca</td>
+              <td><span class="impact high">HIGH</span></td>
+            </tr>
+            <tr>
+              <td>Jun 05</td>
+              <td>Los Angeles</td>
+              <td>UNITE HERE Local 11 potential strike mobilization deadline</td>
+              <td><span class="impact high">HIGH</span></td>
+            </tr>
+            <tr>
+              <td>Jun 06</td>
+              <td>New York/NJ</td>
+              <td>Port Authority and NJ State Police gridlock test – Lincoln Tunnel</td>
+              <td><span class="impact medium">MEDIUM</span></td>
+            </tr>
+            <tr>
+              <td>Jun 07</td>
+              <td>Toronto</td>
+              <td>CBSA border simulation – Peace Bridge transit delays expected</td>
+              <td><span class="impact medium">MEDIUM</span></td>
+            </tr>
+            <tr>
+              <td>Jun 08</td>
+              <td>Miami</td>
+              <td>FIFA Integrity Task Force remote deployment check</td>
+              <td><span class="impact medium">MEDIUM</span></td>
+            </tr>
+            <tr>
+              <td>Jun 09</td>
+              <td>Dallas</td>
+              <td>AT&T Stadium anti-drone detection systems live test (FAA TFR)</td>
+              <td><span class="impact medium">MEDIUM</span></td>
+            </tr>
+            <tr>
+              <td>Jun 10</td>
+              <td>North America</td>
+              <td>Joint US/Canada/Mexico Ebola screening protocols fully active</td>
+              <td><span class="impact medium">MEDIUM</span></td>
+            </tr>
+            <tr>
+              <td>Jun 11</td>
+              <td>Mexico City</td>
+              <td><strong>OPENING MATCH:</strong> Mexico vs. South Africa (Estadio Azteca)</td>
+              <td><span class="impact high">HIGH</span></td>
+            </tr>
+            <tr>
+              <td>Jun 11</td>
+              <td>Guadalajara</td>
+              <td><strong>MATCH:</strong> South Korea vs. Czechia (Estadio Akron)</td>
+              <td><span class="impact low">LOW</span></td>
+            </tr>
+            <tr>
+              <td>Jun 12</td>
+              <td>Los Angeles</td>
+              <td><strong>US OPENER:</strong> USA vs. Paraguay (SoFi) - Watch for ICE protests</td>
+              <td><span class="impact high">HIGH</span></td>
+            </tr>
+            <tr>
+              <td>Jun 12</td>
+              <td>Toronto</td>
+              <td><strong>CAN OPENER:</strong> Canada vs. Bosnia & Herzegovina (BMO Field)</td>
+              <td><span class="impact medium">MEDIUM</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- SOURCES -->
+    <section id="sources" class="tab-pane">
+      <div class="sources-grid">
+        <div class="card">
+          <h2 class="section-head" style="margin-bottom:16px">OSINT Hashtag Tracker</h2>
+          <div class="hashtags">
+            <span class="tag">#WorldCup2026</span>
+            <span class="tag">#FIFA2026</span>
+            <span class="tag">#WeAre26</span>
+            <span class="tag">#SoFiStrike</span>
+            <span class="tag">#MetLifeTraffic</span>
+            <span class="tag">#Azteca</span>
+            <span class="tag">#UNITEHERE</span>
+            <span class="tag">#ICE</span>
+            <span class="tag">#EbolaScreening</span>
+            <span class="tag">#WorldCupScam</span>
+          </div>
+        </div>
+        <div class="card">
+          <h2 class="section-head" style="margin-bottom:8px">Multilingual Keyword Matrix</h2>
+          <div class="keyword-grid">
+            <div>
+              <h4>English</h4>
+              <ul>
+                <li>strike / union</li>
+                <li>protest / ICE</li>
+                <li>fake tickets</li>
+                <li>drone ban</li>
+              </ul>
+            </div>
+            <div>
+              <h4>Spanish</h4>
+              <ul>
+                <li>huelga</li>
+                <li>protesta / ICE</li>
+                <li>boletos falsos</li>
+                <li>cierre vial</li>
+              </ul>
+            </div>
+            <div>
+              <h4>French</h4>
+              <ul>
+                <li>grève</li>
+                <li>manifestation</li>
+                <li>fraude billet</li>
+                <li>interdiction drone</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+<script>
+  // UTC Clock
+  function updateClock() {
+    const now = new Date();
+    const h = String(now.getUTCHours()).padStart(2,'0');
+    const m = String(now.getUTCMinutes()).padStart(2,'0');
+    const s = String(now.getUTCSeconds()).padStart(2,'0');
+    document.getElementById('utc-clock').textContent = `${h}:${m}:${s} UTC`;
+  }
+  updateClock();
+  setInterval(updateClock, 1000);
+
+  // Countdown
+  function updateCountdown() {
+    const target = new Date('2026-06-11T00:00:00Z');
+    const now = new Date();
+    const diff = target - now;
+    const days = Math.max(0, Math.ceil(diff / (1000*60*60*24)));
+    document.getElementById('countdown').textContent = `T-${days} days`;
+  }
+  updateCountdown();
+
+  // Tabs
+  document.querySelectorAll('.tabs button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tabs button').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('.tab-pane').forEach(p => p.classList.remove('active'));
+      btn.classList.add('active');
+      document.getElementById(btn.dataset.tab).classList.add('active');
+    });
+  });
+
+  // Filters with Empty State Logic
+  let activeFilter = null;
+  document.querySelectorAll('.filter').forEach(f => {
+    f.addEventListener('click', () => {
+      const level = f.dataset.level;
+      
+      if (activeFilter === level) {
+        activeFilter = null;
+        document.querySelectorAll('.filter').forEach(x => x.classList.remove('active'));
+        document.querySelectorAll('[data-risk]').forEach(el => el.classList.remove('hidden'));
+        document.querySelectorAll('.region').forEach(r => r.classList.remove('hidden'));
+      } else {
+        activeFilter = level;
+        document.querySelectorAll('.filter').forEach(x => x.classList.toggle('active', x === f));
+        
+        // Hide/Show individual cards
+        document.querySelectorAll('[data-risk]').forEach(el => {
+          el.classList.toggle('hidden', el.dataset.risk !== level);
+        });
+
+        // Hide empty region wrappers in the Cities tab
+        document.querySelectorAll('.region').forEach(region => {
+          const visibleCities = Array.from(region.querySelectorAll('.city-card')).filter(c => !c.classList.contains('hidden'));
+          region.classList.toggle('hidden', visibleCities.length === 0);
+        });
+      }
+    });
+  });
+
+  // Quick Actions
+  document.getElementById('open-wires').addEventListener('click', () => {
+    window.open('https://news.google.com/search?q=%22World+Cup+2026%22+OR+%22FIFA+2026%22+when:1d','_blank','noopener');
+  });
+
+  // Clipboard functionality with iframe fallback
+  document.getElementById('copy-checklist').addEventListener('click', () => {
+    const date = new Date().toISOString().split('T')[0];
+    const text = `FIFA WC26 Daily Checklist — ${date}
+- [ ] Check SoFi UNITE HERE Local 11 strike vote status
+- [ ] Monitor ICE/CBP bulletins & new Ebola travel protocols
+- [ ] Review FAA NOTAMs for drone TFRs
+- [ ] Check Meta/Visa reports for ticket scams
+- [ ] Review hashtag spikes: #WorldCup2026, #SoFiStrike, #ICE`;
+
+    // Robust copy method for iframes
+    const copyToClipboard = (str) => {
+      if (navigator && navigator.clipboard && navigator.clipboard.writeText) {
+        return navigator.clipboard.writeText(str);
+      }
+      return new Promise((resolve, reject) => {
+        const el = document.createElement('textarea');
+        el.value = str;
+        el.setAttribute('readonly', '');
+        el.style.position = 'absolute';
+        el.style.left = '-9999px';
+        document.body.appendChild(el);
+        el.select();
+        try {
+          document.execCommand('copy');
+          resolve();
+        } catch (err) {
+          reject(err);
+        }
+        document.body.removeChild(el);
+      });
+    };
+
+    const btn = document.getElementById('copy-checklist');
+    const origHTML = btn.innerHTML;
+    
+    copyToClipboard(text).then(() => {
+      btn.innerHTML = `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg> Copied!`;
+      btn.style.borderColor = "#059669";
+      setTimeout(() => {
+        btn.innerHTML = origHTML;
+        btn.style.borderColor = "";
+      }, 2000);
+    }).catch(err => {
+      console.error('Failed to copy', err);
+      btn.textContent = 'Copy Failed';
+      setTimeout(() => btn.innerHTML = origHTML, 2000);
+    });
+  });
+</script>
+</body>
+</html>
