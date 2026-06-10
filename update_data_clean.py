@@ -33,21 +33,32 @@ timeline = []
 
 for article in news.get("articles", []):
 
-    headline = article.get("title", "Unknown headline")
+    headline = article.get("title", "")
 
-    prompt = f"""
-You are a FIFA World Cup security analyst.
+    response = model.generate_content(f"""
+You are a FIFA World Cup 2026 intelligence analyst.
 
-Classify this headline:
+Determine if this headline is relevant to:
 
+- FIFA World Cup 2026
+- Host cities
+- Stadium security
+- Fan zones
+- Crowd management
+- Transportation
+- Public safety
+- Terrorism
+- Protests
+- Major events affecting tournament operations
+
+Headline:
 {headline}
 
-Return ONLY one of:
+Answer ONLY YES or NO.
+""")
 
-P1 CRITICAL
-P2 MEDIUM
-P3 LOW
-"""
+    if "YES" not in response.text.upper():
+        continue
 
     severity = "P3 LOW"
 
