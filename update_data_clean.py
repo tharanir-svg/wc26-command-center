@@ -10,7 +10,12 @@ genai.configure(
     api_key=os.environ["GEMINI_API_KEY"]
 )
 
-model = genai.GenerativeModel("gemini-1.5-flash")
+print("AVAILABLE MODELS:")
+
+for m in genai.list_models():
+    print(m.name)
+
+model = genai.GenerativeModel("gemini-2.0-flash")
 
 url = (
     f"https://newsapi.org/v2/everything?"
@@ -44,9 +49,7 @@ P2 MEDIUM
 P3 LOW
 """
 
-    result = model.generate_content(prompt)
-
-    severity = result.text.strip()
+    severity = "P3 LOW"
 
     color = "amber"
 
