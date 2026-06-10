@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WC26 Command Center</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 24px; background: #0b1220; color: #e5e7eb; }
+    .card { background: #111827; border: 1px solid #374151; border-radius: 12px; padding: 16px; margin-bottom: 16px; }
+    .tag { display: inline-block; padding: 4px 8px; border-radius: 999px; font-size: 12px; margin-right: 8px; }
+    .amber { background: #78350f; color: #fde68a; }
+    .red { background: #7f1d1d; color: #fecaca; }
+    .green { background: #064e3b; color: #a7f3d0; }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { padding: 10px; border-bottom: 1px solid #374151; text-align: left; }
+    a { color: #93c5fd; }
+    .muted { color: #9ca3af; }
+  </style>
+</head>
+<body>
+  <h1>FIFA WORLD CUP 2026 – Global Security Desk</h1>
+  <p class="muted">Last update: <span id="lastUpdated">Loading...</span></p>
+
+  <div class="card">
+    <h2>Core Risk Intelligence</h2>
+    <div id="risks">Loading data...</div>
+  </div>
+
+  <div class="card">
+    <h2>Threat Monitoring Timeline</h2>
+    <table>
+      <thead>
+        <tr><th>Date</th><th>Location</th><th>Event</th><th>Impact</th></tr>
+      </thead>
+      <tbody id="timeline"></tbody>
+    </table>
+  </div>
+
+  <script>
+    async function loadData() {
+      try {
+        const response = await fetch('./data.json?t=' + Date.now(), { cache: 'no-store' });
+        if (!response.ok) throw new Error('HTTP ' + response.status);
+        const data = await response.json();
+
+        document.getElementById('lastUpdated').textContent = data.lastUpdated || 'Unknown';
+
+        const risksEl = document.getElementById('risks');
+        risksEl.innerHTML = '';
+        (data.risks || []).forEach(risk => {
+          const div = document.createElement('div');
+          const sevClass = risk.severityColor === 'red' ? 'red' : 'amber';
+          const statusClass = risk.statusColor === 'emerald' ? 'green' : 'amber';
+          div.className = 'card';
+          div.innerHTML = `
+            <h3>${risk.title || 'Untitled risk'}</h3>
+            <p>
+              <span class="tag ${sevClass}">${risk.severityText || 'N/A'}</span>
+              <span class="tag ${statusClass}">${risk.status || 'N/A'}</span>
+            </p>
+            <p>${risk.description || ''}</p>
+            <div>${(risk.links || []).map(link => `<div><a href="${link.url}" target="_blank" rel="noopener noreferrer">${link.label || link.url}</a></div>`).join('')}</div>
+          `;
+          risksEl.appendChild(div);
+        });
+        if ((data.risks || []).length === 0) {
+          risksEl.innerHTML = '<p class="muted">No risks available.</p>';
+        }
+
+        const timelineEl = document.getElementById('timeline');
+        timelineEl.innerHTML = '';
+        (data.timeline || []).forEach(item => {
+          const tr = document.createElement('tr');
+          tr.innerHTML = `<td>${item.date || ''}</td><td>${item.loc || ''}</td><td>${item.event || ''}</td><td>${item.impact || ''}</td>`;
+          timelineEl.appendChild(tr);
+        });
+        if ((data.timeline || []).length === 0) {
+          timelineEl.innerHTML = '<tr><td colspan="4" class="muted">No timeline entries available.</td></tr>';
+        }
+      } catch (err) {
+        document.body.innerHTML += `<p style="color:#fca5a5">Failed to load data.json: ${err.message}</p>`;
+        console.error(err);
+      }
+    }
+    loadData();
+  </script>
+</body>
+</html>
