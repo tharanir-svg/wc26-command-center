@@ -15,7 +15,7 @@ print("AVAILABLE MODELS:")
 for m in genai.list_models():
     print(m.name)
 
-model = genai.GenerativeModel("gemini-2.0-flash")
+model = genai.GenerativeModel("gemini-flash-latest")
 
 url = (
     f"https://newsapi.org/v2/everything?"
