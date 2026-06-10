@@ -302,15 +302,14 @@ P3 = Advisory / informational
     })
 
     timeline.append({
-        "date": datetime.utcnow().strftime("%b %d"),
-        "loc": city,
-        "event": title,
-        "type": "News",
-        "confidence": "Confirmed",
-        "risk": risk_level,
-        "impact": severity_text
-    })
-
+    "date": datetime.utcnow().strftime("%b %d"),
+    "loc": city,
+    "event": title,
+    "type": "News",
+    "confidence": "Confirmed",
+    "risk": risk_level,
+    "impact": severity_text
+})
 # --------------------------------------------------
 # FALLBACK
 # --------------------------------------------------
