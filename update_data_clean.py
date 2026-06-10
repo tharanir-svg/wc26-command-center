@@ -19,7 +19,7 @@ model = genai.GenerativeModel("gemini-flash-latest")
 
 url = (
     f"https://newsapi.org/v2/everything?"
-    f"q=(FIFA OR World Cup OR stadium OR fan zone)"
+    f"q=("FIFA World Cup 2026" OR "World Cup 2026" OR FIFA)"
     f"&language=en"
     f"&sortBy=publishedAt"
     f"&pageSize=5"
