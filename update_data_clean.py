@@ -50,10 +50,18 @@ response = requests.get(url, timeout=30)
 
 print("News API status:", response.status_code)
 
-news = response.json()
-
-articles = news.get("articles", [])
-
+if response.status_code != 200:
+    print("News API failed")
+    print(response.text)
+    articles = []
+else:
+    try:
+        news = response.json()
+        articles = news.get("articles", [])
+    except Exception as e:
+        print("JSON parse error:", e)
+        print(response.text)
+        articles = []
 print(f"Articles returned: {len(articles)}")
 
 print("\n===== ARTICLES RETURNED =====")
@@ -153,8 +161,19 @@ for article in articles:
     # REQUIRE WC26 TERMS
     # ----------------------------------------------
 
-    if not any(term in content for term in required_terms):
-        continue
+    worldcup_terms = [
+    "fifa world cup",
+    "2026 fifa world cup",
+    "world cup 2026",
+    "2026 world cup",
+    "host city",
+    "world cup security",
+    "world cup stadium",
+    "fan zone"
+]
+
+if not any(term in content for term in worldcup_terms):
+    continue
 
     # ----------------------------------------------
     # GEMINI RELEVANCE CHECK
