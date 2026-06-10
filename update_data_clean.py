@@ -255,7 +255,7 @@ P3 = Advisory / informational
 
         print("Severity:", severity)
 
-    except Exception as e:
+except Exception as e:
     print("Gemini error:", e)
     continue
 
