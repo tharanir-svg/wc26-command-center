@@ -814,7 +814,7 @@ function renderTimeline(events) {
 
 async function loadDashboard() {
   try {
-    const response = await fetch("/api/wc-dashboard");
+    const response = await fetch("./data.json");
     const data = await response.json();
 
     renderRisks(data.risks);
