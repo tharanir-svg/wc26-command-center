@@ -30,7 +30,7 @@ jobs:
 
       - name: Run updater
         env:
-          APISPORTS_KEY: ${{ secrets.APISPORTS_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python update_data.py
 
       - name: Commit and push changes
