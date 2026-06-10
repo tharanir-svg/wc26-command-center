@@ -379,4 +379,3 @@ print("=" * 60)
 print(f"Saved {len(risks)} risk items")
 print("data.json updated successfully")
 print("=" * 60)
-```
