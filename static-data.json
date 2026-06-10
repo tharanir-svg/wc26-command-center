@@ -1,3 +1,4 @@
+```json
 {
   "dashboardTitle": "FIFA World Cup 2026 – Global Security Desk",
 
@@ -6,15 +7,136 @@
     "hostCities": 16
   },
 
+  "metrics": {
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+
+  "watchlist": [
+    {
+      "team": "Argentina",
+      "location": "Miami",
+      "note": "High fan concentration"
+    },
+    {
+      "team": "Brazil",
+      "location": "Orlando",
+      "note": "Traffic congestion expected"
+    },
+    {
+      "team": "USA",
+      "location": "Atlanta",
+      "note": "Enhanced perimeter security"
+    },
+    {
+      "team": "France",
+      "location": "Dallas",
+      "note": "Heavy media presence"
+    }
+  ],
+
   "hostCities": [
     {
-      "name": "New York"
+      "region": "Western",
+      "name": "Los Angeles",
+      "stadium": "SoFi Stadium",
+      "risk": "high"
     },
     {
-      "name": "Toronto"
+      "region": "Western",
+      "name": "San Francisco Bay Area",
+      "stadium": "Levi's Stadium",
+      "risk": "medium"
     },
     {
-      "name": "Mexico City"
+      "region": "Western",
+      "name": "Seattle",
+      "stadium": "Lumen Field",
+      "risk": "low"
+    },
+    {
+      "region": "Western",
+      "name": "Vancouver",
+      "stadium": "BC Place",
+      "risk": "low"
+    },
+    {
+      "region": "Western",
+      "name": "Guadalajara",
+      "stadium": "Estadio Akron",
+      "risk": "low"
+    },
+    {
+      "region": "Central",
+      "name": "Mexico City",
+      "stadium": "Estadio Azteca",
+      "risk": "high"
+    },
+    {
+      "region": "Central",
+      "name": "Houston",
+      "stadium": "NRG Stadium",
+      "risk": "medium"
+    },
+    {
+      "region": "Central",
+      "name": "Dallas",
+      "stadium": "AT&T Stadium",
+      "risk": "medium"
+    },
+    {
+      "region": "Central",
+      "name": "Kansas City",
+      "stadium": "Arrowhead Stadium",
+      "risk": "medium"
+    },
+    {
+      "region": "Central",
+      "name": "Monterrey",
+      "stadium": "Estadio BBVA",
+      "risk": "low"
+    },
+    {
+      "region": "Eastern",
+      "name": "New York / New Jersey",
+      "stadium": "MetLife Stadium",
+      "risk": "medium"
+    },
+    {
+      "region": "Eastern",
+      "name": "Toronto",
+      "stadium": "BMO Field",
+      "risk": "medium"
+    },
+    {
+      "region": "Eastern",
+      "name": "Atlanta",
+      "stadium": "Mercedes-Benz Stadium",
+      "risk": "medium"
+    },
+    {
+      "region": "Eastern",
+      "name": "Miami",
+      "stadium": "Hard Rock Stadium",
+      "risk": "medium"
+    },
+    {
+      "region": "Eastern",
+      "name": "Boston",
+      "stadium": "Gillette Stadium",
+      "risk": "low"
+    },
+    {
+      "region": "Eastern",
+      "name": "Philadelphia",
+      "stadium": "Lincoln Financial Field",
+      "risk": "low"
     }
-  ]
+  ],
+
+  "risks": [],
+
+  "timeline": []
 }
+```
