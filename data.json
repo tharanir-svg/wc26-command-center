@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 4,
-    "p3": 25
+    "p3": 26
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "FIFA faces scrutiny over US immigration policies impacting 2026 World Cup access",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "US immigration policies could undermine the 2026 World Cup's global inclusivity, affecting attendance, perception, and FIFA's commercial interests.\nThe post FIFA faces scrutiny over US immigration policies impacting 2026 World Cup access appeared first on Cry\u2026",
+      "timestamp": "2026-06-10T21:39:12.117734Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cryptobriefing.com/fifa-us-immigration-world-cup-access/"
+        }
+      ]
+    },
+    {
+      "title": "Watch: Is the US ready to host the 2026 World Cup?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The BBC\u2019s Nada Tawfik reports on readiness concerns in the New York-New Jersey region, where eight matches will take place.",
+      "timestamp": "2026-06-10T21:39:12.117790Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.com/news/videos/cr5jm635q3yo"
+        }
+      ]
+    },
+    {
       "title": "Are 2026 World Cup tickets still available? How to buy last-minute seats",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With the 2026 FIFA World Cup set to begin in just a few days, tickets are still available for select matches. The 2026 FIFA World Cup will officially kick off on Thursday, June 11, with the opening ceremony at Estadio Azteca, followed by the Group A match bet\u2026",
-      "timestamp": "2026-06-10T21:30:54.565354Z",
+      "timestamp": "2026-06-10T21:39:12.117843Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Stadium Wonders: How Atlanta\u2019s Mercedes-Benz Stadium Became World Cup-ReadySports Illustrated From Spain to Haiti, here\u2019s one thing about World Cup teams playing in AtlantaAJC.com State and city cooperation key to Atlanta's World Cup traffic plan11Alive.com I\u2026",
-      "timestamp": "2026-06-10T21:30:54.565557Z",
+      "timestamp": "2026-06-10T21:39:12.117966Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "CBC Sports' daily newsletter previews the 2026 World Cup, where defending champion Argentina and co-host Canada are among the 48 nations competing in soccer's biggest event.",
-      "timestamp": "2026-06-10T21:30:54.565591Z",
+      "timestamp": "2026-06-10T21:39:12.117989Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Telemundo is chasing the Super Streamer with a multiplatform, interactive strategy that stretches well beyond the broadcast.",
-      "timestamp": "2026-06-10T21:30:54.565653Z",
+      "timestamp": "2026-06-10T21:39:12.118045Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A German soccer fan named Freddy is documenting his 2026 World Cup road trip through the American South, visiting Waffle House, Helen, Georgia, and more.",
-      "timestamp": "2026-06-10T21:30:54.565707Z",
+      "timestamp": "2026-06-10T21:39:12.118094Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The United States Women\u2019s National Team and Brazil meet again on Tuesday night in Fortaleza, closing out a two-match friendly series between two of the top teams in women\u2019s soccer. MORE: 2026 FIFA World Cup: USA national team games, locations\u2026",
-      "timestamp": "2026-06-10T21:30:54.565741Z",
+      "timestamp": "2026-06-10T21:39:12.118124Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Argentina vs Iceland live streams \u2013 including for FREE \u2013 with Scaloni sweating over Messi's injury status ahead of the World Cup warm-up.",
-      "timestamp": "2026-06-10T21:30:54.565771Z",
+      "timestamp": "2026-06-10T21:39:12.118150Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +262,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "When the U.S. faces Paraguay on Friday, attendees will have no issues when it comes to buying a beer or a hot dog.",
-      "timestamp": "2026-06-10T21:30:54.565907Z",
+      "timestamp": "2026-06-10T21:39:12.118274Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +276,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "When the U.S. faces Paraguay on Friday, attendees will have no issues when it comes to buying a beer or a hot dog.",
-      "timestamp": "2026-06-10T21:30:54.565923Z",
+      "timestamp": "2026-06-10T21:39:12.118287Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "For the U.S. men\u2019s national team to deliver a memorable run at the 2026 FIFA World Cup, Mauricio Pochettino will need his star players to lead and his supporting cast to step up. Less than half of Pochettino\u2019s World Cup roster were involved at the 2022 editio\u2026",
-      "timestamp": "2026-06-10T21:30:54.565954Z",
+      "timestamp": "2026-06-10T21:39:12.118316Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mbappe, Messi, Yamal, and the world's other top soccer stars collide in North America this summer. Here's how to catch all the big goals with these streaming services or a VPN.\nEvery four years, fans from around the globe pack stadiums, living rooms, and bars\u2026",
-      "timestamp": "2026-06-10T21:30:54.565985Z",
+      "timestamp": "2026-06-10T21:39:12.118345Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The grass at Arrowhead Stadium is ready for the World Cup. Concerns about the condition of the field are dispelled. International soccer fans were worried about injuries, slippages, and overall playability. Fortunately, a plan is in place to ensure that every\u2026",
-      "timestamp": "2026-06-10T21:30:54.566245Z",
+      "timestamp": "2026-06-10T21:39:12.118618Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mexico and Curacao have become central to a growing debate about whether travel demands could quietly shape the destiny of teams across North America. The 2026 FIFA World Cup is just two days away, but conversations around the tournament can also shift beyond\u2026",
-      "timestamp": "2026-06-10T21:30:54.566294Z",
+      "timestamp": "2026-06-10T21:39:12.118667Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi's Argentina will face Iceland in their final friendly before the 2026 FIFA World Cup. Argentina will play their final warmup match before their 2026 FIFA World Cup opener on Tuesday. They will take on Iceland at Jordan-Hare Stadium in Auburn, Ala\u2026",
-      "timestamp": "2026-06-10T21:30:54.566326Z",
+      "timestamp": "2026-06-10T21:39:12.118701Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup, jointly hosted by the U.S., Canada and Mexico, is the biggest yet. The 48-team tournament, comprising 104 games, kicks off Thursday and anticipation is growing. But, it has been a contentious build-up. Exorbitant ticket prices and transpor\u2026",
-      "timestamp": "2026-06-10T21:30:54.566357Z",
+      "timestamp": "2026-06-10T21:39:12.118732Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain enters the 2026 FIFA World Cup as the favorite, but concerns over one player's availability could shape its path to victory.",
-      "timestamp": "2026-06-10T21:30:54.566380Z",
+      "timestamp": "2026-06-10T21:39:12.118757Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England, ranked fourth, aims for glory after recent finals appearances. Croatia, ranked eleventh, has a strong World Cup history, reaching the final in 2018. Ghana, ranked seventy-fourth, seeks to advance past the group stage. Panama, ranked thirty-third, mak\u2026",
-      "timestamp": "2026-06-10T21:30:54.566439Z",
+      "timestamp": "2026-06-10T21:39:12.118814Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mexico have slipped slightly in CONCACAF's hierarchy but have a chance to make a statement at the 2026 World Cup",
-      "timestamp": "2026-06-10T21:30:54.566468Z",
+      "timestamp": "2026-06-10T21:39:12.118833Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup is the biggest single-sport event on the planet and has delivered numerous historical moments, from Diego Maradona's \"hand of God\" in 1986 to Zinedine Zidane's infamous headbutt on Marco Materazzi.",
-      "timestamp": "2026-06-10T21:30:54.566514Z",
+      "timestamp": "2026-06-10T21:39:12.118878Z",
       "links": [
         {
           "label": "Source",
@@ -402,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Goa sees little buzz ahead of the 2026 FIFA World Cup, as late-night TV timings, high costs and travel issues dampen excitement despite football\u2019s state-sport status.",
-      "timestamp": "2026-06-10T21:30:54.566541Z",
+      "timestamp": "2026-06-10T21:39:12.118904Z",
       "links": [
         {
           "label": "Source",
@@ -416,7 +444,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "The threat of SoFi Stadium workers striking during the World Cup ended when the workers and stadium operator reached a deal, per a union spokesperson.",
-      "timestamp": "2026-06-10T21:30:54.566655Z",
+      "timestamp": "2026-06-10T21:39:12.119014Z",
       "links": [
         {
           "label": "Source",
@@ -430,7 +458,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Stadium workers near LA say they have a tentative deal, averting strike ahead of World Cup",
-      "timestamp": "2026-06-10T21:30:54.566673Z",
+      "timestamp": "2026-06-10T21:39:12.119032Z",
       "links": [
         {
           "label": "Source",
@@ -444,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "As a service to tri-state soccer fans, The Post rounded up some of the primo bars where cash-strapped aficionados can get their football fill without emptying the bank.",
-      "timestamp": "2026-06-10T21:30:54.566750Z",
+      "timestamp": "2026-06-10T21:39:12.119103Z",
       "links": [
         {
           "label": "Source",
@@ -458,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The exclusion of Somali referee Omar Artan hardens the contradiction at the heart of the 2026 World Cup: a global tournament increasingly shaped by the politics of exclusion.",
-      "timestamp": "2026-06-10T21:30:54.566770Z",
+      "timestamp": "2026-06-10T21:39:12.119122Z",
       "links": [
         {
           "label": "Source",
@@ -472,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Soccer Fans Can Build, Trade and Collect Custom BofA Fan Bands Featuring 140 Unique Beads Inspired by Iconic Host Cities and Teams Key points Bank of America, the Official Bank of FIFA World Cup 2026\u2122, distributing more than 2 million BofA Fan Bands and 10 mi\u2026",
-      "timestamp": "2026-06-10T21:30:54.566828Z",
+      "timestamp": "2026-06-10T21:39:12.119178Z",
       "links": [
         {
           "label": "Source",
@@ -486,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The national team entered its clash with Northern Ireland looking to fine-tune preparations, but the evening ended with a historic moment that placed Olise alongside one of the biggest names in French soccer. With the 2026 FIFA World Cup less than two days aw\u2026",
-      "timestamp": "2026-06-10T21:30:54.566861Z",
+      "timestamp": "2026-06-10T21:39:12.119210Z",
       "links": [
         {
           "label": "Source",
@@ -500,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Free tickets will be given out as MetLife Stadium prepares to host the global soccer tournament.",
-      "timestamp": "2026-06-10T21:30:54.566877Z",
+      "timestamp": "2026-06-10T21:39:12.119225Z",
       "links": [
         {
           "label": "Source",
@@ -514,30 +542,34 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "People attend a promotional event for the FIFA World Cup 2026 in Jakarta, Indonesia, on June 7, 2026. The FIFA World Cup 2026, hosted by the United States, Canada, and Mexico, is scheduled to begin on June 11 and will be the first edition of the tournament to\u2026",
-      "timestamp": "2026-06-10T21:30:54.566906Z",
+      "timestamp": "2026-06-10T21:39:12.119257Z",
       "links": [
         {
           "label": "Source",
           "url": "https://gothamist.com/news/mamdani-plans-world-cup-know-your-rights-blitz-for-nyc-workers-immigrants"
         }
       ]
-    },
-    {
-      "title": "New York Mayor Zohran Mamdani slams Trump immigration policies as World Cup 2026 looms",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Mamdani's critique highlights the tension between restrictive immigration policies and the inclusive spirit of global events like the World Cup.\nThe post New York Mayor Zohran Mamdani slams Trump immigration policies as World Cup 2026 looms appeared first on \u2026",
-      "timestamp": "2026-06-10T21:30:54.566949Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/mamdani-criticizes-trump-immigration-world-cup/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jun 10",
+      "loc": "Global",
+      "event": "FIFA faces scrutiny over US immigration policies impacting 2026 World Cup access",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 10",
+      "loc": "Global",
+      "event": "Watch: Is the US ready to host the 2026 World Cup?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
     {
       "date": "Jun 10",
       "loc": "Mexico City",
@@ -789,16 +821,7 @@
       "confidence": "Confirmed",
       "risk": "low",
       "impact": "P3 ADVISORY"
-    },
-    {
-      "date": "Jun 10",
-      "loc": "Global",
-      "event": "New York Mayor Zohran Mamdani slams Trump immigration policies as World Cup 2026 looms",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY"
     }
   ],
-  "lastUpdated": "2026-06-10T21:30:54.567177Z"
+  "lastUpdated": "2026-06-10T21:39:12.119448Z"
 }
