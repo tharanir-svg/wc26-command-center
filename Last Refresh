@@ -862,23 +862,33 @@
     });
   });
 </script>
-       <script>
-async function updateRefreshTime() {
+ <script>
+async function refreshDashboard() {
   try {
-    const response = await fetch('./data.json?t=' + Date.now());
+    const response = await fetch('./data.json?t=' + Date.now(), {
+      cache: 'no-store'
+    });
+
     const data = await response.json();
 
-    document.getElementById('lastRefresh').textContent =
-      new Date(data.lastUpdated).toUTCString();
+    const refreshElement =
+      document.getElementById('lastRefresh');
 
-  } catch (e) {
-    console.error(e);
+    if (refreshElement && data.lastUpdated) {
+      refreshElement.textContent =
+        new Date(data.lastUpdated).toUTCString();
+    }
+
+  } catch (err) {
+    console.error('Dashboard refresh failed:', err);
   }
 }
 
-updateRefreshTime();
+refreshDashboard();
+
+// Auto refresh every 5 minutes
+setInterval(refreshDashboard, 300000);
 </script>
 
 </body>
-</html>
 </html>
