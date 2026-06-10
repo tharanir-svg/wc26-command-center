@@ -80,11 +80,18 @@ P3 LOW
         "impact": severity
     })
 
-data = {
-    "lastUpdated": datetime.utcnow().isoformat() + "Z",
-    "risks": risks,
-    "timeline": timeline
-}
+# Load static dashboard content
+
+with open("static-data.json", "r") as f:
+    data = json.load(f)
+
+# Add live content
+
+data["lastUpdated"] = datetime.utcnow().isoformat() + "Z"
+data["risks"] = risks
+data["timeline"] = timeline
+
+# Save final dashboard file
 
 with open("data.json", "w") as f:
     json.dump(data, f, indent=2)
