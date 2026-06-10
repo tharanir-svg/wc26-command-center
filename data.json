@@ -1,59 +1,89 @@
 {
-  "lastUpdated": "2026-06-10T15:56:04.563656Z",
+  "dashboardTitle": "FIFA World Cup 2026 \u2013 Global Security Desk",
+  "overview": {
+    "status": "Operational",
+    "hostCities": 16
+  },
+  "hostCities": [
+    {
+      "name": "New York"
+    },
+    {
+      "name": "Toronto"
+    },
+    {
+      "name": "Mexico City"
+    }
+  ],
+  "lastUpdated": "2026-06-10T16:25:57.742024Z",
   "risks": [
     {
-      "title": "The Dividend Strategy That Beats the 4% Rule by $400,000 Over 20 Years on a $1 Million Portfolio",
+      "title": "Sensex gains 394 points, Nifty at 23,242 as PSU banks lead fag-end rally",
       "severityText": "P3 LOW",
       "severityColor": "amber",
       "status": "VERIFIED",
       "statusColor": "emerald",
-      "description": "A 65-year-old retiree with $1 million who follows the standard 4% rule withdraws $40,000 in the first year, then increases that amount over time to keep pace...",
+      "description": "Indian markets closed firmly higher on 9 June, with PSU banks surging over 3% in a fag-end rally triggered partly by US President Trump's Iran peace-talk signals. While IT and media dragged, the breadth was strong \u2014 mid- and small-caps outpaced the benchmarks\u2026",
       "links": [
         {
           "label": "Source",
-          "url": "https://247wallst.com/personal-finance/2026/06/09/the-dividend-strategy-that-beats-the-4-rule-by-400000-over-20-years-on-a-1-million-portfolio/"
+          "url": "https://www.nationpress.com/business/sensex-up-394-nifty-at-23242-on-psu-bank-surge"
         }
       ]
     },
     {
-      "title": "Braxton Ashcraft Flummoxes the Multitudes",
+      "title": "31,000 MTET qualified aspirants left waiting; JNC demands immediate recruitment of 677 teacher posts",
       "severityText": "P3 LOW",
       "severityColor": "amber",
       "status": "VERIFIED",
       "statusColor": "emerald",
-      "description": "They say you can\u2019t survive as a big league starter without an off-speed pitch. As with all aphorisms, there are exceptions.",
+      "description": "Thousands of Meghalaya youths who have cleared the Meghalaya Teachers Eligibility Test (MTET) are still waiting for an opportunity to secure a teaching job, with many now nearing or crossing the upper age limit. Raising concerns over both unemployment and the\u2026",
       "links": [
         {
           "label": "Source",
-          "url": "https://blogs.fangraphs.com/braxton-ashcraft-flummoxes-the-multitudes/"
+          "url": "https://www.syllad.com/31000-mtet-qualified-aspirants-left-waiting-jnc-demands-immediate-recruitment-of-677-teacher-posts/"
         }
       ]
     },
     {
-      "title": "Tinubu inaugurates EFCC office in Ekiti, hails anti-corruption fight",
+      "title": "Apple-sized rocks four kilometres below the central Pacific Ocean contain more cobalt and manganese than all known land deposits combined, and mining companies are now racing to extract them from one of the least-explored ecosystems on Earth, where over 90 per cent of the local species are still undescribed.",
       "severityText": "P3 LOW",
       "severityColor": "amber",
       "status": "VERIFIED",
       "statusColor": "emerald",
-      "description": "President Tinubu inaugurates the new EFCC zonal office in Ekiti, praising the agency\u2019s anti-corruption efforts and commitment to economic reforms.\n\nRead More: https://punchng.com/tinubu-inaugurates-efcc-office-in-ekiti-hails-anti-corruption-fight/",
+      "description": "The region is called the Clarion-Clipperton Zone. It is approximately six million square kilometres of abyssal plain stretching between Mexico and Hawaii, roughly the width of the continental United States, with an average depth of around 5,000 metres. The se\u2026",
       "links": [
         {
           "label": "Source",
-          "url": "https://punchng.com/tinubu-inaugurates-efcc-office-in-ekiti-hails-anti-corruption-fight/"
+          "url": "https://spacedaily.com/k-apple-sized-rocks-four-kilometres-below-the-central-pacific-ocean-contain-more-cobalt-and-manganese-than-all-known-land-deposits-combined-and-mining-companies-are-now-racing-to-extract-them-from-one/"
         }
       ]
     },
     {
-      "title": "NHSBSA Overseas Healthcare Cost Recovery\u00a0Beta Reassessment",
+      "title": "In praise of Ben Brown",
       "severityText": "P3 LOW",
       "severityColor": "amber",
       "status": "VERIFIED",
       "statusColor": "emerald",
-      "description": "Read about the beta reassessment on overseas healthcare cost recovery from NHSBSA",
+      "description": "The Cubs right-hander has taken his game to a new level.",
       "links": [
         {
           "label": "Source",
-          "url": "https://digitalhealth.blog.gov.uk/2026/06/09/nhsbsa-overseas-healthcare-cost-recovery-beta-reassessment/"
+          "url": "https://www.bleedcubbieblue.com/chicago-cubs-analysis/220946/ben-brown-praise-cubs"
+        }
+      ]
+    },
+    {
+      "title": "KTC M27T6S review",
+      "severityText": "P3 LOW",
+      "severityColor": "amber",
+      "status": "VERIFIED",
+      "statusColor": "emerald",
+      "description": "This budget KTC does local dimming better than many much pricier mini-LED panels.",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.pcgamer.com/hardware/gaming-monitors/ktc-m27t6s-review/"
         }
       ]
     }
@@ -62,25 +92,31 @@
     {
       "date": "Jun 10",
       "loc": "Global",
-      "event": "The Dividend Strategy That Beats the 4% Rule by $400,000 Over 20 Years on a $1 Million Portfolio",
+      "event": "Sensex gains 394 points, Nifty at 23,242 as PSU banks lead fag-end rally",
       "impact": "P3 LOW"
     },
     {
       "date": "Jun 10",
       "loc": "Global",
-      "event": "Braxton Ashcraft Flummoxes the Multitudes",
+      "event": "31,000 MTET qualified aspirants left waiting; JNC demands immediate recruitment of 677 teacher posts",
       "impact": "P3 LOW"
     },
     {
       "date": "Jun 10",
       "loc": "Global",
-      "event": "Tinubu inaugurates EFCC office in Ekiti, hails anti-corruption fight",
+      "event": "Apple-sized rocks four kilometres below the central Pacific Ocean contain more cobalt and manganese than all known land deposits combined, and mining companies are now racing to extract them from one of the least-explored ecosystems on Earth, where over 90 per cent of the local species are still undescribed.",
       "impact": "P3 LOW"
     },
     {
       "date": "Jun 10",
       "loc": "Global",
-      "event": "NHSBSA Overseas Healthcare Cost Recovery\u00a0Beta Reassessment",
+      "event": "In praise of Ben Brown",
+      "impact": "P3 LOW"
+    },
+    {
+      "date": "Jun 10",
+      "loc": "Global",
+      "event": "KTC M27T6S review",
       "impact": "P3 LOW"
     }
   ]
