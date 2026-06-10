@@ -808,24 +808,27 @@ function renderRisks(risks) {
   }
 
   grid.innerHTML = risks.map(risk => `
-    <article class="card risk-card" data-risk="${risk.level}">
-      <div class="card-head">
-        <h3>${risk.title}</h3>
-        <span class="risk-pill ${risk.level}">
-          ${risk.severityText || risk.level}
-        </span>
-      </div>
+  <article class="card risk-card"
+           data-risk="${risk.risk || risk.level || 'P3'}">
 
-      <div class="meta-tags">
-        <span class="status-tag ${risk.statusClass || ''}">
-          ${risk.status || ''}
-        </span>
-      </div>
+    <div class="card-head">
+      <h3>${risk.title}</h3>
 
-      <p class="desc">${risk.description || ''}</p>
-    </article>
-  `).join('');
-}
+      <span class="risk-pill">
+        ${risk.severityText || ''}
+      </span>
+    </div>
+
+    <div class="meta-tags">
+      <span class="status-tag">
+        ${risk.status || ''}
+      </span>
+    </div>
+
+    <p class="desc">${risk.description || ''}</p>
+
+  </article>
+`).join('');}
 
 function renderTimeline(timeline) {
   const container = document.getElementById("timeline");
