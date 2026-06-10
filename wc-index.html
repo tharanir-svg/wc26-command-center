@@ -847,4 +847,19 @@
   });
 </script>
 </body>
+  async function loadDashboard() {
+  try {
+    const response = await fetch("/api/wc-dashboard");
+    const data = await response.json();
+
+    renderOverview(data);
+    renderRisks(data.risks);
+    renderTimeline(data.timeline);
+
+  } catch (err) {
+    console.error("Dashboard load failed", err);
+  }
+}
+
+loadDashboard();
 </html>
