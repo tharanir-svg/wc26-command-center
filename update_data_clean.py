@@ -17,24 +17,26 @@ genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 # --------------------------------------------------
-# FETCH WORLD CUP NEWS
+# NEWS SEARCH
 # --------------------------------------------------
 
 url = (
     "https://newsapi.org/v2/everything?"
     'q=("FIFA World Cup 2026" OR '
-    '"2026 World Cup" OR '
+    '"2026 FIFA World Cup" OR '
     '"World Cup security" OR '
-    '"World Cup stadium" OR '
     '"World Cup host city" OR '
+    '"World Cup stadium" OR '
+    '"World Cup transportation" OR '
     '"World Cup fan zone" OR '
     '"MetLife Stadium" OR '
     '"SoFi Stadium" OR '
     '"Estadio Azteca" OR '
-    '"BMO Field")'
+    '"BMO Field" OR '
+    '"Hard Rock Stadium")'
     "&language=en"
     "&sortBy=publishedAt"
-    "&pageSize=50"
+    "&pageSize=100"
     f"&apiKey={NEWS_API_KEY}"
 )
 
@@ -54,12 +56,14 @@ print(f"Articles returned: {len(articles)}")
 required_terms = [
     "fifa",
     "world cup",
+    "2026 fifa world cup",
     "2026 world cup",
     "host city",
     "stadium",
-    "security",
     "fan zone",
+    "security",
     "crowd",
+    "transport",
     "transportation",
     "protest",
     "terror",
@@ -72,8 +76,8 @@ required_terms = [
     "mercedes-benz stadium",
     "gillette stadium",
     "lincoln financial field",
-    "lumen field",
-    "levi's stadium"
+    "levi's stadium",
+    "lumen field"
 ]
 
 blocked_terms = [
@@ -83,42 +87,28 @@ blocked_terms = [
     "stocks",
     "share market",
     "teacher",
-    "school",
     "education",
+    "school",
     "mining",
-    "bitcoin",
     "crypto",
-    "movie",
-    "celebrity",
-    "music",
+    "bitcoin",
     "gaming",
     "review",
     "monitor",
     "iphone",
     "android",
+    "movie",
+    "music",
+    "celebrity",
+    "fashion",
     "baseball",
     "mlb",
     "nba",
-    "nfl",
-    "nhl",
-    "fashion"
-]
-
-trusted_sources = [
-    "reuters",
-    "associated press",
-    "ap",
-    "bbc",
-    "cnn",
-    "abc",
-    "cbs",
-    "fox",
-    "espn",
-    "the athletic"
+    "nhl"
 ]
 
 # --------------------------------------------------
-# PROCESS ARTICLES
+# PROCESS
 # --------------------------------------------------
 
 risks = []
@@ -127,30 +117,19 @@ timeline = []
 for article in articles:
 
     title = article.get("title", "")
+    description = article.get("description", "") or ""
 
     if not title:
         continue
 
-    title_lower = title.lower()
+    content = f"{title} {description}".lower()
 
-    # Block junk articles
-    if any(term in title_lower for term in blocked_terms):
+    if any(term in content for term in blocked_terms):
+        print("BLOCKED:", title)
         continue
 
-    # Require WC terms
-    if not any(term in title_lower for term in required_terms):
+    if not any(term in content for term in required_terms):
         continue
-
-    # Trusted sources only
-    source_name = article.get("source", {}).get("name", "").lower()
-
-    if source_name:
-        if not any(src in source_name for src in trusted_sources):
-            continue
-
-    # --------------------------------------------------
-    # GEMINI RELEVANCE CHECK
-    # --------------------------------------------------
 
     try:
 
@@ -161,30 +140,25 @@ You are a FIFA World Cup 2026 intelligence analyst.
 Headline:
 {title}
 
-Return YES only if this headline directly relates to:
+Description:
+{description}
+
+Return YES only if directly related to:
 
 - FIFA World Cup 2026
 - Host city operations
 - Stadium operations
-- Security incidents
 - Public safety
-- Transportation disruption
+- Transportation
 - Fan zones
 - Crowd management
-- Protest activity
+- Protests affecting tournament operations
+- Security threats
 - Terror threats
 
-Return NO for:
+Return NO otherwise.
 
-- Finance
-- Stocks
-- Entertainment
-- Product reviews
-- Education
-- Mining
-- Unrelated sports
-
-Return only YES or NO.
+Output ONLY YES or NO.
 """
         )
 
@@ -193,18 +167,16 @@ Return only YES or NO.
 
         severity_response = model.generate_content(
 f"""
-Classify this World Cup headline.
+Classify this World Cup event.
 
 Headline:
 {title}
 
-Return only:
+Return ONLY:
 
 P1
 P2
 P3
-
-Definitions:
 
 P1 = Critical threat
 P2 = Operational disruption
@@ -219,10 +191,6 @@ P3 = Advisory / informational
         print("Gemini error:", e)
         severity = "P3"
 
-    # --------------------------------------------------
-    # SEVERITY MAPPING
-    # --------------------------------------------------
-
     if severity == "P1":
         risk_level = "high"
         severity_text = "P1 CRITICAL"
@@ -235,10 +203,6 @@ P3 = Advisory / informational
         risk_level = "low"
         severity_text = "P3 LOW"
 
-    # --------------------------------------------------
-    # CITY DETECTION
-    # --------------------------------------------------
-
     city = "Global"
 
     city_map = {
@@ -250,25 +214,23 @@ P3 = Advisory / informational
         "mercedes-benz": "Atlanta",
         "gillette": "Boston",
         "lincoln financial": "Philadelphia",
-        "lumen": "Seattle",
-        "levi": "San Francisco"
+        "levi": "San Francisco Bay Area",
+        "lumen": "Seattle"
     }
 
     for key, value in city_map.items():
-        if key in title_lower:
+        if key in content:
             city = value
             break
 
-    # --------------------------------------------------
-    # DASHBOARD RISK CARD
-    # --------------------------------------------------
+    print("KEEPING:", title)
 
     risks.append({
         "title": title,
         "risk": risk_level,
         "severityText": severity_text,
         "status": "VERIFIED",
-        "description": article.get("description", ""),
+        "description": description,
         "timestamp": datetime.utcnow().isoformat() + "Z",
         "links": [
             {
@@ -300,7 +262,7 @@ if len(risks) == 0:
             "risk": "low",
             "severityText": "P3 LOW",
             "status": "VERIFIED",
-            "description": "No significant World Cup operational disruptions found during latest monitoring cycle.",
+            "description": "No verified FIFA World Cup 2026 operational or security disruptions identified during this monitoring cycle.",
             "timestamp": datetime.utcnow().isoformat() + "Z",
             "links": []
         }
@@ -314,7 +276,7 @@ if len(risks) == 0:
             "type": "System",
             "confidence": "Confirmed",
             "risk": "low",
-            "impact": "No significant events"
+            "impact": "P3 LOW"
         }
     ]
 
@@ -329,14 +291,10 @@ with open("static-data.json", "r") as f:
 # METRICS
 # --------------------------------------------------
 
-p1 = len([r for r in risks if r["risk"] == "high"])
-p2 = len([r for r in risks if r["risk"] == "medium"])
-p3 = len([r for r in risks if r["risk"] == "low"])
-
 data["metrics"] = {
-    "p1": p1,
-    "p2": p2,
-    "p3": p3
+    "p1": len([r for r in risks if r["risk"] == "high"]),
+    "p2": len([r for r in risks if r["risk"] == "medium"]),
+    "p3": len([r for r in risks if r["risk"] == "low"])
 }
 
 # --------------------------------------------------
