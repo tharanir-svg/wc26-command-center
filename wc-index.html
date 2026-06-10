@@ -274,90 +274,7 @@
       <h2 class="section-head">Core Risk Intelligence</h2>
 <div class="risk-grid" id="riskGrid"></div>
         
-        <!-- Risk Card 1 -->
-        <article class="card risk-card" data-risk="high">
-          <div class="card-head">
-            <h3>SoFi Stadium Labor Strike</h3>
-            <span class="risk-pill high">P1 HIGH</span>
-          </div>
-          <div class="meta-tags">
-            <span class="status-tag verified">Verified</span>
-            <span class="timestamp">Updated: 03 Jun, 10:15 UTC</span>
-          </div>
-          <p class="desc">UNITE HERE Local 11 (2,000+ workers) explicitly threatening walk-out action if ICE operates near SoFi. 120+ civil rights groups issued travel warnings.</p>
-          <div class="card-links">
-            <a href="https://unitehere11.org/press/world-cup-strike-authorization" target="_blank" rel="noopener">unitehere11.org/press/world-cup-strike-authorization</a>
-            <a href="https://aclu.org/news/travel-advisory-los-angeles-world-cup" target="_blank" rel="noopener">aclu.org/news/travel-advisory-los-angeles-world-cup</a>
-          </div>
-        </article>
-
-        <!-- Risk Card 2 -->
-        <article class="card risk-card" data-risk="high">
-          <div class="card-head">
-            <h3>Ebola Travel Restrictions</h3>
-            <span class="risk-pill high">P1 HIGH</span>
-          </div>
-          <div class="meta-tags">
-            <span class="status-tag verified">Verified</span>
-            <span class="timestamp">Updated: 02 Jun, 22:00 UTC</span>
-          </div>
-          <p class="desc">US, Mexico, and Canada issue Joint Statement on strict public health travel measures and entry screening for individuals coming from specific high-risk African regions.</p>
-          <div class="card-links">
-            <a href="https://dhs.gov/news/2026/06/02/joint-north-american-health-protocols-wc26" target="_blank" rel="noopener">dhs.gov/news/2026/06/02/joint-north-american-health-protocols-wc26</a>
-            <a href="https://canada.ca/en/public-health/services/world-cup-2026-entry" target="_blank" rel="noopener">canada.ca/en/public-health/services/world-cup-2026-entry</a>
-          </div>
-        </article>
-
-        <!-- Risk Card 3 -->
-        <article class="card risk-card" data-risk="medium">
-          <div class="card-head">
-            <h3>Infrastructure & Drone Bans</h3>
-            <span class="risk-pill medium">P2 MED</span>
-          </div>
-          <div class="meta-tags">
-            <span class="status-tag planned">Planned Event</span>
-            <span class="timestamp">Updated: 03 Jun, 09:00 UTC</span>
-          </div>
-          <p class="desc">FAA officially issues Temporary Flight Restrictions (TFR) expanding to a 2-nautical-mile radius around all US stadiums. NJ State Police deploying counter-UAS teams.</p>
-          <div class="card-links">
-            <a href="https://tfr.faa.gov/save_pages/detail_6_5542.html" target="_blank" rel="noopener">tfr.faa.gov/save_pages/detail_6_5542.html</a>
-            <a href="https://nj.gov/njsp/information/wc-security-brief.shtml" target="_blank" rel="noopener">nj.gov/njsp/information/wc-security-brief.shtml</a>
-          </div>
-        </article>
-
-        <!-- Risk Card 4 -->
-        <article class="card risk-card" data-risk="medium">
-          <div class="card-head">
-            <h3>Cyber Fraud & Scams</h3>
-            <span class="risk-pill medium">P2 MED</span>
-          </div>
-          <div class="meta-tags">
-            <span class="status-tag verified">Verified</span>
-            <span class="timestamp">Updated: 01 Jun, 14:20 UTC</span>
-          </div>
-          <p class="desc">Meta launches anti-scam AI taskforce to tackle the "World Cup Scam Economy" involving fake ticket transfers via WhatsApp and localized crypto fraud.</p>
-          <div class="card-links">
-            <a href="https://about.fb.com/news/2026/06/protecting-world-cup-fans" target="_blank" rel="noopener">about.fb.com/news/2026/06/protecting-world-cup-fans</a>
-            <a href="https://fifa.com/tickets/fraud-prevention-alert-june" target="_blank" rel="noopener">fifa.com/tickets/fraud-prevention-alert-june</a>
-          </div>
-        </article>
-
-        <!-- Risk Card 5 -->
-        <article class="card risk-card" data-risk="low">
-          <div class="card-head">
-            <h3>Geopolitical Tensions / Transit Blockade</h3>
-            <span class="risk-pill low">P3 LOW</span>
-          </div>
-          <div class="meta-tags">
-            <span class="status-tag rumor">Rumor / Watchlist</span>
-            <span class="timestamp">Updated: 03 Jun, 11:45 UTC</span>
-          </div>
-          <p class="desc">Unconfirmed chatter on Telegram channels regarding coordinated pro-Palestinian sit-ins planned near MetLife transit hubs for the weekend of June 13.</p>
-          <div class="card-links">
-            <a href="https://news.google.com/search?q=nyc+protest+metlife+transit" target="_blank" rel="noopener">internal.gsd.portal/intel/report-88392-ny-nj-protest</a>
-            <a href="https://x.com/search?q=NYC+Protest+Metlife" target="_blank" rel="noopener">t.me/nyc_action_alerts/992 (Requires VPN)</a>
-          </div>
-        </article>
+     
       </div>
     </section>
 
@@ -847,12 +764,53 @@
   });
 </script>
 </body>
-  async function loadDashboard() {
+ function renderRisks(risks) {
+  const grid = document.getElementById("riskGrid");
+
+  grid.innerHTML = risks.map(risk => `
+    <article class="card risk-card" data-risk="low">
+      <div class="card-head">
+        <h3>${risk.title}</h3>
+        <span class="risk-pill low">${risk.severityText}</span>
+      </div>
+
+      <div class="meta-tags">
+        <span class="status-tag verified">${risk.status}</span>
+      </div>
+
+      <p class="desc">${risk.description}</p>
+
+      <div class="card-links">
+        ${risk.links.map(link => `
+          <a href="${link.url}" target="_blank">
+            ${link.label}
+          </a>
+        `).join("")}
+      </div>
+    </article>
+  `).join("");
+}
+
+function renderTimeline(events) {
+  const body = document.getElementById("timelineBody");
+
+  body.innerHTML = events.map(event => `
+    <tr data-risk="low">
+      <td>${event.date}</td>
+      <td>${event.loc}</td>
+      <td>${event.event}</td>
+      <td><span class="tl-type">INTEL</span></td>
+      <td><span class="tl-conf confirmed">Verified</span></td>
+      <td><span class="impact low">${event.impact}</span></td>
+    </tr>
+  `).join("");
+}
+
+async function loadDashboard() {
   try {
     const response = await fetch("/api/wc-dashboard");
     const data = await response.json();
 
-    renderOverview(data);
     renderRisks(data.risks);
     renderTimeline(data.timeline);
 
@@ -862,4 +820,5 @@
 }
 
 loadDashboard();
+  
 </html>
