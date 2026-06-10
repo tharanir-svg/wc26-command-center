@@ -1,12 +1,10 @@
-print("UPDATE SCRIPT VERSION 2025-06-11")
 import os
 import json
 import requests
 from datetime import datetime
-import google.generativeai as genai
 
 print("=" * 60)
-print("RUNNING UPDATE_DATA_CLEAN.PY")
+print("RUNNING WC26 INTEL UPDATE")
 print("=" * 60)
 
 # --------------------------------------------------
@@ -14,11 +12,6 @@ print("=" * 60)
 # --------------------------------------------------
 
 NEWS_API_KEY = os.environ["NEWS_API_KEY"]
-GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
-
-genai.configure(api_key=GEMINI_API_KEY)
-
-model = genai.GenerativeModel("gemini-2.0-flash")
 
 # --------------------------------------------------
 # NEWS SEARCH
@@ -28,17 +21,12 @@ url = (
     "https://newsapi.org/v2/everything?"
     'q=("FIFA World Cup 2026" OR '
     '"2026 FIFA World Cup" OR '
-    '"World Cup security" OR '
-    '"World Cup host city" OR '
-    '"World Cup stadium" OR '
-    '"World Cup transportation" OR '
-    '"World Cup fan zone" OR '
-    '"MetLife Stadium" OR '
-    '"SoFi Stadium" OR '
-    '"Estadio Azteca" OR '
-    '"BMO Field" OR '
-    '"Hard Rock Stadium" OR '
-    '"Mercedes-Benz Stadium")'
+    '("World Cup" AND security) OR '
+    '("World Cup" AND transportation) OR '
+    '("World Cup" AND protest) OR '
+    '("World Cup" AND stadium) OR '
+    '("World Cup" AND host city) OR '
+    '("World Cup" AND fan zone))'
     "&language=en"
     "&sortBy=publishedAt"
     "&pageSize=100"
@@ -47,60 +35,45 @@ url = (
 
 print("Fetching articles...")
 
-response = requests.get(url, timeout=30)
+try:
 
-print("News API status:", response.status_code)
+    response = requests.get(url, timeout=30)
 
-if response.status_code != 200:
-    print("News API failed")
-    print(response.text)
-    articles = []
-else:
-    try:
+    print("News API status:", response.status_code)
+
+    if response.status_code != 200:
+
+        print("News API Error")
+        print(response.text)
+
+        articles = []
+
+    else:
+
         news = response.json()
         articles = news.get("articles", [])
-    except Exception as e:
-        print("JSON parse error:", e)
-        print(response.text)
-        articles = []
+
+except Exception as e:
+
+    print("News API request failed:", e)
+    articles = []
+
 print(f"Articles returned: {len(articles)}")
-
-print("\n===== ARTICLES RETURNED =====")
-
-for article in articles[:50]:
-    print("-", article.get("title", "NO TITLE"))
-
-print("=============================\n")
 
 # --------------------------------------------------
 # FILTERS
 # --------------------------------------------------
 
-required_terms = [
-    "fifa",
-    "world cup",
+worldcup_terms = [
+    "fifa world cup",
     "2026 fifa world cup",
+    "world cup 2026",
     "2026 world cup",
     "host city",
-    "stadium",
     "fan zone",
-    "security",
-    "crowd",
-    "transport",
-    "transportation",
-    "protest",
-    "terror",
-    "terrorism",
-    "metlife",
-    "sofi",
-    "azteca",
-    "bmo field",
-    "hard rock stadium",
-    "mercedes-benz stadium",
-    "gillette stadium",
-    "lincoln financial field",
-    "levi's stadium",
-    "lumen field"
+    "world cup security",
+    "world cup stadium",
+    "world cup transportation"
 ]
 
 blocked_terms = [
@@ -109,22 +82,21 @@ blocked_terms = [
     "stock",
     "stocks",
     "share market",
+    "recruitment",
     "teacher",
     "education",
     "school",
-    "recruitment",
     "mining",
-    "bitcoin",
     "crypto",
+    "bitcoin",
     "gaming",
-    "monitor",
-    "review",
+    "monitor review",
+    "iphone",
+    "android",
     "movie",
     "music",
     "celebrity",
     "fashion",
-    "iphone",
-    "android",
     "baseball",
     "mlb",
     "nba",
@@ -155,112 +127,60 @@ for article in articles:
     # ----------------------------------------------
 
     if any(term in content for term in blocked_terms):
+
         print("BLOCKED:", title)
         continue
 
     # ----------------------------------------------
-    # REQUIRE WC26 TERMS
+    # REQUIRE WORLD CUP TERMS
     # ----------------------------------------------
 
-    worldcup_terms = [
-    "fifa world cup",
-    "2026 fifa world cup",
-    "world cup 2026",
-    "2026 world cup",
-    "host city",
-    "world cup security",
-    "world cup stadium",
-    "fan zone"
-]
+    if not any(term in content for term in worldcup_terms):
 
-if not any(term in content for term in worldcup_terms):
-    continue
+        print("NOT WC26:", title)
+        continue
 
     # ----------------------------------------------
-    # GEMINI RELEVANCE CHECK
+    # SEVERITY CLASSIFICATION
     # ----------------------------------------------
 
-    try:
+    severity = "P3"
 
-        relevance = model.generate_content(
-f"""
-You are a FIFA World Cup 2026 intelligence analyst.
+    critical_terms = [
+        "terror",
+        "terrorism",
+        "bomb",
+        "shooting",
+        "attack",
+        "riot",
+        "stampede",
+        "evacuation",
+        "active shooter",
+        "casualties"
+    ]
 
-Headline:
-{title}
+    disruption_terms = [
+        "protest",
+        "strike",
+        "closure",
+        "transport disruption",
+        "security incident",
+        "crowd issue",
+        "traffic congestion",
+        "demonstration",
+        "delays"
+    ]
 
-Description:
-{description}
+    if any(term in content for term in critical_terms):
 
-Return YES only if this article directly relates to:
+        severity = "P1"
 
-- FIFA World Cup 2026
-- Host city operations
-- Stadium operations
-- Public safety
-- Security
-- Transportation disruption
-- Fan zones
-- Crowd management
-- Protest activity
-- Terror threats
+    elif any(term in content for term in disruption_terms):
 
-Return NO for:
-
-- Finance
-- Stocks
-- Mining
-- Education
-- Product reviews
-- Entertainment
-- Unrelated sports
-
-Output ONLY YES or NO.
-"""
-        )
-
-        relevance_text = relevance.text.strip().upper()
-
-        print("Gemini relevance:", relevance_text)
-
-        if "YES" not in relevance_text:
-            print("REJECTED:", title)
-            continue
-
-        severity_response = model.generate_content(
-f"""
-Classify this FIFA World Cup 2026 event.
-
-Headline:
-{title}
-
-Description:
-{description}
-
-Return ONLY:
-
-P1
-P2
-P3
-
-Definitions:
-
-P1 = Critical threat
-P2 = Operational disruption
-P3 = Advisory / informational
-"""
-        )
-
-        severity = severity_response.text.strip().upper()
-
-        print("Severity:", severity)
-
-except Exception as e:
-    print("Gemini error:", e)
-    continue
+        severity = "P2"
 
     # ----------------------------------------------
-    # SEVERITY
+    # RISK LABEL
     # ----------------------------------------------
 
     if severity == "P1":
@@ -271,15 +191,15 @@ except Exception as e:
     elif severity == "P2":
 
         risk_level = "medium"
-        severity_text = "P2 MEDIUM"
+        severity_text = "P2 DISRUPTION"
 
     else:
 
         risk_level = "low"
-        severity_text = "P3 LOW"
+        severity_text = "P3 ADVISORY"
 
     # ----------------------------------------------
-    # CITY DETECTION
+    # HOST CITY DETECTION
     # ----------------------------------------------
 
     city = "Global"
@@ -294,11 +214,18 @@ except Exception as e:
         "gillette": "Boston",
         "lincoln financial": "Philadelphia",
         "levi": "San Francisco Bay Area",
-        "lumen": "Seattle"
+        "lumen": "Seattle",
+        "vancouver": "Vancouver",
+        "houston": "Houston",
+        "dallas": "Dallas",
+        "kansas city": "Kansas City",
+        "monterrey": "Monterrey"
     }
 
     for key, value in city_map.items():
+
         if key in content:
+
             city = value
             break
 
@@ -320,14 +247,15 @@ except Exception as e:
     })
 
     timeline.append({
-    "date": datetime.utcnow().strftime("%b %d"),
-    "loc": city,
-    "event": title,
-    "type": "News",
-    "confidence": "Confirmed",
-    "risk": risk_level,
-    "impact": severity_text
-})
+        "date": datetime.utcnow().strftime("%b %d"),
+        "loc": city,
+        "event": title,
+        "type": "News",
+        "confidence": "Confirmed",
+        "risk": risk_level,
+        "impact": severity_text
+    })
+
 # --------------------------------------------------
 # FALLBACK
 # --------------------------------------------------
@@ -338,11 +266,14 @@ if len(risks) == 0:
 
     risks = [
         {
-            "title": "No active public safety incidents detected",
+            "title": "No active World Cup security issues detected",
             "risk": "low",
-            "severityText": "P3 LOW",
+            "severityText": "P3 ADVISORY",
             "status": "VERIFIED",
-            "description": "No verified FIFA World Cup 2026 operational or security disruptions identified during this monitoring cycle.",
+            "description": (
+                "No verified FIFA World Cup 2026 operational, "
+                "transportation or security disruptions detected."
+            ),
             "timestamp": datetime.utcnow().isoformat() + "Z",
             "links": []
         }
@@ -356,21 +287,25 @@ if len(risks) == 0:
             "type": "System",
             "confidence": "Confirmed",
             "risk": "low",
-            "impact": "P3 LOW"
+            "impact": "P3 ADVISORY"
         }
     ]
 
 # --------------------------------------------------
 # LOAD STATIC DATA
 # --------------------------------------------------
-print("Loading:", os.path.abspath("static-data.json"))
-with open("static-data.json", "r", encoding="utf-8") as f:
-    raw = f.read()
 
-print("STATIC DATA LENGTH:", len(raw))
-print(raw[:500])
+try:
 
-data = json.loads(raw)
+    with open("static-data.json", "r", encoding="utf-8") as f:
+
+        data = json.load(f)
+
+except Exception as e:
+
+    print("Failed to load static-data.json")
+    print(e)
+    raise
 
 # --------------------------------------------------
 # METRICS
@@ -394,7 +329,8 @@ data["timeline"] = timeline
 # SAVE
 # --------------------------------------------------
 
-with open("data.json", "w") as f:
+with open("data.json", "w", encoding="utf-8") as f:
+
     json.dump(data, f, indent=2)
 
 print()
