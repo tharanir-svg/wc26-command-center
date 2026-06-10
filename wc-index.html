@@ -760,57 +760,7 @@
       }
     });
   });
-</script>
-</body>
-function renderRisks(risks) {
-  const grid = document.getElementById("riskGrid");
-
-  grid.innerHTML = risks.map(risk => `
-    <article class="card risk-card" data-risk="${risk.level}">
-      <div class="card-head">
-        <h3>${risk.title}</h3>
-        <span class="risk-pill ${risk.level}">
-          ${risk.severityText}
-        </span>
-      </div>
-
-      <div class="meta-tags">
-        <span class="status-tag ${risk.statusClass}">
-          ${risk.status}
-        </span>
-      </div>
-
-      <p class="desc">${risk.description}</p>
-
-      <div class="card-links">
-        ${risk.links.map(link => `
-          <a href="${link.url}" target="_blank">
-            ${link.label}
-          </a>
-        `).join("")}
-      </div>
-    </article>
-  `).join("");
-}
-
-function renderTimeline(events) {
-  const body = document.getElementById("timelineBody");
-
-  body.innerHTML = events.map(event => `
-    <tr data-risk="${event.level}">
-      <td>${event.date}</td>
-      <td>${event.loc}</td>
-      <td>${event.event}</td>
-      <td><span class="tl-type">${event.type}</span></td>
-      <td><span class="tl-conf">${event.confidence}</span></td>
-      <td>
-        <span class="impact ${event.level}">
-          ${event.impact}
-        </span>
-      </td>
-    </tr>
-  `).join("");
-}
+  <script>
 
 async function loadDashboard() {
   try {
@@ -829,6 +779,56 @@ async function loadDashboard() {
     console.error("Dashboard load failed:", err);
   }
 }
+
+function renderRisks(risks) {
+  const grid = document.getElementById("riskGrid");
+
+  if (!grid) {
+    console.error("riskGrid element not found");
+    return;
+  }
+
+  grid.innerHTML = risks.map(risk => `
+    <article class="card risk-card" data-risk="${risk.level}">
+      <div class="card-head">
+        <h3>${risk.title}</h3>
+        <span class="risk-pill ${risk.level}">
+          ${risk.severityText || risk.level}
+        </span>
+      </div>
+
+      <div class="meta-tags">
+        <span class="status-tag ${risk.statusClass || ''}">
+          ${risk.status || ''}
+        </span>
+      </div>
+
+      <p class="desc">${risk.description || ''}</p>
+    </article>
+  `).join("");
+}
+
+function renderTimeline(timeline) {
+  const container = document.getElementById("timeline");
+
+  if (!container) {
+    console.error("timeline element not found");
+    return;
+  }
+
+  container.innerHTML = timeline.map(item => `
+    <div class="timeline-item">
+      <div class="timeline-date">${item.date}</div>
+      <div class="timeline-content">
+        <h4>${item.title}</h4>
+        <p>${item.description || ''}</p>
+      </div>
+    </div>
+  `).join("");
+}
+
 loadDashboard();
-  
+
+</script>
+</body>
 </html>
