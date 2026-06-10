@@ -731,32 +731,54 @@
   });
 
   // Filters with Empty State Logic (Now applies to Risk Cards, City Cards, AND Timeline Rows)
-  let activeFilter = null;
-  document.querySelectorAll('.filter').forEach(f => {
-    f.addEventListener('click', () => {
-      const level = f.dataset.level;
-      
-      if (activeFilter === level) {
-        // Reset everything if clicking the active filter again
-        activeFilter = null;
-        document.querySelectorAll('.filter').forEach(x => x.classList.remove('active'));
-        document.querySelectorAll('[data-risk]').forEach(el => el.classList.remove('hidden'));
-        document.querySelectorAll('.region').forEach(r => r.classList.remove('hidden'));
-      } else {
-        // Apply filter
-        activeFilter = level;
-        document.querySelectorAll('.filter').forEach(x => x.classList.toggle('active', x === f));
-        
-        // Hide/Show individual cards AND timeline table rows based on data-risk attribute
-        document.querySelectorAll('.region').forEach(region => {
-  const visibleCities =
-    Array.from(region.querySelectorAll('.city-card'))
-      .filter(c => !c.classList.contains('hidden'));
+ // Filters
+let activeFilter = null;
 
-  region.classList.toggle('hidden', visibleCities.length === 0);
-});
+document.querySelectorAll('.filter').forEach(f => {
+  f.addEventListener('click', () => {
 
-}
+    const level = f.dataset.level;
+
+    if (activeFilter === level) {
+
+      activeFilter = null;
+
+      document.querySelectorAll('.filter')
+        .forEach(x => x.classList.remove('active'));
+
+      document.querySelectorAll('[data-risk]')
+        .forEach(el => el.classList.remove('hidden'));
+
+      document.querySelectorAll('.region')
+        .forEach(r => r.classList.remove('hidden'));
+
+    } else {
+
+      activeFilter = level;
+
+      document.querySelectorAll('.filter')
+        .forEach(x => x.classList.toggle('active', x === f));
+
+      document.querySelectorAll('[data-risk]')
+        .forEach(el => {
+          el.classList.toggle('hidden', el.dataset.risk !== level);
+        });
+
+      document.querySelectorAll('.region').forEach(region => {
+
+        const visibleCities =
+          Array.from(region.querySelectorAll('.city-card'))
+            .filter(c => !c.classList.contains('hidden'));
+
+        region.classList.toggle(
+          'hidden',
+          visibleCities.length === 0
+        );
+
+      });
+    }
+
+  });
 });
 
 async function loadDashboard() {
