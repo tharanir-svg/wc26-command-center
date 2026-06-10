@@ -25,7 +25,7 @@ jobs:
         run: python --version
 
       - name: Run the data generator
-        run: python update_data.py
+        run: python update_data_clean.py
 
       - name: Confirm generated dataset
         run: |
@@ -38,3 +38,4 @@ jobs:
         with:
           commit_message: "Auto-update threat intel [skip ci]"
           file_pattern: data.json
+``
