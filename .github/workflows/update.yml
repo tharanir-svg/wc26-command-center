@@ -2,7 +2,7 @@ name: Auto-Update Dashboard Data
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: "0 */4 * * *"
   workflow_dispatch:
 
 permissions:
@@ -14,17 +14,17 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Show Python version
         run: python --version
 
-      - name: Run the data generator
+      - name: Run data generator
         run: python update_data_clean.py
 
       - name: Confirm generated dataset
@@ -34,8 +34,7 @@ jobs:
           echo "data.json generated successfully"
 
       - name: Commit updated dataset
-        uses: stefanzweifel/git-auto-commit-action@v7
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-update threat intel [skip ci]"
           file_pattern: data.json
-``
