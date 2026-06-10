@@ -274,8 +274,6 @@
       <h2 class="section-head">Core Risk Intelligence</h2>
 <div class="risk-grid" id="riskGrid"></div>
         
-     
-      </div>
     </section>
 
     <!-- CITIES -->
@@ -764,18 +762,22 @@
   });
 </script>
 </body>
- function renderRisks(risks) {
+function renderRisks(risks) {
   const grid = document.getElementById("riskGrid");
 
   grid.innerHTML = risks.map(risk => `
-    <article class="card risk-card" data-risk="low">
+    <article class="card risk-card" data-risk="${risk.level}">
       <div class="card-head">
         <h3>${risk.title}</h3>
-        <span class="risk-pill low">${risk.severityText}</span>
+        <span class="risk-pill ${risk.level}">
+          ${risk.severityText}
+        </span>
       </div>
 
       <div class="meta-tags">
-        <span class="status-tag verified">${risk.status}</span>
+        <span class="status-tag ${risk.statusClass}">
+          ${risk.status}
+        </span>
       </div>
 
       <p class="desc">${risk.description}</p>
@@ -795,13 +797,17 @@ function renderTimeline(events) {
   const body = document.getElementById("timelineBody");
 
   body.innerHTML = events.map(event => `
-    <tr data-risk="low">
+    <tr data-risk="${event.level}">
       <td>${event.date}</td>
       <td>${event.loc}</td>
       <td>${event.event}</td>
-      <td><span class="tl-type">INTEL</span></td>
-      <td><span class="tl-conf confirmed">Verified</span></td>
-      <td><span class="impact low">${event.impact}</span></td>
+      <td><span class="tl-type">${event.type}</span></td>
+      <td><span class="tl-conf">${event.confidence}</span></td>
+      <td>
+        <span class="impact ${event.level}">
+          ${event.impact}
+        </span>
+      </td>
     </tr>
   `).join("");
 }
