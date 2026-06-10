@@ -1,3 +1,4 @@
+print("UPDATE SCRIPT VERSION 2025-06-11")
 import os
 import json
 import requests
@@ -255,10 +256,8 @@ P3 = Advisory / informational
         print("Severity:", severity)
 
     except Exception as e:
-
-        print("Gemini error:", e)
-
-        severity = "P3"
+    print("Gemini error:", e)
+    continue
 
     # ----------------------------------------------
     # SEVERITY
@@ -364,9 +363,14 @@ if len(risks) == 0:
 # --------------------------------------------------
 # LOAD STATIC DATA
 # --------------------------------------------------
+print("Loading:", os.path.abspath("static-data.json"))
+with open("static-data.json", "r", encoding="utf-8") as f:
+    raw = f.read()
 
-with open("static-data.json", "r") as f:
-    data = json.load(f)
+print("STATIC DATA LENGTH:", len(raw))
+print(raw[:500])
+
+data = json.loads(raw)
 
 # --------------------------------------------------
 # METRICS
