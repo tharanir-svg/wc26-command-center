@@ -860,5 +860,27 @@
     });
   });
 </script>
+        <script>
+  loadData();
+</script>
+
+<script>
+async function updateRefreshTime() {
+  try {
+    const response = await fetch('./data.json?t=' + Date.now());
+    const data = await response.json();
+
+    document.getElementById('lastRefresh').textContent =
+      new Date(data.lastUpdated).toUTCString();
+
+  } catch (e) {
+    console.error(e);
+  }
+}
+
+updateRefreshTime();
+</script>
+
 </body>
+</html>
 </html>
