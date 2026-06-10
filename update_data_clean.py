@@ -4,9 +4,9 @@ import requests
 from datetime import datetime
 import google.generativeai as genai
 
-# ----------------------------
-# API KEYS
-# ----------------------------
+# --------------------------------------------------
+# CONFIG
+# --------------------------------------------------
 
 NEWS_API_KEY = os.environ["NEWS_API_KEY"]
 
@@ -14,94 +14,193 @@ genai.configure(
     api_key=os.environ["GEMINI_API_KEY"]
 )
 
-model = genai.GenerativeModel("gemini-flash-latest")
+model = genai.GenerativeModel("gemini-1.5-flash")
 
-# ----------------------------
-# NEWS QUERY
-# ----------------------------
+# --------------------------------------------------
+# WORLD CUP NEWS SEARCH
+# --------------------------------------------------
 
 url = (
     "https://newsapi.org/v2/everything?"
-    "q=FIFA%20World%20Cup%202026"
+    'q=("FIFA World Cup 2026" OR '
+    '"2026 World Cup" OR '
+    '"World Cup security" OR '
+    '"World Cup stadium" OR '
+    '"World Cup host city" OR '
+    '"World Cup fan zone" OR '
+    '"MetLife Stadium" OR '
+    '"SoFi Stadium" OR '
+    '"Estadio Azteca" OR '
+    '"BMO Field")'
     "&language=en"
     "&sortBy=publishedAt"
-    "&pageSize=20"
+    "&pageSize=25"
     f"&apiKey={NEWS_API_KEY}"
 )
 
-print("Fetching news...")
+print("Fetching articles...")
 
-news = requests.get(url).json()
+news = requests.get(url, timeout=30).json()
+
+articles = news.get("articles", [])
+
+print(f"Articles returned: {len(articles)}")
 
 risks = []
 timeline = []
 
-# ----------------------------
-# PROCESS ARTICLES
-# ----------------------------
+# --------------------------------------------------
+# FILTERS
+# --------------------------------------------------
 
-for article in news.get("articles", []):
+required_terms = [
+    "fifa",
+    "world cup",
+    "world cup 2026",
+    "wc26",
+    "host city",
+    "stadium",
+    "fan zone",
+    "metlife",
+    "sofi",
+    "azteca",
+    "bmo field"
+]
+
+blocked_terms = [
+    "sensex",
+    "nifty",
+    "stock",
+    "share market",
+    "teacher",
+    "school",
+    "education",
+    "mining",
+    "bitcoin",
+    "crypto",
+    "entertainment",
+    "movie",
+    "celebrity",
+    "music"
+]
+
+# --------------------------------------------------
+# PROCESS ARTICLES
+# --------------------------------------------------
+
+for article in articles:
 
     headline = article.get("title", "")
-    description = article.get("description", "")
 
-    print(f"Checking: {headline}")
+    if not headline:
+        continue
+
+    headline_lower = headline.lower()
+
+    # hard block
+    if any(term in headline_lower for term in blocked_terms):
+        continue
+
+    # must contain wc-related keywords
+    if not any(term in headline_lower for term in required_terms):
+        continue
 
     try:
 
-        response = model.generate_content(f"""
+        relevance = model.generate_content(
+f"""
 You are a FIFA World Cup 2026 intelligence analyst.
 
-Determine whether this news item is relevant to:
+Determine whether this headline is DIRECTLY relevant to:
 
 - FIFA World Cup 2026
 - Host cities
 - Stadium operations
+- Security
 - Fan zones
-- Public safety
-- Transportation
 - Crowd management
+- Transportation
+- Public safety
 - Terrorism
-- Protests
-- Security threats
-- Border issues
-- Severe weather affecting tournament operations
+- Protests affecting tournament operations
 
 Headline:
 {headline}
 
-Description:
-{description}
-
-Answer ONLY:
+Return ONLY:
 
 YES
+
 or
+
 NO
-""")
+"""
+        )
 
-        decision = response.text.strip().upper()
-
-        if "YES" not in decision:
-            print("Rejected")
+        if "YES" not in relevance.text.upper():
             continue
 
-        print("Accepted")
+        severity_response = model.generate_content(
+f"""
+You are a World Cup security analyst.
+
+Classify this headline.
+
+Headline:
+{headline}
+
+Return ONLY:
+
+P1
+P2
+P3
+
+Definitions:
+
+P1 = Critical threat
+P2 = Operational disruption
+P3 = Advisory / informational
+"""
+        )
+
+        severity = severity_response.text.strip().upper()
 
     except Exception as e:
-        print(f"Gemini filter error: {e}")
-        continue
 
-    severity = "P3 LOW"
-    color = "amber"
+        print("Gemini error:", e)
+
+        severity = "P3"
+
+    # --------------------------------------------------
+    # COLORS
+    # --------------------------------------------------
+
+    if severity == "P1":
+
+        severity_text = "P1 CRITICAL"
+        color = "red"
+
+    elif severity == "P2":
+
+        severity_text = "P2 MEDIUM"
+        color = "orange"
+
+    else:
+
+        severity_text = "P3 LOW"
+        color = "amber"
+
+    # --------------------------------------------------
+    # DASHBOARD CARD
+    # --------------------------------------------------
 
     risks.append({
         "title": headline,
-        "severityText": severity,
+        "severityText": severity_text,
         "severityColor": color,
         "status": "VERIFIED",
         "statusColor": "emerald",
-        "description": description,
+        "description": article.get("description", ""),
         "links": [
             {
                 "label": "Source",
@@ -114,29 +213,31 @@ NO
         "date": datetime.utcnow().strftime("%b %d"),
         "loc": "Global",
         "event": headline,
-        "impact": severity
+        "impact": severity_text
     })
 
-# ----------------------------
-# LOAD STATIC CONTENT
-# ----------------------------
+print(f"Relevant articles found: {len(risks)}")
+
+# --------------------------------------------------
+# LOAD STATIC DATA
+# --------------------------------------------------
 
 with open("static-data.json", "r") as f:
     data = json.load(f)
 
-# ----------------------------
-# MERGE LIVE CONTENT
-# ----------------------------
+# --------------------------------------------------
+# MERGE
+# --------------------------------------------------
 
 data["lastUpdated"] = datetime.utcnow().isoformat() + "Z"
 data["risks"] = risks
 data["timeline"] = timeline
 
-# ----------------------------
+# --------------------------------------------------
 # SAVE
-# ----------------------------
+# --------------------------------------------------
 
 with open("data.json", "w") as f:
     json.dump(data, f, indent=2)
 
-print(f"Saved {len(risks)} FIFA-relevant articles")
+print("data.json updated successfully")
