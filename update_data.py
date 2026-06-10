@@ -4,10 +4,13 @@ import feedparser
 import google.generativeai as genai
 
 # 1. Connect to Gemini securely
-api_key = "YOUR_ACTUAL_KEY_HERE"
-# if not api_key:
-#     raise ValueError("CRITICAL ERROR: GEMINI_API_KEY is missing from GitHub Secrets!")
+# Use os.environ.get so it can be dynamically passed via GitHub Actions Secrets
+api_key = os.environ.get("GEMINI_API_KEY")
+if not api_key:
+    raise ValueError("CRITICAL ERROR: GEMINI_API_KEY is missing from GitHub Secrets!")
+
 genai.configure(api_key=api_key)
+
 # We tell Gemini to strictly output JSON
 model = genai.GenerativeModel('gemini-1.5-flash', generation_config={"response_mime_type": "application/json"})
 
