@@ -5,6 +5,10 @@ import requests
 from datetime import datetime
 import google.generativeai as genai
 
+print("=" * 60)
+print("RUNNING UPDATE_DATA_CLEAN.PY")
+print("=" * 60)
+
 # --------------------------------------------------
 # CONFIG
 # --------------------------------------------------
@@ -33,7 +37,8 @@ url = (
     '"SoFi Stadium" OR '
     '"Estadio Azteca" OR '
     '"BMO Field" OR '
-    '"Hard Rock Stadium")'
+    '"Hard Rock Stadium" OR '
+    '"Mercedes-Benz Stadium")'
     "&language=en"
     "&sortBy=publishedAt"
     "&pageSize=100"
@@ -43,11 +48,21 @@ url = (
 print("Fetching articles...")
 
 response = requests.get(url, timeout=30)
+
+print("News API status:", response.status_code)
+
 news = response.json()
 
 articles = news.get("articles", [])
 
 print(f"Articles returned: {len(articles)}")
+
+print("\n===== ARTICLES RETURNED =====")
+
+for article in articles[:50]:
+    print("-", article.get("title", "NO TITLE"))
+
+print("=============================\n")
 
 # --------------------------------------------------
 # FILTERS
@@ -89,26 +104,29 @@ blocked_terms = [
     "teacher",
     "education",
     "school",
+    "recruitment",
     "mining",
-    "crypto",
     "bitcoin",
+    "crypto",
     "gaming",
-    "review",
     "monitor",
-    "iphone",
-    "android",
+    "review",
     "movie",
     "music",
     "celebrity",
     "fashion",
+    "iphone",
+    "android",
     "baseball",
     "mlb",
     "nba",
-    "nhl"
+    "nhl",
+    "golf",
+    "tennis"
 ]
 
 # --------------------------------------------------
-# PROCESS
+# PROCESS ARTICLES
 # --------------------------------------------------
 
 risks = []
@@ -124,12 +142,24 @@ for article in articles:
 
     content = f"{title} {description}".lower()
 
+    # ----------------------------------------------
+    # BLOCK OBVIOUS JUNK
+    # ----------------------------------------------
+
     if any(term in content for term in blocked_terms):
         print("BLOCKED:", title)
         continue
 
+    # ----------------------------------------------
+    # REQUIRE WC26 TERMS
+    # ----------------------------------------------
+
     if not any(term in content for term in required_terms):
         continue
+
+    # ----------------------------------------------
+    # GEMINI RELEVANCE CHECK
+    # ----------------------------------------------
 
     try:
 
@@ -143,40 +173,58 @@ Headline:
 Description:
 {description}
 
-Return YES only if directly related to:
+Return YES only if this article directly relates to:
 
 - FIFA World Cup 2026
 - Host city operations
 - Stadium operations
 - Public safety
-- Transportation
+- Security
+- Transportation disruption
 - Fan zones
 - Crowd management
-- Protests affecting tournament operations
-- Security threats
+- Protest activity
 - Terror threats
 
-Return NO otherwise.
+Return NO for:
+
+- Finance
+- Stocks
+- Mining
+- Education
+- Product reviews
+- Entertainment
+- Unrelated sports
 
 Output ONLY YES or NO.
 """
         )
 
-        if "YES" not in relevance.text.upper():
+        relevance_text = relevance.text.strip().upper()
+
+        print("Gemini relevance:", relevance_text)
+
+        if "YES" not in relevance_text:
+            print("REJECTED:", title)
             continue
 
         severity_response = model.generate_content(
 f"""
-Classify this World Cup event.
+Classify this FIFA World Cup 2026 event.
 
 Headline:
 {title}
+
+Description:
+{description}
 
 Return ONLY:
 
 P1
 P2
 P3
+
+Definitions:
 
 P1 = Critical threat
 P2 = Operational disruption
@@ -186,22 +234,36 @@ P3 = Advisory / informational
 
         severity = severity_response.text.strip().upper()
 
+        print("Severity:", severity)
+
     except Exception as e:
 
         print("Gemini error:", e)
+
         severity = "P3"
 
+    # ----------------------------------------------
+    # SEVERITY
+    # ----------------------------------------------
+
     if severity == "P1":
+
         risk_level = "high"
         severity_text = "P1 CRITICAL"
 
     elif severity == "P2":
+
         risk_level = "medium"
         severity_text = "P2 MEDIUM"
 
     else:
+
         risk_level = "low"
         severity_text = "P3 LOW"
+
+    # ----------------------------------------------
+    # CITY DETECTION
+    # ----------------------------------------------
 
     city = "Global"
 
@@ -256,6 +318,8 @@ P3 = Advisory / informational
 
 if len(risks) == 0:
 
+    print("NO RELEVANT ARTICLES FOUND")
+
     risks = [
         {
             "title": "No active public safety incidents detected",
@@ -298,7 +362,7 @@ data["metrics"] = {
 }
 
 # --------------------------------------------------
-# MERGE
+# UPDATE DATASET
 # --------------------------------------------------
 
 data["lastUpdated"] = datetime.utcnow().isoformat() + "Z"
@@ -312,6 +376,9 @@ data["timeline"] = timeline
 with open("data.json", "w") as f:
     json.dump(data, f, indent=2)
 
+print()
+print("=" * 60)
 print(f"Saved {len(risks)} risk items")
 print("data.json updated successfully")
+print("=" * 60)
 ```
