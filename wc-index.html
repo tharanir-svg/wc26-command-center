@@ -248,8 +248,10 @@
       </div>
     </div>
     <div class="header-meta">
-      <span><strong>Last Refresh:
-<span id="lastRefresh">Loading...</span>
+      <span>
+  <strong>Last Refresh:</strong>
+  <span id="lastRefresh">Loading...</span>
+</span>
       <span><strong>Owner:</strong> Global Security Desk (GSD)</span>
       <span><strong>Shift:</strong> AMER / EMEA</span>
     </div>
@@ -860,11 +862,7 @@
     });
   });
 </script>
-        <script>
-  loadData();
-</script>
-
-<script>
+       <script>
 async function updateRefreshTime() {
   try {
     const response = await fetch('./data.json?t=' + Date.now());
