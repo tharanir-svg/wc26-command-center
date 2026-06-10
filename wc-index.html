@@ -748,18 +748,16 @@
         document.querySelectorAll('.filter').forEach(x => x.classList.toggle('active', x === f));
         
         // Hide/Show individual cards AND timeline table rows based on data-risk attribute
-        document.querySelectorAll('[data-risk]').forEach(el => {
-          el.classList.toggle('hidden', el.dataset.risk !== level);
-        });
-
-        // Hide empty region wrappers in the Cities tab
         document.querySelectorAll('.region').forEach(region => {
-          const visibleCities = Array.from(region.querySelectorAll('.city-card')).filter(c => !c.classList.contains('hidden'));
-          region.classList.toggle('hidden', visibleCities.length === 0);
-        });
-      }
-    });
-  });
+  const visibleCities =
+    Array.from(region.querySelectorAll('.city-card'))
+      .filter(c => !c.classList.contains('hidden'));
+
+  region.classList.toggle('hidden', visibleCities.length === 0);
+});
+
+}
+});
 
 async function loadDashboard() {
   try {
