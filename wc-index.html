@@ -815,16 +815,20 @@ function renderTimeline(events) {
 async function loadDashboard() {
   try {
     const response = await fetch("./data.json");
+
+    console.log("Status:", response.status);
+
     const data = await response.json();
+
+    console.log("Loaded:", data);
 
     renderRisks(data.risks);
     renderTimeline(data.timeline);
 
   } catch (err) {
-    console.error("Dashboard load failed", err);
+    console.error("Dashboard load failed:", err);
   }
 }
-
 loadDashboard();
   
 </html>
