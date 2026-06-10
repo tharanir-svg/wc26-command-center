@@ -829,22 +829,41 @@ function renderRisks(risks) {
 `).join('');}
 
 function renderTimeline(timeline) {
-  const container = document.getElementById("timeline");
 
-  if (!container) {
-    console.error("timeline element not found");
-    return;
-  }
+  const tbody = document.getElementById("timelineBody");
 
-  container.innerHTML = timeline.map(item => `
-    <div class="timeline-item">
-      <div class="timeline-date">${item.date}</div>
-      <div class="timeline-content">
-        <h4>${item.title}</h4>
-        <p>${item.description || ''}</p>
-      </div>
-    </div>
+  if (!tbody) return;
+
+  tbody.innerHTML = timeline.map(item => `
+    <tr data-risk="${item.risk || 'low'}">
+
+      <td>${item.date || '-'}</td>
+
+      <td>${item.loc || '-'}</td>
+
+      <td>${item.event || '-'}</td>
+
+      <td>
+        <span class="tl-type">
+          ${item.type || 'News'}
+        </span>
+      </td>
+
+      <td>
+        <span class="tl-conf confirmed">
+          ${item.confidence || 'Confirmed'}
+        </span>
+      </td>
+
+      <td>
+        <span class="impact ${item.risk || 'low'}">
+          ${item.impact || 'P3'}
+        </span>
+      </td>
+
+    </tr>
   `).join("");
+
 }
 
 loadDashboard();
