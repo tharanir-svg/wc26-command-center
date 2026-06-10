@@ -12,18 +12,17 @@ permissions:
 jobs:
   update-intel:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
+        with:
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
           python-version: "3.11"
-
-      - name: Run updater
-        run: python update_data.py
-``
 
       - name: Install dependencies
         run: |
@@ -43,4 +42,3 @@ jobs:
           git diff --cached --quiet && echo "No changes to commit" && exit 0
           git commit -m "Automated dashboard update"
           git push
-``
