@@ -1,0 +1,20 @@
+{
+  "dashboardTitle": "FIFA World Cup 2026 – Global Security Desk",
+
+  "overview": {
+    "status": "Operational",
+    "hostCities": 16
+  },
+
+  "hostCities": [
+    {
+      "name": "New York"
+    },
+    {
+      "name": "Toronto"
+    },
+    {
+      "name": "Mexico City"
+    }
+  ]
+}
