@@ -1,29 +1,149 @@
 {
-  "dashboardTitle": "FIFA World Cup 2026 \u2013 Global Security Desk",
+  "dashboardTitle": "FIFA World Cup 2026 – Global Security Desk",
+  "lastUpdated": "2026-06-10T16:25:57Z",
+
   "overview": {
     "status": "Operational",
     "hostCities": 16
   },
-  "hostCities": [
+
+  "metrics": {
+    "p1": 0,
+    "p2": 0,
+    "p3": 5
+  },
+
+  "watchlist": [
     {
-      "name": "New York"
+      "team": "Argentina",
+      "location": "Miami",
+      "note": "High fan concentration"
     },
     {
-      "name": "Toronto"
+      "team": "Brazil",
+      "location": "Orlando",
+      "note": "Traffic congestion expected"
     },
     {
-      "name": "Mexico City"
+      "team": "USA",
+      "location": "Atlanta",
+      "note": "Enhanced perimeter security"
+    },
+    {
+      "team": "France",
+      "location": "Dallas",
+      "note": "Heavy media presence"
     }
   ],
-  "lastUpdated": "2026-06-10T16:25:57.742024Z",
+
+  "hostCities": [
+    {
+      "region": "Western",
+      "name": "Los Angeles",
+      "stadium": "SoFi Stadium",
+      "risk": "high"
+    },
+    {
+      "region": "Western",
+      "name": "San Francisco Bay Area",
+      "stadium": "Levi's Stadium",
+      "risk": "medium"
+    },
+    {
+      "region": "Western",
+      "name": "Seattle",
+      "stadium": "Lumen Field",
+      "risk": "low"
+    },
+    {
+      "region": "Western",
+      "name": "Vancouver",
+      "stadium": "BC Place",
+      "risk": "low"
+    },
+    {
+      "region": "Western",
+      "name": "Guadalajara",
+      "stadium": "Estadio Akron",
+      "risk": "low"
+    },
+    {
+      "region": "Central",
+      "name": "Mexico City",
+      "stadium": "Estadio Azteca",
+      "risk": "high"
+    },
+    {
+      "region": "Central",
+      "name": "Houston",
+      "stadium": "NRG Stadium",
+      "risk": "medium"
+    },
+    {
+      "region": "Central",
+      "name": "Dallas",
+      "stadium": "AT&T Stadium",
+      "risk": "medium"
+    },
+    {
+      "region": "Central",
+      "name": "Kansas City",
+      "stadium": "Arrowhead Stadium",
+      "risk": "medium"
+    },
+    {
+      "region": "Central",
+      "name": "Monterrey",
+      "stadium": "Estadio BBVA",
+      "risk": "low"
+    },
+    {
+      "region": "Eastern",
+      "name": "New York / New Jersey",
+      "stadium": "MetLife Stadium",
+      "risk": "medium"
+    },
+    {
+      "region": "Eastern",
+      "name": "Toronto",
+      "stadium": "BMO Field",
+      "risk": "medium"
+    },
+    {
+      "region": "Eastern",
+      "name": "Atlanta",
+      "stadium": "Mercedes-Benz Stadium",
+      "risk": "medium"
+    },
+    {
+      "region": "Eastern",
+      "name": "Miami",
+      "stadium": "Hard Rock Stadium",
+      "risk": "medium"
+    },
+    {
+      "region": "Eastern",
+      "name": "Boston",
+      "stadium": "Gillette Stadium",
+      "risk": "low"
+    },
+    {
+      "region": "Eastern",
+      "name": "Philadelphia",
+      "stadium": "Lincoln Financial Field",
+      "risk": "low"
+    }
+  ],
+
   "risks": [
     {
-      "title": "Sensex gains 394 points, Nifty at 23,242 as PSU banks lead fag-end rally",
+      "id": 1,
+      "title": "Sensex gains 394 points, Nifty at 23,242 as PSU banks lead rally",
+      "risk": "low",
       "severityText": "P3 LOW",
-      "severityColor": "amber",
       "status": "VERIFIED",
-      "statusColor": "emerald",
-      "description": "Indian markets closed firmly higher on 9 June, with PSU banks surging over 3% in a fag-end rally triggered partly by US President Trump's Iran peace-talk signals. While IT and media dragged, the breadth was strong \u2014 mid- and small-caps outpaced the benchmarks\u2026",
+      "description": "Indian markets closed higher after strong PSU banking gains.",
+      "timestamp": "2026-06-10T16:25:57Z",
       "links": [
         {
           "label": "Source",
@@ -32,12 +152,13 @@
       ]
     },
     {
-      "title": "31,000 MTET qualified aspirants left waiting; JNC demands immediate recruitment of 677 teacher posts",
+      "id": 2,
+      "title": "31,000 MTET qualified aspirants awaiting recruitment",
+      "risk": "low",
       "severityText": "P3 LOW",
-      "severityColor": "amber",
       "status": "VERIFIED",
-      "statusColor": "emerald",
-      "description": "Thousands of Meghalaya youths who have cleared the Meghalaya Teachers Eligibility Test (MTET) are still waiting for an opportunity to secure a teaching job, with many now nearing or crossing the upper age limit. Raising concerns over both unemployment and the\u2026",
+      "description": "Teacher recruitment concerns continue in Meghalaya.",
+      "timestamp": "2026-06-10T16:25:57Z",
       "links": [
         {
           "label": "Source",
@@ -46,77 +167,96 @@
       ]
     },
     {
-      "title": "Apple-sized rocks four kilometres below the central Pacific Ocean contain more cobalt and manganese than all known land deposits combined, and mining companies are now racing to extract them from one of the least-explored ecosystems on Earth, where over 90 per cent of the local species are still undescribed.",
+      "id": 3,
+      "title": "Clarion-Clipperton Zone deep-sea mining race",
+      "risk": "low",
       "severityText": "P3 LOW",
-      "severityColor": "amber",
       "status": "VERIFIED",
-      "statusColor": "emerald",
-      "description": "The region is called the Clarion-Clipperton Zone. It is approximately six million square kilometres of abyssal plain stretching between Mexico and Hawaii, roughly the width of the continental United States, with an average depth of around 5,000 metres. The se\u2026",
+      "description": "Growing global competition for deep-sea critical minerals.",
+      "timestamp": "2026-06-10T16:25:57Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://spacedaily.com/k-apple-sized-rocks-four-kilometres-below-the-central-pacific-ocean-contain-more-cobalt-and-manganese-than-all-known-land-deposits-combined-and-mining-companies-are-now-racing-to-extract-them-from-one/"
+          "url": "https://spacedaily.com"
         }
       ]
     },
     {
+      "id": 4,
       "title": "In praise of Ben Brown",
+      "risk": "low",
       "severityText": "P3 LOW",
-      "severityColor": "amber",
       "status": "VERIFIED",
-      "statusColor": "emerald",
-      "description": "The Cubs right-hander has taken his game to a new level.",
+      "description": "Analysis of Cubs pitcher Ben Brown.",
+      "timestamp": "2026-06-10T16:25:57Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://www.bleedcubbieblue.com/chicago-cubs-analysis/220946/ben-brown-praise-cubs"
+          "url": "https://www.bleedcubbieblue.com"
         }
       ]
     },
     {
-      "title": "KTC M27T6S review",
+      "id": 5,
+      "title": "KTC M27T6S Review",
+      "risk": "low",
       "severityText": "P3 LOW",
-      "severityColor": "amber",
       "status": "VERIFIED",
-      "statusColor": "emerald",
-      "description": "This budget KTC does local dimming better than many much pricier mini-LED panels.",
+      "description": "Gaming monitor review.",
+      "timestamp": "2026-06-10T16:25:57Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/ktc-m27t6s-review/"
+          "url": "https://www.pcgamer.com"
         }
       ]
     }
   ],
+
   "timeline": [
     {
       "date": "Jun 10",
       "loc": "Global",
-      "event": "Sensex gains 394 points, Nifty at 23,242 as PSU banks lead fag-end rally",
+      "event": "Sensex gains 394 points",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
       "impact": "P3 LOW"
     },
     {
       "date": "Jun 10",
       "loc": "Global",
-      "event": "31,000 MTET qualified aspirants left waiting; JNC demands immediate recruitment of 677 teacher posts",
+      "event": "31,000 MTET qualified aspirants awaiting recruitment",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
       "impact": "P3 LOW"
     },
     {
       "date": "Jun 10",
       "loc": "Global",
-      "event": "Apple-sized rocks four kilometres below the central Pacific Ocean contain more cobalt and manganese than all known land deposits combined, and mining companies are now racing to extract them from one of the least-explored ecosystems on Earth, where over 90 per cent of the local species are still undescribed.",
+      "event": "Clarion-Clipperton Zone mining race",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
       "impact": "P3 LOW"
     },
     {
       "date": "Jun 10",
       "loc": "Global",
       "event": "In praise of Ben Brown",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
       "impact": "P3 LOW"
     },
     {
       "date": "Jun 10",
       "loc": "Global",
       "event": "KTC M27T6S review",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
       "impact": "P3 LOW"
     }
   ]
