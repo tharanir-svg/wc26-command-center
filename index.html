@@ -1,850 +1,224 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>FIFA World Cup 2026 — Command Center v5.2</title>
-<style>
-  :root {
-    --bg: #0b1220;
-    --card: #111827;
-    --border: #1f2937;
-    --text: #e5e7eb;
-    --head: #ffffff;
-    --muted: #94a3b8;
-    --alt-row: #0f172a;
-    --red: #dc2626;
-    --amber: #f59e0b;
-    --green: #059669;
-    --blue: #3b82f6;
-    --tag-verified: #065f46;
-    --tag-watchlist: #9a3412;
-    --tag-rumor: #475569;
-    --tag-planned: #1e3a8a;
-  }
-  * { box-sizing: border-box; }
-  html, body { height: 100%; }
-  body {
-    margin: 0;
-    background: var(--bg);
-    color: var(--text);
-    font-family: system-ui, -apple-system, Inter, "Segoe UI", Roboto, Ubuntu, Arial, sans-serif;
-    font-size: 14px;
-    line-height: 1.6;
-    -webkit-font-smoothing: antialiased;
-  }
-  a { color: #93c5fd; text-decoration: none; transition: color 0.2s; }
-  a:hover { text-decoration: underline; color: #bfdbfe; }
-  
-  /* Header & Meta */
-  .header {
-    position: sticky;
-    top: 0;
-    z-index: 50;
-    background: rgba(11,18,32,0.85);
-    backdrop-filter: blur(12px);
-    border-bottom: 1px solid var(--border);
-    padding: 14px 20px;
-  }
-  .header-top {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 16px;
-    flex-wrap: wrap;
-    margin-bottom: 8px;
-  }
-  .header-meta {
-    display: flex;
-    gap: 16px;
-    font-size: 12px;
-    color: var(--muted);
-    background: #0f172a;
-    padding: 6px 12px;
-    border-radius: 6px;
-    border: 1px solid var(--border);
-  }
-  .header-meta span strong { color: #cbd5e1; font-weight: 600; }
-  
-  .brand { color: var(--head); font-weight: 800; letter-spacing: 0.06em; font-size: 16px; }
-  .clock-meta { display: flex; align-items: center; gap: 10px; font-size: 14px; color: var(--muted); font-family: monospace; }
-  
-  /* Filters */
-  .header-right { display: flex; gap: 8px; }
-  .filter {
-    padding: 6px 14px;
-    border-radius: 999px;
-    font-size: 12px;
-    font-weight: 700;
-    letter-spacing: 0.04em;
-    border: 1px solid var(--border);
-    background: #0f172a;
-    color: var(--muted);
-    cursor: pointer;
-    transition: all 0.2s ease;
-  }
-  .filter.red.active { background: rgba(220,38,38,0.15); color: #fecaca; border-color: var(--red); box-shadow: 0 0 10px rgba(220,38,38,0.2); }
-  .filter.amber.active { background: rgba(245,158,11,0.15); color: #fde68a; border-color: var(--amber); box-shadow: 0 0 10px rgba(245,158,11,0.2); }
-  .filter.green.active { background: rgba(5,150,105,0.15); color: #a7f3d0; border-color: var(--green); box-shadow: 0 0 10px rgba(5,150,105,0.2); }
-  .filter:hover:not(.active) { border-color: #334155; color: var(--text); }
-
-  /* Navigation */
-  .tabs {
-    display: flex;
-    gap: 8px;
-    padding: 12px 20px 0;
-    border-bottom: 1px solid var(--border);
-    background: var(--bg);
-    position: sticky;
-    top: 96px;
-    z-index: 40;
-    overflow-x: auto;
-  }
-  .tabs button {
-    background: transparent;
-    border: none;
-    color: var(--muted);
-    padding: 12px 14px;
-    font-size: 14px;
-    font-weight: 600;
-    cursor: pointer;
-    border-bottom: 2px solid transparent;
-    white-space: nowrap;
-    transition: color 0.2s, border-color 0.2s;
-  }
-  .tabs button.active { color: var(--head); border-bottom-color: var(--blue); }
-  .tabs button:hover:not(.active) { color: var(--text); }
-
-  main { padding: 24px 20px 60px; max-width: 1500px; margin: 0 auto; }
-  .tab-pane { display: none; animation: fadeIn 0.3s ease-in-out; }
-  .tab-pane.active { display: block; }
-  @keyframes fadeIn { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
-
-  /* Generic Card */
-  .card {
-    background: var(--card);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    padding: 20px;
-  }
-  .section-head { font-size: 18px; color: var(--head); font-weight: 700; margin: 0 0 16px; border-bottom: 1px solid var(--border); padding-bottom: 10px;}
-
-  /* Escalation & Top Strip */
-  .top-strip { display: grid; grid-template-columns: 2fr 1fr; gap: 20px; margin-bottom: 24px; }
-  .escalation-box { background: #0f172a; border-radius: 8px; padding: 16px; border: 1px solid #1e293b; }
-  .escalation-box h3 { margin: 0 0 10px 0; font-size: 14px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--head); }
-  .esc-row { display: flex; gap: 12px; font-size: 13px; margin-bottom: 6px; }
-  .esc-pill { padding: 2px 8px; border-radius: 4px; font-weight: 700; font-size: 11px; white-space: nowrap; height: fit-content; }
-  .esc-pill.p1 { background: rgba(220,38,38,0.2); color: #fca5a5; border: 1px solid var(--red); }
-  .esc-pill.p2 { background: rgba(245,158,11,0.2); color: #fcd34d; border: 1px solid var(--amber); }
-  .esc-pill.p3 { background: rgba(148,163,184,0.2); color: #cbd5e1; border: 1px solid #64748b; }
-  
-  .watchlist-box ul { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 6px; }
-  .watchlist-box li { font-size: 13px; display: flex; justify-content: space-between; border-bottom: 1px dashed var(--border); padding-bottom: 4px;}
-  .watchlist-box li span { color: var(--muted); }
-
-  /* Risk Grid */
-  .risk-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
-  .risk-card { display: flex; flex-direction: column; gap: 10px; }
-  .card-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin-bottom: 4px; }
-  .card-head h3 { margin: 0; font-size: 15px; color: var(--head); font-weight: 700; line-height: 1.3; }
-  
-  /* Status Tags */
-  .meta-tags { display: flex; gap: 8px; align-items: center; margin-bottom: 4px; }
-  .status-tag { font-size: 11px; padding: 2px 8px; border-radius: 4px; font-weight: 600; text-transform: uppercase; }
-  .status-tag.verified { background: var(--tag-verified); color: #a7f3d0; }
-  .status-tag.watchlist { background: var(--tag-watchlist); color: #ffedd5; }
-  .status-tag.rumor { background: var(--tag-rumor); color: #f1f5f9; }
-  .status-tag.planned { background: var(--tag-planned); color: #bfdbfe; }
-  .timestamp { font-size: 11px; color: var(--muted); font-family: monospace; }
-  
-  .risk-pill, .impact { display: inline-block; font-size: 11px; font-weight: 800; letter-spacing: 0.05em; padding: 4px 10px; border-radius: 6px; color: white; white-space: nowrap; text-transform: uppercase; }
-  .risk-pill.high, .impact.high { background: var(--red); }
-  .risk-pill.medium, .impact.medium { background: var(--amber); }
-  .risk-pill.low, .impact.low { background: var(--green); }
-  
-  .desc { color: var(--text); font-size: 13px; margin: 0; min-height: 60px; line-height: 1.5; }
-  .card-links { display: flex; flex-direction: column; gap: 4px; margin-top: auto; padding-top: 10px; border-top: 1px solid var(--border); }
-  .card-links a { font-size: 12px; display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
-  .card-links a::before { content: "↳ "; opacity: 0.5; }
-
-  /* Cities Grid */
-  .cities-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
-  .region-title { font-size: 16px; color: var(--head); font-weight: 700; margin: 0 0 14px; padding-bottom: 8px; border-bottom: 1px solid var(--border); text-transform: uppercase; letter-spacing: 0.05em; }
-  .city-list { display: flex; flex-direction: column; gap: 12px; }
-  .city-card { padding: 16px; }
-  .city-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; margin-bottom: 12px; }
-  .city-name { font-weight: 700; color: var(--head); font-size: 15px; }
-  .stadium { font-size: 13px; color: var(--muted); margin-top: 2px; }
-  .city-links { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: 12px; }
-  .city-link-item { background: #1e293b; padding: 4px 8px; border-radius: 4px; color: #93c5fd; font-weight: 500;}
-  .city-link-item:hover { background: #334155; }
-
-  /* Timeline Table */
-  .table-card { padding: 0; overflow-x: auto; }
-  .timeline { width: 100%; border-collapse: collapse; font-size: 13px; min-width: 900px; }
-  .timeline thead th { text-align: left; padding: 12px 16px; color: #9ca3af; font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: 0.05em; border-bottom: 1px solid var(--border); background: #0d1628; }
-  .timeline tbody td { padding: 12px 16px; border-bottom: 1px solid rgba(31,41,55,0.7); vertical-align: middle; }
-  .timeline tbody tr:nth-child(odd) { background: var(--alt-row); }
-  .timeline tbody tr:hover { background: #1e293b; }
-  .timeline td:first-child { white-space: nowrap; color: var(--muted); font-weight: 600;}
-  .timeline td:nth-child(2) { white-space: nowrap; font-weight: 600; color: var(--text); }
-  .tl-type { font-size: 11px; border: 1px solid var(--border); padding: 2px 6px; border-radius: 4px; color: #cbd5e1; background: #0f172a;}
-  .tl-conf { font-size: 11px; font-weight: 600; }
-  .tl-conf.confirmed { color: #34d399; }
-  .tl-conf.likely { color: #fbbf24; }
-  .tl-conf.needs-val { color: #94a3b8; font-style: italic;}
-
-  /* Sources Grid */
-  .sources-grid { display: grid; grid-template-columns: 1fr; gap: 20px; }
-  .keyword-group-container { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 16px; }
-  .kw-group { background: #0f172a; border: 1px solid var(--border); padding: 12px; border-radius: 8px; }
-  .kw-group h4 { margin: 0 0 8px; font-size: 13px; color: #93c5fd; font-weight: 700; text-transform: uppercase; }
-  .kw-group ul { margin: 0; padding-left: 16px; color: var(--text); font-size: 13px; line-height: 1.8;}
-  .kw-lang { color: var(--muted); font-size: 11px; font-style: italic; margin-left: 4px;}
-
-  .hidden { display: none !important; }
-
-  @media (max-width: 1024px) {
-    .cities-grid { grid-template-columns: 1fr 1fr; }
-    .top-strip { grid-template-columns: 1fr; }
-  }
-  @media (max-width: 768px) {
-    .header { padding: 12px; }
-    .header-top { flex-direction: column; align-items: flex-start; }
-    .tabs { top: 130px; }
-    .cities-grid { grid-template-columns: 1fr; }
-  }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIFA World Cup 2026 – Public Safety & Protest Monitor</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        :root { color-scheme: dark; }
+        body { font-family: 'Inter', system-ui, -apple-system, sans-serif; background: #050a14; }
+        .glass { backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); }
+        .risk-pulse { animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
+        @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .6; } }
+        .card-hover { transition: all 0.3s ease; }
+        .card-hover:hover { transform: translateY(-4px); box-shadow: 0 20px 40px -10px rgba(220,38,0.2); }
+        ::-webkit-scrollbar { width: 6px; height: 6px; }
+        ::-webkit-scrollbar-track { background: #0f172a; }
+        ::-webkit-scrollbar-thumb { background: #334155; border-radius: 3px; }
+    </style>
 </head>
-<body>
-  <header class="header">
-    <div class="header-top">
-      <div class="header-left">
-        <div class="brand">FIFA WORLD Cup 2026 — COMMAND CENTER</div>
-        <div class="clock-meta">
-          <span id="utc-clock">00:00:00 UTC</span>
-          <span class="dot">•</span>
-          <span id="countdown">T-12 days</span>
-        </div>
-      </div>
-      <div class="header-right">
-        <button class="filter red" data-level="high">RED (P1)</button>
-        <button class="filter amber" data-level="medium">AMBER (P2)</button>
-        <button class="filter green" data-level="low">GREEN (P3)</button>
-      </div>
+<body class="text-slate-100 min-h-screen">
+    <div class="fixed inset-0 -z-10">
+        <div class="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-blue-900/20 via-slate-950 to-black"></div>
+        <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-red-900/10 rounded-full blur-[120px]"></div>
+        <div class="absolute bottom-0 left-0 w-[500px] h-[500px] bg-amber-900/10 rounded-full blur-[100px]"></div>
     </div>
-    <div class="header-meta">
-      <span><strong>Last Refresh:</strong> 03 Jun 2026, 17:30 IST / 12:00 UTC</span>
-      <span><strong>Owner:</strong> Global Security Desk (GSD)</span>
-      <span><strong>Shift:</strong> AMER / EMEA</span>
+
+    <header class="sticky top-0 z-40 border-b border-slate-800/80 glass bg-slate-950/70">
+        <div class="max-w-[1800px] mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-[72px]">
+                <div class="flex items-center gap-4">
+                    <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-red-600 to-amber-500 flex items-center justify-center shadow-lg shadow-red-900/30">
+                        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10z"/></svg>
+                    </div>
+                    <div>
+                        <h1 class="text-lg sm:text-xl font-extrabold tracking-tight leading-none">FIFA WORLD CUP 2026</h1>
+                        <p class="text-[11px] sm:text-xs text-slate-400 font-medium tracking-widest uppercase">Global Security Desk (GSD)</p>
+                    </div>
+                </div>
+                <div class="text-right">
+                    <div id="liveClock" class="text-sm sm:text-base font-mono font-semibold text-white tabular-nums">--:--:--</div>
+                    <div class="text-[10px] text-slate-500 uppercase tracking-wider">Eastern Time • Auto-refresh Active</div>
+                </div>
+            </div>
+        </div>
+        <div class="bg-gradient-to-r from-amber-600/20 via-red-600/20 to-amber-600/20 border-t border-amber-500/30">
+            <div class="max-w-[1800px] mx-auto px-4 sm:px-6 lg:px-8 py-2.5 flex items-center gap-3">
+                <span class="flex h-2.5 w-2.5 relative">
+                    <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-amber-400 opacity-75"></span>
+                    <span class="relative inline-flex rounded-full h-2.5 w-2.5 bg-amber-500"></span>
+                </span>
+                <p class="text-xs sm:text-sm font-semibold text-amber-200 tracking-wide">Tournament starts in <span id="countdown" class="text-white">1 day</span> – Threat Tracking <span id="api-status" class="text-amber-400">CONNECTING...</span></p>
+            </div>
+        </div>
+    </header>
+
+    <div class="max-w-[1800px] mx-auto px-4 sm:px-6 lg:px-8 mt-6">
+        <div class="flex flex-wrap items-center gap-x-8 gap-y-3 p-3.5 rounded-xl bg-slate-900 border border-slate-800 text-sm shadow-md">
+            <div class="text-slate-300 flex items-center gap-2">
+                <svg id="sync-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-emerald-400"><path d="M21 2v6h-6M3 12a9 9 0 1 0 3-7.7L2 6"/></svg>
+                <span class="font-semibold text-slate-100">Last Data Pull:</span> 
+                <span id="lastRefreshDisplay" class="font-mono text-emerald-300">Fetching Intel...</span>
+            </div>
+            <div class="text-slate-300 border-l border-slate-700 pl-8"><span class="font-semibold text-slate-100">Owner:</span> Global Security Desk (GSD)</div>
+            <div class="text-slate-300 border-l border-slate-700 pl-8"><span class="font-semibold text-slate-100">Shift:</span> AMER / EMEA</div>
+        </div>
     </div>
-  </header>
 
-  <nav class="tabs">
-    <button data-tab="overview" class="active">Overview & Risks</button>
-    <button data-tab="cities">Host Cities & Contacts</button>
-    <button data-tab="timeline">Operations Timeline</button>
-    <button data-tab="sources">OSINT Keywords</button>
-  </nav>
-
-  <main>
-    <!-- OVERVIEW -->
-    <section id="overview" class="tab-pane active">
-      
-      <!-- Escalation Strip -->
-      <div class="top-strip">
-        <div class="escalation-box">
-          <h3>Escalation Matrix (Rules of Engagement)</h3>
-          <div class="esc-row"><span class="esc-pill p1">P1 - CRITICAL</span> <span>Injury/casualty, fire, bomb threat, evacuation, crowd crush, major grid outage, stadium/fan-zone closure. <strong>Escalate immediately.</strong></span></div>
-          <div class="esc-row"><span class="esc-pill p2">P2 - DISRUPTION</span> <span>Protest affecting access, transit failure, severe weather warning, team/VIP security incident. <strong>Log and notify shift lead.</strong></span></div>
-          <div class="esc-row"><span class="esc-pill p3">P3 - ADVISORY</span> <span>Rumor, early chatter, low-confidence video, local inconvenience chatter, minor delays. <strong>Monitor only.</strong></span></div>
-        </div>
-        <div class="escalation-box watchlist-box">
-          <h3>Base Camp Watchlist</h3>
-          <ul>
-            <li><strong>Argentina</strong> <span>Miami (FIU) - <em>High paparazzi/fan risk</em></span></li>
-            <li><strong>Brazil</strong> <span>Orlando - <em>Traffic gridlock expected</em></span></li>
-            <li><strong>USA</strong> <span>Atlanta - <em>Tight security perimeter</em></span></li>
-            <li><strong>France</strong> <span>Dallas - <em>Media swarm reported</em></span></li>
-          </ul>
-        </div>
-      </div>
-
-      <h2 class="section-head">Core Risk Intelligence</h2>
-      <div class="risk-grid">
+    <main class="max-w-[1800px] mx-auto px-4 sm:px-6 lg:px-8 py-6 space-y-8">
         
-        <!-- Risk Card 1 -->
-        <article class="card risk-card" data-risk="high">
-          <div class="card-head">
-            <h3>SoFi Stadium Labor Strike</h3>
-            <span class="risk-pill high">P1 HIGH</span>
-          </div>
-          <div class="meta-tags">
-            <span class="status-tag verified">Verified</span>
-            <span class="timestamp">Updated: 03 Jun, 10:15 UTC</span>
-          </div>
-          <p class="desc">UNITE HERE Local 11 (2,000+ workers) explicitly threatening walk-out action if ICE operates near SoFi. 120+ civil rights groups issued travel warnings.</p>
-          <div class="card-links">
-            <a href="https://unitehere11.org/press/world-cup-strike-authorization" target="_blank" rel="noopener">unitehere11.org/press/world-cup-strike-authorization</a>
-            <a href="https://aclu.org/news/travel-advisory-los-angeles-world-cup" target="_blank" rel="noopener">aclu.org/news/travel-advisory-los-angeles-world-cup</a>
-          </div>
-        </article>
+        <section>
+            <div class="flex items-center justify-between mb-4">
+                <h2 class="text-xl font-bold flex items-center gap-2">
+                    <svg class="text-red-500" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 9v4M12 17h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                    CORE RISK INTELLIGENCE
+                </h2>
+            </div>
+            <div id="risk-cards-container" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4">
+                <div class="animate-pulse bg-slate-800 h-48 rounded-2xl"></div>
+                <div class="animate-pulse bg-slate-800 h-48 rounded-2xl"></div>
+                <div class="animate-pulse bg-slate-800 h-48 rounded-2xl"></div>
+                <div class="animate-pulse bg-slate-800 h-48 rounded-2xl"></div>
+            </div>
+        </section>
 
-        <!-- Risk Card 2 -->
-        <article class="card risk-card" data-risk="high">
-          <div class="card-head">
-            <h3>Ebola Travel Restrictions</h3>
-            <span class="risk-pill high">P1 HIGH</span>
-          </div>
-          <div class="meta-tags">
-            <span class="status-tag verified">Verified</span>
-            <span class="timestamp">Updated: 02 Jun, 22:00 UTC</span>
-          </div>
-          <p class="desc">US, Mexico, and Canada issue Joint Statement on strict public health travel measures and entry screening for individuals coming from specific high-risk African regions.</p>
-          <div class="card-links">
-            <a href="https://dhs.gov/news/2026/06/02/joint-north-american-health-protocols-wc26" target="_blank" rel="noopener">dhs.gov/news/2026/06/02/joint-north-american-health-protocols-wc26</a>
-            <a href="https://canada.ca/en/public-health/services/world-cup-2026-entry" target="_blank" rel="noopener">canada.ca/en/public-health/services/world-cup-2026-entry</a>
-          </div>
-        </article>
+        <div class="grid grid-cols-1 xl:grid-cols-3 gap-6">
+            <section class="xl:col-span-2 rounded-2xl bg-slate-900 border border-slate-800 p-5 sm:p-6 shadow-lg">
+                <h2 class="text-lg font-bold mb-4 flex items-center gap-2">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-blue-400"><path d="M8 2v4M16 2v4M3 10h18M5 4h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2z"/></svg>
+                    THREAT MONITORING TIMELINE
+                </h2>
+                <div class="overflow-x-auto">
+                    <table class="w-full text-sm">
+                        <thead>
+                            <tr class="text-left text-[11px] uppercase tracking-wider text-slate-500 border-b border-slate-800">
+                                <th class="pb-2 pr-4 font-semibold">Date</th>
+                                <th class="pb-2 pr-4 font-semibold">Location</th>
+                                <th class="pb-2 pr-4 font-semibold">Event</th>
+                                <th class="pb-2 font-semibold">Security Impact</th>
+                            </tr>
+                        </thead>
+                        <tbody id="timeline-body" class="divide-y divide-slate-800/60">
+                            <tr><td colspan="4" class="py-4"><div class="animate-pulse bg-slate-800 h-6 rounded w-full"></div></td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
 
-        <!-- Risk Card 3 -->
-        <article class="card risk-card" data-risk="medium">
-          <div class="card-head">
-            <h3>Infrastructure & Drone Bans</h3>
-            <span class="risk-pill medium">P2 MED</span>
-          </div>
-          <div class="meta-tags">
-            <span class="status-tag planned">Planned Event</span>
-            <span class="timestamp">Updated: 03 Jun, 09:00 UTC</span>
-          </div>
-          <p class="desc">FAA officially issues Temporary Flight Restrictions (TFR) expanding to a 2-nautical-mile radius around all US stadiums. NJ State Police deploying counter-UAS teams.</p>
-          <div class="card-links">
-            <a href="https://tfr.faa.gov/save_pages/detail_6_5542.html" target="_blank" rel="noopener">tfr.faa.gov/save_pages/detail_6_5542.html</a>
-            <a href="https://nj.gov/njsp/information/wc-security-brief.shtml" target="_blank" rel="noopener">nj.gov/njsp/information/wc-security-brief.shtml</a>
-          </div>
-        </article>
-
-        <!-- Risk Card 4 -->
-        <article class="card risk-card" data-risk="medium">
-          <div class="card-head">
-            <h3>Cyber Fraud & Scams</h3>
-            <span class="risk-pill medium">P2 MED</span>
-          </div>
-          <div class="meta-tags">
-            <span class="status-tag verified">Verified</span>
-            <span class="timestamp">Updated: 01 Jun, 14:20 UTC</span>
-          </div>
-          <p class="desc">Meta launches anti-scam AI taskforce to tackle the "World Cup Scam Economy" involving fake ticket transfers via WhatsApp and localized crypto fraud.</p>
-          <div class="card-links">
-            <a href="https://about.fb.com/news/2026/06/protecting-world-cup-fans" target="_blank" rel="noopener">about.fb.com/news/2026/06/protecting-world-cup-fans</a>
-            <a href="https://fifa.com/tickets/fraud-prevention-alert-june" target="_blank" rel="noopener">fifa.com/tickets/fraud-prevention-alert-june</a>
-          </div>
-        </article>
-
-        <!-- Risk Card 5 -->
-        <article class="card risk-card" data-risk="low">
-          <div class="card-head">
-            <h3>Geopolitical Tensions / Transit Blockade</h3>
-            <span class="risk-pill low">P3 LOW</span>
-          </div>
-          <div class="meta-tags">
-            <span class="status-tag rumor">Rumor / Watchlist</span>
-            <span class="timestamp">Updated: 03 Jun, 11:45 UTC</span>
-          </div>
-          <p class="desc">Unconfirmed chatter on Telegram channels regarding coordinated pro-Palestinian sit-ins planned near MetLife transit hubs for the weekend of June 13.</p>
-          <div class="card-links">
-            <a href="https://news.google.com/search?q=nyc+protest+metlife+transit" target="_blank" rel="noopener">internal.gsd.portal/intel/report-88392-ny-nj-protest</a>
-            <a href="https://x.com/search?q=NYC+Protest+Metlife" target="_blank" rel="noopener">t.me/nyc_action_alerts/992 (Requires VPN)</a>
-          </div>
-        </article>
-      </div>
-    </section>
-
-    <!-- CITIES -->
-    <section id="cities" class="tab-pane">
-      
-      <!-- Top Official Alerts Strip -->
-      <div class="card" style="margin-bottom: 20px; background: #0f172a;">
-        <h3 style="margin: 0 0 8px; font-size: 14px; color:#cbd5e1;">Global / Multi-City Resources:</h3>
-        <div style="display: flex; gap: 12px; flex-wrap: wrap;">
-          <a href="https://www.ready.gov" target="_blank" rel="noopener" class="city-link-item" style="background:#064e3b; color:#34d399;">FEMA Ready.gov</a>
-          <a href="https://whatsapp.com/channel/fifa" target="_blank" rel="noopener" class="city-link-item" style="background:#064e3b; color:#34d399;">FIFA WhatsApp Alerts</a>
-          <a href="https://step.state.gov" target="_blank" rel="noopener" class="city-link-item" style="background:#064e3b; color:#34d399;">US State Dept STEP</a>
-          <a href="https://www.publicsafety.gc.ca" target="_blank" rel="noopener" class="city-link-item" style="background:#064e3b; color:#34d399;">Public Safety Canada</a>
-          <a href="https://notams.aim.faa.gov/notamSearch/" target="_blank" rel="noopener" class="city-link-item" style="background:#1e3a8a; color:#93c5fd;">FAA NOTAMs Tracker</a>
-          <a href="https://bwt.cbp.gov/" target="_blank" rel="noopener" class="city-link-item" style="background:#1e3a8a; color:#93c5fd;">US CBP Border Waits</a>
-          <a href="https://wwwnc.cdc.gov/travel/" target="_blank" rel="noopener" class="city-link-item" style="background:#9a3412; color:#fdba74;">CDC Travel Health</a>
-          <a href="https://www.cisa.gov/shields-up" target="_blank" rel="noopener" class="city-link-item" style="background:#4c1d95; color:#c4b5fd;">CISA Cyber Alerts</a>
+            <section class="rounded-2xl bg-slate-900 border border-slate-800 p-5 sm:p-6 shadow-lg">
+                <h2 class="text-lg font-bold mb-4 flex items-center gap-2">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-emerald-400"><path d="M18 8l-7-5-7 5v10l7 5 7-5V8z"/></svg>
+                    LIVE SOURCE WALL
+                </h2>
+                <div class="space-y-5">
+                    <div>
+                        <h3 class="text-[11px] uppercase tracking-widest text-slate-500 font-semibold mb-2">News Wires</h3>
+                        <div class="grid grid-cols-2 gap-2">
+                            <a href="https://www.reuters.com/sports/soccer/" target="_blank" class="group flex items-center justify-between p-2.5 rounded-lg bg-slate-800/70 hover:bg-slate-700 border border-slate-700/50 text-sm">Reuters <span class="opacity-50 group-hover:opacity-100">↗</span></a>
+                            <a href="https://www.bbc.com/news/world-us-canada" target="_blank" class="group flex items-center justify-between p-2.5 rounded-lg bg-slate-800/70 hover:bg-slate-700 border border-slate-700/50 text-sm">BBC <span class="opacity-50 group-hover:opacity-100">↗</span></a>
+                        </div>
+                    </div>
+                </div>
+            </section>
         </div>
-      </div>
+    </main>
 
-      <div class="cities-grid">
-        <div class="region" id="region-western">
-          <h2 class="region-title">Western Corridor</h2>
-          <div class="city-list">
-            <!-- LA -->
-            <article class="card city-card" data-risk="high">
-              <div class="city-head">
-                <div><div class="city-name">Los Angeles</div><div class="stadium">SoFi Stadium</div></div>
-                <span class="risk-pill high">P1</span>
-              </div>
-              <div class="city-links">
-                <a href="https://x.com/ReadyLA" target="_blank" rel="noopener" class="city-link-item" title="LA Emergency Management">OEM</a>
-                <a href="https://x.com/metrolosangeles" target="_blank" rel="noopener" class="city-link-item" title="Metro Alerts">Transit</a>
-                <a href="https://x.com/LAPDHQ" target="_blank" rel="noopener" class="city-link-item" title="LAPD HQ">Police</a>
-                <a href="https://www.facebook.com/latimes/" target="_blank" rel="noopener" class="city-link-item" title="LA Times">Media</a>
-                <a href="https://t.me/s/la_scanner" target="_blank" rel="noopener" class="city-link-item" title="Telegram LA Scanner">OSINT</a>
-              </div>
-            </article>
-            <!-- SF -->
-            <article class="card city-card" data-risk="medium">
-              <div class="city-head">
-                <div><div class="city-name">San Francisco Bay Area</div><div class="stadium">Levi's Stadium</div></div>
-                <span class="risk-pill medium">P2</span>
-              </div>
-              <div class="city-links">
-                <a href="https://x.com/SF_Emergency" target="_blank" rel="noopener" class="city-link-item">OEM</a> 
-                <a href="https://x.com/SFBARTalert" target="_blank" rel="noopener" class="city-link-item">Transit</a> 
-                <a href="https://x.com/SFPD" target="_blank" rel="noopener" class="city-link-item">Police</a> 
-                <a href="https://www.facebook.com/sfchronicle/" target="_blank" rel="noopener" class="city-link-item">Media</a> 
-                <a href="https://www.reddit.com/r/bayarea/new/" target="_blank" rel="noopener" class="city-link-item">OSINT (Reddit)</a>
-              </div>
-            </article>
-             <!-- Seattle -->
-            <article class="card city-card" data-risk="low">
-              <div class="city-head">
-                <div><div class="city-name">Seattle</div><div class="stadium">Lumen Field</div></div>
-                <span class="risk-pill low">P3</span>
-              </div>
-              <div class="city-links">
-                <a href="https://x.com/OEMSeattle" target="_blank" rel="noopener" class="city-link-item">OEM</a> 
-                <a href="https://x.com/kcmetroalerts" target="_blank" rel="noopener" class="city-link-item">Transit</a> 
-                <a href="https://x.com/SeattlePD" target="_blank" rel="noopener" class="city-link-item">Police</a> 
-                <a href="https://www.facebook.com/seattletimes" target="_blank" rel="noopener" class="city-link-item">Media</a> 
-                <a href="https://t.me/s/seattle_intel" target="_blank" rel="noopener" class="city-link-item">OSINT (TG)</a>
-              </div>
-            </article>
-            <!-- Vancouver -->
-            <article class="card city-card" data-risk="low">
-              <div class="city-head">
-                <div><div class="city-name">Vancouver</div><div class="stadium">BC Place</div></div>
-                <span class="risk-pill low">P3</span>
-              </div>
-               <div class="city-links">
-                <a href="https://x.com/CityofVancouver" target="_blank" rel="noopener" class="city-link-item">Emerg. Mgmt</a> 
-                <a href="https://x.com/TransLink" target="_blank" rel="noopener" class="city-link-item">Transit</a> 
-                <a href="https://x.com/VancouverPD" target="_blank" rel="noopener" class="city-link-item">RCMP/Police</a> 
-                <a href="https://www.facebook.com/VancouverSun" target="_blank" rel="noopener" class="city-link-item">Media</a> 
-                <a href="https://www.reddit.com/r/vancouver/new/" target="_blank" rel="noopener" class="city-link-item">OSINT (Reddit)</a>
-              </div>
-            </article>
-             <!-- Guadalajara -->
-            <article class="card city-card" data-risk="low">
-              <div class="city-head">
-                <div><div class="city-name">Guadalajara</div><div class="stadium">Estadio Akron</div></div>
-                <span class="risk-pill low">P3</span>
-              </div>
-               <div class="city-links">
-                <a href="https://x.com/PCJalisco" target="_blank" rel="noopener" class="city-link-item">Protección Civil</a> 
-                <a href="https://x.com/SITEURJAL" target="_blank" rel="noopener" class="city-link-item">Transit</a> 
-                <a href="https://x.com/PoliciaGDL" target="_blank" rel="noopener" class="city-link-item">Police</a> 
-                <a href="https://www.facebook.com/MuralCom/" target="_blank" rel="noopener" class="city-link-item">Media</a> 
-                <a href="https://t.me/s/jalisco_rojo" target="_blank" rel="noopener" class="city-link-item">OSINT (TG)</a>
-              </div>
-            </article>
-          </div>
-        </div>
-
-        <div class="region" id="region-central">
-          <h2 class="region-title">Central Corridor</h2>
-          <div class="city-list">
-            <!-- Mexico City -->
-            <article class="card city-card" data-risk="high">
-              <div class="city-head">
-                <div><div class="city-name">Mexico City</div><div class="stadium">Estadio Azteca</div></div>
-                <span class="risk-pill high">P1</span>
-              </div>
-              <div class="city-links">
-                <a href="https://x.com/SGIRPC_CDMX" target="_blank" rel="noopener" class="city-link-item">Protección Civil</a> 
-                <a href="https://x.com/MetroCDMX" target="_blank" rel="noopener" class="city-link-item">Transit</a> 
-                <a href="https://x.com/SSC_CDMX" target="_blank" rel="noopener" class="city-link-item">SSC Police</a> 
-                <a href="https://www.facebook.com/ElUniversalOnline" target="_blank" rel="noopener" class="city-link-item">Media</a> 
-                <a href="https://www.reddit.com/r/MexicoCity/new/" target="_blank" rel="noopener" class="city-link-item">OSINT (Reddit)</a>
-              </div>
-            </article>
-            <article class="card city-card" data-risk="medium">
-              <div class="city-head">
-                <div><div class="city-name">Houston</div><div class="stadium">NRG Stadium</div></div>
-                <span class="risk-pill medium">P2</span>
-              </div>
-              <div class="city-links">
-                <a href="https://x.com/HoustonOEM" target="_blank" rel="noopener" class="city-link-item">OEM</a> 
-                <a href="https://x.com/METROHouston" target="_blank" rel="noopener" class="city-link-item">Transit</a> 
-                <a href="https://x.com/houstonpolice" target="_blank" rel="noopener" class="city-link-item">Police</a> 
-                <a href="https://www.facebook.com/houstonchronicle" target="_blank" rel="noopener" class="city-link-item">Media</a> 
-                <a href="https://t.me/s/houston_scanner" target="_blank" rel="noopener" class="city-link-item">OSINT (TG)</a>
-              </div>
-            </article>
-            <article class="card city-card" data-risk="medium">
-              <div class="city-head">
-                <div><div class="city-name">Dallas</div><div class="stadium">AT&T Stadium</div></div>
-                <span class="risk-pill medium">P2</span>
-              </div>
-               <div class="city-links">
-                <a href="https://x.com/DallasOEM" target="_blank" rel="noopener" class="city-link-item">OEM</a> 
-                <a href="https://x.com/dartmedia" target="_blank" rel="noopener" class="city-link-item">Transit</a> 
-                <a href="https://x.com/DallasPD" target="_blank" rel="noopener" class="city-link-item">Police</a> 
-                <a href="https://www.facebook.com/dallasnews" target="_blank" rel="noopener" class="city-link-item">Media</a> 
-                <a href="https://www.reddit.com/r/Dallas/new/" target="_blank" rel="noopener" class="city-link-item">OSINT (Reddit)</a>
-              </div>
-            </article>
-            <article class="card city-card" data-risk="medium">
-              <div class="city-head">
-                <div><div class="city-name">Kansas City</div><div class="stadium">Arrowhead Stadium</div></div>
-                <span class="risk-pill medium">P2</span>
-              </div>
-               <div class="city-links">
-                <a href="https://x.com/KCMO" target="_blank" rel="noopener" class="city-link-item">OEM</a> 
-                <a href="https://x.com/RideKCTransit" target="_blank" rel="noopener" class="city-link-item">Transit</a> 
-                <a href="https://x.com/kcpolice" target="_blank" rel="noopener" class="city-link-item">Police</a> 
-                <a href="https://www.facebook.com/kansascitystar" target="_blank" rel="noopener" class="city-link-item">Media</a> 
-                <a href="https://t.me/s/kc_intel" target="_blank" rel="noopener" class="city-link-item">OSINT (TG)</a>
-              </div>
-            </article>
-            <article class="card city-card" data-risk="low">
-              <div class="city-head">
-                <div><div class="city-name">Monterrey</div><div class="stadium">Estadio BBVA</div></div>
-                <span class="risk-pill low">P3</span>
-              </div>
-               <div class="city-links">
-                <a href="https://x.com/PC_NuevoLeon" target="_blank" rel="noopener" class="city-link-item">Prot. Civil</a> 
-                <a href="https://x.com/metrorreynl" target="_blank" rel="noopener" class="city-link-item">Transit</a> 
-                <a href="https://x.com/FuerzaCivil_NL" target="_blank" rel="noopener" class="city-link-item">Police</a> 
-                <a href="https://www.facebook.com/elnortecom" target="_blank" rel="noopener" class="city-link-item">Media</a> 
-                <a href="https://www.reddit.com/r/Monterrey/new/" target="_blank" rel="noopener" class="city-link-item">OSINT (Reddit)</a>
-              </div>
-            </article>
-          </div>
-        </div>
-
-        <div class="region" id="region-eastern">
-          <h2 class="region-title">Eastern Corridor</h2>
-          <div class="city-list">
-             <!-- NY/NJ -->
-            <article class="card city-card" data-risk="medium">
-              <div class="city-head">
-                <div><div class="city-name">New York/New Jersey</div><div class="stadium">MetLife Stadium</div></div>
-                <span class="risk-pill medium">P2</span>
-              </div>
-              <div class="city-links">
-                <a href="https://x.com/NotifyNYC" target="_blank" rel="noopener" class="city-link-item">OEM</a> 
-                <a href="https://x.com/NYCTSubway" target="_blank" rel="noopener" class="city-link-item">Transit</a> 
-                <a href="https://x.com/NYPDnews" target="_blank" rel="noopener" class="city-link-item">Police</a> 
-                <a href="https://www.facebook.com/nytimes" target="_blank" rel="noopener" class="city-link-item">Media</a> 
-                <a href="https://t.me/s/NYScanner" target="_blank" rel="noopener" class="city-link-item">OSINT (TG)</a>
-              </div>
-            </article>
-            <!-- Toronto -->
-            <article class="card city-card" data-risk="medium">
-              <div class="city-head">
-                <div><div class="city-name">Toronto</div><div class="stadium">BMO Field</div></div>
-                <span class="risk-pill medium">P2</span>
-              </div>
-              <div class="city-links">
-                <a href="https://x.com/TorontoOEM" target="_blank" rel="noopener" class="city-link-item">Emerg. Mgmt</a> 
-                <a href="https://x.com/TTCnotices" target="_blank" rel="noopener" class="city-link-item">TTC Transit</a> 
-                <a href="https://x.com/TorontoPolice" target="_blank" rel="noopener" class="city-link-item">Police</a> 
-                <a href="https://www.facebook.com/thestar" target="_blank" rel="noopener" class="city-link-item">Media</a> 
-                <a href="https://www.reddit.com/r/toronto/new/" target="_blank" rel="noopener" class="city-link-item">OSINT (Reddit)</a>
-              </div>
-            </article>
-            <article class="card city-card" data-risk="medium">
-              <div class="city-head">
-                <div><div class="city-name">Atlanta</div><div class="stadium">Mercedes-Benz Stadium</div></div>
-                <span class="risk-pill medium">P2</span>
-              </div>
-               <div class="city-links">
-                <a href="https://x.com/Atlanta_EMA" target="_blank" rel="noopener" class="city-link-item">OEM</a> 
-                <a href="https://x.com/MARTAservice" target="_blank" rel="noopener" class="city-link-item">Transit</a> 
-                <a href="https://x.com/Atlanta_Police" target="_blank" rel="noopener" class="city-link-item">Police</a> 
-                <a href="https://www.facebook.com/ajc" target="_blank" rel="noopener" class="city-link-item">Media</a> 
-                <a href="https://t.me/s/atlanta_alerts" target="_blank" rel="noopener" class="city-link-item">OSINT (TG)</a>
-              </div>
-            </article>
-            <article class="card city-card" data-risk="medium">
-              <div class="city-head">
-                <div><div class="city-name">Miami</div><div class="stadium">Hard Rock Stadium</div></div>
-                <span class="risk-pill medium">P2</span>
-              </div>
-               <div class="city-links">
-                <a href="https://x.com/MiamiDadeEM" target="_blank" rel="noopener" class="city-link-item">OEM</a> 
-                <a href="https://x.com/IRideMDT" target="_blank" rel="noopener" class="city-link-item">Transit</a> 
-                <a href="https://x.com/MiamiDadePD" target="_blank" rel="noopener" class="city-link-item">Police</a> 
-                <a href="https://www.facebook.com/miamiherald" target="_blank" rel="noopener" class="city-link-item">Media</a> 
-                <a href="https://www.reddit.com/r/Miami/new/" target="_blank" rel="noopener" class="city-link-item">OSINT (Reddit)</a>
-              </div>
-            </article>
-            <article class="card city-card" data-risk="low">
-              <div class="city-head">
-                <div><div class="city-name">Boston</div><div class="stadium">Gillette Stadium</div></div>
-                <span class="risk-pill low">P3</span>
-              </div>
-               <div class="city-links">
-                <a href="https://x.com/AlertBoston" target="_blank" rel="noopener" class="city-link-item">OEM</a> 
-                <a href="https://x.com/MBTA" target="_blank" rel="noopener" class="city-link-item">Transit</a> 
-                <a href="https://x.com/bostonpolice" target="_blank" rel="noopener" class="city-link-item">Police</a> 
-                <a href="https://www.facebook.com/BostonGlobe" target="_blank" rel="noopener" class="city-link-item">Media</a> 
-                <a href="https://t.me/s/boston_scanner" target="_blank" rel="noopener" class="city-link-item">OSINT (TG)</a>
-              </div>
-            </article>
-            <article class="card city-card" data-risk="low">
-              <div class="city-head">
-                <div><div class="city-name">Philadelphia</div><div class="stadium">Lincoln Financial Field</div></div>
-                <span class="risk-pill low">P3</span>
-              </div>
-               <div class="city-links">
-                <a href="https://x.com/PhilaOEM" target="_blank" rel="noopener" class="city-link-item">OEM</a> 
-                <a href="https://x.com/SEPTA_SOCIAL" target="_blank" rel="noopener" class="city-link-item">Transit</a> 
-                <a href="https://x.com/PhillyPolice" target="_blank" rel="noopener" class="city-link-item">Police</a> 
-                <a href="https://www.facebook.com/phillyinquirer" target="_blank" rel="noopener" class="city-link-item">Media</a> 
-                <a href="https://www.reddit.com/r/philadelphia/new/" target="_blank" rel="noopener" class="city-link-item">OSINT (Reddit)</a>
-              </div>
-            </article>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- TIMELINE -->
-    <section id="timeline" class="tab-pane">
-      <div class="card table-card">
-        <table class="timeline">
-          <thead>
-            <tr>
-              <th>Date</th>
-              <th>City</th>
-              <th>Security Event / Operation</th>
-              <th>Type</th>
-              <th>Confidence</th>
-              <th>Alert Tier</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr data-risk="high">
-              <td>Jun 04</td>
-              <td>Mexico City</td>
-              <td>Stadium security rehearsal – major road closures around Azteca</td>
-              <td><span class="tl-type">Planned Test</span></td>
-              <td><span class="tl-conf confirmed">Confirmed</span></td>
-              <td><span class="impact high">P1</span></td>
-            </tr>
-            <tr data-risk="high">
-              <td>Jun 05</td>
-              <td>Los Angeles</td>
-              <td>UNITE HERE Local 11 potential strike mobilization deadline</td>
-              <td><span class="tl-type">Expected Risk</span></td>
-              <td><span class="tl-conf likely">Likely</span></td>
-              <td><span class="impact high">P1</span></td>
-            </tr>
-            <tr data-risk="medium">
-              <td>Jun 06</td>
-              <td>New York/NJ</td>
-              <td>Port Authority & NJSP gridlock/evacuation test – Lincoln Tunnel</td>
-              <td><span class="tl-type">Planned Test</span></td>
-              <td><span class="tl-conf confirmed">Confirmed</span></td>
-              <td><span class="impact medium">P2</span></td>
-            </tr>
-            <tr data-risk="medium">
-              <td>Jun 07</td>
-              <td>Toronto</td>
-              <td>CBSA border simulation – Peace Bridge transit delays expected</td>
-              <td><span class="tl-type">Planned Test</span></td>
-              <td><span class="tl-conf confirmed">Confirmed</span></td>
-              <td><span class="impact medium">P2</span></td>
-            </tr>
-            <tr data-risk="low">
-              <td>Jun 08</td>
-              <td>Miami</td>
-              <td>FIFA Integrity Task Force remote deployment check</td>
-              <td><span class="tl-type">Official Event</span></td>
-              <td><span class="tl-conf confirmed">Confirmed</span></td>
-              <td><span class="impact low">P3</span></td>
-            </tr>
-            <tr data-risk="low">
-              <td>Jun 09</td>
-              <td>Dallas</td>
-              <td>AT&T Stadium anti-drone detection systems live test</td>
-              <td><span class="tl-type">Planned Test</span></td>
-              <td><span class="tl-conf confirmed">Confirmed</span></td>
-              <td><span class="impact low">P3</span></td>
-            </tr>
-            <tr data-risk="medium">
-              <td>Jun 10</td>
-              <td>North America</td>
-              <td>Joint US/Canada/Mexico Ebola screening protocols fully active</td>
-              <td><span class="tl-type">Official Event</span></td>
-              <td><span class="tl-conf confirmed">Confirmed</span></td>
-              <td><span class="impact medium">P2</span></td>
-            </tr>
-            <tr data-risk="low">
-              <td>Jun 11</td>
-              <td>New York/NJ</td>
-              <td>Unconfirmed protest chatter - Pro-Palestinian sit-in near transit hubs</td>
-              <td><span class="tl-type">Analyst Watchpoint</span></td>
-              <td><span class="tl-conf needs-val">Needs Validation</span></td>
-              <td><span class="impact low">P3</span></td>
-            </tr>
-            <tr data-risk="high">
-              <td>Jun 11</td>
-              <td>Mexico City</td>
-              <td><strong>OPENING MATCH:</strong> Mexico vs. South Africa (Estadio Azteca)</td>
-              <td><span class="tl-type">Official Event</span></td>
-              <td><span class="tl-conf confirmed">Confirmed</span></td>
-              <td><span class="impact high">P1</span></td>
-            </tr>
-            <tr data-risk="medium">
-              <td>Jun 12</td>
-              <td>Toronto</td>
-              <td><strong>CAN OPENER:</strong> Canada vs. Bosnia & Herzegovina (BMO Field)</td>
-              <td><span class="tl-type">Official Event</span></td>
-              <td><span class="tl-conf confirmed">Confirmed</span></td>
-              <td><span class="impact medium">P2</span></td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-    </section>
-
-    <!-- SOURCES & KEYWORDS -->
-    <section id="sources" class="tab-pane">
-      <div class="sources-grid">
-        <div class="card">
-          <h2 class="section-head">Expanded OSINT Keyword Matrix</h2>
-          <div class="keyword-group-container">
-            
-            <div class="kw-group">
-              <h4>Crowd Safety</h4>
-              <ul>
-                <li>crush, stampede, evacuation, trapped, medical emergency <span class="kw-lang">(EN)</span></li>
-                <li>estampida, evacuación, emergencia médica, desmayo <span class="kw-lang">(ES)</span></li>
-                <li>mouvement de foule, évacuation, urgence médicale <span class="kw-lang">(FR)</span></li>
-              </ul>
-            </div>
-            
-            <div class="kw-group">
-              <h4>Infrastructure & Transit</h4>
-              <ul>
-                <li>power outage, blackout, cell outage, train suspended, airport delays, bridge closure, gridlock <span class="kw-lang">(EN)</span></li>
-                <li>apagón, sin luz, sin señal, tren suspendido, vuelos retrasados, puente cerrado, tráfico <span class="kw-lang">(ES)</span></li>
-                <li>panne de courant, réseau en panne, train suspendu, retards de vol, pont fermé, bouchon <span class="kw-lang">(FR)</span></li>
-              </ul>
-            </div>
-
-            <div class="kw-group">
-              <h4>Protests & Labor</h4>
-              <ul>
-                <li>strike, walkout, protest, ICE raid, blockade, riot <span class="kw-lang">(EN)</span></li>
-                <li>huelga, paro, protesta, redada, bloqueo, disturbio <span class="kw-lang">(ES)</span></li>
-                <li>grève, débrayage, manifestation, barrage, émeute <span class="kw-lang">(FR)</span></li>
-              </ul>
-            </div>
-
-            <div class="kw-group">
-              <h4>Weather & Environment</h4>
-              <ul>
-                <li>heat warning, dehydration, storm delay, lightning strike, flash flood <span class="kw-lang">(EN)</span></li>
-                <li>alerta de calor, deshidratación, tormenta, rayo, inundación <span class="kw-lang">(ES)</span></li>
-                <li>canicule, déshydratation, orage, foudre, inondation <span class="kw-lang">(FR)</span></li>
-              </ul>
-            </div>
-
-            <div class="kw-group">
-              <h4>VIP & Personality Safety</h4>
-              <ul>
-                <li>team hotel, convoy, police escort, training ground, harassment, mobbed <span class="kw-lang">(EN)</span></li>
-                <li>hotel de la selección, caravana, escolta policial, asedio, acoso <span class="kw-lang">(ES)</span></li>
-                <li>hôtel de l'équipe, convoi, escorte, harcèlement, envahi <span class="kw-lang">(FR)</span></li>
-              </ul>
-            </div>
-
-            <div class="kw-group">
-              <h4>Misinformation & Scams</h4>
-              <ul>
-                <li>hoax, fake pass, fake closure, scam alert, ticket fraud <span class="kw-lang">(EN)</span></li>
-                <li>engaño, pase falso, cierre falso, alerta de fraude, boletos falsos <span class="kw-lang">(ES)</span></li>
-                <li>canular, faux billet, fausse alerte, arnaque, fraude <span class="kw-lang">(FR)</span></li>
-              </ul>
-            </div>
-
-          </div>
-        </div>
-      </div>
-    </section>
-  </main>
-
-<script>
-  // UTC Clock
-  function updateClock() {
-    const now = new Date();
-    const h = String(now.getUTCHours()).padStart(2,'0');
-    const m = String(now.getUTCMinutes()).padStart(2,'0');
-    const s = String(now.getUTCSeconds()).padStart(2,'0');
-    document.getElementById('utc-clock').textContent = `${h}:${m}:${s} UTC`;
-  }
-  updateClock();
-  setInterval(updateClock, 1000);
-
-  // Countdown
-  function updateCountdown() {
-    const target = new Date('2026-06-11T00:00:00Z');
-    const now = new Date();
-    const diff = target - now;
-    const days = Math.max(0, Math.ceil(diff / (1000*60*60*24)));
-    document.getElementById('countdown').textContent = `T-${days} days`;
-  }
-  updateCountdown();
-
-  // Tabs
-  document.querySelectorAll('.tabs button').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('.tabs button').forEach(b => b.classList.remove('active'));
-      document.querySelectorAll('.tab-pane').forEach(p => p.classList.remove('active'));
-      btn.classList.add('active');
-      document.getElementById(btn.dataset.tab).classList.add('active');
-    });
-  });
-
-  // Filters with Empty State Logic (Now applies to Risk Cards, City Cards, AND Timeline Rows)
-  let activeFilter = null;
-  document.querySelectorAll('.filter').forEach(f => {
-    f.addEventListener('click', () => {
-      const level = f.dataset.level;
-      
-      if (activeFilter === level) {
-        // Reset everything if clicking the active filter again
-        activeFilter = null;
-        document.querySelectorAll('.filter').forEach(x => x.classList.remove('active'));
-        document.querySelectorAll('[data-risk]').forEach(el => el.classList.remove('hidden'));
-        document.querySelectorAll('.region').forEach(r => r.classList.remove('hidden'));
-      } else {
-        // Apply filter
-        activeFilter = level;
-        document.querySelectorAll('.filter').forEach(x => x.classList.toggle('active', x === f));
+    <script>
+        // Points directly to the file the GitHub robot builds
+        const API_ENDPOINT = './data.json'; 
         
-        // Hide/Show individual cards AND timeline table rows based on data-risk attribute
-        document.querySelectorAll('[data-risk]').forEach(el => {
-          el.classList.toggle('hidden', el.dataset.risk !== level);
-        });
+        async function fetchDashboardData() {
+            document.getElementById('sync-icon').classList.add('animate-spin');
+            
+            try {
+                const response = await fetch(API_ENDPOINT);
+                if (!response.ok) throw new Error('File not ready yet');
+                const data = await response.json();
+                
+                document.getElementById('api-status').textContent = 'LIVE FEED SYNCED';
+                document.getElementById('api-status').className = 'text-emerald-400 font-bold';
+                
+                renderDashboard(data);
+            } catch (error) {
+                document.getElementById('api-status').textContent = 'AWAITING INITIAL ROBOT RUN...';
+                document.getElementById('api-status').className = 'text-amber-400 font-bold';
+                
+                // Temporary layout structure if data.json doesn't exist yet
+                document.getElementById('risk-cards-container').innerHTML = `
+                    <div class="p-6 col-span-4 text-center rounded-xl bg-slate-900 border border-slate-800 text-slate-400">
+                        Awaiting data pipeline creation. Go to your GitHub Actions tab and trigger the workflow manually to generate the first dataset.
+                    </div>`;
+            }
+        }
 
-        // Hide empty region wrappers in the Cities tab
-        document.querySelectorAll('.region').forEach(region => {
-          const visibleCities = Array.from(region.querySelectorAll('.city-card')).filter(c => !c.classList.contains('hidden'));
-          region.classList.toggle('hidden', visibleCities.length === 0);
-        });
-      }
-    });
-  });
-</script>
+        function renderDashboard(data) {
+            const riskContainer = document.getElementById('risk-cards-container');
+            riskContainer.innerHTML = ''; 
+            
+            data.risks.forEach(risk => {
+                let html = `
+                <div class="card-hover relative overflow-hidden rounded-2xl bg-slate-900 border border-slate-800 p-5 shadow-lg">
+                    <div class="absolute top-0 left-0 w-full h-1 bg-${risk.severityColor === 'red' ? 'red' : 'amber'}-600"></div>
+                    <div class="flex items-start justify-between mb-3">
+                        <h3 class="font-bold text-white text-base">${risk.title}</h3>
+                        <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-${risk.severityColor === 'red' ? 'red' : 'amber'}-600 text-white shadow-md">${risk.severityText}</span>
+                    </div>
+                    <div class="flex gap-2 mb-3">
+                        <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-emerald-500/20 text-emerald-400 border border-emerald-500/30">${risk.status}</span>
+                    </div>
+                    <p class="text-sm text-slate-300 leading-relaxed mb-4">${risk.description}</p>
+                    <div class="space-y-1.5 text-xs text-slate-400 font-mono truncate">
+                `;
+                
+                if(risk.links) {
+                    risk.links.forEach(link => {
+                        html += `<div><span class="text-slate-600">↳</span> <a href="${link.url}" target="_blank" class="hover:text-blue-400 hover:underline">${link.label}</a></div>`;
+                    });
+                }
+                
+                html += `</div></div>`;
+                riskContainer.insertAdjacentHTML('beforeend', html);
+            });
+
+            const timelineContainer = document.getElementById('timeline-body');
+            timelineContainer.innerHTML = '';
+            
+            data.timeline.forEach(item => {
+                const tr = `
+                <tr class="hover:bg-slate-800/40 transition">
+                    <td class="py-3 pr-4 font-mono text-amber-300">${item.date}</td>
+                    <td class="py-3 pr-4 font-medium">${item.loc}</td>
+                    <td class="py-3 pr-4 text-slate-300">${item.event}</td>
+                    <td class="py-3"><span class="px-2 py-0.5 rounded text-xs border ${item.impactClass || 'bg-slate-800 text-slate-300 border-slate-700'}">${item.impact}</span></td>
+                </tr>`;
+                timelineContainer.insertAdjacentHTML('beforeend', tr);
+            });
+
+            const now = new Date();
+            document.getElementById('lastRefreshDisplay').textContent = now.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' }) + `, ` + now.toLocaleTimeString('en-GB', { hour: '2-digit', minute:'2-digit' }) + ` Local Time`;
+            document.getElementById('sync-icon').classList.remove('animate-spin');
+        }
+
+        function updateClock() {
+            const now = new Date();
+            const timeStr = now.toLocaleTimeString('en-US', { timeZone: 'America/New_York', hour12: true, hour: '2-digit', minute: '2-digit', second: '2-digit' });
+            const dateStr = now.toLocaleDateString('en-US', { timeZone: 'America/New_York', weekday: 'short', month: 'short', day: 'numeric' });
+            document.getElementById('liveClock').innerHTML = `${timeStr} <span class="text-slate-500">• ${dateStr}</span>`;
+            
+            const kickoff = new Date('2026-06-11T00:00:00-04:00');
+            const diff = kickoff - now;
+            const days = Math.max(0, Math.ceil(diff / (1000*60*60*24)));
+            document.getElementById('countdown').textContent = days + (days === 1 ? ' day' : ' days');
+        }
+
+        updateClock();
+        setInterval(updateClock, 1000);
+        fetchDashboardData();
+        setInterval(fetchDashboardData, 60000); 
+    </script>
 </body>
 </html>
