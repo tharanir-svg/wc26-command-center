@@ -70,10 +70,28 @@ worldcup_terms = [
     "world cup 2026",
     "2026 world cup",
     "host city",
+    "host cities",
     "fan zone",
+    "fan zones",
     "world cup security",
     "world cup stadium",
-    "world cup transportation"
+    "world cup transportation",
+    "metlife stadium",
+    "sofi stadium",
+    "estadio azteca",
+    "bmo field",
+    "hard rock stadium",
+    "mercedes-benz stadium",
+    "gillette stadium",
+    "lincoln financial field",
+    "levi's stadium",
+    "lumen field",
+    "bc place",
+    "nrg stadium",
+    "at&t stadium",
+    "arrowhead stadium",
+    "estadio bbva",
+    "estadio akron"
 ]
 
 blocked_terms = [
@@ -104,7 +122,6 @@ blocked_terms = [
     "golf",
     "tennis"
 ]
-
 # --------------------------------------------------
 # PROCESS ARTICLES
 # --------------------------------------------------
