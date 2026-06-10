@@ -41,4 +41,3 @@ if __name__ == '__main__':
         json.dump(payload, f, ensure_ascii=False, indent=2)
         f.write('\n')
     print(f'Created {OUTPUT_FILE}')
-
