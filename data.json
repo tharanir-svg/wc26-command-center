@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 1,
-    "p2": 3,
-    "p3": 25
+    "p2": 1,
+    "p3": 40
   },
   "watchlist": [
     {
@@ -131,674 +131,973 @@
   ],
   "risks": [
     {
-      "title": "Philips Hue smart lights now react to live sports events in real-time",
+      "title": "Everything you need to know for the FIFA World Cup Kansas City Fan Festival",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "Signify, the firm behind Philips Hue, is launching a new Sports Live feature that connects lighting effects to real-time live sports data. The new feature arrives in time for the 2026 FIFA World Cup kickoff.\n\n\n\n more\u2026",
-      "timestamp": "2026-06-10T22:30:47.359244Z",
+      "description": "The FIFA Fan Festival in Kansas City will be open to the public on Thursday. Here's everything you need to know for the big event.",
+      "timestamp": "2026-06-11T12:55:19.504601Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://9to5mac.com/2026/06/09/philips-hue-smart-lights-will-soon-be-able-to-react-to-live-sports-events-in-real-time/"
+          "url": "https://www.cjonline.com/story/sports/2026/06/10/what-you-need-to-know-for-the-fifa-world-cup-kansas-city-fan-fest/90485269007/"
         }
       ]
     },
     {
-      "title": "The 2026 World Cup Absent XI: Best players missing the tournament",
+      "title": "Zee onboards Apple, Mahindra and Diageo among key advertisers for FIFA World Cup 2026",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "The 2026 World Cup will be missing several of global soccer's biggest stars, enough to construct an incredibly elite Absent XI watching from home. The 2026 World Cup is shaping up to be an unprecedented, historic spectacle. For the first time, 48 teams will c\u2026",
-      "timestamp": "2026-06-10T22:30:47.359309Z",
+      "description": "Zee secures major advertisers like Apple and Mahindra for FIFA World Cup 2026, enhancing brand engagement and monetization potential.",
+      "timestamp": "2026-06-11T12:55:19.504674Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/the-2026-world-cup-absent-xi-best-players-missing-the-tournament/"
+          "url": "https://www.thehindubusinessline.com/news/sports/zee-onboards-apple-mahindra-and-diageo-among-key-advertisers-for-fifa-world-cup-2026/article71084572.ece"
         }
       ]
     },
     {
-      "title": "SoFi Stadium workers make final decision on bombshell strike action just 72 hours before hosting USA's first World Cup game",
+      "title": "Socceroos 2026 World Cup Schedule: Australia Opens Group D Against Turkiye on June 14",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The Socceroos will compete in the 2026 FIFA World Cup, facing Turkiye, USA, and Paraguay in Group D. Australia aims to advance beyond the group stage for the first time since 2006.",
+      "timestamp": "2026-06-11T12:55:19.504723Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ibtimes.com.au/socceroos-2026-world-cup-group-d-challenge-1870449"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026: United Nations wants 'massive re-think' of US immigration enforcement",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The United Nations rights chief, Volker Turk, has called on the United States to rethink its immigration policies. He highlighted concerns that these practices are affecting human rights and dignity. Turk specifically mentioned the football World Cup, where f\u2026",
+      "timestamp": "2026-06-11T12:55:19.504806Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/international/global-trends/fifa-world-cup-united-nations-wants-massive-re-think-of-us-immigration-enforcement/articleshow/131635418.cms"
+        }
+      ]
+    },
+    {
+      "title": "What are the new rules at the 2026 World Cup?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup will look familiar to fans who tuned in to the 2022 edition, but there will be a few rule changes in place.",
+      "timestamp": "2026-06-11T12:55:19.504825Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/06/10/2026-world-cup-new-rules-fifa-ifab/90102544007/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026: Messi, Ronaldo and stars who may be playing their final World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup is poised to be a farewell stage for football legends like Messi and Ronaldo, potentially marking their sixth appearances. Veteran stars such as Modric, Ochoa, Neymar, and Salah also face a final opportunity to cement their legacies on\u2026",
+      "timestamp": "2026-06-11T12:55:19.504908Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/fifa-world-cup-2026-messi-ronaldo-and-stars-who-may-be-playing-their-final-world-cup/articleshow/131635071.cms"
+        }
+      ]
+    },
+    {
+      "title": "World Cup Group Stage: Schedule, scores and how to watch",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "One of the biggest sporting events on the planet is about to begin. Starting on Thursday, the FIFA World Cup gets underway in Mexico, Canada, and the United States. The World Cup begins with the group stage, as the 48 teams in the field battle it out to secur\u2026",
+      "timestamp": "2026-06-11T12:55:19.505040Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sbnation.com/soccer/1117513/world-cup-schedule-2026-how-to-watch-every-match-scores-and-more"
+        }
+      ]
+    },
+    {
+      "title": "Seven World Cup teams will call California home this summer",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "California will host seven national teams during the 2026 FIFA World Cup, more than any other U.S. state. Here's why countries including the United States, Australia and Switzerland chose the Golden State as their tournament home.",
+      "timestamp": "2026-06-11T12:55:19.505063Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/06/10/sports/2026-world-cup-why-7-teams-chose-ca-for-their-base-camps-and-the-full-list-for-all-48-nations/"
+        }
+      ]
+    },
+    {
+      "title": "Scorching US Summer Could Disrupt FIFA World Cup 2026",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Climate change has increased the likelihood of temperatures high enough to affect player performance at 97 of the 104 tournament matches.",
+      "timestamp": "2026-06-11T12:55:19.505111Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/scorching-us-summer-could-disrupt-fifa-world-cup-2026/20260610.htm"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Messi's Argentina swansong and Cristiano Ronaldo gunning for glory with Portugal: The football superstars who will see out their last dance at the 2026 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup is on the horizon, with the opening game set to take place on Thursday as Mexico welcome South Africa in the opener of the 23rd edition of football's greatest tournament.",
+      "timestamp": "2026-06-11T12:55:19.505170Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15884991/Lionel-Messi-Argentina-swansong-Cristiano-Ronald-Portugal-superstars-dance-2026-World-Cup.html"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026 odds: Futures picks, predictions, soccer best bets from proven expert",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Martin Green has analyzed the 2026 World Cup draw and locked in his best bets, overall winner, sleeper picks and top props",
+      "timestamp": "2026-06-11T12:55:19.505208Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/fifa-world-cup-2026-odds-favorites-futures-picks-predictions-contenders-sleepers-props-expert-best-bets/"
+        }
+      ]
+    },
+    {
+      "title": "The World Cup will likely be the biggest gambling event in history",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Global wagers on the 2026 World Cup could top $50 billion, according to Macquarie analyst Chad Beynon. That\u2019s up from more than $35 billion in the 2022 tournament.",
+      "timestamp": "2026-06-11T12:55:19.505234Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cnbc.com/2026/06/10/the-world-cup-will-likely-be-the-biggest-gambling-event-in-history.html"
+        }
+      ]
+    },
+    {
+      "title": "FIFA denies inclusion-themed armbands at 2026 World Cup as eight stars advocate for LGBTQ rights",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA's stance may undermine its anti-discrimination efforts, highlighting a disconnect between policy and player advocacy on inclusion.\nThe post FIFA denies inclusion-themed armbands at 2026 World Cup as eight stars advocate for LGBTQ rights appeared first on\u2026",
+      "timestamp": "2026-06-11T12:55:19.505282Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cryptobriefing.com/fifa-denies-inclusion-armbands-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup 2026 yellow card, red card and suspension rules",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup has new rules on yellow cards, red cards and suspensions. Here is what every fan needs to know before the tournament kicks off.",
+      "timestamp": "2026-06-11T12:55:19.505309Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/06/10/world-cup-2026-yellow-and-red-card-rules-suspensions-explained/90097616007/"
+        }
+      ]
+    },
+    {
+      "title": "When does the 2026 World Cup start?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup will be the largest tournament in history. Here's what you need to know.",
+      "timestamp": "2026-06-11T12:55:19.505324Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/06/10/2026-world-cup-start-date-time/90144104007/"
+        }
+      ]
+    },
+    {
+      "title": "Rooting for Team Brazil in World Cup 2026? Here's a Guide to All Their Matches",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Will the Sele\u00e7\u00e3o's samba soccer deliver their first triumph in over 20 years?",
+      "timestamp": "2026-06-11T12:55:19.505343Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cnet.com/tech/services-and-software/world-cup-2026-everything-you-need-to-know-about-team-brazil-plus-how-to-stream-their-matches/"
+        }
+      ]
+    },
+    {
+      "title": "Omar Artan reveals FIFA\u2019s support behind the scenes after World Cup decision",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Omar Abdulkadir Artan has returned home to Mogadishu after being denied entry to the United States, ending his chance to officiate at the 2026 World Cup. The Somali official had been due to make history at the tournament after being selected among the referee\u2026",
+      "timestamp": "2026-06-11T12:55:19.505374Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/omar-artan-reveals-fifas-support-behind-the-scenes-after-world-cup-decision/"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Cup: Top 10 highest-valued Serie A stars",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina pair Lautaro Mart\u00ednez and Nico Paz are the highest-valued Serie A stars at the World Cup, while Rafael Leao doesn't make the top three.",
+      "timestamp": "2026-06-11T12:55:19.505427Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/world-cup-highest-valued-stars-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "2026 FIFA World Cup full schedule, when do US soccer, Mexico play",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup features 104 matches across 16 venues in North America. See the full tournament schedule.",
+      "timestamp": "2026-06-11T12:55:19.505528Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.elpasotimes.com/story/sports/soccer/2026/06/10/complete-2026-fifa-world-cup-match-schedule-location-time/90477973007/"
+        }
+      ]
+    },
+    {
+      "title": "Pele and Diego Maradona tribute planned for World Cup opening ceremony in Mexico",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Pel\u00e9 and Diego Maradona are reportedly set to be honoured during the opening ceremony of the 2026 World Cup at Estadio Azteca in Mexico City. The tribute is planned for Thursday 11 June, ahead of the tournament\u2019s opening match between Mexico and South Africa.",
+      "timestamp": "2026-06-11T12:55:19.505576Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/pele-and-diego-maradona-tribute-planned-for-world-cup-opening-ceremony-in-mexico/"
+        }
+      ]
+    },
+    {
+      "title": "Where to watch England vs. Costa Rica live stream, TV channel, start time for international friendly",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England take on Costa Rica in an international friendly as preparations continue ahead of the upcoming FIFA World Cup. Here's how to watch the match, including live stream options, TV channel information and kickoff times around the world.",
+      "timestamp": "2026-06-11T12:55:19.505600Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/watch-england-vs-costa-rica-live-stream-tv-channel-start-time/f32f5ff3731c0eb6a569b11b"
+        }
+      ]
+    },
+    {
+      "title": "Lay's\u00ae Brings FIFA World Cup 2026\u2122 Excitement to Dallas with Immersive Pop-Up Featuring Exclusive Snacks, FIFA World Cup 2026\u2122 Ticket Giveaways & Fan Experiences",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Limited-time pre-game destination celebrates soccer fandom, summer watch parties and game-day snacking ahead of FIFA World Cup 2026\u2122 matches in Dallas PLANO, Texas, June 10, 2026 /PRNewswire/ -- As Dallas Fort-Worth gears up for a summer of FIFA World Cup 202\u2026",
+      "timestamp": "2026-06-11T12:55:19.505634Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/lays-brings-fifa-world-cup-2026-excitement-to-dallas-with-immersive-pop-up-featuring-exclusive-snacks-fifa-world-cup-2026-ticket-giveaways--fan-experiences-302795903.html"
+        }
+      ]
+    },
+    {
+      "title": "Football Daily",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "How will the rules at the 2026 World Cup differ from previous tournaments?",
+      "timestamp": "2026-06-11T12:55:19.505649Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.co.uk/sounds/play/p0nqz2dl?at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Cup power rankings: Ranking all 48 teams into 5 distinct tiers",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Paul Carr ranks all 48 teams in the 2026 World Cup into six tiers. Where does the U.S. stand?",
+      "timestamp": "2026-06-11T12:55:19.505678Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/betting/article/2026-world-cup-power-rankings-ranking-all-48-teams-into-5-distinct-tiers-110000617.html"
+        }
+      ]
+    },
+    {
+      "title": "New York Jets Flight Connections 06/10/26",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Happy Wednesday, Jets fans! Here are your daily links. NY Jets \u2013 MetLife Stadium Achieves LEED Gold Certification Ahead of FIFA World Cup 2026 Jack Bell \u2013 Jets LB Demario Davis on Rookie Edge David Bailey: \u2018Tremendously High Ceiling\u2019 Amanda Vogt \u2013 Aaron Glenn\u2026",
+      "timestamp": "2026-06-11T12:55:19.505700Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ganggreennation.com/new-york-jets-news/94478/new-york-jets-flight-connections-06-10-26"
+        }
+      ]
+    },
+    {
+      "title": "Friendlies: 793 minutes on the field, three goals and an assist from the Nerazzurri",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The international friendly window has come to an end, and everything is now set for the 2026 World Cup. The teams have warmed up for the international tournament, and several Nerazzurri players played...",
+      "timestamp": "2026-06-11T12:55:19.505723Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.inter.it/en/news/Inter-players-friendlies-recap-international-may-june-2026"
+        }
+      ]
+    },
+    {
+      "title": "TOC Guide To World Cup 2026",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Get ready for the biggest soccer tournament ever",
+      "timestamp": "2026-06-11T12:55:19.505737Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.theonlycolors.com/general/46626/toc-guide-to-world-cup-2026"
+        }
+      ]
+    },
+    {
+      "title": "Mexico vs. South Africa: How to watch the first game of the 2026 World Cup: TV channel, start time, where to stream free, and more",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Are you ready to watch the 2026 FIFA World Cup? Here's how to watch the first game!",
+      "timestamp": "2026-06-11T12:55:19.505774Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/mexico-vs-south-africa-how-to-watch-the-first-game-of-the-2026-world-cup-tv-channel-start-time-where-to-stream-free-and-more-105500752.html"
+        }
+      ]
+    },
+    {
+      "title": "Your face is the ticket: Google\u2019s Gemini and biometric gates are the World Cup\u2019s quieter tech story",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup is rolling out two layers of technology that most of its 10 million visitors will actually touch: a consumer-AI layer led by Google, and a biometric-identity layer that turns a fan\u2019s face into a ticket. This is the quieter half of the tourn\u2026",
+      "timestamp": "2026-06-11T12:55:19.505836Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thenextweb.com/news/world-cup-2026-biometrics-google-gemini/"
+        }
+      ]
+    },
+    {
+      "title": "The World Cup could be a petri dish for disease. Wastewater could sound the alarm",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "As millions of soccer fans pack FIFA World Cup venues, public health scientists created a wastewater monitoring network to forecast potential disease threats\u2014from measles to Ebola",
+      "timestamp": "2026-06-11T12:55:19.505915Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.scientificamerican.com/article/the-world-cup-could-be-a-petri-dish-for-disease-wastewater-could-sound-the-alarm/"
+        }
+      ]
+    },
+    {
+      "title": "beIN SPORTS assembles the biggest broadcast team for the biggest FIFA World Cup ever",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "DOHA: beIN SPORTS, one of the world\u2019s leading sports broadcasters, has unveiled a star-studded line-up of on-screen talent for its co...",
+      "timestamp": "2026-06-11T12:55:19.505963Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.gulf-times.com/article/727215/business/bein-sports-assembles-the-biggest-broadcast-team-for-the-biggest-fifa-world-cup-ever"
+        }
+      ]
+    },
+    {
+      "title": "Arsene Wenger backs \u2018attack-minded\u2019 France to win the World Cup",
       "risk": "high",
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
-      "description": "The union representing 2,000 bartenders, servers, cooks and dishwashers at SoFi Stadium in Inglewood, California, announced the news at a press conference on Tuesday afternoon.",
-      "timestamp": "2026-06-10T22:30:47.359364Z",
+      "description": "Ars\u00e8ne Wenger has backed Didier Deschamps to find balance in France\u2019s attack at the 2026 FIFA World Cup. The Former Arsenal manager believes Didier Deschamps has the experience needed to manage the...",
+      "timestamp": "2026-06-11T12:55:19.505989Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15887119/sofi-stadium-workers-strike-deal-los-angeles.html"
+          "url": "https://www.getfootballnewsfrance.com/2026/arsene-wenger-backs-attack-minded-france-to-win-the-world-cup/"
         }
       ]
     },
     {
-      "title": "USMNT want to \u201cmanage the game\u201d in Paraguay rematch",
+      "title": "Jump Trading turns to World Cup forecasting in search of new talent",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "The U.S. men\u2019s national team\u2019s opening match at the 2026 FIFA World Cup will come against one of their opponents from last fall\u2019s preparation schedule; Paraguay. Mauricio Pochettino\u2019s men played out a 2-1 home victory over Paraguay at Subaru Park last Novembe\u2026",
-      "timestamp": "2026-06-10T22:30:47.359394Z",
+      "description": "June 10 : Jump Trading has launched a global soccer forecasting competition, inviting participants to predict match outcomes of the 2026 FIFA World Cup, the trading firm said on Wednesday.Aimed at helping Jump identify talent it may not otherwise encounter, t\u2026",
+      "timestamp": "2026-06-11T12:55:19.506020Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://sbisoccer.com/2026/06/usmnt-want-to-manage-the-game-in-paraguay-rematch"
+          "url": "https://www.channelnewsasia.com/sport/jump-trading-turns-world-cup-forecasting-in-search-new-talent-6173991"
         }
       ]
     },
     {
-      "title": "How to bet on 2026 World Cup: Betting guide, schedule, odds, groups, rosters, promo codes, offers",
+      "title": "How to watch every 2026 World Cup soccer match in Columbus",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "Our World Cup betting guide tells you where to bet on the 2026 World Cup, gives odds, rosters, schedule, promo offers, and more",
-      "timestamp": "2026-06-10T22:30:47.359427Z",
+      "description": "The 2026 World Cup starts June 11. See how to watch every match on TV and streaming.",
+      "timestamp": "2026-06-11T12:55:19.506077Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://www.cbssports.com/betting/news/how-to-bet-on-2026-world-cup-betting-guide-schedule-odds-groups-rosters-promo-codes-offers/"
+          "url": "https://www.dispatch.com/story/sports/mls/columbus-crew/2026/06/10/columbus-fan-guide-how-to-watch-2026-world-cup-on-tv-streaming/90458078007/"
         }
       ]
     },
     {
-      "title": "USMNT stars aiming to \u2018inspire the next generation\u2019 as World Cup opener approaches",
+      "title": "Where to watch World Cup in Oklahoma City: Watch parties, sports bars",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "Mauricio Pochettino\u2019s U.S. Men\u2019s National Team is looking to serve as an inspiration for the next generation of budding soccer stars this summer as the FIFA World Cup nears",
-      "timestamp": "2026-06-10T22:30:47.359498Z",
+      "description": "Here are some Oklahoma City bars and restaurants planning events for the upcoming FIFA World Cup.",
+      "timestamp": "2026-06-11T12:55:19.506094Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/usmnt-inspire-fifa-world-cup-1878341"
+          "url": "https://www.oklahoman.com/story/sports/soccer/2026/06/10/watch-the-fifa-world-cup-in-these-oklahoma-city-bars-and-restaurants/90461587007/"
         }
       ]
     },
     {
-      "title": "SoFi Stadium workers reach tentative agreement, avert strike before World Cup opener",
+      "title": "Where to watch World Cup in Oklahoma City: Watch parties, sports bars",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Here are some Oklahoma City bars and restaurants planning events for the upcoming FIFA World Cup.",
+      "timestamp": "2026-06-11T12:55:19.506107Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.oklahoman.com/story/sports/soccer/2026/06/10/watch-the-fifa-world-cup-in-these-oklahoma-city-bars-and-restaurants/90461587007/"
+        }
+      ]
+    },
+    {
+      "title": "Midweek Roundup: Why, Robot",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Reminder: The FIFA World Cup starts tomorrow and the first match in Seattle is Monday, June 15, at noon. Plan for busy buses, trains, roadways, and lots of tourists. SDOT has travel tips. Metro has an SEA26 transit guide. Community Transit offers ways to Ride\u2026",
+      "timestamp": "2026-06-11T12:55:19.506142Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://seattletransitblog.com/2026/06/10/midweek-roundup-why-robot/"
+        }
+      ]
+    },
+    {
+      "title": "2026 FIFA World Cup: Group stage tiebreaker procedure explained",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "In the FIFA World Cup group stage, each team plays for points and goal difference to advance. If teams are tied, a tiebreaker determines who advances.",
+      "timestamp": "2026-06-11T12:55:19.506160Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/2026/06/10/world-cup-2026-group-stage-tiebreakers/90080096007/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026: Football body's chief Infantino faces questions on eve of tournament",
       "risk": "medium",
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
-      "description": "The agreement averts potential disruptions, ensuring smooth operations at a key World Cup venue, highlighting labor's critical role in event success.\nThe post SoFi Stadium workers reach tentative agreement, avert strike before World Cup opener appeared first \u2026",
-      "timestamp": "2026-06-10T22:30:47.359551Z",
+      "description": "FIFA President Gianni Infantino will address the media before the 2026 World Cup. Concerns linger over high ticket prices and United States immigration policies. Somali referee, Omar Artan was denied entry. Protests are also anticipated in Mexico City with th\u2026",
+      "timestamp": "2026-06-11T12:55:19.506188Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://cryptobriefing.com/sofi-stadium-workers-agreement-world-cup/"
+          "url": "https://economictimes.indiatimes.com/news/sports/fifa-world-cup-2026-football-bodys-chief-infantino-faces-questions-on-eve-of-tournament/articleshow/131631112.cms"
         }
       ]
     },
     {
-      "title": "FIFA faces scrutiny over US immigration policies impacting 2026 World Cup access",
+      "title": "This World Cup, You Can Watch the Game From a Ref\u2019s Point of View",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "US immigration policies could undermine the 2026 World Cup's global inclusivity, affecting attendance, perception, and FIFA's commercial interests.\nThe post FIFA faces scrutiny over US immigration policies impacting 2026 World Cup access appeared first on Cry\u2026",
-      "timestamp": "2026-06-10T22:30:47.359630Z",
+      "description": "Referees for the 2026 World Cup will be wearing cameras positioned at their temples, allowing TV audiences to see a live view of the pitch from a vantage point they never have before.",
+      "timestamp": "2026-06-11T12:55:19.506214Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://cryptobriefing.com/fifa-us-immigration-world-cup-access/"
+          "url": "https://www.wired.com/story/world-cup-referee-body-cameras-live/"
         }
       ]
     },
     {
-      "title": "Watch: Is the US ready to host the 2026 World Cup?",
+      "title": "The surprising science behind the 2026 World Cup grass",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "The BBC\u2019s Nada Tawfik reports on readiness concerns in the New York-New Jersey region, where eight matches will take place.",
-      "timestamp": "2026-06-10T22:30:47.359652Z",
+      "description": "How scientists are engineering the perfect World Cup pitch\u2014one so flawless that players never notice it",
+      "timestamp": "2026-06-11T12:55:19.506237Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://www.bbc.com/news/videos/cr5jm635q3yo"
+          "url": "https://www.scientificamerican.com/podcast/episode/the-surprising-science-behind-the-2026-world-cup-grass/"
         }
       ]
     },
     {
-      "title": "Are 2026 World Cup tickets still available? How to buy last-minute seats",
+      "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "With the 2026 FIFA World Cup set to begin in just a few days, tickets are still available for select matches. The 2026 FIFA World Cup will officially kick off on Thursday, June 11, with the opening ceremony at Estadio Azteca, followed by the Group A match bet\u2026",
-      "timestamp": "2026-06-10T22:30:47.359695Z",
+      "description": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you\u2019re being watched on your way to a match? These maps will help you.",
+      "timestamp": "2026-06-11T12:55:19.506262Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/are-2026-world-cup-tickets-still-available-how-to-buy-last-minute-seats/"
-        }
-      ]
-    },
-    {
-      "title": "Stadium Wonders: How Atlanta\u2019s Mercedes-Benz Stadium Became World Cup-Ready - Sports Illustrated",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Stadium Wonders: How Atlanta\u2019s Mercedes-Benz Stadium Became World Cup-ReadySports Illustrated From Spain to Haiti, here\u2019s one thing about World Cup teams playing in AtlantaAJC.com State and city cooperation key to Atlanta's World Cup traffic plan11Alive.com I\u2026",
-      "timestamp": "2026-06-10T22:30:47.359812Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183721812"
-        }
-      ]
-    },
-    {
-      "title": "World Cup primer: Favourites, darkhorses and other stuff to know",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "CBC Sports' daily newsletter previews the 2026 World Cup, where defending champion Argentina and co-host Canada are among the 48 nations competing in soccer's biggest event.",
-      "timestamp": "2026-06-10T22:30:47.359834Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-world-cup-2026-primer-9.7229172"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026: Telemundo Bets Big On Digital, Streaming And Immersive Tech",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Telemundo is chasing the Super Streamer with a multiplatform, interactive strategy that stretches well beyond the broadcast.",
-      "timestamp": "2026-06-10T22:30:47.359907Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/veronicavillafane/2026/06/09/world-cup-2026-telemundo-bets-big-on-digital-streaming-and-immersive-tech/"
-        }
-      ]
-    },
-    {
-      "title": "Internet falls in love with German soccer fan discovering American South ahead of 2026 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "A German soccer fan named Freddy is documenting his 2026 World Cup road trip through the American South, visiting Waffle House, Helen, Georgia, and more.",
-      "timestamp": "2026-06-10T22:30:47.359957Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxnews.com/outkick-sports/internet-falls-love-german-soccer-fan-discovering-american-south-ahead-2026-world-cup"
-        }
-      ]
-    },
-    {
-      "title": "How to watch USA Women\u2019s National Team Soccer on Tuesday vs Brazil, TV channel",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The United States Women\u2019s National Team and Brazil meet again on Tuesday night in Fortaleza, closing out a two-match friendly series between two of the top teams in women\u2019s soccer. MORE: 2026 FIFA World Cup: USA national team games, locations\u2026",
-      "timestamp": "2026-06-10T22:30:47.359990Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/how-to-watch-usa-womens-national-team-soccer-on-tuesday-vs-brazil-tv-channel/"
-        }
-      ]
-    },
-    {
-      "title": "How to watch Argentina vs Iceland: FREE streams, TV channels for World Cup 2026 warm-up",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "All the ways to watch Argentina vs Iceland live streams \u2013 including for FREE \u2013 with Scaloni sweating over Messi's injury status ahead of the World Cup warm-up.",
-      "timestamp": "2026-06-10T22:30:47.360015Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/how-to-watch/football/argentina-vs-iceland-free-streams-world-cup-2026-warm-up"
-        }
-      ]
-    },
-    {
-      "title": "SoFi Stadium workers' union reaches deal to avoid World Cup strike",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "When the U.S. faces Paraguay on Friday, attendees will have no issues when it comes to buying a beer or a hot dog.",
-      "timestamp": "2026-06-10T22:30:47.360137Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_481a1515-fa8b-4d47-9e07-642fb925a6c5"
-        }
-      ]
-    },
-    {
-      "title": "SoFi Stadium workers' union reaches deal to avoid World Cup strike",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "When the U.S. faces Paraguay on Friday, attendees will have no issues when it comes to buying a beer or a hot dog.",
-      "timestamp": "2026-06-10T22:30:47.360151Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sofi-stadium-workers-union-reaches-deal-to-avoid-world-cup-strike"
-        }
-      ]
-    },
-    {
-      "title": "Five USMNT players who will dictate FIFA World Cup run",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "For the U.S. men\u2019s national team to deliver a memorable run at the 2026 FIFA World Cup, Mauricio Pochettino will need his star players to lead and his supporting cast to step up. Less than half of Pochettino\u2019s World Cup roster were involved at the 2022 editio\u2026",
-      "timestamp": "2026-06-10T22:30:47.360179Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sbisoccer.com/2026/06/five-usmnt-players-who-will-dictate-fifa-world-cup-run"
-        }
-      ]
-    },
-    {
-      "title": "How to Watch the 2026 FIFA World Cup Live Without Cable (and Even for Free)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Mbappe, Messi, Yamal, and the world's other top soccer stars collide in North America this summer. Here's how to catch all the big goals with these streaming services or a VPN.\nEvery four years, fans from around the globe pack stadiums, living rooms, and bars\u2026",
-      "timestamp": "2026-06-10T22:30:47.360208Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/161984/how-to-watch-the-2026-fifa-world-cup-live-for-free-and-without-cable"
-        }
-      ]
-    },
-    {
-      "title": "Arrowhead Stadium Unveils Pristine Grass Field To Dispel International Concerns About World Cup Playing Surface",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The grass at Arrowhead Stadium is ready for the World Cup. Concerns about the condition of the field are dispelled. International soccer fans were worried about injuries, slippages, and overall playability. Fortunately, a plan is in place to ensure that every\u2026",
-      "timestamp": "2026-06-10T22:30:47.360466Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://brobible.com/sports/article/world-cup-grass-field-playing-surface-kansas-city-arrowhead-stadium-turf/"
-        }
-      ]
-    },
-    {
-      "title": "2026 World Cup could be decided by one eye-opening stat as comparison between Mexico and Curacao shows how uneven conditions may really be",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Mexico and Curacao have become central to a growing debate about whether travel demands could quietly shape the destiny of teams across North America. The 2026 FIFA World Cup is just two days away, but conversations around the tournament can also shift beyond\u2026",
-      "timestamp": "2026-06-10T22:30:47.360513Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/2026-world-cup-could-be-decided-by-one-eye-opening-stat-as-comparison-between-mexico-and-curacao-shows-how-uneven-conditions-may-really-be/"
-        }
-      ]
-    },
-    {
-      "title": "Is Lionel Messi playing today? Projected lineups for Argentina vs Iceland final pre-World Cup friendly",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi's Argentina will face Iceland in their final friendly before the 2026 FIFA World Cup. Argentina will play their final warmup match before their 2026 FIFA World Cup opener on Tuesday. They will take on Iceland at Jordan-Hare Stadium in Auburn, Ala\u2026",
-      "timestamp": "2026-06-10T22:30:47.360544Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/is-lionel-messi-playing-today-projected-lineups-for-argentina-vs-iceland-final-pre-world-cup-friendly/"
-        }
-      ]
-    },
-    {
-      "title": "Messi, Iran, The USMNT & Mbapp\u00e9 Vs. Haaland: 7 World Cup Group Games That Will Have The World Tuning In",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup, jointly hosted by the U.S., Canada and Mexico, is the biggest yet. The 48-team tournament, comprising 104 games, kicks off Thursday and anticipation is growing. But, it has been a contentious build-up. Exorbitant ticket prices and transpor\u2026",
-      "timestamp": "2026-06-10T22:30:47.360577Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://deadline.com/gallery/world-cup-2026-best-group-games/"
-        }
-      ]
-    },
-    {
-      "title": "Spain Is the World Cup Favorite \u2014 One Question Could Change That",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain enters the 2026 FIFA World Cup as the favorite, but concerns over one player's availability could shape its path to victory.",
-      "timestamp": "2026-06-10T22:30:47.360599Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.newsweek.com/sports/spain-is-the-world-cup-favorite-one-question-could-change-that-12050075"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026: Group L is closest thing to a 'group of death' at this tournament",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England, ranked fourth, aims for glory after recent finals appearances. Croatia, ranked eleventh, has a strong World Cup history, reaching the final in 2018. Ghana, ranked seventy-fourth, seeks to advance past the group stage. Panama, ranked thirty-third, mak\u2026",
-      "timestamp": "2026-06-10T22:30:47.360655Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/fifa-world-cup-2026-group-l-is-closest-thing-to-a-group-of-death-at-this-tournament/articleshow/131619599.cms"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026 odds, futures: Mexico looking to restore soccer standing with deep tournament run",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Mexico have slipped slightly in CONCACAF's hierarchy but have a chance to make a statement at the 2026 World Cup",
-      "timestamp": "2026-06-10T22:30:47.360674Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/betting/news/world-cup-2026-odds-futures-mexico-looking-to-restore-soccer-standing-with-deep-tournament-run/"
-        }
-      ]
-    },
-    {
-      "title": "When does the FIFA World Cup start and who are the favourites?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The FIFA World Cup is the biggest single-sport event on the planet and has delivered numerous historical moments, from Diego Maradona's \"hand of God\" in 1986 to Zinedine Zidane's infamous headbutt on Marco Materazzi.",
-      "timestamp": "2026-06-10T22:30:47.360717Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.abc.net.au/news/2026-06-10/fifa-world-cup-2026-tournament-explainer/106546094"
-        }
-      ]
-    },
-    {
-      "title": "State sport, silent streets: Unusually quiet countdown to football World Cup in Goa",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Goa sees little buzz ahead of the 2026 FIFA World Cup, as late-night TV timings, high costs and travel issues dampen excitement despite football\u2019s state-sport status.",
-      "timestamp": "2026-06-10T22:30:47.360743Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/city/goa/state-sport-silent-streets-unusually-quiet-countdown-to-football-world-cup-in-goa/articleshow/131619449.cms"
+          "url": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/"
         }
       ]
     }
   ],
   "timeline": [
     {
-      "date": "Jun 10",
-      "loc": "Global",
-      "event": "Philips Hue smart lights now react to live sports events in real-time",
+      "date": "Jun 11",
+      "loc": "Kansas City",
+      "event": "Everything you need to know for the FIFA World Cup Kansas City Fan Festival",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
       "impact": "P3 ADVISORY"
     },
     {
-      "date": "Jun 10",
+      "date": "Jun 11",
       "loc": "Global",
-      "event": "The 2026 World Cup Absent XI: Best players missing the tournament",
+      "event": "Zee onboards Apple, Mahindra and Diageo among key advertisers for FIFA World Cup 2026",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
       "impact": "P3 ADVISORY"
     },
     {
-      "date": "Jun 10",
-      "loc": "Los Angeles",
-      "event": "SoFi Stadium workers make final decision on bombshell strike action just 72 hours before hosting USA's first World Cup game",
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "Socceroos 2026 World Cup Schedule: Australia Opens Group D Against Turkiye on June 14",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026: United Nations wants 'massive re-think' of US immigration enforcement",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "What are the new rules at the 2026 World Cup?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026: Messi, Ronaldo and stars who may be playing their final World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "World Cup Group Stage: Schedule, scores and how to watch",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "Seven World Cup teams will call California home this summer",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "Scorching US Summer Could Disrupt FIFA World Cup 2026",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "Lionel Messi's Argentina swansong and Cristiano Ronaldo gunning for glory with Portugal: The football superstars who will see out their last dance at the 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026 odds: Futures picks, predictions, soccer best bets from proven expert",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "The World Cup will likely be the biggest gambling event in history",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "FIFA denies inclusion-themed armbands at 2026 World Cup as eight stars advocate for LGBTQ rights",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "World Cup 2026 yellow card, red card and suspension rules",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "When does the 2026 World Cup start?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "Rooting for Team Brazil in World Cup 2026? Here's a Guide to All Their Matches",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "Omar Artan reveals FIFA\u2019s support behind the scenes after World Cup decision",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "2026 World Cup: Top 10 highest-valued Serie A stars",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "2026 FIFA World Cup full schedule, when do US soccer, Mexico play",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Mexico City",
+      "event": "Pele and Diego Maradona tribute planned for World Cup opening ceremony in Mexico",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "Where to watch England vs. Costa Rica live stream, TV channel, start time for international friendly",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Dallas",
+      "event": "Lay's\u00ae Brings FIFA World Cup 2026\u2122 Excitement to Dallas with Immersive Pop-Up Featuring Exclusive Snacks, FIFA World Cup 2026\u2122 Ticket Giveaways & Fan Experiences",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "Football Daily",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "2026 World Cup power rankings: Ranking all 48 teams into 5 distinct tiers",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "New York / New Jersey",
+      "event": "New York Jets Flight Connections 06/10/26",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "Friendlies: 793 minutes on the field, three goals and an assist from the Nerazzurri",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "TOC Guide To World Cup 2026",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "Mexico vs. South Africa: How to watch the first game of the 2026 World Cup: TV channel, start time, where to stream free, and more",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "Your face is the ticket: Google\u2019s Gemini and biometric gates are the World Cup\u2019s quieter tech story",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "The World Cup could be a petri dish for disease. Wastewater could sound the alarm",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "beIN SPORTS assembles the biggest broadcast team for the biggest FIFA World Cup ever",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "Arsene Wenger backs \u2018attack-minded\u2019 France to win the World Cup",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "high",
       "impact": "P1 CRITICAL"
     },
     {
-      "date": "Jun 10",
+      "date": "Jun 11",
       "loc": "Global",
-      "event": "USMNT want to \u201cmanage the game\u201d in Paraguay rematch",
+      "event": "Jump Trading turns to World Cup forecasting in search of new talent",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
       "impact": "P3 ADVISORY"
     },
     {
-      "date": "Jun 10",
+      "date": "Jun 11",
       "loc": "Global",
-      "event": "How to bet on 2026 World Cup: Betting guide, schedule, odds, groups, rosters, promo codes, offers",
+      "event": "How to watch every 2026 World Cup soccer match in Columbus",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
       "impact": "P3 ADVISORY"
     },
     {
-      "date": "Jun 10",
+      "date": "Jun 11",
       "loc": "Global",
-      "event": "USMNT stars aiming to \u2018inspire the next generation\u2019 as World Cup opener approaches",
+      "event": "Where to watch World Cup in Oklahoma City: Watch parties, sports bars",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
       "impact": "P3 ADVISORY"
     },
     {
-      "date": "Jun 10",
-      "loc": "Los Angeles",
-      "event": "SoFi Stadium workers reach tentative agreement, avert strike before World Cup opener",
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "Where to watch World Cup in Oklahoma City: Watch parties, sports bars",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "Midweek Roundup: Why, Robot",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "2026 FIFA World Cup: Group stage tiebreaker procedure explained",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY"
+    },
+    {
+      "date": "Jun 11",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026: Football body's chief Infantino faces questions on eve of tournament",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "medium",
       "impact": "P2 DISRUPTION"
     },
     {
-      "date": "Jun 10",
+      "date": "Jun 11",
       "loc": "Global",
-      "event": "FIFA faces scrutiny over US immigration policies impacting 2026 World Cup access",
+      "event": "This World Cup, You Can Watch the Game From a Ref\u2019s Point of View",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
       "impact": "P3 ADVISORY"
     },
     {
-      "date": "Jun 10",
+      "date": "Jun 11",
       "loc": "Global",
-      "event": "Watch: Is the US ready to host the 2026 World Cup?",
+      "event": "The surprising science behind the 2026 World Cup grass",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
       "impact": "P3 ADVISORY"
     },
     {
-      "date": "Jun 10",
-      "loc": "Mexico City",
-      "event": "Are 2026 World Cup tickets still available? How to buy last-minute seats",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY"
-    },
-    {
-      "date": "Jun 10",
-      "loc": "Atlanta",
-      "event": "Stadium Wonders: How Atlanta\u2019s Mercedes-Benz Stadium Became World Cup-Ready - Sports Illustrated",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY"
-    },
-    {
-      "date": "Jun 10",
+      "date": "Jun 11",
       "loc": "Global",
-      "event": "World Cup primer: Favourites, darkhorses and other stuff to know",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY"
-    },
-    {
-      "date": "Jun 10",
-      "loc": "Global",
-      "event": "World Cup 2026: Telemundo Bets Big On Digital, Streaming And Immersive Tech",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY"
-    },
-    {
-      "date": "Jun 10",
-      "loc": "Global",
-      "event": "Internet falls in love with German soccer fan discovering American South ahead of 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY"
-    },
-    {
-      "date": "Jun 10",
-      "loc": "Global",
-      "event": "How to watch USA Women\u2019s National Team Soccer on Tuesday vs Brazil, TV channel",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY"
-    },
-    {
-      "date": "Jun 10",
-      "loc": "Global",
-      "event": "How to watch Argentina vs Iceland: FREE streams, TV channels for World Cup 2026 warm-up",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY"
-    },
-    {
-      "date": "Jun 10",
-      "loc": "Los Angeles",
-      "event": "SoFi Stadium workers' union reaches deal to avoid World Cup strike",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION"
-    },
-    {
-      "date": "Jun 10",
-      "loc": "Los Angeles",
-      "event": "SoFi Stadium workers' union reaches deal to avoid World Cup strike",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION"
-    },
-    {
-      "date": "Jun 10",
-      "loc": "Global",
-      "event": "Five USMNT players who will dictate FIFA World Cup run",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY"
-    },
-    {
-      "date": "Jun 10",
-      "loc": "Global",
-      "event": "How to Watch the 2026 FIFA World Cup Live Without Cable (and Even for Free)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY"
-    },
-    {
-      "date": "Jun 10",
-      "loc": "Global",
-      "event": "Arrowhead Stadium Unveils Pristine Grass Field To Dispel International Concerns About World Cup Playing Surface",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY"
-    },
-    {
-      "date": "Jun 10",
-      "loc": "Global",
-      "event": "2026 World Cup could be decided by one eye-opening stat as comparison between Mexico and Curacao shows how uneven conditions may really be",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY"
-    },
-    {
-      "date": "Jun 10",
-      "loc": "Global",
-      "event": "Is Lionel Messi playing today? Projected lineups for Argentina vs Iceland final pre-World Cup friendly",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY"
-    },
-    {
-      "date": "Jun 10",
-      "loc": "Global",
-      "event": "Messi, Iran, The USMNT & Mbapp\u00e9 Vs. Haaland: 7 World Cup Group Games That Will Have The World Tuning In",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY"
-    },
-    {
-      "date": "Jun 10",
-      "loc": "Global",
-      "event": "Spain Is the World Cup Favorite \u2014 One Question Could Change That",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY"
-    },
-    {
-      "date": "Jun 10",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026: Group L is closest thing to a 'group of death' at this tournament",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY"
-    },
-    {
-      "date": "Jun 10",
-      "loc": "Global",
-      "event": "World Cup 2026 odds, futures: Mexico looking to restore soccer standing with deep tournament run",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY"
-    },
-    {
-      "date": "Jun 10",
-      "loc": "Global",
-      "event": "When does the FIFA World Cup start and who are the favourites?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY"
-    },
-    {
-      "date": "Jun 10",
-      "loc": "Global",
-      "event": "State sport, silent streets: Unusually quiet countdown to football World Cup in Goa",
+      "event": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
       "impact": "P3 ADVISORY"
     }
   ],
-  "lastUpdated": "2026-06-10T22:30:47.361043Z"
+  "lastUpdated": "2026-06-11T12:55:19.506466Z"
 }
