@@ -264,15 +264,20 @@ for article in articles:
     })
 
     timeline.append({
-        "date": datetime.utcnow().strftime("%b %d"),
-        "loc": city,
-        "event": title,
-        "type": "News",
-        "confidence": "Confirmed",
-        "risk": risk_level,
-        "impact": severity_text
-    })
-
+    "date": today,
+    "loc": location,
+    "event": article["title"],
+    "type": "News",
+    "confidence": "Confirmed",
+    "risk": risk,
+    "impact": impact,
+    "links": [
+        {
+            "label": "Source",
+            "url": article["url"]
+        }
+    ]
+})
 # --------------------------------------------------
 # FALLBACK
 # --------------------------------------------------
