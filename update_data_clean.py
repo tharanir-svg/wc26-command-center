@@ -3,6 +3,8 @@ import json
 import requests
 from datetime import datetime
 
+today = datetime.utcnow().strftime("%b %d")
+
 print("=" * 60)
 print("RUNNING WC26 INTEL UPDATE")
 print("=" * 60)
