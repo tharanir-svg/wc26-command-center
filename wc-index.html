@@ -781,7 +781,28 @@ function renderTimeline(timeline) {
 
       <td>${item.loc || '-'}</td>
 
-      <td>${item.event || '-'}</td>
+      <td>
+    <div class="timeline-event">
+
+        <div>${item.event || '-'}</div>
+
+        ${
+            item.links && item.links.length
+            ? `
+            <div class="timeline-source">
+                <a href="${item.links[0].url}"
+                   target="_blank"
+                   rel="noopener noreferrer"
+                   class="source-link">
+                    🔗 Source
+                </a>
+            </div>
+            `
+            : ""
+        }
+
+    </div>
+</td>
 
       <td>
         <span class="tl-type">
