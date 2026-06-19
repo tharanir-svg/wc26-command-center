@@ -266,17 +266,17 @@ for article in articles:
     })
 
     timeline.append({
-    "date": today,
-    "loc": location,
-    "event": article["title"],
+    "date": datetime.utcnow().strftime("%b %d"),
+    "loc": city,
+    "event": title,
     "type": "News",
     "confidence": "Confirmed",
-    "risk": risk,
-    "impact": impact,
+    "risk": risk_level,
+    "impact": severity_text,
     "links": [
         {
             "label": "Source",
-            "url": article["url"]
+            "url": article.get("url", "")
         }
     ]
 })
