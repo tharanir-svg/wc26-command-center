@@ -750,7 +750,22 @@ function renderRisks(risks) {
 
     <p class="desc">${risk.description || ''}</p>
 
-  </article>
+${
+  risk.links && risk.links.length > 0
+    ? `
+      <div class="card-footer">
+        <a href="${risk.links[0].url}"
+           target="_blank"
+           rel="noopener noreferrer"
+           class="source-link">
+           🔗 Source
+        </a>
+      </div>
+    `
+    : ""
+}
+
+</article>
 `).join('');}
 
 function renderTimeline(timeline) {
