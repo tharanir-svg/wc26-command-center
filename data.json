@@ -6,7 +6,7 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 0,
+    "p2": 1,
     "p3": 25
   },
   "watchlist": [
@@ -131,12 +131,152 @@
   ],
   "risks": [
     {
+      "title": "Team USA or Team Mexico? Or both? In San Diego, World Cup fandom doesn't recognize borders",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "In many cities across the country, rooting for the U.S. Men's National Team during the FIFA World Cup is an easy choice. But for a cross-border city like San Diego, that choice isn\u2019t as simple for fans who have close ties to both the U.S. and Mexico.",
+      "timestamp": "2026-07-03T22:50:30.157292Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.kpbs.org/news/arts-culture/2026/07/02/san-diego-cross-border-ties-demonstrate-global-nature-of-world-cup"
+        }
+      ]
+    },
+    {
+      "title": "Downtown Vancouver's Granville Street to stay car-free for 7 weeks post-FIFA with $4.75M in city funding",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Five blocks of Granville Street in downtown Vancouver will stay a hub of pedestrian activity for seven weeks after the FIFA World Cup leaves town, as city council voted to extend the car-free pilot Thursday.",
+      "timestamp": "2026-07-03T22:50:30.157426Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-extend-granville-street-pedestrian-zone-9.7256129"
+        }
+      ]
+    },
+    {
+      "title": "Everything You Need to Know for Portugal vs. Croatia in Toronto",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Portugal vs. Croatia: Everything you need to know ahead of Thursday\u2019s FIFA World Cup Round of 32 showdown One of the marquee matches of the FIFA World Cup Round of 32 arrives Thursday night as Portugal and Croatia meet in a battle featuring two of internation\u2026",
+      "timestamp": "2026-07-03T22:50:30.157465Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://easysportz.com/2026/07/everything-you-need-to-know-for-portugal-vs-croatia-in-toronto/"
+        }
+      ]
+    },
+    {
+      "title": "Why isn\u2019t Bernardo Silva starting for Portugal against Croatia at the 2026 World Cup?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "To face Croatia in the 2026 World Cup Round of 32, Portugal head coach Roberto Martinez has decided to leave Bernardo Silva out of the starting lineup. Portugal will be hunting for a coveted spot in the Round of 16 of the 2026 FIFA World Cup on Thursday, July\u2026",
+      "timestamp": "2026-07-03T22:50:30.157518Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/why-isnt-bernardo-silva-starting-for-portugal-against-croatia-at-the-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "\u201cThis Ref Is Unserious\u201d: Fans Back JJ Watt After NFL Star Points to \u2018Massive\u2019 Team USA Problem After World Cup Win",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Team USA defeated Bosnia and Herzegovina 2-0 on Wednesday to advance to the Round of 16 of the 2026 FIFA World Cup. Despite the seemingly easy way Team USA advanced, at one point in the second half, it looked like the Americans\u2019 dream of advancing could shatt\u2026",
+      "timestamp": "2026-07-03T22:50:30.157708Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://collegefootballnetwork.com/nfl/this-ref-is-unserious-fans-back-jj-watt-after-nfl-star-points-to-massive-team-usa-problem-after-world-cup-win/?utm_medium=rss&amp;utm_source=nordot"
+        }
+      ]
+    },
+    {
+      "title": "Why isn\u2019t Josko Gvardiol starting for Croatia against Portugal at the 2026 World Cup?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Croatia face Portugal in a crucial Round of 32 match at the 2026 World Cup, where Josko Gvardiol will start the game on the bench. Croatia take on Portugal in the Round of 32 of the 2026 World Cup at Toronto Stadium, and manager Zlatko Dalic has once again de\u2026",
+      "timestamp": "2026-07-03T22:50:30.157754Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/why-isnt-josko-gvardiol-starting-for-croatia-against-portugal-at-the-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA WC Live Score: POR 2-1 CRO; Goncalo Ramos scores in the stoppage-time",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Welcome to the Times of India\u2019s live coverage of the mouth-watering 2026 FIFA World Cup Round of 32 clash between Portugal and Croatia! Tonight, the",
+      "timestamp": "2026-07-03T22:50:30.157779Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/football/portugal-vs-croatia-national-football-team-live-score-fifa-world-cup-2026-round-of-32-playing-xi-match-updates-scorecard-and-highlights/liveblog/132149509.cms"
+        }
+      ]
+    },
+    {
+      "title": "Spain vs Austria Stats: 2026 World Cup Round of 32 \u2013 LIVE - Opta Analyst",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain vs Austria Stats: 2026 World Cup Round of 32 \u2013 LIVEOpta Analyst Mikel Oyarzabal fires Spain past Austria to World Cup last 16ESPN Spain vs Austria Highlights 2026 FIFA World Cup | Round of 32FOX Sports Spain tipped to shut out Austria as Portugal faces \u2026",
+      "timestamp": "2026-07-03T22:50:30.157824Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184279452"
+        }
+      ]
+    },
+    {
+      "title": "Spain ease past Austria to reach World Cup last 16",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "LOS ANGELES: Spain produced their most commanding display of the tournament so far, beating Austria 3-0 at SoFi Stadium to reach the Round of 16 at the 2026 World Cup. Before defeating Austria in the 2026 Round of 32, Spain had remarkably failed to win a sing\u2026",
+      "timestamp": "2026-07-03T22:50:30.157968Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://english.khabarhub.com/2026/03/556663/"
+        }
+      ]
+    },
+    {
+      "title": "Bruce Arena agrees with USMNT star Folarin Balogun red card: \u2018Dangerous\u2019",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "The red card handed to U.S. men\u2019s national team striker Folarin Balogun will be remembered as a central turning point for the Americans in the 2026 FIFA World Cup. The public outcry has been palpable as fans have relayed their dissatisfaction with the red car\u2026",
+      "timestamp": "2026-07-03T22:50:30.158029Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/02/sports/bruce-arena-agrees-with-balogun-red-card-amid-controversy/"
+        }
+      ]
+    },
+    {
       "title": "Spain vs. Austria score, 2026 FIFA World Cup live updates: Can Ralf Rangnick's side stage massive upset? - CBS Sports",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain vs. Austria score, 2026 FIFA World Cup live updates: Can Ralf Rangnick's side stage massive upset?CBS Sports Mikel Oyarzabal fires Spain past Austria to World Cup last 16ESPN Pedro Porro scores header, extending Spain\u2019s lead vs Austria | 2026 FIFA World\u2026",
-      "timestamp": "2026-07-03T21:52:30.672445Z",
+      "timestamp": "2026-07-03T22:50:30.158119Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Links: HOMEPAGE\u00a0\u2013 TV.comFIFA.World.Cup.2026.Round.Of.32.Spain.Vs.Austria.1080p.HDTV.H264-DARKSPORTMKV | AC3 / dolby digital | 6.49GBNFO - Subtitles \u2013 Torrent \u2013 NiTROFLARE \u2013 RAPiDGATORSingle File RAR: RAPiDGATOR Backup",
-      "timestamp": "2026-07-03T21:52:30.672515Z",
+      "timestamp": "2026-07-03T22:50:30.158153Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "While Lionel Messi is channeling the vast majority of Argentina's goals in the 2026 World Cup, head coach Lionel Scaloni remains unfazed by the lopsided production. Lionel Messi has once again emerged as the undeniable driving force for the Argentina national\u2026",
-      "timestamp": "2026-07-03T21:52:30.672768Z",
+      "timestamp": "2026-07-03T22:50:30.158355Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Portugal and Croatia face off in a crucial Round of 32 match at the 2026 World Cup, where Cristiano Ronaldo and Luka Modric will look to lead their teams through to the next round. One of the most anticipated ties of the 2026 World Cup Round of 32 takes place\u2026",
-      "timestamp": "2026-07-03T21:52:30.672805Z",
+      "timestamp": "2026-07-03T22:50:30.158388Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "SportsLine's Martin Green reveals his Croatia vs. Portugal best bets for their knockout stage match in the FIFA World Cup 2026 on Thursday",
-      "timestamp": "2026-07-03T21:52:30.672839Z",
+      "timestamp": "2026-07-03T22:50:30.158418Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England face Mexico in a FIFA World Cup Round of 16 game at Estadio Azteca, but the Three Lions could be in for a sleepless night as thousands of Mexican fans reportedly plan to gather outside their hotel ahead of the game",
-      "timestamp": "2026-07-03T21:52:30.672954Z",
+      "timestamp": "2026-07-03T22:50:30.158522Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain reached the Round of 16 of the FIFA World Cup 2026 by defeating Austria 3-0 and ending its winless streak in the World Cup knockout stages, which had lasted since 2010, the year La Roja won the ...",
-      "timestamp": "2026-07-03T21:52:30.673001Z",
+      "timestamp": "2026-07-03T22:50:30.158564Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mikel Oyarzabal scored twice as Spain proved too strong for Austria in a 3-0 win at the SoFi Stadium to take their place in the last-16 of the World Cup.",
-      "timestamp": "2026-07-03T21:52:30.673025Z",
+      "timestamp": "2026-07-03T22:50:30.158582Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Madison Vineyard, a 14-year-old from Walton County, believes that when you do what you love, great things happen. On Thursday, she got to live that belief for real at the FIFA World Cup.",
-      "timestamp": "2026-07-03T21:52:30.673047Z",
+      "timestamp": "2026-07-03T22:50:30.158602Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "SANTA CLARA, Calif. \u2013 Mauricio Pochettino became the all-time winningest head coach in U.S. Men\u2019s National Team history at the FIFA World Cup with the team\u2019s latest win in the tournament, a grit...",
-      "timestamp": "2026-07-03T21:52:30.673148Z",
+      "timestamp": "2026-07-03T22:50:30.158694Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This World Cup has belonged to its biggest stars. Spain showed Thursday it doesn't need one.",
-      "timestamp": "2026-07-03T21:52:30.673170Z",
+      "timestamp": "2026-07-03T22:50:30.158712Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "",
-      "timestamp": "2026-07-03T21:52:30.673185Z",
+      "timestamp": "2026-07-03T22:50:30.158726Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Prayer has become a teamwide tradition for the U.S. at the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-03T21:52:30.673272Z",
+      "timestamp": "2026-07-03T22:50:30.158814Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Cristiano Ronaldo and Portugal face a mighty test to kick off their knockout stage",
-      "timestamp": "2026-07-03T21:52:30.673326Z",
+      "timestamp": "2026-07-03T22:50:30.158888Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Fox and Telemundo, the English-language and Spanish-language broadcasters of the 2026 FIFA World Cup, respectively, are putting up eye-popping numbers for the tournament. Through the group stage, the two networks are combining to average 9.65 million viewers \u2026",
-      "timestamp": "2026-07-03T21:52:30.673358Z",
+      "timestamp": "2026-07-03T22:50:30.158919Z",
       "links": [
         {
           "label": "Source",
@@ -346,142 +486,166 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mauricio Pochettino stole hearts as he belted out 'Take Me Home, Country Roads' with U.S. Men's National Team fans after their dramatic FIFA World Cup Round of 32 win",
-      "timestamp": "2026-07-03T21:52:30.673386Z",
+      "timestamp": "2026-07-03T22:50:30.158940Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.alloutsoccer.com/news/pochettino-usmnt-fans-world-cup-1918028"
         }
       ]
-    },
-    {
-      "title": "\u2018A Team of 26\u2019: Resolute Mentality, Togetherness Drive USMNT World Cup Run",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "SANTA CLARA, Calif. \u2013 The\u00a0U.S. Men\u2019s National Team\u00a0arrived at San Francisco Bay Area Stadium\u00a0for its first knockout stage match at the FIFA World Cup 2026\u00a0with\u00a0the opportunity\u00a0to rewrite\u00a0so...",
-      "timestamp": "2026-07-03T21:52:30.673488Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ussoccer.com/stories/on-the-pitch/2026/07/usmnt/a-team-of-26-resolute-mentality-togetherness-drive-world-cup-run"
-        }
-      ]
-    },
-    {
-      "title": "How to watch Portugal vs Croatia: Free Streams, TV Channels & Kick-Off time as Cristiano Ronaldo faces Luka Modric at FIFA World Cup 2026",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here's how to watch Portugal vs Croatia for free online and from anywhere at the FIFA World Cup 2026, as two greats collide in the last 32.",
-      "timestamp": "2026-07-03T21:52:30.673531Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/how-to-watch/football/portugal-vs-croatia-world-cup-2026-free"
-        }
-      ]
-    },
-    {
-      "title": "Portugal vs. Croatia: Stream FIFA World Cup 2026 Match Live for Free",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The two European heavyweights face off in Toronto for a place in the last 16.",
-      "timestamp": "2026-07-03T21:52:30.673579Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cnet.com/tech/services-and-software/portugal-vs-croatia-stream-fifa-world-cup-2026-match-live-for-free/"
-        }
-      ]
-    },
-    {
-      "title": "Thomas Tuchel promises World Cup 'karma' at Estadio Azteca for Hand of God goal",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Thomas Tuchel has vowed that 'karma' will come England's way against Mexico at Estadio Azteca, four decades on from Diego Maradona's infamous Hand of God goa...",
-      "timestamp": "2026-07-03T21:52:30.673779Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/tuchel-england-world-cup-maradona-1917964"
-        }
-      ]
-    },
-    {
-      "title": "Thomas Tuchel blasts FIFA scheduling rule as England faces altitude nightmare at Mexico City\u2019s Estadio Azteca",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Tuchel's criticism highlights the need for FIFA to reconsider scheduling to ensure fair competition and prioritize player health in high-altitude venues.\nThe post Thomas Tuchel blasts FIFA scheduling rule as England faces altitude nightmare at Mexico City\u2019s E\u2026",
-      "timestamp": "2026-07-03T21:52:30.673842Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/tuchel-criticizes-fifa-altitude-england-mexico/"
-        }
-      ]
-    },
-    {
-      "title": "How to watch Ronaldo, Portugal vs. Croatia in World Cup 2026 Round of 32 for free",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The World Cup Round of 32 continues with a matchup between two strong European sides.",
-      "timestamp": "2026-07-03T21:52:30.673864Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/02/sports/how-to-watch-portugal-vs-croatia-in-world-cup-2026-round-of-32-for-free-time-livestream/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup: Kane keeps saving England, but for how long?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England's World Cup campaign has increasingly come to rest on the shoulders of Harry Kane, whose goals, link-up play and ability to deliver in decisive moments have repeatedly rescued a side still searching for fluency and conviction.",
-      "timestamp": "2026-07-03T21:52:30.674066Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/fifa-world-cup-2026-englands-kane-dependence-could-prove-costly-in-knockout-stages/20260703.htm"
-        }
-      ]
-    },
-    {
-      "title": "Tuchel convinced \u2018karma\u2019 for \u2018Hand of God\u2019 will play a part at Azteca",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Coach Thomas Tuchel believes England will right the wrongs of the \u2018Hand of God\u2019 as \u201ckarma\u201d will be on their side for their long-awaited return to the Estadio Azteca. Sunday\u2019s mouthwatering World Cup last-16 clash against co-hosts Mexico takes the team back to\u2026",
-      "timestamp": "2026-07-03T21:52:30.674108Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260702-99-941872/"
-        }
-      ]
-    },
-    {
-      "title": "Pape Gueye announces Senegal boycott amidst coaching staff dispute after World Cup exit",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Senegal's Pape Gueye has announced he is taking a break from the national team while the current coaching staff is in place, after their dramatic FIFA World Cup exit",
-      "timestamp": "2026-07-03T21:52:30.674168Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/papa-gueye-senegal-boycott-coaches-1917924"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 03",
+      "loc": "Global",
+      "event": "Team USA or Team Mexico? Or both? In San Diego, World Cup fandom doesn't recognize borders",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.kpbs.org/news/arts-culture/2026/07/02/san-diego-cross-border-ties-demonstrate-global-nature-of-world-cup"
+        }
+      ]
+    },
+    {
+      "date": "Jul 03",
+      "loc": "Vancouver",
+      "event": "Downtown Vancouver's Granville Street to stay car-free for 7 weeks post-FIFA with $4.75M in city funding",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-extend-granville-street-pedestrian-zone-9.7256129"
+        }
+      ]
+    },
+    {
+      "date": "Jul 03",
+      "loc": "Global",
+      "event": "Everything You Need to Know for Portugal vs. Croatia in Toronto",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://easysportz.com/2026/07/everything-you-need-to-know-for-portugal-vs-croatia-in-toronto/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 03",
+      "loc": "Global",
+      "event": "Why isn\u2019t Bernardo Silva starting for Portugal against Croatia at the 2026 World Cup?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/why-isnt-bernardo-silva-starting-for-portugal-against-croatia-at-the-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 03",
+      "loc": "Global",
+      "event": "\u201cThis Ref Is Unserious\u201d: Fans Back JJ Watt After NFL Star Points to \u2018Massive\u2019 Team USA Problem After World Cup Win",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://collegefootballnetwork.com/nfl/this-ref-is-unserious-fans-back-jj-watt-after-nfl-star-points-to-massive-team-usa-problem-after-world-cup-win/?utm_medium=rss&amp;utm_source=nordot"
+        }
+      ]
+    },
+    {
+      "date": "Jul 03",
+      "loc": "Global",
+      "event": "Why isn\u2019t Josko Gvardiol starting for Croatia against Portugal at the 2026 World Cup?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/why-isnt-josko-gvardiol-starting-for-croatia-against-portugal-at-the-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 03",
+      "loc": "Global",
+      "event": "FIFA WC Live Score: POR 2-1 CRO; Goncalo Ramos scores in the stoppage-time",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/football/portugal-vs-croatia-national-football-team-live-score-fifa-world-cup-2026-round-of-32-playing-xi-match-updates-scorecard-and-highlights/liveblog/132149509.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 03",
+      "loc": "Global",
+      "event": "Spain vs Austria Stats: 2026 World Cup Round of 32 \u2013 LIVE - Opta Analyst",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184279452"
+        }
+      ]
+    },
+    {
+      "date": "Jul 03",
+      "loc": "Los Angeles",
+      "event": "Spain ease past Austria to reach World Cup last 16",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://english.khabarhub.com/2026/03/556663/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 03",
+      "loc": "Global",
+      "event": "Bruce Arena agrees with USMNT star Folarin Balogun red card: \u2018Dangerous\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/02/sports/bruce-arena-agrees-with-balogun-red-card-amid-controversy/"
+        }
+      ]
+    },
     {
       "date": "Jul 03",
       "loc": "Global",
@@ -721,142 +885,7 @@
           "url": "https://www.alloutsoccer.com/news/pochettino-usmnt-fans-world-cup-1918028"
         }
       ]
-    },
-    {
-      "date": "Jul 03",
-      "loc": "Global",
-      "event": "\u2018A Team of 26\u2019: Resolute Mentality, Togetherness Drive USMNT World Cup Run",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ussoccer.com/stories/on-the-pitch/2026/07/usmnt/a-team-of-26-resolute-mentality-togetherness-drive-world-cup-run"
-        }
-      ]
-    },
-    {
-      "date": "Jul 03",
-      "loc": "Global",
-      "event": "How to watch Portugal vs Croatia: Free Streams, TV Channels & Kick-Off time as Cristiano Ronaldo faces Luka Modric at FIFA World Cup 2026",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/how-to-watch/football/portugal-vs-croatia-world-cup-2026-free"
-        }
-      ]
-    },
-    {
-      "date": "Jul 03",
-      "loc": "Global",
-      "event": "Portugal vs. Croatia: Stream FIFA World Cup 2026 Match Live for Free",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cnet.com/tech/services-and-software/portugal-vs-croatia-stream-fifa-world-cup-2026-match-live-for-free/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 03",
-      "loc": "Mexico City",
-      "event": "Thomas Tuchel promises World Cup 'karma' at Estadio Azteca for Hand of God goal",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/tuchel-england-world-cup-maradona-1917964"
-        }
-      ]
-    },
-    {
-      "date": "Jul 03",
-      "loc": "Mexico City",
-      "event": "Thomas Tuchel blasts FIFA scheduling rule as England faces altitude nightmare at Mexico City\u2019s Estadio Azteca",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/tuchel-criticizes-fifa-altitude-england-mexico/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 03",
-      "loc": "Global",
-      "event": "How to watch Ronaldo, Portugal vs. Croatia in World Cup 2026 Round of 32 for free",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/02/sports/how-to-watch-portugal-vs-croatia-in-world-cup-2026-round-of-32-for-free-time-livestream/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 03",
-      "loc": "Global",
-      "event": "FIFA World Cup: Kane keeps saving England, but for how long?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/fifa-world-cup-2026-englands-kane-dependence-could-prove-costly-in-knockout-stages/20260703.htm"
-        }
-      ]
-    },
-    {
-      "date": "Jul 03",
-      "loc": "Mexico City",
-      "event": "Tuchel convinced \u2018karma\u2019 for \u2018Hand of God\u2019 will play a part at Azteca",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260702-99-941872/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 03",
-      "loc": "Global",
-      "event": "Pape Gueye announces Senegal boycott amidst coaching staff dispute after World Cup exit",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/papa-gueye-senegal-boycott-coaches-1917924"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-03T21:52:30.674355Z"
+  "lastUpdated": "2026-07-03T22:50:30.159159Z"
 }
