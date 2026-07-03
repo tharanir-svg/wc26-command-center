@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 1,
-    "p3": 25
+    "p2": 2,
+    "p3": 18
   },
   "watchlist": [
     {
@@ -131,12 +131,82 @@
   ],
   "risks": [
     {
+      "title": "Nike releases USMNT 'Supporter's Top' as jersey alternative for fans searching for sold-out World Cup kits",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The strong performance by the United States at the 2026 FIFA World Cup has generated unprecedented excitement for not just soccer in the country, but specifically for the USMNT.",
+      "timestamp": "2026-07-03T23:52:28.589119Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/nike-usmnt-supporters-top-alternative-sold-out-world-cup-kits/b23b432687f155a3a562bb36"
+        }
+      ]
+    },
+    {
+      "title": "How the USMNT copes without Folarin Balogun against Belgium",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "How nice of VAR to overshadow one of the most important results in U.S. men\u2019s national team history on Wednesday\u2026 The USMNT advanced to the 2026 World Cup Round of 16 after defeating Bosnia and Herzegovina, but lost standout striker Folarin Balogun for the ma\u2026",
+      "timestamp": "2026-07-03T23:52:28.589190Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sbnation.com/fifa-world-cup/1121369/how-the-usmnt-copes-without-folarin-balogun-against-belgium"
+        }
+      ]
+    },
+    {
+      "title": "Spain routs Austria while still working to reach World Cup champion form",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain extends its unbeaten match streak to 34 games in a 3-0 victory over Austria in the round of 32 at the World Cup at SoFi Stadium.",
+      "timestamp": "2026-07-03T23:52:28.589215Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/spain-routs-austria-while-still-233354251.html"
+        }
+      ]
+    },
+    {
+      "title": "Sportswear firms fail to score at the World Cup amid a China sales slump",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Big international sportswear brands like Nike, Adidas and Arc\u2019teryx all saw declining in-store sales at Chinese shopping malls in May, according to data tracked by a third-party platform.\nDespite the ongoing Fifa World Cup 2026, analysts expect soft consumer \u2026",
+      "timestamp": "2026-07-03T23:52:28.589340Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/4bf06a1307630b58"
+        }
+      ]
+    },
+    {
+      "title": "The Cutest World Cup Bucket Hat Is Finally on Sale",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The\u00a02026\u00a0FIFA World Cup isn't over yet, which means you still need team merch to rep your country. Luckily, Old Navy has the cutest World Cup hat that'll transform a basic look into a total...",
+      "timestamp": "2026-07-03T23:52:28.589515Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.eonline.com/news/1433588/the-cutest-world-cup-bucket-hat-is-finally-on-sale"
+        }
+      ]
+    },
+    {
       "title": "Team USA or Team Mexico? Or both? In San Diego, World Cup fandom doesn't recognize borders",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In many cities across the country, rooting for the U.S. Men's National Team during the FIFA World Cup is an easy choice. But for a cross-border city like San Diego, that choice isn\u2019t as simple for fans who have close ties to both the U.S. and Mexico.",
-      "timestamp": "2026-07-03T22:50:30.157292Z",
+      "timestamp": "2026-07-03T23:52:28.589608Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Five blocks of Granville Street in downtown Vancouver will stay a hub of pedestrian activity for seven weeks after the FIFA World Cup leaves town, as city council voted to extend the car-free pilot Thursday.",
-      "timestamp": "2026-07-03T22:50:30.157426Z",
+      "timestamp": "2026-07-03T23:52:28.589707Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Portugal vs. Croatia: Everything you need to know ahead of Thursday\u2019s FIFA World Cup Round of 32 showdown One of the marquee matches of the FIFA World Cup Round of 32 arrives Thursday night as Portugal and Croatia meet in a battle featuring two of internation\u2026",
-      "timestamp": "2026-07-03T22:50:30.157465Z",
+      "timestamp": "2026-07-03T23:52:28.589741Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "To face Croatia in the 2026 World Cup Round of 32, Portugal head coach Roberto Martinez has decided to leave Bernardo Silva out of the starting lineup. Portugal will be hunting for a coveted spot in the Round of 16 of the 2026 FIFA World Cup on Thursday, July\u2026",
-      "timestamp": "2026-07-03T22:50:30.157518Z",
+      "timestamp": "2026-07-03T23:52:28.589791Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Team USA defeated Bosnia and Herzegovina 2-0 on Wednesday to advance to the Round of 16 of the 2026 FIFA World Cup. Despite the seemingly easy way Team USA advanced, at one point in the second half, it looked like the Americans\u2019 dream of advancing could shatt\u2026",
-      "timestamp": "2026-07-03T22:50:30.157708Z",
+      "timestamp": "2026-07-03T23:52:28.589975Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Croatia face Portugal in a crucial Round of 32 match at the 2026 World Cup, where Josko Gvardiol will start the game on the bench. Croatia take on Portugal in the Round of 32 of the 2026 World Cup at Toronto Stadium, and manager Zlatko Dalic has once again de\u2026",
-      "timestamp": "2026-07-03T22:50:30.157754Z",
+      "timestamp": "2026-07-03T23:52:28.590020Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Welcome to the Times of India\u2019s live coverage of the mouth-watering 2026 FIFA World Cup Round of 32 clash between Portugal and Croatia! Tonight, the",
-      "timestamp": "2026-07-03T22:50:30.157779Z",
+      "timestamp": "2026-07-03T23:52:28.590060Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain vs Austria Stats: 2026 World Cup Round of 32 \u2013 LIVEOpta Analyst Mikel Oyarzabal fires Spain past Austria to World Cup last 16ESPN Spain vs Austria Highlights 2026 FIFA World Cup | Round of 32FOX Sports Spain tipped to shut out Austria as Portugal faces \u2026",
-      "timestamp": "2026-07-03T22:50:30.157824Z",
+      "timestamp": "2026-07-03T23:52:28.590095Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "LOS ANGELES: Spain produced their most commanding display of the tournament so far, beating Austria 3-0 at SoFi Stadium to reach the Round of 16 at the 2026 World Cup. Before defeating Austria in the 2026 Round of 32, Spain had remarkably failed to win a sing\u2026",
-      "timestamp": "2026-07-03T22:50:30.157968Z",
+      "timestamp": "2026-07-03T23:52:28.590238Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +332,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "The red card handed to U.S. men\u2019s national team striker Folarin Balogun will be remembered as a central turning point for the Americans in the 2026 FIFA World Cup. The public outcry has been palpable as fans have relayed their dissatisfaction with the red car\u2026",
-      "timestamp": "2026-07-03T22:50:30.158029Z",
+      "timestamp": "2026-07-03T23:52:28.590295Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain vs. Austria score, 2026 FIFA World Cup live updates: Can Ralf Rangnick's side stage massive upset?CBS Sports Mikel Oyarzabal fires Spain past Austria to World Cup last 16ESPN Pedro Porro scores header, extending Spain\u2019s lead vs Austria | 2026 FIFA World\u2026",
-      "timestamp": "2026-07-03T22:50:30.158119Z",
+      "timestamp": "2026-07-03T23:52:28.590380Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Links: HOMEPAGE\u00a0\u2013 TV.comFIFA.World.Cup.2026.Round.Of.32.Spain.Vs.Austria.1080p.HDTV.H264-DARKSPORTMKV | AC3 / dolby digital | 6.49GBNFO - Subtitles \u2013 Torrent \u2013 NiTROFLARE \u2013 RAPiDGATORSingle File RAR: RAPiDGATOR Backup",
-      "timestamp": "2026-07-03T22:50:30.158153Z",
+      "timestamp": "2026-07-03T23:52:28.590413Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "While Lionel Messi is channeling the vast majority of Argentina's goals in the 2026 World Cup, head coach Lionel Scaloni remains unfazed by the lopsided production. Lionel Messi has once again emerged as the undeniable driving force for the Argentina national\u2026",
-      "timestamp": "2026-07-03T22:50:30.158355Z",
+      "timestamp": "2026-07-03T23:52:28.590652Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Portugal and Croatia face off in a crucial Round of 32 match at the 2026 World Cup, where Cristiano Ronaldo and Luka Modric will look to lead their teams through to the next round. One of the most anticipated ties of the 2026 World Cup Round of 32 takes place\u2026",
-      "timestamp": "2026-07-03T22:50:30.158388Z",
+      "timestamp": "2026-07-03T23:52:28.590715Z",
       "links": [
         {
           "label": "Source",
@@ -332,170 +402,91 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "SportsLine's Martin Green reveals his Croatia vs. Portugal best bets for their knockout stage match in the FIFA World Cup 2026 on Thursday",
-      "timestamp": "2026-07-03T22:50:30.158418Z",
+      "timestamp": "2026-07-03T23:52:28.590770Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.cbssports.com/soccer/news/portugal-croatia-odds-prediction-2026-world-cup-round-32-picks-soccer-best-bets/"
         }
       ]
-    },
-    {
-      "title": "England hatch plan to avoid Mexican fan disturbance ahead of Round of 16 game",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England face Mexico in a FIFA World Cup Round of 16 game at Estadio Azteca, but the Three Lions could be in for a sleepless night as thousands of Mexican fans reportedly plan to gather outside their hotel ahead of the game",
-      "timestamp": "2026-07-03T22:50:30.158522Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/england-mexico-fans-world-cup-1918077"
-        }
-      ]
-    },
-    {
-      "title": "Spain ends winless streak in World Cup knockouts by beating Austria 3-0",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain reached the Round of 16 of the FIFA World Cup 2026 by defeating Austria 3-0 and ending its winless streak in the World Cup knockout stages, which had lasted since 2010, the year La Roja won the ...",
-      "timestamp": "2026-07-03T22:50:30.158564Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/ea1e47c56cd5fe3b"
-        }
-      ]
-    },
-    {
-      "title": "Oyarzabal scores twice as Spain ease past Austria",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Mikel Oyarzabal scored twice as Spain proved too strong for Austria in a 3-0 win at the SoFi Stadium to take their place in the last-16 of the World Cup.",
-      "timestamp": "2026-07-03T22:50:30.158582Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rte.ie/sport/world-cup-2026/2026/0702/1581380-oyarzabal-scores-twice-as-spain-ease-past-austria/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup dream comes true for Georgia teen",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Madison Vineyard, a 14-year-old from Walton County, believes that when you do what you love, great things happen. On Thursday, she got to live that belief for real at the FIFA World Cup.",
-      "timestamp": "2026-07-03T22:50:30.158602Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/fifa-world-cup-dream-comes-211012066.html"
-        }
-      ]
-    },
-    {
-      "title": "Mauricio Pochettino Becomes Winningest USMNT Manager in FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "SANTA CLARA, Calif. \u2013 Mauricio Pochettino became the all-time winningest head coach in U.S. Men\u2019s National Team history at the FIFA World Cup with the team\u2019s latest win in the tournament, a grit...",
-      "timestamp": "2026-07-03T22:50:30.158694Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ussoccer.com/stories/on-the-pitch/2026/07/usmnt/coach-mauricio-pochettino-most-wins-manager-world-cup"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026: Spain coasts past Austria behind Mikel Oyarzabal brace, into Round of 16",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "This World Cup has belonged to its biggest stars. Spain showed Thursday it doesn't need one.",
-      "timestamp": "2026-07-03T22:50:30.158712Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-spain-coasts-past-austria-behind-mikel-oyarzabal-brace-into-round-of-16-210038593.html"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026: Portugal takes on Croatia in Round of 32 in Toronto",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "",
-      "timestamp": "2026-07-03T22:50:30.158726Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbc.ca/sports/livestory/fifa-world-cup-2026-portugal-croatia-toronto-9.7256369"
-        }
-      ]
-    },
-    {
-      "title": "The U.S. World Cup team celebrates its big win Wednesday with a team prayer",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Prayer has become a teamwide tradition for the U.S. at the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-03T22:50:30.158814Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.deseret.com/sports/2026/07/02/mark-mckenzie-leads-u-s-teammates-in-prayer-after-2026-fifa-world-cup-games/"
-        }
-      ]
-    },
-    {
-      "title": "Portugal vs. Croatia live stream: How to watch FIFA World Cup, odds, prediction, pick, lineups, channel",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Cristiano Ronaldo and Portugal face a mighty test to kick off their knockout stage",
-      "timestamp": "2026-07-03T22:50:30.158888Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/portugal-croatia-world-cup-2026-preview-predictions-watch/"
-        }
-      ]
-    },
-    {
-      "title": "Fox, Telemundo combine to average nearly 10 million viewers per World Cup Group Stage match",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Fox and Telemundo, the English-language and Spanish-language broadcasters of the 2026 FIFA World Cup, respectively, are putting up eye-popping numbers for the tournament. Through the group stage, the two networks are combining to average 9.65 million viewers \u2026",
-      "timestamp": "2026-07-03T22:50:30.158919Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/fox-telemundo-average-nearly-10-million-viewers-world-cup-group-stage.html"
-        }
-      ]
-    },
-    {
-      "title": "Mauricio Pochettino endearing himself to USMNT fans after World Cup win",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Mauricio Pochettino stole hearts as he belted out 'Take Me Home, Country Roads' with U.S. Men's National Team fans after their dramatic FIFA World Cup Round of 32 win",
-      "timestamp": "2026-07-03T22:50:30.158940Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/pochettino-usmnt-fans-world-cup-1918028"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 03",
+      "loc": "Global",
+      "event": "Nike releases USMNT 'Supporter's Top' as jersey alternative for fans searching for sold-out World Cup kits",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/nike-usmnt-supporters-top-alternative-sold-out-world-cup-kits/b23b432687f155a3a562bb36"
+        }
+      ]
+    },
+    {
+      "date": "Jul 03",
+      "loc": "Global",
+      "event": "How the USMNT copes without Folarin Balogun against Belgium",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sbnation.com/fifa-world-cup/1121369/how-the-usmnt-copes-without-folarin-balogun-against-belgium"
+        }
+      ]
+    },
+    {
+      "date": "Jul 03",
+      "loc": "Los Angeles",
+      "event": "Spain routs Austria while still working to reach World Cup champion form",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/spain-routs-austria-while-still-233354251.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 03",
+      "loc": "Global",
+      "event": "Sportswear firms fail to score at the World Cup amid a China sales slump",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/4bf06a1307630b58"
+        }
+      ]
+    },
+    {
+      "date": "Jul 03",
+      "loc": "Global",
+      "event": "The Cutest World Cup Bucket Hat Is Finally on Sale",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.eonline.com/news/1433588/the-cutest-world-cup-bucket-hat-is-finally-on-sale"
+        }
+      ]
+    },
     {
       "date": "Jul 03",
       "loc": "Global",
@@ -720,172 +711,7 @@
           "url": "https://www.cbssports.com/soccer/news/portugal-croatia-odds-prediction-2026-world-cup-round-32-picks-soccer-best-bets/"
         }
       ]
-    },
-    {
-      "date": "Jul 03",
-      "loc": "Mexico City",
-      "event": "England hatch plan to avoid Mexican fan disturbance ahead of Round of 16 game",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/england-mexico-fans-world-cup-1918077"
-        }
-      ]
-    },
-    {
-      "date": "Jul 03",
-      "loc": "Global",
-      "event": "Spain ends winless streak in World Cup knockouts by beating Austria 3-0",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/ea1e47c56cd5fe3b"
-        }
-      ]
-    },
-    {
-      "date": "Jul 03",
-      "loc": "Los Angeles",
-      "event": "Oyarzabal scores twice as Spain ease past Austria",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rte.ie/sport/world-cup-2026/2026/0702/1581380-oyarzabal-scores-twice-as-spain-ease-past-austria/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 03",
-      "loc": "Global",
-      "event": "FIFA World Cup dream comes true for Georgia teen",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/fifa-world-cup-dream-comes-211012066.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 03",
-      "loc": "Global",
-      "event": "Mauricio Pochettino Becomes Winningest USMNT Manager in FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ussoccer.com/stories/on-the-pitch/2026/07/usmnt/coach-mauricio-pochettino-most-wins-manager-world-cup"
-        }
-      ]
-    },
-    {
-      "date": "Jul 03",
-      "loc": "Global",
-      "event": "World Cup 2026: Spain coasts past Austria behind Mikel Oyarzabal brace, into Round of 16",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-spain-coasts-past-austria-behind-mikel-oyarzabal-brace-into-round-of-16-210038593.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 03",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026: Portugal takes on Croatia in Round of 32 in Toronto",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbc.ca/sports/livestory/fifa-world-cup-2026-portugal-croatia-toronto-9.7256369"
-        }
-      ]
-    },
-    {
-      "date": "Jul 03",
-      "loc": "Global",
-      "event": "The U.S. World Cup team celebrates its big win Wednesday with a team prayer",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.deseret.com/sports/2026/07/02/mark-mckenzie-leads-u-s-teammates-in-prayer-after-2026-fifa-world-cup-games/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 03",
-      "loc": "Global",
-      "event": "Portugal vs. Croatia live stream: How to watch FIFA World Cup, odds, prediction, pick, lineups, channel",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/portugal-croatia-world-cup-2026-preview-predictions-watch/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 03",
-      "loc": "Global",
-      "event": "Fox, Telemundo combine to average nearly 10 million viewers per World Cup Group Stage match",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/fox-telemundo-average-nearly-10-million-viewers-world-cup-group-stage.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 03",
-      "loc": "Global",
-      "event": "Mauricio Pochettino endearing himself to USMNT fans after World Cup win",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/pochettino-usmnt-fans-world-cup-1918028"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-03T22:50:30.159159Z"
+  "lastUpdated": "2026-07-03T23:52:28.591025Z"
 }
