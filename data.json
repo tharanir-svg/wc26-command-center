@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 1,
-    "p3": 27
+    "p2": 0,
+    "p3": 25
   },
   "watchlist": [
     {
@@ -131,12 +131,110 @@
   ],
   "risks": [
     {
+      "title": "England vs. Mexico history: Head-to-head matches at World Cup, last meeting, team records and more",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England and Mexico meet in the 2026 FIFA World Cup Round of 16. Here's a look at their head-to-head record, previous World Cup meetings, last encounter and overall results between the two nations.",
+      "timestamp": "2026-07-04T23:49:30.231971Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/england-mexico-history-head-head-matches-world-cup/d6ff93268aac5d8c1c052c5b"
+        }
+      ]
+    },
+    {
+      "title": "USMNT vs. Belgium: Opponent Profile, Recent Form & History",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The U.S. Men\u2019s National Team is through to the Round of 16 of the FIFA World Cup 2026 for the fourth time in as many tries after a 2-0 victory against Bosnia and Herzegovina in the Round of 32. The ...",
+      "timestamp": "2026-07-04T23:49:30.232034Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ussoccer.com/stories/on-the-pitch/2026/07/usmnt/opponent-profile-belgium-seattle-washington-world-cup-match-preview"
+        }
+      ]
+    },
+    {
+      "title": "England World Cup players granted Viagra exemption for game in Mexico",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Harry Kane and England face a major challenge at the 2026 World Cup and FIFA is allowing Three Lions players to combat it with Viagra. The England national team is one of the top nations left competing at the World\u2026",
+      "timestamp": "2026-07-04T23:49:30.232097Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thebiglead.com/england-players-granted-viagra-exemption-2026-world-cup-game/"
+        }
+      ]
+    },
+    {
+      "title": "WORLD CUP ER | OPEN THREAD | JULY 4TH, 2026",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Welcome to The Daily Merengue! THESE ARE YOUR MODS: Ezek XI, Valyrian Steel, KungFuZizou, NeRObutBlanco, Felipejack, and Juninho INDEPENDENCE DAY Today is the independence day for 1/3rd or the host of the 2026 FIFA world cup. HAPPY INDEPENDENCE DAY TO the Uni\u2026",
+      "timestamp": "2026-07-04T23:49:30.232127Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.managingmadrid.com/general/109719/world-cup-er-open-thread-july-4th-2026"
+        }
+      ]
+    },
+    {
+      "title": "Marcus Rashford brushes off huge Mexico advantage ahead of key clash",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Manchester United forward Marcus Rashford has played down a major advantage that Mexico hold as England prepare to take them on at the iconic Estadio Azteca.Mexico boostRashford and his England teamma...",
+      "timestamp": "2026-07-04T23:49:30.232150Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thepeoplesperson.com/2026/07/03/marcus-rashford-brushes-off-huge-mexico-advantage-ahead-of-key-clash-312296/"
+        }
+      ]
+    },
+    {
+      "title": "How Colombia\u2019s win, draw, or loss vs Ghana could impact the 2026 World Cup bracket",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Colombia face Ghana in a crucial Round of 32 match at the 2026 World Cup, with both sides looking to secure a place among the tournament's best 16 teams. Colombia has a chance to continue building on a strong tournament as they take on Ghana in the final 2026\u2026",
+      "timestamp": "2026-07-04T23:49:30.232197Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/how-colombias-win-draw-or-loss-vs-ghana-could-impact-the-2026-world-cup-bracket/"
+        }
+      ]
+    },
+    {
+      "title": "England\u2019s tall order: Azteca Stadium brings altitude, atmosphere and history to Mexico clash",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Mexico\u2019s Estadio Azteca has long been one of soccer\u2019s most intimidating venues \u2014 and one steeped in English soccer folklore.",
+      "timestamp": "2026-07-04T23:49:30.232223Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/englands-tall-order-azteca-stadium-brings-altitude-atmosphere-and-history-to-mexico-clash-225013264.html"
+        }
+      ]
+    },
+    {
       "title": "Colombia vs. Ghana odds, prediction: 2026 World Cup Round of 32 picks by expert on 16-6 run",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "SportsLine's Martin Green reveals his Ghana vs. Colombia best bets for their knockout stage match in the FIFA World Cup 2026 on Friday",
-      "timestamp": "2026-07-04T22:43:19.411129Z",
+      "timestamp": "2026-07-04T23:49:30.232303Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's how to watch Colombia vs Ghana for free online and from anywhere at the FIFA World Cup 2026, as Kansas City plays host to an intriguing last-32 clash.",
-      "timestamp": "2026-07-04T22:43:19.411184Z",
+      "timestamp": "2026-07-04T23:49:30.232330Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Links: HOMEPAGE\u00a0\u2013 TV.comFIFA.World.Cup.2026.Round.Of.32.Australia.Vs.Egypt.1080p.HDTV.H264-DARKSPORTMKV | AC3 / dolby digital | 8.74GBNFO - Subtitles \u2013 Torrent \u2013 NiTROFLARE \u2013 RAPiDGATORSingle File RAR: RAPiDGATOR Backup",
-      "timestamp": "2026-07-04T22:43:19.411282Z",
+      "timestamp": "2026-07-04T23:49:30.232435Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Australia was knocked out of the FIFA World Cup by Egypt in a penalty shootout, with U.S. Men's National Team legend Landon Donovan among those fuming at Socceroos head coach Tony Popovic",
-      "timestamp": "2026-07-04T22:43:19.411412Z",
+      "timestamp": "2026-07-04T23:49:30.232564Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup is the first one to have required hydration breaks during each half of the football matches. Here's why FIFA instituted these and the controversy.",
-      "timestamp": "2026-07-04T22:43:19.411484Z",
+      "timestamp": "2026-07-04T23:49:30.232638Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Dan Riccio and Blake Price break down a high-stakes day of Round of 32 action on The 90th Minute, featuring Portugal's dramatic survival over Croatia. The single-elimination pressure of the 2026 FIFA World Cup knockout stage has produced its most high-profile\u2026",
-      "timestamp": "2026-07-04T22:43:19.411516Z",
+      "timestamp": "2026-07-04T23:49:30.232671Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Adrian Sousa from Rabona TV breaks down an insane night in Toronto as Cristiano Ronaldo scores his first World Cup knockout goal and VAR denies Croatia. The Round of 32 of the 2026 FIFA World Cup just served up its most emotionally exhausting, high-stakes day\u2026",
-      "timestamp": "2026-07-04T22:43:19.411561Z",
+      "timestamp": "2026-07-04T23:49:30.232716Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The final match of the round of 32 is set for Friday night between two teams with contrasting styles",
-      "timestamp": "2026-07-04T22:43:19.411600Z",
+      "timestamp": "2026-07-04T23:49:30.232754Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "One of the most highly-anticipated 2026 World Cup matches yet might be played at a new time due to weather.",
-      "timestamp": "2026-07-04T22:43:19.411668Z",
+      "timestamp": "2026-07-04T23:49:30.232823Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Egypt made history at Dallas Stadium on Friday, defeating Australia on penalties to reach the Round of 16 of the FIFA World Cup 2026 for the first time since 1934.Emam Ashour put Egypt ahead in the 13...",
-      "timestamp": "2026-07-04T22:43:19.411809Z",
+      "timestamp": "2026-07-04T23:49:30.232959Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The next rival, the kickoff time and the venue of the round of 16 match for Egypt. Maybe it wasn\u2019t the highest-profile match of the 2026 World Cup Round of 32, but Egypt were able to secure a place in the Round of 16 after beating Australia in the penalty sho\u2026",
-      "timestamp": "2026-07-04T22:43:19.411884Z",
+      "timestamp": "2026-07-04T23:49:30.233033Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Hello and welcome to TOI Sports' live coverage of the FIFA World Cup 2026! Tonight, we bring you a fascinating Round of 32 clash as defending champio",
-      "timestamp": "2026-07-04T22:43:19.412004Z",
+      "timestamp": "2026-07-04T23:49:30.233134Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Join us for the Albiceleste\u2019s first knockout adventure!",
-      "timestamp": "2026-07-04T22:43:19.412039Z",
+      "timestamp": "2026-07-04T23:49:30.233165Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Cape Verde's historic run faces a likely end, while Argentina's strong market confidence underscores their continued dominance in the tournament.\nThe post Argentina face cape verde in world cup 2026 last 32 as markets price heavy favorite status appeared firs\u2026",
-      "timestamp": "2026-07-04T22:43:19.412146Z",
+      "timestamp": "2026-07-04T23:49:30.233268Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina and Cape Verde face off in a crucial Round of 32 duel at the 2026 World Cup, where both sides are looking to secure a place among the tournament's best 16 teams. One of the most lopsided matchups on paper in the 2026 World Cup Round of 32 takes plac\u2026",
-      "timestamp": "2026-07-04T22:43:19.412177Z",
+      "timestamp": "2026-07-04T23:49:30.233322Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England made it through after a scare against DR Congo, and now they face the tough test of a last 16 tie against\u00a0World Cup 2026\u00a0co-hosts Mexico.",
-      "timestamp": "2026-07-04T22:43:19.412214Z",
+      "timestamp": "2026-07-04T23:49:30.233364Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "SportsLine's Martin Green reveals his Argentina vs. Cape Verde best bets for their knockout stage match in the FIFA World Cup 2026 on Friday as Messi and Vozinha battle",
-      "timestamp": "2026-07-04T22:43:19.412235Z",
+      "timestamp": "2026-07-04T23:49:30.233385Z",
       "links": [
         {
           "label": "Source",
@@ -374,156 +472,121 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Brazil and Norway go head-to-head at MetLife Stadium this Sunday in the World Cup.In their last fixture, Brazil won 2-1 against Japan (World Cup 2026). In their last game, Norway won 1-2 against Ivory...",
-      "timestamp": "2026-07-04T22:43:19.412272Z",
+      "timestamp": "2026-07-04T23:49:30.233447Z",
       "links": [
         {
           "label": "Source",
           "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fe4e39a1-cc45-4998-b25c-a7038d89ae66"
         }
       ]
-    },
-    {
-      "title": "Argentina vs Cabo Verde FIFA World Cup 2026: When and where to watch Lionel Messi in action, match time in India, live streaming and team details",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina vs Cabo Verde FIFA World Cup 2026 Live Streaming, Match Time, Venue, Predicted Lineup, Key Players, Team News and Match Preview: World Cup debutants Cabo Verde face defending champions Argentina in a Round of 32 clash on July 3.  Argentina, led by a\u2026",
-      "timestamp": "2026-07-04T22:43:19.412341Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/argentina-vs-cabo-verde-fifa-world-cup-2026-live-streaming-match-time-india-venue-team-news-match-preview/articleshow/132170481.cms"
-        }
-      ]
-    },
-    {
-      "title": " Fifa could CHANGE Brazil v Norway kick-off time at the Cup; here's why",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Brazilian National Team returns to the field next Sunday (5), in New Jersey, United States, to face Norway in the 2026 FIFA World Cup.The kickoff time for the round-of-16 match, however, could cha...",
-      "timestamp": "2026-07-04T22:43:19.412434Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/fifa-could-change-brazil-v-norway-kick-off-time-at-the-cup-heres-why-43093417"
-        }
-      ]
-    },
-    {
-      "title": "England\u2019s World Cup kick-off time against Mexico with FIFA staying silent over reasons",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England vs Mexico kick-off change looms at World Cup 2026England\u2019s last-16 meeting with Mexico at World Cup 2026 looks set for a significant schedule change. The match is currently down for 1am BST ...",
-      "timestamp": "2026-07-04T22:43:19.412492Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://eplindex.com/147996/englands-world-cup-kick-off-time-against-mexico-with-fifa-staying-silent-over-reasons.html"
-        }
-      ]
-    },
-    {
-      "title": "USMNT: FIFA Makes Decision on Folarin Balogun's Controversial Suspension",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "The United States Men's National Team had some nerves in the downtime between their 2-0 win over Bosnia-Herzegovina in the Round of 32 of the 2026 FIFA World Cup and their next match against Belgium in the Round of 16 on Monday night.\nStriker Folarin Balogun \u2026",
-      "timestamp": "2026-07-04T22:43:19.412542Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/6870253a129bd684"
-        }
-      ]
-    },
-    {
-      "title": "2026 World Cup: Mexico-England Round of 16 matchup reportedly moved up several hours to avoid inclement weather",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Mexico City is set to be hit by a thunderstorm in the late afternoon on Sunday, threatening one of the most anticipated knockout round games of the tournamen...",
-      "timestamp": "2026-07-04T22:43:19.412594Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/2026-world-cup-mexico-england-round-of-16-matchup-reportedly-moved-up-several-hours-to-avoid-inclement-weather-193039137.html"
-        }
-      ]
-    },
-    {
-      "title": "Egypt World Cup team boss in altercation with Dallas Police ahead of Australia game",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Egypt's team director was involved in an altercation with a Dallas Police officer after arriving at their hotel ahead of their FIFA World Cup Round of 32 match against Australia",
-      "timestamp": "2026-07-04T22:43:19.412615Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/egypt-dallas-police-world-cup-1919708"
-        }
-      ]
-    },
-    {
-      "title": "Australia levels match against Egypt as FIFA World Cup 2026 captivates global betting markets",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The expanded World Cup format boosts global engagement and betting interest, highlighting the tournament's increasing commercial impact.\nThe post Australia levels match against Egypt as FIFA World Cup 2026 captivates global betting markets appeared first on C\u2026",
-      "timestamp": "2026-07-04T22:43:19.412690Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/australia-egypt-world-cup-crypto-betting/"
-        }
-      ]
-    },
-    {
-      "title": " Surprise move: FIFA reportedly plans to move a World Cup last-16 tie",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The weather is a crucial factor at the 2026 World Cup. The conditions now apparently mean that the round-of-16 match between co-hosts Mexico and England will have to be rescheduled.\u00a0According to the ...",
-      "timestamp": "2026-07-04T22:43:19.412734Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/surprise-move-fifa-reportedly-plans-to-move-a-world-cup-last-16-tie-43093347"
-        }
-      ]
-    },
-    {
-      "title": "'Genuinely not seen this before': World Cup commercialism hits new low as rare sight spotted",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup has been largely tarnished by greed witnessed in the United States. A mere box of potato and cheese dumplings, oh, and a beer, cost supporters as much as \u00a334 as France recorded a 3-0 win over Iraq in Group I earlier in the competition.",
-      "timestamp": "2026-07-04T22:43:19.412802Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/genuinely-not-seen-this-before-world-cup-commercialism-hits-new-low-as-rare-sight-spotted/"
-        }
-      ]
-    },
-    {
-      "title": "Australia v Egypt: World Cup 2026 last 32 \u2013 live - The Guardian",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Australia v Egypt: World Cup 2026 last 32 \u2013 liveThe Guardian Australia vs Egypt live updates: Salah fit enough to start 2026 World Cup knockout clash - The AthleticThe New York Times LIVE | Egypt vs. Australia at Dallas Stadium for the World Cup Round of 32FO\u2026",
-      "timestamp": "2026-07-04T22:43:19.412887Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184294666"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 04",
+      "loc": "Global",
+      "event": "England vs. Mexico history: Head-to-head matches at World Cup, last meeting, team records and more",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/england-mexico-history-head-head-matches-world-cup/d6ff93268aac5d8c1c052c5b"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Global",
+      "event": "USMNT vs. Belgium: Opponent Profile, Recent Form & History",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ussoccer.com/stories/on-the-pitch/2026/07/usmnt/opponent-profile-belgium-seattle-washington-world-cup-match-preview"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Global",
+      "event": "England World Cup players granted Viagra exemption for game in Mexico",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thebiglead.com/england-players-granted-viagra-exemption-2026-world-cup-game/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Global",
+      "event": "WORLD CUP ER | OPEN THREAD | JULY 4TH, 2026",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.managingmadrid.com/general/109719/world-cup-er-open-thread-july-4th-2026"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Mexico City",
+      "event": "Marcus Rashford brushes off huge Mexico advantage ahead of key clash",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thepeoplesperson.com/2026/07/03/marcus-rashford-brushes-off-huge-mexico-advantage-ahead-of-key-clash-312296/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Global",
+      "event": "How Colombia\u2019s win, draw, or loss vs Ghana could impact the 2026 World Cup bracket",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/how-colombias-win-draw-or-loss-vs-ghana-could-impact-the-2026-world-cup-bracket/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Mexico City",
+      "event": "England\u2019s tall order: Azteca Stadium brings altitude, atmosphere and history to Mexico clash",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/englands-tall-order-azteca-stadium-brings-altitude-atmosphere-and-history-to-mexico-clash-225013264.html"
+        }
+      ]
+    },
     {
       "date": "Jul 04",
       "loc": "Global",
@@ -793,157 +856,7 @@
           "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fe4e39a1-cc45-4998-b25c-a7038d89ae66"
         }
       ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Global",
-      "event": "Argentina vs Cabo Verde FIFA World Cup 2026: When and where to watch Lionel Messi in action, match time in India, live streaming and team details",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/argentina-vs-cabo-verde-fifa-world-cup-2026-live-streaming-match-time-india-venue-team-news-match-preview/articleshow/132170481.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Global",
-      "event": " Fifa could CHANGE Brazil v Norway kick-off time at the Cup; here's why",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/fifa-could-change-brazil-v-norway-kick-off-time-at-the-cup-heres-why-43093417"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Global",
-      "event": "England\u2019s World Cup kick-off time against Mexico with FIFA staying silent over reasons",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://eplindex.com/147996/englands-world-cup-kick-off-time-against-mexico-with-fifa-staying-silent-over-reasons.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Global",
-      "event": "USMNT: FIFA Makes Decision on Folarin Balogun's Controversial Suspension",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/6870253a129bd684"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Global",
-      "event": "2026 World Cup: Mexico-England Round of 16 matchup reportedly moved up several hours to avoid inclement weather",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/2026-world-cup-mexico-england-round-of-16-matchup-reportedly-moved-up-several-hours-to-avoid-inclement-weather-193039137.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Dallas",
-      "event": "Egypt World Cup team boss in altercation with Dallas Police ahead of Australia game",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/egypt-dallas-police-world-cup-1919708"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Global",
-      "event": "Australia levels match against Egypt as FIFA World Cup 2026 captivates global betting markets",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/australia-egypt-world-cup-crypto-betting/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Global",
-      "event": " Surprise move: FIFA reportedly plans to move a World Cup last-16 tie",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/surprise-move-fifa-reportedly-plans-to-move-a-world-cup-last-16-tie-43093347"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Global",
-      "event": "'Genuinely not seen this before': World Cup commercialism hits new low as rare sight spotted",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/genuinely-not-seen-this-before-world-cup-commercialism-hits-new-low-as-rare-sight-spotted/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Dallas",
-      "event": "Australia v Egypt: World Cup 2026 last 32 \u2013 live - The Guardian",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184294666"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-04T22:43:19.413113Z"
+  "lastUpdated": "2026-07-04T23:49:30.233657Z"
 }
