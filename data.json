@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 0,
+    "p1": 1,
     "p2": 0,
-    "p3": 30
+    "p3": 34
   },
   "watchlist": [
     {
@@ -131,12 +131,110 @@
   ],
   "risks": [
     {
+      "title": "World Cup 2026: Lamine Yamal reacts to facing Ronaldo in Round of 16",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain winger Lamine Yamal has spoken ahead of his side's FIFA World Cup Round of 16 clash against Portugal, saying it would be an honour to face Cristiano Ronaldo.\nThe post World Cup 2026: Lamine Yamal reacts to facing Ronaldo in Round of 16 appeared first on\u2026",
+      "timestamp": "2026-07-04T11:59:06.870036Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/world-cup-2026-lamine-yamal-reacts-to-facing-ronaldo-in-round-of-16/"
+        }
+      ]
+    },
+    {
+      "title": "France or Spain? Barcelona Teammates Trade World Cup Jibes",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France defender Jules Kounde has brushed aside Spain star Lamine Yamal's comments that Les Bleus are not favourites ahead of La Roja at the FIFA World Cup 2026, saying the remarks do not bother him.",
+      "timestamp": "2026-07-04T11:59:06.870173Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/fifa-world-cup-2026-kounde-answers-yamal-as-favourite-debate-fuels-war-of-words/20260703.htm"
+        }
+      ]
+    },
+    {
+      "title": "Canada coach Jesse Marsch has a way of making it hard for Americans to root for their neighbors in World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Canada coach Jesse Marsch never has hid his bitterness over not being selected to coach the USMNT when the position was open in early 2023. And that's the problem as American soccer fans try to decide whether to root for the Canadians at the 2026 World Cup.",
+      "timestamp": "2026-07-04T11:59:06.870256Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/canada-jesse-marsch-making-it-hard-americans-root-neighbors-world-cup/540d46cbc4d7b2f319d4908c"
+        }
+      ]
+    },
+    {
+      "title": "Stones to start? Rice to right-back? England XIs to face Mexico",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England are preparing to face Mexico in the last 16 of the 2026 World Cup in the early hours of Monday - but who should be in the team at the Azteca Stadium?",
+      "timestamp": "2026-07-04T11:59:06.870364Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.skysports.com/football/news/11095/13559759/mexico-vs-england-predicted-line-ups-sky-sports-writers-pick-their-xis-with-declan-rice-anthony-gordon-and-john-stones-among-players-debated"
+        }
+      ]
+    },
+    {
+      "title": "Calls for Copenhagen World Cup fan zone to close after attack on Sweden fan",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "Jakob N\u00e6sager, the Copenhagen mayor for Children and Youth, has called for public World Cup showings at Islands Brygge to be cancelled after a Swedish citizen received life-threatening injuries in an attack at the fan site.",
+      "timestamp": "2026-07-04T11:59:06.870404Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thelocal.se/20260703/calls-for-copenhagen-world-cup-fan-zone-to-close-after-attack-on-sweden-fan"
+        }
+      ]
+    },
+    {
+      "title": "Where is Australia-Egypt game? Location for World Cup round of 32 match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Australia and Egypt will compete for a chance to advance in the 2026 World Cup tournament on Friday, July 3.",
+      "timestamp": "2026-07-04T11:59:06.870457Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/03/where-is-australia-egypt-world-cup-game-today/90792688007/"
+        }
+      ]
+    },
+    {
+      "title": "'You can't breathe' - What is it like playing at altitude?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "BBC pundits Rachel Corsie and Lucas Leiva explain their experiences of playing football at altitude, ahead of England's game at Estadio Azteca against Mexico which sits 2,240 metres above sea level.",
+      "timestamp": "2026-07-04T11:59:06.870490Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cvgle8rgj3vo"
+        }
+      ]
+    },
+    {
       "title": "Didier Deschamps Honours Mbapp\u00e9 With Special Jersey",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France captain Kylian Mbappe was honoured for reaching 100 international appearances, receiving a commemorative jersey from coach Didier Deschamps. Deschamps himself was celebrated for becoming the most successful manager in FIFA World Cup history with 17 vic\u2026",
-      "timestamp": "2026-07-04T10:46:16.578073Z",
+      "timestamp": "2026-07-04T11:59:06.870623Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Vancouver welcomed the world's attention when it hosted the FIFA World Cup 2026 Round of 32 match between Switzerland and Algeria but while the city played host to a sporting spectacle, one Metro Vancouver-based charity is working to ensure the impact of the \u2026",
-      "timestamp": "2026-07-04T10:46:16.578127Z",
+      "timestamp": "2026-07-04T11:59:06.870655Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Julian Nagelsmann has stepped down as Germany's head coach following their disappointing World Cup exit. The German Football Association confirmed his departure after the team's early elimination by Paraguay. Jurgen Klopp is now the frontrunner to take over, \u2026",
-      "timestamp": "2026-07-04T10:46:16.578226Z",
+      "timestamp": "2026-07-04T11:59:06.870757Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Croatia\u2019s elimination from the 2026 FIFA World Cup last night has brought Real Madrid legend Luka Modric\u2019s future back into focus, with the veteran midfielder now expected to decide what comes nex...",
-      "timestamp": "2026-07-04T10:46:16.578269Z",
+      "timestamp": "2026-07-04T11:59:06.870802Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Philadelphia is one of the few US host cities that has allowed tailgate parties",
-      "timestamp": "2026-07-04T10:46:16.578287Z",
+      "timestamp": "2026-07-04T11:59:06.870819Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The knockout stage has begun at the 2026 World Cup; here's how to watch Argentina vs. Cabo Verde tonight.",
-      "timestamp": "2026-07-04T10:46:16.578323Z",
+      "timestamp": "2026-07-04T11:59:06.870857Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Julian Nagelsmann is no longer Germany\u2019s head coach.He stepped down on Friday morning, days after the crushing elimination against Paraguay on penalties in the Round of 32 of the 2026 FIFA World Cup...",
-      "timestamp": "2026-07-04T10:46:16.578352Z",
+      "timestamp": "2026-07-04T11:59:06.870885Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Julian Nagelsmann has stepped down as Germany head coach in the wake of the national team's disappointing 2026 FIFA World Cup campaign, bringing an end to a tenure that began with high expectations bu...",
-      "timestamp": "2026-07-04T10:46:16.578386Z",
+      "timestamp": "2026-07-04T11:59:06.870920Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Learn which TV channel or how to live stream the Australia and Egypt FIFA World Cup match.",
-      "timestamp": "2026-07-04T10:46:16.578433Z",
+      "timestamp": "2026-07-04T11:59:06.870986Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Fans watch the United States play against Paraguay in the FIFA World Cup 2026 at The Long Acre Tavern in Manhattan on June 12, 2026.\n \n\nBut hotel owners' hopes of an outsize payout have so far fallen short. [ more \u203a ]",
-      "timestamp": "2026-07-04T10:46:16.578495Z",
+      "timestamp": "2026-07-04T11:59:06.871032Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup 2026 enters the Round of 16! Get all the fixtures, dates, and times for the knockout stage, including Portugal vs Spain.\n\nRead More: https://punchng.com/portugal-face-spain-as-world-cup-enters-last-16-other-fixtures-date-time/",
-      "timestamp": "2026-07-04T10:46:16.578568Z",
+      "timestamp": "2026-07-04T11:59:06.871109Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Cape Verde head into the biggest match in their football history full of belief, with coach Pedro Leitao Brito insisting his side will play \"with courage\" against defending champions Argentina in the FIFA World Cup Round of 32.",
-      "timestamp": "2026-07-04T10:46:16.578590Z",
+      "timestamp": "2026-07-04T11:59:06.871132Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The coach of Germany's men's national football team, Julian Nagelsmann, has resigned following the team's loss in the round of 32 of the 2026 FIFA World Cup, German news outlets Bild and Sky Sports re...",
-      "timestamp": "2026-07-04T10:46:16.578673Z",
+      "timestamp": "2026-07-04T11:59:06.871221Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Thursday\u2019s FIFA World Cup 2026 action saw Spain step up a gear to swat aside Austria, and Portugal play out an absolute classic with Croatia.Here is our recap of all the action, including what you m...",
-      "timestamp": "2026-07-04T10:46:16.578745Z",
+      "timestamp": "2026-07-04T11:59:06.871294Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Three final Round of 16 spots up for grabs as Argentina, Australia, Cape Verde, Colombia, Egypt, Ghana are in action.",
-      "timestamp": "2026-07-04T10:46:16.578799Z",
+      "timestamp": "2026-07-04T11:59:06.871352Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Fans from around the world and North America have descended upon the continent\u2019s host cities for the 2026 FIFA World Cup, filling up stadiums, hotels, and increasingly, local homes. As the first week of the knockout rounds comes to a close, the soccer frenzy \u2026",
-      "timestamp": "2026-07-04T10:46:16.578833Z",
+      "timestamp": "2026-07-04T11:59:06.871388Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup 2026 is set to be the most profitable tournament ever, with a prize pool of $871 million and the winning nation receiving $50 million. Ticket prices and broadcasting rights are significantly higher than in previous tournaments.",
-      "timestamp": "2026-07-04T10:46:16.578885Z",
+      "timestamp": "2026-07-04T11:59:06.871443Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Detroit Tigers and Texas Rangers have a scheduled off day to make room for a World Cup game at AT&T Stadium in Arlington, Texas.",
-      "timestamp": "2026-07-04T10:46:16.578949Z",
+      "timestamp": "2026-07-04T11:59:06.871512Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-      "timestamp": "2026-07-04T10:46:16.578967Z",
+      "timestamp": "2026-07-04T11:59:06.871531Z",
       "links": [
         {
           "label": "Source",
@@ -402,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Egypt vs. Australia: Everything you need to know ahead of Friday\u2019s FIFA World Cup Round of 32 showdown Egypt and Australia meet Friday afternoon with a place in the FIFA World Cup Round of 16 on the line, as two nations look to make history in Arlington, Texa\u2026",
-      "timestamp": "2026-07-04T10:46:16.579092Z",
+      "timestamp": "2026-07-04T11:59:06.871666Z",
       "links": [
         {
           "label": "Source",
@@ -416,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Riyad Mahrez, the Algerian football star, has announced his retirement from international football following Algeria's elimination from the FIFA World Cup 2026 Round of 32 by Switzerland. Mahrez confirmed his decision after Algeria's 2-0 defeat, concluding a \u2026",
-      "timestamp": "2026-07-04T10:46:16.579125Z",
+      "timestamp": "2026-07-04T11:59:06.871703Z",
       "links": [
         {
           "label": "Source",
@@ -430,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain produced one of their most convincing displays of the 2026 FIFA World Cup so far as they brushed aside Austria 3-0 to secure their place in the Round of 16.After topping Group H without truly hi...",
-      "timestamp": "2026-07-04T10:46:16.579150Z",
+      "timestamp": "2026-07-04T11:59:06.871727Z",
       "links": [
         {
           "label": "Source",
@@ -444,7 +542,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Portugal legend Cristiano Ronaldo is undoubtedly in the twilight years of his soccer career. This has been evident from his performances on the field, as Cristiano Ronaldo is no longer the superstar that he once was.",
-      "timestamp": "2026-07-04T10:46:16.579174Z",
+      "timestamp": "2026-07-04T11:59:06.871755Z",
       "links": [
         {
           "label": "Source",
@@ -458,7 +556,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Real Madrid\u2019s summer recruits gathered momentum on the international stage, with Marc Cucurella and Bernardo Silva both featuring in the 2026 FIFA World Cup Round of 32.The latest World Cup matches ...",
-      "timestamp": "2026-07-04T10:46:16.579202Z",
+      "timestamp": "2026-07-04T11:59:06.871783Z",
       "links": [
         {
           "label": "Source",
@@ -472,7 +570,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "MCP server for FIFA World Cup 2026 football, Formula 1, and IPL cricket intelligence tools.",
-      "timestamp": "2026-07-04T10:46:16.579233Z",
+      "timestamp": "2026-07-04T11:59:06.871816Z",
       "links": [
         {
           "label": "Source",
@@ -486,7 +584,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Check out the odds for the Australia vs. Egypt Round of 32 matchup at the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-04T10:46:16.579250Z",
+      "timestamp": "2026-07-04T11:59:06.871858Z",
       "links": [
         {
           "label": "Source",
@@ -500,7 +598,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "StubHub claims it doesn\u2019t allow the listing of \u201cspeculative\u201d tickets on its platform. But CBC News found \u201cghost tickets\u201d were available for the FIFA World Cup months before they were issued \u2014 and was able to list non-existent tickets for the 2028 Olympics.",
-      "timestamp": "2026-07-04T10:46:16.579283Z",
+      "timestamp": "2026-07-04T11:59:06.871891Z",
       "links": [
         {
           "label": "Source",
@@ -514,44 +612,121 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mobupps, in partnership with AppMagic, Singular, and Mobile Growth Association have announced the launch of Winning the Football Moment in US & Europe: The Ultimate Cross-Device Growth Playbook for Brand Apps During FIFA World Cup 2026, a comprehensive indust\u2026",
-      "timestamp": "2026-07-04T10:46:16.579311Z",
+      "timestamp": "2026-07-04T11:59:06.871925Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.exchangewire.com/blog/2026/07/03/mobupps-launches-fifa-world-cup-2026-growth-report-for-us-european-marketers/"
         }
       ]
-    },
-    {
-      "title": "'This one's for you Mama' - Ghana's Bonsu Baah living dream at FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "There are few experiences as a player that come close to representing your country at a FIFA World Cup.Whether you play every game, or are among the substitutes, the experience of those few weeks ever...",
-      "timestamp": "2026-07-04T10:46:16.579467Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.spl.com.sa/en/news/1076189/this-ones-for-you-mama-ghanas-bonsu-baah-living-dream-at-fifa-world-cup"
-        }
-      ]
-    },
-    {
-      "title": "Colombia vs Ghana \u2013 Match preview and team news",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Kansas City Stadium hosts the final last-32 fixture of the 2026 World Cup on Saturday morning as Colombia take on Ghana, with a place in the round of 16 against Switzerland on the line.Colombia topped...",
-      "timestamp": "2026-07-04T10:46:16.579526Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_46afbc7d-d65c-446a-9299-049966051440"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 04",
+      "loc": "Global",
+      "event": "World Cup 2026: Lamine Yamal reacts to facing Ronaldo in Round of 16",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/world-cup-2026-lamine-yamal-reacts-to-facing-ronaldo-in-round-of-16/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Global",
+      "event": "France or Spain? Barcelona Teammates Trade World Cup Jibes",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/fifa-world-cup-2026-kounde-answers-yamal-as-favourite-debate-fuels-war-of-words/20260703.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Global",
+      "event": "Canada coach Jesse Marsch has a way of making it hard for Americans to root for their neighbors in World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/canada-jesse-marsch-making-it-hard-americans-root-neighbors-world-cup/540d46cbc4d7b2f319d4908c"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Mexico City",
+      "event": "Stones to start? Rice to right-back? England XIs to face Mexico",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.skysports.com/football/news/11095/13559759/mexico-vs-england-predicted-line-ups-sky-sports-writers-pick-their-xis-with-declan-rice-anthony-gordon-and-john-stones-among-players-debated"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Global",
+      "event": "Calls for Copenhagen World Cup fan zone to close after attack on Sweden fan",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thelocal.se/20260703/calls-for-copenhagen-world-cup-fan-zone-to-close-after-attack-on-sweden-fan"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Global",
+      "event": "Where is Australia-Egypt game? Location for World Cup round of 32 match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/03/where-is-australia-egypt-world-cup-game-today/90792688007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Mexico City",
+      "event": "'You can't breathe' - What is it like playing at altitude?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cvgle8rgj3vo"
+        }
+      ]
+    },
     {
       "date": "Jul 04",
       "loc": "Global",
@@ -971,37 +1146,7 @@
           "url": "https://www.exchangewire.com/blog/2026/07/03/mobupps-launches-fifa-world-cup-2026-growth-report-for-us-european-marketers/"
         }
       ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Global",
-      "event": "'This one's for you Mama' - Ghana's Bonsu Baah living dream at FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.spl.com.sa/en/news/1076189/this-ones-for-you-mama-ghanas-bonsu-baah-living-dream-at-fifa-world-cup"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Kansas City",
-      "event": "Colombia vs Ghana \u2013 Match preview and team news",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_46afbc7d-d65c-446a-9299-049966051440"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-04T10:46:16.579822Z"
+  "lastUpdated": "2026-07-04T11:59:06.872142Z"
 }
