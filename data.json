@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 1,
+    "p1": 0,
     "p2": 0,
-    "p3": 30
+    "p3": 28
   },
   "watchlist": [
     {
@@ -131,12 +131,166 @@
   ],
   "risks": [
     {
+      "title": "Sassuolo target Italian midfielder to replace injured Canada star Kon\u00e9",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Ismael Kon\u00e9 suffered a serious injury during the 2026 World Cup, so his club, Sassuolo, is already working to find a valuable replacement on the market.",
+      "timestamp": "2026-07-04T14:55:32.288493Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/sassuolo-italian-replace-injured-kone-canada/"
+        }
+      ]
+    },
+    {
+      "title": "Why The World Cup Has Been So Successful And So Much Fun",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "There is no exact formula to produce a successful FIFA World Cup, but the 2026 tournament has so much dramatic with record and enthusiastic crowds to make it a memorable one.",
+      "timestamp": "2026-07-04T14:55:32.288634Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/michaellewis/2026/07/03/why-the-world-cup-has-been-so-successful-and-so-much-fun/"
+        }
+      ]
+    },
+    {
+      "title": "Argentina\u2019s updated FIFA ranking before 2026 World Cup clash with Cape Verde",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Check out Argentina's official FIFA World Ranking, coefficient points, and knockout form guide before their 2026 World Cup elimination match against Cape Verde. The safety net of the opening pool phase has officially evaporated at the 2026 FIFA World Cup, lea\u2026",
+      "timestamp": "2026-07-04T14:55:32.288671Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/argentinas-updated-fifa-ranking-before-2026-world-cup-clash-with-cape-verde/"
+        }
+      ]
+    },
+    {
+      "title": "What is Cape Verde\u2019s current FIFA ranking ahead of its 2026 World Cup match vs Argentina?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Check out Cape Verde's official FIFA World Ranking, coefficient points, and knockout form guide before their historic 2026 World Cup elimination match against Argentina. The safety net of the opening pool phase has officially evaporated at the 2026 FIFA World\u2026",
+      "timestamp": "2026-07-04T14:55:32.288726Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/what-is-cape-verdes-current-fifa-ranking-ahead-of-its-2026-world-cup-match-vs-argentina/"
+        }
+      ]
+    },
+    {
+      "title": "Late kick-offs drag FIFA World Cup 2026 TV ad volumes down 14% in India",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The FIFA World Cup 2026 saw a significant drop in linear TV advertising in India, with unfavorable match timings and a paywall on ZEE5 impacting viewership. Connected TV, however, emerged as a winner, attracting a wider range of advertisers and brands due to \u2026",
+      "timestamp": "2026-07-04T14:55:32.288810Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/industry/services/advertising/late-kick-offs-drag-fifa-world-cup-2026-tv-ad-volumes-down-14-in-india/articleshow/132163564.cms"
+        }
+      ]
+    },
+    {
+      "title": "Barcelona prodigy continues to build excitement with steady progress at the World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Barcelona youngster Hamza Abdelkarim is becoming one of the most intriguing stories of Egypt\u2019s 2026 FIFA World Cup campaign.According to Mundo Deportivo, the 18-year-old forward is making history wi...",
+      "timestamp": "2026-07-04T14:55:32.288880Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelona-prodigy-continues-to-build-excitement-with-steady-progress-at-the-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup: 3 African countries seek to join Morocco in next round after 6 eliminated",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "3 African countries will be looking to extend the continent's campaign at the 2026 FIFA World Cup on Friday as Egypt, Cape Verde and Ghana battle for places in the Round of 16.\nThe post World Cup: 3 African countries seek to join Morocco in next round after 6\u2026",
+      "timestamp": "2026-07-04T14:55:32.288933Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/world-cup-3-african-countries-seek-to-join-morocco-in-next-round-after-6-eliminated/"
+        }
+      ]
+    },
+    {
+      "title": "When is the next World Cup match at MetLife Stadium in NJ?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "A Round of 16 match and the World Cup Final are still scheduled for MetLife Stadium in New Jersey. Here's when.",
+      "timestamp": "2026-07-04T14:55:32.288980Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2fcfe0b6-33ac-415a-81fa-37c9e918db68"
+        }
+      ]
+    },
+    {
+      "title": "What is Egypt\u2019s current FIFA ranking ahead of its 2026 World Cup match vs Australia?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Check out Egypt's official FIFA World Ranking, coefficient point totals, and knockout form guide before their 2026 World Cup elimination match against Australia. History will inevitably be written under the lights of AT&T Stadium in Arlington, Texas. For the \u2026",
+      "timestamp": "2026-07-04T14:55:32.289072Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/what-is-egypts-current-fifa-ranking-ahead-of-its-2026-world-cup-match-vs-australia/"
+        }
+      ]
+    },
+    {
+      "title": "Australia\u2019s updated FIFA ranking before 2026 World Cup clash with Egypt",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Check out Australia's official FIFA World Ranking, coefficient point totals, and knockout form guide before their 2026 World Cup elimination match against Egypt. Australia and Egypt are set to face off in a historic 2026 FIFA World Cup Round of 32 showdown at\u2026",
+      "timestamp": "2026-07-04T14:55:32.289104Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/australias-updated-fifa-ranking-before-2026-world-cup-clash-with-egypt/"
+        }
+      ]
+    },
+    {
+      "title": "Colombia vs. Ghana odds, prediction: 2026 World Cup Round of 32 picks by expert on 16-6 run",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "SportsLine's Martin Green reveals his Ghana vs. Colombia best bets for their knockout stage match in the FIFA World Cup 2026 on Friday",
+      "timestamp": "2026-07-04T14:55:32.289147Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/colombia-ghana-odds-prediction-time-2026-world-cup-round-of-32-picks/"
+        }
+      ]
+    },
+    {
       "title": "Is Mo Salah playing? Australia vs Egypt projected lineups for the 2026 World Cup game",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With the hopes of a nation holding its breath, the ultimate question dominates the countdown to kickoff: will their warrior be fit to take the pitch, and how will these two nations deploy their forces for this sudden-death epic? A cloud of agonizing uncertain\u2026",
-      "timestamp": "2026-07-04T13:19:11.989151Z",
+      "timestamp": "2026-07-04T14:55:32.289261Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "SportsLine's Martin Green reveals his Argentina vs. Cape Verde best bets for their knockout stage match in the FIFA World Cup 2026 on Friday as Messi and Vozinha battle",
-      "timestamp": "2026-07-04T13:19:11.989200Z",
+      "timestamp": "2026-07-04T14:55:32.289284Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Learn which TV channel or how to live stream the Colombia and Ghana FIFA World Cup match.",
-      "timestamp": "2026-07-04T13:19:11.989282Z",
+      "timestamp": "2026-07-04T14:55:32.289362Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "World Cup cohosts Canada face mighty Morocco in their first-ever last-16 appearance at the FIFA World Cup.",
-      "timestamp": "2026-07-04T13:19:11.989305Z",
+      "timestamp": "2026-07-04T14:55:32.289381Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "There's little separating Australia and Egypt on paper, and their Round of 32 clash promises to be an interesting affair. Here's how you can watch it live (even for free).\nIt's the last day of the Round of 32 at the FIFA World Cup, and Australia will take on \u2026",
-      "timestamp": "2026-07-04T13:19:11.989392Z",
+      "timestamp": "2026-07-04T14:55:32.289468Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "SportsLine's Jon Eimer reveals his Australia vs. Egypt best bets for the FIFA World Cup 2026 match as the knockout round continues on Friday",
-      "timestamp": "2026-07-04T13:19:11.989415Z",
+      "timestamp": "2026-07-04T14:55:32.289493Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "SportsLine soccer expert Brandt Sutton has analyzed the Lionel Messi odds, and locked in his picks and predictions for Cape Verde vs. Argentina",
-      "timestamp": "2026-07-04T13:19:11.989477Z",
+      "timestamp": "2026-07-04T14:55:32.289559Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Colombia and Ghana battle for the final spot in the Round of 16 today. Here's how to watch the match live using a streaming service or VPN.\nColombia take on Ghana in the final game of the Round of 32 at the FIFA World Cup today. The two teams have never met e\u2026",
-      "timestamp": "2026-07-04T13:19:11.989537Z",
+      "timestamp": "2026-07-04T14:55:32.289622Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Knicks, the FIFA World Cup and Taylor Swift's wedding in New York, add to the city\u2019s summer of good vibes and celebrations. Read more.",
-      "timestamp": "2026-07-04T13:19:11.989571Z",
+      "timestamp": "2026-07-04T14:55:32.289658Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Learn which TV channel or how to live stream the Argentina and Cape Verde FIFA World Cup match.",
-      "timestamp": "2026-07-04T13:19:11.989590Z",
+      "timestamp": "2026-07-04T14:55:32.289677Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France have looked unstoppable throughout the World Cup, and Paraguay will have to get creative to knock them out. What will happen? Watch this Round of 16 fixture using a streaming service or VPN to find out.\nWe're into the Round of 16 at the FIFA World Cup \u2026",
-      "timestamp": "2026-07-04T13:19:11.989618Z",
+      "timestamp": "2026-07-04T14:55:32.289706Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A 39-year-old Lionel Messi is showing no signs of slowing down. Can Cabo Verde stop him and shock the world? Watch the Argentina vs. Cabo Verde knockout game using a streaming service or VPN to find out.\nWe're into the final day of the Round of 32 at the FIFA\u2026",
-      "timestamp": "2026-07-04T13:19:11.989659Z",
+      "timestamp": "2026-07-04T14:55:32.289751Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "There's little separating Australia and Egypt on paper, and their Round of 32 clash promises to be an interesting affair. Here's how you can watch it live using a streaming service or VPN.\nIt's the last day of the Round of 32 at the FIFA World Cup, and Austra\u2026",
-      "timestamp": "2026-07-04T13:19:11.989718Z",
+      "timestamp": "2026-07-04T14:55:32.289818Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Check out the odds for the Argentina vs. Cape Verde Round of 32 matchup at the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-04T13:19:11.989808Z",
+      "timestamp": "2026-07-04T14:55:32.289912Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain winger Lamine Yamal has spoken ahead of his side's FIFA World Cup Round of 16 clash against Portugal, saying it would be an honour to face Cristiano Ronaldo.\nThe post World Cup 2026: Lamine Yamal reacts to facing Ronaldo in Round of 16 appeared first on\u2026",
-      "timestamp": "2026-07-04T13:19:11.989907Z",
+      "timestamp": "2026-07-04T14:55:32.290041Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France defender Jules Kounde has brushed aside Spain star Lamine Yamal's comments that Les Bleus are not favourites ahead of La Roja at the FIFA World Cup 2026, saying the remarks do not bother him.",
-      "timestamp": "2026-07-04T13:19:11.990000Z",
+      "timestamp": "2026-07-04T14:55:32.290134Z",
       "links": [
         {
           "label": "Source",
@@ -360,212 +514,181 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Canada coach Jesse Marsch never has hid his bitterness over not being selected to coach the USMNT when the position was open in early 2023. And that's the problem as American soccer fans try to decide whether to root for the Canadians at the 2026 World Cup.",
-      "timestamp": "2026-07-04T13:19:11.990094Z",
+      "timestamp": "2026-07-04T14:55:32.290247Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.sportingnews.com/us/soccer/news/canada-jesse-marsch-making-it-hard-americans-root-neighbors-world-cup/540d46cbc4d7b2f319d4908c"
         }
       ]
-    },
-    {
-      "title": "Stones to start? Rice to right-back? England XIs to face Mexico",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England are preparing to face Mexico in the last 16 of the 2026 World Cup in the early hours of Monday - but who should be in the team at the Azteca Stadium?",
-      "timestamp": "2026-07-04T13:19:11.990187Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.skysports.com/football/news/11095/13559759/mexico-vs-england-predicted-line-ups-sky-sports-writers-pick-their-xis-with-declan-rice-anthony-gordon-and-john-stones-among-players-debated"
-        }
-      ]
-    },
-    {
-      "title": "Calls for Copenhagen World Cup fan zone to close after attack on Sweden fan",
-      "risk": "high",
-      "severityText": "P1 CRITICAL",
-      "status": "VERIFIED",
-      "description": "Jakob N\u00e6sager, the Copenhagen mayor for Children and Youth, has called for public World Cup showings at Islands Brygge to be cancelled after a Swedish citizen received life-threatening injuries in an attack at the fan site.",
-      "timestamp": "2026-07-04T13:19:11.990224Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thelocal.se/20260703/calls-for-copenhagen-world-cup-fan-zone-to-close-after-attack-on-sweden-fan"
-        }
-      ]
-    },
-    {
-      "title": "Where is Australia-Egypt game? Location for World Cup round of 32 match",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Australia and Egypt will compete for a chance to advance in the 2026 World Cup tournament on Friday, July 3.",
-      "timestamp": "2026-07-04T13:19:11.990268Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/03/where-is-australia-egypt-world-cup-game-today/90792688007/"
-        }
-      ]
-    },
-    {
-      "title": "'You can't breathe' - What is it like playing at altitude?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "BBC pundits Rachel Corsie and Lucas Leiva explain their experiences of playing football at altitude, ahead of England's game at Estadio Azteca against Mexico which sits 2,240 metres above sea level.",
-      "timestamp": "2026-07-04T13:19:11.990298Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cvgle8rgj3vo"
-        }
-      ]
-    },
-    {
-      "title": "Didier Deschamps Honours Mbapp\u00e9 With Special Jersey",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "France captain Kylian Mbappe was honoured for reaching 100 international appearances, receiving a commemorative jersey from coach Didier Deschamps. Deschamps himself was celebrated for becoming the most successful manager in FIFA World Cup history with 17 vic\u2026",
-      "timestamp": "2026-07-04T13:19:11.990418Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/fifa-world-cup-didier-deschamps-honours-mbapp-with-special-jersey/20260703.htm"
-        }
-      ]
-    },
-    {
-      "title": "With World Cup spotlight on Vancouver, OneAbility is ensuring no child is left on the sidelines",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Vancouver welcomed the world's attention when it hosted the FIFA World Cup 2026 Round of 32 match between Switzerland and Algeria but while the city played host to a sporting spectacle, one Metro Vancouver-based charity is working to ensure the impact of the \u2026",
-      "timestamp": "2026-07-04T13:19:11.990447Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/tsn/news/world-cup-vancouver-oneability/f3120b2853b5cd986f6c314b"
-        }
-      ]
-    },
-    {
-      "title": "Jurgen Klopp linked with Germany job as Julian Nagelsmann resigns after FIFA World Cup exit",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Julian Nagelsmann has stepped down as Germany's head coach following their disappointing World Cup exit. The German Football Association confirmed his departure after the team's early elimination by Paraguay. Jurgen Klopp is now the frontrunner to take over, \u2026",
-      "timestamp": "2026-07-04T13:19:11.990537Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/jurgen-klopp-linked-with-germany-job-as-julian-nagelsmann-resigns-after-fifa-world-cup-exit/articleshow/132158727.cms"
-        }
-      ]
-    },
-    {
-      "title": "Luka Modric faces major career decision after World Cup exit as Real Madrid monitor situation",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Croatia\u2019s elimination from the 2026 FIFA World Cup last night has brought Real Madrid legend Luka Modric\u2019s future back into focus, with the veteran midfielder now expected to decide what comes nex...",
-      "timestamp": "2026-07-04T13:19:11.990578Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://madriduniversal.com/luka-modric-faces-major-career-decision-after-world-cup-exit-as-real-madrid-monitor-situation/"
-        }
-      ]
-    },
-    {
-      "title": "More than the Score",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Philadelphia is one of the few US host cities that has allowed tailgate parties",
-      "timestamp": "2026-07-04T13:19:11.990594Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bbc.co.uk/sounds/play/p0nwmslq?at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Argentina vs. Cabo Verde: Where to watch the 2026 World Cup match today, TV channel, start time, free streaming info, and more",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The knockout stage has begun at the 2026 World Cup; here's how to watch Argentina vs. Cabo Verde tonight.",
-      "timestamp": "2026-07-04T13:19:11.990630Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/argentina-vs-cabo-verde-where-to-watch-the-2026-world-cup-match-today-tv-channel-start-time-free-streaming-info-and-more-101000361.html"
-        }
-      ]
-    },
-    {
-      "title": " Germany announce Nagelsmann exit... and talks with Klopp",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Julian Nagelsmann is no longer Germany\u2019s head coach.He stepped down on Friday morning, days after the crushing elimination against Paraguay on penalties in the Round of 32 of the 2026 FIFA World Cup...",
-      "timestamp": "2026-07-04T13:19:11.990656Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/germany-announce-nagelsmann-exit-and-talks-with-klopp-43091044"
-        }
-      ]
-    },
-    {
-      "title": " Julian Nagelsmann steps down as Germany head coach",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Julian Nagelsmann has stepped down as Germany head coach in the wake of the national team's disappointing 2026 FIFA World Cup campaign, bringing an end to a tenure that began with high expectations bu...",
-      "timestamp": "2026-07-04T13:19:11.990739Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/julian-nagelsmann-steps-down-as-germany-head-coach-43091033"
-        }
-      ]
-    },
-    {
-      "title": "How to Watch Australia vs. Egypt: TV Channel, Live Stream, Time",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Learn which TV channel or how to live stream the Australia and Egypt FIFA World Cup match.",
-      "timestamp": "2026-07-04T13:19:11.990815Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/how-to-watch-australia-vs-egypt-tv-channel-live-stream-2026-fifa-world-cup-round-of-32"
-        }
-      ]
-    },
-    {
-      "title": "World Cup winner has already been declared: NYC bars, watch venues",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Fans watch the United States play against Paraguay in the FIFA World Cup 2026 at The Long Acre Tavern in Manhattan on June 12, 2026.\n \n\nBut hotel owners' hopes of an outsize payout have so far fallen short. [ more \u203a ]",
-      "timestamp": "2026-07-04T13:19:11.990886Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://gothamist.com/news/world-cup-winner-has-already-been-declared-nyc-bars-watch-venues"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 04",
+      "loc": "Global",
+      "event": "Sassuolo target Italian midfielder to replace injured Canada star Kon\u00e9",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/sassuolo-italian-replace-injured-kone-canada/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Global",
+      "event": "Why The World Cup Has Been So Successful And So Much Fun",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/michaellewis/2026/07/03/why-the-world-cup-has-been-so-successful-and-so-much-fun/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Global",
+      "event": "Argentina\u2019s updated FIFA ranking before 2026 World Cup clash with Cape Verde",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/argentinas-updated-fifa-ranking-before-2026-world-cup-clash-with-cape-verde/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Global",
+      "event": "What is Cape Verde\u2019s current FIFA ranking ahead of its 2026 World Cup match vs Argentina?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/what-is-cape-verdes-current-fifa-ranking-ahead-of-its-2026-world-cup-match-vs-argentina/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Global",
+      "event": "Late kick-offs drag FIFA World Cup 2026 TV ad volumes down 14% in India",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/industry/services/advertising/late-kick-offs-drag-fifa-world-cup-2026-tv-ad-volumes-down-14-in-india/articleshow/132163564.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Global",
+      "event": "Barcelona prodigy continues to build excitement with steady progress at the World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelona-prodigy-continues-to-build-excitement-with-steady-progress-at-the-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Global",
+      "event": "World Cup: 3 African countries seek to join Morocco in next round after 6 eliminated",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/world-cup-3-african-countries-seek-to-join-morocco-in-next-round-after-6-eliminated/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "New York / New Jersey",
+      "event": "When is the next World Cup match at MetLife Stadium in NJ?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2fcfe0b6-33ac-415a-81fa-37c9e918db68"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Global",
+      "event": "What is Egypt\u2019s current FIFA ranking ahead of its 2026 World Cup match vs Australia?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/what-is-egypts-current-fifa-ranking-ahead-of-its-2026-world-cup-match-vs-australia/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Global",
+      "event": "Australia\u2019s updated FIFA ranking before 2026 World Cup clash with Egypt",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/australias-updated-fifa-ranking-before-2026-world-cup-clash-with-egypt/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 04",
+      "loc": "Global",
+      "event": "Colombia vs. Ghana odds, prediction: 2026 World Cup Round of 32 picks by expert on 16-6 run",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/colombia-ghana-odds-prediction-time-2026-world-cup-round-of-32-picks/"
+        }
+      ]
+    },
     {
       "date": "Jul 04",
       "loc": "Global",
@@ -820,217 +943,7 @@
           "url": "https://www.sportingnews.com/us/soccer/news/canada-jesse-marsch-making-it-hard-americans-root-neighbors-world-cup/540d46cbc4d7b2f319d4908c"
         }
       ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Mexico City",
-      "event": "Stones to start? Rice to right-back? England XIs to face Mexico",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.skysports.com/football/news/11095/13559759/mexico-vs-england-predicted-line-ups-sky-sports-writers-pick-their-xis-with-declan-rice-anthony-gordon-and-john-stones-among-players-debated"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Global",
-      "event": "Calls for Copenhagen World Cup fan zone to close after attack on Sweden fan",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "high",
-      "impact": "P1 CRITICAL",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thelocal.se/20260703/calls-for-copenhagen-world-cup-fan-zone-to-close-after-attack-on-sweden-fan"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Global",
-      "event": "Where is Australia-Egypt game? Location for World Cup round of 32 match",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/03/where-is-australia-egypt-world-cup-game-today/90792688007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Mexico City",
-      "event": "'You can't breathe' - What is it like playing at altitude?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cvgle8rgj3vo"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Global",
-      "event": "Didier Deschamps Honours Mbapp\u00e9 With Special Jersey",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/fifa-world-cup-didier-deschamps-honours-mbapp-with-special-jersey/20260703.htm"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Vancouver",
-      "event": "With World Cup spotlight on Vancouver, OneAbility is ensuring no child is left on the sidelines",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/tsn/news/world-cup-vancouver-oneability/f3120b2853b5cd986f6c314b"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Global",
-      "event": "Jurgen Klopp linked with Germany job as Julian Nagelsmann resigns after FIFA World Cup exit",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/jurgen-klopp-linked-with-germany-job-as-julian-nagelsmann-resigns-after-fifa-world-cup-exit/articleshow/132158727.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Global",
-      "event": "Luka Modric faces major career decision after World Cup exit as Real Madrid monitor situation",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://madriduniversal.com/luka-modric-faces-major-career-decision-after-world-cup-exit-as-real-madrid-monitor-situation/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Global",
-      "event": "More than the Score",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bbc.co.uk/sounds/play/p0nwmslq?at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Global",
-      "event": "Argentina vs. Cabo Verde: Where to watch the 2026 World Cup match today, TV channel, start time, free streaming info, and more",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/argentina-vs-cabo-verde-where-to-watch-the-2026-world-cup-match-today-tv-channel-start-time-free-streaming-info-and-more-101000361.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Global",
-      "event": " Germany announce Nagelsmann exit... and talks with Klopp",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/germany-announce-nagelsmann-exit-and-talks-with-klopp-43091044"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Global",
-      "event": " Julian Nagelsmann steps down as Germany head coach",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/julian-nagelsmann-steps-down-as-germany-head-coach-43091033"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Global",
-      "event": "How to Watch Australia vs. Egypt: TV Channel, Live Stream, Time",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/how-to-watch-australia-vs-egypt-tv-channel-live-stream-2026-fifa-world-cup-round-of-32"
-        }
-      ]
-    },
-    {
-      "date": "Jul 04",
-      "loc": "Global",
-      "event": "World Cup winner has already been declared: NYC bars, watch venues",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://gothamist.com/news/world-cup-winner-has-already-been-declared-nyc-bars-watch-venues"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-04T13:19:11.991063Z"
+  "lastUpdated": "2026-07-04T14:55:32.290451Z"
 }
