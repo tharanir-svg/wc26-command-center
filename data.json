@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 1,
-    "p3": 37
+    "p2": 0,
+    "p3": 28
   },
   "watchlist": [
     {
@@ -131,12 +131,320 @@
   ],
   "risks": [
     {
+      "title": "Meet the soccer-playing humanoid robot that just delivered the game ball at the Brazil v. Norway FIFA World Cup match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Meet Atlas, the 5-foot tall humanoid robot that delivered the World Cup match ball, has 56 points of movement on its body, and learned to play soccer.",
+      "timestamp": "2026-07-06T21:16:49.887461Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://fortune.com/2026/07/05/humanoid-robot-delivered-game-ball-brazil-norway-world-cup-match-fifa-boston-dynamics-hyundai/"
+        }
+      ]
+    },
+    {
+      "title": "How to watch Mexico vs England: Free Streams, TV Channels & Kick-Off time for FIFA World Cup 2026 as Three Lions face co-hosts at the Azteca",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Here's how to watch Mexico vs England for free online and from anywhere at the FIFA World Cup 2026 last 16, as Harry Kane & Co. face their biggest test yet.",
+      "timestamp": "2026-07-06T21:16:49.887530Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/how-to-watch/football/mexico-vs-england-world-cup-2026-free"
+        }
+      ]
+    },
+    {
+      "title": "Mexico vs. England: Stream FIFA World Cup 2026 Match Live for Free",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The co-hosts face the Three Lions at Mexico City Stadium with a place in the quarterfinals at stake.",
+      "timestamp": "2026-07-06T21:16:49.887580Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cnet.com/tech/services-and-software/mexico-vs-england-stream-fifa-world-cup-2026-match-live-for-free/"
+        }
+      ]
+    },
+    {
+      "title": "USMNT wants to \u201ctake this thing as far as we can\u201d",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "History has not been on the U.S. Men\u2019s National Team\u2019s side in previous meetings with Belgium, but they aren\u2019t too concerned with that heading into Monday\u2019s FIFA World Cup Round of 16 showdown. Seattle Stadium will play host to the second USMNT-Belgium matchu\u2026",
+      "timestamp": "2026-07-06T21:16:49.887623Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sbisoccer.com/2026/07/usmnt-wants-to-take-this-thing-as-far-as-we-can"
+        }
+      ]
+    },
+    {
+      "title": "World Cup 2026: How to watch Mexico vs. England in the Round of 16 for free",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Mexico is the only team left in the World Cup that has yet to allow a goal.",
+      "timestamp": "2026-07-06T21:16:49.887641Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/05/sports/how-to-watch-mexico-vs-england-for-free-in-world-cup-2026-start-time-livestream/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup Recap: Clinical Morocco Eliminates Canada, France Sets Up Semifinal Rematch",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Adrian Sousa from Rabona TV breaks down the heartbreak for co-hosts Canada following a 3-0 loss to Morocco and France's narrow escape against Paraguay. The single-elimination hammer has fallen on the first of the host nations at the 2026 FIFA World Cup. On th\u2026",
+      "timestamp": "2026-07-06T21:16:49.887755Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/podcast/world-cup-recap-clinical-morocco-eliminates-canada-france-sets-up-semifinal-rematch/"
+        }
+      ]
+    },
+    {
+      "title": "Brazil, Norway fans pack MetLife Stadium for knockout World Cup match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Brazil jerseys outnumbered Norway in the stands at MetLife Stadium for a Round of 16 World Cup match on July 5, 2026.",
+      "timestamp": "2026-07-06T21:16:49.887839Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/05/brazil-vs-norway-world-cup-round-of-16-at-metlife-stadium-nj/90812003007/"
+        }
+      ]
+    },
+    {
+      "title": "Mexico\u2019s updated FIFA ranking before 2026 World Cup clash with England",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Track Mexico's official updated 10th-place FIFA World Ranking, coefficient point totals, and knockout metrics before their World Cup Round of 16 clash with England. Expectations have completely shifted into overdrive across the host nation as the Round of 16 \u2026",
+      "timestamp": "2026-07-06T21:16:49.887888Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/mexicos-updated-fifa-ranking-before-2026-world-cup-clash-with-england/"
+        }
+      ]
+    },
+    {
+      "title": "Seattle\u2019s final FIFA World Cup Match: Your ultimate guide",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Seattle will host its final FIFA World Cup 2026 match on Monday as USA faces Belgium. Here is your ultimate guide to transportation, watch parties, and more.",
+      "timestamp": "2026-07-06T21:16:49.887913Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/seattle-final-fifa-world-cup-203407544.html"
+        }
+      ]
+    },
+    {
+      "title": "Brazil vs. Norway and Mexico vs. England with World Cup quarterfinal spots at stake, in photos",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Erling Haaland and Vin\u00edcius J\u00fanior are two stars to watch as Norway faces Brazil in the World Cup round of 16 in East Rutherford, New Jersey, on Sunday, and co-host Mexico hopes to reach the quarterfinals by beating England at Estadio Azteca in Mexico City. B\u2026",
+      "timestamp": "2026-07-06T21:16:49.887944Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/brazil-vs-norway-mexico-vs-203348641.html"
+        }
+      ]
+    },
+    {
+      "title": "Online outrage over Brazil's missed penalty: why didn't Vini take it?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Brazil is drawing 0-0 with Norway this Sunday (5) in the Round of 16 of the 2026 FIFA World Cup.But the deadlock in New Jersey, United States, could already have been broken if Bruno Guimar\u00e3es had co...",
+      "timestamp": "2026-07-06T21:16:49.888033Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/online-outrage-over-brazils-missed-penalty-why-didnt-vini-take-it-43100998"
+        }
+      ]
+    },
+    {
+      "title": "Why England is so concerned about the altitude at Mexico City's Estadio Azteca",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England is facing perhaps the toughest homefield advantage against Mexico on Sunday.",
+      "timestamp": "2026-07-06T21:16:49.888093Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://ftw.usatoday.com/story/sports/soccer/2026/07/05/how-altitude-mexico-city-estadio-azteca-impact-england-world-cup/90814581007/"
+        }
+      ]
+    },
+    {
+      "title": "\u00d8rjan Nyland\u2019s penalty save against Bruno Guimar\u00e3es keeps Norway alive at 2026 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Nyland's crucial save not only extends Norway's World Cup journey but also highlights the unpredictable nature of knockout-stage football.\nThe post \u00d8rjan Nyland\u2019s penalty save against Bruno Guimar\u00e3es keeps Norway alive at 2026 World Cup appeared first on Cryp\u2026",
+      "timestamp": "2026-07-06T21:16:49.888139Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cryptobriefing.com/nyland-penalty-save-brazil-norway-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "England Faces Mexico And Altitude Next In 2026 FIFA World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Estadio Azteca, the famed stadium located around 7,220 feet above sea level, will be the site of the FIFA World Cup 2026 Round of 16 clash between Mexico and England.",
+      "timestamp": "2026-07-06T21:16:49.888265Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/brucelee/2026/07/05/england-faces-mexico-and-altitude-next-in-2026-fifa-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "Norway defeats Brazil 1-0 at the 2026 World Cup, ending one of football\u2019s most stubborn statistical streaks",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Norway's victory disrupts betting markets and fan token valuations, highlighting the unpredictable nature of football and its economic impacts.\nThe post Norway defeats Brazil 1-0 at the 2026 World Cup, ending one of football\u2019s most stubborn statistical streak\u2026",
+      "timestamp": "2026-07-06T21:16:49.888299Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cryptobriefing.com/norway-beats-brazil-2026-world-cup-crypto-markets/"
+        }
+      ]
+    },
+    {
+      "title": "What is England\u2019s current FIFA ranking ahead of its 2026 World Cup match vs Mexico?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Check out England's official updated 4th-place FIFA World Ranking, point metrics, and form guide before their 2026 World Cup Round of 16 clash against Mexico. An atmospheric cauldron awaits the European heavyweights as the Round of 16 takes center stage at th\u2026",
+      "timestamp": "2026-07-06T21:16:49.888408Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/what-is-englands-current-fifa-ranking-ahead-of-its-2026-world-cup-match-vs-mexico/"
+        }
+      ]
+    },
+    {
+      "title": "How to watch Mexico vs England in USA: 2026 World Cup Round of 16, Live Stream, TV & Preview",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Mexico and England square off in the FIFA World Cup Round of 16. Here\u2019s everything you need to know to watch the showdown live in the United States. \nHere are all of the details of where you can watch Mexico vs England on US television and via legal streaming\u2026",
+      "timestamp": "2026-07-06T21:16:49.888438Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-mexico-vs-england-in-the-usa-live-stream-and-tv-for-world-cup-round-of-16/"
+        }
+      ]
+    },
+    {
+      "title": "Erling Haaland vs. Gabriel rivalry: Arsenal, Man City resume heated feud in World Cup Round of 16",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup has been oozing with delicious storylines ever since the tournament began across North America in mid-June, with the latest seeing two club rivals clash for the first time on the international level.",
+      "timestamp": "2026-07-06T21:16:49.888463Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/erling-haaland-gabriel-rivalry-arsenal-man-city-world-cup/42db31a53ddc7471f7df458b"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026 Today Match Schedule (6 July): India time, live streaming and other details",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA World Cup 2026 match schedule for 6 July: The FIFA World Cup 2026 knockout stage heats up with two thrilling Round of 16 matches. Brazil faces a determined Norway, aiming to advance towards a record sixth title. Later, co-hosts Mexico, energized by home \u2026",
+      "timestamp": "2026-07-06T21:16:49.888583Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-today-match-schedule-6th-july-fifa-world-cup-matches-today-india-time-brazil-norway-england-mexico/articleshow/132202759.cms"
+        }
+      ]
+    },
+    {
+      "title": "Prince William tells Travis Kelce what biggest \u2018culture shock\u2019 for European fans is at World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Prince William has revealed what will \u201cshock\u201d soccer fans travelling to the US for the 2026 FIFA World Cup in conversation with Travis Kelce. As president of the FA and a lifelong Villa supporter, the future king of England knows what he is talking about when\u2026",
+      "timestamp": "2026-07-06T21:16:49.888631Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/prince-william-tells-travis-kelce-what-biggest-culture-shock-for-european-fans-is-at-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Cup, Round of 16: Brazil vs. Norway; Mexico vs. England",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "A day after Morocco and France secured a spot in the quarterfinals, the Round of 16 continues today with a pair of scintillating fixtures, with five-time winners Brazil squaring off against a Norwegian side fronted by the inimitable Erling Haaland, who has ba\u2026",
+      "timestamp": "2026-07-06T21:16:49.888665Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.chiesaditotti.com/as-roma-international-break-matches/41624/2026-world-cup-round-of-16-brazil-vs-norway-mexico-vs-england"
+        }
+      ]
+    },
+    {
+      "title": " Cristiano Ronaldo confirms 2026 World Cup exit: not tomorrow, I hope",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Next Monday (6), Portugal will take the field again to face Spain in Dallas at 4 p.m. (Bras\u00edlia time) in the Round of 16 of the 2026 FIFA World Cup. On the eve of the Iberian derby, Cristiano Ronaldo...",
+      "timestamp": "2026-07-06T21:16:49.888699Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/cristiano-ronaldo-confirms-2026-world-cup-exit-not-tomorrow-i-hope-43100857"
+        }
+      ]
+    },
+    {
       "title": "FIFA World Cup 2026: Kylian Mbappe of France scores 19th career World Cup goal, 1 behind Golden Boot rival Messi",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mbappe stutter-stepped on his way to his 19th goal in 19 World Cup appearances, beating Paraguay goalkeeper Orlando Gill in the 70th minute to break a scoreless tie. France's captain was awarded the penalty when Diego Gomez was called for tripping after a vid\u2026",
-      "timestamp": "2026-07-06T19:26:25.201174Z",
+      "timestamp": "2026-07-06T21:16:49.888868Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Canadian men\u2019s soccer team had a great run through the 2026 FIFA World Cup that\u2019s likely to be remembered, though perhaps not for the reasons it should. While the Canadians advanced to the knockout stage before losing in the Round of 16 to Morocco 3-0, it\u2026",
-      "timestamp": "2026-07-06T19:26:25.201303Z",
+      "timestamp": "2026-07-06T21:16:49.888987Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The June 5 Round of 16 matchup is historically significant as Brazil has never beaten Norway.",
-      "timestamp": "2026-07-06T19:26:25.201329Z",
+      "timestamp": "2026-07-06T21:16:49.889022Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England is gearing up for its biggest test yet, a match against co-hosts Mexico in their home stadium of Estadio Azteca in Mexico City. Kickoff is set for 8 p.m. ET with England listed as the favorites to advance.\nBut while El Tri will enter as the underdogs \u2026",
-      "timestamp": "2026-07-06T19:26:25.201412Z",
+      "timestamp": "2026-07-06T21:16:49.889130Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup has many fans watching and soaking up the talents of an aging generation, with names like Lionel Messi, Cristiano Ronaldo, and Luka Modric playing in what may be their last tou...",
-      "timestamp": "2026-07-06T19:26:25.201483Z",
+      "timestamp": "2026-07-06T21:16:49.889225Z",
       "links": [
         {
           "label": "Source",
@@ -206,464 +514,346 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Erling Haaland hopes to pull off his biggest feat yet by helping Norway knock Brazil out of the World Cup 2026 when they meet in the last 16 on Sunday. MORE: 2026 FIFA World Cup Round of 32 TV schedule,\u2026",
-      "timestamp": "2026-07-06T19:26:25.201513Z",
+      "timestamp": "2026-07-06T21:16:49.889274Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.thebiglead.com/how-to-watch-brazil-vs-norway-live-stream-tv-channel-start-time-for-fifa-world-cup-2026-round-of-32/"
         }
       ]
-    },
-    {
-      "title": "Where to Watch Brazil vs. Norway in the 2026 FIFA World Cup for Free",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "With trials to platforms like DirecTV, you can watch the Brazil vs. Norway World Cup game for free. Where can I watch the Brazil vs. Norway game?",
-      "timestamp": "2026-07-06T19:26:25.201636Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.rollingstone.com/product-recommendations/streaming/how-to-watch-brazil-norway-world-cup-game-for-free-livestream-1235589417/"
-        }
-      ]
-    },
-    {
-      "title": "England vs. Mexico odds, prediction: 2026 World Cup Round of 16 picks via expert on 16-6 run",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "SportsLine's Martin Green reveals his England vs. Mexico best bets for their knockout stage match in the FIFA World Cup 2026 on Sunday at",
-      "timestamp": "2026-07-06T19:26:25.201661Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/england-mexico-odds-prediction-2026-world-cup-round-16-picks-best-bets/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup: Heavy RedBull influence during Brazil vs. Norway",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Former Red Bull talents will go head-to-head on Sunday as Brazil and Norway battle for a place in the 2026 FIFA World Cup quarter-finals.Leading the line for Brazil is former RB Leipzig forward Matheu...",
-      "timestamp": "2026-07-06T19:26:25.201684Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://bulinews.com/world-cup-heavy-redbull-influence-during-brazil-norway"
-        }
-      ]
-    },
-    {
-      "title": "FIFA WC Live Score: BRA 0-0 NOR; Nyland saves Guimaraes penalty as Norway dominate",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Welcome to The Times of India\u2019s live coverage of the FIFA World Cup 2026! Tonight, the iconic New York New Jersey Stadium plays host to a truly block",
-      "timestamp": "2026-07-06T19:26:25.201709Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup-2026-brazil-vs-norway-live-score-round-of-16-football-match-today-vinicius-junior-neymar-erling-haaland-fifa-knockout-clash-latest-updates/liveblog/132201906.cms"
-        }
-      ]
-    },
-    {
-      "title": "Brazil vs. Norway odds, prediction, time: 2026 World Cup Round of 16 picks via expert on 25-16 roll",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "SportsLine's Jon Eimer reveals his Norway vs. Brazil best bets for the FIFA World Cup 2026 match as the Round of 16 continues on Sunday",
-      "timestamp": "2026-07-06T19:26:25.201821Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/brazil-norway-odds-prediction-time-2026-world-cup-round-16-picks-soccer-best-bets/"
-        }
-      ]
-    },
-    {
-      "title": "Brazil vs. Norway: Stream FIFA World Cup 2026 Match Live for Free",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "It's Erling Haaland versus Vin\u00edcius J\u00fanior for a place in the quarterfinals.",
-      "timestamp": "2026-07-06T19:26:25.202000Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cnet.com/tech/services-and-software/brazil-vs-norway-stream-fifa-world-cup-2026-match-live-for-free/"
-        }
-      ]
-    },
-    {
-      "title": "Brazil vs Norway FIFA World Cup 2026: Match time in India, live streaming and team details",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Brazil vs Norway FIFA World Cup 2026 live streaming; Brazil faces a stern test against Norway in the FIFA World Cup 2026 quarter-finals, despite a mixed start to their campaign.  Ancelotti's side narrowly advanced past Japan and now confront a historically ch\u2026",
-      "timestamp": "2026-07-06T19:26:25.202047Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/brazil-vs-norway-fifa-world-cup-2026-live-streaming-match-time-venue-team-news-and-match-preview/articleshow/132199150.cms"
-        }
-      ]
-    },
-    {
-      "title": "BREAKING: USMNT's Folarin Balogun Available for Selection Against Belgium on Monday",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "SEATTLE \u2013 In a remarkable turn, the U.S. Men\u2019s National Team\u2019s leading FIFA World Cup 2026 goalscorer Folarin Balogun will be available for selection in Monday\u2019s Round of 16 match against Belg...",
-      "timestamp": "2026-07-06T19:26:25.202076Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ussoccer.com/stories/on-the-pitch/2026/07/usmnt/folarin-balogun-available-for-selection-against-belgium-monday-seattle"
-        }
-      ]
-    },
-    {
-      "title": "Mexico vs. England live stream: How to watch FIFA World Cup, odds, prediction, pick, lineups, channel",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Arguably the most anticipated matchup of the 2026 World Cup arrives on Sunday night",
-      "timestamp": "2026-07-06T19:26:25.202109Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/mexico-vs-england-world-cup-2026-preview-predictions-watch/"
-        }
-      ]
-    },
-    {
-      "title": "USMNT\u2019s Folarin Balogun Has FIFA Red Card Suspended Ahead Of Belgium World Cup Match",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "Folarin Balogun is back in the game as FIFA suspends his red card ahead of Team USA\u2019s Round of 16 match against Belgium. The USMNT striker is now eligible to compete in Monday\u2019s FIFA World Cup match, set for 5pm PT at Seattle Stadium, following his foul on de\u2026",
-      "timestamp": "2026-07-06T19:26:25.202136Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://deadline.com/2026/07/usmnt-folarin-balogun-fifa-red-card-suspended-1236974372/"
-        }
-      ]
-    },
-    {
-      "title": "How to watch Brazil vs. Norway for free in World Cup 2026 Round of 16",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "One team will advance to the quarterfinals.",
-      "timestamp": "2026-07-06T19:26:25.202177Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/05/sports/how-to-watch-brazil-norway-for-free-in-world-cup-2026-time-livestream/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA changes its mind on Folarin Balogun suspension",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The United States Men\u2019s National Team was expected to be without its leading goal scorer during Monday\u2019s Round of 16 showdown with Belgium in the 2026 FIFA World Cup after he was shown a red card during the Round of 32 win over Bosnia and Herzegovina. However\u2026",
-      "timestamp": "2026-07-06T19:26:25.202240Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/fifa-changes-its-mind-on-folarin-balogun-suspension.html"
-        }
-      ]
-    },
-    {
-      "title": "How Brazil\u2019s win, draw, or loss vs Norway could impact the 2026 World Cup bracket",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Brazil have managed to overcome their scoring problems, securing their place in the Round of 16, imposing as top contenders. With this in mind, they face Norway, looking for a decisive victory. Therefore, a win, a draw, or a loss could significantly affect th\u2026",
-      "timestamp": "2026-07-06T19:26:25.202270Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/how-brazils-win-draw-or-loss-vs-norway-could-impact-the-2026-world-cup-bracket/"
-        }
-      ]
-    },
-    {
-      "title": "How to watch Brazil vs Norway: Free Streams, TV Channels & Kick-Off time for FIFA World Cup 2026 as Erling Haaland aims to shock Selecao",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here's how to watch Brazil vs Norway for free online and from anywhere at the FIFA World Cup 2026, as Vinicius Jr and Erling Haaland headline the last-16 clash.",
-      "timestamp": "2026-07-06T19:26:25.202343Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/how-to-watch/football/brazil-vs-norway-world-cup-2026-free"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026: Why US star Folarin Balogun can play vs. Belgium",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "USMNT star Folarin Balogun will be available Monday against Belgium after all",
-      "timestamp": "2026-07-06T19:26:25.202359Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sbnation.com/fifa-world-cup/1121639/world-cup-2026-why-us-star-folarin-balogun-can-play-vs-belgium"
-        }
-      ]
-    },
-    {
-      "title": "How to live stream Brazil vs Norway for free without cable: World Cup, TV channel",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Brazil and Norway square off in the 2026 FIFA World Cup Round of 16 in East Rutherford, New Jersey, with a quarterfinal berth on the line. The winner will advance to face either Mexico or England, setting up one of\u2026",
-      "timestamp": "2026-07-06T19:26:25.202418Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/how-to-live-stream-brazil-vs-norway-for-free-without-cable-world-cup-tv-channel/"
-        }
-      ]
-    },
-    {
-      "title": "Why owners of England vs Mexico venue Azteca Stadium promised FIFA $62m World Cup payment",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Estadio Azteca, where Mexico face England in this evening\u2019s World Cup round-of-16 blockbuster, is probably the most storied venue in soccer history. The first stadium to host matches at three different FIFA World Cups, the monumental stadium was the stage for\u2026",
-      "timestamp": "2026-07-06T19:26:25.202443Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/why-owners-of-england-vs-mexico-venue-azteca-stadium-promised-fifa-62m-world-cup-payment/"
-        }
-      ]
-    },
-    {
-      "title": "Will England players take Viagra vs. Mexico? Why drug claim emerged before high-altitude World Cup game",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Reports have suggested England could consider Viagra to help cope with the altitude in Mexico City during the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-06T19:26:25.202502Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/will-england-players-take-viagra-vs-mexico-world-cup/347854bb149f8270929dab65"
-        }
-      ]
-    },
-    {
-      "title": "World Cup live updates in NJ as Brazil faces Norway Sunday",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Check back here for live updates as Brazil takes on Norway at MetLife Stadium in a Round of 16 match Sunday, July 5",
-      "timestamp": "2026-07-06T19:26:25.202538Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/news/new-jersey/2026/07/05/world-cup-live-updates-in-nj-as-brazil-faces-norway/90787848007/"
-        }
-      ]
-    },
-    {
-      "title": "German World Cup Fan Breaks Down on Live TV After Realizing The ANTI-AMERICAN PROPAGANDA He Was Fed Was COMPLETE GARBAGE \u2014 Kindness from American Stranger Changes His View of the U.S.",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "A German soccer fan who came to America to support his national team during the 2026 World Cup completely broke down on live television after realizing the nonstop anti-American propaganda he was fed back home was total garbage. Sebastian Kraus got emotional \u2026",
-      "timestamp": "2026-07-06T19:26:25.202587Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://freerepublic.com/focus/f-chat/4386757/posts"
-        }
-      ]
-    },
-    {
-      "title": "At what time does Mexico play today vs. England in World Cup?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Mexico begins its run through the 2026 FIFA World Cup knockout stage when it plays England in the round of 16. How to watch.",
-      "timestamp": "2026-07-06T19:26:25.202605Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.elpasotimes.com/story/sports/soccer/2026/07/05/where-is-mexico-playing-today-when-is-the-mexico-england-game/90805173007/"
-        }
-      ]
-    },
-    {
-      "title": "Brazil vs. Norway live stream: How to watch FIFA World Cup, odds, prediction, pick, lineups, channel",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The round of 16 continues on Sunday with the first of two epic clashes as Brazil try to contain Erling Haaland and Norway",
-      "timestamp": "2026-07-06T19:26:25.202625Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/brazil-norway-world-cup-2026-preview-predictions-watch/"
-        }
-      ]
-    },
-    {
-      "title": "Azteca Stadium altitude: How high Mexico's World Cup arena is above sea level, and why it matters",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Mexico City's iconic Azteca Stadium is one of the highest-profile venues at the 2026 FIFA World Cup. Here's how high it sits above sea level, why the altitude affects players and which soccer stadium is the highest in the world.",
-      "timestamp": "2026-07-06T19:26:25.202645Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/azteca-stadium-altitude-how-high-mexico-world-cup-sea-level/0aee60d4223912acbf7b8289"
-        }
-      ]
-    },
-    {
-      "title": "What time does Portugal play tomorrow? Details on showdown with Spain",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Cristiano Ronaldo scored his first goal of the 2026 World Cup in Portugal's 2-1 win over Croatia. Next up: a battle for Iberian supremacy vs. Spain.",
-      "timestamp": "2026-07-06T19:26:25.202666Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/05/portugal-vs-spain-where-when-how-to-watch/90812165007/"
-        }
-      ]
-    },
-    {
-      "title": "TST Best Bets: July 5, 2026",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Sunday\u2019s World Cup slate is headlined by one of the most anticipated matchups of the entire tournament, as Mexico takes on England at the iconic Estadio Azteca in Mexico City.Mexico reached the round of 16 with a 2-0 victory over Ecuador, as they are one of t\u2026",
-      "timestamp": "2026-07-06T19:26:25.202712Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thesportingtribune.com/2026/07/05/tst-best-bets-july-5-2026"
-        }
-      ]
-    },
-    {
-      "title": "Norway\u2019s updated FIFA ranking before 2026 World Cup clash with Brazil",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Review Norway's updated live 23rd-place FIFA World Ranking, point totals, and bracket metrics ahead of their 2026 World Cup Round of 16 showdown vs Brazil. The margin for error has completely disappeared at the 2026 FIFA World Cup, leaving a fearless Norway s\u2026",
-      "timestamp": "2026-07-06T19:26:25.202762Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/norways-updated-fifa-ranking-before-2026-world-cup-clash-with-brazil/"
-        }
-      ]
-    },
-    {
-      "title": "What is Brazil\u2019s current FIFA ranking ahead of its 2026 World Cup match vs Norway?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Check out Brazil's official FIFA World Ranking, coefficient point totals, and knockout metrics before their 2026 World Cup Round of 16 elimination match against Norway. The pressure has magnified tenfold at the 2026 FIFA World Cup as a storied Brazil team rea\u2026",
-      "timestamp": "2026-07-06T19:26:25.202792Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/what-is-brazils-current-fifa-ranking-ahead-of-its-2026-world-cup-match-vs-norway/"
-        }
-      ]
-    },
-    {
-      "title": "Spain vs. Portugal odds, prediction, time: 2026 World Cup Round of 16 picks from expert on 25-16 run",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "SportsLine's Jon Eimer reveals his Portugal vs. Spain best bets for the FIFA World Cup 2026 match as the Round of 16 continues on Monday",
-      "timestamp": "2026-07-06T19:26:25.202819Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/spain-portugal-odds-prediction-time-2026-world-cup-round-16-picks/"
-        }
-      ]
-    },
-    {
-      "title": "Mexico-England Match Prompts Security Crackdown After Fan Violence",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The upcoming Mexico-England FIFA World Cup match has prompted security concerns in the host nation, where authorities are restricting access to the capital\u2019s public viewing spots, and in California, where several venues have reportedly canceled watch parties \u2026",
-      "timestamp": "2026-07-06T19:26:25.202849Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/eb36303111649506"
-        }
-      ]
-    },
-    {
-      "title": "We must rid NFF of scavengers who have nothing to offer \u2013 Odegbami",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Former Nigeria international, Segun Odegbami, who has become the lone voice in the wilderness has launched scathing criticisms on Nigerian football authorities, following the Super Eagles\u2019 failure to qualify for the 2026 FIFA World Cup.\nThe post We must rid N\u2026",
-      "timestamp": "2026-07-06T19:26:25.202923Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/we-must-rid-nff-of-scavengers-who-have-nothing-to-offer-odegbami/"
-        }
-      ]
-    },
-    {
-      "title": "PREVIEW | Argentina vs Egypt: team news, lineups, predictions (World Cup 07/07)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina and Egypt face each other this Tuesday at the Mercedes-Benz Stadium for a match of the Last 16 of the World Cup. The match will be broadcast live at 17:00 on ITV 1.In their last fixture, Arg...",
-      "timestamp": "2026-07-06T19:26:25.202951Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.playmakerstats.com/news/preview-argentina-vs-egypt-team-news-lineups-predictions-world-cup-07-07/1153884"
-        }
-      ]
-    },
-    {
-      "title": "The reason \u2018Wonderwall\u2019 and \u2018Freed from Desire\u2019 echo at World Cup 2026",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Far from coincidence, the global soccer governing body FIFA meticulously curates the tournament's sonic landscape",
-      "timestamp": "2026-07-06T19:26:25.203209Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.the-independent.com/sport/football/world-cup/world-cup-2026-country-songs-wonderwall-thunderstuck-b3009277.html"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 06",
+      "loc": "Global",
+      "event": "Meet the soccer-playing humanoid robot that just delivered the game ball at the Brazil v. Norway FIFA World Cup match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://fortune.com/2026/07/05/humanoid-robot-delivered-game-ball-brazil-norway-world-cup-match-fifa-boston-dynamics-hyundai/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "Mexico City",
+      "event": "How to watch Mexico vs England: Free Streams, TV Channels & Kick-Off time for FIFA World Cup 2026 as Three Lions face co-hosts at the Azteca",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/how-to-watch/football/mexico-vs-england-world-cup-2026-free"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "Global",
+      "event": "Mexico vs. England: Stream FIFA World Cup 2026 Match Live for Free",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cnet.com/tech/services-and-software/mexico-vs-england-stream-fifa-world-cup-2026-match-live-for-free/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "Global",
+      "event": "USMNT wants to \u201ctake this thing as far as we can\u201d",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sbisoccer.com/2026/07/usmnt-wants-to-take-this-thing-as-far-as-we-can"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "Global",
+      "event": "World Cup 2026: How to watch Mexico vs. England in the Round of 16 for free",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/05/sports/how-to-watch-mexico-vs-england-for-free-in-world-cup-2026-start-time-livestream/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "Global",
+      "event": "World Cup Recap: Clinical Morocco Eliminates Canada, France Sets Up Semifinal Rematch",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/podcast/world-cup-recap-clinical-morocco-eliminates-canada-france-sets-up-semifinal-rematch/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "New York / New Jersey",
+      "event": "Brazil, Norway fans pack MetLife Stadium for knockout World Cup match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/05/brazil-vs-norway-world-cup-round-of-16-at-metlife-stadium-nj/90812003007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "Global",
+      "event": "Mexico\u2019s updated FIFA ranking before 2026 World Cup clash with England",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/mexicos-updated-fifa-ranking-before-2026-world-cup-clash-with-england/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "Global",
+      "event": "Seattle\u2019s final FIFA World Cup Match: Your ultimate guide",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/seattle-final-fifa-world-cup-203407544.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "Mexico City",
+      "event": "Brazil vs. Norway and Mexico vs. England with World Cup quarterfinal spots at stake, in photos",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/brazil-vs-norway-mexico-vs-203348641.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "Global",
+      "event": "Online outrage over Brazil's missed penalty: why didn't Vini take it?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/online-outrage-over-brazils-missed-penalty-why-didnt-vini-take-it-43100998"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "Mexico City",
+      "event": "Why England is so concerned about the altitude at Mexico City's Estadio Azteca",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://ftw.usatoday.com/story/sports/soccer/2026/07/05/how-altitude-mexico-city-estadio-azteca-impact-england-world-cup/90814581007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "Global",
+      "event": "\u00d8rjan Nyland\u2019s penalty save against Bruno Guimar\u00e3es keeps Norway alive at 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cryptobriefing.com/nyland-penalty-save-brazil-norway-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "Mexico City",
+      "event": "England Faces Mexico And Altitude Next In 2026 FIFA World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/brucelee/2026/07/05/england-faces-mexico-and-altitude-next-in-2026-fifa-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "Global",
+      "event": "Norway defeats Brazil 1-0 at the 2026 World Cup, ending one of football\u2019s most stubborn statistical streaks",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cryptobriefing.com/norway-beats-brazil-2026-world-cup-crypto-markets/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "Global",
+      "event": "What is England\u2019s current FIFA ranking ahead of its 2026 World Cup match vs Mexico?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/what-is-englands-current-fifa-ranking-ahead-of-its-2026-world-cup-match-vs-mexico/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "San Francisco Bay Area",
+      "event": "How to watch Mexico vs England in USA: 2026 World Cup Round of 16, Live Stream, TV & Preview",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-mexico-vs-england-in-the-usa-live-stream-and-tv-for-world-cup-round-of-16/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "Global",
+      "event": "Erling Haaland vs. Gabriel rivalry: Arsenal, Man City resume heated feud in World Cup Round of 16",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/erling-haaland-gabriel-rivalry-arsenal-man-city-world-cup/42db31a53ddc7471f7df458b"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026 Today Match Schedule (6 July): India time, live streaming and other details",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-today-match-schedule-6th-july-fifa-world-cup-matches-today-india-time-brazil-norway-england-mexico/articleshow/132202759.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "Global",
+      "event": "Prince William tells Travis Kelce what biggest \u2018culture shock\u2019 for European fans is at World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/prince-william-tells-travis-kelce-what-biggest-culture-shock-for-european-fans-is-at-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "Global",
+      "event": "2026 World Cup, Round of 16: Brazil vs. Norway; Mexico vs. England",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.chiesaditotti.com/as-roma-international-break-matches/41624/2026-world-cup-round-of-16-brazil-vs-norway-mexico-vs-england"
+        }
+      ]
+    },
+    {
+      "date": "Jul 06",
+      "loc": "Dallas",
+      "event": " Cristiano Ronaldo confirms 2026 World Cup exit: not tomorrow, I hope",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/cristiano-ronaldo-confirms-2026-world-cup-exit-not-tomorrow-i-hope-43100857"
+        }
+      ]
+    },
     {
       "date": "Jul 06",
       "loc": "Global",
@@ -753,487 +943,7 @@
           "url": "https://www.thebiglead.com/how-to-watch-brazil-vs-norway-live-stream-tv-channel-start-time-for-fifa-world-cup-2026-round-of-32/"
         }
       ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "Where to Watch Brazil vs. Norway in the 2026 FIFA World Cup for Free",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.rollingstone.com/product-recommendations/streaming/how-to-watch-brazil-norway-world-cup-game-for-free-livestream-1235589417/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "England vs. Mexico odds, prediction: 2026 World Cup Round of 16 picks via expert on 16-6 run",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/england-mexico-odds-prediction-2026-world-cup-round-16-picks-best-bets/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "World Cup: Heavy RedBull influence during Brazil vs. Norway",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://bulinews.com/world-cup-heavy-redbull-influence-during-brazil-norway"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "FIFA WC Live Score: BRA 0-0 NOR; Nyland saves Guimaraes penalty as Norway dominate",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup-2026-brazil-vs-norway-live-score-round-of-16-football-match-today-vinicius-junior-neymar-erling-haaland-fifa-knockout-clash-latest-updates/liveblog/132201906.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "Brazil vs. Norway odds, prediction, time: 2026 World Cup Round of 16 picks via expert on 25-16 roll",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/brazil-norway-odds-prediction-time-2026-world-cup-round-16-picks-soccer-best-bets/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "Brazil vs. Norway: Stream FIFA World Cup 2026 Match Live for Free",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cnet.com/tech/services-and-software/brazil-vs-norway-stream-fifa-world-cup-2026-match-live-for-free/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "Brazil vs Norway FIFA World Cup 2026: Match time in India, live streaming and team details",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/brazil-vs-norway-fifa-world-cup-2026-live-streaming-match-time-venue-team-news-and-match-preview/articleshow/132199150.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "BREAKING: USMNT's Folarin Balogun Available for Selection Against Belgium on Monday",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ussoccer.com/stories/on-the-pitch/2026/07/usmnt/folarin-balogun-available-for-selection-against-belgium-monday-seattle"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "Mexico vs. England live stream: How to watch FIFA World Cup, odds, prediction, pick, lineups, channel",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/mexico-vs-england-world-cup-2026-preview-predictions-watch/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "USMNT\u2019s Folarin Balogun Has FIFA Red Card Suspended Ahead Of Belgium World Cup Match",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://deadline.com/2026/07/usmnt-folarin-balogun-fifa-red-card-suspended-1236974372/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "How to watch Brazil vs. Norway for free in World Cup 2026 Round of 16",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/05/sports/how-to-watch-brazil-norway-for-free-in-world-cup-2026-time-livestream/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "FIFA changes its mind on Folarin Balogun suspension",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/fifa-changes-its-mind-on-folarin-balogun-suspension.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "How Brazil\u2019s win, draw, or loss vs Norway could impact the 2026 World Cup bracket",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/how-brazils-win-draw-or-loss-vs-norway-could-impact-the-2026-world-cup-bracket/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "How to watch Brazil vs Norway: Free Streams, TV Channels & Kick-Off time for FIFA World Cup 2026 as Erling Haaland aims to shock Selecao",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/how-to-watch/football/brazil-vs-norway-world-cup-2026-free"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "World Cup 2026: Why US star Folarin Balogun can play vs. Belgium",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sbnation.com/fifa-world-cup/1121639/world-cup-2026-why-us-star-folarin-balogun-can-play-vs-belgium"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "How to live stream Brazil vs Norway for free without cable: World Cup, TV channel",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/how-to-live-stream-brazil-vs-norway-for-free-without-cable-world-cup-tv-channel/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Mexico City",
-      "event": "Why owners of England vs Mexico venue Azteca Stadium promised FIFA $62m World Cup payment",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/why-owners-of-england-vs-mexico-venue-azteca-stadium-promised-fifa-62m-world-cup-payment/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "Will England players take Viagra vs. Mexico? Why drug claim emerged before high-altitude World Cup game",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/will-england-players-take-viagra-vs-mexico-world-cup/347854bb149f8270929dab65"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "New York / New Jersey",
-      "event": "World Cup live updates in NJ as Brazil faces Norway Sunday",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/news/new-jersey/2026/07/05/world-cup-live-updates-in-nj-as-brazil-faces-norway/90787848007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "San Francisco Bay Area",
-      "event": "German World Cup Fan Breaks Down on Live TV After Realizing The ANTI-AMERICAN PROPAGANDA He Was Fed Was COMPLETE GARBAGE \u2014 Kindness from American Stranger Changes His View of the U.S.",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://freerepublic.com/focus/f-chat/4386757/posts"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "At what time does Mexico play today vs. England in World Cup?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.elpasotimes.com/story/sports/soccer/2026/07/05/where-is-mexico-playing-today-when-is-the-mexico-england-game/90805173007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "Brazil vs. Norway live stream: How to watch FIFA World Cup, odds, prediction, pick, lineups, channel",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/brazil-norway-world-cup-2026-preview-predictions-watch/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Mexico City",
-      "event": "Azteca Stadium altitude: How high Mexico's World Cup arena is above sea level, and why it matters",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/azteca-stadium-altitude-how-high-mexico-world-cup-sea-level/0aee60d4223912acbf7b8289"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "What time does Portugal play tomorrow? Details on showdown with Spain",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/05/portugal-vs-spain-where-when-how-to-watch/90812165007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Mexico City",
-      "event": "TST Best Bets: July 5, 2026",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thesportingtribune.com/2026/07/05/tst-best-bets-july-5-2026"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "Norway\u2019s updated FIFA ranking before 2026 World Cup clash with Brazil",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/norways-updated-fifa-ranking-before-2026-world-cup-clash-with-brazil/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "What is Brazil\u2019s current FIFA ranking ahead of its 2026 World Cup match vs Norway?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/what-is-brazils-current-fifa-ranking-ahead-of-its-2026-world-cup-match-vs-norway/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "Spain vs. Portugal odds, prediction, time: 2026 World Cup Round of 16 picks from expert on 25-16 run",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/spain-portugal-odds-prediction-time-2026-world-cup-round-16-picks/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "Mexico-England Match Prompts Security Crackdown After Fan Violence",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/eb36303111649506"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "We must rid NFF of scavengers who have nothing to offer \u2013 Odegbami",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/we-must-rid-nff-of-scavengers-who-have-nothing-to-offer-odegbami/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Atlanta",
-      "event": "PREVIEW | Argentina vs Egypt: team news, lineups, predictions (World Cup 07/07)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.playmakerstats.com/news/preview-argentina-vs-egypt-team-news-lineups-predictions-world-cup-07-07/1153884"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "The reason \u2018Wonderwall\u2019 and \u2018Freed from Desire\u2019 echo at World Cup 2026",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.the-independent.com/sport/football/world-cup/world-cup-2026-country-songs-wonderwall-thunderstuck-b3009277.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-06T19:26:25.203391Z"
+  "lastUpdated": "2026-07-06T21:16:49.889444Z"
 }
