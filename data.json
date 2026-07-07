@@ -6,7 +6,7 @@
   },
   "metrics": {
     "p1": 1,
-    "p2": 4,
+    "p2": 2,
     "p3": 27
   },
   "watchlist": [
@@ -131,12 +131,236 @@
   ],
   "risks": [
     {
+      "title": "Mexico vs. England in World Cup: Start pushed back an hour because of weather - Los Angeles Times",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Mexico vs. England in World Cup: Start pushed back an hour because of weatherLos Angeles Times England look to end Mexico\u2019s World Cup party after weather delay: Live updatesThe New York Times | FOX SportsFOX Sports Mexico vs England LIVE: FIFA World Cup 2026 \u2026",
+      "timestamp": "2026-07-07T01:43:14.581817Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184324558"
+        }
+      ]
+    },
+    {
+      "title": "\u2018Football is finished\u2019 \u2013 World Cup fans slam \u2018appalling\u2019 $27 hot dog combo at Canada vs Morocco",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The pricing of food and drinks inside World Cup stadiums in the United States has once again sparked debate on social media. While the World Cup has clearly been a huge success thus far, there has been a lot of talk about the price difference in American stad\u2026",
+      "timestamp": "2026-07-07T01:43:14.581878Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/football-is-finished-world-cup-fans-slam-appalling-27-hot-dog-combo-at-canada-vs-morocco/"
+        }
+      ]
+    },
+    {
+      "title": "Neymar quits international football after Brazil\u2019s World Cup knockout loss",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "The injury-plagued striker converted a penalty but failed to take his team into the last 16 of the FIFA World Cup.",
+      "timestamp": "2026-07-07T01:43:14.581925Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/6/neymar-quits-international-football-after-brazils-world-cup-knockout-loss"
+        }
+      ]
+    },
+    {
+      "title": " Casemiro in tears, Vini apologises and more after the exit",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The dream of a sixth World Cup title has been postponed for at least another four years after the 2-1 defeat to Norway this Sunday (5) in the round of 16 of the 2026 FIFA World Cup.As they left the st...",
+      "timestamp": "2026-07-07T01:43:14.581950Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/casemiro-in-tears-vini-apologises-and-more-after-the-exit-43101567"
+        }
+      ]
+    },
+    {
+      "title": "Portugal, Spain go head-to-head in standout fixture",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Iberian adversaries go head-to-head in the standout fixture of the World Cup 2026 last 16, as\u00a0Portugal\u00a0and\u00a0Spain\u00a0scrap it out at the AT&T Stadium on Monday. Roberto Martinez\u2018s troops survived a mammoth scare to defeat Croatia 2-1 in their opening knockout gam\u2026",
+      "timestamp": "2026-07-07T01:43:14.581983Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thechronicle.com.gh/portugal-spain-go-head-to-head-in-standout-fixture/"
+        }
+      ]
+    },
+    {
+      "title": "Neymar taunts Norway goalie after scoring Brazil\u2019s only goal in chippy end to World Cup career",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "After scoring a stoppage-time goal on a penalty kick, Neymar got in the face of Norway goalkeeper \u00d8rjan Nyland at MetLife Stadium on Sunday, which turned out to be his final match for the Brazil national team.",
+      "timestamp": "2026-07-07T01:43:14.582032Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/05/sports/neymar-taunts-norway-goalie-in-chippy-end-to-world-cup-career/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026: Neymar announces international retirement after Brazil's shock exit to Norway",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Brazil's football icon Neymar Jr. has retired from international duty following their surprising 2-1 World Cup exit to Norway. The veteran forward, who ends his illustrious career as Brazil's all-time leading scorer, expressed his finality after the match.  D\u2026",
+      "timestamp": "2026-07-07T01:43:14.582084Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-neymar-announces-international-retirement-after-brazils-shock-exit-to-norway/articleshow/132205082.cms"
+        }
+      ]
+    },
+    {
+      "title": "How England\u2019s win, draw, or loss vs Mexico could impact the 2026 World Cup bracket",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England is taking on Mexico at the 2026 World Cup Round of 16, and depending of the result at the Estadio Azteca, the bracket of the competition will be reshaped. England enter this Round of 16 on an unbeaten run, looking to end Mexico\u2018s long dominance at the\u2026",
+      "timestamp": "2026-07-07T01:43:14.582137Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/how-englands-win-draw-or-loss-vs-mexico-could-impact-the-2026-world-cup-bracket/"
+        }
+      ]
+    },
+    {
+      "title": "Hyundai Motor Brings Atlas Humanoid Robot to FIFA World Cup 2026\u2122 in First-Ever Live Match Environment Robotics Integration",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Hyundai Motor showcases Boston Dynamics' Atlas\u00ae in historic FIFA World Cup 2026\u2122 deployment, demonstrating real-world robotics capabilities on one of sport's biggest stages First-ever integration of a humanoid robot into FIFA World Cup\u2122 live match environment\u2026",
+      "timestamp": "2026-07-07T01:43:14.582200Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/hyundai-motor-brings-atlas-humanoid-robot-to-fifa-world-cup-2026-in-first-ever-live-match-environment-robotics-integration-302818037.html"
+        }
+      ]
+    },
+    {
+      "title": "Why is Mexico vs England delayed? Updated start time for 2026 World Cup clash",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The kickoff for the 2026 World Cup clash between Mexico and England has been delayed, with a new time set for the game to officially begin. Mexico and England were originally scheduled to kick off their Round of 16 clash on Sunday, July 5th, at 8:00 PM ET at \u2026",
+      "timestamp": "2026-07-07T01:43:14.582364Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/why-is-mexico-vs-england-delayed-updated-start-time-for-2026-world-cup-clash/"
+        }
+      ]
+    },
+    {
+      "title": " Fresh start: after being knocked out, when Brazil play again",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "With the 2-1 defeat to Norway, the Brazilian National Team bowed out of the 2026 FIFA World Cup this Sunday (5), in the round of 16.Brazil had not been eliminated at this stage of the tournament since...",
+      "timestamp": "2026-07-07T01:43:14.582448Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/fresh-start-after-the-exit-when-brazil-next-play-43101500"
+        }
+      ]
+    },
+    {
+      "title": "United States vs. Belgium odds, prediction, time: 2026 World Cup Round of 16 picks via expert on 25-16 roll",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "SportsLine's Jon Eimer reveals his USA vs. Belgium best bets in the FIFA World Cup 2026 Round of 16 on Monday with Folarin Balogun available to play",
+      "timestamp": "2026-07-07T01:43:14.582515Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/united-states-belgium-odds-prediction-time-2026-world-cup-round-of-16-picks/"
+        }
+      ]
+    },
+    {
+      "title": "Pittsburgh Steelers show their Mexico fans some love by taking a hilarious World Cup stance via their official accounts",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The Pittsburgh Steelers have millions of fans in Mexico, and they're showing them some love ahead of one of the biggest games of the 2026 FIFA World Cup.",
+      "timestamp": "2026-07-07T01:43:14.582585Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://atozsports.com/nfl/pittsburgh-steelers-news/official-hilarious-stance-world-cup-mexico-england/"
+        }
+      ]
+    },
+    {
+      "title": "How to watch USA vs Belgium: Live stream the 2026 FIFA World Cup Round of 16",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA cleared Folarin Balogun to play against Belgium after his controversial red card, giving Mauricio Pochettino his regular USMNT starting XI on Monday.",
+      "timestamp": "2026-07-07T01:43:14.582640Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/sports/how-watch-usa-vs-belgium-live-stream-2026-fifa-world-cup-round-16"
+        }
+      ]
+    },
+    {
+      "title": "England vs. Mexico odds, prediction: 2026 World Cup Round of 16 picks via expert on 16-6 run",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "SportsLine's Martin Green reveals his England vs. Mexico best bets for their knockout stage match in the FIFA World Cup 2026 on Sunday at",
+      "timestamp": "2026-07-07T01:43:14.582677Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/england-mexico-odds-prediction-time-2026-world-cup-round-16-picks-soccer-best-bets/"
+        }
+      ]
+    },
+    {
+      "title": "Brazil\u2019s loss to Norway leaves players and fans distraught and searching for answers",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The scenes were hard to watch inside MetLife Stadium on Sunday as Brazilian fans were seen in tears towards the end of the match, many leaving early in a sign of complete resignation.",
+      "timestamp": "2026-07-07T01:43:14.582709Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.nbcnews.com/sports/soccer/brazil-vs-norway-brazils-loss-earliest-world-cup-exit-nearly-30-years-rcna353071"
+        }
+      ]
+    },
+    {
       "title": "Erling Haaland fires Norway past Brazil to end up in World Cup quarterfinals for first time in history",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Erling Haaland scored twice as Norway defeated Brazil, 2-1, to advance to the FIFA World Cup quarterfinals for the first time in team history.",
-      "timestamp": "2026-07-06T23:54:35.399454Z",
+      "timestamp": "2026-07-07T01:43:14.582799Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +374,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "The New England Patriots are showing their international fans some love ahead of Sunday's major match between Mexico and England at Mexico City Stadium (previously named Estadio Azteca).",
-      "timestamp": "2026-07-06T23:54:35.399588Z",
+      "timestamp": "2026-07-07T01:43:14.582887Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +388,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Sunday night\u2019s England-Mexico game in Mexico City figures to be massiveNBC Sports World Cup Daily live: Mexico fans try to give England sleepless night; Brazil face NorwayESPN Mexico v England: storm delays arrival of teams at stadium before World Cup 2026 la\u2026",
-      "timestamp": "2026-07-06T23:54:35.399649Z",
+      "timestamp": "2026-07-07T01:43:14.582939Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "NEW YORK: Erling Haaland produced a sensational late double as Norway shocked five-time champions Brazil 2-1 in the FIFA World Cup 2026 Round of 16 at MetLife Stadium, booking a place in the quarter-finals for the first time in the nation\u2019s history. The Scand\u2026",
-      "timestamp": "2026-07-06T23:54:35.399728Z",
+      "timestamp": "2026-07-07T01:43:14.583010Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "MEXICO CITY: England's World Cup last-16 clash against Mexico has been delayed by one hour due to adverse weather conditions in Mexico City, FIFA confirmed on Sunday (Jul 5).The match at the Estadio Azteca will now kick off at 7pm local time (Monday, 9am, Sin\u2026",
-      "timestamp": "2026-07-06T23:54:35.399780Z",
+      "timestamp": "2026-07-07T01:43:14.583057Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Estadio Azteca provides the stage for arguably the biggest Round of 16 encounter of the FIFA World Cup 2026 as co-hosts Mexico face England in a",
-      "timestamp": "2026-07-06T23:54:35.399802Z",
+      "timestamp": "2026-07-07T01:43:14.583078Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Sunday\u2019s Round of 16 action in the 2026 FIFA World Cup hit a snag ahead of the highly anticipated Mexico vs. England showdown. Due to inclement weather in the area and lightning storms, kick off has been delayed. The game\u2026",
-      "timestamp": "2026-07-06T23:54:35.399831Z",
+      "timestamp": "2026-07-07T01:43:14.583104Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "To face England in the 2026 World Cup Round of 16, Edson Alvarez turned into one of the main absences in Mexico's starting lineup. Mexico takes on England in the Round of 16 at the Estadio Azteca with a quarterfinal spot on the line, but one of El Tri\u2018s most \u2026",
-      "timestamp": "2026-07-06T23:54:35.399886Z",
+      "timestamp": "2026-07-07T01:43:14.583141Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The start time of the 2026 FIFA World Cup round of 16 match between England and Mexico on Sunday has been delayed one hour due to extreme weather conditions in the area surrounding Mexico City Stadium.",
-      "timestamp": "2026-07-06T23:54:35.399957Z",
+      "timestamp": "2026-07-07T01:43:14.583206Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mexico continues its knockout stage run with a Round of 16 match against England at Estadio Azteca. Here is their starting XI.",
-      "timestamp": "2026-07-06T23:54:35.400051Z",
+      "timestamp": "2026-07-07T01:43:14.583316Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "World Cup 2026 co-host Mexico is hunting another giant-slaying when it welcomes England to the Azteca on Sunday. MORE: 2026 FIFA World Cup Round of 32 TV schedule, full list of games How to Watch Mexico vs England Days after\u2026",
-      "timestamp": "2026-07-06T23:54:35.400078Z",
+      "timestamp": "2026-07-07T01:43:14.583353Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This Sunday (5), Mexico and England face off at 9pm (Bras\u00edlia time) in Mexico City for the Round of 16 of the 2026 FIFA World Cup.The hosts remain perfect in the tournament after finishing top of Gro...",
-      "timestamp": "2026-07-06T23:54:35.400119Z",
+      "timestamp": "2026-07-07T01:43:14.583435Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "\u201cBut let\u2019s hope tomorrow isn\u2019t my last game,\u201d the Portugal forward said ahead of the team\u2019s match against Spain on July 6",
-      "timestamp": "2026-07-06T23:54:35.400146Z",
+      "timestamp": "2026-07-07T01:43:14.583478Z",
       "links": [
         {
           "label": "Source",
@@ -318,270 +542,258 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England and Mexico meet in the FIFA World Cup 2026 Round of 16 at the Estadio Azteca on Monday, as the winner of this match will book a place in the quarter-finals against Norway.The last time these t...",
-      "timestamp": "2026-07-06T23:54:35.400172Z",
+      "timestamp": "2026-07-07T01:43:14.583515Z",
       "links": [
         {
           "label": "Source",
           "url": "https://thefootballfaithful.com/world-cup-ro16-mexico-vs-england-lineups-announced/"
         }
       ]
-    },
-    {
-      "title": "Norway stuns Brazil with two late goals to knock out the 5-time World Cup champions - CNN",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Norway stuns Brazil with two late goals to knock out the 5-time World Cup championsCNN Haaland, Norway condemn Brazil to earliest World Cup exit since 1990ESPN Brazil vs Norway Highlights 2026 FIFA World Cup | Round of 16FOX Sports Brazil vs. Norway and Mexic\u2026",
-      "timestamp": "2026-07-06T23:54:35.400201Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184323408"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026: England players' sleep undisturbed by Mexico fans letting off fireworks outside hotel - BBC",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "World Cup 2026: England players' sleep undisturbed by Mexico fans letting off fireworks outside hotelBBC World Cup Daily live: Mexico fans try to give England sleepless night; Brazil face NorwayESPN Mexico v England: storm delays arrival of teams at stadium b\u2026",
-      "timestamp": "2026-07-06T23:54:35.400234Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184323400"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026 Round of 16 Brazil Vs Norway 1080p HDTV H264-DARKSPORT",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Links: HOMEPAGE\u00a0\u2013 TV.comFIFA.World.Cup.2026.Round.Of.16.Brazil.Vs.Norway.1080p.HDTV.H264-DARKSPORTMKV | AC3 / dolby digital | 4.72GBNFO - Subtitles \u2013 Torrent \u2013 NiTROFLARE \u2013 RAPiDGATORSingle File RAR: RAPiDGATOR Backup",
-      "timestamp": "2026-07-06T23:54:35.400263Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://post.rlsbb.cc/fifa-world-cup-2026-round-of-16-brazil-vs-norway-1080p-hdtv-h264-darksport/"
-        }
-      ]
-    },
-    {
-      "title": "England vs Mexico live: World Cup 2026 confirmed teams and full line ups, TV channel, online stream and stats",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Latest team news as England attempt to end co-hosts Mexico's perfect World Cup campaign in the last 16 in Mexico City.",
-      "timestamp": "2026-07-06T23:54:35.400398Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.101greatgoals.com/football/world-cup-news/england-vs-mexico-live-teams-line-ups-tv-channel-online-stream/"
-        }
-      ]
-    },
-    {
-      "title": "Are Harry Kane and Julian Qui\u00f1ones playing? Mexico vs England confirmed lineups for the 2026 World Cup game",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Mexico and England are clashing in the 2026 World Cup, with questions rising over the presence of stars Harry Kane and Julian Qui\u00f1ones in the game. Mexico and England clash today, Sunday July 5th, in the Round of 16 of the 2026 World Cup at the iconic Estadio\u2026",
-      "timestamp": "2026-07-06T23:54:35.400434Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/are-harry-kane-and-julian-quinones-playing-mexico-vs-england-confirmed-lineups-for-the-2026-world-cup-game/"
-        }
-      ]
-    },
-    {
-      "title": " Haaland leads celebration scenes as Norway reach quarter-finals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Erling Haaland has made his mark on the 2026 World Cup, and so have Norway as a whole and their dedicated fans.\u00a0The Scandinavian side are playing on the global stage for the first time since 1998 and...",
-      "timestamp": "2026-07-06T23:54:35.400478Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/haaland-leads-celebration-scenes-as-norway-reach-quarter-finals-43101280"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026 reaction as Haaland scores stunning brace against Brazil to send Norway into quarterfinals - ESPN",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "World Cup 2026 reaction as Haaland scores stunning brace against Brazil to send Norway into quarterfinalsESPN Haaland, Norway condemn Brazil to earliest World Cup exit since 1990ESPN Brazil vs Norway LIVE: FIFA World Cup 2026 \u2013 last 16Al Jazeera Brazil vs. No\u2026",
-      "timestamp": "2026-07-06T23:54:35.400561Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184323212"
-        }
-      ]
-    },
-    {
-      "title": "2026 World Cup: 5 things to know about Belgium ahead of Round of 16 matchup against the USMNT",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "On the verge of a quarterfinals appearance, the U.S. first has to get past a strong Belgium squad.",
-      "timestamp": "2026-07-06T23:54:35.400629Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/2026-world-cup-5-things-to-know-about-belgium-ahead-of-round-of-16-matchup-against-the-usmnt-223001386.html"
-        }
-      ]
-    },
-    {
-      "title": "Haaland scores twice as Norway stun Brazil 2-1 in World Cup 2026 last 16",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Haaland\u2019s brace takes him to seven goals for the tournament as Norway book quarterfinal against Mexico or England.",
-      "timestamp": "2026-07-06T23:54:35.400677Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/5/haaland-scores-twice-as-norway-stun-brazil-2-1-in-world-cup-2026-last-16"
-        }
-      ]
-    },
-    {
-      "title": "Haaland takes Norway to QF with brilliant 2-1 win over Brazil",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "Norway swept into the 2026 FIFA World Cup quarterfinals with an amazing 2-1 win over Brazil, as striker Erling Haaland delivered a brilliant performance, scoring both goals for his team toward the end...",
-      "timestamp": "2026-07-06T23:54:35.400737Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/d8d1747ef71fba3e"
-        }
-      ]
-    },
-    {
-      "title": " Anger, sadness, dismay and grief after Brazil crash out",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Brazil lost to Norway 2-1 this Sunday (5) and crashed out of the 2026 FIFA World Cup.Haaland\u2019s two goals in the round of 16 were much more than a \u201ccold shower\u201d for Brazilian fans.They marked the...",
-      "timestamp": "2026-07-06T23:54:35.400828Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/anger-sadness-dismay-and-grief-dominate-after-brazil-exit-43101206"
-        }
-      ]
-    },
-    {
-      "title": "Video: Erling Haaland scores twice to eliminate Brazil from the 2026 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "With a stunning brace against Brazil, Erling Haaland gave Norway the ticket to the 2026 World Cup quarterfinals. Norway clashed with Brazil on Sunday in a heavyweight Round of 16 battle, fighting for a coveted spot in the 2026 FIFA World Cup quarterfinals at \u2026",
-      "timestamp": "2026-07-06T23:54:35.400892Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/video-erling-haaland-scores-with-a-header-vs-brazil-notching-his-6th-goal-of-the-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup Daily live: Mexico fans try to give England sleepless night; Brazil face Norway - ESPN",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "World Cup Daily live: Mexico fans try to give England sleepless night; Brazil face NorwayESPN Mexico vs England LIVE: FIFA World Cup 2026 \u2013 last 16Al Jazeera England's tall order: Estadio Azteca brings altitude, atmosphere and history to Mexico clashYahoo Spo\u2026",
-      "timestamp": "2026-07-06T23:54:35.400930Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184323062"
-        }
-      ]
-    },
-    {
-      "title": "Erling Haaland Ends Brazil's World Cup With Brace For Norway In Round Of 16",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "Brazil has been eliminated from the 2026 FIFA World Cup following a 2-1 loss to Norway at New York New Jersey Stadium on Sunday, in which superstar striker Erling Haaland scored two goals and entered the top of the Golden Boot race.",
-      "timestamp": "2026-07-06T23:54:35.400960Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/erling-haaland-ends-brazils-world-cup-brace-norway-round-16"
-        }
-      ]
-    },
-    {
-      "title": "Who, when and where will Norway play in the 2026 World Cup Quarterfinals?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Amid a competitive clash, Norway managed to hand Brazil a resounding defeat, led by Erling Haaland and Antonio Nusa. Following this result, the date, venue, and potential opponents for Stale Solbakken\u2019s team\u2019s next match have now been confirmed. Norway entere\u2026",
-      "timestamp": "2026-07-06T23:54:35.401032Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/who-when-and-where-will-norway-play-in-the-2026-world-cup-quarterfinals/"
-        }
-      ]
-    },
-    {
-      "title": "England vs. Mexico odds, prediction: 2026 World Cup Round of 16 picks via expert on 16-6 run",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "SportsLine's Martin Green reveals his England vs. Mexico best bets for their knockout stage match in the FIFA World Cup 2026 on Sunday at",
-      "timestamp": "2026-07-06T23:54:35.401085Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/england-mexico-odds-prediction-2026-world-cup-round-16-picks-soccer-best-bets/"
-        }
-      ]
-    },
-    {
-      "title": "A former Bucs RB has a doppelganger in the FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "A former Bucs player reminds some folks of a notable player in the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-06T23:54:35.401240Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://bucswire.usatoday.com/story/sports/nfl/buccaneers/2026/07/05/leonard-fournette-has-a-doppelganger-in-the-2026-fifa-world-cup/90808945007/"
-        }
-      ]
-    },
-    {
-      "title": "How to watch Brazil vs. Norway for free in World Cup 2026 Round of 16 - New York Post",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "How to watch Brazil vs. Norway for free in World Cup 2026 Round of 16New York Post Brazil vs. Norway LIVE: World Cup 2026 updates as Bruno Guimaraes misses penalty in early dramaESPN Brazil vs Norway LIVE: FIFA World Cup 2026 \u2013 last 16Al Jazeera Brazil vs. No\u2026",
-      "timestamp": "2026-07-06T23:54:35.401277Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184322870"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Jul 06",
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "Mexico vs. England in World Cup: Start pushed back an hour because of weather - Los Angeles Times",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184324558"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "\u2018Football is finished\u2019 \u2013 World Cup fans slam \u2018appalling\u2019 $27 hot dog combo at Canada vs Morocco",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/football-is-finished-world-cup-fans-slam-appalling-27-hot-dog-combo-at-canada-vs-morocco/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "Neymar quits international football after Brazil\u2019s World Cup knockout loss",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/6/neymar-quits-international-football-after-brazils-world-cup-knockout-loss"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": " Casemiro in tears, Vini apologises and more after the exit",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/casemiro-in-tears-vini-apologises-and-more-after-the-exit-43101567"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "Portugal, Spain go head-to-head in standout fixture",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thechronicle.com.gh/portugal-spain-go-head-to-head-in-standout-fixture/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "New York / New Jersey",
+      "event": "Neymar taunts Norway goalie after scoring Brazil\u2019s only goal in chippy end to World Cup career",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/05/sports/neymar-taunts-norway-goalie-in-chippy-end-to-world-cup-career/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026: Neymar announces international retirement after Brazil's shock exit to Norway",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-neymar-announces-international-retirement-after-brazils-shock-exit-to-norway/articleshow/132205082.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Mexico City",
+      "event": "How England\u2019s win, draw, or loss vs Mexico could impact the 2026 World Cup bracket",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/how-englands-win-draw-or-loss-vs-mexico-could-impact-the-2026-world-cup-bracket/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "Hyundai Motor Brings Atlas Humanoid Robot to FIFA World Cup 2026\u2122 in First-Ever Live Match Environment Robotics Integration",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/hyundai-motor-brings-atlas-humanoid-robot-to-fifa-world-cup-2026-in-first-ever-live-match-environment-robotics-integration-302818037.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "Why is Mexico vs England delayed? Updated start time for 2026 World Cup clash",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/why-is-mexico-vs-england-delayed-updated-start-time-for-2026-world-cup-clash/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": " Fresh start: after being knocked out, when Brazil play again",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/fresh-start-after-the-exit-when-brazil-next-play-43101500"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "United States vs. Belgium odds, prediction, time: 2026 World Cup Round of 16 picks via expert on 25-16 roll",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/united-states-belgium-odds-prediction-time-2026-world-cup-round-of-16-picks/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "Pittsburgh Steelers show their Mexico fans some love by taking a hilarious World Cup stance via their official accounts",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://atozsports.com/nfl/pittsburgh-steelers-news/official-hilarious-stance-world-cup-mexico-england/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "How to watch USA vs Belgium: Live stream the 2026 FIFA World Cup Round of 16",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/sports/how-watch-usa-vs-belgium-live-stream-2026-fifa-world-cup-round-16"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "England vs. Mexico odds, prediction: 2026 World Cup Round of 16 picks via expert on 16-6 run",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/england-mexico-odds-prediction-time-2026-world-cup-round-16-picks-soccer-best-bets/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "New York / New Jersey",
+      "event": "Brazil\u2019s loss to Norway leaves players and fans distraught and searching for answers",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.nbcnews.com/sports/soccer/brazil-vs-norway-brazils-loss-earliest-world-cup-exit-nearly-30-years-rcna353071"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
       "loc": "Global",
       "event": "Erling Haaland fires Norway past Brazil to end up in World Cup quarterfinals for first time in history",
       "type": "News",
@@ -596,7 +808,7 @@
       ]
     },
     {
-      "date": "Jul 06",
+      "date": "Jul 07",
       "loc": "Mexico City",
       "event": "New England Patriots' official account takes hilarious stance regarding 2026 FIFA World Cup, and it has nothing to do with Team USA",
       "type": "News",
@@ -611,7 +823,7 @@
       ]
     },
     {
-      "date": "Jul 06",
+      "date": "Jul 07",
       "loc": "Global",
       "event": "Sunday night\u2019s England-Mexico game in Mexico City figures to be massive - NBC Sports",
       "type": "News",
@@ -626,7 +838,7 @@
       ]
     },
     {
-      "date": "Jul 06",
+      "date": "Jul 07",
       "loc": "New York / New Jersey",
       "event": "World Cup: Norway stun Brazil as Haaland fires late brace",
       "type": "News",
@@ -641,7 +853,7 @@
       ]
     },
     {
-      "date": "Jul 06",
+      "date": "Jul 07",
       "loc": "Mexico City",
       "event": "Mexico-England World Cup match delayed one hour due to storms",
       "type": "News",
@@ -656,7 +868,7 @@
       ]
     },
     {
-      "date": "Jul 06",
+      "date": "Jul 07",
       "loc": "Mexico City",
       "event": "Mexico vs England Live Score, FIFA World Cup 2026 Round of 16: Harry Kane leads Three Lions in R16 clash with quarter-final spot at stake at Azteca",
       "type": "News",
@@ -671,7 +883,7 @@
       ]
     },
     {
-      "date": "Jul 06",
+      "date": "Jul 07",
       "loc": "Global",
       "event": "Mexico-England World Cup game delayed, new start time revealed",
       "type": "News",
@@ -686,7 +898,7 @@
       ]
     },
     {
-      "date": "Jul 06",
+      "date": "Jul 07",
       "loc": "Mexico City",
       "event": "Why isn\u2019t Edson Alvarez starting for Mexico against England at the 2026 World Cup?",
       "type": "News",
@@ -701,7 +913,7 @@
       ]
     },
     {
-      "date": "Jul 06",
+      "date": "Jul 07",
       "loc": "Global",
       "event": "England vs. Mexico World Cup Round Of 16 Match Delayed Due To Extreme Weather",
       "type": "News",
@@ -716,7 +928,7 @@
       ]
     },
     {
-      "date": "Jul 06",
+      "date": "Jul 07",
       "loc": "Mexico City",
       "event": "England national soccer team vs. Mexico national team lineups",
       "type": "News",
@@ -731,7 +943,7 @@
       ]
     },
     {
-      "date": "Jul 06",
+      "date": "Jul 07",
       "loc": "Mexico City",
       "event": "How to watch Mexico vs England: Live stream, TV channel & start time for FIFA World Cup 2026 Round of 16",
       "type": "News",
@@ -746,7 +958,7 @@
       ]
     },
     {
-      "date": "Jul 06",
+      "date": "Jul 07",
       "loc": "Global",
       "event": " With Brazil out of the Cup picture, Mexico and England name line-ups",
       "type": "News",
@@ -761,7 +973,7 @@
       ]
     },
     {
-      "date": "Jul 06",
+      "date": "Jul 07",
       "loc": "Global",
       "event": "Cristiano Ronaldo Announces 2026 FIFA World Cup Will Be His Last Ahead of Portugal-Spain Game: \u2018I\u2019ve Given Everything\u2019",
       "type": "News",
@@ -776,7 +988,7 @@
       ]
     },
     {
-      "date": "Jul 06",
+      "date": "Jul 07",
       "loc": "Mexico City",
       "event": "World Cup RO16: Mexico vs England \u2013 Lineups announced",
       "type": "News",
@@ -789,277 +1001,7 @@
           "url": "https://thefootballfaithful.com/world-cup-ro16-mexico-vs-england-lineups-announced/"
         }
       ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "Norway stuns Brazil with two late goals to knock out the 5-time World Cup champions - CNN",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184323408"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "World Cup 2026: England players' sleep undisturbed by Mexico fans letting off fireworks outside hotel - BBC",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184323400"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026 Round of 16 Brazil Vs Norway 1080p HDTV H264-DARKSPORT",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://post.rlsbb.cc/fifa-world-cup-2026-round-of-16-brazil-vs-norway-1080p-hdtv-h264-darksport/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "England vs Mexico live: World Cup 2026 confirmed teams and full line ups, TV channel, online stream and stats",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.101greatgoals.com/football/world-cup-news/england-vs-mexico-live-teams-line-ups-tv-channel-online-stream/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "Are Harry Kane and Julian Qui\u00f1ones playing? Mexico vs England confirmed lineups for the 2026 World Cup game",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/are-harry-kane-and-julian-quinones-playing-mexico-vs-england-confirmed-lineups-for-the-2026-world-cup-game/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": " Haaland leads celebration scenes as Norway reach quarter-finals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/haaland-leads-celebration-scenes-as-norway-reach-quarter-finals-43101280"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "World Cup 2026 reaction as Haaland scores stunning brace against Brazil to send Norway into quarterfinals - ESPN",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184323212"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "2026 World Cup: 5 things to know about Belgium ahead of Round of 16 matchup against the USMNT",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/2026-world-cup-5-things-to-know-about-belgium-ahead-of-round-of-16-matchup-against-the-usmnt-223001386.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "Haaland scores twice as Norway stun Brazil 2-1 in World Cup 2026 last 16",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/5/haaland-scores-twice-as-norway-stun-brazil-2-1-in-world-cup-2026-last-16"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "Haaland takes Norway to QF with brilliant 2-1 win over Brazil",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/d8d1747ef71fba3e"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": " Anger, sadness, dismay and grief after Brazil crash out",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/anger-sadness-dismay-and-grief-dominate-after-brazil-exit-43101206"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "Video: Erling Haaland scores twice to eliminate Brazil from the 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/video-erling-haaland-scores-with-a-header-vs-brazil-notching-his-6th-goal-of-the-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Mexico City",
-      "event": "World Cup Daily live: Mexico fans try to give England sleepless night; Brazil face Norway - ESPN",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184323062"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "Erling Haaland Ends Brazil's World Cup With Brace For Norway In Round Of 16",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/erling-haaland-ends-brazils-world-cup-brace-norway-round-16"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "Who, when and where will Norway play in the 2026 World Cup Quarterfinals?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/who-when-and-where-will-norway-play-in-the-2026-world-cup-quarterfinals/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "England vs. Mexico odds, prediction: 2026 World Cup Round of 16 picks via expert on 16-6 run",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/england-mexico-odds-prediction-2026-world-cup-round-16-picks-soccer-best-bets/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "A former Bucs RB has a doppelganger in the FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://bucswire.usatoday.com/story/sports/nfl/buccaneers/2026/07/05/leonard-fournette-has-a-doppelganger-in-the-2026-fifa-world-cup/90808945007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 06",
-      "loc": "Global",
-      "event": "How to watch Brazil vs. Norway for free in World Cup 2026 Round of 16 - New York Post",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184322870"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-06T23:54:35.401499Z"
+  "lastUpdated": "2026-07-07T01:43:14.583684Z"
 }
