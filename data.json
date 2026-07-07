@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 0,
-    "p2": 2,
-    "p3": 20
+    "p1": 1,
+    "p2": 0,
+    "p3": 23
   },
   "watchlist": [
     {
@@ -131,12 +131,320 @@
   ],
   "risks": [
     {
+      "title": "Watch World Cup Day 25: England beats Mexico; Norway eliminates Brazil",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+      "timestamp": "2026-07-07T08:59:49.933097Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/video/2026/7/6/video-world-cup-2026-highlights"
+        }
+      ]
+    },
+    {
+      "title": "How many penalties has Bruno Guimar\u00e3es taken in his career? Find out",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "One of the biggest controversies in Brazil\u2019s elimination against Norway in the 2026 FIFA World Cup after the 2-1 defeat involved the penalty missed by Bruno Guimar\u00e3es.The midfielder was chosen by t...",
+      "timestamp": "2026-07-07T08:59:49.933196Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/how-many-penalties-has-bruno-guimaraes-taken-in-his-career-find-out-43102584"
+        }
+      ]
+    },
+    {
+      "title": "'We overcame every obstacle': Tuchel hails England",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England manager Thomas Tuchel praised his side's \"pure mentality and heart\" after the 10-man Three Lions survived a thrilling 3-2 win over Mexico at the Azteca Stadium to book a FIFA World Cup quarter-final against Norway.",
+      "timestamp": "2026-07-07T08:59:49.933291Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/fifa-wc-2026-we-overcame-every-obstacle-tuchel-after-england-survive-mexico-scare/20260706.htm"
+        }
+      ]
+    },
+    {
+      "title": "Donald Trump praises Harry Kane as a 'GREAT player' after England's victory over Mexico",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Captain Harry Kane was England's match-winning hero yet again at the 2026 World Cup - and has now attracted the attention and acclaim of US President Donald Trump.",
+      "timestamp": "2026-07-07T08:59:49.933333Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/news/article-15955677/Donald-Trump-praises-Harry-Kane-England-victory-Mexico.html"
+        }
+      ]
+    },
+    {
+      "title": "'He's got that wrong': Thomas Tuchel's post-Mexico interview is torn apart by BBC pundit Joe Hart - after England manager attacked referees and VAR at the World Cup",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "England reached the last 16, where they will play Norway, after two goals from Jude Bellingham and a penalty from Harry Kane - despite right-back Jarell Quansah being sent off at the Estadio Azteca.",
+      "timestamp": "2026-07-07T08:59:49.933391Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15955461/Thomas-Tuchel-Joe-Hart-England-Mexico-World-Cup.html"
+        }
+      ]
+    },
+    {
+      "title": "Barcelona World Cup spotlight: Anthony Gordon wins decisive penalty for England",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "It was a day of exhilarating football at the 2026 FIFA World Cup, with two excellent games: Brazil vs Norway and Mexico vs England.Both games lived up to the pre-match billing. Erling Haaland and Norw...",
+      "timestamp": "2026-07-07T08:59:49.933450Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelona-world-cup-spotlight-anthony-gordon-wins-decisive-penalty-for-england/"
+        }
+      ]
+    },
+    {
+      "title": "PIX: Retired Neymar With Family After Brazil loss",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Brazilian football legend Neymar Jr. has announced his retirement from international football following Brazil's shocking 2-1 defeat to Norway in the FIFA World Cup 2026 Round of 16. The 34-year-old forward, Brazil's all-time leading scorer, confirmed his dec\u2026",
+      "timestamp": "2026-07-07T08:59:49.933574Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/pix-fifa-wc-2026-pix-retired-neymar-with-family-after-brazil-loss/20260706.htm"
+        }
+      ]
+    },
+    {
+      "title": "YWAM mobilizes churches in multi-country outreach as World Cup knockout stage continues",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "International missionary movement Youth With A Mission (YWAM) is running a coordinated outreach campaign across Canada, Mexico, and the United States as the 2026 FIFA World Cup advances through its intense knockout stages.",
+      "timestamp": "2026-07-07T08:59:49.933649Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.christiantoday.com/news/ywam-mobilizes-churches-in-multi-country-outreach-as-world-cup-knockout-stage-continues"
+        }
+      ]
+    },
+    {
+      "title": "World Cup 2026 Bracket Update: Full Quarterfinal Matchups and Remaining Round of 16 Schedule Revealed",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup reaches its quarterfinals with historic upsets, including Germany's and Brazil's early exits. Morocco makes history, and the USA is the last co-host standing.",
+      "timestamp": "2026-07-07T08:59:49.933743Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ibtimes.com.au/2026-fifa-world-cup-quarterfinals-set-1871869"
+        }
+      ]
+    },
+    {
+      "title": "Madrid World Cup Spotlight: Vinicius bows out with Brazil; Bellingham helps England bury the ghosts of Azteca",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup truly came to life last night as it served up two absolute classics that will be remembered for a long time to come.Brazil took on Norway in the first game, hoping to eliminate...",
+      "timestamp": "2026-07-07T08:59:49.933780Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/madrid-world-cup-spotlight-vinicius-bows-out-with-brazil-bellingham-helps-england-bury-the-ghosts-of-azteca/"
+        }
+      ]
+    },
+    {
+      "title": "Barcelona receive positive news on Fermin Lopez return timeline",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Barcelona have received an encouraging Fermin Lopez injury update, with the midfielder edging closer to a return after being forced to miss the 2026 FIFA World Cup through injury.The 23-year-old suffe...",
+      "timestamp": "2026-07-07T08:59:49.933903Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2be41cc2-2e2f-4209-81f4-923c93d6ced6"
+        }
+      ]
+    },
+    {
+      "title": "Brazil's World Cup exit leaves Kerala fans in tears",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Kerala's fervent football fans are heartbroken following Brazil's shocking FIFA World Cup exit. Giant cutouts of Neymar and other stars were dismantled as supporters expressed their grief online and in public. Neymar's announcement of his international retire\u2026",
+      "timestamp": "2026-07-07T08:59:49.933933Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/brazils-world-cup-exit-leaves-kerala-fans-in-tears/articleshow/132209624.cms"
+        }
+      ]
+    },
+    {
+      "title": "Neymar says Brazil career over after Norway defeat",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway.",
+      "timestamp": "2026-07-07T08:59:49.934043Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.com/sport/football/articles/clyww4w1rl8o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
+        }
+      ]
+    },
+    {
+      "title": "Neymar says Brazil career over after Norway defeat",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway.",
+      "timestamp": "2026-07-07T08:59:49.934058Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.co.uk/sport/football/articles/clyww4w1rl8o"
+        }
+      ]
+    },
+    {
+      "title": "'I leave with a lot of pride': Mexico manager Aguirre bids farewell",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Mexico manager Javier Aguirre said he was leaving with pride despite the pain of elimination after losing to England in the FIFA World Cup.",
+      "timestamp": "2026-07-07T08:59:49.934113Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/fifa-world-cup-i-leave-with-a-lot-of-pride-mexico-manager-aguirre-bids-farewell/20260706.htm"
+        }
+      ]
+    },
+    {
+      "title": "Okonjo-Iweala hails African teams\u2019 impressive World Cup campaign",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "WTO DG Ngozi Okonjo-Iweala praises African teams\u2019 resilience and performance at the 2026 World Cup, highlighting Morocco, Egypt, and Cape Verde.\n\nRead More: https://punchng.com/okonjo-iweala-hails-african-teams-impressive-world-cup-campaign/",
+      "timestamp": "2026-07-07T08:59:49.934144Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/okonjo-iweala-hails-african-teams-impressive-world-cup-campaign/"
+        }
+      ]
+    },
+    {
+      "title": "Liam Gallagher reacts as Harry Kane loses his voice singing after England World Cup drama",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Oasis frontman Liam Gallagher could not help but notice Harry Kane having lost his voice after England\u2019s dramatic win over Mexico in the World Cup 2026 last 16. Kane scored the penalty that ultimately proved the difference between the two sides inside the Est\u2026",
+      "timestamp": "2026-07-07T08:59:49.934179Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/liam-gallagher-reacts-as-harry-kane-loses-his-voice-singing-after-england-world-cup-drama/"
+        }
+      ]
+    },
+    {
+      "title": "Ancelotti: Brazil To Rebuild After World Cup Heartbreak",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Brazil's head coach Carlo Ancelotti expressed disappointment after the team's FIFA World Cup 2026 Round of 16 defeat to Norway, but stated the team would use the exit as motivation for future improvements. He highlighted the need for new midfield talent as ke\u2026",
+      "timestamp": "2026-07-07T08:59:49.934233Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/brazil-coach-ancelotti-on-fifa-world-cup-2026-exit--future-plans/20260706.htm"
+        }
+      ]
+    },
+    {
+      "title": "'Best Night Of My England Career': Jude Bellingham Not Taking Mexico Win For Granted",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Jude Bellingham carried England to the World Cup quarterfinals, overcoming a raucous crowd, the elevation of Estadio Azteca and a man disadvantage in the second half to beat Mexico in a 3-2 thriller on Sunday night.",
+      "timestamp": "2026-07-07T08:59:49.934271Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/best-night-my-england-career-jude-bellingham-not-taking-mexico-win-granted"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Cup will be my last tournament, says Cristiano Ronaldo",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Cristiano Ronaldo confirms the 2026 World Cup will be his final tournament, expressing his focus on enjoying every moment and leaving with no regrets.\n\nRead More: https://punchng.com/2026-world-cup-will-be-my-last-tournament-says-cristiano-ronaldo/",
+      "timestamp": "2026-07-07T08:59:49.934311Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/2026-world-cup-will-be-my-last-tournament-says-cristiano-ronaldo/"
+        }
+      ]
+    },
+    {
+      "title": "\u2018It is now over\u2019 \u2013 Neymar announces retirement from international football",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Brazil crashed out of the 2026 FIFA World Cup after suffering a 2-1 defeat at the hands of Norway, and superstar Neymar decided to close the curtains on his time with the Selecao.The 34-year-old was i...",
+      "timestamp": "2026-07-07T08:59:49.934341Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/07/06/it-is-now-over-neymar-announces-retirement-from-international-football/"
+        }
+      ]
+    },
+    {
+      "title": "Who is Erling Haaland, the Striking Viking? Ex-rapper, yoga enthusiast and football's deadliest forward who knocked Brazil out from FIFA World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Norway's Erling Haaland delivered a stunning performance, scoring twice in the final minutes to secure a 2-1 victory over Brazil and advance to the World Cup quarter-finals. The Manchester City star's brace brings his tournament goal tally to seven, matching \u2026",
+      "timestamp": "2026-07-07T08:59:49.934402Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/meet-erling-haaland-rapper-yoga-loving-viking-and-footballs-most-feared-forward-who-sent-brazil-packing-from-the-fifa-world-cup/articleshow/132208568.cms"
+        }
+      ]
+    },
+    {
       "title": "England Just Proved It Can Handle The Grind of an SEC Schedule",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England Proves at the Azteca Why They\u2019re a Legitimate World Cup Favorite England proves Sunday night at the Azteca why they deserve to be viewed as one of the favorites to win the 2026 FIFA World Cup, after going into the lion\u2019s den of a Saturday night SEC ga\u2026",
-      "timestamp": "2026-07-07T05:54:43.297341Z",
+      "timestamp": "2026-07-07T08:59:49.934546Z",
       "links": [
         {
           "label": "Source",
@@ -150,296 +458,346 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Thomas Tuchel was left with mixed emotions after 10-man England\u2019s heroic World Cup win against Mexico was followed by Jordan Henderson sustaining \u201cquite a serious injury\u201d falling over an advertising hoarding during the celebrations. The Estadio Azteca witness\u2026",
-      "timestamp": "2026-07-07T05:54:43.297410Z",
+      "timestamp": "2026-07-07T08:59:49.934615Z",
       "links": [
         {
           "label": "Source",
           "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260706-99-974052/"
         }
       ]
-    },
-    {
-      "title": "Is Mexico out of the World Cup? El Tri lose to England in last 16",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England outlasted Mexico 3-2 in a chaotic World Cup round of 16 game on Sunday, July 5 in a home match for El Tri at Estadio Azteca in Mexico City.",
-      "timestamp": "2026-07-07T05:54:43.297557Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/06/is-mexico-out-world-cup-after-england-loss/90817490007/"
-        }
-      ]
-    },
-    {
-      "title": "Harry Kane penalty helps 10-man England defeat Mexico in 3-2 thriller",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Jude Bellingham scores twice and Jarell Quansah is sent off against World Cup co-hosts at Estadio Azteca",
-      "timestamp": "2026-07-07T05:54:43.297598Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.irishtimes.com/sport/soccer/2026/07/06/harry-kane-penalty-helps-10-man-england-defeat-mexico-in-3-2-thriller/"
-        }
-      ]
-    },
-    {
-      "title": "On the biggest of stages, a Manchester City superstar leaves his mark",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup has seen the biggest stars shine on the grand stage. Lionel Messi, Kylian Mbappe, Erling Haaland, Michael Olise and Harry Kane have all made their mark at the tournament. In th...",
-      "timestamp": "2026-07-07T05:54:43.297663Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://esteemedkompany.com/2026/07/06/on-the-biggest-of-stages-a-manchester-city-superstar-leaves-his-mark/"
-        }
-      ]
-    },
-    {
-      "title": "Tuchel hails 'heroic' England win in Mexico, but joy soured by Henderson injury",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England boss Thomas Tuchel said a thrilling 3-2 win over Mexico at the Estadio Azteca felt like winning a final as they overcame huge adversity to reach the World Cup quarter-finals.Victory also laid to rest some of England's demons from defeat to Argentina a\u2026",
-      "timestamp": "2026-07-07T05:54:43.297760Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/tuchel-hails-heroic-england-win-050841054.html"
-        }
-      ]
-    },
-    {
-      "title": "The 13 craziest moments from England's World Cup victory over Mexico",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England's 3-2 win over Mexico at the Estadio Azteca was an instant classic, with many unforgettable moments. We've listed the 13 craziest moments.",
-      "timestamp": "2026-07-07T05:54:43.297796Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/06/england-mexico-crazy-moments-world-cup-thriller/90817266007/"
-        }
-      ]
-    },
-    {
-      "title": "How to watch Mexico vs England replay \u2013 it's spoiler-free",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here's how to watch Mexico vs England replays and highlights for free online \u2013 without any spoilers after the most controversial game of the FIFA World Cup 2026 so far.",
-      "timestamp": "2026-07-07T05:54:43.297886Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/how-to-watch/football/watch-mexico-vs-england-replay-its-spoiler-free"
-        }
-      ]
-    },
-    {
-      "title": "Kane vs. Haaland: The World's Best Strikers Will Meet In World Cup Quarterfinals",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "The two best strikers in the world will go head-to-head when England and Norway meet in the 2026 FIFA World Cup quarterfinals on Saturday.",
-      "timestamp": "2026-07-07T05:54:43.297908Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/kane-vs-haaland-worlds-best-strikers-will-meet-world-cup-quarterfinals"
-        }
-      ]
-    },
-    {
-      "title": "Everything Harry Kane tried to say during hilarious post-Mexico win interview",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Harry Kane\u2019s voice, or perhaps lack thereof, summed up what was a brilliant night for England in Mexico City as they booked a spot in the World Cup quarter-finals. To say that drama unfolded at the Estadio Azteca would be quite the understatement.",
-      "timestamp": "2026-07-07T05:54:43.298055Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/everything-harry-kane-tried-to-say-during-hilarious-post-mexico-win-interview/"
-        }
-      ]
-    },
-    {
-      "title": "Erling Haaland says Brazil win 'greatest game' in Norway history - ESPN",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Erling Haaland says Brazil win 'greatest game' in Norway historyESPN FIFA World Cup 2026 stats: Haaland 7, Messi + Mbappe + Ronaldo 6; Neymar second after Pele; Bellingham first since MaradonaESPN Erling Haaland cements superstar status, scores twice in Norwa\u2026",
-      "timestamp": "2026-07-07T05:54:43.298084Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184326206"
-        }
-      ]
-    },
-    {
-      "title": "Mexico vs. England score, 2026 FIFA World Cup live updates: Three Lions face El Tri at daunting Estadio Azteca - CBS Sports",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Mexico vs. England score, 2026 FIFA World Cup live updates: Three Lions face El Tri at daunting Estadio AztecaCBS Sports England end Mexico's World Cup with best win on foreign soil in their historyESPN Mexico 2-3 England: World Cup last 16 player ratingsThe \u2026",
-      "timestamp": "2026-07-07T05:54:43.298126Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184326202"
-        }
-      ]
-    },
-    {
-      "title": "How to Watch the 2026 FIFA World Cup Live Without Cable (and Even for Free)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Round of 16 is nearly over. Which remaining teams will secure a place in the quarter-finals? Watch the action live with the right streaming service or VPN.\nEvery four years, fans from around the globe pack stadiums, living rooms, and bars to cheer on thei\u2026",
-      "timestamp": "2026-07-07T05:54:43.298177Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/161984/how-to-watch-2026-fifa-world-cup-games-live-stream-for-free-july"
-        }
-      ]
-    },
-    {
-      "title": "England vs Mexico Tops the Best Games of the 2026 FIFA World Cup So Far",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Did we just witness one of the best World Cup games of all time?\nWhile recency bias will need to be tempered throughout the months and years before we say for sure if Mexico vs. England in Mexico City for the Round of 16 is a match that stands the test of tim\u2026",
-      "timestamp": "2026-07-07T05:54:43.298323Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/add49509c02fa9e6"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026 Round of 16 Mexico Vs England 1080p HDTV H264-DARKSPORT",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Links: HOMEPAGE\u00a0\u2013 TV.comFIFA.World.Cup.2026.Round.Of.16.Mexico.Vs.England.1080p.HDTV.H264-DARKSPORTMKV | AC3 / dolby digital | 6.29GBNFO - Subtitles \u2013 Torrent \u2013 NiTROFLARE \u2013 RAPiDGATORSingle File RAR: RAPiDGATOR Backup",
-      "timestamp": "2026-07-07T05:54:43.298349Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://post.rlsbb.cc/fifa-world-cup-2026-round-of-16-mexico-vs-england-1080p-hdtv-h264-darksport/"
-        }
-      ]
-    },
-    {
-      "title": "Which teams are in the World Cup quarterfinals, and what\u2019s the schedule?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The FIFA World Cup 2026 quarterfinals lineup as it builds, with match kickoff times and locations.",
-      "timestamp": "2026-07-07T05:54:43.298396Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/6/which-teams-are-in-the-world-cup-quarterfinals-and-whats-the-schedule"
-        }
-      ]
-    },
-    {
-      "title": "What went wrong for Brazil at the World Cup? How Carlo Ancelotti's side suffered Round of 16 exit to Norway",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Brazil fans have begun to get used to disappointment over the last two decades, as their early exit from the 2026 FIFA World Cup reeks of yet another failure on the global stage.",
-      "timestamp": "2026-07-07T05:54:43.298507Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/what-wrong-brazil-world-cup-ancelotti-round-16-exit-norway/288153fe0c29098bf918f977"
-        }
-      ]
-    },
-    {
-      "title": "Drama in Mexico City: England knocks out hosts to advance to World Cup quarterfinals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England advanced to the quarterfinals of the 2026 World Cup after edging out hosts Mexico 3-2 in a thrilling, see-saw battle at the Azteca Stadium on Sunday night.The Three Lions started at a blistering pace, with star midfielder Jude Bellingham netting a stu\u2026",
-      "timestamp": "2026-07-07T05:54:43.298557Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.israelnationalnews.com/flashes/689119"
-        }
-      ]
-    },
-    {
-      "title": "Norway stun Brazil to reach historic quarter-final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "New Jersey, July 6: Norway produced one of the biggest upsets of the 2026 FIFA World Cup, beating five-time champions Brazil 2-1 to book their place in the quarterfinals for the first time. Brazil controlled possession for long periods and created the better \u2026",
-      "timestamp": "2026-07-07T05:54:43.298650Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://peoplesreview.com.np/2026/07/06/norway-stun-brazil-to-reach-historic-quarter-final/"
-        }
-      ]
-    },
-    {
-      "title": "Kane and England, Haaland and Norway to square off in South Florida World Cup quarterfinal",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "Miami\u2019s World Cup quarterfinal opponents are set, and they feature two of the best strikers in the world. England and Norway will face off at Miami Stadium (typically known as Hard Rock Stadium) at 5 p.m. on July 11. Norway punched its ticket to the quarterfi\u2026",
-      "timestamp": "2026-07-07T05:54:43.298752Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sun-sentinel.com/2026/07/05/wc-quarterfinal-matchup/"
-        }
-      ]
-    },
-    {
-      "title": "Move Over Canada and Mexico, This is The Year of The Yanks",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "America Still Standing: Sorry, Canada and Mexico, This Is Our Party Now The 2026 FIFA World Cup was billed as a celebration shared by three host nations. As it turns out, only one of them is still playing. Canada? Gone. Mexico? Gone. The United States? Still \u2026",
-      "timestamp": "2026-07-07T05:54:43.298871Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://easysportz.com/2026/07/move-over-canada-and-mexico-this-is-the-year-of-the-yanks/"
-        }
-      ]
-    },
-    {
-      "title": "Who is in World Cup quarterfinals? Updated bracket after round of 16 matches",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Who has advanced to the quarterfinals of the 2026 World Cup? Here's a look at the tournament bracket and schedule as the round of 16 continues.",
-      "timestamp": "2026-07-07T05:54:43.298956Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/05/world-cup-quarterfinal-teams-updated-bracket-round-of-8/90816313007/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "Watch World Cup Day 25: England beats Mexico; Norway eliminates Brazil",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/video/2026/7/6/video-world-cup-2026-highlights"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "How many penalties has Bruno Guimar\u00e3es taken in his career? Find out",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/how-many-penalties-has-bruno-guimaraes-taken-in-his-career-find-out-43102584"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Mexico City",
+      "event": "'We overcame every obstacle': Tuchel hails England",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/fifa-wc-2026-we-overcame-every-obstacle-tuchel-after-england-survive-mexico-scare/20260706.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "Donald Trump praises Harry Kane as a 'GREAT player' after England's victory over Mexico",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/news/article-15955677/Donald-Trump-praises-Harry-Kane-England-victory-Mexico.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Mexico City",
+      "event": "'He's got that wrong': Thomas Tuchel's post-Mexico interview is torn apart by BBC pundit Joe Hart - after England manager attacked referees and VAR at the World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15955461/Thomas-Tuchel-Joe-Hart-England-Mexico-World-Cup.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "Barcelona World Cup spotlight: Anthony Gordon wins decisive penalty for England",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelona-world-cup-spotlight-anthony-gordon-wins-decisive-penalty-for-england/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "PIX: Retired Neymar With Family After Brazil loss",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/pix-fifa-wc-2026-pix-retired-neymar-with-family-after-brazil-loss/20260706.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "YWAM mobilizes churches in multi-country outreach as World Cup knockout stage continues",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.christiantoday.com/news/ywam-mobilizes-churches-in-multi-country-outreach-as-world-cup-knockout-stage-continues"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "World Cup 2026 Bracket Update: Full Quarterfinal Matchups and Remaining Round of 16 Schedule Revealed",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ibtimes.com.au/2026-fifa-world-cup-quarterfinals-set-1871869"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Mexico City",
+      "event": "Madrid World Cup Spotlight: Vinicius bows out with Brazil; Bellingham helps England bury the ghosts of Azteca",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/madrid-world-cup-spotlight-vinicius-bows-out-with-brazil-bellingham-helps-england-bury-the-ghosts-of-azteca/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "Barcelona receive positive news on Fermin Lopez return timeline",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2be41cc2-2e2f-4209-81f4-923c93d6ced6"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "Brazil's World Cup exit leaves Kerala fans in tears",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/brazils-world-cup-exit-leaves-kerala-fans-in-tears/articleshow/132209624.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "Neymar says Brazil career over after Norway defeat",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.com/sport/football/articles/clyww4w1rl8o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "Neymar says Brazil career over after Norway defeat",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.co.uk/sport/football/articles/clyww4w1rl8o"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "'I leave with a lot of pride': Mexico manager Aguirre bids farewell",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/fifa-world-cup-i-leave-with-a-lot-of-pride-mexico-manager-aguirre-bids-farewell/20260706.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "Okonjo-Iweala hails African teams\u2019 impressive World Cup campaign",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/okonjo-iweala-hails-african-teams-impressive-world-cup-campaign/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "Liam Gallagher reacts as Harry Kane loses his voice singing after England World Cup drama",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/liam-gallagher-reacts-as-harry-kane-loses-his-voice-singing-after-england-world-cup-drama/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "Ancelotti: Brazil To Rebuild After World Cup Heartbreak",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/brazil-coach-ancelotti-on-fifa-world-cup-2026-exit--future-plans/20260706.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Mexico City",
+      "event": "'Best Night Of My England Career': Jude Bellingham Not Taking Mexico Win For Granted",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/best-night-my-england-career-jude-bellingham-not-taking-mexico-win-granted"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "2026 World Cup will be my last tournament, says Cristiano Ronaldo",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/2026-world-cup-will-be-my-last-tournament-says-cristiano-ronaldo/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "\u2018It is now over\u2019 \u2013 Neymar announces retirement from international football",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/07/06/it-is-now-over-neymar-announces-retirement-from-international-football/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 07",
+      "loc": "Global",
+      "event": "Who is Erling Haaland, the Striking Viking? Ex-rapper, yoga enthusiast and football's deadliest forward who knocked Brazil out from FIFA World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/meet-erling-haaland-rapper-yoga-loving-viking-and-footballs-most-feared-forward-who-sent-brazil-packing-from-the-fifa-world-cup/articleshow/132208568.cms"
+        }
+      ]
+    },
     {
       "date": "Jul 07",
       "loc": "Mexico City",
@@ -469,307 +827,7 @@
           "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260706-99-974052/"
         }
       ]
-    },
-    {
-      "date": "Jul 07",
-      "loc": "Mexico City",
-      "event": "Is Mexico out of the World Cup? El Tri lose to England in last 16",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/06/is-mexico-out-world-cup-after-england-loss/90817490007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 07",
-      "loc": "Mexico City",
-      "event": "Harry Kane penalty helps 10-man England defeat Mexico in 3-2 thriller",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.irishtimes.com/sport/soccer/2026/07/06/harry-kane-penalty-helps-10-man-england-defeat-mexico-in-3-2-thriller/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 07",
-      "loc": "Global",
-      "event": "On the biggest of stages, a Manchester City superstar leaves his mark",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://esteemedkompany.com/2026/07/06/on-the-biggest-of-stages-a-manchester-city-superstar-leaves-his-mark/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 07",
-      "loc": "Mexico City",
-      "event": "Tuchel hails 'heroic' England win in Mexico, but joy soured by Henderson injury",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/tuchel-hails-heroic-england-win-050841054.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 07",
-      "loc": "Mexico City",
-      "event": "The 13 craziest moments from England's World Cup victory over Mexico",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/06/england-mexico-crazy-moments-world-cup-thriller/90817266007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 07",
-      "loc": "Global",
-      "event": "How to watch Mexico vs England replay \u2013 it's spoiler-free",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/how-to-watch/football/watch-mexico-vs-england-replay-its-spoiler-free"
-        }
-      ]
-    },
-    {
-      "date": "Jul 07",
-      "loc": "Global",
-      "event": "Kane vs. Haaland: The World's Best Strikers Will Meet In World Cup Quarterfinals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/kane-vs-haaland-worlds-best-strikers-will-meet-world-cup-quarterfinals"
-        }
-      ]
-    },
-    {
-      "date": "Jul 07",
-      "loc": "Mexico City",
-      "event": "Everything Harry Kane tried to say during hilarious post-Mexico win interview",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/everything-harry-kane-tried-to-say-during-hilarious-post-mexico-win-interview/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 07",
-      "loc": "Global",
-      "event": "Erling Haaland says Brazil win 'greatest game' in Norway history - ESPN",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184326206"
-        }
-      ]
-    },
-    {
-      "date": "Jul 07",
-      "loc": "Mexico City",
-      "event": "Mexico vs. England score, 2026 FIFA World Cup live updates: Three Lions face El Tri at daunting Estadio Azteca - CBS Sports",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184326202"
-        }
-      ]
-    },
-    {
-      "date": "Jul 07",
-      "loc": "Global",
-      "event": "How to Watch the 2026 FIFA World Cup Live Without Cable (and Even for Free)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/161984/how-to-watch-2026-fifa-world-cup-games-live-stream-for-free-july"
-        }
-      ]
-    },
-    {
-      "date": "Jul 07",
-      "loc": "Global",
-      "event": "England vs Mexico Tops the Best Games of the 2026 FIFA World Cup So Far",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/add49509c02fa9e6"
-        }
-      ]
-    },
-    {
-      "date": "Jul 07",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026 Round of 16 Mexico Vs England 1080p HDTV H264-DARKSPORT",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://post.rlsbb.cc/fifa-world-cup-2026-round-of-16-mexico-vs-england-1080p-hdtv-h264-darksport/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 07",
-      "loc": "Global",
-      "event": "Which teams are in the World Cup quarterfinals, and what\u2019s the schedule?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/6/which-teams-are-in-the-world-cup-quarterfinals-and-whats-the-schedule"
-        }
-      ]
-    },
-    {
-      "date": "Jul 07",
-      "loc": "Global",
-      "event": "What went wrong for Brazil at the World Cup? How Carlo Ancelotti's side suffered Round of 16 exit to Norway",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/what-wrong-brazil-world-cup-ancelotti-round-16-exit-norway/288153fe0c29098bf918f977"
-        }
-      ]
-    },
-    {
-      "date": "Jul 07",
-      "loc": "Mexico City",
-      "event": "Drama in Mexico City: England knocks out hosts to advance to World Cup quarterfinals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.israelnationalnews.com/flashes/689119"
-        }
-      ]
-    },
-    {
-      "date": "Jul 07",
-      "loc": "Global",
-      "event": "Norway stun Brazil to reach historic quarter-final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://peoplesreview.com.np/2026/07/06/norway-stun-brazil-to-reach-historic-quarter-final/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 07",
-      "loc": "Miami",
-      "event": "Kane and England, Haaland and Norway to square off in South Florida World Cup quarterfinal",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sun-sentinel.com/2026/07/05/wc-quarterfinal-matchup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 07",
-      "loc": "Global",
-      "event": "Move Over Canada and Mexico, This is The Year of The Yanks",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://easysportz.com/2026/07/move-over-canada-and-mexico-this-is-the-year-of-the-yanks/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 07",
-      "loc": "Global",
-      "event": "Who is in World Cup quarterfinals? Updated bracket after round of 16 matches",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/05/world-cup-quarterfinal-teams-updated-bracket-round-of-8/90816313007/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-07T05:54:43.299108Z"
+  "lastUpdated": "2026-07-07T08:59:49.934917Z"
 }
