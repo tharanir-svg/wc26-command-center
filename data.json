@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 2,
+    "p1": 0,
     "p2": 0,
-    "p3": 24
+    "p3": 21
   },
   "watchlist": [
     {
@@ -131,12 +131,138 @@
   ],
   "risks": [
     {
+      "title": "Don\u2019t Cry, Argentina\u2014Messi\u2019s Here",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Down 2-0 in the second half, Argentina scored three times in the closing minutes to beat Egypt in the round of 16 of the 2026 World Cup; Messi wept\u2014and his teammates carried him",
+      "timestamp": "2026-07-08T21:55:05.776341Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.lanacion.com.ar/estados-unidos/dont-cry-argentinamessis-here-nid07072026/"
+        }
+      ]
+    },
+    {
+      "title": "USMNT 2030 World Cup lineup projection: Who could start in four years?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The U.S. men's national team's journey at the 2026 World Cup has ended, which means it's not too early to start thinking about 2030.",
+      "timestamp": "2026-07-08T21:55:05.776507Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/07/usmnt-2030-world-cup-lineup-projection/90828278007/"
+        }
+      ]
+    },
+    {
+      "title": "Belgium boss Garcia on Folarin Balogun: \u201cHe didn\u2019t do anything wrong, I respect him\u201d",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Much of the buildup leading to the U.S. Men\u2019s National Team\u2019s FIFA World Cup Round of 16 tie vs. Belgium was centered around star forward Folarin Balogun and his availability for the match. Balogun originally was slated to miss the match due to a one-game ban\u2026",
+      "timestamp": "2026-07-08T21:55:05.776571Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sbisoccer.com/2026/07/belgium-boss-garcia-on-folarin-balogun-he-didnt-do-anything-wrong-i-respect-him"
+        }
+      ]
+    },
+    {
+      "title": "Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights, package could reach $2 billion",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA has alerted media companies that English- and Spanish-language U.S. rights are likely to be sold together for 2030 and 2034, likely driving up the price.",
+      "timestamp": "2026-07-08T21:55:05.776712Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cnbc.com/2026/07/07/fifa-world-cup-media-rights-netflix-disney-youtube.html"
+        }
+      ]
+    },
+    {
+      "title": "Here\u2019s Where You Can Buy World Cup Jerseys Before the Next Match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Looking for a 2026 FIFA World Cup jersey? We've rounded up the best retailers for authentic and replica kits, fast shipping, and fan gear before the next match.",
+      "timestamp": "2026-07-08T21:55:05.776824Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.menshealth.com/style/a71854098/how-to-buy-world-cup-jerseys/"
+        }
+      ]
+    },
+    {
+      "title": "America's humiliating World Cup loss to Belgium was most-watched soccer broadcast in US history... as Fox reveals astonishing TV figures",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "A record number of viewers tuned in to watch the United States' men's national team get humiliated in the Round of 16 at this year's FIFA World Cup.",
+      "timestamp": "2026-07-08T21:55:05.776988Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15960389/usa-belgium-world-cup-fox-viewers-seattle.html"
+        }
+      ]
+    },
+    {
+      "title": "Belgium Won't Let Go of Balogun Controversy, Even After Blowout Win Over USMNT",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The USMNT's run at the 2026 FIFA World Cup came to a brutal end on Monday night in Seattle, falling 4-1 to Belgium in a Round of 16 loss.\nWhat makes the loss even worse is that, leading up to this game, the U.S. had real momentum on its side. They had just de\u2026",
+      "timestamp": "2026-07-08T21:55:05.777022Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/e2f0efac8d06aef4"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Cup Odds: Which Songs Will BTS, Shakira, Madonna Perform First?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "BTS, Shakira and Madonna are headlining the the 2026 FIFA World Cup final halftime show. Here are the odds for how their performances could unfold.",
+      "timestamp": "2026-07-08T21:55:05.777084Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-halftime-bts-shakira-madonaa"
+        }
+      ]
+    },
+    {
+      "title": "Argentina advances as fans pack Atlanta\u2019s FIFA Fan Festival for another electric World Cup match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The excitement of the FIFA World Cup once again took over downtown Atlanta as thousands of fans gathered at the FIFA Fan Festival to watch one of the tournament\u2019s final match days.",
+      "timestamp": "2026-07-08T21:55:05.777202Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/argentina-advances-fans-pack-atlanta-203943968.html"
+        }
+      ]
+    },
+    {
       "title": "Lisandro Martinez: United ace continues golden World Cup run",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Manchester United defender Lisandro Martinez continued his golden run at the 2026 FIFA World Cup by helping his nation secure a dramatic 3-2 win over Egypt in the Round of 16. The Argentine retained h...",
-      "timestamp": "2026-07-08T20:20:30.931386Z",
+      "timestamp": "2026-07-08T21:55:05.777311Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi extended his record by scoring in a ninth straight FIFA World Cup match as Argentina fought back from 2-0 down to beat Egypt 3-2 and keep their title defence alive.",
-      "timestamp": "2026-07-08T20:20:30.931485Z",
+      "timestamp": "2026-07-08T21:55:05.777355Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In one of the World Cup\u2019s greatest come-from-behind wins in recent memory, Lionel Messi leaves his stamp on the pitch as the Argentinian captain passes fellow countryman and soccer legend Diego Maradona for most assists all time in the tournament\u2019s\u2026",
-      "timestamp": "2026-07-08T20:20:30.931584Z",
+      "timestamp": "2026-07-08T21:55:05.777441Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "For all his past success, Christian Pulisic fell embarrassingly short in a massive moment for United States",
-      "timestamp": "2026-07-08T20:20:30.931612Z",
+      "timestamp": "2026-07-08T21:55:05.777463Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France and Morocco face off this Thursday at the Gillette Stadium in World Cup. The match will be broadcast live at 21:00 on ITV 1.In their last match, France prevailed 0-1 against Paraguay (World Cup...",
-      "timestamp": "2026-07-08T20:20:30.931643Z",
+      "timestamp": "2026-07-08T21:55:05.777488Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The United States men\u2019s national team flamed out of the 2026 World Cup at the hands of Belgium on Monday night. Mauricio Pochettino\u2019s team lost 4-1 at the Seattle Stadium despite being favourites to reach the quarter-finals.",
-      "timestamp": "2026-07-08T20:20:30.931695Z",
+      "timestamp": "2026-07-08T21:55:05.777560Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This video features the intense 2026 FIFA World Cup\u2122 Round of 16 match between Argentina and Egypt. The game was a dramatic thriller that saw the defending champions, Argentina, narrowly avoid a shock elimination. Match Highlights: Early Lead for Egypt: Egypt\u2026",
-      "timestamp": "2026-07-08T20:20:30.931923Z",
+      "timestamp": "2026-07-08T21:55:05.777782Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This video features the intense 2026 FIFA World Cup\u2122 Round of 16 match between Argentina and Egypt. The game was a dramatic thriller that saw the defending champions, Argentina, narrowly avoid a shock elimination. Match Highlights: Early Lead for Egypt: Egypt\u2026",
-      "timestamp": "2026-07-08T20:20:30.931945Z",
+      "timestamp": "2026-07-08T21:55:05.777807Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The United States' 4-1 crashout against Belgium marked an unceremonious end to the country's 2026 World Cup hopes. SN's experts break down what went really went wrong amid the wave of overreactions.",
-      "timestamp": "2026-07-08T20:20:30.931991Z",
+      "timestamp": "2026-07-08T21:55:05.777852Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Get the full schedule for the 2026 FIFA World Cup quarter-final fixtures, including dates, times, and venues. Don\u2019t miss any of the action!\n\nRead More: https://punchng.com/2026-world-cup-quarter-final-fixtures-date-time/",
-      "timestamp": "2026-07-08T20:20:30.932078Z",
+      "timestamp": "2026-07-08T21:55:05.777939Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "For many, the FIFA World Cup means taking in the action from afar, cheering your favorite team while surrounded by The The \u2018Once In A Lifetime\u2019 World Cup Suites Fans Are Booking To Watch Like David Beckham first appeared on The Blast",
-      "timestamp": "2026-07-08T20:20:30.932109Z",
+      "timestamp": "2026-07-08T21:55:05.777970Z",
       "links": [
         {
           "label": "Source",
@@ -290,212 +416,151 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Pure, unadulterated madness. That is the only way to describe the bedlam that just unfolded in Atlanta in the FIFA World Cup 2026. Defending world champions Argentina looked dead, buried, and ready to...",
-      "timestamp": "2026-07-08T20:20:30.932238Z",
+      "timestamp": "2026-07-08T21:55:05.778122Z",
       "links": [
         {
           "label": "Source",
           "url": "https://the4thofficial.net/2026/07/lionel-messi-gets-8-10-argentina-players-rated-after-a-thrilling-3-2-win-against-egypt-in-the-fifa-world-cup-2026/"
         }
       ]
-    },
-    {
-      "title": "The Numbers that confirm Barcelona gem as one of the best centre-backs at the World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Pau Cubars\u00ed\u2019s breakthrough at the 2026 FIFA World Cup has quickly become one of the standout stories of Spain\u2019s campaign. The 19-year-old Barcelona defender has established himself as one of the ...",
-      "timestamp": "2026-07-08T20:20:30.932368Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/the-numbers-that-confirm-barcelona-gem-as-one-of-the-best-centre-backs-at-the-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "Tom Brady breaks internet with 2026 World Cup match, 28-3 comparison",
-      "risk": "high",
-      "severityText": "P1 CRITICAL",
-      "status": "VERIFIED",
-      "description": "Tom Brady compared Argentina's comeback win to the Patriots' 28-3 comeback against the Falcons at Super Bowl LI.",
-      "timestamp": "2026-07-08T20:20:30.932396Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://patriotswire.usatoday.com/story/sports/nfl/patriots/2026/07/07/tom-brady-breaks-internet-world-cup-match-falcons-comparison/90837538007/"
-        }
-      ]
-    },
-    {
-      "title": "Messi achieves record not seen since 1930 World Cup with 8 goals for Argentina",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "LMessi continued his remarkable 2026 FIFA World Cup campaign by breaking record during Argentina's dramatic 3-2 comeback victory over Egypt\nThe post Messi achieves record not seen since 1930 World Cup with 8 goals for Argentina appeared first on Vanguard News.",
-      "timestamp": "2026-07-08T20:20:30.932423Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/messi-achieves-record-not-seen-since-1930-world-cup-with-8-goals-for-argentina/"
-        }
-      ]
-    },
-    {
-      "title": "Paraguayan senator demands apology after racist attack on Kylian Mbapp\u00e9 and threatens legal action, says racism was common in her generation",
-      "risk": "high",
-      "severityText": "P1 CRITICAL",
-      "status": "VERIFIED",
-      "description": "France defeated Paraguay 2-1 in the round of 16 in the 2026 FIFA World Cup after a tightly contested affair that saw the Paraguayan\u2019s use any tactics necessary to get under the skin of the French players, especially star forward Kylian Mbapp\u00e9. After the match\u2026",
-      "timestamp": "2026-07-08T20:20:30.932658Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/paraguayan-senator-demands-apology-from-kylian-mbappe.html"
-        }
-      ]
-    },
-    {
-      "title": " Messi GOAT and not my VAR: socials go wild over Argentina comeback",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina secured an epic qualification for the quarterfinals of the 2026 FIFA World Cup this Tuesday (7), coming from behind to beat Egypt 3-2.Social media, of course, closely followed the feat of th...",
-      "timestamp": "2026-07-08T20:20:30.932724Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_919eea0e-2c6d-44e1-acfd-ad67734d73c5"
-        }
-      ]
-    },
-    {
-      "title": "Where to buy Spain vs. Belgium World Cup tickets at SoFi Stadium in LA",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain and Belgium will play the World Cup quarterfinals at SoFi Stadium in Inglewood. Here's how to catch the match live in LA.",
-      "timestamp": "2026-07-08T20:20:30.932752Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.businessinsider.com/guides/tickets/where-to-buy-spain-vs-belgium-tickets-world-cup-2026#article"
-        }
-      ]
-    },
-    {
-      "title": "How Colombia\u2019s win, draw, or loss vs Switzerland could impact the 2026 World Cup bracket",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Whether Colombia advances, falls short, or needs extra time and penalties to decide its fate against Switzerland could completely change the road toward the World Cup final, adding even more pressure to a meeting between two unbeaten national teams. Colombia \u2026",
-      "timestamp": "2026-07-08T20:20:30.932796Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/how-colombias-win-draw-or-loss-vs-switzerland-could-impact-the-2026-world-cup-bracket/"
-        }
-      ]
-    },
-    {
-      "title": "Argentina complete stunning comeback to reach the quarter-finals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina and Egypt produced a Round of 16 thriller at the 2026 World Cup. The reigning champions fought back to secure a 3-2 victory over the African side and advance to the quarter-finals, where the...",
-      "timestamp": "2026-07-08T20:20:30.932903Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.inter.it/en/news/world-cup-2026-argentina-egypt-ro16-lautaro-assist"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi Breaks World Cup All-Time Assists Record In Comeback Win vs. Egypt",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi is already the FIFA World Cup's all-time leading goalscorer; now he's the all-time assists leader, too.",
-      "timestamp": "2026-07-08T20:20:30.933160Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/lionel-messi-breaks-world-cup-all-time-assists-record-comeback-win-vs-egypt"
-        }
-      ]
-    },
-    {
-      "title": "The Best Matches Of The 2026 World Cup: The Top 5 After Argentina vs. Egypt",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here are the best matches of the World Cup -- so far -- entering the quarterfinals.",
-      "timestamp": "2026-07-08T20:20:30.933200Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/best-matches-2026-world-cup"
-        }
-      ]
-    },
-    {
-      "title": "Argentina stages dramatic comeback to defeat Egypt 3-2 in World Cup thriller",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "ATLANTA: Defending champions Argentina produced a remarkable late comeback to defeat Egypt 3-2 and secure a place in the FIFA World Cup quarterfinals in Atlanta. The Argentine side scored three unanswered goals from the 79th minute onward after falling two go\u2026",
-      "timestamp": "2026-07-08T20:20:30.933243Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.khabarhub.com/2026/08/557473/"
-        }
-      ]
-    },
-    {
-      "title": "Bad news for fans who have hated FIFA\u2019s hydration breaks at World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Even in the context of a World Cup not exactly short on controversy, the so-called hydration breaks mandated by FIFA have caused an outsized uproar. World soccer\u2019s governing body announced in December last year that every match at the 2026 World Cup would inc\u2026",
-      "timestamp": "2026-07-08T20:20:30.933286Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/bad-news-for-fans-who-have-hated-fifas-hydration-breaks-at-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "Switzerland vs. Colombia odds, prediction, time: 2026 World Cup Round of 16 picks by expert on 25-16 run",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "SportsLine's Jon Eimer reveals his Colombia vs. Switzerland best bets for the FIFA World Cup 2026 match as the knockout round continues on Tuesday",
-      "timestamp": "2026-07-08T20:20:30.933462Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/switzerland-colombia-odds-prediction-time-2026-world-cup-round-of-16-picks-best-bets/"
-        }
-      ]
-    },
-    {
-      "title": "Video: Lionel Messi scores for Argentina against Egypt to match Guillermo Stabile\u2019s 96-year-old record",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi scored Argentina's equalizer against Egypt, matching a historic 96-year-old record held by Guillermo Stabile. Lionel Messi continues to rewrite the record books at the 2026 World Cup. The captain scored for Argentina in the Round of 16 clash agai\u2026",
-      "timestamp": "2026-07-08T20:20:30.933557Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/video-lionel-messi-scores-for-argentina-against-egypt-to-match-guillermo-stabiles-96-year-old-record/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Don\u2019t Cry, Argentina\u2014Messi\u2019s Here",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.lanacion.com.ar/estados-unidos/dont-cry-argentinamessis-here-nid07072026/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "USMNT 2030 World Cup lineup projection: Who could start in four years?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/07/usmnt-2030-world-cup-lineup-projection/90828278007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Belgium boss Garcia on Folarin Balogun: \u201cHe didn\u2019t do anything wrong, I respect him\u201d",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sbisoccer.com/2026/07/belgium-boss-garcia-on-folarin-balogun-he-didnt-do-anything-wrong-i-respect-him"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights, package could reach $2 billion",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cnbc.com/2026/07/07/fifa-world-cup-media-rights-netflix-disney-youtube.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Here\u2019s Where You Can Buy World Cup Jerseys Before the Next Match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.menshealth.com/style/a71854098/how-to-buy-world-cup-jerseys/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "America's humiliating World Cup loss to Belgium was most-watched soccer broadcast in US history... as Fox reveals astonishing TV figures",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15960389/usa-belgium-world-cup-fox-viewers-seattle.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Belgium Won't Let Go of Balogun Controversy, Even After Blowout Win Over USMNT",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/e2f0efac8d06aef4"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "2026 World Cup Odds: Which Songs Will BTS, Shakira, Madonna Perform First?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-halftime-bts-shakira-madonaa"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Argentina advances as fans pack Atlanta\u2019s FIFA Fan Festival for another electric World Cup match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/argentina-advances-fans-pack-atlanta-203943968.html"
+        }
+      ]
+    },
     {
       "date": "Jul 08",
       "loc": "Global",
@@ -675,217 +740,7 @@
           "url": "https://the4thofficial.net/2026/07/lionel-messi-gets-8-10-argentina-players-rated-after-a-thrilling-3-2-win-against-egypt-in-the-fifa-world-cup-2026/"
         }
       ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "The Numbers that confirm Barcelona gem as one of the best centre-backs at the World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/the-numbers-that-confirm-barcelona-gem-as-one-of-the-best-centre-backs-at-the-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Tom Brady breaks internet with 2026 World Cup match, 28-3 comparison",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "high",
-      "impact": "P1 CRITICAL",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://patriotswire.usatoday.com/story/sports/nfl/patriots/2026/07/07/tom-brady-breaks-internet-world-cup-match-falcons-comparison/90837538007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Messi achieves record not seen since 1930 World Cup with 8 goals for Argentina",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/messi-achieves-record-not-seen-since-1930-world-cup-with-8-goals-for-argentina/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Paraguayan senator demands apology after racist attack on Kylian Mbapp\u00e9 and threatens legal action, says racism was common in her generation",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "high",
-      "impact": "P1 CRITICAL",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/paraguayan-senator-demands-apology-from-kylian-mbappe.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": " Messi GOAT and not my VAR: socials go wild over Argentina comeback",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_919eea0e-2c6d-44e1-acfd-ad67734d73c5"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Los Angeles",
-      "event": "Where to buy Spain vs. Belgium World Cup tickets at SoFi Stadium in LA",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.businessinsider.com/guides/tickets/where-to-buy-spain-vs-belgium-tickets-world-cup-2026#article"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "How Colombia\u2019s win, draw, or loss vs Switzerland could impact the 2026 World Cup bracket",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/how-colombias-win-draw-or-loss-vs-switzerland-could-impact-the-2026-world-cup-bracket/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Argentina complete stunning comeback to reach the quarter-finals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.inter.it/en/news/world-cup-2026-argentina-egypt-ro16-lautaro-assist"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Lionel Messi Breaks World Cup All-Time Assists Record In Comeback Win vs. Egypt",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/lionel-messi-breaks-world-cup-all-time-assists-record-comeback-win-vs-egypt"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "The Best Matches Of The 2026 World Cup: The Top 5 After Argentina vs. Egypt",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/best-matches-2026-world-cup"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Argentina stages dramatic comeback to defeat Egypt 3-2 in World Cup thriller",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.khabarhub.com/2026/08/557473/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Bad news for fans who have hated FIFA\u2019s hydration breaks at World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/bad-news-for-fans-who-have-hated-fifas-hydration-breaks-at-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Switzerland vs. Colombia odds, prediction, time: 2026 World Cup Round of 16 picks by expert on 25-16 run",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/switzerland-colombia-odds-prediction-time-2026-world-cup-round-of-16-picks-best-bets/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Video: Lionel Messi scores for Argentina against Egypt to match Guillermo Stabile\u2019s 96-year-old record",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/video-lionel-messi-scores-for-argentina-against-egypt-to-match-guillermo-stabiles-96-year-old-record/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-08T20:20:30.933767Z"
+  "lastUpdated": "2026-07-08T21:55:05.778413Z"
 }
