@@ -5,8 +5,8 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 1,
-    "p2": 3,
+    "p1": 0,
+    "p2": 0,
     "p3": 30
   },
   "watchlist": [
@@ -131,12 +131,278 @@
   ],
   "risks": [
     {
+      "title": "Floyd Mayweather sends retirement support to \u2018brother\u2019 Cristiano Ronaldo after World Cup exit",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Cristiano Ronaldo\u2019s exit from the 2026 FIFA World Cup has sent shockwaves through social media. The 41-year-old has possibly played his final game in a Portugal jersey at the World Cup following his team\u2019s 1-0 defeat at the hands of Spain.",
+      "timestamp": "2026-07-08T07:19:10.343632Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/floyd-mayweather-sends-retirement-support-to-brother-cristiano-ronaldo-after-world-cup-exit/"
+        }
+      ]
+    },
+    {
+      "title": "Belgium Uses Trump Dance To Savagely Mock US Men\u2019s Soccer In Thrashing 4-1 Defeat",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "While bouncing the United States Men's National Team (USMNT) from the 2026 FIFA World Cup, players on the Belgium squad decided to mock President Donald Trump.",
+      "timestamp": "2026-07-08T07:19:10.343684Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://dailycaller.com/2026/07/07/belgium-trump-dance-mock-us-mens-soccer-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "Folarin Balogun Leaves The World Cup A Star, Red Card Controversy And All",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Folarin Balogun was the USA's breakout star at the 2026 FIFA World Cup. Being at the center of an international incident doesn't change that.",
+      "timestamp": "2026-07-08T07:19:10.343732Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/folarin-balogun-leaves-world-cup-star-red-card-controversy-all"
+        }
+      ]
+    },
+    {
+      "title": "Spain edge Portugal, Belgium rout USA to reach quarterfinals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Dallas/Seattle, July 7: Spain and Belgium secured their places in the FIFA World Cup quarterfinals on Monday with victories over Portugal and the United States, setting up a mouthwatering clash between the two European heavyweights. Spain needed a stoppage-ti\u2026",
+      "timestamp": "2026-07-08T07:19:10.343789Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://peoplesreview.com.np/2026/07/07/spain-edge-portugal-belgium-rout-usa-to-reach-quarterfinals/"
+        }
+      ]
+    },
+    {
+      "title": "Lamine Yamal vs Nuno Mendes: Spain advance but Barcelona star endures difficult night",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The biggest talking point ahead of Spain vs Portugal in the FIFA World Cup 2026 Round of 16 was always going to be the battle between Lamine Yamal and Nuno Mendes.\u00a0It was another opportunity for the ...",
+      "timestamp": "2026-07-08T07:19:10.343833Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/lamine-yamal-vs-nuno-mendes-spain-advance-but-barcelona-star-endures-difficult-night/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Doku's Belgium breeze past USA and into quarter-finals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Jeremy Doku was a second-half sub in Belgium's 4-1 Round of 16 victory over hosts USA at the 2026 FIFA World Cup. Men's Team City Magazine: World Cup 2026 Special Our 24-year-old winger sat out the fi...",
+      "timestamp": "2026-07-08T07:19:10.343856Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f0c03fd9-f1cd-4cc9-b82f-e0deebf24f43"
+        }
+      ]
+    },
+    {
+      "title": "Liverpool now red hot favourites to seal deal for \u00a350m World Cup midfield powerhouse",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Last week Liverpool were mentioned as one of the suitors in the race for FIFA World Cup breakout star Kaishu Sano. The 25-year-old workhorse was devastatingly effective in the Japan midfield - scoring...",
+      "timestamp": "2026-07-08T07:19:10.343883Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/liverpool-transfer-news-japan-kaishu-sano-mainz-favourites-to-seal-deal-for-ps50m-world-cup-midfield-powerhouse/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup 2026: Mbapp\u00e9, Messi, Haaland locked in three-way Golden Boot race",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The World Cup Golden Boot race heats up as Mbapp\u00e9, Messi, and Haaland are level on seven goals. Discover who leads and the tie-breaker rules.\n\nRead More: https://punchng.com/world-cup-2026-mbappe-messi-haaland-locked-in-three-way-golden-boot-race/",
+      "timestamp": "2026-07-08T07:19:10.344009Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/world-cup-2026-mbappe-messi-haaland-locked-in-three-way-golden-boot-race/"
+        }
+      ]
+    },
+    {
+      "title": "\u200eAll three World Cup co-hosts eliminated from tournament",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "All three 2026 FIFA World Cup co-hosts \u2013 USA, Mexico, and Canada \u2013 have been eliminated from the tournament. Read more about the hosts\u2019 exit.\n\nRead More: https://punchng.com/all-three-world-cup-co-hosts-eliminated-from-tournament/",
+      "timestamp": "2026-07-08T07:19:10.344038Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/all-three-world-cup-co-hosts-eliminated-from-tournament/"
+        }
+      ]
+    },
+    {
+      "title": "How to Watch Argentina and Messi vs. Egypt: TV Channel, Live Stream, Time",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Learn which TV channel or how to live stream the Argentina and Egypt FIFA World Cup match.",
+      "timestamp": "2026-07-08T07:19:10.344068Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/argentina-vs-egypt-how-to-watch-tv-channel-live-stream-2026-fifa-world-cup-round-of-16"
+        }
+      ]
+    },
+    {
+      "title": "Spain coach Luis de la Fuente hails Barcelona star after Portugal heroics: \u2018One of his best matches\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Barcelona youngster Lamine Yamal earned special praise from Spain manager Luis de la Fuente after La Roja secured a hard-fought 1-0 victory over Portugal in the Round of 16 of the 2026 FIFA World Cup....",
+      "timestamp": "2026-07-08T07:19:10.344096Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/spain-coach-luis-de-la-fuente-hails-barcelona-star-after-portugal-heroics-one-of-his-best-matches/"
+        }
+      ]
+    },
+    {
+      "title": "Neymar's father begs him not to quit football",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Neymar's father has penned an emotional message urging his son to reconsider his retirement from international football, which followed Brazil's unexpected exit from the FIFA World Cup 2026. Neymar, Brazil's all-time leading scorer, announced his decision aft\u2026",
+      "timestamp": "2026-07-08T07:19:10.344156Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/neymars-father-begs-him-not-to-quit-football-fifa-world-cup/20260707.htm"
+        }
+      ]
+    },
+    {
+      "title": "Ronaldo\u2019s World Cup ends in tears as karma comes calling for the United States",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup has reached the stage where reputation counts for little, with several of the tournament\u2019s biggest names no longer in the picture.With the United States joining Canada and Me...",
+      "timestamp": "2026-07-08T07:19:10.344192Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/07/07/world-cup-2026-portugal-spain-ronaldo-argentina-egypt/"
+        }
+      ]
+    },
+    {
+      "title": "Fifa World Cup: Donald Trump and Gianni Infantino make a perfect match for football\u2019s farce",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "OPINION: Gianni Infantino has bound himself to the US President.",
+      "timestamp": "2026-07-08T07:19:10.344253Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.nzherald.co.nz/sport/football/football-world-cup/fifa-world-cup-donald-trump-and-gianni-infantino-make-a-perfect-match-for-footballs-farce/premium/5JUZG3N2LFAMTBYSPHDFO3NNAY/"
+        }
+      ]
+    },
+    {
+      "title": "Argentina vs. Egypt Prediction, Odds, Picks For World Cup Match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Check out the odds for the Argentina vs. Egypt Round of 16 matchup at the 2026 FIFA World Cup.",
+      "timestamp": "2026-07-08T07:19:10.344289Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/argentina-vs-egypt-prediction-odds-picks-world-cup-match"
+        }
+      ]
+    },
+    {
+      "title": "World Cup 2026 Bracket Update: Three Quarterfinals Set as Argentina and Colombia Chase Final Two Spots",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup quarterfinals are nearly set, with Argentina vs Egypt and Switzerland vs Colombia deciding the final spots. Historic performances and key player matchups highlight the tournament.",
+      "timestamp": "2026-07-08T07:19:10.344353Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ibtimes.com.au/world-cup-2026-quarterfinals-argentina-egypt-switzerland-colombia-1871935"
+        }
+      ]
+    },
+    {
+      "title": "USMNT\u2019s Christian Pulisic left to rue injury heartbreak to end frustrating World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The U.S. needed their star to produce another signature World Cup moment. Instead, the sellout crowd at Lumen Field watched their brightest star endure perhaps the most difficult 59 minutes of his international career before limping off.",
+      "timestamp": "2026-07-08T07:19:10.344439Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/07/sports/usmnts-christian-pulisic-left-to-rue-injury-heartbreak-to-end-frustrating-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "Cristiano Ronaldo breaks Mexico star\u2019s unwanted World Cup record with 17 shots on goal amid Portugal\u2019s exit",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Cristiano Ronaldo is once again eliminated from the FIFA World Cup. The 2026 FIFA World Cup marked Cristiano Ronaldo\u2019s sixth appearance in the tournament, with many expecting him to finally lift the trophy.",
+      "timestamp": "2026-07-08T07:19:10.344549Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/cristiano-ronaldo-breaks-mexico-stars-unwanted-world-cup-record-with-17-shots-on-goal-amid-portugals-exit/"
+        }
+      ]
+    },
+    {
+      "title": "Man City 2026 World Cup Watch: Jeremy Doku and Belgium set up last-eight clash with Spain",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Jeremy Doku and Belgium progress into a FIFA World Cup quarter-final after defeating co-hosts United States in Seattle on Monday night.A brace from Charles De Ketelaere spear-headed a ruthless Belgian...",
+      "timestamp": "2026-07-08T07:19:10.344616Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cityxtra.co.uk/49628/man-city-2026-world-cup-watch-jeremy-doku-and-belgium-set-up-last-eight-clash-with-spain/"
+        }
+      ]
+    },
+    {
       "title": "USA World Cup winners and losers: Unforgettable summer ends on sour note",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "It was a night to remember for a few folks in Seattle and one to forget for many USMNT players as the U.S. crashed out of the 2026 World Cup taking place on home soil.",
-      "timestamp": "2026-07-08T04:54:00.247143Z",
+      "timestamp": "2026-07-08T07:19:10.344849Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The exits in the Round of 16 weren't easy ones.",
-      "timestamp": "2026-07-08T04:54:00.247185Z",
+      "timestamp": "2026-07-08T07:19:10.344866Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The United States fell short of a quarterfinal berth, but its memorable 2026 FIFA World Cup campaign gave fans plenty to celebrate. Here\u2019s a full tournament recap.",
-      "timestamp": "2026-07-08T04:54:00.247245Z",
+      "timestamp": "2026-07-08T07:19:10.344918Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "USA was dreaming of a huge run in the 2026 World Cup, but Belgium turned it into a nightmare in the round of 16.",
-      "timestamp": "2026-07-08T04:54:00.247266Z",
+      "timestamp": "2026-07-08T07:19:10.344936Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This Ad Tech Briefing covers the latest in ad tech and platforms for Digiday+ members and is distributed over email every Tuesday at 10 a.m. ET. More from the series \u2192\nThe FIFA World Cup 2026, co-hosted across North America for the first time, has spelled out\u2026",
-      "timestamp": "2026-07-08T04:54:00.247305Z",
+      "timestamp": "2026-07-08T07:19:10.344969Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After the USMNT's 2026 World Cup exit against Belgium, head coach Mauricio Pochettino issued a preliminary injury update on star Christian Pulisic. Christian Pulisic\u2018s limping exit during the USMNT\u2018s 4-1 defeat to Belgium added another layer of concern to an \u2026",
-      "timestamp": "2026-07-08T04:54:00.247420Z",
+      "timestamp": "2026-07-08T07:19:10.345064Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup 2026, co-hosted across North America for the first time, has spelled out what some in U.S. media circles have known for some time: association football, or \u201csoccer\u201d to use local parlance, is now big in America, and it\u2019s time for corporation\u2026",
-      "timestamp": "2026-07-08T04:54:00.247515Z",
+      "timestamp": "2026-07-08T07:19:10.345141Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-08T04:54:00.247552Z",
+      "timestamp": "2026-07-08T07:19:10.345166Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Playing at the Estadio Azteca has clearly taken a toll on Harry Kane, who was one of the heroes for England in their 3-2 Round of 16 victory over Mexico, which advanced them to the World Cup quarterfinals. Kane\u2019s post-match\u2026",
-      "timestamp": "2026-07-08T04:54:00.247646Z",
+      "timestamp": "2026-07-08T07:19:10.345304Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Following the United States men's national team's tournament elimination by Belgium, FOX Sports analyst Alexi Lalas said the team's performance marks the official end of the program accepting moral victories.",
-      "timestamp": "2026-07-08T04:54:00.247669Z",
+      "timestamp": "2026-07-08T07:19:10.345343Z",
       "links": [
         {
           "label": "Source",
@@ -276,338 +542,301 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In what many considered the biggest USMNT match in history, the Americans simply fell apart, eventually losing 4-1 to Belgium in the 2026 FIFA World Cup Round of 16. In retrospect, it might have been smart to predict that the U.S. wasn\u2019t likely to go much fur\u2026",
-      "timestamp": "2026-07-08T04:54:00.247804Z",
+      "timestamp": "2026-07-08T07:19:10.345539Z",
       "links": [
         {
           "label": "Source",
           "url": "https://awfulannouncing.com/soccer/carli-lloyd-usmnt-christian-pulisic-world-cup-loss-belgium.html"
         }
       ]
-    },
-    {
-      "title": "\u2018Really Proud Of This Group\u2019: USMNT Alums Reflect On 2026 World Cup Run",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Maurice Edu, Brad Guzan and Sacha Kljestan reflect on the USA's run at the 2026 World Cup after it ended against Belgium.",
-      "timestamp": "2026-07-08T04:54:00.247870Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/usmnt-alums-usa-2026-world-cup-run-loss"
-        }
-      ]
-    },
-    {
-      "title": "USA coach Mauricio Pochettino addresses future after World Cup elimination",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Mauricio Pochettino addressed his future after the USMNT was eliminated by Belgium from the 2026 World Cup.",
-      "timestamp": "2026-07-08T04:54:00.247889Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/06/pochettino-future-usa-eliminated-world-cup/90776738007/"
-        }
-      ]
-    },
-    {
-      "title": "What IShowSpeed did after a fan took Lionel Messi\u2019s name after Portugal\u2019s defeat vs. Spain",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Portugal\u2019s journey at the 2026 FIFA World Cup came to a crashing end in the Round of 16. Prior to the start of the tournament, Portugal were viewed as among the teams to beat at the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-08T04:54:00.247960Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/what-ishowspeed-did-after-a-fan-took-lionel-messis-name-after-portugals-defeat-vs-spain/"
-        }
-      ]
-    },
-    {
-      "title": "When is the next World Cup? Everything to know about the 2030 FIFA tournament",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "As the2026 World Cup nears its conclusion, here's what to know about the 2030 tournament, including who is hosting and format.",
-      "timestamp": "2026-07-08T04:54:00.247981Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/06/when-is-the-next-world-cup-2030/90829919007/"
-        }
-      ]
-    },
-    {
-      "title": "The Best Players Remaining At The 2026 FIFA World Cup, Ranked",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The stars are still out and shining as we get deeper into the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-08T04:54:00.247997Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/best-players-remaining-2026-fifa-world-cup-ranked"
-        }
-      ]
-    },
-    {
-      "title": "2030 World Cup: Breaking Down USA Roster Options For The Next World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The USA is out of the 2026 World Cup, but it's never too early to take a look at options for the USMNT's 2030 World Cup roster.",
-      "timestamp": "2026-07-08T04:54:00.248037Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/usa-world-cup-roster-2030-usmnt-balogun-pulisic"
-        }
-      ]
-    },
-    {
-      "title": "The Future of Messaging is Here. Anti-Drone Tech Hits FIFA World Cup. The Future of Messaging is Here",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Thanks to the FIFA World Cup, we\u2019re now starting to see the largest drone deployments for public sporting events. For the first time ever, U.S. state- and local-level law enforcement will be\u00a0operating anti\u2011drone surveillance, drone\u2011first responders, and kinet\u2026",
-      "timestamp": "2026-07-08T04:54:00.248109Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.activistpost.com/the-future-of-messaging-is-here-anti-drone-tech-hits-fifa-world-cup-the-future-of-messaging-is-here/"
-        }
-      ]
-    },
-    {
-      "title": "USA soccer roster projection for 2030 World Cup: Pulisic leads USMNT's transition after 2026 exit",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "With the United States now out of the 2026 FIFA World Cup, it's never too early to take a look at what the USMNT roster could look like at the 2030 tournament, with the current core of talent starting to age out of its prime.",
-      "timestamp": "2026-07-08T04:54:00.248140Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/usa-soccer-roster-projection-2030-world-cup-pulisic/9a24ce92b0ed99a7183c0151"
-        }
-      ]
-    },
-    {
-      "title": "World Cup Roundup: Belgium Ends USA's Fairytale; Spain Sends Portugal Packing",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here's the best of Monday, July 6, at the 2026 World Cup from Portugal vs. Spain and the USA vs. Belgium.",
-      "timestamp": "2026-07-08T04:54:00.248213Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/world-cup-roundup-belgium-ends-usas-fairytale-spain-sends-portugal-packing"
-        }
-      ]
-    },
-    {
-      "title": "\u2018Justice is served\u2019: Donald Trump mocked after United States loss",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "The United States Men\u2019s National Team got a significant boost on Sunday when FIFA announced that striker Folarin Balogun would be eligible to play in Monday\u2019s match against Belgium in the round of 16 in the 2026 FIFA World Cup despite his red card in the prev\u2026",
-      "timestamp": "2026-07-08T04:54:00.248241Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/justice-is-served-donald-trump-mocked-after-united-states-loss.html"
-        }
-      ]
-    },
-    {
-      "title": "USMNT's World Cup dreams stutter to an end with Christian Pulisic injury and Matt Freese blunder",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The U.S. Men's National Team's 2026 FIFA World Cup campaign came to a painful end in Seattle via a 4-1 Round of 16 defeat to Belgium, during which Matt Freese had a moment to forget in the American goal, whilst Christian Pulisic came off with what seemed to b\u2026",
-      "timestamp": "2026-07-08T04:54:00.248271Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/usmnt-world-cup-freese-pulisic-1924307"
-        }
-      ]
-    },
-    {
-      "title": "Ex-NFL star explains why some US citizens are \u2018traitors\u2019 during World Cup game vs. Belgium",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The USMNT are getting utterly destroyed by Belgium in the 2026 FIFA World Cup, despite support from home fans. The USMNT were off to a blazing start at the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-08T04:54:00.248345Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/ex-nfl-star-explains-why-some-us-citizens-are-traitors-during-world-cup-game-vs-belgium/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026 match: Belgium beats US 4-1 behind Charles De Ketelaere's brace",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "USA vs Belgium: Charles De Ketelaere scored twice and assisted once as Belgium defeated the United States 4-1. The Red Devils advanced to the quarterfinals after a convincing performance against the co-hosts. Belgium took a 2-1 halftime lead and extended it w\u2026",
-      "timestamp": "2026-07-08T04:54:00.248375Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-match-belgium-beats-us-4-1-behind-charles-de-ketelaeres-brace/articleshow/132228569.cms"
-        }
-      ]
-    },
-    {
-      "title": "Spain and Belgium: Date, kickoff time and venue for 2026 World Cup quarterfinal",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain and Belgium will be one of the quarterfinal suels in the 2026 World Cup, with the date, kickoff time and venue already set. Spain and Belgium secured their places in the quarterfinals of the 2026 World Cup on Monday, July 6th, setting up a compelling al\u2026",
-      "timestamp": "2026-07-08T04:54:00.248451Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/spain-and-belgium-date-kickoff-time-and-venue-for-2026-world-cup-quarterfinal/"
-        }
-      ]
-    },
-    {
-      "title": "USMNT exits World Cup following rough Round of 16 loss to Belgium",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "The U.S. Men\u2019s National Team\u2019s 2026 FIFA World Cup run came to a frustrating ending. Belgium used a brace from Charles de Ketelaere, a second-half goal from Hans Vanaken, and an insurance strike from Romelu Lukaku to defeat the USMNT 4-1 at Seattle Stadium in\u2026",
-      "timestamp": "2026-07-08T04:54:00.248556Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sbisoccer.com/2026/07/usmnt-exits-world-cup-following-rough-round-of-16-loss-to-belgium"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup Odds & Win Probability 2026: France Favored as Spain Surges After Portugal Win",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Updated World Cup odds for the 2026 FIFA World Cup, including outright futures with France as the favorite to win it all, plus market movement and expert analysis.",
-      "timestamp": "2026-07-08T04:54:00.248586Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.covers.com/world-cup/odds"
-        }
-      ]
-    },
-    {
-      "title": "Belgium knocks US out of 2026 FIFA World Cup in wake of Balogun controversy",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "The striker left little impact on the game as the US became the last World Cup host to be eliminated from the tournament.",
-      "timestamp": "2026-07-08T04:54:00.248620Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dw.com/en/belgium-knocks-us-out-of-2026-fifa-world-cup-in-wake-of-balogun-controversy/a-77857846"
-        }
-      ]
-    },
-    {
-      "title": "Belgium knocks US out of 2026 FIFA World Cup in wake of Balogun controversy",
-      "risk": "high",
-      "severityText": "P1 CRITICAL",
-      "status": "VERIFIED",
-      "description": "The striker left little impact on the game as the US became the last World Cup host to be eliminated from the tournament. Belgium secured its place in the World Cup quarterfinals after beating the US 4-1 in Seattle.\n\nAtalanta attacker Charles de Ketelaere sco\u2026",
-      "timestamp": "2026-07-08T04:54:00.248674Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dw.com/en/belgium-knocks-us-out-of-2026-fifa-world-cup-in-wake-of-balogun-controversy/a-77857846"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026: Quarterfinals matches, potential Semifinal fixtures",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "What are the matchups in the Quarterfinals and Semifinals at the 2026 FIFA World Cup?",
-      "timestamp": "2026-07-08T04:54:00.248764Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sbnation.com/fifa-world-cup/1121671/world-cup-2026-quarterfinals-matches-potential-semifinal-fixtures"
-        }
-      ]
-    },
-    {
-      "title": "Belgium ends USA's run, eases into QF with strong 4-1 win",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Belgium reached the quarterfinals at the 2026 FIFA World Cup after a convincing 3-1 win over the United States, in a match played on the USA's home ground. The winning team struck the first blow alrea...",
-      "timestamp": "2026-07-08T04:54:00.248829Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/767935aff3cfa0af"
-        }
-      ]
-    },
-    {
-      "title": "Team USA's World Cup run ends as Belgium wins Round of 16 matchup to advance",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Team USA's costly errors led to their round of 16 loss to Belgium, 4-1, as their 2026 FIFA World Cup journey comes to a close in Seattle on Monday night.",
-      "timestamp": "2026-07-08T04:54:00.248860Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxnews.com/sports/team-usas-world-cup-run-ends-belgium-wins-round-16-matchup-advance"
-        }
-      ]
-    },
-    {
-      "title": "USA Eliminated From 2026 World Cup With Loss To Belgium In Round Of 16",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "It's a familiar story for the United States men's national team, as it exits the 2026 FIFA World Cup in the round of 16 following a 4-1 loss to Belgium at Seattle Stadium on Monday.",
-      "timestamp": "2026-07-08T04:54:00.248934Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/usa-eliminated-from-2026-world-cup-loss-belgium-round-16"
-        }
-      ]
-    },
-    {
-      "title": "Messi vs. Salah In Argentina-Egypt; Colombia Matches Up With Switzerland",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here is what to know for the last day of the round of 16 at the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-08T04:54:00.249015Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/world-cup-messi-salah-argentina-egypt-colombia-switzerland"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Floyd Mayweather sends retirement support to \u2018brother\u2019 Cristiano Ronaldo after World Cup exit",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/floyd-mayweather-sends-retirement-support-to-brother-cristiano-ronaldo-after-world-cup-exit/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Belgium Uses Trump Dance To Savagely Mock US Men\u2019s Soccer In Thrashing 4-1 Defeat",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://dailycaller.com/2026/07/07/belgium-trump-dance-mock-us-mens-soccer-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Folarin Balogun Leaves The World Cup A Star, Red Card Controversy And All",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/folarin-balogun-leaves-world-cup-star-red-card-controversy-all"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Dallas",
+      "event": "Spain edge Portugal, Belgium rout USA to reach quarterfinals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://peoplesreview.com.np/2026/07/07/spain-edge-portugal-belgium-rout-usa-to-reach-quarterfinals/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Lamine Yamal vs Nuno Mendes: Spain advance but Barcelona star endures difficult night",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/lamine-yamal-vs-nuno-mendes-spain-advance-but-barcelona-star-endures-difficult-night/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "World Cup: Doku's Belgium breeze past USA and into quarter-finals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f0c03fd9-f1cd-4cc9-b82f-e0deebf24f43"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Liverpool now red hot favourites to seal deal for \u00a350m World Cup midfield powerhouse",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/liverpool-transfer-news-japan-kaishu-sano-mainz-favourites-to-seal-deal-for-ps50m-world-cup-midfield-powerhouse/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "World Cup 2026: Mbapp\u00e9, Messi, Haaland locked in three-way Golden Boot race",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/world-cup-2026-mbappe-messi-haaland-locked-in-three-way-golden-boot-race/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "\u200eAll three World Cup co-hosts eliminated from tournament",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/all-three-world-cup-co-hosts-eliminated-from-tournament/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "How to Watch Argentina and Messi vs. Egypt: TV Channel, Live Stream, Time",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/argentina-vs-egypt-how-to-watch-tv-channel-live-stream-2026-fifa-world-cup-round-of-16"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Spain coach Luis de la Fuente hails Barcelona star after Portugal heroics: \u2018One of his best matches\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/spain-coach-luis-de-la-fuente-hails-barcelona-star-after-portugal-heroics-one-of-his-best-matches/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Neymar's father begs him not to quit football",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/neymars-father-begs-him-not-to-quit-football-fifa-world-cup/20260707.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Ronaldo\u2019s World Cup ends in tears as karma comes calling for the United States",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/07/07/world-cup-2026-portugal-spain-ronaldo-argentina-egypt/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Fifa World Cup: Donald Trump and Gianni Infantino make a perfect match for football\u2019s farce",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.nzherald.co.nz/sport/football/football-world-cup/fifa-world-cup-donald-trump-and-gianni-infantino-make-a-perfect-match-for-footballs-farce/premium/5JUZG3N2LFAMTBYSPHDFO3NNAY/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Argentina vs. Egypt Prediction, Odds, Picks For World Cup Match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/argentina-vs-egypt-prediction-odds-picks-world-cup-match"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "World Cup 2026 Bracket Update: Three Quarterfinals Set as Argentina and Colombia Chase Final Two Spots",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ibtimes.com.au/world-cup-2026-quarterfinals-argentina-egypt-switzerland-colombia-1871935"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Seattle",
+      "event": "USMNT\u2019s Christian Pulisic left to rue injury heartbreak to end frustrating World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/07/sports/usmnts-christian-pulisic-left-to-rue-injury-heartbreak-to-end-frustrating-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Cristiano Ronaldo breaks Mexico star\u2019s unwanted World Cup record with 17 shots on goal amid Portugal\u2019s exit",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/cristiano-ronaldo-breaks-mexico-stars-unwanted-world-cup-record-with-17-shots-on-goal-amid-portugals-exit/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Man City 2026 World Cup Watch: Jeremy Doku and Belgium set up last-eight clash with Spain",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cityxtra.co.uk/49628/man-city-2026-world-cup-watch-jeremy-doku-and-belgium-set-up-last-eight-clash-with-spain/"
+        }
+      ]
+    },
     {
       "date": "Jul 08",
       "loc": "Global",
@@ -772,352 +1001,7 @@
           "url": "https://awfulannouncing.com/soccer/carli-lloyd-usmnt-christian-pulisic-world-cup-loss-belgium.html"
         }
       ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "\u2018Really Proud Of This Group\u2019: USMNT Alums Reflect On 2026 World Cup Run",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/usmnt-alums-usa-2026-world-cup-run-loss"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "USA coach Mauricio Pochettino addresses future after World Cup elimination",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/06/pochettino-future-usa-eliminated-world-cup/90776738007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "What IShowSpeed did after a fan took Lionel Messi\u2019s name after Portugal\u2019s defeat vs. Spain",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/what-ishowspeed-did-after-a-fan-took-lionel-messis-name-after-portugals-defeat-vs-spain/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "When is the next World Cup? Everything to know about the 2030 FIFA tournament",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/06/when-is-the-next-world-cup-2030/90829919007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "The Best Players Remaining At The 2026 FIFA World Cup, Ranked",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/best-players-remaining-2026-fifa-world-cup-ranked"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "2030 World Cup: Breaking Down USA Roster Options For The Next World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/usa-world-cup-roster-2030-usmnt-balogun-pulisic"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "The Future of Messaging is Here. Anti-Drone Tech Hits FIFA World Cup. The Future of Messaging is Here",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.activistpost.com/the-future-of-messaging-is-here-anti-drone-tech-hits-fifa-world-cup-the-future-of-messaging-is-here/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "USA soccer roster projection for 2030 World Cup: Pulisic leads USMNT's transition after 2026 exit",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/usa-soccer-roster-projection-2030-world-cup-pulisic/9a24ce92b0ed99a7183c0151"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "World Cup Roundup: Belgium Ends USA's Fairytale; Spain Sends Portugal Packing",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/world-cup-roundup-belgium-ends-usas-fairytale-spain-sends-portugal-packing"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "\u2018Justice is served\u2019: Donald Trump mocked after United States loss",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/justice-is-served-donald-trump-mocked-after-united-states-loss.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "USMNT's World Cup dreams stutter to an end with Christian Pulisic injury and Matt Freese blunder",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/usmnt-world-cup-freese-pulisic-1924307"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Ex-NFL star explains why some US citizens are \u2018traitors\u2019 during World Cup game vs. Belgium",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/ex-nfl-star-explains-why-some-us-citizens-are-traitors-during-world-cup-game-vs-belgium/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026 match: Belgium beats US 4-1 behind Charles De Ketelaere's brace",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-match-belgium-beats-us-4-1-behind-charles-de-ketelaeres-brace/articleshow/132228569.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Spain and Belgium: Date, kickoff time and venue for 2026 World Cup quarterfinal",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/spain-and-belgium-date-kickoff-time-and-venue-for-2026-world-cup-quarterfinal/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "USMNT exits World Cup following rough Round of 16 loss to Belgium",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sbisoccer.com/2026/07/usmnt-exits-world-cup-following-rough-round-of-16-loss-to-belgium"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "FIFA World Cup Odds & Win Probability 2026: France Favored as Spain Surges After Portugal Win",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.covers.com/world-cup/odds"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Belgium knocks US out of 2026 FIFA World Cup in wake of Balogun controversy",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dw.com/en/belgium-knocks-us-out-of-2026-fifa-world-cup-in-wake-of-balogun-controversy/a-77857846"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Belgium knocks US out of 2026 FIFA World Cup in wake of Balogun controversy",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "high",
-      "impact": "P1 CRITICAL",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dw.com/en/belgium-knocks-us-out-of-2026-fifa-world-cup-in-wake-of-balogun-controversy/a-77857846"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "World Cup 2026: Quarterfinals matches, potential Semifinal fixtures",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sbnation.com/fifa-world-cup/1121671/world-cup-2026-quarterfinals-matches-potential-semifinal-fixtures"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Belgium ends USA's run, eases into QF with strong 4-1 win",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/767935aff3cfa0af"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Team USA's World Cup run ends as Belgium wins Round of 16 matchup to advance",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxnews.com/sports/team-usas-world-cup-run-ends-belgium-wins-round-16-matchup-advance"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "USA Eliminated From 2026 World Cup With Loss To Belgium In Round Of 16",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/usa-eliminated-from-2026-world-cup-loss-belgium-round-16"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Messi vs. Salah In Argentina-Egypt; Colombia Matches Up With Switzerland",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/world-cup-messi-salah-argentina-egypt-colombia-switzerland"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-08T04:54:00.249178Z"
+  "lastUpdated": "2026-07-08T07:19:10.345762Z"
 }
