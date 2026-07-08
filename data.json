@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 0,
-    "p2": 1,
-    "p3": 24
+    "p1": 1,
+    "p2": 0,
+    "p3": 35
   },
   "watchlist": [
     {
@@ -131,12 +131,390 @@
   ],
   "risks": [
     {
+      "title": "Alvarez starts as Argentina make three changes for Egypt clash - Reuters",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Alvarez starts as Argentina make three changes for Egypt clashReuters Argentina vs. Egypt\u2014World Cup: Live Score and Match StatsSports Illustrated Argentina vs Egypt LIVE: FIFA World Cup 2026 round of 16Al Jazeera LIVE BLOG for Argentina vs. Egypt in World Cup\u2026",
+      "timestamp": "2026-07-08T17:14:29.912317Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184344698"
+        }
+      ]
+    },
+    {
+      "title": "How to watch Switzerland vs Colombia: Free Streams, TV Channels & Kick-Off time for FIFA World Cup 2026 last-16 clash in Vancouver",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Here's how to watch Switzerland vs Colombia for free online and from anywhere at the FIFA World Cup 2026, as the two sides battle for a quarter-final place.",
+      "timestamp": "2026-07-08T17:14:29.912434Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/how-to-watch/football/switzerland-vs-colombia-world-cup-2026-free"
+        }
+      ]
+    },
+    {
+      "title": "How to live stream Colombia vs Switzerland for free without cable: World Cup, TV channel",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Switzerland and Colombia meet Tuesday at BC Place in Vancouver with a spot in the 2026 FIFA World Cup quarterfinals on the line. MORE: How to live stream World Cup 2026 How to Watch Switzerland vs Colombia Switzerland comes in\u2026",
+      "timestamp": "2026-07-08T17:14:29.912506Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thebiglead.com/how-to-live-stream-colombia-vs-switzerland-for-free-without-cable-world-cup-tv-channel/"
+        }
+      ]
+    },
+    {
+      "title": "Robert Griffin III blames U.S. citizens for USMNT loss to Belgium",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The United States Men\u2019s National Team crashed out in the round of 16 of the 2026 FIFA World Cup on Monday night, losing 4-1 to Belgium in a match in which it never looked comfortable. The U.S. entered the match mired in controversy, after its top goal scorer \u2026",
+      "timestamp": "2026-07-08T17:14:29.912553Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/robert-griffin-iii-blames-us-citizens-for-usmnt-loss-to-belgium.html"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Messi fails to convert penalty for second time in World Cup, seeing Egypt shot saved",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentine star Lionel Messi leads the FIFA World Cup golden boot race, but he missed a golden chance to increase his goal haul from the penalty spot.",
+      "timestamp": "2026-07-08T17:14:29.912638Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/07/lionel-messi-penalty-kick-miss-world-cup-argentina-egypt/90835274007/"
+        }
+      ]
+    },
+    {
+      "title": "Switzerland vs. Colombia odds, prediction, time: 2026 World Cup Round of 16 picks by expert on 25-16 run",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "SportsLine's Jon Eimer reveals his Colombia vs. Switzerland best bets for the FIFA World Cup 2026 match as the knockout round continues on Tuesday",
+      "timestamp": "2026-07-08T17:14:29.912676Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/switzerland-colombia-odds-prediction-time-2026-world-cup-round-of-16-picks/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026: Messi starts, Lautaro benched as Argentina make three changes against Egypt",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina makes three lineup changes for their World Cup round-of-16 match. Julian Alvarez enters the starting eleven as Lautaro Martinez moves to the bench. Egypt also adjusts its squad with two new players joining the lineup. Argentina advanced after a dram\u2026",
+      "timestamp": "2026-07-08T17:14:29.912739Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-messi-starts-lautaro-benched-as-argentina-make-three-changes-against-egypt/articleshow/132243546.cms"
+        }
+      ]
+    },
+    {
+      "title": "Where is the World Cup round of 16 match between Switzerland and Colombia?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Switzerland and Colombia will play at 4pm ET at BC Place in Vancouver, Canada, competing for a place in the FIFA World Cup quarterfinals.",
+      "timestamp": "2026-07-08T17:14:29.912774Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/07/where-world-cup-game-switzerland-colombia/90834529007/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup: Egypt Stun Argentina with Early Lead",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "Argentina coach Lionel Scaloni made three changes to his starting lineup for Tuesday's World Cup round-of-16 clash against Egypt, handing Julian Alvarez the nod in attack ahead of Lautaro Martinez.",
+      "timestamp": "2026-07-08T17:14:29.912792Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/fifa-world-cup-egypt-stun-argentina-with-early-lead/20260707.htm"
+        }
+      ]
+    },
+    {
+      "title": "Zohran Mamdani does not hold back on Donald Trump, Folarin Balogun after loss to Belgium",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The USMNT lost 4-1 to Belgium in the round of 32 in the 2026 FIFA World Cup. It was a disappointing performance from start to finish, and adding to the embarrassment was U.S. President Donald Trump working to get Folarin Balogun reinstated for a match he was \u2026",
+      "timestamp": "2026-07-08T17:14:29.912869Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0a7fd86b-9edb-4838-98ca-747a895ed91f"
+        }
+      ]
+    },
+    {
+      "title": "The World Cup is coming to an end. Who's ahead and when are the games?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "There are very little games left. Some days have no games schedule. Here what to know about what's left of the World Cup 2026.",
+      "timestamp": "2026-07-08T17:14:29.912889Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.app.com/story/news/2026/07/07/world-cup-schedule-ahead-teams-remaining-what-to-know/90833742007/"
+        }
+      ]
+    },
+    {
+      "title": "Switzerland vs. Colombia live score, result, highlights from 2026 World Cup knockout game",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The Sporting News is tracking live scoring updates and highlights for Switzerland vs. Colombia in the 2026 FIFA World Cup. Follow for complete results from the Round of 16 match in Vancouver.",
+      "timestamp": "2026-07-08T17:14:29.912920Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/switzerland-colombia-world-cup-live-score-result-highlights/ba04c651549d5c0366776cb7"
+        }
+      ]
+    },
+    {
+      "title": "(VIDEO) How to Watch Argentina vs. Egypt Live: TV Channels, Streaming Options for Today's World Cup 2026 Match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina and Egypt face off in a World Cup Round of 16 match in Atlanta, featuring star players Messi and Salah. The winner advances to the quarterfinals, with Argentina favoured to win.",
+      "timestamp": "2026-07-08T17:14:29.912944Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ibtimes.com.au/argentina-vs-egypt-world-cup-round-16-atlanta-1871984"
+        }
+      ]
+    },
+    {
+      "title": "Bouctouche boy lives his FIFA dream as official match ball carrier before Portugal-Croatia match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Eleven-year-old Theo Labelle from Bouctouche, New Brunswick, fulfilled a major dream by serving as an official FIFA World Cup Match Ball Carrier at Toronto\u2019s BMO Field on July 2, 2026. Selected by Kia Canada for the role, Theo carried the match ball onto the \u2026",
+      "timestamp": "2026-07-08T17:14:29.912970Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/news/canada/new-brunswick/theo-labelle-official-match-ball-carrier-9.7261201"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026: Is Your Marketing Breaking the Law?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA World Cup 2026: Is Your Marketing Breaking the Law?youtube.com",
+      "timestamp": "2026-07-08T17:14:29.913074Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeMXwEd-g_3k"
+        }
+      ]
+    },
+    {
+      "title": "TST Best Bets: July 7, 2026",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The Round of 16 is in full swing as Lionel Messi and Argentina national football team continue their title defense against Egypt on Tuesday afternoon at Mercedes-Benz Stadium.",
+      "timestamp": "2026-07-08T17:14:29.913100Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thesportingtribune.com/2026/07/06/tst-best-bets--july-7-2026"
+        }
+      ]
+    },
+    {
+      "title": "How to Watch the Switzerland vs. Colombia FIFA World Cup Game Live for Free",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Switzerland haven't played a World Cup quarter-final since 1954. Can they beat Colombia to get there? Watch this exciting clash live using a streaming subscription or VPN.\nHow to watch for free: Today's match will air for free on global channels like BBC iPla\u2026",
+      "timestamp": "2026-07-08T17:14:29.913156Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/166037/how-to-watch-switzerland-vs-colombia-fifa-world-cup-game-live-for-free"
+        }
+      ]
+    },
+    {
+      "title": "World Cup 2026: FIFA condemns racist abuse directed at IShowSpeed during Argentina-Cape Verde match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The streamer was live streaming during the match when confronted by Argentina fans.",
+      "timestamp": "2026-07-08T17:14:29.913223Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-fifa-condemns-racist-abuse-directed-at-ishowspeed-during-argentina-cape-verde-match-154835015.html"
+        }
+      ]
+    },
+    {
+      "title": "Who will win the World Cup 2026? Favorites, rankings change after Round of 16 upsets",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Who will win World Cup 2026 now? Spain, Belgium surged into quarterfinals and Argentina plays today. See latest FIFA rankings, odds, and predictions.",
+      "timestamp": "2026-07-08T17:14:29.913246Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.northjersey.com/story/news/2026/07/07/who-will-win-the-world-cup-2026-updated-favorites-odds-predictions-latest-fifa-rankings/90832353007/"
+        }
+      ]
+    },
+    {
+      "title": "The Good, The Bad, And The Ugly Of The USMNT At The FIFA World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The U.S. Men's National Team enjoyed many highs and one big low at the 2026 FIFA Word Cup. That low led to their elimination by Belgium in the Round of 16.",
+      "timestamp": "2026-07-08T17:14:29.913265Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/michaellewis/2026/07/07/the-good-the-bad-and-the-ugly-of-the-usmnt-at-the-fifa-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "How to Watch the Argentina vs. Egypt FIFA World Cup Game Live for Free",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina have leaned heavily on Lionel Messi so far. Can he deliver again against Egypt to send the defending champions to the quarter-finals? Watch the action live using a streaming service or VPN to find out.\nHow to watch for free: Today's match will air f\u2026",
+      "timestamp": "2026-07-08T17:14:29.913338Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/166036/how-to-watch-argentina-vs-egypt-fifa-world-cup-game-live-stream-for-free"
+        }
+      ]
+    },
+    {
+      "title": "Who is still playing in the FIFA World Cup? Quarterfinals schedule",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The USMNT journey in the World Cup might be over, but the U.S. players are now headed to their club seasons. Here's where each of them play.",
+      "timestamp": "2026-07-08T17:14:29.913401Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.oklahoman.com/story/sports/soccer/2026/07/07/who-is-still-playing-in-the-world-cup-quarterfinals-schedule/90833043007/"
+        }
+      ]
+    },
+    {
+      "title": "What do the cheapest tickets cost for Spain vs. Belgium World Cup match in LA?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The cutthroat quarterfinals showdown is scheduled to take place July 10 at SoFi Stadium.",
+      "timestamp": "2026-07-08T17:14:29.913421Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/07/ticket-sales/what-do-the-cheapest-spain-vs-belgium-world-cup-tickets-cost/"
+        }
+      ]
+    },
+    {
+      "title": "Zohran Mamdani outclasses Donald Trump, has bigger impact on soccer",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The United States Men\u2019s National Team had a drama-filled weekend following a gutsy 2-0 win over Bosnia & Herzegovina in the round of 32 in the 2026 FIFA World Cup. The U.S.\u2019s top goal scorer, Folarin Balogun, was assessed a red card in the second half of the \u2026",
+      "timestamp": "2026-07-08T17:14:29.913502Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/zohran-mamdani-outclasses-donald-trump-has-bigger-impact-on-soccer.html"
+        }
+      ]
+    },
+    {
+      "title": "Sports media debates whether USMNT succeeded or disappointed the country",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The USMNT looked like one of the best teams in the 2026 FIFA World Cup when it was at full strength during the group stages. The squad looked just as impressive in the round of 32 against Bosnia & Herzegovina, which it defeated 2-0 despite a gutsy second-half\u2026",
+      "timestamp": "2026-07-08T17:14:29.913587Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/sports-media-debates-whether-usmnt-succeeded-or-disappointed.html"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026 matches today, 8 July (India time): Full schedule, kick-off timings, live fixtures & teams eyeing quarter-final spots",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The FIFA World Cup 2026 knockout stage continues with two final Round of 16 matches. Six teams have already secured their places in the quarter-finals of the tournament. Defending champions Argentina face Egypt in one of the crucial upcoming fixtures. Switzer\u2026",
+      "timestamp": "2026-07-08T17:14:29.913619Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-today-match-schedule-8th-july-fifa-world-cup-matches-today-india-time/articleshow/132242344.cms"
+        }
+      ]
+    },
+    {
+      "title": "Where to Watch Argentina vs Egypt World Cup 2026 Match Free Livestream",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Where to Watch Argentina vs Egypt World Cup 2026 Match Free Livestreamhollywoodreporter.com",
+      "timestamp": "2026-07-08T17:14:29.913636Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.hollywoodreporter.com/tv/tv-news/watch-argentina-egypt-world-cup-2026-match-live-stream-free-1236639886/"
+        }
+      ]
+    },
+    {
       "title": "Switzerland vs Colombia live stream: How to watch FIFA World Cup, odds, prediction, pick, lineups, channel",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The winners move on to face either Argentina or Egypt",
-      "timestamp": "2026-07-08T15:04:57.812003Z",
+      "timestamp": "2026-07-08T17:14:29.913704Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "From Malik Tillman free kick goals to fans singing \"Take Me Home, Country Roads,\" relive the top five USMNT moments from the 2026 World Cup.",
-      "timestamp": "2026-07-08T15:04:57.812082Z",
+      "timestamp": "2026-07-08T17:14:29.913753Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +542,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina face Egypt in a crucial Round of 16 duel at the 2026 World Cup, where Thiago Almada will start the match from the bench. Argentina face Egypt in the Round of 16 of the 2026 World Cup at Atlanta Stadium, and manager Lionel Scaloni has made a tactical\u2026",
-      "timestamp": "2026-07-08T15:04:57.812120Z",
+      "timestamp": "2026-07-08T17:14:29.913790Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +556,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA unveils the Trionda Final, the new official match ball for the 2026 World Cup semi-finals and final. Discover its gold, white, and black design.\n\nRead More: https://punchng.com/fifa-unveils-new-match-ball-for-world-cup-semi-finals-final/",
-      "timestamp": "2026-07-08T15:04:57.812183Z",
+      "timestamp": "2026-07-08T17:14:29.913881Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +570,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With Lionel Messi leading the defending champion and Mohamed Salah inspiring a historic Egyptian campaign, the outcome promises to have major implications. The 2026 World Cup Round of 16 continues with a blockbuster showdown between Argentina and Egypt. With \u2026",
-      "timestamp": "2026-07-08T15:04:57.812237Z",
+      "timestamp": "2026-07-08T17:14:29.913968Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +584,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Inter\u2019s Lautaro Martinez has been dropped in favour of Atletico Madrid\u2019s Julian Alvarez as reigning champions Argentina prepare to take on Egypt in the 2026",
-      "timestamp": "2026-07-08T15:04:57.812270Z",
+      "timestamp": "2026-07-08T17:14:29.914029Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +598,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup has a first-ever clash in store this Tuesday (7), with a place in the quarterfinals at stake.Starting at 1 p.m. (Bras\u00edlia time), Argentina and Egypt face off at Atlanta Stadiu...",
-      "timestamp": "2026-07-08T15:04:57.812303Z",
+      "timestamp": "2026-07-08T17:14:29.914083Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +612,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Join us for the Albiceleste\u2019s next knockout adventure!",
-      "timestamp": "2026-07-08T15:04:57.812324Z",
+      "timestamp": "2026-07-08T17:14:29.914116Z",
       "links": [
         {
           "label": "Source",
@@ -248,240 +626,421 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "It's Messi versus Salah for a place in the last eight.",
-      "timestamp": "2026-07-08T15:04:57.812350Z",
+      "timestamp": "2026-07-08T17:14:29.914159Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.cnet.com/tech/services-and-software/argentina-vs-egypt-stream-fifa-world-cup-2026-match-live-for-free/"
         }
       ]
-    },
-    {
-      "title": "Mauricio Pochettino Addresses USMNT World Cup Elimination: 'Wasn't Our Day'",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The United States Men's National Team suffered a devastating 4-1 loss to Belgium in the Round of 16, ending the team's run at the 2026 FIFA World Cup.\nHead coach Mauricio Pochettino reacted to the team's disjointed, poor performance after the game.\n\"From the \u2026",
-      "timestamp": "2026-07-08T15:04:57.812435Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/a042378bcc03cd17"
-        }
-      ]
-    },
-    {
-      "title": "ARG vs EGP, FIFA WC Live: Messi face Salah challenge with QF place at stake",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina vs Egypt Live Score, FIFA World Cup 2026 Round of 16: The FIFA World Cup quarter-final lineup will become clearer on Tuesday, with Lionel M",
-      "timestamp": "2026-07-08T15:04:57.812479Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/football/argentina-vs-egypt-fifa-world-cup-2026-argentina-vs-egypt-live-score-round-of-16-football-match-today-lionel-messi-mohamed-salah-knockout-clash-latest-updates/liveblog/132241586.cms"
-        }
-      ]
-    },
-    {
-      "title": "Christian Pulisic \u201cdisappointed in myself\u201d following lackluster USMNT exit",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The U.S. Men\u2019s National Team needed a signature Christian Pulisic performance if it wanted to reach the FIFA World Cup quarterfinals. Monday night was anything but one of them. Pulisic played just 59 minutes in the USMNT\u2019s 4-1 Round of 16 loss to Belgium at S\u2026",
-      "timestamp": "2026-07-08T15:04:57.812569Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sbisoccer.com/2026/07/christian-pulisic-disappointed-in-myself-following-lackluster-usmnt-exit"
-        }
-      ]
-    },
-    {
-      "title": "fifa-penalty-shootout-2026 added to PyPI",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Penalty shootout game based on FIFA World Cup 2026",
-      "timestamp": "2026-07-08T15:04:57.812733Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://pypi.org/project/fifa-penalty-shootout-2026/"
-        }
-      ]
-    },
-    {
-      "title": "Argentina vs Egypt FIFA World Cup 2026: Match time in India, live streaming and team details",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina vs Egypt FIFA World Cup 2026 live streaming, India match time: Defending champions Argentina will face Egypt in the FIFA World Cup 2026 Round of 16.  The match is scheduled for Tuesday, July 7, at Atlanta Stadium in Georgia.  Egypt reached the knock\u2026",
-      "timestamp": "2026-07-08T15:04:57.812914Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/argentina-vs-egypt-fifa-world-cup-2026-live-streaming-match-time-india-venue-team-news-match-preview/articleshow/132240020.cms"
-        }
-      ]
-    },
-    {
-      "title": "Argentina vs. Egypt live stream: How to watch FIFA World Cup, odds, prediction, pick, lineups",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi's Argentina will be back on Tuesday for their round of 16 tie",
-      "timestamp": "2026-07-08T15:04:57.813018Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/argentina-vs-egypt-live-stream-how-to-watch-fifa-world-cup-odds-prediction-pick-lineups/"
-        }
-      ]
-    },
-    {
-      "title": "How to watch Argentina vs Egypt: Free Streams, TV Channels & Kick-Off time for FIFA World Cup 2026 as Lionel Messi continues quest for glory",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here's how to watch Argentina vs Egypt for free online and from anywhere at the FIFA World Cup 2026, as Lionel Messi and Co. aim to seal a quarter-final place.",
-      "timestamp": "2026-07-08T15:04:57.813037Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/how-to-watch/football/argentina-vs-egypt-world-cup-2026-free"
-        }
-      ]
-    },
-    {
-      "title": "How to live stream Argentina vs Egypt for free without cable: World Cup, TV channel",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina and Egypt meet in one of the marquee Round of 16 matches at the 2026 FIFA World Cup, with kickoff set for 12:00 p.m. ET in Atlanta. The winner advances to the quarterfinals to face the winner of Switzerland\u2026",
-      "timestamp": "2026-07-08T15:04:57.813112Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f33f8e09-2b0f-46bc-bb45-3de74455620a"
-        }
-      ]
-    },
-    {
-      "title": "How to Watch the 2026 FIFA World Cup Live Without Cable (and Even for Free)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Round of 16 is nearly over. Which remaining teams will secure a place in the quarter-finals? Watch the action live with the right streaming service or VPN.\nEvery four years, fans from around the globe pack stadiums, living rooms, and bars to cheer on thei\u2026",
-      "timestamp": "2026-07-08T15:04:57.813138Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/161984/how-to-watch-2026-fifa-world-cup-games-live-stream-for-free-july-7"
-        }
-      ]
-    },
-    {
-      "title": "How to Watch the Switzerland vs. Colombia FIFA World Cup Game Live for Free",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Switzerland haven't played a World Cup quarter-final since 1954. Can they beat Colombia to get there? Watch this exciting clash live using a streaming subscription or VPN.\nWe're into the final game of the Round of 16 at the FIFA World Cup, as Switzerland take\u2026",
-      "timestamp": "2026-07-08T15:04:57.813175Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/166037/how-to-watch-the-switzerland-vs-colombia-fifa-world-cup-game-live-for-free"
-        }
-      ]
-    },
-    {
-      "title": "Mauricio Pochettino not focused on USMNT contract yet: \u201cNow is not a moment to talk about that\u201d",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Mauricio Pochettino\u2019s contract as U.S. Men\u2019s National Team head coach is due to expire following the 2026 FIFA World Cup and the Argentine did not reveal any update on what\u2019s next for him. Pochettino watched as his USMNT squad suffered a 4-1 humbling at the h\u2026",
-      "timestamp": "2026-07-08T15:04:57.813201Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sbisoccer.com/2026/07/mauricio-pochettino-not-focused-on-usmnt-contract-yet-now-is-not-a-moment-to-talk-about-that"
-        }
-      ]
-    },
-    {
-      "title": "Belgium players say Balogun saga drove them to beat the USA",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Belgium\u2019s emphatic 4-1 victory over the United States this Monday (6), in the Round of 16 of the 2026 FIFA World Cup, was marked by the episode involving the overturning of a red card for a U.S. pla...",
-      "timestamp": "2026-07-08T15:04:57.813222Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/belgium-players-say-balogun-saga-spurred-them-to-beat-usa-43108423"
-        }
-      ]
-    },
-    {
-      "title": "How to Watch the Argentina vs. Egypt FIFA World Cup Game Live for Free",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina have leaned heavily on Lionel Messi so far. Can he deliver again against Egypt to send the defending champions to the quarter-finals? Watch the action live using a streaming service or VPN to find out.\nIt's the final day of the Round of 16 ties at t\u2026",
-      "timestamp": "2026-07-08T15:04:57.813246Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/166036/how-to-watch-the-argentina-vs-egypt-fifa-world-cup-game-live-for-free"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026 results: Who won yesterday's match between Portugal and Spain?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain advanced to the FIFA World Cup 2026 quarter-finals after a narrow 1-0 victory over Portugal. Mikel Merino scored a dramatic injury-time goal to secure the win for Spain. This defeat marked the end of Cristiano Ronaldo's World Cup journey and Portugal's \u2026",
-      "timestamp": "2026-07-08T15:04:57.813272Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-results-who-won-yesterdays-match-between-portugal-and-spain/articleshow/132239981.cms"
-        }
-      ]
-    },
-    {
-      "title": "AS Monaco draw up striker shortlist in anticipation of Folarin Balogun sale",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "AS Monaco are anticipating the sale of Folarin Balogun this summer. Even prior to his strong performances at the 2026 FIFA World Cup with the USMNT, interest was expected and the Principality club, wh...",
-      "timestamp": "2026-07-08T15:04:57.813424Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.getfootballnewsfrance.com/2026/as-monaco-draw-up-striker-shortlist-in-anticipation-of-folarin-balogun-sale/"
-        }
-      ]
-    },
-    {
-      "title": "Watch World Cup Day 26: Co-hosts USA and Ronaldo\u2019s Portugal eliminated",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-      "timestamp": "2026-07-08T15:04:57.813490Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/video/2026/7/7/video-world-cup-2026-highlights"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Alvarez starts as Argentina make three changes for Egypt clash - Reuters",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184344698"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Vancouver",
+      "event": "How to watch Switzerland vs Colombia: Free Streams, TV Channels & Kick-Off time for FIFA World Cup 2026 last-16 clash in Vancouver",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/how-to-watch/football/switzerland-vs-colombia-world-cup-2026-free"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Vancouver",
+      "event": "How to live stream Colombia vs Switzerland for free without cable: World Cup, TV channel",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thebiglead.com/how-to-live-stream-colombia-vs-switzerland-for-free-without-cable-world-cup-tv-channel/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Robert Griffin III blames U.S. citizens for USMNT loss to Belgium",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/robert-griffin-iii-blames-us-citizens-for-usmnt-loss-to-belgium.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Lionel Messi fails to convert penalty for second time in World Cup, seeing Egypt shot saved",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/07/lionel-messi-penalty-kick-miss-world-cup-argentina-egypt/90835274007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Switzerland vs. Colombia odds, prediction, time: 2026 World Cup Round of 16 picks by expert on 25-16 run",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/switzerland-colombia-odds-prediction-time-2026-world-cup-round-of-16-picks/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026: Messi starts, Lautaro benched as Argentina make three changes against Egypt",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-messi-starts-lautaro-benched-as-argentina-make-three-changes-against-egypt/articleshow/132243546.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Vancouver",
+      "event": "Where is the World Cup round of 16 match between Switzerland and Colombia?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/07/where-world-cup-game-switzerland-colombia/90834529007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "FIFA World Cup: Egypt Stun Argentina with Early Lead",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/fifa-world-cup-egypt-stun-argentina-with-early-lead/20260707.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Zohran Mamdani does not hold back on Donald Trump, Folarin Balogun after loss to Belgium",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0a7fd86b-9edb-4838-98ca-747a895ed91f"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "The World Cup is coming to an end. Who's ahead and when are the games?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.app.com/story/news/2026/07/07/world-cup-schedule-ahead-teams-remaining-what-to-know/90833742007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Vancouver",
+      "event": "Switzerland vs. Colombia live score, result, highlights from 2026 World Cup knockout game",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/switzerland-colombia-world-cup-live-score-result-highlights/ba04c651549d5c0366776cb7"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "(VIDEO) How to Watch Argentina vs. Egypt Live: TV Channels, Streaming Options for Today's World Cup 2026 Match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ibtimes.com.au/argentina-vs-egypt-world-cup-round-16-atlanta-1871984"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Toronto",
+      "event": "Bouctouche boy lives his FIFA dream as official match ball carrier before Portugal-Croatia match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/news/canada/new-brunswick/theo-labelle-official-match-ball-carrier-9.7261201"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026: Is Your Marketing Breaking the Law?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeMXwEd-g_3k"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Atlanta",
+      "event": "TST Best Bets: July 7, 2026",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thesportingtribune.com/2026/07/06/tst-best-bets--july-7-2026"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "How to Watch the Switzerland vs. Colombia FIFA World Cup Game Live for Free",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/166037/how-to-watch-switzerland-vs-colombia-fifa-world-cup-game-live-for-free"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "World Cup 2026: FIFA condemns racist abuse directed at IShowSpeed during Argentina-Cape Verde match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-fifa-condemns-racist-abuse-directed-at-ishowspeed-during-argentina-cape-verde-match-154835015.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Who will win the World Cup 2026? Favorites, rankings change after Round of 16 upsets",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.northjersey.com/story/news/2026/07/07/who-will-win-the-world-cup-2026-updated-favorites-odds-predictions-latest-fifa-rankings/90832353007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "The Good, The Bad, And The Ugly Of The USMNT At The FIFA World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/michaellewis/2026/07/07/the-good-the-bad-and-the-ugly-of-the-usmnt-at-the-fifa-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "How to Watch the Argentina vs. Egypt FIFA World Cup Game Live for Free",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/166036/how-to-watch-argentina-vs-egypt-fifa-world-cup-game-live-stream-for-free"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Who is still playing in the FIFA World Cup? Quarterfinals schedule",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.oklahoman.com/story/sports/soccer/2026/07/07/who-is-still-playing-in-the-world-cup-quarterfinals-schedule/90833043007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Los Angeles",
+      "event": "What do the cheapest tickets cost for Spain vs. Belgium World Cup match in LA?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/07/ticket-sales/what-do-the-cheapest-spain-vs-belgium-world-cup-tickets-cost/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Zohran Mamdani outclasses Donald Trump, has bigger impact on soccer",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/zohran-mamdani-outclasses-donald-trump-has-bigger-impact-on-soccer.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Sports media debates whether USMNT succeeded or disappointed the country",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/sports-media-debates-whether-usmnt-succeeded-or-disappointed.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026 matches today, 8 July (India time): Full schedule, kick-off timings, live fixtures & teams eyeing quarter-final spots",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-today-match-schedule-8th-july-fifa-world-cup-matches-today-india-time/articleshow/132242344.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 08",
+      "loc": "Global",
+      "event": "Where to Watch Argentina vs Egypt World Cup 2026 Match Free Livestream",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.hollywoodreporter.com/tv/tv-news/watch-argentina-egypt-world-cup-2026-match-live-stream-free-1236639886/"
+        }
+      ]
+    },
     {
       "date": "Jul 08",
       "loc": "Global",
@@ -616,247 +1175,7 @@
           "url": "https://www.cnet.com/tech/services-and-software/argentina-vs-egypt-stream-fifa-world-cup-2026-match-live-for-free/"
         }
       ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Mauricio Pochettino Addresses USMNT World Cup Elimination: 'Wasn't Our Day'",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/a042378bcc03cd17"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "ARG vs EGP, FIFA WC Live: Messi face Salah challenge with QF place at stake",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/football/argentina-vs-egypt-fifa-world-cup-2026-argentina-vs-egypt-live-score-round-of-16-football-match-today-lionel-messi-mohamed-salah-knockout-clash-latest-updates/liveblog/132241586.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Christian Pulisic \u201cdisappointed in myself\u201d following lackluster USMNT exit",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sbisoccer.com/2026/07/christian-pulisic-disappointed-in-myself-following-lackluster-usmnt-exit"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "fifa-penalty-shootout-2026 added to PyPI",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://pypi.org/project/fifa-penalty-shootout-2026/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Argentina vs Egypt FIFA World Cup 2026: Match time in India, live streaming and team details",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/argentina-vs-egypt-fifa-world-cup-2026-live-streaming-match-time-india-venue-team-news-match-preview/articleshow/132240020.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Argentina vs. Egypt live stream: How to watch FIFA World Cup, odds, prediction, pick, lineups",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/argentina-vs-egypt-live-stream-how-to-watch-fifa-world-cup-odds-prediction-pick-lineups/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "How to watch Argentina vs Egypt: Free Streams, TV Channels & Kick-Off time for FIFA World Cup 2026 as Lionel Messi continues quest for glory",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/how-to-watch/football/argentina-vs-egypt-world-cup-2026-free"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "How to live stream Argentina vs Egypt for free without cable: World Cup, TV channel",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f33f8e09-2b0f-46bc-bb45-3de74455620a"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "How to Watch the 2026 FIFA World Cup Live Without Cable (and Even for Free)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/161984/how-to-watch-2026-fifa-world-cup-games-live-stream-for-free-july-7"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "How to Watch the Switzerland vs. Colombia FIFA World Cup Game Live for Free",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/166037/how-to-watch-the-switzerland-vs-colombia-fifa-world-cup-game-live-for-free"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Mauricio Pochettino not focused on USMNT contract yet: \u201cNow is not a moment to talk about that\u201d",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sbisoccer.com/2026/07/mauricio-pochettino-not-focused-on-usmnt-contract-yet-now-is-not-a-moment-to-talk-about-that"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Belgium players say Balogun saga drove them to beat the USA",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/belgium-players-say-balogun-saga-spurred-them-to-beat-usa-43108423"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "How to Watch the Argentina vs. Egypt FIFA World Cup Game Live for Free",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/166036/how-to-watch-the-argentina-vs-egypt-fifa-world-cup-game-live-for-free"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026 results: Who won yesterday's match between Portugal and Spain?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-results-who-won-yesterdays-match-between-portugal-and-spain/articleshow/132239981.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "AS Monaco draw up striker shortlist in anticipation of Folarin Balogun sale",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.getfootballnewsfrance.com/2026/as-monaco-draw-up-striker-shortlist-in-anticipation-of-folarin-balogun-sale/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 08",
-      "loc": "Global",
-      "event": "Watch World Cup Day 26: Co-hosts USA and Ronaldo\u2019s Portugal eliminated",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/video/2026/7/7/video-world-cup-2026-highlights"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-08T15:04:57.813636Z"
+  "lastUpdated": "2026-07-08T17:14:29.914416Z"
 }
