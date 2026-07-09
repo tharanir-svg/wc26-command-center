@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 0,
-    "p2": 1,
-    "p3": 34
+    "p1": 1,
+    "p2": 0,
+    "p3": 32
   },
   "watchlist": [
     {
@@ -131,12 +131,320 @@
   ],
   "risks": [
     {
+      "title": " Brasileir\u00e3o has just one team left in the World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup began with a historic record for Brazilian football: 32 players from Brasileir\u00e3o clubs were called up for the tournament, surpassing the previous mark of 27 athletes set in 19...",
+      "timestamp": "2026-07-09T09:22:48.876427Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/brasileirao-has-just-one-team-left-in-the-world-cup-43112062"
+        }
+      ]
+    },
+    {
+      "title": "Norway, Morocco reach World Cup quarter-finals for first time",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Norway and Morocco have both reached the FIFA World Cup quarter-finals for the first time ever, marking a historic achievement in the 2026 tournament.\n\nRead More: https://punchng.com/norway-morocco-reach-world-cup-quarter-finals-for-first-time/",
+      "timestamp": "2026-07-09T09:22:48.876486Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/norway-morocco-reach-world-cup-quarter-finals-for-first-time/"
+        }
+      ]
+    },
+    {
+      "title": "USMNT World Cup prize money revealed as U.S. Soccer to split it with the women team",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "After crashing out in the Round of 16 at the 2026 World Cup, we can now see the breakdown of how much the USMNT earned at the tournament. Hosting the World Cup brings a massive financial windfall to America in itself, boosting the economy by over $17 billion.",
+      "timestamp": "2026-07-09T09:22:48.876519Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/usmnt-world-cup-prize-money-revealed-as-u-s-soccer-to-split-it-with-the-women-team/"
+        }
+      ]
+    },
+    {
+      "title": "Watch World Cup Day 27: Egypt exits after controversial loss to Argentina",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+      "timestamp": "2026-07-09T09:22:48.876553Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/video/2026/7/8/video-world-cup-2026-highlights"
+        }
+      ]
+    },
+    {
+      "title": "How did people get around Toronto during the World Cup? Here's what the data shows",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "More people took up walking, cycling and transit to get around the city when it hosted the 2026 World Cup, data obtained by CBC News from the city, TTC and Bike Share shows.",
+      "timestamp": "2026-07-09T09:22:48.876587Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/news/canada/toronto/toronto-world-cup-match-day-transit-9.7261526"
+        }
+      ]
+    },
+    {
+      "title": "Hisense Makes Home the Best Seat for the FIFA World Cup 2026\u2122",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "QINGDAO, China, July 8, 2026 /PRNewswire/ -- Hisense, a leading brand in global consumer electronics and home appliances, is redefining how football fans experience the FIFA World Cup 2026TM at home through its latest laser display innovations. Designed to de\u2026",
+      "timestamp": "2026-07-09T09:22:48.876619Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/hisense-makes-home-the-best-seat-for-the-fifa-world-cup-2026-302820485.html"
+        }
+      ]
+    },
+    {
+      "title": "Hisense Makes Home the Best Seat for the FIFA World Cup 2026\u2122",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "QINGDAO, China, July 8, 2026 /PRNewswire/ -- Hisense, a leading brand in global consumer electronics and home appliances, is redefining how football fans experience the FIFA World Cup 2026TM at home through its latest laser display innovations. Designed to de\u2026",
+      "timestamp": "2026-07-09T09:22:48.876644Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/hisense-makes-home-the-best-seat-for-the-fifa-world-cup-2026-302820462.html"
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Which teams made the quarterfinals, and what\u2019s the schedule?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Complete FIFA World Cup 2026 quarterfinals lineup, with match start times and venue locations inside the United States.",
+      "timestamp": "2026-07-09T09:22:48.876736Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/8/world-cup-which-teams-made-the-quarterfinals-and-whats-the-schedule"
+        }
+      ]
+    },
+    {
+      "title": "Mexico fan gifted English supporter his Merlin the duck plushie in touching moment at Azteca",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Mexico were one of the three hosts of the 2026 World Cup, and just like Canada and the United States, they have exited the competition before the quarter-finals. They met England in a Round of 16 tie, which Mexico likely fancied their chances of winning, give\u2026",
+      "timestamp": "2026-07-09T09:22:48.876783Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/mexico-fan-gifted-english-supporter-his-merlin-the-duck-plushie-in-touching-moment-at-azteca/"
+        }
+      ]
+    },
+    {
+      "title": "How three African teams throw away leads, crash out of World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Three African teams, Egypt, Senegal, and DR Congo, faced heartbreak in the 2026 World Cup, surrendering leads and crashing out of the tournament.\n\nRead More: https://punchng.com/how-three-african-teams-throw-away-leads-crash-out-of-world-cup/",
+      "timestamp": "2026-07-09T09:22:48.876847Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/how-three-african-teams-throw-away-leads-crash-out-of-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup 2026 quarterfinals: Full schedule and Egypt FIFA dispute",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "World Cup quarterfinals are set, with eight teams advancing as Egypt\u2019s FIFA controversy and VAR decisions prompt debate.",
+      "timestamp": "2026-07-09T09:22:48.876908Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/news/2026/7/8/world-cup-2026-quarterfinals-full-schedule-and-egypt-fifa-dispute"
+        }
+      ]
+    },
+    {
+      "title": "Liverpool and Arsenal enquire about Mexico wonderkid Mora",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Liverpool have made an enquiry about the prospect of signing 17-year-old Mexico midfielder Gilberto Mora from Club Tijuana.Mora made four appearances for co-hosts Mexico at the 2026 FIFA World Cup thi...",
+      "timestamp": "2026-07-09T09:22:48.877083Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7a36efc8-5cc9-412d-839a-8a38d0a42ca5"
+        }
+      ]
+    },
+    {
+      "title": "Real Madrid midfielder one yellow card away from missing potential World Cup semi-final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Jude Bellingham has been one of England\u2019s standout performers at the 2026 FIFA World Cup, but the Real Madrid midfielder now heads into one of the biggest matches of the tournament carrying an added...",
+      "timestamp": "2026-07-09T09:22:48.877163Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/real-madrid-midfielder-one-yellow-card-away-from-missing-potential-world-cup-semi-final/"
+        }
+      ]
+    },
+    {
+      "title": "Explained: Why the 2026 World Cup is on a one-day break",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Football fans will have to wait another day for 2026 FIFA World Cup action, as Wednesday marks the tournament\u2019s first scheduled break since the knockout stage began. After weeks of near-daily fixtures across the United States, Canada and Mexico, FIFA has paus\u2026",
+      "timestamp": "2026-07-09T09:22:48.877226Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/explained-why-the-2026-world-cup-is-on-a-one-day-break/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup: 2 countries make quarter final first time in history",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup has produced another historic milestone, with Norway and Morocco reaching the quarter-finals for the first time in their history.\nThe post World Cup: 2 countries make quarter final first time in history appeared first on Vanguard News.",
+      "timestamp": "2026-07-09T09:22:48.877308Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/world-cup-2-countries-make-quarter-final-first-time-in-history/"
+        }
+      ]
+    },
+    {
+      "title": "Zohran Mamdani admits what FIFA have done just \u2018doesn\u2019t make sense\u2019 at 2026 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Mayor of New York City Zohran Mamdani has played a huge role in securing affordable World Cup tickets for people in his city. The 34-year-old is a huge soccer fan and has shown his knowledge of the game throughout his time as mayor.",
+      "timestamp": "2026-07-09T09:22:48.877408Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/zohran-mamdani-admits-what-fifa-have-done-just-doesnt-make-sense-at-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Cup: Why I cried after Argentina defeated Egypt \u2013 Messi",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina captain Lionel Messi has explained why he broke down in tears after his side secured a dramatic 3-2 victory over Egypt to reach the quarter-finals of the 2026 FIFA World Cup.\nThe post 2026 World Cup: Why I cried after Argentina defeated Egypt \u2013 Mess\u2026",
+      "timestamp": "2026-07-09T09:22:48.877552Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/2026-world-cup-why-i-cried-after-argentina-defeated-egypt-messi/"
+        }
+      ]
+    },
+    {
+      "title": "Fabrizio Romano issues update on Man City pursuit of Enzo Fernandez after Real Madrid snub",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "There has been no further movement between Enzo Fernandez & Man City for a potential transferAny additional discussions will have to wait until after the conclusion of the FIFA World CupA move to the ...",
+      "timestamp": "2026-07-09T09:22:48.877610Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cityxtra.co.uk/49627/fabrizio-romano-issues-update-on-man-city-pursuit-of-enzo-fernandez-after-real-madrid-snub/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup Golden Boot Race: Messi edges in front of Mbappe and Haaland",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lionel Messi leads the Golden Boot race at the FIFA World Cup 2026 after being briefly pegged back by Kylian Mbappe and Erling Haaland.\u00a0Mbappe scored the only goal of a testy game between France and ...",
+      "timestamp": "2026-07-09T09:22:48.877643Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thefootballfaithful.com/world-cup-2026-golden-boot-race-messi-mbappe-haaland-kane/"
+        }
+      ]
+    },
+    {
+      "title": "Real Madrid talent\u2019s future once again in focus after disappointing World Cup campaign",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The latest Real Madrid news has centred around Endrick, with the Brazilian youngster returning to Spain after a frustrating 2026 FIFA World Cup campaign.\u00a0The 19-year-old forward leaves the tournament...",
+      "timestamp": "2026-07-09T09:22:48.877812Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/real-madrid-talents-future-once-again-in-focus-after-disappointing-world-cup-campaign/"
+        }
+      ]
+    },
+    {
+      "title": "Argentina\u2019s fan token surges as Messi leads 2026 World Cup scoring despite missing 2 penalties",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Messi's World Cup performance boosts $ARG token, highlighting the growing financial impact of sports achievements on digital assets.\nThe post Argentina\u2019s fan token surges as Messi leads 2026 World Cup scoring despite missing 2 penalties appeared first on Cryp\u2026",
+      "timestamp": "2026-07-09T09:22:48.877978Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cryptobriefing.com/messi-world-cup-arg-fan-token-surge/"
+        }
+      ]
+    },
+    {
+      "title": "Messi inspires epic Argentina fightback as Mbappe breaks silence on racist attack",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup quarter-final line-up is now complete, with the round of 16 delivering no shortage of drama, heartbreak and unforgettable moments.In addition to all three co-host nations, Braz...",
+      "timestamp": "2026-07-09T09:22:48.878021Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/07/08/world-cup-2026-argentina-messi-france-mbappe-portugal-martinez/"
+        }
+      ]
+    },
+    {
       "title": " La Pulga still has fire! Messi explains his emotional outburst",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After the last-minute 3-2 win over Egypt in the World Cup round of 16, emotions overwhelmed him. Lionel Messi, his face covered in tears, walked across the pitch at Mercedes-Benz Stadium in Atlanta an...",
-      "timestamp": "2026-07-09T06:01:56.125028Z",
+      "timestamp": "2026-07-09T09:22:48.878155Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Key talking points as Kylian Mbappe leads France into a rematch after Les Bleus beat Morocco in the 2022 World Cup.",
-      "timestamp": "2026-07-09T06:01:56.125127Z",
+      "timestamp": "2026-07-09T09:22:48.878237Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Now that the last whistle has blown, will the Emerald City ever host something as massive as the World Cup again?",
-      "timestamp": "2026-07-09T06:01:56.125166Z",
+      "timestamp": "2026-07-09T09:22:48.878283Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The world\u2019s best have delivered big at this year\u2019s tournament.",
-      "timestamp": "2026-07-09T06:01:56.125240Z",
+      "timestamp": "2026-07-09T09:22:48.878378Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After 27 straight days of action at the 2026 World Cup, there will be no matches on Wednesday, July 8. For nearly a month, the 2026 World Cup has been a daily habit for fans, with a match to follow every single day since the tournament\u2019s opening in Mexico Cit\u2026",
-      "timestamp": "2026-07-09T06:01:56.125272Z",
+      "timestamp": "2026-07-09T09:22:48.878421Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Award-winning Ghanaian dancehall artiste Stonebwoy has called on Ghanaians to continue backing the Black Stars following the team\u2019s exit from the 2026 FIFA World Cup, urging supporters to show empathy rather than subject the players to relentless criticism. S\u2026",
-      "timestamp": "2026-07-09T06:01:56.125328Z",
+      "timestamp": "2026-07-09T09:22:48.878488Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This article features our predicted lineups for the quarter-finals of the 2026 FIFA World Cup, making it a useful resource for Fantasy World Cup managers looking for likely starters, key players and p...",
-      "timestamp": "2026-07-09T06:01:56.125417Z",
+      "timestamp": "2026-07-09T09:22:48.878605Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +542,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With all the thrilling Round of 16 matches of the 2026 FIFA World Cup concluding yesterday (July 7), today has been set aside as a rest and preparation day for the teams. With no matches scheduled for today, all teams are focusing on their physical fitness an\u2026",
-      "timestamp": "2026-07-09T06:01:56.125449Z",
+      "timestamp": "2026-07-09T09:22:48.878650Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +556,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After a strong World Cup run ended with an embarrassing loss, the United States Men\u2019s National Team looks ahead with uncertainty.",
-      "timestamp": "2026-07-09T06:01:56.125553Z",
+      "timestamp": "2026-07-09T09:22:48.878769Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +570,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "USA TODAY's Jon Arnold and former USWNT player Lori Lindsey share their thoughts on the United States being knocked out of the World Cup by Belgium.",
-      "timestamp": "2026-07-09T06:01:56.125613Z",
+      "timestamp": "2026-07-09T09:22:48.878905Z",
       "links": [
         {
           "label": "Source",
@@ -276,352 +584,346 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Hossam Hassan complained about Francois Letexier after Egypt lost to Argentina as the manager made claims about the referee. There were many dramatic matches in the Round of 16 of the 2026 World Cup, but none was more memorable than Argentina\u2019s 3-2 victory ov\u2026",
-      "timestamp": "2026-07-09T06:01:56.125647Z",
+      "timestamp": "2026-07-09T09:22:48.878957Z",
       "links": [
         {
           "label": "Source",
           "url": "https://worldsoccertalk.com/world-cup/i-thought-maybe-he-was-hiding-something-hossam-hassan-blasts-letexier-after-egypt-lose-to-argentina/"
         }
       ]
-    },
-    {
-      "title": "World Cup Legacy Index: Which Stars Have the Most at Stake in 2026?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "How much would a 2026 World Cup title change the legacies of Lionel Messi, Cristiano Ronaldo, Kylian Mbappe, Harry Kane, and more? We rank the players with the most at stake.",
-      "timestamp": "2026-07-09T06:01:56.125694Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.covers.com/world-cup/legacy-index-2026"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026 quarterfinals set for blockbuster clashes",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "KATHMANDU: The quarterfinal lineup for the ongoing FIFA World Cup 2026 has been finalized following Argentina\u2019s dramatic comeback victory over Egypt and Switzerland\u2019s penalty shootout win against Colombia after a goalless draw. The last-eight stage promises a\u2026",
-      "timestamp": "2026-07-09T06:01:56.125725Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.khabarhub.com/2026/08/557499/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026: Who won yesterday's matches? Argentina, Spain and Belgium book quarterfinal spots",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina secured a thrilling comeback win against Egypt to advance. Spain narrowly defeated Portugal, ending Cristiano Ronaldo's World Cup journey. Belgium decisively beat the United States with a strong performance. These victories propelled Argentina, Spai\u2026",
-      "timestamp": "2026-07-09T06:01:56.125888Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-who-won-yesterdays-matches-argentina-spain-and-belgium-book-quarterfinal-spots/articleshow/132251628.cms"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026 Quarterfinal Fixtures: Full schedule, teams, date, time and match details",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The FIFA World Cup 2026 quarterfinal matchups are now set. Argentina and Switzerland secured the final two spots in the tournament's final eight. France will face Morocco in the opening quarterfinal match. Spain will take on Belgium in the second quarterfinal\u2026",
-      "timestamp": "2026-07-09T06:01:56.125935Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-quarterfinal-fixtures-full-schedule-teams-date-time-and-match-details/articleshow/132251510.cms"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup expanded field adds hype with March Madness vibes",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup is already the biggest sporting event on the planet, but this summer\u2019s soccer tournament has an even larger feel that rivals college basketball\u2019s March Madness. FIFA may be greedy in many ways, but decided to\u2026",
-      "timestamp": "2026-07-09T06:01:56.126013Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/fifa-world-cup-expanded-field-adds-hype-march-madness-vibes/"
-        }
-      ]
-    },
-    {
-      "title": "2026 World Cup Round Of 16 Power Rankings",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The FOX Sports World Cup NOW analysts break down and rank the eight remaining teams ahead of the World Cup quarterfinals.",
-      "timestamp": "2026-07-09T06:01:56.126053Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-round-16-power-rankings"
-        }
-      ]
-    },
-    {
-      "title": "Egypt coach rails against FIFA following Argentina loss: \u2018There\u2019s no justice in this competition\u2019",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Egyptian men\u2019s soccer team thinks a higher power interceded in their 3-2 loss to Argentina in the 2026 FIFA World Cup Round of 16. Not God, perhaps, but FIFA. The African side was up 1-0 when Haissem Hassan passed the ball to Mo Salah, who slid it over to\u2026",
-      "timestamp": "2026-07-09T06:01:56.126139Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/egypt-coach-fifa-argentina-loss-var-goal-justice-competition.html"
-        }
-      ]
-    },
-    {
-      "title": "PIX: Messi Weeps After Argentina's Great Escape",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "An emotional Lionel Messi broke down in tears after inspiring Argentina to a remarkable 3-2 comeback victory over Egypt, sending the defending champions into the quarterfinals of the FIFA World Cup 2026 after they had stared at a shock exit.",
-      "timestamp": "2026-07-09T06:01:56.126168Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/fifa-world-cup-2026-pix-messi-weeps-after-argentinas-great-escape/20260708.htm"
-        }
-      ]
-    },
-    {
-      "title": "World Cup Quarterfinal Star Players in Sharks Terms",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Once every four years, sports fans from across North America tune into soccer at a much higher rate to watch a battle of star players from around the world compete at the FIFA World Cup. Many of those sports fans know next to nothing about the players taking \u2026",
-      "timestamp": "2026-07-09T06:01:56.126203Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thehockeynews.com/nhl/san-jose-sharks/latest-news/world-cup-quarterfinal-star-players-in-sharks-terms"
-        }
-      ]
-    },
-    {
-      "title": "World Cup Roundup: Lionel Messi Moves On, Switzerland Continues To Surprise",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here is the best from Day 27 of the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-09T06:01:56.126220Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/world-cup-roundup-lionel-messi-moves-on-switzerland-continues-surprise"
-        }
-      ]
-    },
-    {
-      "title": "FIFA opens investigation into Argentina fans\u2019 racist taunts toward streamer iShowSpeed",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "While broadcasting in-stadium for each of Argentina\u2019s past two games in the FIFA World Cup, streamer iShowSpeed has faced racist taunts from the South American country\u2019s fans. Now, FIFA has reportedly opened an investigation into the fans\u2019 behavior. The most \u2026",
-      "timestamp": "2026-07-09T06:01:56.126252Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/news/fifa-investigation-argentina-fans-racist-taunts-ishowspeed.html"
-        }
-      ]
-    },
-    {
-      "title": "Switzerland Prevails: 4 Takeaways From Swiss' Penalty Kicks Win vs. Colombia",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Switzerland has moved into the quarterfinals at the 2026 FIFA World Cup. Here are four takeaways from its triumph over Colombia.",
-      "timestamp": "2026-07-09T06:01:56.126421Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/switzerland-colombia-world-cup-penalty-kicks-takeaways"
-        }
-      ]
-    },
-    {
-      "title": "Boniface salutes Neymar, Ronaldo after World Cup exits",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "Super Eagles forward Victor Boniface has paid tribute to Brazilian star Neymar and Portugal captain Cristiano Ronaldo following their respective exits from the 2026 FIFA World Cup, PUNCH Sports Extra reports. The Bayer Leverkusen striker shared a picture of N\u2026",
-      "timestamp": "2026-07-09T06:01:56.126449Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/boniface-salutes-neymar-ronaldo-after-world-cup-exits/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026 Round of 16 Argentina Vs Egypt 1080p HDTV H264-DARKSPORT",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Links: HOMEPAGE\u00a0\u2013 TV.comFIFA.World.Cup.2026.Round.Of.16.Argentina.Vs.Egypt.1080p.HDTV.H264-DARKSPORTMKV | AC3 / dolby digital | 5.05GBNFO \u2013 Subtitles \u2013 Screenshot \u2013 Torrent \u2013 NiTROFLARE \u2013 RAPiDGATORSingle File RAR: RAPiDGATOR BackupFIFA.World.Cup.2026.Round.O\u2026",
-      "timestamp": "2026-07-09T06:01:56.126592Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://post.rlsbb.cc/fifa-world-cup-2026-round-of-16-argentina-vs-egypt-1080p-hdtv-h264-darksport/"
-        }
-      ]
-    },
-    {
-      "title": "Winners and Losers of the FIFA World Cup Round of 16",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The FIFA World Cup Round of 16 was full of stars, drama, and controversy.",
-      "timestamp": "2026-07-09T06:01:56.126621Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bavarianfootballworks.com/road-to-the-cup/225928/winners-and-losers-of-the-fifa-world-cup-round-of-16"
-        }
-      ]
-    },
-    {
-      "title": "Heat is only half the story - the 2026 World Cup is stress-testing how we design and build our stadiums",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The World Cup is revealing the complexity and trade-offs of stadium design as more than one third of matches are rated high risk for dangerously hot and humid conditions.The US-based tournament is being played across open-air, enclosed, climate-controlled, hi\u2026",
-      "timestamp": "2026-07-09T06:01:56.126663Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://archinect.com/firms/release/17094732/heat-is-only-half-the-story-the-2026-world-cup-is-stress-testing-how-we-design-and-build-our-stadiums/150551217"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026 quarter-final fixtures as last-eight decided",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The FIFA World Cup 2026 has reached the quarter-final stage as the final eight teams get ready to do battle.\u00a0England, following their dramatic 3-2 win over Mexico at the Azteca, will take on Norway a...",
-      "timestamp": "2026-07-09T06:01:56.126693Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thefootballfaithful.com/world-cup-2026-quarter-final-fixtures/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup quarterfinals. Who made final 8 teams, schedule, odds",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup reaches the quarterfinals with the final 8 teams. Who are they, when to they play, what are their odds?",
-      "timestamp": "2026-07-09T06:01:56.126785Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.elpasotimes.com/story/sports/soccer/2026/07/07/2026-fifa-world-cup-quarterfinals-who-is-alive-what-are-their-odds/90841022007/"
-        }
-      ]
-    },
-    {
-      "title": "Switzerland beat Colombia on penalties to make World Cup last 8",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Switzerland beat Colombia 4-3 on penalties after the teams were locked goalless at the end of extra-time in the Round of 16 match to enter the World Cup quarter-finals at BC Place, Vancouver, on Tuesday.",
-      "timestamp": "2026-07-09T06:01:56.126823Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/switzerland-beat-colombia-on-penalties-to-make-fifa-world-cup-last-8/20260708.htm"
-        }
-      ]
-    },
-    {
-      "title": "2026 World Cup Quarterfinals Preview: The Key Storyline For Every Team",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here's the key storyline for every team in the quarterfinals of the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-09T06:01:56.126861Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-quarterfinals-preview-key-storyline-every-team"
-        }
-      ]
-    },
-    {
-      "title": "2026 World Cup: Full list of top scorers after round of 16",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The race for the Golden Boot at the 2026 FIFA World Cup has taken another twist after the completion of the Round of 16, with Lionel Messi moving back to the top of the scoring charts following Argentina's dramatic comeback victory over Egypt.\nThe post 2026 W\u2026",
-      "timestamp": "2026-07-09T06:01:56.126915Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/full-list-of-top-scorers-after-2026-world-cup-round-of-16/"
-        }
-      ]
-    },
-    {
-      "title": "Switzerland into QF after close-fought victory vs Colombia",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Switzerland fought its way into the 2026 FIFA World Cup quarterfinals after a hard-won victory against Colombia, 4-3 on penalties.Both teams had multiple chances throughout the encounter, but no goals...",
-      "timestamp": "2026-07-09T06:01:56.126950Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/734689c84315e02b"
-        }
-      ]
-    },
-    {
-      "title": "Switzerland beat Colombia on penalties to reach World Cup quarter-finals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Switzerland defeats Colombia 4-3 in a dramatic penalty shootout to advance to the 2026 FIFA World Cup quarter-finals. Read more on their victory!\n\nRead More: https://punchng.com/switzerland-beat-colombia-on-penalties-to-reach-world-cup-quarter-finals/",
-      "timestamp": "2026-07-09T06:01:56.126977Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/switzerland-beat-colombia-on-penalties-to-reach-world-cup-quarter-finals/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026: Full list of quarter-final fixtures, date and time",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup quarter-final fixtures are now complete after Switzerland defeated Colombia 4-3 on penalties following a goalless draw in the final Round of 16 fixture.\nThe post World Cup 2026: Full list of quarter-final fixtures, date and time appear\u2026",
-      "timestamp": "2026-07-09T06:01:56.127006Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/world-cup-2026-full-list-of-quarter-final-fixtures-date-and-time/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": " Brasileir\u00e3o has just one team left in the World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/brasileirao-has-just-one-team-left-in-the-world-cup-43112062"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Norway, Morocco reach World Cup quarter-finals for first time",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/norway-morocco-reach-world-cup-quarter-finals-for-first-time/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "USMNT World Cup prize money revealed as U.S. Soccer to split it with the women team",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/usmnt-world-cup-prize-money-revealed-as-u-s-soccer-to-split-it-with-the-women-team/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Watch World Cup Day 27: Egypt exits after controversial loss to Argentina",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/video/2026/7/8/video-world-cup-2026-highlights"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "How did people get around Toronto during the World Cup? Here's what the data shows",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/news/canada/toronto/toronto-world-cup-match-day-transit-9.7261526"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Hisense Makes Home the Best Seat for the FIFA World Cup 2026\u2122",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/hisense-makes-home-the-best-seat-for-the-fifa-world-cup-2026-302820485.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Hisense Makes Home the Best Seat for the FIFA World Cup 2026\u2122",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/hisense-makes-home-the-best-seat-for-the-fifa-world-cup-2026-302820462.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "World Cup: Which teams made the quarterfinals, and what\u2019s the schedule?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/8/world-cup-which-teams-made-the-quarterfinals-and-whats-the-schedule"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Mexico City",
+      "event": "Mexico fan gifted English supporter his Merlin the duck plushie in touching moment at Azteca",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/mexico-fan-gifted-english-supporter-his-merlin-the-duck-plushie-in-touching-moment-at-azteca/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "How three African teams throw away leads, crash out of World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/how-three-african-teams-throw-away-leads-crash-out-of-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "World Cup 2026 quarterfinals: Full schedule and Egypt FIFA dispute",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/news/2026/7/8/world-cup-2026-quarterfinals-full-schedule-and-egypt-fifa-dispute"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Liverpool and Arsenal enquire about Mexico wonderkid Mora",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7a36efc8-5cc9-412d-839a-8a38d0a42ca5"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Real Madrid midfielder one yellow card away from missing potential World Cup semi-final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/real-madrid-midfielder-one-yellow-card-away-from-missing-potential-world-cup-semi-final/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Explained: Why the 2026 World Cup is on a one-day break",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/explained-why-the-2026-world-cup-is-on-a-one-day-break/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "World Cup: 2 countries make quarter final first time in history",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/world-cup-2-countries-make-quarter-final-first-time-in-history/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Zohran Mamdani admits what FIFA have done just \u2018doesn\u2019t make sense\u2019 at 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/zohran-mamdani-admits-what-fifa-have-done-just-doesnt-make-sense-at-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "2026 World Cup: Why I cried after Argentina defeated Egypt \u2013 Messi",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/2026-world-cup-why-i-cried-after-argentina-defeated-egypt-messi/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Fabrizio Romano issues update on Man City pursuit of Enzo Fernandez after Real Madrid snub",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cityxtra.co.uk/49627/fabrizio-romano-issues-update-on-man-city-pursuit-of-enzo-fernandez-after-real-madrid-snub/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "World Cup Golden Boot Race: Messi edges in front of Mbappe and Haaland",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thefootballfaithful.com/world-cup-2026-golden-boot-race-messi-mbappe-haaland-kane/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Real Madrid talent\u2019s future once again in focus after disappointing World Cup campaign",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/real-madrid-talents-future-once-again-in-focus-after-disappointing-world-cup-campaign/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Argentina\u2019s fan token surges as Messi leads 2026 World Cup scoring despite missing 2 penalties",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cryptobriefing.com/messi-world-cup-arg-fan-token-surge/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Messi inspires epic Argentina fightback as Mbappe breaks silence on racist attack",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/07/08/world-cup-2026-argentina-messi-france-mbappe-portugal-martinez/"
+        }
+      ]
+    },
     {
       "date": "Jul 09",
       "loc": "Atlanta",
@@ -786,367 +1088,7 @@
           "url": "https://worldsoccertalk.com/world-cup/i-thought-maybe-he-was-hiding-something-hossam-hassan-blasts-letexier-after-egypt-lose-to-argentina/"
         }
       ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "World Cup Legacy Index: Which Stars Have the Most at Stake in 2026?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.covers.com/world-cup/legacy-index-2026"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "World Cup 2026 quarterfinals set for blockbuster clashes",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.khabarhub.com/2026/08/557499/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026: Who won yesterday's matches? Argentina, Spain and Belgium book quarterfinal spots",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-who-won-yesterdays-matches-argentina-spain-and-belgium-book-quarterfinal-spots/articleshow/132251628.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026 Quarterfinal Fixtures: Full schedule, teams, date, time and match details",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-quarterfinal-fixtures-full-schedule-teams-date-time-and-match-details/articleshow/132251510.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "FIFA World Cup expanded field adds hype with March Madness vibes",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/fifa-world-cup-expanded-field-adds-hype-march-madness-vibes/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "2026 World Cup Round Of 16 Power Rankings",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-round-16-power-rankings"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "Egypt coach rails against FIFA following Argentina loss: \u2018There\u2019s no justice in this competition\u2019",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/egypt-coach-fifa-argentina-loss-var-goal-justice-competition.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "PIX: Messi Weeps After Argentina's Great Escape",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/fifa-world-cup-2026-pix-messi-weeps-after-argentinas-great-escape/20260708.htm"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "World Cup Quarterfinal Star Players in Sharks Terms",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thehockeynews.com/nhl/san-jose-sharks/latest-news/world-cup-quarterfinal-star-players-in-sharks-terms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "World Cup Roundup: Lionel Messi Moves On, Switzerland Continues To Surprise",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/world-cup-roundup-lionel-messi-moves-on-switzerland-continues-surprise"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "FIFA opens investigation into Argentina fans\u2019 racist taunts toward streamer iShowSpeed",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/news/fifa-investigation-argentina-fans-racist-taunts-ishowspeed.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "Switzerland Prevails: 4 Takeaways From Swiss' Penalty Kicks Win vs. Colombia",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/switzerland-colombia-world-cup-penalty-kicks-takeaways"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "Boniface salutes Neymar, Ronaldo after World Cup exits",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/boniface-salutes-neymar-ronaldo-after-world-cup-exits/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026 Round of 16 Argentina Vs Egypt 1080p HDTV H264-DARKSPORT",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://post.rlsbb.cc/fifa-world-cup-2026-round-of-16-argentina-vs-egypt-1080p-hdtv-h264-darksport/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "Winners and Losers of the FIFA World Cup Round of 16",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bavarianfootballworks.com/road-to-the-cup/225928/winners-and-losers-of-the-fifa-world-cup-round-of-16"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "Heat is only half the story - the 2026 World Cup is stress-testing how we design and build our stadiums",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://archinect.com/firms/release/17094732/heat-is-only-half-the-story-the-2026-world-cup-is-stress-testing-how-we-design-and-build-our-stadiums/150551217"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Mexico City",
-      "event": "World Cup 2026 quarter-final fixtures as last-eight decided",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thefootballfaithful.com/world-cup-2026-quarter-final-fixtures/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "World Cup quarterfinals. Who made final 8 teams, schedule, odds",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.elpasotimes.com/story/sports/soccer/2026/07/07/2026-fifa-world-cup-quarterfinals-who-is-alive-what-are-their-odds/90841022007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Vancouver",
-      "event": "Switzerland beat Colombia on penalties to make World Cup last 8",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/switzerland-beat-colombia-on-penalties-to-make-fifa-world-cup-last-8/20260708.htm"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "2026 World Cup Quarterfinals Preview: The Key Storyline For Every Team",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-quarterfinals-preview-key-storyline-every-team"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "2026 World Cup: Full list of top scorers after round of 16",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/full-list-of-top-scorers-after-2026-world-cup-round-of-16/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "Switzerland into QF after close-fought victory vs Colombia",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/734689c84315e02b"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "Switzerland beat Colombia on penalties to reach World Cup quarter-finals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/switzerland-beat-colombia-on-penalties-to-reach-world-cup-quarter-finals/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "World Cup 2026: Full list of quarter-final fixtures, date and time",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/world-cup-2026-full-list-of-quarter-final-fixtures-date-and-time/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-09T06:01:56.127185Z"
+  "lastUpdated": "2026-07-09T09:22:48.879132Z"
 }
