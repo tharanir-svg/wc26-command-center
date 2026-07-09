@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 1,
     "p2": 1,
-    "p3": 19
+    "p3": 23
   },
   "watchlist": [
     {
@@ -131,12 +131,236 @@
   ],
   "risks": [
     {
+      "title": "2026 World Cup Quarterfinals Power Rankings",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The FOX Sports World Cup NOW analysts break down and rank the eight remaining teams ahead of the World Cup quarterfinals.",
+      "timestamp": "2026-07-09T19:15:38.086985Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-quarterfinals-power-rankings"
+        }
+      ]
+    },
+    {
+      "title": "Barcelona included on provisional UEFA Champions League list despite Negreira case noise",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "With the ongoing FIFA World Cup 2026 already reaching its final phase, the focus will soon start to shift towards club football.On that note, Barcelona have received a welcome piece of news with UEFA ...",
+      "timestamp": "2026-07-09T19:15:38.087034Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelona-included-on-provisional-uefa-champions-league-list-despite-negreira-case-noise/"
+        }
+      ]
+    },
+    {
+      "title": "PREVIEW | Spain vs Belgium: team news, lineups, predictions (World Cup 10/07)",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain and Belgium clash this Friday at the SoFi Stadium for a match of the quarter-finals of the World Cup. The match will be broadcast live at 20:00 on BBC One.Last time out, Spain triumphed 0-1 agai...",
+      "timestamp": "2026-07-09T19:15:38.087062Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.playmakerstats.com/news/preview-spain-vs-belgium-team-news-lineups-predictions-world-cup-10-07/1155198"
+        }
+      ]
+    },
+    {
+      "title": "Justin Bieber To Join Madonna, Shakira & BTS In World Cup Final Halftime Show",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The FIFA World Cup 2026 Final Halftime Show, already superstar-stuffed with the previously announced Madonna, Shakira and BTS, just got more crowded: Justin Bieber also will take the stage in what organizers are calling \u201ca singular moment at the intersection \u2026",
+      "timestamp": "2026-07-09T19:15:38.087115Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://deadline.com/2026/07/justin-bieber-world-cup-halftime-show-1236976920/"
+        }
+      ]
+    },
+    {
+      "title": "Justin Bieber Will Perform at the FIFA World Cup Final Halftime Show",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Justin Bieber has been added to the star-studded lineup of performers for the first-ever FIFA World Cup Final Halftime Show.",
+      "timestamp": "2026-07-09T19:15:38.087149Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.rollingstone.com/music/music-news/justin-bieber-perform-fifa-world-cup-final-halftime-show-1235590837/"
+        }
+      ]
+    },
+    {
+      "title": "Justin Bieber To Join Madonna, Shakira & BTS In World Cup Final Halftime Show",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The FIFA World Cup 2026 Final Halftime Show, already superstar-stuffed with the previously announced Madonna, Shakira and BTS, just got more crowded: Justin Bieber also will take the stage in what organizers are calling \u201ca singular moment at the intersection \u2026",
+      "timestamp": "2026-07-09T19:15:38.087191Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://deadline.com/2026/07/justin-bieber-world-cup-halftime-show-1236976920/"
+        }
+      ]
+    },
+    {
+      "title": "Justin Bieber Will Perform at the FIFA World Cup Final Halftime Show",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The singer joins Madonna, Shakira, and BTS as co-headliners at New York New Jersey Stadium on July 19",
+      "timestamp": "2026-07-09T19:15:38.087209Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rollingstone.com/music/music-news/justin-bieber-perform-fifa-world-cup-final-halftime-show-1235590837/"
+        }
+      ]
+    },
+    {
+      "title": "Switzerland Prevails: 4 Takeaways From Swiss\u2019 Penalty Kicks Win vs. Colombia - WFIN",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Switzerland Prevails: 4 Takeaways From Swiss\u2019 Penalty Kicks Win vs. ColombiaWFIN Colombia Debut White Shorts Variation at 2026 World Cup - Memories of 2014Footy Headlines Why Is Johan Manzambi Not Playing Today for Switzerland vs. Colombia at the World Cup?At\u2026",
+      "timestamp": "2026-07-09T19:15:38.087319Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184362420"
+        }
+      ]
+    },
+    {
+      "title": "Zohran Mamdani breaks silence on Lionel Messi\u2019s win: \u2018Egypt were robbed\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "On Tuesday, the Argentinian squad won one of the most exciting matches of the 2026 FIFA World Cup with a 3-2 victory over Egypt. Argentina and legend Lionel Messi were staved off for most of the day, including a Messi penalty kick that was saved. However, thr\u2026",
+      "timestamp": "2026-07-09T19:15:38.087479Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/zohran-mamdani-breaks-silence-on-lionel-messis-win-egypt-were-robbed.html"
+        }
+      ]
+    },
+    {
+      "title": "Barcelona youngster hopes to win over Flick during pre-season after World Cup breakthrough",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "Just a month ago, Hamza Abdelkarim was largely unknown to most football fans. Today, the Egyptian striker returns from the 2026 FIFA World Cup with a growing reputation. And, heading into the summer, ...",
+      "timestamp": "2026-07-09T19:15:38.087620Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelona-youngster-hopes-to-win-over-flick-during-pre-season-after-world-cup-breakthrough/"
+        }
+      ]
+    },
+    {
+      "title": "Inside the Brazil vs. Norway World Cup Match: What We Saw on the Ground at One of the Year\u2019s Biggest Sporting Events",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Your 2026 FIFA World Cup NYC guide: best brands, beer gardens, MetLife Stadium matches, streaming options, and where to watch the World Cup free live.",
+      "timestamp": "2026-07-09T19:15:38.087676Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.rollingstone.com/product-recommendations/lifestyle/the-best-of-the-2026-fifa-world-cup-at-metlife-stadium-stream-the-games-1235589605/"
+        }
+      ]
+    },
+    {
+      "title": "FULL LIST: Mbappe overtakes Messi in World Cup power rankings",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Kylian Mbappe now leads the FIFA World Cup Power Rankings, surpassing Lionel Messi after the Round of 16. See the full list and how Mbappe dominates.\n\nRead More: https://punchng.com/full-list-mbappe-overtakes-messi-in-world-cup-power-rankings/",
+      "timestamp": "2026-07-09T19:15:38.087705Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/full-list-mbappe-overtakes-messi-in-world-cup-power-rankings/"
+        }
+      ]
+    },
+    {
+      "title": "Where to buy Argentina vs. Switzerland World Cup tickets at Kansas City's Arrowhead Stadium",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Match 100 features Argentina vs. Switzerland on GEHA Field at Arrowhead Stadium. To catch the Kansas City match live, here's where to buy tickets.",
+      "timestamp": "2026-07-09T19:15:38.087730Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.businessinsider.com/guides/tickets/where-to-buy-argentina-vs-switzerland-tickets-world-cup-2026#article"
+        }
+      ]
+    },
+    {
+      "title": "EXCLUSIVE: $1.5 Million in Cocaine Seized by CBP in Special FIFA World Cup Shipping Operation",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "U.S. Customs and Border Protection (CBP) officers in Miami, Florida intercepted 22 kilograms of cocaine hydrochloride at an air cargo warehouse near Miami International Airport. The officers are part of a special operation targeting narcotics smuggling activi\u2026",
+      "timestamp": "2026-07-09T19:15:38.087764Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.breitbart.com/border/2026/07/08/exclusive-1-5-million-in-cocaine-seized-by-cbp-in-special-fifa-world-cup-shipping-operation/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup 2026: 9 coaches lose jobs after elimination [Full List]",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup has already brought major changes on the sidelines, with nine national team coaches leaving their positions after their countries were knocked out of the tournament.\nThe post World Cup 2026: 9 coaches lose jobs after elimination [Full \u2026",
+      "timestamp": "2026-07-09T19:15:38.087792Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/world-cup-2026-9-coaches-lose-jobs-after-elimination-full-list/"
+        }
+      ]
+    },
+    {
+      "title": "Which teams to root for in World Cup with United States eliminated",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The United States is no longer in contention at the 2026 World Cup. But here are some teams you could root for as the tournament winds down.",
+      "timestamp": "2026-07-09T19:15:38.087841Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/08/teams-to-root-for-world-cup-united-states-eliminated/90848008007/"
+        }
+      ]
+    },
+    {
       "title": "How Morocco can win the FIFA World Cup 2026 title",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Morocco has long dreamed of a World Cup title.  Now, the trophy is finally within reach \u2013 can they seize the moment?",
-      "timestamp": "2026-07-09T17:44:19.161034Z",
+      "timestamp": "2026-07-09T19:15:38.087918Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ahead of the 2026 World Cup quarterfinal matches, Achraf Hakimi, Jude Bellingham, and Michael Olise are among the players at risk of suspension due to yellow card accumulation. With the quarterfinal bracket now set, 17 players across the eight remaining teams\u2026",
-      "timestamp": "2026-07-09T17:44:19.161213Z",
+      "timestamp": "2026-07-09T19:15:38.088039Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +388,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "The U.S. men\u2019s national team (USMNT) was eliminated from the FIFA World CUp on Monday evening, after Belgium\u2019s strong offensive attack was just too much for the Americans to handle. There were, of course, some questionable blunders in the game, but for the mo\u2026",
-      "timestamp": "2026-07-09T17:44:19.161266Z",
+      "timestamp": "2026-07-09T19:15:38.088089Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "On Thursday, New England will host its last World Cup match of the tournament. Here's what the weather is predicted to be like.",
-      "timestamp": "2026-07-09T17:44:19.161313Z",
+      "timestamp": "2026-07-09T19:15:38.088134Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "World Cups and other championships come and go, and so will the FIFA World Cup 2026 which is in full swing now. However, lessons learned from them should outlive each particular tournament, and this World Cup should be no exception. Watching its drama unfold \u2026",
-      "timestamp": "2026-07-09T17:44:19.161399Z",
+      "timestamp": "2026-07-09T19:15:38.088218Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup quarterfinals are set, and we broke down each matchup from best to worst in the latest power rankings.",
-      "timestamp": "2026-07-09T17:44:19.161477Z",
+      "timestamp": "2026-07-09T19:15:38.088311Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA Fan Festival Atlanta will be expanding its hours for the 2026 World Cup semifinal matches next week. The FIFA semifinals will be held in Dallas, Texas on July 14 and Atlanta on July 15.",
-      "timestamp": "2026-07-09T17:44:19.161577Z",
+      "timestamp": "2026-07-09T19:15:38.088407Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Norway can be considered the biggest underdog remaining in the final eight. Where will Erling Haaland and Co. play next? See full World Cup schedule.",
-      "timestamp": "2026-07-09T17:44:19.161665Z",
+      "timestamp": "2026-07-09T19:15:38.088494Z",
       "links": [
         {
           "label": "Source",
@@ -248,184 +472,256 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Everything you need to know to watch and follow the 2026 FIFA World Cup quarterfinals, including start times and TV and streaming information for every game.",
-      "timestamp": "2026-07-09T17:44:19.161701Z",
+      "timestamp": "2026-07-09T19:15:38.088532Z",
       "links": [
         {
           "label": "Source",
           "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b6c31c64-bc6c-4875-acb5-7eedc20af2eb"
         }
       ]
-    },
-    {
-      "title": "Cr\u00e9peau , Laryea named to MLS all-star roster after Canada's World Cup run",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Goalkeeper Maxime Cr\u00e9peau and Richie Laryea, two members of Canada's FIFA World Cup team, were on the 29-man all-star squad unveiled by Major League Soccer on Wednesday.",
-      "timestamp": "2026-07-09T17:44:19.161864Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbc.ca/sports/soccer/worldcup/crepeau-laryea-mls-all-star-roster-world-cup-9.7262725"
-        }
-      ]
-    },
-    {
-      "title": "Who will win the World Cup 2026? Quarterfinals bring new favorites, odds and predictions",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina survived, Norway stunned Brazil and the World Cup quarterfinals are set. See updated favorites, odds, predictions and new FIFA rankings.",
-      "timestamp": "2026-07-09T17:44:19.161915Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/news/2026/07/08/who-will-win-world-cup-2026-quarterfinals-favorites-odds-predictions-fifa-rankings-top-contenders/90846365007/"
-        }
-      ]
-    },
-    {
-      "title": "Messi headlines MLS All-Star Game roster featuring 13 FIFA World Cup stars",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi will headline the 2026 Major League Soccer (MLS) All-Star Game after being named among 13 FIFA World Cup players selected for the showcase event.\nThe post Messi headlines MLS All-Star Game roster featuring 13 FIFA World Cup stars appeared first o\u2026",
-      "timestamp": "2026-07-09T17:44:19.162008Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/messi-headlines-mls-all-star-game-roster-featuring-13-fifa-world-cup-stars/"
-        }
-      ]
-    },
-    {
-      "title": "fifa-penalty-shootout-2026 1.1.0",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "A fun penalty shootout CLI game based on FIFA World Cup 2026",
-      "timestamp": "2026-07-09T17:44:19.162072Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://pypi.org/project/fifa-penalty-shootout-2026/1.1.0/"
-        }
-      ]
-    },
-    {
-      "title": "MLS All-Star roster is out: Messi and Cape Verde's World Cup hero headline",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi is an MLS All-Star, with a dozen other FIFA World Cup participants joining him on the squad. See the full roster and game time, date.",
-      "timestamp": "2026-07-09T17:44:19.162093Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/08/mls-all-star-roster-messi-moreira-world-cup-liga-mx/90845861007/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup: Quarterfinal brackets, match schedule and game previews",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Talking points as France, Morocco, Spain, Belgium, Norway, England, Argentina and Switzerland aim for World Cup glory.",
-      "timestamp": "2026-07-09T17:44:19.162155Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/8/fifa-world-cup-2026-quarterfinal-fixtures-match-previews-schedule"
-        }
-      ]
-    },
-    {
-      "title": "5 most likely World Cup final matchups at MetLife Stadium on July 19",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The World Cup final is less than two weeks away. Here are the five most likely matchups that we could see at MetLife Stadium on July 19.",
-      "timestamp": "2026-07-09T17:44:19.162238Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/08/most-likely-world-cup-final-matchups-metlife-stadium/90845972007/"
-        }
-      ]
-    },
-    {
-      "title": "fifa-penalty-shootout-2026 0.1.5",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "A fun penalty shootout CLI game based on FIFA World Cup 2026",
-      "timestamp": "2026-07-09T17:44:19.162277Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://pypi.org/project/fifa-penalty-shootout-2026/0.1.5/"
-        }
-      ]
-    },
-    {
-      "title": "fifa-penalty-shootout-2026 0.1.4",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "A fun penalty shootout CLI game based on FIFA World Cup 2026",
-      "timestamp": "2026-07-09T17:44:19.162376Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://pypi.org/project/fifa-penalty-shootout-2026/0.1.4/"
-        }
-      ]
-    },
-    {
-      "title": "Real Madrid move for Manchester City superstar just a matter of time \u2013 report",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "Manchester City and Norway superstar Erling Haaland has emerged as one of the biggest stars of the 2026 FIFA World Cup. The Norwegian striker has once again become one of the most talked-about names i...",
-      "timestamp": "2026-07-09T17:44:19.162515Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4aa3a893-3d80-4045-aa64-583b6671c60e"
-        }
-      ]
-    },
-    {
-      "title": "Could You Eat Erling Haaland\u2019s Diet For A Week? Here\u2019s What The Norway Superstar Eats Each Day",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Among the players in the 2026 FIFA World Cup there is no player that has seen a bigger glow up on the world stage than Erling Haaland which is saying a lot considering he has led the Premier League in goals scored on three separate seasons, including setting \u2026",
-      "timestamp": "2026-07-09T17:44:19.162563Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://brobible.com/sports/article/erling-haaland-diet-6000-calories-day/"
-        }
-      ]
-    },
-    {
-      "title": "Carli Lloyd Calls out Christian Pulisic Comments After USMNT World Cup Loss",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The United States Men's National Team experienced its worst game of the FIFA World Cup 2026 in the Round of 16, losing 4-1 to the world's No. 8 team, Belgium.\nWith Belgium scoring early and responding to the only USMNT goal, it was a disastrous effort for the\u2026",
-      "timestamp": "2026-07-09T17:44:19.162661Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/9883729c25c5d124"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "2026 World Cup Quarterfinals Power Rankings",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-quarterfinals-power-rankings"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Barcelona included on provisional UEFA Champions League list despite Negreira case noise",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelona-included-on-provisional-uefa-champions-league-list-despite-negreira-case-noise/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Los Angeles",
+      "event": "PREVIEW | Spain vs Belgium: team news, lineups, predictions (World Cup 10/07)",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.playmakerstats.com/news/preview-spain-vs-belgium-team-news-lineups-predictions-world-cup-10-07/1155198"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Justin Bieber To Join Madonna, Shakira & BTS In World Cup Final Halftime Show",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://deadline.com/2026/07/justin-bieber-world-cup-halftime-show-1236976920/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Justin Bieber Will Perform at the FIFA World Cup Final Halftime Show",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.rollingstone.com/music/music-news/justin-bieber-perform-fifa-world-cup-final-halftime-show-1235590837/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Justin Bieber To Join Madonna, Shakira & BTS In World Cup Final Halftime Show",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://deadline.com/2026/07/justin-bieber-world-cup-halftime-show-1236976920/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Justin Bieber Will Perform at the FIFA World Cup Final Halftime Show",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rollingstone.com/music/music-news/justin-bieber-perform-fifa-world-cup-final-halftime-show-1235590837/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Switzerland Prevails: 4 Takeaways From Swiss\u2019 Penalty Kicks Win vs. Colombia - WFIN",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184362420"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Zohran Mamdani breaks silence on Lionel Messi\u2019s win: \u2018Egypt were robbed\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/zohran-mamdani-breaks-silence-on-lionel-messis-win-egypt-were-robbed.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Barcelona youngster hopes to win over Flick during pre-season after World Cup breakthrough",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelona-youngster-hopes-to-win-over-flick-during-pre-season-after-world-cup-breakthrough/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "New York / New Jersey",
+      "event": "Inside the Brazil vs. Norway World Cup Match: What We Saw on the Ground at One of the Year\u2019s Biggest Sporting Events",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.rollingstone.com/product-recommendations/lifestyle/the-best-of-the-2026-fifa-world-cup-at-metlife-stadium-stream-the-games-1235589605/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "FULL LIST: Mbappe overtakes Messi in World Cup power rankings",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/full-list-mbappe-overtakes-messi-in-world-cup-power-rankings/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Kansas City",
+      "event": "Where to buy Argentina vs. Switzerland World Cup tickets at Kansas City's Arrowhead Stadium",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.businessinsider.com/guides/tickets/where-to-buy-argentina-vs-switzerland-tickets-world-cup-2026#article"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "EXCLUSIVE: $1.5 Million in Cocaine Seized by CBP in Special FIFA World Cup Shipping Operation",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.breitbart.com/border/2026/07/08/exclusive-1-5-million-in-cocaine-seized-by-cbp-in-special-fifa-world-cup-shipping-operation/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "World Cup 2026: 9 coaches lose jobs after elimination [Full List]",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/world-cup-2026-9-coaches-lose-jobs-after-elimination-full-list/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Which teams to root for in World Cup with United States eliminated",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/08/teams-to-root-for-world-cup-united-states-eliminated/90848008007/"
+        }
+      ]
+    },
     {
       "date": "Jul 09",
       "loc": "Global",
@@ -560,187 +856,7 @@
           "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b6c31c64-bc6c-4875-acb5-7eedc20af2eb"
         }
       ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "Cr\u00e9peau , Laryea named to MLS all-star roster after Canada's World Cup run",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbc.ca/sports/soccer/worldcup/crepeau-laryea-mls-all-star-roster-world-cup-9.7262725"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "Who will win the World Cup 2026? Quarterfinals bring new favorites, odds and predictions",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/news/2026/07/08/who-will-win-world-cup-2026-quarterfinals-favorites-odds-predictions-fifa-rankings-top-contenders/90846365007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "Messi headlines MLS All-Star Game roster featuring 13 FIFA World Cup stars",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/messi-headlines-mls-all-star-game-roster-featuring-13-fifa-world-cup-stars/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "fifa-penalty-shootout-2026 1.1.0",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://pypi.org/project/fifa-penalty-shootout-2026/1.1.0/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "MLS All-Star roster is out: Messi and Cape Verde's World Cup hero headline",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/08/mls-all-star-roster-messi-moreira-world-cup-liga-mx/90845861007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "FIFA World Cup: Quarterfinal brackets, match schedule and game previews",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/8/fifa-world-cup-2026-quarterfinal-fixtures-match-previews-schedule"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "New York / New Jersey",
-      "event": "5 most likely World Cup final matchups at MetLife Stadium on July 19",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/08/most-likely-world-cup-final-matchups-metlife-stadium/90845972007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "fifa-penalty-shootout-2026 0.1.5",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://pypi.org/project/fifa-penalty-shootout-2026/0.1.5/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "fifa-penalty-shootout-2026 0.1.4",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://pypi.org/project/fifa-penalty-shootout-2026/0.1.4/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "Real Madrid move for Manchester City superstar just a matter of time \u2013 report",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4aa3a893-3d80-4045-aa64-583b6671c60e"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "Could You Eat Erling Haaland\u2019s Diet For A Week? Here\u2019s What The Norway Superstar Eats Each Day",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://brobible.com/sports/article/erling-haaland-diet-6000-calories-day/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "Carli Lloyd Calls out Christian Pulisic Comments After USMNT World Cup Loss",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/9883729c25c5d124"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-09T17:44:19.162808Z"
+  "lastUpdated": "2026-07-09T19:15:38.088857Z"
 }
