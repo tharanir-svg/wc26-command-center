@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 0,
+    "p1": 1,
     "p2": 1,
-    "p3": 26
+    "p3": 19
   },
   "watchlist": [
     {
@@ -131,12 +131,152 @@
   ],
   "risks": [
     {
+      "title": "How Morocco can win the FIFA World Cup 2026 title",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Morocco has long dreamed of a World Cup title.  Now, the trophy is finally within reach \u2013 can they seize the moment?",
+      "timestamp": "2026-07-09T17:44:19.161034Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/opinions/2026/7/8/how-morocco-can-win-the-fifa-world-cup-2026-title"
+        }
+      ]
+    },
+    {
+      "title": "Hakimi, Bellingham, and Olise, among players in danger of missing potential 2026 World Cup semifinals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Ahead of the 2026 World Cup quarterfinal matches, Achraf Hakimi, Jude Bellingham, and Michael Olise are among the players at risk of suspension due to yellow card accumulation. With the quarterfinal bracket now set, 17 players across the eight remaining teams\u2026",
+      "timestamp": "2026-07-09T17:44:19.161213Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/hakimi-bellingham-and-olise-among-players-in-danger-of-missing-potential-2026-world-cup-semifinals/"
+        }
+      ]
+    },
+    {
+      "title": "Folarin \u2018Flo\u2019 Balogun Shares Heartfelt Message After USMNT\u2019s World Cup Run",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "The U.S. men\u2019s national team (USMNT) was eliminated from the FIFA World CUp on Monday evening, after Belgium\u2019s strong offensive attack was just too much for the Americans to handle. There were, of course, some questionable blunders in the game, but for the mo\u2026",
+      "timestamp": "2026-07-09T17:44:19.161266Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://heavy.com/sports/soccer/world-cup/folarin-flo-balogun-shares-heartfelt-message-after-usmnts-world-cup-run/"
+        }
+      ]
+    },
+    {
+      "title": "Heading to France vs. Morocco? Here\u2019s the Gillette Stadium forecast",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "On Thursday, New England will host its last World Cup match of the tournament. Here's what the weather is predicted to be like.",
+      "timestamp": "2026-07-09T17:44:19.161313Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.providencejournal.com/story/sports/pro/2026/07/08/world-cup-france-morocco-boston-stadium/90845273007/"
+        }
+      ]
+    },
+    {
+      "title": "3 Important Parallels Between Soccer & Affiliate Marketing",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "World Cups and other championships come and go, and so will the FIFA World Cup 2026 which is in full swing now. However, lessons learned from them should outlive each particular tournament, and this World Cup should be no exception. Watching its drama unfold \u2026",
+      "timestamp": "2026-07-09T17:44:19.161399Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.amnavigator.com/blog/2026/07/08/parallels-soccer-and-affiliate-marketing/"
+        }
+      ]
+    },
+    {
+      "title": "Power ranking the 2026 World Cup quarterfinals matchups: Can Norway's dream run continue?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup quarterfinals are set, and we broke down each matchup from best to worst in the latest power rankings.",
+      "timestamp": "2026-07-09T17:44:19.161477Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://ftw.usatoday.com/story/sports/soccer/2026/07/08/power-ranking-2026-world-cup-quarterfinals-matchups/90845349007/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA Fan Festival Atlanta expands hours for World Cup semifinal matches",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA Fan Festival Atlanta will be expanding its hours for the 2026 World Cup semifinal matches next week. The FIFA semifinals will be held in Dallas, Texas on July 14 and Atlanta on July 15.",
+      "timestamp": "2026-07-09T17:44:19.161577Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/fifa-fan-festival-atlanta-expands-163257424.html"
+        }
+      ]
+    },
+    {
+      "title": "World Cup 2026 locations: Where are quarterfinal games being played?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Norway can be considered the biggest underdog remaining in the final eight. Where will Erling Haaland and Co. play next? See full World Cup schedule.",
+      "timestamp": "2026-07-09T17:44:19.161665Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/08/world-cup-quarterfinal-locations-july-9-11-matches/90847596007/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup quarterfinals schedule: Start times for every match and how to watch",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Everything you need to know to watch and follow the 2026 FIFA World Cup quarterfinals, including start times and TV and streaming information for every game.",
+      "timestamp": "2026-07-09T17:44:19.161701Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b6c31c64-bc6c-4875-acb5-7eedc20af2eb"
+        }
+      ]
+    },
+    {
+      "title": "Cr\u00e9peau , Laryea named to MLS all-star roster after Canada's World Cup run",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Goalkeeper Maxime Cr\u00e9peau and Richie Laryea, two members of Canada's FIFA World Cup team, were on the 29-man all-star squad unveiled by Major League Soccer on Wednesday.",
+      "timestamp": "2026-07-09T17:44:19.161864Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/sports/soccer/worldcup/crepeau-laryea-mls-all-star-roster-world-cup-9.7262725"
+        }
+      ]
+    },
+    {
       "title": "Who will win the World Cup 2026? Quarterfinals bring new favorites, odds and predictions",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina survived, Norway stunned Brazil and the World Cup quarterfinals are set. See updated favorites, odds, predictions and new FIFA rankings.",
-      "timestamp": "2026-07-09T15:49:39.345146Z",
+      "timestamp": "2026-07-09T17:44:19.161915Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi will headline the 2026 Major League Soccer (MLS) All-Star Game after being named among 13 FIFA World Cup players selected for the showcase event.\nThe post Messi headlines MLS All-Star Game roster featuring 13 FIFA World Cup stars appeared first o\u2026",
-      "timestamp": "2026-07-09T15:49:39.345279Z",
+      "timestamp": "2026-07-09T17:44:19.162008Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A fun penalty shootout CLI game based on FIFA World Cup 2026",
-      "timestamp": "2026-07-09T15:49:39.345353Z",
+      "timestamp": "2026-07-09T17:44:19.162072Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi is an MLS All-Star, with a dozen other FIFA World Cup participants joining him on the squad. See the full roster and game time, date.",
-      "timestamp": "2026-07-09T15:49:39.345375Z",
+      "timestamp": "2026-07-09T17:44:19.162093Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Talking points as France, Morocco, Spain, Belgium, Norway, England, Argentina and Switzerland aim for World Cup glory.",
-      "timestamp": "2026-07-09T15:49:39.345439Z",
+      "timestamp": "2026-07-09T17:44:19.162155Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The World Cup final is less than two weeks away. Here are the five most likely matchups that we could see at MetLife Stadium on July 19.",
-      "timestamp": "2026-07-09T15:49:39.345508Z",
+      "timestamp": "2026-07-09T17:44:19.162238Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A fun penalty shootout CLI game based on FIFA World Cup 2026",
-      "timestamp": "2026-07-09T15:49:39.345543Z",
+      "timestamp": "2026-07-09T17:44:19.162277Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A fun penalty shootout CLI game based on FIFA World Cup 2026",
-      "timestamp": "2026-07-09T15:49:39.345642Z",
+      "timestamp": "2026-07-09T17:44:19.162376Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +388,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Manchester City and Norway superstar Erling Haaland has emerged as one of the biggest stars of the 2026 FIFA World Cup. The Norwegian striker has once again become one of the most talked-about names i...",
-      "timestamp": "2026-07-09T15:49:39.345808Z",
+      "timestamp": "2026-07-09T17:44:19.162515Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Among the players in the 2026 FIFA World Cup there is no player that has seen a bigger glow up on the world stage than Erling Haaland which is saying a lot considering he has led the Premier League in goals scored on three separate seasons, including setting \u2026",
-      "timestamp": "2026-07-09T15:49:39.345864Z",
+      "timestamp": "2026-07-09T17:44:19.162563Z",
       "links": [
         {
           "label": "Source",
@@ -276,240 +416,166 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The United States Men's National Team experienced its worst game of the FIFA World Cup 2026 in the Round of 16, losing 4-1 to the world's No. 8 team, Belgium.\nWith Belgium scoring early and responding to the only USMNT goal, it was a disastrous effort for the\u2026",
-      "timestamp": "2026-07-09T15:49:39.345936Z",
+      "timestamp": "2026-07-09T17:44:19.162661Z",
       "links": [
         {
           "label": "Source",
           "url": "https://biztoc.com/x/9883729c25c5d124"
         }
       ]
-    },
-    {
-      "title": "Ranking the eight 2026 World Cup quarterfinalists",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Six of the top eight FIFA ranked countries remain in the tournament.",
-      "timestamp": "2026-07-09T15:49:39.346009Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sbnation.com/soccer/1121935/ranking-the-eight-2026-world-cup-quarterfinalists"
-        }
-      ]
-    },
-    {
-      "title": "Soccer fans claim \u2018Seattle wins the World Cup\u2019 after experiencing US hospitality",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Seattle\u2019s final World Cup game has now come and gone, after the USMNT played at Lumen Field on Monday against Belgium The result was not what the USA was hoping for after Belgium booked their spot in the quarter-finals of the World Cup. However, the pre-game \u2026",
-      "timestamp": "2026-07-09T15:49:39.346109Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/soccer-fans-claim-seattle-wins-the-world-cup-after-experiencing-us-hospitality/"
-        }
-      ]
-    },
-    {
-      "title": "The World Cup\u2019s Racism Problem Just Exposed Soccer\u2019s Dark Side",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup should be uniting the world as billions of soccer fans tune in to see which nation will be crowned the best in the sport. Unfortunately, the treatment of Black stars like IShowSpeed and French team captain Kylian Mbapp\u00e9 serves as a har\u2026",
-      "timestamp": "2026-07-09T15:49:39.346137Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.theroot.com/the-world-cups-racism-problem-just-exposed-soccers-dark-2000115112"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026: Where to Watch Every Remaining Match Without Cable",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "This week wraps quarterfinal matches that will determine who advances to the next round.",
-      "timestamp": "2026-07-09T15:49:39.346157Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cnet.com/tech/services-and-software/watch-fifa-world-cup-2026-matches-without-cable/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026: Egyptian Football Association files complaint with FIFA against referee after Argentina defeat",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Egypt's football association has formally complained to FIFA regarding officiating in their World Cup loss. The Egyptian Football Association believes the referee played a decisive role in Argentina's victory. They are seeking clarification and an investigati\u2026",
-      "timestamp": "2026-07-09T15:49:39.346267Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-egyptian-football-association-files-complaint-with-fifa-against-referee-after-argentina-defeat/articleshow/132265596.cms"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026: Egyptian FA calls out 'controversial and influential refereeing incidents' in Argentina loss",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Egyptian Football Association was not pleased with the way Tuesday's game was called.",
-      "timestamp": "2026-07-09T15:49:39.346290Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-egyptian-fa-calls-out-controversial-and-influential-refereeing-incidents-in-argentina-loss-140058246.html"
-        }
-      ]
-    },
-    {
-      "title": "Yarbo Is Bringing More Than Lawn Care to Pennsylvania Communities This Summer",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "A two-week roadshow, a nonprofit partnership, a World Cup host city\u2014and a belief that technology earns trust by showing up. PHILADELPHIA, July 8, 2026 /PRNewswire/ -- The first thing you notice when Yarbo's roadshow vehicle pulls into a Pennsylvania neighborh\u2026",
-      "timestamp": "2026-07-09T15:49:39.346382Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.prnewswire.com/news-releases/yarbo-is-bringing-more-than-lawn-care-to-pennsylvania-communities-this-summer-302820774.html"
-        }
-      ]
-    },
-    {
-      "title": "B.C.'s youth soccer provincial championships coming to Nanaimo",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "While Vancouver has hosted its final FIFA World Cup game, some of the province's best youth soccer players will descend on Nanaimo for the A-Cup provincial championships.",
-      "timestamp": "2026-07-09T15:49:39.346401Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-youth-soccer-championship-nanaimo-9.7262143"
-        }
-      ]
-    },
-    {
-      "title": "39 Of The Most Hilarious Haaland Memes That Will Turn Him Into Your Favorite Viking",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Apart from being one of the top goal scorers in the FIFA World Cup 2026, Erling Haaland is also a goofy Gen Z. He's not just scoring goals but also winning hearts with his hilarious Snapchat humor, and people are loving it. Here are some of his most iconic po\u2026",
-      "timestamp": "2026-07-09T15:49:39.346433Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.boredpanda.com/best-haaland-snapchats-memes/"
-        }
-      ]
-    },
-    {
-      "title": "Which World Cup quarterfinal is the most expensive ticket? See prices for each game",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "With the 2026 World Cup quarterfinals set, here's a full breakdown of prices and information for each game.",
-      "timestamp": "2026-07-09T15:49:39.346483Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/08/world-cup-quarterfinal-ticket-prices-ranked/90835997007/"
-        }
-      ]
-    },
-    {
-      "title": "Photos: Most memorable moments of the 2026 FIFA World Cup so far",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup has lived up to every expectation, delivering unforgettable drama, stunning upsets, emotional farewells and moments that will be talked about for years to come.\nThe post Photos: Most memorable moments of the 2026 FIFA World Cup so far \u2026",
-      "timestamp": "2026-07-09T15:49:39.346547Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/photos-most-memorable-moments-of-the-2026-fifa-world-cup-so-far/"
-        }
-      ]
-    },
-    {
-      "title": "What time is France vs Morocco tomorrow? World Cup quarterfinal schedule",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup quarterfinals begin with a France vs. Morocco match on July 9. Here's what to know.",
-      "timestamp": "2026-07-09T15:49:39.346610Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/08/france-morocco-world-cup-quarterfinal-date-time/90845343007/"
-        }
-      ]
-    },
-    {
-      "title": "Meet the A-List Performers at the 2026 World Cup Halftime Show",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup's halftime show is stacked with celebrities\u2014here's who's performing.",
-      "timestamp": "2026-07-09T15:49:39.346672Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cosmopolitan.com/entertainment/celebs/a71852664/2026-world-cup-halftime-show-performers/"
-        }
-      ]
-    },
-    {
-      "title": "The top five sponsor brands gaining among FIFA World Cup fans in the U.S",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA World Cup 2026, co-hosted by the U.S., Canada and Mexico, has proven to be especially popular among Americans in the early stages of the event. For brands and sponsors, the U.S. host market opportunity is significant: a growing soccer audience, a crowded\u2026",
-      "timestamp": "2026-07-09T15:49:39.346737Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/ad6a62a39dc98fae"
-        }
-      ]
-    },
-    {
-      "title": "Daddy Yankee & Shenseea Score No. 1 on Latin Airplay Chart With \u201cEcho\u201d",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Daddy Yankee & Shenseea's \u201cEcho\u201d becomes the second 2026 World Cup song to reach No. 1 on a Billboard ranking.",
-      "timestamp": "2026-07-09T15:49:39.346791Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.billboard.com/music/chart-beat/daddy-yankee-shenseea-latin-airplay-chart-fifa-world-cup-1236289618/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026: Biggest takeaways from the round of 16",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The last-16 phase is now behind us with plenty of key talking points as the tournament enters the quarterfinals.",
-      "timestamp": "2026-07-09T15:49:39.346891Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/8/fifa-world-cup-2026-biggest-takeaways-from-the-round-of-16-quarterfinals"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "How Morocco can win the FIFA World Cup 2026 title",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/opinions/2026/7/8/how-morocco-can-win-the-fifa-world-cup-2026-title"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Hakimi, Bellingham, and Olise, among players in danger of missing potential 2026 World Cup semifinals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/hakimi-bellingham-and-olise-among-players-in-danger-of-missing-potential-2026-world-cup-semifinals/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Folarin \u2018Flo\u2019 Balogun Shares Heartfelt Message After USMNT\u2019s World Cup Run",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://heavy.com/sports/soccer/world-cup/folarin-flo-balogun-shares-heartfelt-message-after-usmnts-world-cup-run/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Boston",
+      "event": "Heading to France vs. Morocco? Here\u2019s the Gillette Stadium forecast",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.providencejournal.com/story/sports/pro/2026/07/08/world-cup-france-morocco-boston-stadium/90845273007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "3 Important Parallels Between Soccer & Affiliate Marketing",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.amnavigator.com/blog/2026/07/08/parallels-soccer-and-affiliate-marketing/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Power ranking the 2026 World Cup quarterfinals matchups: Can Norway's dream run continue?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://ftw.usatoday.com/story/sports/soccer/2026/07/08/power-ranking-2026-world-cup-quarterfinals-matchups/90845349007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Dallas",
+      "event": "FIFA Fan Festival Atlanta expands hours for World Cup semifinal matches",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/fifa-fan-festival-atlanta-expands-163257424.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "World Cup 2026 locations: Where are quarterfinal games being played?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/08/world-cup-quarterfinal-locations-july-9-11-matches/90847596007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "World Cup quarterfinals schedule: Start times for every match and how to watch",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b6c31c64-bc6c-4875-acb5-7eedc20af2eb"
+        }
+      ]
+    },
+    {
+      "date": "Jul 09",
+      "loc": "Global",
+      "event": "Cr\u00e9peau , Laryea named to MLS all-star roster after Canada's World Cup run",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/sports/soccer/worldcup/crepeau-laryea-mls-all-star-roster-world-cup-9.7262725"
+        }
+      ]
+    },
     {
       "date": "Jul 09",
       "loc": "Global",
@@ -674,247 +740,7 @@
           "url": "https://biztoc.com/x/9883729c25c5d124"
         }
       ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "Ranking the eight 2026 World Cup quarterfinalists",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sbnation.com/soccer/1121935/ranking-the-eight-2026-world-cup-quarterfinalists"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Seattle",
-      "event": "Soccer fans claim \u2018Seattle wins the World Cup\u2019 after experiencing US hospitality",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/soccer-fans-claim-seattle-wins-the-world-cup-after-experiencing-us-hospitality/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "The World Cup\u2019s Racism Problem Just Exposed Soccer\u2019s Dark Side",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.theroot.com/the-world-cups-racism-problem-just-exposed-soccers-dark-2000115112"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026: Where to Watch Every Remaining Match Without Cable",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cnet.com/tech/services-and-software/watch-fifa-world-cup-2026-matches-without-cable/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026: Egyptian Football Association files complaint with FIFA against referee after Argentina defeat",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-egyptian-football-association-files-complaint-with-fifa-against-referee-after-argentina-defeat/articleshow/132265596.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "World Cup 2026: Egyptian FA calls out 'controversial and influential refereeing incidents' in Argentina loss",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-egyptian-fa-calls-out-controversial-and-influential-refereeing-incidents-in-argentina-loss-140058246.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "Yarbo Is Bringing More Than Lawn Care to Pennsylvania Communities This Summer",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.prnewswire.com/news-releases/yarbo-is-bringing-more-than-lawn-care-to-pennsylvania-communities-this-summer-302820774.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Vancouver",
-      "event": "B.C.'s youth soccer provincial championships coming to Nanaimo",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-youth-soccer-championship-nanaimo-9.7262143"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "39 Of The Most Hilarious Haaland Memes That Will Turn Him Into Your Favorite Viking",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.boredpanda.com/best-haaland-snapchats-memes/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "Which World Cup quarterfinal is the most expensive ticket? See prices for each game",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/08/world-cup-quarterfinal-ticket-prices-ranked/90835997007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "Photos: Most memorable moments of the 2026 FIFA World Cup so far",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/photos-most-memorable-moments-of-the-2026-fifa-world-cup-so-far/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "What time is France vs Morocco tomorrow? World Cup quarterfinal schedule",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/08/france-morocco-world-cup-quarterfinal-date-time/90845343007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "Meet the A-List Performers at the 2026 World Cup Halftime Show",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cosmopolitan.com/entertainment/celebs/a71852664/2026-world-cup-halftime-show-performers/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "The top five sponsor brands gaining among FIFA World Cup fans in the U.S",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/ad6a62a39dc98fae"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "Daddy Yankee & Shenseea Score No. 1 on Latin Airplay Chart With \u201cEcho\u201d",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.billboard.com/music/chart-beat/daddy-yankee-shenseea-latin-airplay-chart-fifa-world-cup-1236289618/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 09",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026: Biggest takeaways from the round of 16",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/8/fifa-world-cup-2026-biggest-takeaways-from-the-round-of-16-quarterfinals"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-09T15:49:39.347062Z"
+  "lastUpdated": "2026-07-09T17:44:19.162808Z"
 }
