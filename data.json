@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 0,
-    "p3": 30
+    "p2": 1,
+    "p3": 26
   },
   "watchlist": [
     {
@@ -131,12 +131,152 @@
   ],
   "risks": [
     {
+      "title": "FIFA World Cup\u2122 Fans Embrace Referee View as Lenovo AI Brings Viewers Closer to the Pitch",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "91% of fans say the new broadcast technology has made the FIFA World Cup 2026\u2122 viewing experience more dynamic MORRISVILLE, N.C. \u2014 New international research from Lenovo reveals that technological advancements are fundamentally changing how fans experience th\u2026",
+      "timestamp": "2026-07-10T04:41:30.266414Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/fifa-world-cup-fans-embrace-referee-view-as-lenovo-ai-brings-viewers-closer-to-the-pitch"
+        }
+      ]
+    },
+    {
+      "title": "World Cup Golden Boot race tightens with three-horse race going into quarterfinals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup has narrowed from 48 teams down to just eight.",
+      "timestamp": "2026-07-10T04:41:30.266463Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/09/sports/golden-boot-race-tightens-at-world-cup-as-quarterfinals-loom/"
+        }
+      ]
+    },
+    {
+      "title": "USWNT to Receive Cut of USMNT's $16 Million World Cup Prize Money: Report",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The U.S. women's national team (USWNT) won't compete in the World Cup until next summer in Brazil, but the players will still enjoy a nice payday from what their male counterparts just did in the 2026 FIFA World Cup.\nESPN's Jeff Kassouf reported that the USMN\u2026",
+      "timestamp": "2026-07-10T04:41:30.266545Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/ba16445cd5d1d672"
+        }
+      ]
+    },
+    {
+      "title": "'Cannot remain silent': Egypt demands FIFA investigate World Cup referees",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Egypt remains incensed at French referee Francois Letexier after his performance in the Round of 16 clash against Argentina at the FIFA World Cup.",
+      "timestamp": "2026-07-10T04:41:30.266564Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.abc.net.au/news/2026-07-09/egypt-demands-fifa-investigate-world-cup-referees/106896584"
+        }
+      ]
+    },
+    {
+      "title": "Why USMNT will share half of $12.8 million World Cup payout with women\u2019s team",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The USMNT\u2019s woes continue even after their embarrassing elimination from the 2026 FIFA World Cup. Belgium gave the USMNT a thrashing during their Round of 16 battle, with a 4-1 win over the hosts, as it exposed some major flaws in their current squad.",
+      "timestamp": "2026-07-10T04:41:30.266599Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/why-usmnt-will-share-half-of-12-8-million-world-cup-payout-with-womens-team/"
+        }
+      ]
+    },
+    {
+      "title": "Erling Haaland Reminds Wayne Rooney of His \u2018Rowing\u2019 Promise Ahead of Norway vs. England Quarter-Finals Clash",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "Erling Haaland is making sure Wayne Rooney doesn\u2019t forget a promise he made years ago after the Norwegians booked their place in the last eight. With Norway preparing to face England in the FIFA World Cup quarter-finals, the Manchester City striker playfully \u2026",
+      "timestamp": "2026-07-10T04:41:30.266624Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/erling-haaland-reminds-wayne-rooney-of-his-rowing-promise-ahead-of-norway-vs-england-quarter-finals-clash/"
+        }
+      ]
+    },
+    {
+      "title": "Odegaard: Norway 'underdogs' can hurt England in World Cup showdown",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Martin Odegaard says \"underdogs\" Norway are ready to show their teeth again in Saturday's World Cup quarter-final against England. All eyes will be on the Hard Rock Stadium as the Scandinavians look to repeat their stunning 2-1 victory against Brazil when the\u2026",
+      "timestamp": "2026-07-10T04:41:30.266708Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260709-99-07403/"
+        }
+      ]
+    },
+    {
+      "title": "NYC Mayor Zohran Mamdani takes a swipe at Lionel Messi\u2019s Argentina, drops \u2018robbed\u2019 verdict on Egypt",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The Round of 16 battle between Argentina and Egypt caused a major uproar among soccer fans. Mohamed Salah and Egypt looked all set to knock Argentina out of the 2026 FIFA World Cup as they held a 2-0 lead in their Round of 16 match.",
+      "timestamp": "2026-07-10T04:41:30.266786Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/nyc-mayor-zohran-mamdani-takes-a-swipe-at-lionel-messis-argentina-drops-robbed-verdict-on-egypt/"
+        }
+      ]
+    },
+    {
+      "title": "Justin Bieber Joins BTS, Madonna, And Shakira For FIFA World Cup Halftime Show",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The World Cup brings its first Halftime Show to another level by adding Justin Bieber to its lineup of global superstars, which includes BTS, Madonna, and Shakira.",
+      "timestamp": "2026-07-10T04:41:30.266806Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/laurasirikul/2026/07/08/justin-bieber-joins-bts-madonna-and-shakira-for-fifa-world-cup-halftime-show/"
+        }
+      ]
+    },
+    {
+      "title": " Japanese tantrum, White Chicks, granny and more: top Copa memes",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup is heading into its final stretch.This Wednesday (8), there wasn\u2019t even a \u201cPanama vs Uzbekistan\u201d to brighten the day for football fans.And with the Brazilian National Tea...",
+      "timestamp": "2026-07-10T04:41:30.266881Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/japanese-tantrum-white-chicks-granny-and-more-top-copa-memes-43115462"
+        }
+      ]
+    },
+    {
       "title": "Taylor Twellman: Those surprised by Christian Pulisic\u2019s struggles \u2018didn\u2019t read the tea leaves\u2019",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "While there will come a day when everyone looks back fondly on the USMNT\u2019s run in the 2026 FIFA World Cup, we\u2019re still in the process of making sense of the team\u2019s 4-1 drubbing at the hands of Belgium. While expectations were sky-high, the criticism towards t\u2026",
-      "timestamp": "2026-07-10T00:04:53.835448Z",
+      "timestamp": "2026-07-10T04:41:30.266967Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup has a lot of firsts, including the first ever World Cup halftime show. Shakira, Justin Bieber and more will perform at the final.",
-      "timestamp": "2026-07-10T00:04:53.835496Z",
+      "timestamp": "2026-07-10T04:41:30.266985Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Coldplay\u2019s Chris Martin is in charge of curating the artists for the star-studded show.",
-      "timestamp": "2026-07-10T00:04:53.835522Z",
+      "timestamp": "2026-07-10T04:41:30.267002Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The quarterfinal matchups are set for the 2026 World Cup. Here's how much teams make depending on how they finish.",
-      "timestamp": "2026-07-10T00:04:53.835553Z",
+      "timestamp": "2026-07-10T04:41:30.267021Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup quarterfinals kick off on Saturday with four intriguing confrontations. Past champions Argentina, France, Spain and England are competing.",
-      "timestamp": "2026-07-10T00:04:53.835615Z",
+      "timestamp": "2026-07-10T04:41:30.267076Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Portugal star said the now-iconic gesture came naturally after he scored a goal at Miami's Hard Rock Stadium.",
-      "timestamp": "2026-07-10T00:04:53.835660Z",
+      "timestamp": "2026-07-10T04:41:30.267114Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The USWNT will compete in the World Cup next year, but it\u2019ll still be getting a massive payday on the heels of the USMNT\u2019s run to the round of 16 in the 2026 FIFA World Cup. The Men\u2019s team\u2019s run ended with a shockingly poor showing as the squad lost 4-1 to Be\u2026",
-      "timestamp": "2026-07-10T00:04:53.835688Z",
+      "timestamp": "2026-07-10T04:41:30.267146Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Surveillance cameras in Seattle's Stadium District shut off after FIFA World Cup over fears of crime, after they were turned on over fears of crime",
-      "timestamp": "2026-07-10T00:04:53.835848Z",
+      "timestamp": "2026-07-10T04:41:30.267288Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Three England players were absent from training on Wednesday ahead of Saturday's 2026 FIFA World Cup quarter-final against Norway.\nThe post 3 England players miss training ahead of Norway World Cup clash appeared first on Vanguard News.",
-      "timestamp": "2026-07-10T00:04:53.835946Z",
+      "timestamp": "2026-07-10T04:41:30.267377Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "An England supporter who gave up his house deposit to take his grandfather to the 2026 FIFA World Cup has received an unexpected financial boost after a company reimbursed the entire \u00a310,000 he spent on the once-in-a-lifetime trip.\nThe post England fan who us\u2026",
-      "timestamp": "2026-07-10T00:04:53.836004Z",
+      "timestamp": "2026-07-10T04:41:30.267424Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Justin Bieber has been announced as one of the co-headliners of the first-ever FIFA World Cup halftime show.",
-      "timestamp": "2026-07-10T00:04:53.836100Z",
+      "timestamp": "2026-07-10T04:41:30.267508Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Justin Bieber is taking his talents to the biggest stage in soccer. Bieber will join Shakira, Madonna & BTS as co-headliners in the first-ever FIFA World Cup final halftime show on July 19. Bieber previously attended the U.S. men\u2019s national team match against\u2026",
-      "timestamp": "2026-07-10T00:04:53.836172Z",
+      "timestamp": "2026-07-10T04:41:30.267574Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Justin Bieber will co-headling the FIFA World Cup final halftime show with Madonna, BTS, and Shakira. Will he look up any YouTube videos this time?",
-      "timestamp": "2026-07-10T00:04:53.836208Z",
+      "timestamp": "2026-07-10T04:41:30.267607Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Online fans of Cristiano Ronaldo are claiming a series of videos show a massive crowd celebrating the superstar Portuguese footballer during the 2026 FIFA World Cup, but the clips are misrepresented -- and in some cases, dubbed with unrelated audio of a choru\u2026",
-      "timestamp": "2026-07-10T00:04:53.836250Z",
+      "timestamp": "2026-07-10T04:41:30.267644Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "DoorDash, an Official Tournament Supporter of the FIFA World Cup 2026\u2122, kicked off its eight-week-long Summer DashPass campaign in June and has continued to be a staple through the tournament and summer season. The most exciting perk is the chance to win tick\u2026",
-      "timestamp": "2026-07-10T00:04:53.836320Z",
+      "timestamp": "2026-07-10T04:41:30.267734Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Justin Bieber and several artists have joined Shakira, Madonna, and BTS to complete the FIFA World Cup Halftime Show lineup for the final. The 2026 World Cup Final, scheduled for July 19th at MetLife Stadium, will make history as the first in the competition \u2026",
-      "timestamp": "2026-07-10T00:04:53.836373Z",
+      "timestamp": "2026-07-10T04:41:30.267787Z",
       "links": [
         {
           "label": "Source",
@@ -360,198 +500,166 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A video authentically shows a drone light show on Portugal's Madeira Island showing a figure representing soccer star Cristiano Ronaldo waving goodbye following his announcement that the 2026 FIFA World Cup would be his last.",
-      "timestamp": "2026-07-10T00:04:53.836419Z",
+      "timestamp": "2026-07-10T04:41:30.267838Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.snopes.com//fact-check/ronaldo-drone-light/"
         }
       ]
-    },
-    {
-      "title": "2026 FIFA World Cup Round of 16 Awards",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Round of 16 brought a lot of drama and big moments.",
-      "timestamp": "2026-07-10T00:04:53.836508Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bavarianfootballworks.com/fifa-world-cup/227288/2026-fifa-world-cup-round-of-16-awards"
-        }
-      ]
-    },
-    {
-      "title": "Justin Bieber Joins Madonna, Shakira, and BTS for FIFA World Cup Final Halftime Show",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Coldplay, Burna Boy, Gustavo Dudamel, and New York's PS22 Chorus have also joined the star-studded lineup.\nJustin Bieber Joins Madonna, Shakira, and BTS for FIFA World Cup Final Halftime Show\nAlex Krinsky",
-      "timestamp": "2026-07-10T00:04:53.836528Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consequence.net/2026/07/justin-bieber-joins-madonna-shakira-and-bts-for-fifa-world-cup-final-halftime-show/"
-        }
-      ]
-    },
-    {
-      "title": "Justin Bieber to co-headline FIFA World Cup final halftime show",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "We might not have a SWAG tour just yet, but you may still want to get checked for Bieber fever: Justin Bieber is returning to the stage.",
-      "timestamp": "2026-07-10T00:04:53.836544Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbc.ca/news/entertainment/justin-bieber-fifa-halftime-co-headline-9.7263219"
-        }
-      ]
-    },
-    {
-      "title": "Justin Bieber Joins Madonna, Shakira & BTS for FIFA World Cup Final Halftime Show",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The first-ever FIFA World Cup Final Halftime Show is going to be hard to beat.\n Justin Bieber will co-headline with Madonna, Shakira and BTS!\n Bieber shared in a statement, \u201cThe FIFA World Cup brings the world together in a way nothing else can. I\u2019m grateful \u2026",
-      "timestamp": "2026-07-10T00:04:53.836570Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://extratv.com/2026/07/08/justin-bieber-joins-madonna-shakira-and-bts-for-fifa-world-cup-final-halftime-show/"
-        }
-      ]
-    },
-    {
-      "title": "\u2018There\u2019s so much corruption\u2019: Rosie O\u2019Donnell blasts Folarin Balogun and Donald Trump",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "United States President Donald Trump controversially helped get Folain Balogun, the United States Men\u2019s National Team\u2019s leading goal scorer in the 2026 FIFA World Cup, reinstated for the U.S.\u2019s round of 16 match against Belgium after he was issued a red card \u2026",
-      "timestamp": "2026-07-10T00:04:53.836619Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/rosie-odonnell-blasts-folarin-balogun-donald-trump.html"
-        }
-      ]
-    },
-    {
-      "title": "How much are 2026 World Cup Final tickets? Check latest prices",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup Final is less than two weeks away. There's still time to buy tickets, but they are selling quickly.",
-      "timestamp": "2026-07-10T00:04:53.836645Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/08/world-cup-final-ticket-prices/90851647007/"
-        }
-      ]
-    },
-    {
-      "title": "Justin Bieber, Madonna, BTS, Shakira Tapped for First-Ever FIFA World Cup Halftime Show",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The FIFA World Cup's first-ever Halftime Show, presented by Global Citizen, is set to take place next Sunday, July 19, at New York New",
-      "timestamp": "2026-07-10T00:04:53.836728Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://exclaim.ca/music/article/justin-bieber-madonna-bts-shakira-tapped-for-first-ever-fifa-world-cup-halftime-show"
-        }
-      ]
-    },
-    {
-      "title": "2026 FIFA World Cup Halftime Show: Justin Bieber, Madonna, BTS to perform",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Justin Bieber was announced as a co-headliner of FIFA's World Cup halftime show alongside Madonna, Shakira and BTS. Read details here.",
-      "timestamp": "2026-07-10T00:04:53.836842Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thefader.com/2026/07/08/2026-fifa-world-cup-halftime-show-justin-bieber-madonna-bts-shakira-announcement"
-        }
-      ]
-    },
-    {
-      "title": "When do the 2026 FIFA World Cup quarterfinals start? Eight teams chase World Cup glory",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "France and Morocco will kick off the World Cup quarterfinals on Thursday, July 9, with the opening match set for Gillette Stadium in Massachusetts.",
-      "timestamp": "2026-07-10T00:04:53.836899Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.detroitnews.com/story/sports/soccer/2026/07/08/when-do-2026-world-cup-quarterfinals-start-complete-schedule/90852730007/"
-        }
-      ]
-    },
-    {
-      "title": "Belgium Makes Major Request to FIFA Ahead of Spain World Cup Game",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Belgium is headed into a massive matchup with the No. 3-ranked team in the world, Spain, in the quarterfinals of the 2026 FIFA World Cup.\nThe team advanced with a decisive 4-1 win over the United States Men's National Team on Monday night.\nBefore and after th\u2026",
-      "timestamp": "2026-07-10T00:04:53.836930Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/5b6c9ef56e710a53"
-        }
-      ]
-    },
-    {
-      "title": "World Cup Fantasy: Three Winners and Three Losers After the Round of 16",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The high-stakes knockout phase of the 2026 FIFA World Cup has completely shaken up the fantasy landscape. Single-elimination matches bring out the ultimate drama, destroying highly-owned templates and crowning unexpected heroes in World Cup Fantasy (WCF). Whi\u2026",
-      "timestamp": "2026-07-10T00:04:53.836978Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nevermanagealone.com/playerpicks/16253/world-cup-fantasy-three-winners-and-three-losers-after-the-round-of-16"
-        }
-      ]
-    },
-    {
-      "title": "Justin Bieber To Co-Headline Stacked 2026 World Cup Final Halftime Show",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Justin Bieber is set to perform at the 2026 FIFA World Cup final halftime show on July 19 at New York New Jersey Stadium.",
-      "timestamp": "2026-07-10T00:04:53.837003Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/justin-bieber-perform-fifa-world-cup-final"
-        }
-      ]
-    },
-    {
-      "title": "World Cup Fantasy: Best Quarter-final Differential Picks",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The knockout phase of the 2026 FIFA World Cup has reached the final eight, meaning the margin for error has completely vanished. At this stage of the competition, millions of managers default to identical templates, making high-quality Quarter-finals Differen\u2026",
-      "timestamp": "2026-07-10T00:04:53.837038Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nevermanagealone.com/playerpicks/16250/world-cup-fantasy-best-quarter-final-differential-picks"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "FIFA World Cup\u2122 Fans Embrace Referee View as Lenovo AI Brings Viewers Closer to the Pitch",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/fifa-world-cup-fans-embrace-referee-view-as-lenovo-ai-brings-viewers-closer-to-the-pitch"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "World Cup Golden Boot race tightens with three-horse race going into quarterfinals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/09/sports/golden-boot-race-tightens-at-world-cup-as-quarterfinals-loom/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "USWNT to Receive Cut of USMNT's $16 Million World Cup Prize Money: Report",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/ba16445cd5d1d672"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "'Cannot remain silent': Egypt demands FIFA investigate World Cup referees",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.abc.net.au/news/2026-07-09/egypt-demands-fifa-investigate-world-cup-referees/106896584"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Why USMNT will share half of $12.8 million World Cup payout with women\u2019s team",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/why-usmnt-will-share-half-of-12-8-million-world-cup-payout-with-womens-team/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Erling Haaland Reminds Wayne Rooney of His \u2018Rowing\u2019 Promise Ahead of Norway vs. England Quarter-Finals Clash",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/erling-haaland-reminds-wayne-rooney-of-his-rowing-promise-ahead-of-norway-vs-england-quarter-finals-clash/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Miami",
+      "event": "Odegaard: Norway 'underdogs' can hurt England in World Cup showdown",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260709-99-07403/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "NYC Mayor Zohran Mamdani takes a swipe at Lionel Messi\u2019s Argentina, drops \u2018robbed\u2019 verdict on Egypt",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/nyc-mayor-zohran-mamdani-takes-a-swipe-at-lionel-messis-argentina-drops-robbed-verdict-on-egypt/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Justin Bieber Joins BTS, Madonna, And Shakira For FIFA World Cup Halftime Show",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/laurasirikul/2026/07/08/justin-bieber-joins-bts-madonna-and-shakira-for-fifa-world-cup-halftime-show/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": " Japanese tantrum, White Chicks, granny and more: top Copa memes",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/japanese-tantrum-white-chicks-granny-and-more-top-copa-memes-43115462"
+        }
+      ]
+    },
     {
       "date": "Jul 10",
       "loc": "Global",
@@ -806,202 +914,7 @@
           "url": "https://www.snopes.com//fact-check/ronaldo-drone-light/"
         }
       ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "2026 FIFA World Cup Round of 16 Awards",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bavarianfootballworks.com/fifa-world-cup/227288/2026-fifa-world-cup-round-of-16-awards"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Justin Bieber Joins Madonna, Shakira, and BTS for FIFA World Cup Final Halftime Show",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consequence.net/2026/07/justin-bieber-joins-madonna-shakira-and-bts-for-fifa-world-cup-final-halftime-show/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Justin Bieber to co-headline FIFA World Cup final halftime show",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbc.ca/news/entertainment/justin-bieber-fifa-halftime-co-headline-9.7263219"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Justin Bieber Joins Madonna, Shakira & BTS for FIFA World Cup Final Halftime Show",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://extratv.com/2026/07/08/justin-bieber-joins-madonna-shakira-and-bts-for-fifa-world-cup-final-halftime-show/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "\u2018There\u2019s so much corruption\u2019: Rosie O\u2019Donnell blasts Folarin Balogun and Donald Trump",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/rosie-odonnell-blasts-folarin-balogun-donald-trump.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "How much are 2026 World Cup Final tickets? Check latest prices",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/08/world-cup-final-ticket-prices/90851647007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Justin Bieber, Madonna, BTS, Shakira Tapped for First-Ever FIFA World Cup Halftime Show",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://exclaim.ca/music/article/justin-bieber-madonna-bts-shakira-tapped-for-first-ever-fifa-world-cup-halftime-show"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "2026 FIFA World Cup Halftime Show: Justin Bieber, Madonna, BTS to perform",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thefader.com/2026/07/08/2026-fifa-world-cup-halftime-show-justin-bieber-madonna-bts-shakira-announcement"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Boston",
-      "event": "When do the 2026 FIFA World Cup quarterfinals start? Eight teams chase World Cup glory",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.detroitnews.com/story/sports/soccer/2026/07/08/when-do-2026-world-cup-quarterfinals-start-complete-schedule/90852730007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Belgium Makes Major Request to FIFA Ahead of Spain World Cup Game",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/5b6c9ef56e710a53"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "World Cup Fantasy: Three Winners and Three Losers After the Round of 16",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nevermanagealone.com/playerpicks/16253/world-cup-fantasy-three-winners-and-three-losers-after-the-round-of-16"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Justin Bieber To Co-Headline Stacked 2026 World Cup Final Halftime Show",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/justin-bieber-perform-fifa-world-cup-final"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "World Cup Fantasy: Best Quarter-final Differential Picks",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nevermanagealone.com/playerpicks/16250/world-cup-fantasy-best-quarter-final-differential-picks"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-10T00:04:53.837200Z"
+  "lastUpdated": "2026-07-10T04:41:30.268025Z"
 }
