@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 1,
-    "p3": 31
+    "p2": 0,
+    "p3": 29
   },
   "watchlist": [
     {
@@ -131,12 +131,306 @@
   ],
   "risks": [
     {
+      "title": "Man City 2026 World Cup Watch: How the Blues fared in the Round of 16",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup Round of 32 concluded on July 7, with 16 nations advancing to the next knockout stage of the competition.The tournament kicked off with Manchester City having one of the larges...",
+      "timestamp": "2026-07-10T11:38:52.712264Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cityxtra.co.uk/49705/man-city-2026-world-cup-watch-how-the-blues-fared-in-the-round-of-16/"
+        }
+      ]
+    },
+    {
+      "title": "Burna Boy to perform at first-ever World Cup final halftime show",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Grammy-winning Nigerian singer Burna Boy will join a star-studded lineup featuring Justin Bieber, Shakira, Madonna and BTS at the first-ever FIFA World Cup final halftime show.\nThe post Burna Boy to perform at first-ever World Cup final halftime show appeared\u2026",
+      "timestamp": "2026-07-10T11:38:52.712408Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/burna-boy-to-perform-at-first-ever-world-cup-final-halftime-show/"
+        }
+      ]
+    },
+    {
+      "title": "Watch World Cup Preview: Morocco plays France in quarterfinal opener",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+      "timestamp": "2026-07-10T11:38:52.712435Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/video/2026/7/9/video-world-cup-2026-highlights"
+        }
+      ]
+    },
+    {
+      "title": "How to Watch France and Mbappe vs. Morocco: TV Channel, Live Stream, Time",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Learn which TV channel or how to live stream the France and Morocco FIFA World Cup match.",
+      "timestamp": "2026-07-10T11:38:52.712600Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/france-vs-morocco-how-to-watch-tv-channel-live-stream-2026-fifa-world-cup-quarterfinal"
+        }
+      ]
+    },
+    {
+      "title": "Where is France vs Morocco World Cup quarterfinals match being played?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France and Morocco face off in the 2026 World Cup quarterfinals in a rematch of a semifinal from the 2022 tournament.",
+      "timestamp": "2026-07-10T11:38:52.712838Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/09/france-morocco-world-cup-quarterfinals-match-location/90857283007/"
+        }
+      ]
+    },
+    {
+      "title": "Who will France vs Morocco winner play next? Possible World Cup semifinal opponents",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France and Morocco are playing for a spot in the 2026 World Cup semifinals, which will be held on Tuesday, July 14.",
+      "timestamp": "2026-07-10T11:38:52.712864Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/09/france-morocco-next-world-cup-opponent-semifinals/90855685007/"
+        }
+      ]
+    },
+    {
+      "title": "All 8 teams left in 2026 World Cup teams ranked, according to FIFA",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Some of the best teams in FIFA rankings are among the eight left in the 2026 World Cup as the quarterfinals begin.",
+      "timestamp": "2026-07-10T11:38:52.712889Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/09/world-cup-teams-ranked-fifa/90855519007/"
+        }
+      ]
+    },
+    {
+      "title": "What World Cup game is today? France meets Morocco in quarterfinal",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France faces Morocco in the 2026 World Cup quarterfinals. Here is the kickoff time, TV channel, and betting odds.",
+      "timestamp": "2026-07-10T11:38:52.712916Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/07/09/world-cup-schedule-france-morocco-quarterfinals/90831977007/"
+        }
+      ]
+    },
+    {
+      "title": "France vs. Morocco Prediction, Odds, Picks For World Cup Match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Check out the odds for the France vs. Morocco Round of 16 matchup at the 2026 FIFA World Cup.",
+      "timestamp": "2026-07-10T11:38:52.712958Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/france-vs-morocco-prediction-odds-picks-world-cup-match"
+        }
+      ]
+    },
+    {
+      "title": "France vs. Morocco: Where to watch the 2026 World Cup quarterfinal match today, TV channel, start time, free streaming info, and more",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Here's how to watch the France vs. Morocco quarterfinal match at the World Cup.",
+      "timestamp": "2026-07-10T11:38:52.713037Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/france-vs-morocco-where-to-watch-the-2026-world-cup-quarterfinal-match-today-tv-channel-start-time-free-streaming-info-and-more-095800586.html"
+        }
+      ]
+    },
+    {
+      "title": "Spanish paper  lists the biggest refereeing rows so far in the Copa",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup enters the quarterfinal stage this Thursday (9), but debates over refereeing and the use of technology have already taken over the tournament.The Spanish newspaper Marca put to...",
+      "timestamp": "2026-07-10T11:38:52.713099Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/spanish-paper-lists-the-biggest-refereeing-rows-so-far-in-the-copa-43116618"
+        }
+      ]
+    },
+    {
+      "title": "World Cup quarterfinals matches ranked from best to worst",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup has reached the quarterfinal round, and the four matches will be full of drama. Which are the best ones? We ranked them all.",
+      "timestamp": "2026-07-10T11:38:52.713179Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/09/2026-world-cup-quarterfinals-matches-ranked/90850778007/"
+        }
+      ]
+    },
+    {
+      "title": "Morocco predicted XI v France: Ismael Saibari out, Soufiane Rahimi in",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Ismael Saibari injured his thigh during the 3-0 win over Canada in the Round of 16 of the 2026 FIFA World Cup and has not recovered in time to face France in the quarter-finals.\u00a0In Saibari\u2019s absenc...",
+      "timestamp": "2026-07-10T11:38:52.713211Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.getfootballnewsfrance.com/2026/morocco-predicted-xi-v-france-ismael-saibari-out-soufiane-rahimi-in/"
+        }
+      ]
+    },
+    {
+      "title": "Ranking the World Cup favourites as we reach quarter-finals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup quarter-finals are here as the last eight battle for football\u2019s biggest prize.The quarter-finals are perhaps the stage where anything feels possible, with the remaining teams...",
+      "timestamp": "2026-07-10T11:38:52.713244Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thefootballfaithful.com/ranking-the-world-cup-favourites-as-we-reach-quarter-finals/"
+        }
+      ]
+    },
+    {
+      "title": "AI images of S.Korea's Son hitting coach after World Cup exit mislead online",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "South Korea's early exit from the 2026 World Cup triggered coach Hong Myung-bo's resignation, but images supposedly showing the team's captain Son Heung-min angrily pulling the coach's hair were taken from an AI-generated video. The video was generated using \u2026",
+      "timestamp": "2026-07-10T11:38:52.713296Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/ai-images-koreas-son-hitting-090759055.html"
+        }
+      ]
+    },
+    {
+      "title": "Brazilian referee in the running for Cup final, says outlet",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Wilton Pereira Sampaio is among the leading candidates to referee the 2026 FIFA World Cup final.According to UOL reporting, the referee is the Brazilian official entering the final stretch of the tour...",
+      "timestamp": "2026-07-10T11:38:52.713324Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_72f88841-ab48-4959-ab6e-3d59211ea6ad"
+        }
+      ]
+    },
+    {
+      "title": "Bringing Fans Closer to the Game: Hisense Enhances FIFA World Cup 2026\u2122 Viewing Through Display Innovation",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "QINGDAO, China, July 9, 2026 /PRNewswire/ -- Hisense, a leading brand in global consumer electronics and home appliances, and an official sponsor of the FIFA World Cup 2026TM, is helping football fans experience every match with greater realism, immersion, an\u2026",
+      "timestamp": "2026-07-10T11:38:52.713414Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/bringing-fans-closer-to-the-game-hisense-enhances-fifa-world-cup-2026-viewing-through-display-innovation-302821661.html"
+        }
+      ]
+    },
+    {
+      "title": "Bringing Fans Closer to the Game: Hisense Enhances FIFA World Cup 2026\u2122 Viewing Through Display Innovation",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "QINGDAO, China, July 9, 2026 /PRNewswire/ -- Hisense, a leading brand in global consumer electronics and home appliances, and an official sponsor of the FIFA World Cup 2026TM, is helping football fans experience every match with greater realism, immersion, an\u2026",
+      "timestamp": "2026-07-10T11:38:52.713441Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/bringing-fans-closer-to-the-game-hisense-enhances-fifa-world-cup-2026-viewing-through-display-innovation-302821566.html"
+        }
+      ]
+    },
+    {
+      "title": "Morocco fans paint Boston red but remain wary of France at FIFA World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "On the eve of the quarterfinal, Morocco's supporters take over downtown Boston, showing unwavering belief in their team.",
+      "timestamp": "2026-07-10T11:38:52.713486Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/9/morocco-fans-paint-boston-red-but-remain-wary-of-france-at-fifa-world-cup"
+        }
+      ]
+    },
+    {
+      "title": "Morocco boss confirms star absence, says France are favourites",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Morocco will be without a major player in its attempt to upset France in the quarter-finals of the 2026 World Cup.At a press conference this Wednesday (8) in Boston (USA), head coach Mohamed Ouahbi co...",
+      "timestamp": "2026-07-10T11:38:52.713514Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/morocco-boss-confirms-star-absence-says-france-are-favourites-43116292"
+        }
+      ]
+    },
+    {
+      "title": "Collina defends World Cup referees and controversial Argentina vs. Egypt call",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA\u2019s Chief Refereeing Officer Pierluigi Collina has defended the quality of the refereeing at the 2026 World Cup, insists that his officials are not",
+      "timestamp": "2026-07-10T11:38:52.713545Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/collina-defends-2026-world-cup-referees/"
+        }
+      ]
+    },
+    {
       "title": "FIFA World Cup 2026: Some goals down? Comeback history says it's not over yet",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA World Cup 2026 Comeback: Football's World Cup stage has witnessed numerous dramatic comebacks. Argentina recently escaped a two-goal deficit against Egypt in a thrilling match. The 1954 Austria versus Switzerland game ended with a remarkable seven-five s\u2026",
-      "timestamp": "2026-07-10T08:14:02.651882Z",
+      "timestamp": "2026-07-10T11:38:52.713585Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Pierluigi Collina said that such allegations of bias could provoke threats against referees and their families.",
-      "timestamp": "2026-07-10T08:14:02.651931Z",
+      "timestamp": "2026-07-10T11:38:52.713612Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kylian Mbappe and the France national team will battle Morocco in the World Cup quarterfinals on July 9. Boston Stadium isn't truly in Boston, though.",
-      "timestamp": "2026-07-10T08:14:02.651983Z",
+      "timestamp": "2026-07-10T11:38:52.713667Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "As Spain prepare for one of their toughest tests of the 2026 FIFA World Cup, Barcelona forward Lamine Yamal has reserved special praise for the player he believes could make the biggest difference for...",
-      "timestamp": "2026-07-10T08:14:02.652080Z",
+      "timestamp": "2026-07-10T11:38:52.713783Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again.",
-      "timestamp": "2026-07-10T08:14:02.652115Z",
+      "timestamp": "2026-07-10T11:38:52.713823Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again.",
-      "timestamp": "2026-07-10T08:14:02.652131Z",
+      "timestamp": "2026-07-10T11:38:52.713839Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France\u2019s opponents in the Quarter-finals at the 2026 FIFA World Cup are Morocco. We look at the players that comprise their squad.\u00a0Yassine BounouDOB: 5 April 1991Club: Al-HilalPosition: GoalkeeperO...",
-      "timestamp": "2026-07-10T08:14:02.652296Z",
+      "timestamp": "2026-07-10T11:38:52.714041Z",
       "links": [
         {
           "label": "Source",
@@ -234,352 +528,331 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "From England vs Norway to France vs Morocco, here are the absolute best pubs, bars and international fan zones in London for all eight remaining teams.",
-      "timestamp": "2026-07-10T08:14:02.652492Z",
+      "timestamp": "2026-07-10T11:38:52.714280Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.timeout.com/london/news/best-places-watch-world-cup-quarter-finals-london-2026-070926"
         }
       ]
-    },
-    {
-      "title": "Fact Check: Video Does NOT Show FIFA's Infantino Reaction To Egypt Scoring Goal During World Cup In July 2026",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Does a viral video show FIFA President Gianni Infantino reacting to Egypt's goal during a July 2026 World Cup game? No, that's not true: The video clip was miscaptioned. The video had been online days earlier, before that match, and...",
-      "timestamp": "2026-07-10T08:14:02.652552Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://leadstories.com/hoax-alert/2026/07/fact-check-video-does-not-show-fifas-infantino-reaction-to-egypt-scoring-goal-during-world-cup-in-july-2026.html"
-        }
-      ]
-    },
-    {
-      "title": "France vs Morocco: World Cup quarterfinal \u2013 prediction, start time, lineups",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Title favourites France face African champions Morocco, as football\u2019s 2026 World Cup enters the last-eight phase.",
-      "timestamp": "2026-07-10T08:14:02.652596Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/9/france-morocco-world-cup-quarterfinal-mbappe-saibari-prediction-start-time-lineups"
-        }
-      ]
-    },
-    {
-      "title": "What time is France vs. Morocco? Live stream, TV channel, kickoff schedule for World Cup 2026 quarterfinal match",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here's everything you need to know to watch the France vs. Morocco World Cup match, including where to watch on TV or live stream, what time the game starts and more.",
-      "timestamp": "2026-07-10T08:14:02.652636Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/france-vs-morocco-time-live-stream-channel-schedule-world-cup/2db4911bc40e20fbc4d23d11"
-        }
-      ]
-    },
-    {
-      "title": "France vs. Morocco history: Head-to-head matches at World Cup, last meeting, team records and more",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Set for a high-stakes matchup at the 2026 World Cup, here's a look at all the big France-Morocco games of the past.",
-      "timestamp": "2026-07-10T08:14:02.652656Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/france-morocco-history-head-head-matches-world-cup/9a8821787a47838460ba587b"
-        }
-      ]
-    },
-    {
-      "title": "France predicted XI v Morocco: D\u00e9sir\u00e9 Dou\u00e9 to start, Aur\u00e9lien Tchouam\u00e9ni out",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "France lock horns with Morocco tonight in the first 2026 FIFA World Cup quarter-final. The game will be held at Foxborough\u2019s Gillette Stadium, a stone\u2019s throw from\u00a0Les Bleus\u2018 Boston base camp. ...",
-      "timestamp": "2026-07-10T08:14:02.652681Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.getfootballnewsfrance.com/2026/france-predicted-xi-v-morocco-desire-doue-to-start-aurelien-tchouameni-out/"
-        }
-      ]
-    },
-    {
-      "title": "How to watch World Cup 2026 ad-free",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here's how to watch World Cup 2026 ad-free, saving you from the mind-numbing scourge of hydration break ads that eat into the games themselves.",
-      "timestamp": "2026-07-10T08:14:02.652699Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/how-to-watch/football/world-cup-2026-ad-free"
-        }
-      ]
-    },
-    {
-      "title": "Justin Bieber joining Madonna, BTS and Shakira for 2026 FIFA World Cup Final Halftime Show",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup Final Halftime Show will be staged at the New York New Jersey Stadium in New Jersey on 19 July.",
-      "timestamp": "2026-07-10T08:14:02.652717Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/justin-bieber-joining-madonna-bts-045526271.html"
-        }
-      ]
-    },
-    {
-      "title": "Argentina faces FBI investigation amid World Cup run",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Led by international superstar Lionel Messi, the Argentinian soccer team has reached the quarterfinal of the 2026 FIFA World Cup as it looks to defend its 2022 World Cup title. However, in addition to the challenge on the field, it sounds like the team is goi\u2026",
-      "timestamp": "2026-07-10T08:14:02.652762Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/argentina-faces-fbi-investigation-amid-world-cup-run.html"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup\u2122 Fans Embrace Referee View as Lenovo AI Brings Viewers Closer to the Pitch",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "91% of fans say the new broadcast technology has made the FIFA World Cup 2026\u2122 viewing experience more dynamic MORRISVILLE, N.C. \u2014 New international research from Lenovo reveals that technological advancements are fundamentally changing how fans experience th\u2026",
-      "timestamp": "2026-07-10T08:14:02.652840Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/fifa-world-cup-fans-embrace-referee-view-as-lenovo-ai-brings-viewers-closer-to-the-pitch"
-        }
-      ]
-    },
-    {
-      "title": "World Cup Golden Boot race tightens with three-horse race going into quarterfinals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup has narrowed from 48 teams down to just eight.",
-      "timestamp": "2026-07-10T08:14:02.652866Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/09/sports/golden-boot-race-tightens-at-world-cup-as-quarterfinals-loom/"
-        }
-      ]
-    },
-    {
-      "title": "USWNT to Receive Cut of USMNT's $16 Million World Cup Prize Money: Report",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The U.S. women's national team (USWNT) won't compete in the World Cup until next summer in Brazil, but the players will still enjoy a nice payday from what their male counterparts just did in the 2026 FIFA World Cup.\nESPN's Jeff Kassouf reported that the USMN\u2026",
-      "timestamp": "2026-07-10T08:14:02.652933Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/ba16445cd5d1d672"
-        }
-      ]
-    },
-    {
-      "title": "'Cannot remain silent': Egypt demands FIFA investigate World Cup referees",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Egypt remains incensed at French referee Francois Letexier after his performance in the Round of 16 clash against Argentina at the FIFA World Cup.",
-      "timestamp": "2026-07-10T08:14:02.652955Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.abc.net.au/news/2026-07-09/egypt-demands-fifa-investigate-world-cup-referees/106896584"
-        }
-      ]
-    },
-    {
-      "title": "Why USMNT will share half of $12.8 million World Cup payout with women\u2019s team",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The USMNT\u2019s woes continue even after their embarrassing elimination from the 2026 FIFA World Cup. Belgium gave the USMNT a thrashing during their Round of 16 battle, with a 4-1 win over the hosts, as it exposed some major flaws in their current squad.",
-      "timestamp": "2026-07-10T08:14:02.652996Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/why-usmnt-will-share-half-of-12-8-million-world-cup-payout-with-womens-team/"
-        }
-      ]
-    },
-    {
-      "title": "Erling Haaland Reminds Wayne Rooney of His \u2018Rowing\u2019 Promise Ahead of Norway vs. England Quarter-Finals Clash",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "Erling Haaland is making sure Wayne Rooney doesn\u2019t forget a promise he made years ago after the Norwegians booked their place in the last eight. With Norway preparing to face England in the FIFA World Cup quarter-finals, the Manchester City striker playfully \u2026",
-      "timestamp": "2026-07-10T08:14:02.653025Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/erling-haaland-reminds-wayne-rooney-of-his-rowing-promise-ahead-of-norway-vs-england-quarter-finals-clash/"
-        }
-      ]
-    },
-    {
-      "title": "Odegaard: Norway 'underdogs' can hurt England in World Cup showdown",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Martin Odegaard says \"underdogs\" Norway are ready to show their teeth again in Saturday's World Cup quarter-final against England. All eyes will be on the Hard Rock Stadium as the Scandinavians look to repeat their stunning 2-1 victory against Brazil when the\u2026",
-      "timestamp": "2026-07-10T08:14:02.653120Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260709-99-07403/"
-        }
-      ]
-    },
-    {
-      "title": "NYC Mayor Zohran Mamdani takes a swipe at Lionel Messi\u2019s Argentina, drops \u2018robbed\u2019 verdict on Egypt",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Round of 16 battle between Argentina and Egypt caused a major uproar among soccer fans. Mohamed Salah and Egypt looked all set to knock Argentina out of the 2026 FIFA World Cup as they held a 2-0 lead in their Round of 16 match.",
-      "timestamp": "2026-07-10T08:14:02.653207Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/nyc-mayor-zohran-mamdani-takes-a-swipe-at-lionel-messis-argentina-drops-robbed-verdict-on-egypt/"
-        }
-      ]
-    },
-    {
-      "title": "Justin Bieber Joins BTS, Madonna, And Shakira For FIFA World Cup Halftime Show",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The World Cup brings its first Halftime Show to another level by adding Justin Bieber to its lineup of global superstars, which includes BTS, Madonna, and Shakira.",
-      "timestamp": "2026-07-10T08:14:02.653228Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/laurasirikul/2026/07/08/justin-bieber-joins-bts-madonna-and-shakira-for-fifa-world-cup-halftime-show/"
-        }
-      ]
-    },
-    {
-      "title": " Japanese tantrum, White Chicks, granny and more: top Copa memes",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup is heading into its final stretch.This Wednesday (8), there wasn\u2019t even a \u201cPanama vs Uzbekistan\u201d to brighten the day for football fans.And with the Brazilian National Tea...",
-      "timestamp": "2026-07-10T08:14:02.653315Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/japanese-tantrum-white-chicks-granny-and-more-top-copa-memes-43115462"
-        }
-      ]
-    },
-    {
-      "title": "Taylor Twellman: Those surprised by Christian Pulisic\u2019s struggles \u2018didn\u2019t read the tea leaves\u2019",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "While there will come a day when everyone looks back fondly on the USMNT\u2019s run in the 2026 FIFA World Cup, we\u2019re still in the process of making sense of the team\u2019s 4-1 drubbing at the hands of Belgium. While expectations were sky-high, the criticism towards t\u2026",
-      "timestamp": "2026-07-10T08:14:02.653454Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/taylor-twellman-surprised-christian-pulisics-struggles-usmnt-read-tea-leaves.html"
-        }
-      ]
-    },
-    {
-      "title": "Who is performing at World Cup halftime show? Shakira, Justin Bieber, more",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup has a lot of firsts, including the first ever World Cup halftime show. Shakira, Justin Bieber and more will perform at the final.",
-      "timestamp": "2026-07-10T08:14:02.653479Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/08/shakira-justin-bieber-world-cup-halftime-show/90855969007/"
-        }
-      ]
-    },
-    {
-      "title": "Justin Bieber joins Madonna, Shakira and BTS for Fifa World Cup final show",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Coldplay\u2019s Chris Martin is in charge of curating the artists for the star-studded show.",
-      "timestamp": "2026-07-10T08:14:02.653499Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nzherald.co.nz/entertainment/justin-bieber-joins-madonna-shakira-and-bts-for-fifa-world-cup-final-show/HOKWPYMD2NE2LI2KFQGSCT4A4Y/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup prize money: How much does 2026 champion get paid?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The quarterfinal matchups are set for the 2026 World Cup. Here's how much teams make depending on how they finish.",
-      "timestamp": "2026-07-10T08:14:02.653554Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/08/2026-world-cup-prize-money-pool-champions/90854425007/"
-        }
-      ]
-    },
-    {
-      "title": "How The FIFA World Cup Quarterfinals Stack Up",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup quarterfinals kick off on Saturday with four intriguing confrontations. Past champions Argentina, France, Spain and England are competing.",
-      "timestamp": "2026-07-10T08:14:02.653624Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/michaellewis/2026/07/08/how-the-fifa-world-cup-quarterfinals-stack-up/"
-        }
-      ]
-    },
-    {
-      "title": "Cristiano Ronaldo Reveals His 'Siuuu' Celebration Was Born in the USA",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Portugal star said the now-iconic gesture came naturally after he scored a goal at Miami's Hard Rock Stadium.",
-      "timestamp": "2026-07-10T08:14:02.653694Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.complex.com/sports/a/markelibert/cristiano-ronaldo-siuuu-celebration-origin-usa"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Man City 2026 World Cup Watch: How the Blues fared in the Round of 16",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cityxtra.co.uk/49705/man-city-2026-world-cup-watch-how-the-blues-fared-in-the-round-of-16/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Burna Boy to perform at first-ever World Cup final halftime show",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/burna-boy-to-perform-at-first-ever-world-cup-final-halftime-show/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Watch World Cup Preview: Morocco plays France in quarterfinal opener",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/video/2026/7/9/video-world-cup-2026-highlights"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "How to Watch France and Mbappe vs. Morocco: TV Channel, Live Stream, Time",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/france-vs-morocco-how-to-watch-tv-channel-live-stream-2026-fifa-world-cup-quarterfinal"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Where is France vs Morocco World Cup quarterfinals match being played?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/09/france-morocco-world-cup-quarterfinals-match-location/90857283007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Who will France vs Morocco winner play next? Possible World Cup semifinal opponents",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/09/france-morocco-next-world-cup-opponent-semifinals/90855685007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "All 8 teams left in 2026 World Cup teams ranked, according to FIFA",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/09/world-cup-teams-ranked-fifa/90855519007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "What World Cup game is today? France meets Morocco in quarterfinal",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/07/09/world-cup-schedule-france-morocco-quarterfinals/90831977007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "France vs. Morocco Prediction, Odds, Picks For World Cup Match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/france-vs-morocco-prediction-odds-picks-world-cup-match"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "France vs. Morocco: Where to watch the 2026 World Cup quarterfinal match today, TV channel, start time, free streaming info, and more",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/france-vs-morocco-where-to-watch-the-2026-world-cup-quarterfinal-match-today-tv-channel-start-time-free-streaming-info-and-more-095800586.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Spanish paper  lists the biggest refereeing rows so far in the Copa",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/spanish-paper-lists-the-biggest-refereeing-rows-so-far-in-the-copa-43116618"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "World Cup quarterfinals matches ranked from best to worst",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/09/2026-world-cup-quarterfinals-matches-ranked/90850778007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Morocco predicted XI v France: Ismael Saibari out, Soufiane Rahimi in",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.getfootballnewsfrance.com/2026/morocco-predicted-xi-v-france-ismael-saibari-out-soufiane-rahimi-in/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Ranking the World Cup favourites as we reach quarter-finals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thefootballfaithful.com/ranking-the-world-cup-favourites-as-we-reach-quarter-finals/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "AI images of S.Korea's Son hitting coach after World Cup exit mislead online",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/ai-images-koreas-son-hitting-090759055.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Brazilian referee in the running for Cup final, says outlet",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_72f88841-ab48-4959-ab6e-3d59211ea6ad"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Bringing Fans Closer to the Game: Hisense Enhances FIFA World Cup 2026\u2122 Viewing Through Display Innovation",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/bringing-fans-closer-to-the-game-hisense-enhances-fifa-world-cup-2026-viewing-through-display-innovation-302821661.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Bringing Fans Closer to the Game: Hisense Enhances FIFA World Cup 2026\u2122 Viewing Through Display Innovation",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/bringing-fans-closer-to-the-game-hisense-enhances-fifa-world-cup-2026-viewing-through-display-innovation-302821566.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Morocco fans paint Boston red but remain wary of France at FIFA World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/9/morocco-fans-paint-boston-red-but-remain-wary-of-france-at-fifa-world-cup"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Morocco boss confirms star absence, says France are favourites",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/morocco-boss-confirms-star-absence-says-france-are-favourites-43116292"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Collina defends World Cup referees and controversial Argentina vs. Egypt call",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/collina-defends-2026-world-cup-referees/"
+        }
+      ]
+    },
     {
       "date": "Jul 10",
       "loc": "Global",
@@ -699,367 +972,7 @@
           "url": "https://www.timeout.com/london/news/best-places-watch-world-cup-quarter-finals-london-2026-070926"
         }
       ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Fact Check: Video Does NOT Show FIFA's Infantino Reaction To Egypt Scoring Goal During World Cup In July 2026",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://leadstories.com/hoax-alert/2026/07/fact-check-video-does-not-show-fifas-infantino-reaction-to-egypt-scoring-goal-during-world-cup-in-july-2026.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "France vs Morocco: World Cup quarterfinal \u2013 prediction, start time, lineups",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/9/france-morocco-world-cup-quarterfinal-mbappe-saibari-prediction-start-time-lineups"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "What time is France vs. Morocco? Live stream, TV channel, kickoff schedule for World Cup 2026 quarterfinal match",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/france-vs-morocco-time-live-stream-channel-schedule-world-cup/2db4911bc40e20fbc4d23d11"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "France vs. Morocco history: Head-to-head matches at World Cup, last meeting, team records and more",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/france-morocco-history-head-head-matches-world-cup/9a8821787a47838460ba587b"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Boston",
-      "event": "France predicted XI v Morocco: D\u00e9sir\u00e9 Dou\u00e9 to start, Aur\u00e9lien Tchouam\u00e9ni out",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.getfootballnewsfrance.com/2026/france-predicted-xi-v-morocco-desire-doue-to-start-aurelien-tchouameni-out/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "How to watch World Cup 2026 ad-free",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/how-to-watch/football/world-cup-2026-ad-free"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Justin Bieber joining Madonna, BTS and Shakira for 2026 FIFA World Cup Final Halftime Show",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/justin-bieber-joining-madonna-bts-045526271.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Argentina faces FBI investigation amid World Cup run",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/argentina-faces-fbi-investigation-amid-world-cup-run.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "FIFA World Cup\u2122 Fans Embrace Referee View as Lenovo AI Brings Viewers Closer to the Pitch",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/fifa-world-cup-fans-embrace-referee-view-as-lenovo-ai-brings-viewers-closer-to-the-pitch"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "World Cup Golden Boot race tightens with three-horse race going into quarterfinals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/09/sports/golden-boot-race-tightens-at-world-cup-as-quarterfinals-loom/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "USWNT to Receive Cut of USMNT's $16 Million World Cup Prize Money: Report",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/ba16445cd5d1d672"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "'Cannot remain silent': Egypt demands FIFA investigate World Cup referees",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.abc.net.au/news/2026-07-09/egypt-demands-fifa-investigate-world-cup-referees/106896584"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Why USMNT will share half of $12.8 million World Cup payout with women\u2019s team",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/why-usmnt-will-share-half-of-12-8-million-world-cup-payout-with-womens-team/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Erling Haaland Reminds Wayne Rooney of His \u2018Rowing\u2019 Promise Ahead of Norway vs. England Quarter-Finals Clash",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/erling-haaland-reminds-wayne-rooney-of-his-rowing-promise-ahead-of-norway-vs-england-quarter-finals-clash/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Miami",
-      "event": "Odegaard: Norway 'underdogs' can hurt England in World Cup showdown",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260709-99-07403/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "NYC Mayor Zohran Mamdani takes a swipe at Lionel Messi\u2019s Argentina, drops \u2018robbed\u2019 verdict on Egypt",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/nyc-mayor-zohran-mamdani-takes-a-swipe-at-lionel-messis-argentina-drops-robbed-verdict-on-egypt/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Justin Bieber Joins BTS, Madonna, And Shakira For FIFA World Cup Halftime Show",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/laurasirikul/2026/07/08/justin-bieber-joins-bts-madonna-and-shakira-for-fifa-world-cup-halftime-show/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": " Japanese tantrum, White Chicks, granny and more: top Copa memes",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/japanese-tantrum-white-chicks-granny-and-more-top-copa-memes-43115462"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Taylor Twellman: Those surprised by Christian Pulisic\u2019s struggles \u2018didn\u2019t read the tea leaves\u2019",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/taylor-twellman-surprised-christian-pulisics-struggles-usmnt-read-tea-leaves.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Who is performing at World Cup halftime show? Shakira, Justin Bieber, more",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/08/shakira-justin-bieber-world-cup-halftime-show/90855969007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Justin Bieber joins Madonna, Shakira and BTS for Fifa World Cup final show",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nzherald.co.nz/entertainment/justin-bieber-joins-madonna-shakira-and-bts-for-fifa-world-cup-final-show/HOKWPYMD2NE2LI2KFQGSCT4A4Y/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "World Cup prize money: How much does 2026 champion get paid?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/08/2026-world-cup-prize-money-pool-champions/90854425007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "How The FIFA World Cup Quarterfinals Stack Up",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/michaellewis/2026/07/08/how-the-fifa-world-cup-quarterfinals-stack-up/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Miami",
-      "event": "Cristiano Ronaldo Reveals His 'Siuuu' Celebration Was Born in the USA",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.complex.com/sports/a/markelibert/cristiano-ronaldo-siuuu-celebration-origin-usa"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-10T08:14:02.653853Z"
+  "lastUpdated": "2026-07-10T11:38:52.714475Z"
 }
