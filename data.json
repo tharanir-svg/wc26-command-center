@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 1,
+    "p1": 0,
     "p2": 1,
-    "p3": 31
+    "p3": 32
   },
   "watchlist": [
     {
@@ -131,12 +131,250 @@
   ],
   "risks": [
     {
+      "title": "France batted Morocco away with two strikes of sublime brilliance - the World Cup favourites showed they can win in different ways to book semi-final spot, writes IAN HERBERT",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "IAN HERBERT AT THE GILLETTE STADIUM: L'Equipe fretted in its headlines about 'Une Autre Histoire' - another history - but technical brilliance told and Kylian Mbappe again led the way.",
+      "timestamp": "2026-07-10T22:45:39.308869Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15965043/France-2-0-Morocco-World-Cup-2026-Result.html"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026 Quarter Final France Vs Morocco 1080p HDTV H264-DARKSPORT",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Links: HOMEPAGE\u00a0\u2013 TV.comFIFA.World.Cup.2026.Quarter.Final.France.Vs.Morocco.1080p.HDTV.H264-DARKSPORTMKV | AC3 / dolby digital | 4.69GBNFO - Subtitles \u2013 Torrent \u2013 NiTROFLARE \u2013 RAPiDGATORSingle File RAR: RAPiDGATOR Backup",
+      "timestamp": "2026-07-10T22:45:39.308948Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://post.rlsbb.cc/fifa-world-cup-2026-quarter-final-france-vs-morocco-1080p-hdtv-h264-darksport/"
+        }
+      ]
+    },
+    {
+      "title": "4 Takeaways From France's Win vs. Morocco In The World Cup Quarterfinals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France is through to the semifinals of the 206 FIFA World Cup following a convincing 2-0 win over Morocco at Boston Stadium on Thursday afternoon.",
+      "timestamp": "2026-07-10T22:45:39.308988Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/4-takeaways-from-frances-win-vs-morocco-world-cup-quarterfinals"
+        }
+      ]
+    },
+    {
+      "title": "World Cup 2026: England defender Marc Guehi fitness worry with hamstring injury",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England defender Marc Guehi is managing a slight hamstring injury and could miss Saturday's Norway quarter-final.",
+      "timestamp": "2026-07-10T22:45:39.309021Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o"
+        }
+      ]
+    },
+    {
+      "title": "France Star Michael Olise Hit With Major Transfer News During World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France star Michael Olise is a world-class player and plays a major role in the French national team\u2019s success thus far during the 2026 World Cup.\u201cOlise is special on and off the pitch,\u201d ESPN\u2019s Julien Laurens wrote. \u201cHe\u2019s not your usual superstar; for one, he\u2026",
+      "timestamp": "2026-07-10T22:45:39.309163Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://heavy.com/sports/soccer/world-cup/michael-olise-real-madrid-transfer-news/"
+        }
+      ]
+    },
+    {
+      "title": "Who is in the World Cup semifinals? LIVE bracket, updates as France advances",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France is the first team to punch its ticket to the 2026 World Cup semifinals.",
+      "timestamp": "2026-07-10T22:45:39.309203Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/09/live-world-cup-bracket-updates-semifinals/90859320007/"
+        }
+      ]
+    },
+    {
+      "title": "Cherki's France reach World Cup semi-finals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Rayan Cherki was an unused substitute as France overcame Morocco 2-0 in Boston to become the first side to reach the 2026 World Cup semi-finals. Men's Team Coaching team to work with new City boss Mar...",
+      "timestamp": "2026-07-10T22:45:39.309260Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.mancity.com/news/mens/rayan-cherki-france-morocco-world-cup-quarter-final-63919222"
+        }
+      ]
+    },
+    {
+      "title": "Thomas Tuchel suffers another right-back setback as Jarell Quansah receives two-game suspension",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Jarell Quansah has been handed with a two-game suspension, dealing another setback to England coach Thomas Tuchel in the right back position. England advanced to the quarterfinal stage in the 2026 World Cup with a hard-fought 3-2 win over co-host Mexico in th\u2026",
+      "timestamp": "2026-07-10T22:45:39.309317Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/thomas-tuchel-suffers-another-right-back-setback-as-jarell-quansah-receives-two-game-suspension/"
+        }
+      ]
+    },
+    {
+      "title": "France vs Morocco Results Today: FIFA World Cup Quarter-final Live Score, Updates, Stats",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The France national football team faced the Morocco national football team on Thursday in the opening quarter-final of the 2026 FIFA World Cup, renewing one of the tournament\u2019s most memorable recent rivalries. The match took place at Boston Stadium in Foxboro\u2026",
+      "timestamp": "2026-07-10T22:45:39.309365Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://heavy.com/sports/soccer/world-cup/france-vs-morocco-results-today-fifa-world-cup-quarter-final-live-score-updates-stats/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup updates: France take on Morocco in first quarterfinal showdown - ESPN",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "World Cup updates: France take on Morocco in first quarterfinal showdownESPN Boston Stadium in Foxborough to host its final 2026 World Cup matchWJAR Mbapp\u00e9 does a Messi 2.0: superstar only scores screamersYahoo Sports Photos: France meets Morocco in World Cup\u2026",
+      "timestamp": "2026-07-10T22:45:39.309418Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184385110"
+        }
+      ]
+    },
+    {
+      "title": "Michael Olise Avoids Yellow Card vs. Morocco, Will Be Available For World Cup Semifinals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Michael Olise avoided the worst-case scenario in France's 2-0 win over Morocco in the 2026 FIFA World Cup quarterfinals on Thursday at Boston Stadium.",
+      "timestamp": "2026-07-10T22:45:39.309509Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/michael-olise-avoids-yellow-card-vs-morocco-will-available-world-cup-semifinals"
+        }
+      ]
+    },
+    {
+      "title": "2026 FIFA World Cup Schedule: Bracket, matches, dates, locations, group tables, results, how to watch",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The full schedule with dates, times and stadiums for all 104 games at the 2026 World Cup.",
+      "timestamp": "2026-07-10T22:45:39.309604Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.nbcsports.com/soccer/news/2026-world-cup-schedule-kick-off-times-stadiums-dates-groups-how-to-watch-live-bracket"
+        }
+      ]
+    },
+    {
+      "title": "Who, when and where will France play in the 2026 World Cup semifinals?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The next rival at the 2026 World Cup is uncertain for France, but they know the date and stadium. One of the four semifinalists at the 2026 World Cup has been decided after France beat Morocco 2-0 in a rematch from the previous edition to continue their run i\u2026",
+      "timestamp": "2026-07-10T22:45:39.309677Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/who-when-and-where-will-france-play-in-the-2026-world-cup-semifinals/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup 2026: What teams have advanced to the Semifinals?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "What teams have advanced to the Semifinals at the 2026 FIFA World Cup?",
+      "timestamp": "2026-07-10T22:45:39.309707Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sbnation.com/soccer/1122145/world-cup-2026-what-teams-have-advanced-semifinals"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Cup Bracket: Live Look At Semifinals Matchups",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Here's how the semifinals matchups look like at the 2026 FIFA World Cup.",
+      "timestamp": "2026-07-10T22:45:39.309768Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-bracket-semifinals-finals-matchups"
+        }
+      ]
+    },
+    {
+      "title": "Scapegoating Christian Pulisic for USMNT World Cup defeat is neither fair nor accurate",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "There was plenty of blame to go around for USMNT's dismal performance against Belgium in the 2026 World Cup Round of 16. But all of it seems to be concenrated on star Christian Pulisic, because he's the player most recognized.",
+      "timestamp": "2026-07-10T22:45:39.309903Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/scapegoating-christian-pulisic-neither-fair-nor-accurate/74e905d159da9b238fe6c3a3"
+        }
+      ]
+    },
+    {
+      "title": "Kylian Mbapp\u00e9 Equals Lionel Messi's Record For Most Non-Penalty World Cup Goals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Kylian Mbapp\u00e9 continues to break records at the 2026 World Cup and has done so again with his latest goal in the quarterfinals against Morocco.",
+      "timestamp": "2026-07-10T22:45:39.309966Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/kylian-mbappe-equals-lionel-messis-record-most-non-penalty-world-cup-goals"
+        }
+      ]
+    },
+    {
       "title": "How many goals has Kylian Mbappe scored this World Cup? Latest update",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France's Kylian Mbappe is locked in a battle with Lionel Messi for the Golden Boot race at the 2026 World Cup and the record for most goals all time.",
-      "timestamp": "2026-07-10T21:46:56.153588Z",
+      "timestamp": "2026-07-10T22:45:39.310010Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Whatever good vibes surrounded the USMNT during their first four matches in the 2026 FIFA World Cup evaporated following their 4-1 loss to Belgium in the Round of 16. After that, it was open season on the U.S.squad, and especially star player Christian Pulisi\u2026",
-      "timestamp": "2026-07-10T21:46:56.153677Z",
+      "timestamp": "2026-07-10T22:45:39.310094Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Buenos Aires official Jorge Macri fires back at NYC Mayor Zohran Mamdani over his \u201cEgypt was robbed\u201d 2026 World Cup comments, channeling Messi's famous retort",
-      "timestamp": "2026-07-10T21:46:56.153856Z",
+      "timestamp": "2026-07-10T22:45:39.310323Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Norway and England face off this Saturday at the Hard Rock Stadium in World Cup. The match will be broadcast live at 22:00 on ITV 1.In their last game, Norway won 1-2 against Brazil (World Cup 2026). ...",
-      "timestamp": "2026-07-10T21:46:56.153904Z",
+      "timestamp": "2026-07-10T22:45:39.310390Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jarell Quansah has been given a two-match ban following his red card in England\u2019s last-16 win over Mexico. The Bayer Leverkusen defender was given a straight red following a VAR review of a challenge on Jesus Gallardo in the second half at the Estadio Azteca,\u2026",
-      "timestamp": "2026-07-10T21:46:56.154062Z",
+      "timestamp": "2026-07-10T22:45:39.310617Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "LA uses World Cup to show off upgraded public transit and test plans to hold car-free Olympics\nLos Angeles officials have urged fans to chose public transit over driving during the 2026 FIFA World Cup\nLOS ANGELES -- When Matthew Smith took his five-year-old s\u2026",
-      "timestamp": "2026-07-10T21:46:56.154100Z",
+      "timestamp": "2026-07-10T22:45:39.310677Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Cape Verde nearly knocked out defending World Cup champion Argentina in a spectacular run",
-      "timestamp": "2026-07-10T21:46:56.154123Z",
+      "timestamp": "2026-07-10T22:45:39.310719Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This article is republished from\u00a0The Conversation\u00a0under a Creative Commons license. Read the\u00a0original article. The 2026\u00a0FIFA World Cup\u00a0is the\u00a0largest sporting event\u00a0in history. It\u2019s also the most surveilled World Cup ever. If you\u2019re visiting or traveling arou\u2026",
-      "timestamp": "2026-07-10T21:46:56.154214Z",
+      "timestamp": "2026-07-10T22:45:39.310859Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup has brought millions of fans together across North America, and a new survey suggests many of those connections are affecting Americans\u2019 dating lives.\nAccording to a new study from DatingAdvice.com, nearly seven in 10 singles living in\u2026",
-      "timestamp": "2026-07-10T21:46:56.154246Z",
+      "timestamp": "2026-07-10T22:45:39.310915Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Los Angeles officials have urged fans to chose public transit over driving during the 2026 FIFA World Cup",
-      "timestamp": "2026-07-10T21:46:56.154319Z",
+      "timestamp": "2026-07-10T22:45:39.311018Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With the 2026 FIFA World Cup now down to its final eight participants, the first of four semifinalists will be crowned as tournament favorites France will take on African giants Morocco in their quarterfinal from Boston on Thursday.",
-      "timestamp": "2026-07-10T21:46:56.154401Z",
+      "timestamp": "2026-07-10T22:45:39.311132Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's what the pregnant soccer legend told a social media user who commented on her appearance during the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-10T21:46:56.154480Z",
+      "timestamp": "2026-07-10T22:45:39.311253Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +542,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina star Lionel Messi once bathed a baby Lamine Yamal. Now, the two soccer superstars could face each other during the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-10T21:46:56.154513Z",
+      "timestamp": "2026-07-10T22:45:39.311307Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +556,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "It's Kon\u00e9 vs. El Aynaoui with a spot in the World Cup semis on the line!",
-      "timestamp": "2026-07-10T21:46:56.154568Z",
+      "timestamp": "2026-07-10T22:45:39.311418Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +570,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Set to face Morocco in the 2026 World Cup quarterfinals, Aurelien Tchouameni is one of the main absences in France's starting lineup. France faces Morocco on Thursday, July 10th, at Boston Stadium in the 2026 World Cup quarterfinals, with a place in the final\u2026",
-      "timestamp": "2026-07-10T21:46:56.154616Z",
+      "timestamp": "2026-07-10T22:45:39.311494Z",
       "links": [
         {
           "label": "Source",
@@ -346,254 +584,271 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup is down to eight teams. Here are the standout players leading their nations to glory.",
-      "timestamp": "2026-07-10T21:46:56.154636Z",
+      "timestamp": "2026-07-10T22:45:39.311525Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.elpasotimes.com/story/sports/soccer/2026/07/09/world-cup-stars-to-watch-for-final-8-teams-who-led-way-to-quarterfinals/90861288007/"
         }
       ]
-    },
-    {
-      "title": "Portuguese referee appointed to officiate Argentina vs Switzerland clash",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA has confirmed the officiating team for the 2026 FIFA World Cup quarter-final between Argentina and Switzerland.\nThe post Portuguese referee appointed to officiate Argentina vs Switzerland clash appeared first on Vanguard News.",
-      "timestamp": "2026-07-10T21:46:56.154732Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/portuguese-referee-appointed-to-officiate-argentina-vs-switzerland-clash/"
-        }
-      ]
-    },
-    {
-      "title": "How to Watch the France vs. Morocco FIFA World Cup Quarter-Final Live for Free",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Morocco are on a 39-game unbeaten run, while France are favorites to lift the trophy. Only one of them will advance to the top four. Who will it be? Watch this epic quarter-final clash live using a streaming subscription or VPN.\nHow to watch for free: Today's\u2026",
-      "timestamp": "2026-07-10T21:46:56.154797Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/166071/how-to-watch-france-vs-morocco-fifa-world-cup-quarterfinal-live-for-free"
-        }
-      ]
-    },
-    {
-      "title": "Cubarsi defends Barcelona duo Pedri and Lamine amid criticism: \u2018The best at that\u2019",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain defender Pau Cubarsi appeared on Radio MARCA for an interview today ahead of their 2026 FIFA World Cup quarter-final against Belgium.The Barcelona youngster has easily been one of Spain\u2019s stan...",
-      "timestamp": "2026-07-10T21:46:56.154828Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/cubarsi-defends-barcelona-duo-pedri-and-lamine-amid-criticism-the-best-at-that/"
-        }
-      ]
-    },
-    {
-      "title": "How to watch France vs Morocco: Live stream, TV channel & start time for World Cup Quarterfinals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Kylian Mbappe encounters his biggest test of the World Cup 2026 thus far as he hopes to lead France past Morocco in the first of four quarterfinals. How to Watch France vs Morocco France and Morocco will go head-to-head in\u2026",
-      "timestamp": "2026-07-10T21:46:56.154858Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/how-to-watch-france-vs-morocco-live-stream-tv-channel-start-time-for-world-cup-quarterfinals/"
-        }
-      ]
-    },
-    {
-      "title": "Michael Oliver and Anthony Taylor barred from Argentina matches at World Cup 2026",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The barring of English referees from Argentina matches highlights how historical conflicts can influence sports governance and neutrality policies.\nThe post Michael Oliver and Anthony Taylor barred from Argentina matches at World Cup 2026 appeared first on Cr\u2026",
-      "timestamp": "2026-07-10T21:46:56.154890Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/oliver-taylor-barred-argentina-world-cup-2026/"
-        }
-      ]
-    },
-    {
-      "title": "Real Madrid versatile attacker not considering offers to leave this summer \u2013 report",
-      "risk": "high",
-      "severityText": "P1 CRITICAL",
-      "status": "VERIFIED",
-      "description": "Now established as one of Morocco\u2019s leaders at the ongoing 2026 FIFA World Cup, Brahim D\u00edaz has no intention of leaving Real Madrid, according to SPORT. Backed by Jos\u00e9 Mourinho, the attacking midf...",
-      "timestamp": "2026-07-10T21:46:56.154948Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://madriduniversal.com/real-madrid-versatile-attacker-not-considering-offers-to-leave-this-summer-report/"
-        }
-      ]
-    },
-    {
-      "title": " Rematch on the cards? France and Morocco line-ups confirmed",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup is back!And the first semifinalist will be decided this Thursday (9).France and Morocco will face off from 5 p.m. (Bras\u00edlia time) at Gillette Stadium in Boston.It will be a re...",
-      "timestamp": "2026-07-10T21:46:56.155047Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/rematch-on-the-cards-france-and-morocco-line-ups-confirmed-43118914"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026 quarter final: France vs. Morocco with Milan and Roma stars",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Serie A players Mike Maignan, Adrien Rabiot and Manu Kon\u00e9 start for France in the first World Cup quarter-final against Morocco and Roma\u2019s Neil El Aynaoui and Anass Salah-Eddine.",
-      "timestamp": "2026-07-10T21:46:56.155074Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://football-italia.net/world-cup-2026-quarter-final-france-vs-morocco/"
-        }
-      ]
-    },
-    {
-      "title": "How to Watch the 2026 FIFA World Cup Live Without Cable (and Even for Free)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Get ready. The World Cup quarter-finals kick off today at 4 p.m. ET with a match between heavyweights, France and Morocco. Who will secure a place in the semi-finals? Here's how to catch the action live.\nAnd then there were eight. The 2026 World Cup quarter-f\u2026",
-      "timestamp": "2026-07-10T21:46:56.155111Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/161984/how-to-watch-2026-fifa-world-cup-game-live-stream-for-free-july-9"
-        }
-      ]
-    },
-    {
-      "title": "Brazil World Cup exit sparks Neymar retirement speculation as father makes emotional plea",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Neymar has confirmed his retirement from international football after Brazil's FIFA World Cup Round of 16 exit to Norway, and reports from his homeland suggest he could now retire from the game altogether",
-      "timestamp": "2026-07-10T21:46:56.155136Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/brazil-world-cup-neymar-retirement-1929488"
-        }
-      ]
-    },
-    {
-      "title": "World Cup Round of 32 delivers 16.9 million viewers per game between Fox, Telemundo",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup rolls on with Fox and Telemundo reporting strong viewership throughout the Round of 32, on par with regular-season NFL games. According to Sports Business Journal, Fox Sports and Telemundo combined to average 16.9 million viewers durin\u2026",
-      "timestamp": "2026-07-10T21:46:56.155192Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/world-cup-round-of-32-viewership-monday-night-football-audiences.html"
-        }
-      ]
-    },
-    {
-      "title": "Revealed: FIFA's World Cup security flaw, the golden rule at USA practice... and a furious train encounter with Jesse Marsch",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "DANIEL MATTHEWS IN LOS ANGELES: There appears to be a hole in FIFA's ring of steel around this World Cup. A miscreant has snuck through the net.",
-      "timestamp": "2026-07-10T21:46:56.155233Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15951473/fifa-world-cup-security-flaw-usa-training-jesse-marsch.html"
-        }
-      ]
-    },
-    {
-      "title": "Why isn\u2019t Ismael Saibari playing for Morocco against France at the 2026 World Cup?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Morocco will be facing France for the 2026 World Cup quarterfinals with Ismael Saibari being one of the main absences for the game. Morocco opens the quarterfinal round of the 2026 World Cup against France on Thursday, July 10th, at Boston Stadium, but the At\u2026",
-      "timestamp": "2026-07-10T21:46:56.155281Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/why-isnt-ismael-saibari-playing-for-morocco-against-france-at-the-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "Barcelona star Gavi: \u2018I dream of scoring the World Cup final winner against Messi\u2019s Argentina\u2019",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain midfielder Gavi was one of the three players selected by the national team to speak to the media on the eve of their 2026 FIFA World Cup quarterfinal against Belgium in Los Angeles, a match that...",
-      "timestamp": "2026-07-10T21:46:56.155420Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelona-star-gavi-i-dream-of-scoring-the-world-cup-final-winner-against-messis-argentina/"
-        }
-      ]
-    },
-    {
-      "title": "Erling Haaland shows he has no weakness after completing rare 2026 World Cup scoring record set",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "As the tournament heads into its decisive stages, the Manchester City striker has once again proven why he is regarded as one of soccer's most complete forwards. Erling Haaland\u00a0continues to find new ways to dominate the\u00a02026 World Cup, and the Norway star has\u2026",
-      "timestamp": "2026-07-10T21:46:56.155494Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/erling-haaland-shows-he-has-no-weakness-after-completing-rare-2026-world-cup-scoring-record-set/"
-        }
-      ]
-    },
-    {
-      "title": "England's Quansah given two-match ban for red card against Mexico",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Jarell Quansah has been given a two-match ban following his red card in England\u2019s last-16 win over Mexico. The Bayer Leverkusen defender was given a straight red following a VAR review of a challenge on Jesus Gallardo in the second half at the Estadio Azteca,\u2026",
-      "timestamp": "2026-07-10T21:46:56.155534Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260709-99-15496/"
-        }
-      ]
-    },
-    {
-      "title": "France vs Morocco Live Score, FIFA World Cup 2026 Quarter Finals: All Eyes on Kylian Mbapp\u00e9 in Race for the Semi-Finals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The opening quarter-final of the FIFA World Cup 2026 promises to deliver one of the tournament's standout encounters as France meet Morocco at Boston",
-      "timestamp": "2026-07-10T21:46:56.155593Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup-2026-france-vs-morocco-live-score-quarter-finals-football-match-today-kylian-mbappe-achraf-hakimi-clash-prediction-latest-updates/liveblog/132295916.cms"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 10",
+      "loc": "Boston",
+      "event": "France batted Morocco away with two strikes of sublime brilliance - the World Cup favourites showed they can win in different ways to book semi-final spot, writes IAN HERBERT",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15965043/France-2-0-Morocco-World-Cup-2026-Result.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026 Quarter Final France Vs Morocco 1080p HDTV H264-DARKSPORT",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://post.rlsbb.cc/fifa-world-cup-2026-quarter-final-france-vs-morocco-1080p-hdtv-h264-darksport/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "4 Takeaways From France's Win vs. Morocco In The World Cup Quarterfinals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/4-takeaways-from-frances-win-vs-morocco-world-cup-quarterfinals"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "World Cup 2026: England defender Marc Guehi fitness worry with hamstring injury",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "France Star Michael Olise Hit With Major Transfer News During World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://heavy.com/sports/soccer/world-cup/michael-olise-real-madrid-transfer-news/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Who is in the World Cup semifinals? LIVE bracket, updates as France advances",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/09/live-world-cup-bracket-updates-semifinals/90859320007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Cherki's France reach World Cup semi-finals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.mancity.com/news/mens/rayan-cherki-france-morocco-world-cup-quarter-final-63919222"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Thomas Tuchel suffers another right-back setback as Jarell Quansah receives two-game suspension",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/thomas-tuchel-suffers-another-right-back-setback-as-jarell-quansah-receives-two-game-suspension/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "France vs Morocco Results Today: FIFA World Cup Quarter-final Live Score, Updates, Stats",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://heavy.com/sports/soccer/world-cup/france-vs-morocco-results-today-fifa-world-cup-quarter-final-live-score-updates-stats/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "World Cup updates: France take on Morocco in first quarterfinal showdown - ESPN",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184385110"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Michael Olise Avoids Yellow Card vs. Morocco, Will Be Available For World Cup Semifinals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/michael-olise-avoids-yellow-card-vs-morocco-will-available-world-cup-semifinals"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "2026 FIFA World Cup Schedule: Bracket, matches, dates, locations, group tables, results, how to watch",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.nbcsports.com/soccer/news/2026-world-cup-schedule-kick-off-times-stadiums-dates-groups-how-to-watch-live-bracket"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Who, when and where will France play in the 2026 World Cup semifinals?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/who-when-and-where-will-france-play-in-the-2026-world-cup-semifinals/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "World Cup 2026: What teams have advanced to the Semifinals?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sbnation.com/soccer/1122145/world-cup-2026-what-teams-have-advanced-semifinals"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "2026 World Cup Bracket: Live Look At Semifinals Matchups",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-bracket-semifinals-finals-matchups"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Scapegoating Christian Pulisic for USMNT World Cup defeat is neither fair nor accurate",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/scapegoating-christian-pulisic-neither-fair-nor-accurate/74e905d159da9b238fe6c3a3"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Kylian Mbapp\u00e9 Equals Lionel Messi's Record For Most Non-Penalty World Cup Goals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/kylian-mbappe-equals-lionel-messis-record-most-non-penalty-world-cup-goals"
+        }
+      ]
+    },
     {
       "date": "Jul 10",
       "loc": "Global",
@@ -833,262 +1088,7 @@
           "url": "https://www.elpasotimes.com/story/sports/soccer/2026/07/09/world-cup-stars-to-watch-for-final-8-teams-who-led-way-to-quarterfinals/90861288007/"
         }
       ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Portuguese referee appointed to officiate Argentina vs Switzerland clash",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/portuguese-referee-appointed-to-officiate-argentina-vs-switzerland-clash/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "How to Watch the France vs. Morocco FIFA World Cup Quarter-Final Live for Free",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/166071/how-to-watch-france-vs-morocco-fifa-world-cup-quarterfinal-live-for-free"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Cubarsi defends Barcelona duo Pedri and Lamine amid criticism: \u2018The best at that\u2019",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/cubarsi-defends-barcelona-duo-pedri-and-lamine-amid-criticism-the-best-at-that/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "How to watch France vs Morocco: Live stream, TV channel & start time for World Cup Quarterfinals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/how-to-watch-france-vs-morocco-live-stream-tv-channel-start-time-for-world-cup-quarterfinals/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Michael Oliver and Anthony Taylor barred from Argentina matches at World Cup 2026",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/oliver-taylor-barred-argentina-world-cup-2026/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Real Madrid versatile attacker not considering offers to leave this summer \u2013 report",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "high",
-      "impact": "P1 CRITICAL",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://madriduniversal.com/real-madrid-versatile-attacker-not-considering-offers-to-leave-this-summer-report/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Boston",
-      "event": " Rematch on the cards? France and Morocco line-ups confirmed",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/rematch-on-the-cards-france-and-morocco-line-ups-confirmed-43118914"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "World Cup 2026 quarter final: France vs. Morocco with Milan and Roma stars",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://football-italia.net/world-cup-2026-quarter-final-france-vs-morocco/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "How to Watch the 2026 FIFA World Cup Live Without Cable (and Even for Free)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/161984/how-to-watch-2026-fifa-world-cup-game-live-stream-for-free-july-9"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Brazil World Cup exit sparks Neymar retirement speculation as father makes emotional plea",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/brazil-world-cup-neymar-retirement-1929488"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "World Cup Round of 32 delivers 16.9 million viewers per game between Fox, Telemundo",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/world-cup-round-of-32-viewership-monday-night-football-audiences.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Revealed: FIFA's World Cup security flaw, the golden rule at USA practice... and a furious train encounter with Jesse Marsch",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15951473/fifa-world-cup-security-flaw-usa-training-jesse-marsch.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Why isn\u2019t Ismael Saibari playing for Morocco against France at the 2026 World Cup?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/why-isnt-ismael-saibari-playing-for-morocco-against-france-at-the-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Barcelona star Gavi: \u2018I dream of scoring the World Cup final winner against Messi\u2019s Argentina\u2019",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelona-star-gavi-i-dream-of-scoring-the-world-cup-final-winner-against-messis-argentina/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Erling Haaland shows he has no weakness after completing rare 2026 World Cup scoring record set",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/erling-haaland-shows-he-has-no-weakness-after-completing-rare-2026-world-cup-scoring-record-set/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Mexico City",
-      "event": "England's Quansah given two-match ban for red card against Mexico",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260709-99-15496/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "France vs Morocco Live Score, FIFA World Cup 2026 Quarter Finals: All Eyes on Kylian Mbapp\u00e9 in Race for the Semi-Finals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup-2026-france-vs-morocco-live-score-quarter-finals-football-match-today-kylian-mbappe-achraf-hakimi-clash-prediction-latest-updates/liveblog/132295916.cms"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-10T21:46:56.155755Z"
+  "lastUpdated": "2026-07-10T22:45:39.311788Z"
 }
