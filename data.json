@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 1,
-    "p3": 26
+    "p3": 31
   },
   "watchlist": [
     {
@@ -131,12 +131,236 @@
   ],
   "risks": [
     {
+      "title": "FIFA World Cup 2026: Some goals down? Comeback history says it's not over yet",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA World Cup 2026 Comeback: Football's World Cup stage has witnessed numerous dramatic comebacks. Argentina recently escaped a two-goal deficit against Egypt in a thrilling match. The 1954 Austria versus Switzerland game ended with a remarkable seven-five s\u2026",
+      "timestamp": "2026-07-10T08:14:02.651882Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-comeback-kings-teams-argentina-portugal-austria-north-korea-switzerland-best-world-cup-turnarounds-history/articleshow/132280377.cms"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup: Refereeing chief denies bias claims in Argentina-Egypt game",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Pierluigi Collina said that such allegations of bias could provoke threats against referees and their families.",
+      "timestamp": "2026-07-10T08:14:02.651931Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/9/argentina-egypt-world-cup-referee-var-bias-collina-salah-zico-hassan"
+        }
+      ]
+    },
+    {
+      "title": "Where is the France game today? France vs Morocco World Cup stadium",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Kylian Mbappe and the France national team will battle Morocco in the World Cup quarterfinals on July 9. Boston Stadium isn't truly in Boston, though.",
+      "timestamp": "2026-07-10T08:14:02.651983Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.patriotledger.com/story/sports/pro/2026/07/09/where-is-france-vs-morocco-heres-the-world-cup-stadium-in-boston/90849767007/"
+        }
+      ]
+    },
+    {
+      "title": "Barcelona superstar Lamine Yamal calls Real Madrid veteran \u2018one of the best in the world\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "As Spain prepare for one of their toughest tests of the 2026 FIFA World Cup, Barcelona forward Lamine Yamal has reserved special praise for the player he believes could make the biggest difference for...",
+      "timestamp": "2026-07-10T08:14:02.652080Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/barcelona-superstar-lamine-yamal-calls-real-madrid-veteran-one-of-the-best-in-the-world/"
+        }
+      ]
+    },
+    {
+      "title": "Could Morocco become a football powerhouse?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again.",
+      "timestamp": "2026-07-10T08:14:02.652115Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.com/sport/football/articles/cewqqxz4ye9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
+        }
+      ]
+    },
+    {
+      "title": "Could Morocco become a football powerhouse?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again.",
+      "timestamp": "2026-07-10T08:14:02.652131Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cewqqxz4ye9o"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Cup | Who are France\u2019s opponents, Morocco?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France\u2019s opponents in the Quarter-finals at the 2026 FIFA World Cup are Morocco. We look at the players that comprise their squad.\u00a0Yassine BounouDOB: 5 April 1991Club: Al-HilalPosition: GoalkeeperO...",
+      "timestamp": "2026-07-10T08:14:02.652296Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.getfootballnewsfrance.com/2026/2026-world-cup-who-are-frances-opponents-morocco/"
+        }
+      ]
+    },
+    {
+      "title": "Where to watch the World Cup quarter-finals in London 2026",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "From England vs Norway to France vs Morocco, here are the absolute best pubs, bars and international fan zones in London for all eight remaining teams.",
+      "timestamp": "2026-07-10T08:14:02.652492Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.timeout.com/london/news/best-places-watch-world-cup-quarter-finals-london-2026-070926"
+        }
+      ]
+    },
+    {
+      "title": "Fact Check: Video Does NOT Show FIFA's Infantino Reaction To Egypt Scoring Goal During World Cup In July 2026",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Does a viral video show FIFA President Gianni Infantino reacting to Egypt's goal during a July 2026 World Cup game? No, that's not true: The video clip was miscaptioned. The video had been online days earlier, before that match, and...",
+      "timestamp": "2026-07-10T08:14:02.652552Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://leadstories.com/hoax-alert/2026/07/fact-check-video-does-not-show-fifas-infantino-reaction-to-egypt-scoring-goal-during-world-cup-in-july-2026.html"
+        }
+      ]
+    },
+    {
+      "title": "France vs Morocco: World Cup quarterfinal \u2013 prediction, start time, lineups",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Title favourites France face African champions Morocco, as football\u2019s 2026 World Cup enters the last-eight phase.",
+      "timestamp": "2026-07-10T08:14:02.652596Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/9/france-morocco-world-cup-quarterfinal-mbappe-saibari-prediction-start-time-lineups"
+        }
+      ]
+    },
+    {
+      "title": "What time is France vs. Morocco? Live stream, TV channel, kickoff schedule for World Cup 2026 quarterfinal match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Here's everything you need to know to watch the France vs. Morocco World Cup match, including where to watch on TV or live stream, what time the game starts and more.",
+      "timestamp": "2026-07-10T08:14:02.652636Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/france-vs-morocco-time-live-stream-channel-schedule-world-cup/2db4911bc40e20fbc4d23d11"
+        }
+      ]
+    },
+    {
+      "title": "France vs. Morocco history: Head-to-head matches at World Cup, last meeting, team records and more",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Set for a high-stakes matchup at the 2026 World Cup, here's a look at all the big France-Morocco games of the past.",
+      "timestamp": "2026-07-10T08:14:02.652656Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/france-morocco-history-head-head-matches-world-cup/9a8821787a47838460ba587b"
+        }
+      ]
+    },
+    {
+      "title": "France predicted XI v Morocco: D\u00e9sir\u00e9 Dou\u00e9 to start, Aur\u00e9lien Tchouam\u00e9ni out",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France lock horns with Morocco tonight in the first 2026 FIFA World Cup quarter-final. The game will be held at Foxborough\u2019s Gillette Stadium, a stone\u2019s throw from\u00a0Les Bleus\u2018 Boston base camp. ...",
+      "timestamp": "2026-07-10T08:14:02.652681Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.getfootballnewsfrance.com/2026/france-predicted-xi-v-morocco-desire-doue-to-start-aurelien-tchouameni-out/"
+        }
+      ]
+    },
+    {
+      "title": "How to watch World Cup 2026 ad-free",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Here's how to watch World Cup 2026 ad-free, saving you from the mind-numbing scourge of hydration break ads that eat into the games themselves.",
+      "timestamp": "2026-07-10T08:14:02.652699Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/how-to-watch/football/world-cup-2026-ad-free"
+        }
+      ]
+    },
+    {
+      "title": "Justin Bieber joining Madonna, BTS and Shakira for 2026 FIFA World Cup Final Halftime Show",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup Final Halftime Show will be staged at the New York New Jersey Stadium in New Jersey on 19 July.",
+      "timestamp": "2026-07-10T08:14:02.652717Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/justin-bieber-joining-madonna-bts-045526271.html"
+        }
+      ]
+    },
+    {
+      "title": "Argentina faces FBI investigation amid World Cup run",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Led by international superstar Lionel Messi, the Argentinian soccer team has reached the quarterfinal of the 2026 FIFA World Cup as it looks to defend its 2022 World Cup title. However, in addition to the challenge on the field, it sounds like the team is goi\u2026",
+      "timestamp": "2026-07-10T08:14:02.652762Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/argentina-faces-fbi-investigation-amid-world-cup-run.html"
+        }
+      ]
+    },
+    {
       "title": "FIFA World Cup\u2122 Fans Embrace Referee View as Lenovo AI Brings Viewers Closer to the Pitch",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "91% of fans say the new broadcast technology has made the FIFA World Cup 2026\u2122 viewing experience more dynamic MORRISVILLE, N.C. \u2014 New international research from Lenovo reveals that technological advancements are fundamentally changing how fans experience th\u2026",
-      "timestamp": "2026-07-10T04:41:30.266414Z",
+      "timestamp": "2026-07-10T08:14:02.652840Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup has narrowed from 48 teams down to just eight.",
-      "timestamp": "2026-07-10T04:41:30.266463Z",
+      "timestamp": "2026-07-10T08:14:02.652866Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The U.S. women's national team (USWNT) won't compete in the World Cup until next summer in Brazil, but the players will still enjoy a nice payday from what their male counterparts just did in the 2026 FIFA World Cup.\nESPN's Jeff Kassouf reported that the USMN\u2026",
-      "timestamp": "2026-07-10T04:41:30.266545Z",
+      "timestamp": "2026-07-10T08:14:02.652933Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Egypt remains incensed at French referee Francois Letexier after his performance in the Round of 16 clash against Argentina at the FIFA World Cup.",
-      "timestamp": "2026-07-10T04:41:30.266564Z",
+      "timestamp": "2026-07-10T08:14:02.652955Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The USMNT\u2019s woes continue even after their embarrassing elimination from the 2026 FIFA World Cup. Belgium gave the USMNT a thrashing during their Round of 16 battle, with a 4-1 win over the hosts, as it exposed some major flaws in their current squad.",
-      "timestamp": "2026-07-10T04:41:30.266599Z",
+      "timestamp": "2026-07-10T08:14:02.652996Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +430,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Erling Haaland is making sure Wayne Rooney doesn\u2019t forget a promise he made years ago after the Norwegians booked their place in the last eight. With Norway preparing to face England in the FIFA World Cup quarter-finals, the Manchester City striker playfully \u2026",
-      "timestamp": "2026-07-10T04:41:30.266624Z",
+      "timestamp": "2026-07-10T08:14:02.653025Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Martin Odegaard says \"underdogs\" Norway are ready to show their teeth again in Saturday's World Cup quarter-final against England. All eyes will be on the Hard Rock Stadium as the Scandinavians look to repeat their stunning 2-1 victory against Brazil when the\u2026",
-      "timestamp": "2026-07-10T04:41:30.266708Z",
+      "timestamp": "2026-07-10T08:14:02.653120Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Round of 16 battle between Argentina and Egypt caused a major uproar among soccer fans. Mohamed Salah and Egypt looked all set to knock Argentina out of the 2026 FIFA World Cup as they held a 2-0 lead in their Round of 16 match.",
-      "timestamp": "2026-07-10T04:41:30.266786Z",
+      "timestamp": "2026-07-10T08:14:02.653207Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The World Cup brings its first Halftime Show to another level by adding Justin Bieber to its lineup of global superstars, which includes BTS, Madonna, and Shakira.",
-      "timestamp": "2026-07-10T04:41:30.266806Z",
+      "timestamp": "2026-07-10T08:14:02.653228Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup is heading into its final stretch.This Wednesday (8), there wasn\u2019t even a \u201cPanama vs Uzbekistan\u201d to brighten the day for football fans.And with the Brazilian National Tea...",
-      "timestamp": "2026-07-10T04:41:30.266881Z",
+      "timestamp": "2026-07-10T08:14:02.653315Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "While there will come a day when everyone looks back fondly on the USMNT\u2019s run in the 2026 FIFA World Cup, we\u2019re still in the process of making sense of the team\u2019s 4-1 drubbing at the hands of Belgium. While expectations were sky-high, the criticism towards t\u2026",
-      "timestamp": "2026-07-10T04:41:30.266967Z",
+      "timestamp": "2026-07-10T08:14:02.653454Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup has a lot of firsts, including the first ever World Cup halftime show. Shakira, Justin Bieber and more will perform at the final.",
-      "timestamp": "2026-07-10T04:41:30.266985Z",
+      "timestamp": "2026-07-10T08:14:02.653479Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Coldplay\u2019s Chris Martin is in charge of curating the artists for the star-studded show.",
-      "timestamp": "2026-07-10T04:41:30.267002Z",
+      "timestamp": "2026-07-10T08:14:02.653499Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +542,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The quarterfinal matchups are set for the 2026 World Cup. Here's how much teams make depending on how they finish.",
-      "timestamp": "2026-07-10T04:41:30.267021Z",
+      "timestamp": "2026-07-10T08:14:02.653554Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +556,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup quarterfinals kick off on Saturday with four intriguing confrontations. Past champions Argentina, France, Spain and England are competing.",
-      "timestamp": "2026-07-10T04:41:30.267076Z",
+      "timestamp": "2026-07-10T08:14:02.653624Z",
       "links": [
         {
           "label": "Source",
@@ -346,170 +570,256 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Portugal star said the now-iconic gesture came naturally after he scored a goal at Miami's Hard Rock Stadium.",
-      "timestamp": "2026-07-10T04:41:30.267114Z",
+      "timestamp": "2026-07-10T08:14:02.653694Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.complex.com/sports/a/markelibert/cristiano-ronaldo-siuuu-celebration-origin-usa"
         }
       ]
-    },
-    {
-      "title": "\u2018Utter nonsense\u2019: Debate ignites around USMNT having to split World Cup pay 50/50 with women\u2019s team",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The USWNT will compete in the World Cup next year, but it\u2019ll still be getting a massive payday on the heels of the USMNT\u2019s run to the round of 16 in the 2026 FIFA World Cup. The Men\u2019s team\u2019s run ended with a shockingly poor showing as the squad lost 4-1 to Be\u2026",
-      "timestamp": "2026-07-10T04:41:30.267146Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/debate-ignites-around-us-soccer-cba.html"
-        }
-      ]
-    },
-    {
-      "title": "Surveillance cameras in Seattle's Stadium District shut off after FIFA World Cup over fears of crime, after they were turned on over fears of crime [Followup]",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Surveillance cameras in Seattle's Stadium District shut off after FIFA World Cup over fears of crime, after they were turned on over fears of crime",
-      "timestamp": "2026-07-10T04:41:30.267288Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.fark.com/comments/14124094/Surveillance-cameras-in-Seattles-Stadium-District-shut-off-after-FIFA-World-Cup-over-fears-of-crime-after-they-were-turned-on-over-fears-of-crime"
-        }
-      ]
-    },
-    {
-      "title": "3 England players miss training ahead of Norway World Cup clash",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Three England players were absent from training on Wednesday ahead of Saturday's 2026 FIFA World Cup quarter-final against Norway.\nThe post 3 England players miss training ahead of Norway World Cup clash appeared first on Vanguard News.",
-      "timestamp": "2026-07-10T04:41:30.267377Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/3-england-players-miss-training-ahead-of-norway-world-cup-clash/"
-        }
-      ]
-    },
-    {
-      "title": "England fan who used life savings to take grandad to World Cup gets refunded",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "An England supporter who gave up his house deposit to take his grandfather to the 2026 FIFA World Cup has received an unexpected financial boost after a company reimbursed the entire \u00a310,000 he spent on the once-in-a-lifetime trip.\nThe post England fan who us\u2026",
-      "timestamp": "2026-07-10T04:41:30.267424Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/england-fan-who-used-life-savings-to-take-grandad-to-world-cup-gets-refunded/"
-        }
-      ]
-    },
-    {
-      "title": "Justin Bieber Will Co-Headline the World Cup Final Halftime Show",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Justin Bieber has been announced as one of the co-headliners of the first-ever FIFA World Cup halftime show.",
-      "timestamp": "2026-07-10T04:41:30.267508Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.thecut.com/article/justin-bieber-co-headlining-world-cup-halftime-show.html"
-        }
-      ]
-    },
-    {
-      "title": "Justin Bieber to join Shakira, BTS in World Cup final halftime show",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Justin Bieber is taking his talents to the biggest stage in soccer. Bieber will join Shakira, Madonna & BTS as co-headliners in the first-ever FIFA World Cup final halftime show on July 19. Bieber previously attended the U.S. men\u2019s national team match against\u2026",
-      "timestamp": "2026-07-10T04:41:30.267574Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/08/sports/justin-bieber-to-join-shakira-bts-in-world-cup-halftime-show/"
-        }
-      ]
-    },
-    {
-      "title": "Will Justin Bieber Look Up YouTube Videos at the FIFA Halftime Show?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Justin Bieber will co-headling the FIFA World Cup final halftime show with Madonna, BTS, and Shakira. Will he look up any YouTube videos this time?",
-      "timestamp": "2026-07-10T04:41:30.267607Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.vulture.com/article/justin-bieber-fifa-world-cup-final-halftime-show.html"
-        }
-      ]
-    },
-    {
-      "title": "Video from Poland misrepresented as Ronaldo fans at World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Online fans of Cristiano Ronaldo are claiming a series of videos show a massive crowd celebrating the superstar Portuguese footballer during the 2026 FIFA World Cup, but the clips are misrepresented -- and in some cases, dubbed with unrelated audio of a choru\u2026",
-      "timestamp": "2026-07-10T04:41:30.267644Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/video-poland-misrepresented-ronaldo-fans-210119547.html"
-        }
-      ]
-    },
-    {
-      "title": "DoorDash\u00a0Is Offering the Chance to Win Tickets to the World Cup Final Through Its Summer of Dashpass Campaign",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "DoorDash, an Official Tournament Supporter of the FIFA World Cup 2026\u2122, kicked off its eight-week-long Summer DashPass campaign in June and has continued to be a staple through the tournament and summer season. The most exciting perk is the chance to win tick\u2026",
-      "timestamp": "2026-07-10T04:41:30.267734Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://variety.com/2026/shopping/news/doordash-summer-of-dashpass-deal-world-cup-1236804973/"
-        }
-      ]
-    },
-    {
-      "title": "Justin Bieber is in: Shakira, Madonna, BTS and the full FIFA World Cup Halftime Show lineup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Justin Bieber and several artists have joined Shakira, Madonna, and BTS to complete the FIFA World Cup Halftime Show lineup for the final. The 2026 World Cup Final, scheduled for July 19th at MetLife Stadium, will make history as the first in the competition \u2026",
-      "timestamp": "2026-07-10T04:41:30.267787Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/justin-bieber-is-in-shakira-madonna-bts-and-the-full-fifa-world-cup-halftime-show-lineup/"
-        }
-      ]
-    },
-    {
-      "title": "Does video show drone light show honoring Cristiano Ronaldo?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "A video authentically shows a drone light show on Portugal's Madeira Island showing a figure representing soccer star Cristiano Ronaldo waving goodbye following his announcement that the 2026 FIFA World Cup would be his last.",
-      "timestamp": "2026-07-10T04:41:30.267838Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.snopes.com//fact-check/ronaldo-drone-light/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026: Some goals down? Comeback history says it's not over yet",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-comeback-kings-teams-argentina-portugal-austria-north-korea-switzerland-best-world-cup-turnarounds-history/articleshow/132280377.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "FIFA World Cup: Refereeing chief denies bias claims in Argentina-Egypt game",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/9/argentina-egypt-world-cup-referee-var-bias-collina-salah-zico-hassan"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Where is the France game today? France vs Morocco World Cup stadium",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.patriotledger.com/story/sports/pro/2026/07/09/where-is-france-vs-morocco-heres-the-world-cup-stadium-in-boston/90849767007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Barcelona superstar Lamine Yamal calls Real Madrid veteran \u2018one of the best in the world\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/barcelona-superstar-lamine-yamal-calls-real-madrid-veteran-one-of-the-best-in-the-world/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Could Morocco become a football powerhouse?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.com/sport/football/articles/cewqqxz4ye9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Could Morocco become a football powerhouse?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cewqqxz4ye9o"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "2026 World Cup | Who are France\u2019s opponents, Morocco?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.getfootballnewsfrance.com/2026/2026-world-cup-who-are-frances-opponents-morocco/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Where to watch the World Cup quarter-finals in London 2026",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.timeout.com/london/news/best-places-watch-world-cup-quarter-finals-london-2026-070926"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Fact Check: Video Does NOT Show FIFA's Infantino Reaction To Egypt Scoring Goal During World Cup In July 2026",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://leadstories.com/hoax-alert/2026/07/fact-check-video-does-not-show-fifas-infantino-reaction-to-egypt-scoring-goal-during-world-cup-in-july-2026.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "France vs Morocco: World Cup quarterfinal \u2013 prediction, start time, lineups",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/9/france-morocco-world-cup-quarterfinal-mbappe-saibari-prediction-start-time-lineups"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "What time is France vs. Morocco? Live stream, TV channel, kickoff schedule for World Cup 2026 quarterfinal match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/france-vs-morocco-time-live-stream-channel-schedule-world-cup/2db4911bc40e20fbc4d23d11"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "France vs. Morocco history: Head-to-head matches at World Cup, last meeting, team records and more",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/france-morocco-history-head-head-matches-world-cup/9a8821787a47838460ba587b"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Boston",
+      "event": "France predicted XI v Morocco: D\u00e9sir\u00e9 Dou\u00e9 to start, Aur\u00e9lien Tchouam\u00e9ni out",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.getfootballnewsfrance.com/2026/france-predicted-xi-v-morocco-desire-doue-to-start-aurelien-tchouameni-out/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "How to watch World Cup 2026 ad-free",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/how-to-watch/football/world-cup-2026-ad-free"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Justin Bieber joining Madonna, BTS and Shakira for 2026 FIFA World Cup Final Halftime Show",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/justin-bieber-joining-madonna-bts-045526271.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 10",
+      "loc": "Global",
+      "event": "Argentina faces FBI investigation amid World Cup run",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/argentina-faces-fbi-investigation-amid-world-cup-run.html"
+        }
+      ]
+    },
     {
       "date": "Jul 10",
       "loc": "Global",
@@ -749,172 +1059,7 @@
           "url": "https://www.complex.com/sports/a/markelibert/cristiano-ronaldo-siuuu-celebration-origin-usa"
         }
       ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "\u2018Utter nonsense\u2019: Debate ignites around USMNT having to split World Cup pay 50/50 with women\u2019s team",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/debate-ignites-around-us-soccer-cba.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Surveillance cameras in Seattle's Stadium District shut off after FIFA World Cup over fears of crime, after they were turned on over fears of crime [Followup]",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.fark.com/comments/14124094/Surveillance-cameras-in-Seattles-Stadium-District-shut-off-after-FIFA-World-Cup-over-fears-of-crime-after-they-were-turned-on-over-fears-of-crime"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "3 England players miss training ahead of Norway World Cup clash",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/3-england-players-miss-training-ahead-of-norway-world-cup-clash/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "England fan who used life savings to take grandad to World Cup gets refunded",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/england-fan-who-used-life-savings-to-take-grandad-to-world-cup-gets-refunded/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Justin Bieber Will Co-Headline the World Cup Final Halftime Show",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.thecut.com/article/justin-bieber-co-headlining-world-cup-halftime-show.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Justin Bieber to join Shakira, BTS in World Cup final halftime show",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/08/sports/justin-bieber-to-join-shakira-bts-in-world-cup-halftime-show/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Will Justin Bieber Look Up YouTube Videos at the FIFA Halftime Show?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.vulture.com/article/justin-bieber-fifa-world-cup-final-halftime-show.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Video from Poland misrepresented as Ronaldo fans at World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/video-poland-misrepresented-ronaldo-fans-210119547.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "DoorDash\u00a0Is Offering the Chance to Win Tickets to the World Cup Final Through Its Summer of Dashpass Campaign",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://variety.com/2026/shopping/news/doordash-summer-of-dashpass-deal-world-cup-1236804973/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "New York / New Jersey",
-      "event": "Justin Bieber is in: Shakira, Madonna, BTS and the full FIFA World Cup Halftime Show lineup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/justin-bieber-is-in-shakira-madonna-bts-and-the-full-fifa-world-cup-halftime-show-lineup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 10",
-      "loc": "Global",
-      "event": "Does video show drone light show honoring Cristiano Ronaldo?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.snopes.com//fact-check/ronaldo-drone-light/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-10T04:41:30.268025Z"
+  "lastUpdated": "2026-07-10T08:14:02.653853Z"
 }
