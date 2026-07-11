@@ -5,7 +5,7 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 1,
+    "p1": 0,
     "p2": 0,
     "p3": 22
   },
@@ -131,12 +131,138 @@
   ],
   "risks": [
     {
+      "title": "Spain vs. Belgium Prediction, Odds, Picks For World Cup Match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Check out the odds for the Spain vs. Belgium Round of 16 matchup at the 2026 FIFA World Cup.",
+      "timestamp": "2026-07-11T09:12:21.959554Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/spain-vs-belgium-prediction-odds-picks-world-cup-match"
+        }
+      ]
+    },
+    {
+      "title": "Watch World Cup: France ends Morocco\u2019s run, cruises into semifinals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+      "timestamp": "2026-07-11T09:12:21.959604Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/video/2026/7/10/video-world-cup-2026-highlights"
+        }
+      ]
+    },
+    {
+      "title": "World Cup fans can\u2019t believe the price of \u2018saddest looking burger of all time\u2019 at France vs Morocco",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France\u2019s quarterfinal clash against Morocco revealed a massive truth about the quality of food for fans. The 2-0 scoreline shows how France easily outclassed Morocco in the first quarterfinal game of the 2026 FIFA World Cup.",
+      "timestamp": "2026-07-11T09:12:21.959708Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/world-cup-fans-cant-believe-the-price-of-saddest-looking-burger-of-all-time-at-france-vs-morocco/"
+        }
+      ]
+    },
+    {
+      "title": "Mbappe blames VAR confusion for penalty miss vs Morocco",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Kylian Mbappe admitted VAR confusion distracted him before his missed penalty against Morocco but said France's talented squad still has plenty to prove despite reaching the FIFA World Cup 2026 semi-finals with a 2-0 victory.",
+      "timestamp": "2026-07-11T09:12:21.959901Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/fifa-world-cup-2026-france-vs-morocco-i-let-myself-get-distracted-mbappe-blames-var-confusion-for-penalty-miss/20260710.htm"
+        }
+      ]
+    },
+    {
+      "title": "Madrid World Cup Spotlight: Kylian Mbappe proves decisive in France\u2019s win over Morocco",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Real Madrid stars continue to rule the roost at the 2026 FIFA World Cup, and last night was Kylian Mbappe and France\u2019s turn.Les Bleus faced Morocco in the quarter-finals of the competition, looking ...",
+      "timestamp": "2026-07-11T09:12:21.959950Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/madrid-world-cup-spotlight-kylian-mbappe-proves-decisive-in-frances-win-over-morocco/"
+        }
+      ]
+    },
+    {
+      "title": "England vs Norway: All to know ahead of FIFA World Cup quarterfinal",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Haaland vs Kane and other key factors before World Cup 2026 showdown between England and Norway in Miami.",
+      "timestamp": "2026-07-11T09:12:21.959985Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/10/england-vs-norway-all-to-know-ahead-of-fifa-world-cup-quarterfinal"
+        }
+      ]
+    },
+    {
+      "title": "SEE: Belgium get Royal backing before Spain blockbuster",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "King Philippe of the Belgians visited the national football team to offer his support and encouragement ahead of their FIFA World Cup 2026 quarter-final match against Spain. He shared a meal, received a signed jersey, and praised their performance, expressing\u2026",
+      "timestamp": "2026-07-11T09:12:21.960028Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/see-belgium-get-royal-backing-before-spain-fifa-world-cup-blockbuster/20260710.htm"
+        }
+      ]
+    },
+    {
+      "title": "Barca World Cup Spotlight: Jules Kounde continues to remain solid for France",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup is reaching its business end, with the quarter-finals now upon us. France took on Morocco last night in the first of those games.With just eight games left, including the one t...",
+      "timestamp": "2026-07-11T09:12:21.960051Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barca-world-cup-spotlight-jules-kounde-continues-to-remain-solid-for-france/"
+        }
+      ]
+    },
+    {
+      "title": "What Juergen Klopp told Kylian Mbappe after France's win",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Former Liverpool manager Juergen Klopp shared a humorous exchange with France captain Kylian Mbappe after France's 2-0 victory over Morocco in the FIFA World Cup quarter-final, joking about Mbappe's prolific scoring and calling him a 'detector'.",
+      "timestamp": "2026-07-11T09:12:21.960111Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/fifa-world-cup-2026-juergen-klopps-humorous-exchange-with-kylian-mbappe-after-frances-world-cup-victory/20260710.htm"
+        }
+      ]
+    },
+    {
       "title": "Spain coach Luis de la Fuente talks Pedri, Lamine Yamal and Gavi ahead of World Cup quarter-final",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain head coach Luis de la Fuente has thrown his full support behind Barcelona stars Pedri, Lamine Yamal and Gavi ahead of the country\u2019s FIFA World Cup 2026 quarter-final against Belgium.The Spania...",
-      "timestamp": "2026-07-11T07:02:39.975993Z",
+      "timestamp": "2026-07-11T09:12:21.960256Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "ON CALL The 2026 FIFA World Cup continues and at the time of writing, The Register's home nation \u2013 England \u2013 remains in with a chance to bring home the trophy! We therefore devote this week's edition of On Call, our weekly reader-contributed tale of tech supp\u2026",
-      "timestamp": "2026-07-11T07:02:39.976103Z",
+      "timestamp": "2026-07-11T09:12:21.960334Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup has helped Erling Haaland become a fan favorite in the United States of America. Soccer fans who follow Erling Haaland\u2019s career know all about his hilarious personality, but thanks to the 2026 FIFA World Cup, the Norwegian superstar ha\u2026",
-      "timestamp": "2026-07-11T07:02:39.976323Z",
+      "timestamp": "2026-07-11T09:12:21.960540Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Boston, July 10: France booked their place in the FIFA World Cup 2026 semifinals with a 2-0 victory over Morocco, ending the Atlas Lions\u2019 impressive campaign and moving one step closer to a third World Cup title. After a tense first half, France finally broke\u2026",
-      "timestamp": "2026-07-11T07:02:39.976401Z",
+      "timestamp": "2026-07-11T09:12:21.960616Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup has entered its final stages with the first quarterfinal game done and dusted. The Boston Stadium hosted the first quarterfinal game between tournament favorites France and dark horses Morocco.",
-      "timestamp": "2026-07-11T07:02:39.976475Z",
+      "timestamp": "2026-07-11T09:12:21.960688Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Erling Haaland's Norway switch hotel: Norway's national football team has reportedly switched hotels in Fort Lauderdale just days before their FIFA World Cup quarter-final against England, after players allegedly encountered smoky, moldy, and poorly cleaned r\u2026",
-      "timestamp": "2026-07-11T07:02:39.976546Z",
+      "timestamp": "2026-07-11T09:12:21.960772Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Public unrest began in parts of London late Thursday night, and it appears Morocco\u2019s exit from the 2026 FIFA World Cup at the hands of France is the reason. France took down Morocco 2-0, forcing the African country\u2019s elimination for the second consecutive tou\u2026",
-      "timestamp": "2026-07-11T07:02:39.976613Z",
+      "timestamp": "2026-07-11T09:12:21.960840Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain vs. Belgium kickoff time: Here's all you need to know, including TV and live stream details for the World Cup quarterfinal match.",
-      "timestamp": "2026-07-11T07:02:39.976665Z",
+      "timestamp": "2026-07-11T09:12:21.960894Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "For the second straight tournament, Morocco was ousted by the French 2-0 \u2014 this time in the quarterfinals on Thursday at Gillette Stadium, four years after losing by the same score in the semifinals.",
-      "timestamp": "2026-07-11T07:02:39.976775Z",
+      "timestamp": "2026-07-11T09:12:21.961002Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup which kicked off June 11 is already on the home stretch. New stars have emerged while some established stars have justified their ratings.\nThe post Attention President Tinubu: Poor football management: a grave national security concern\u2026",
-      "timestamp": "2026-07-11T07:02:39.976806Z",
+      "timestamp": "2026-07-11T09:12:21.961035Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "When FIFA announced Nigerian Afrofusion superstar Burna Boy as one of the lead artists for the official 2026 FIFA World Cup song, Dai Dai, alongside Shakira,\nThe post FIFA WORLD CUP ANTHEM: How Burna Boy\u2019s global reach, streaming success got a boost appeared \u2026",
-      "timestamp": "2026-07-11T07:02:39.976838Z",
+      "timestamp": "2026-07-11T09:12:21.961064Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France is the only team in this tournament to win all six matches in regulation. Check out just how dominant Les Bleus and Kylian Mbapp\u00e9 have been.",
-      "timestamp": "2026-07-11T07:02:39.976860Z",
+      "timestamp": "2026-07-11T09:12:21.961088Z",
       "links": [
         {
           "label": "Source",
@@ -304,156 +430,151 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "From individual milestones to national numbers, several records have tumbled in Mbappe's historic World Cup run.",
-      "timestamp": "2026-07-11T07:02:39.976896Z",
+      "timestamp": "2026-07-11T09:12:21.961152Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.aljazeera.com/sports/2026/7/10/which-records-has-frances-kylian-mbappe-broken-at-fifa-world-cup-2026"
         }
       ]
-    },
-    {
-      "title": "Spain vs Belgium, World Cup 2026: Preview",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "La Roja face another tough European opponent looking to reach a gigantic semi-final",
-      "timestamp": "2026-07-11T07:02:39.977094Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.barcablaugranes.com/world-cup-2026/126162/spain-belgium-world-cup-2026-team-news-preview-lineups-prediction"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026: Mbappe makes history, becomes fastest player to reach 20 WC goals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "BOSTON: France captain Kylian Mbappe etched his name deeper into the record books to his growing World Cup legacy, becoming the youngest player to make 20 FIFA World Cup appearances and the fastest player to reach 20 goals in the tournament\u2019s history. Mbappe \u2026",
-      "timestamp": "2026-07-11T07:02:39.977125Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.khabarhub.com/2026/10/557858/"
-        }
-      ]
-    },
-    {
-      "title": "How Boston World Cup crowd reacted to Jaylen Brown appearance at France vs Morocco game",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The former Boston Celtics and current Philadelphia 76ers star Jaylen Brown attended the 2026 World Cup Quarter-Final game between France and Morocco at Gillette Stadium Foxborough, Massachusetts. As the two teams competed for a semi-final spot in the 2026 FIF\u2026",
-      "timestamp": "2026-07-11T07:02:39.977241Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/how-boston-world-cup-crowd-reacted-to-jaylen-brown-appearance-at-france-vs-morocco-game/"
-        }
-      ]
-    },
-    {
-      "title": "USA Soccer Legend Clarifies Christian Pulisic Criticism: 'Nothing Personal'",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The United States Men's National Team suffered a rough 4-1 loss to Belgium, which ended their 2026 FIFA World Cup run, and many people criticized the team's shortcomings or various players' issues. That included former United States Women's National Team star\u2026",
-      "timestamp": "2026-07-11T07:02:39.977274Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/9a95830fd98ae74d"
-        }
-      ]
-    },
-    {
-      "title": "Mbappe makes history, becomes fastest player to reach 20 FIFA World Cup goals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Kylian Mbappe achieved new World Cup milestones and led France to victory. He became the youngest player with twenty World Cup appearances and the fastest to score twenty goals. Mbappe's eighth goal of the tournament secured a two-nil win against Morocco. Thi\u2026",
-      "timestamp": "2026-07-11T07:02:39.977369Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/mbappe-makes-history-becomes-fastest-player-to-reach-20-fifa-world-cup-goals/articleshow/132300824.cms"
-        }
-      ]
-    },
-    {
-      "title": "Erling Haaland Gives Norway 'Really Low' Odds to Win 2026 FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Norway had not qualified for the FIFA men's World Cup since 1998, so Erling Haaland was simply happy to participate in this summer's tournament.\n\"I haven't thought too much about that [how Norway, or himself, will perform] because my main goal was to qualify,\u2026",
-      "timestamp": "2026-07-11T07:02:39.977397Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/26878716bb55b5c8"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026: France beat Morocco 2-0 to reach semi-finals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "France secured a two-nil victory over Morocco in their World Cup quarter-final match. Kylian Mbappe scored a superb goal after missing an earlier penalty kick. Ousmane Dembele added a second goal for France six minutes later. This win propels France into the \u2026",
-      "timestamp": "2026-07-11T07:02:39.977434Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-france-beat-morocco-2-0-to-reach-semi-finals/articleshow/132300764.cms"
-        }
-      ]
-    },
-    {
-      "title": "'Amazing' Yassine Bounou draws praise despite Morocco's loss to France",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "France may have beaten Morocco in their 2026 World Cup quarterfinal matchup, but Moroccan keeper Yassine Bounou put together a tremendous performance.",
-      "timestamp": "2026-07-11T07:02:39.977473Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/09/yassine-bounou-save-kylian-mbappe-penalty-morocco-france/90869154007/"
-        }
-      ]
-    },
-    {
-      "title": "London descends into disorder as Morocco fans flood streets after World Cup elimination at hands of France",
-      "risk": "high",
-      "severityText": "P1 CRITICAL",
-      "status": "VERIFIED",
-      "description": "Riot police clashed with large crowds on Edgware Road in northwest London after France eliminated Morocco from the 2026 FIFA World Cup quarterfinals.",
-      "timestamp": "2026-07-11T07:02:39.977524Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxnews.com/sports/london-descends-disorder-morocco-fans-flood-streets-world-cup-elimination-france"
-        }
-      ]
-    },
-    {
-      "title": "Morocco again knocked out of World Cup by France 2-0, this time in the quarterfinals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "France did it to Morocco again at the World Cup. For the second straight tournament, Morocco was ousted by the French 2-0 \u2014 this time in the quarterfinals on Thursday at Gillette Stadium, four years after losing by the same score in the semifinals. With very \u2026",
-      "timestamp": "2026-07-11T07:02:39.977594Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/morocco-again-knocked-world-cup-010054802.html"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Spain vs. Belgium Prediction, Odds, Picks For World Cup Match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/spain-vs-belgium-prediction-odds-picks-world-cup-match"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Watch World Cup: France ends Morocco\u2019s run, cruises into semifinals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/video/2026/7/10/video-world-cup-2026-highlights"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "World Cup fans can\u2019t believe the price of \u2018saddest looking burger of all time\u2019 at France vs Morocco",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/world-cup-fans-cant-believe-the-price-of-saddest-looking-burger-of-all-time-at-france-vs-morocco/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Mbappe blames VAR confusion for penalty miss vs Morocco",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/fifa-world-cup-2026-france-vs-morocco-i-let-myself-get-distracted-mbappe-blames-var-confusion-for-penalty-miss/20260710.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Madrid World Cup Spotlight: Kylian Mbappe proves decisive in France\u2019s win over Morocco",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/madrid-world-cup-spotlight-kylian-mbappe-proves-decisive-in-frances-win-over-morocco/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "England vs Norway: All to know ahead of FIFA World Cup quarterfinal",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/10/england-vs-norway-all-to-know-ahead-of-fifa-world-cup-quarterfinal"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "SEE: Belgium get Royal backing before Spain blockbuster",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/see-belgium-get-royal-backing-before-spain-fifa-world-cup-blockbuster/20260710.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Barca World Cup Spotlight: Jules Kounde continues to remain solid for France",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barca-world-cup-spotlight-jules-kounde-continues-to-remain-solid-for-france/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "What Juergen Klopp told Kylian Mbappe after France's win",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/fifa-world-cup-2026-juergen-klopps-humorous-exchange-with-kylian-mbappe-after-frances-world-cup-victory/20260710.htm"
+        }
+      ]
+    },
     {
       "date": "Jul 11",
       "loc": "Global",
@@ -648,157 +769,7 @@
           "url": "https://www.aljazeera.com/sports/2026/7/10/which-records-has-frances-kylian-mbappe-broken-at-fifa-world-cup-2026"
         }
       ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Spain vs Belgium, World Cup 2026: Preview",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.barcablaugranes.com/world-cup-2026/126162/spain-belgium-world-cup-2026-team-news-preview-lineups-prediction"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026: Mbappe makes history, becomes fastest player to reach 20 WC goals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.khabarhub.com/2026/10/557858/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Boston",
-      "event": "How Boston World Cup crowd reacted to Jaylen Brown appearance at France vs Morocco game",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/how-boston-world-cup-crowd-reacted-to-jaylen-brown-appearance-at-france-vs-morocco-game/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "USA Soccer Legend Clarifies Christian Pulisic Criticism: 'Nothing Personal'",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/9a95830fd98ae74d"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Mbappe makes history, becomes fastest player to reach 20 FIFA World Cup goals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/mbappe-makes-history-becomes-fastest-player-to-reach-20-fifa-world-cup-goals/articleshow/132300824.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Erling Haaland Gives Norway 'Really Low' Odds to Win 2026 FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/26878716bb55b5c8"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026: France beat Morocco 2-0 to reach semi-finals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-france-beat-morocco-2-0-to-reach-semi-finals/articleshow/132300764.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "'Amazing' Yassine Bounou draws praise despite Morocco's loss to France",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/09/yassine-bounou-save-kylian-mbappe-penalty-morocco-france/90869154007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "London descends into disorder as Morocco fans flood streets after World Cup elimination at hands of France",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "high",
-      "impact": "P1 CRITICAL",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxnews.com/sports/london-descends-disorder-morocco-fans-flood-streets-world-cup-elimination-france"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Boston",
-      "event": "Morocco again knocked out of World Cup by France 2-0, this time in the quarterfinals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/morocco-again-knocked-world-cup-010054802.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-11T07:02:39.977777Z"
+  "lastUpdated": "2026-07-11T09:12:21.961369Z"
 }
