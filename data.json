@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 22
+    "p3": 23
   },
   "watchlist": [
     {
@@ -131,12 +131,152 @@
   ],
   "risks": [
     {
+      "title": "Is VAR Ruining The FIFA World Cup?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup has been marred by widespread controversy surrounding the Video Assistant Referee (VAR) system, with coaches, players, and fans criticising its application, consistency, and impact on match outcomes, leading to a significant increase in int\u2026",
+      "timestamp": "2026-07-11T10:49:33.447967Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/is-var-ruining-the-fifa-world-cup/20260710.htm"
+        }
+      ]
+    },
+    {
+      "title": "France\u2019s Adrien Rabiot on Morocco: \u2018We didn\u2019t have to worry a lot about this team.\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "It is fair to say that Adrien Rabiot was confident heading into France\u2019s 2026 FIFA World Cup quarter-final against Morocco on Thursday.\u00a0These two sides met in the 2022 edition of the World Cup at t...",
+      "timestamp": "2026-07-11T10:49:33.448071Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.getfootballnewsfrance.com/2026/frances-adrien-rabiot-on-morocco-we-didnt-have-to-worry-a-lot-about-this-team/"
+        }
+      ]
+    },
+    {
+      "title": "What time is the England vs Norway World Cup quarterfinal tomorrow?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England and Norway will meet in a quarterfinal game for a chance to move on to the 2026 World Cup semifinals.",
+      "timestamp": "2026-07-11T10:49:33.448191Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/10/england-norway-world-cup-quarterfinal-match-time/90870450007/"
+        }
+      ]
+    },
+    {
+      "title": "Belgium lineup prediction vs Spain: World Cup starting XI projection",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Belgium, coming off a big victory over the USA, now faces reigning European champion Spain with a spot in the 2026 World Cup semifinals on the line.",
+      "timestamp": "2026-07-11T10:49:33.448244Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/10/belgium-lineup-spain-world-cup-quarterfinals/90870617007/"
+        }
+      ]
+    },
+    {
+      "title": "What channel is Spain vs Belgium soccer game on today? World Cup time, TV schedule",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "What channel is the Spain soccer game vs Belgium on July 10 in the 2026 World Cup? Here's how to watch, including time, TV schedule and streaming info.",
+      "timestamp": "2026-07-11T10:49:33.448286Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.oklahoman.com/story/sports/soccer/2026/07/10/spain-vs-belgium-soccer-today-how-to-watch-stream-2026-world-cup-live/90862499007/"
+        }
+      ]
+    },
+    {
+      "title": "Where is the Spain vs. Belgium World Cup quarterfinal being held?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The quarterfinal lands at the NFL's $5 billion palace. What to know about SoFi Stadium ahead of Spain vs Belgium World Cup game.",
+      "timestamp": "2026-07-11T10:49:33.448376Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/10/spain-vs-belgium-location-sofi-stadium-venue-info/90870097007/"
+        }
+      ]
+    },
+    {
+      "title": "Scholes pinpoints surprise cause of Marcus Rashford\u2019s struggles",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Manchester United forward Marcus Rashford is with the England squad at the 2026 FIFA World Cup, but his future at Old Trafford remains unclear. The Englishman had a famous fallout with former head coa...",
+      "timestamp": "2026-07-11T10:49:33.448553Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thepeoplesperson.com/2026/07/10/scholes-pinpoints-surprise-cause-of-marcus-rashfords-struggles-312539/"
+        }
+      ]
+    },
+    {
+      "title": "Off to LA! Announcing Our World Cup Quarterfinal Winner with VPN Pro",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "By Gary Fogarty, Product Director World Cup 2026\u2122 fever is in full swing and to celebrate the beautiful game, our incredible partner ExpressVPN gave Opera users the chance of a lifetime. As an Official Supporter of the FIFA World Cup 2026\u2122, ExpressVPN offered\u2026",
+      "timestamp": "2026-07-11T10:49:33.448702Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://blogs.opera.com/mobile/2026/07/off-to-la-announcing-our-world-cup-quarterfinal-winner-with-vpn-pro-3/"
+        }
+      ]
+    },
+    {
+      "title": "Real Madrid chasing a historic goals record at the 2026 FIFA World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Real Madrid are on the verge of making World Cup history.Despite not beginning the tournament with an unusually large contingent of players, the club\u2019s representatives have combined for 17 goals, le...",
+      "timestamp": "2026-07-11T10:49:33.448753Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/real-madrid-chasing-a-historic-goals-record-at-the-2026-fifa-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "Off to LA! Announcing Our World Cup Quarterfinal Winner with VPN Pro",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "By Gary Fogarty, Product Director World Cup 2026\u2122 fever is in full swing and to celebrate the beautiful game, our incredible partner ExpressVPN gave Opera users the chance of a lifetime. As an Official Supporter of the FIFA World Cup 2026\u2122, ExpressVPN offered\u2026",
+      "timestamp": "2026-07-11T10:49:33.448851Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://blogs.opera.com/mobile/2026/07/off-to-la-announcing-our-world-cup-quarterfinal-winner-with-vpn-pro/"
+        }
+      ]
+    },
+    {
       "title": "Spain vs. Belgium Prediction, Odds, Picks For World Cup Match",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Check out the odds for the Spain vs. Belgium Round of 16 matchup at the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-11T09:12:21.959554Z",
+      "timestamp": "2026-07-11T10:49:33.448992Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-      "timestamp": "2026-07-11T09:12:21.959604Z",
+      "timestamp": "2026-07-11T10:49:33.449030Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France\u2019s quarterfinal clash against Morocco revealed a massive truth about the quality of food for fans. The 2-0 scoreline shows how France easily outclassed Morocco in the first quarterfinal game of the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-11T09:12:21.959708Z",
+      "timestamp": "2026-07-11T10:49:33.449175Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kylian Mbappe admitted VAR confusion distracted him before his missed penalty against Morocco but said France's talented squad still has plenty to prove despite reaching the FIFA World Cup 2026 semi-finals with a 2-0 victory.",
-      "timestamp": "2026-07-11T09:12:21.959901Z",
+      "timestamp": "2026-07-11T10:49:33.449436Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Real Madrid stars continue to rule the roost at the 2026 FIFA World Cup, and last night was Kylian Mbappe and France\u2019s turn.Les Bleus faced Morocco in the quarter-finals of the competition, looking ...",
-      "timestamp": "2026-07-11T09:12:21.959950Z",
+      "timestamp": "2026-07-11T10:49:33.449537Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Haaland vs Kane and other key factors before World Cup 2026 showdown between England and Norway in Miami.",
-      "timestamp": "2026-07-11T09:12:21.959985Z",
+      "timestamp": "2026-07-11T10:49:33.449591Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "King Philippe of the Belgians visited the national football team to offer his support and encouragement ahead of their FIFA World Cup 2026 quarter-final match against Spain. He shared a meal, received a signed jersey, and praised their performance, expressing\u2026",
-      "timestamp": "2026-07-11T09:12:21.960028Z",
+      "timestamp": "2026-07-11T10:49:33.449658Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup is reaching its business end, with the quarter-finals now upon us. France took on Morocco last night in the first of those games.With just eight games left, including the one t...",
-      "timestamp": "2026-07-11T09:12:21.960051Z",
+      "timestamp": "2026-07-11T10:49:33.449699Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Former Liverpool manager Juergen Klopp shared a humorous exchange with France captain Kylian Mbappe after France's 2-0 victory over Morocco in the FIFA World Cup quarter-final, joking about Mbappe's prolific scoring and calling him a 'detector'.",
-      "timestamp": "2026-07-11T09:12:21.960111Z",
+      "timestamp": "2026-07-11T10:49:33.449797Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain head coach Luis de la Fuente has thrown his full support behind Barcelona stars Pedri, Lamine Yamal and Gavi ahead of the country\u2019s FIFA World Cup 2026 quarter-final against Belgium.The Spania...",
-      "timestamp": "2026-07-11T09:12:21.960256Z",
+      "timestamp": "2026-07-11T10:49:33.450028Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "ON CALL The 2026 FIFA World Cup continues and at the time of writing, The Register's home nation \u2013 England \u2013 remains in with a chance to bring home the trophy! We therefore devote this week's edition of On Call, our weekly reader-contributed tale of tech supp\u2026",
-      "timestamp": "2026-07-11T09:12:21.960334Z",
+      "timestamp": "2026-07-11T10:49:33.450156Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup has helped Erling Haaland become a fan favorite in the United States of America. Soccer fans who follow Erling Haaland\u2019s career know all about his hilarious personality, but thanks to the 2026 FIFA World Cup, the Norwegian superstar ha\u2026",
-      "timestamp": "2026-07-11T09:12:21.960540Z",
+      "timestamp": "2026-07-11T10:49:33.450473Z",
       "links": [
         {
           "label": "Source",
@@ -304,142 +444,166 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Boston, July 10: France booked their place in the FIFA World Cup 2026 semifinals with a 2-0 victory over Morocco, ending the Atlas Lions\u2019 impressive campaign and moving one step closer to a third World Cup title. After a tense first half, France finally broke\u2026",
-      "timestamp": "2026-07-11T09:12:21.960616Z",
+      "timestamp": "2026-07-11T10:49:33.450652Z",
       "links": [
         {
           "label": "Source",
           "url": "https://peoplesreview.com.np/2026/07/10/france-ease-past-morocco-to-reach-world-cup-semifinals/"
         }
       ]
-    },
-    {
-      "title": "Opta super computer predicts who will win FIFA World Cup as France beat Morocco",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup has entered its final stages with the first quarterfinal game done and dusted. The Boston Stadium hosted the first quarterfinal game between tournament favorites France and dark horses Morocco.",
-      "timestamp": "2026-07-11T09:12:21.960688Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/opta-super-computer-predicts-who-will-win-fifa-world-cup-as-france-beat-morocco/"
-        }
-      ]
-    },
-    {
-      "title": "Erling Haaland's Norway change hotels before FIFA WC quarter-final: Here's what the players complained; England clash awaits on Saturday",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Erling Haaland's Norway switch hotel: Norway's national football team has reportedly switched hotels in Fort Lauderdale just days before their FIFA World Cup quarter-final against England, after players allegedly encountered smoky, moldy, and poorly cleaned r\u2026",
-      "timestamp": "2026-07-11T09:12:21.960772Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/erling-haalands-norway-change-hotels-before-fifa-wc-quarter-final-heres-what-the-players-complained-england-clash-awaits-on-saturday/articleshow/132303834.cms"
-        }
-      ]
-    },
-    {
-      "title": "London descends into disorder as Morocco fans flood streets after World Cup elimination at hands of France",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Public unrest began in parts of London late Thursday night, and it appears Morocco\u2019s exit from the 2026 FIFA World Cup at the hands of France is the reason. France took down Morocco 2-0, forcing the African country\u2019s elimination for the second consecutive tou\u2026",
-      "timestamp": "2026-07-11T09:12:21.960840Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://freerepublic.com/focus/f-news/4387396/posts"
-        }
-      ]
-    },
-    {
-      "title": "What time is Spain vs. Belgium? Live stream, TV channel, kickoff schedule for World Cup 2026 quarterfinal match",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain vs. Belgium kickoff time: Here's all you need to know, including TV and live stream details for the World Cup quarterfinal match.",
-      "timestamp": "2026-07-11T09:12:21.960894Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/spain-vs-belgium-time-live-stream-channel-schedule-world-cup/21363ec838d83ed7cbbe14ea"
-        }
-      ]
-    },
-    {
-      "title": "France knocks Morocco out of World Cup in quarterfinal with same 2-0 scoreline as 2022",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "For the second straight tournament, Morocco was ousted by the French 2-0 \u2014 this time in the quarterfinals on Thursday at Gillette Stadium, four years after losing by the same score in the semifinals.",
-      "timestamp": "2026-07-11T09:12:21.961002Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4ebe9cb1-f21d-4546-b78a-1c21c42451a4"
-        }
-      ]
-    },
-    {
-      "title": "Attention President Tinubu: Poor football management: a grave national security concern",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup which kicked off June 11 is already on the home stretch. New stars have emerged while some established stars have justified their ratings.\nThe post Attention President Tinubu: Poor football management: a grave national security concern\u2026",
-      "timestamp": "2026-07-11T09:12:21.961035Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/attention-president-tinubu-poor-football-management-a-grave-national-security-concern/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA WORLD CUP ANTHEM: How Burna Boy\u2019s global reach, streaming success got a boost",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "When FIFA announced Nigerian Afrofusion superstar Burna Boy as one of the lead artists for the official 2026 FIFA World Cup song, Dai Dai, alongside Shakira,\nThe post FIFA WORLD CUP ANTHEM: How Burna Boy\u2019s global reach, streaming success got a boost appeared \u2026",
-      "timestamp": "2026-07-11T09:12:21.961064Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/fifa-world-cup-anthem-how-burna-boys-global-reach-streaming-success-got-a-boost/"
-        }
-      ]
-    },
-    {
-      "title": "2026 World Cup Odds: Just How Dominant Has France, Mbapp\u00e9 Been?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "France is the only team in this tournament to win all six matches in regulation. Check out just how dominant Les Bleus and Kylian Mbapp\u00e9 have been.",
-      "timestamp": "2026-07-11T09:12:21.961088Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-just-how-dominant-has-france-been"
-        }
-      ]
-    },
-    {
-      "title": "Which records has France\u2019s Kylian Mbappe broken at FIFA World Cup 2026?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "From individual milestones to national numbers, several records have tumbled in Mbappe's historic World Cup run.",
-      "timestamp": "2026-07-11T09:12:21.961152Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/10/which-records-has-frances-kylian-mbappe-broken-at-fifa-world-cup-2026"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Is VAR Ruining The FIFA World Cup?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/is-var-ruining-the-fifa-world-cup/20260710.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "France\u2019s Adrien Rabiot on Morocco: \u2018We didn\u2019t have to worry a lot about this team.\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.getfootballnewsfrance.com/2026/frances-adrien-rabiot-on-morocco-we-didnt-have-to-worry-a-lot-about-this-team/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "What time is the England vs Norway World Cup quarterfinal tomorrow?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/10/england-norway-world-cup-quarterfinal-match-time/90870450007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Belgium lineup prediction vs Spain: World Cup starting XI projection",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/10/belgium-lineup-spain-world-cup-quarterfinals/90870617007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "What channel is Spain vs Belgium soccer game on today? World Cup time, TV schedule",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.oklahoman.com/story/sports/soccer/2026/07/10/spain-vs-belgium-soccer-today-how-to-watch-stream-2026-world-cup-live/90862499007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Los Angeles",
+      "event": "Where is the Spain vs. Belgium World Cup quarterfinal being held?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/10/spain-vs-belgium-location-sofi-stadium-venue-info/90870097007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Scholes pinpoints surprise cause of Marcus Rashford\u2019s struggles",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thepeoplesperson.com/2026/07/10/scholes-pinpoints-surprise-cause-of-marcus-rashfords-struggles-312539/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Off to LA! Announcing Our World Cup Quarterfinal Winner with VPN Pro",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://blogs.opera.com/mobile/2026/07/off-to-la-announcing-our-world-cup-quarterfinal-winner-with-vpn-pro-3/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Real Madrid chasing a historic goals record at the 2026 FIFA World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/real-madrid-chasing-a-historic-goals-record-at-the-2026-fifa-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Off to LA! Announcing Our World Cup Quarterfinal Winner with VPN Pro",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://blogs.opera.com/mobile/2026/07/off-to-la-announcing-our-world-cup-quarterfinal-winner-with-vpn-pro/"
+        }
+      ]
+    },
     {
       "date": "Jul 11",
       "loc": "Global",
@@ -634,142 +798,7 @@
           "url": "https://peoplesreview.com.np/2026/07/10/france-ease-past-morocco-to-reach-world-cup-semifinals/"
         }
       ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Opta super computer predicts who will win FIFA World Cup as France beat Morocco",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/opta-super-computer-predicts-who-will-win-fifa-world-cup-as-france-beat-morocco/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Erling Haaland's Norway change hotels before FIFA WC quarter-final: Here's what the players complained; England clash awaits on Saturday",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/erling-haalands-norway-change-hotels-before-fifa-wc-quarter-final-heres-what-the-players-complained-england-clash-awaits-on-saturday/articleshow/132303834.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "London descends into disorder as Morocco fans flood streets after World Cup elimination at hands of France",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://freerepublic.com/focus/f-news/4387396/posts"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "What time is Spain vs. Belgium? Live stream, TV channel, kickoff schedule for World Cup 2026 quarterfinal match",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/spain-vs-belgium-time-live-stream-channel-schedule-world-cup/21363ec838d83ed7cbbe14ea"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Boston",
-      "event": "France knocks Morocco out of World Cup in quarterfinal with same 2-0 scoreline as 2022",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4ebe9cb1-f21d-4546-b78a-1c21c42451a4"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Attention President Tinubu: Poor football management: a grave national security concern",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/attention-president-tinubu-poor-football-management-a-grave-national-security-concern/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "FIFA WORLD CUP ANTHEM: How Burna Boy\u2019s global reach, streaming success got a boost",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/fifa-world-cup-anthem-how-burna-boys-global-reach-streaming-success-got-a-boost/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "2026 World Cup Odds: Just How Dominant Has France, Mbapp\u00e9 Been?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-just-how-dominant-has-france-been"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Which records has France\u2019s Kylian Mbappe broken at FIFA World Cup 2026?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/10/which-records-has-frances-kylian-mbappe-broken-at-fifa-world-cup-2026"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-11T09:12:21.961369Z"
+  "lastUpdated": "2026-07-11T10:49:33.450815Z"
 }
