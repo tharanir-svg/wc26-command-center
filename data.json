@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 2,
-    "p2": 2,
-    "p3": 27
+    "p2": 1,
+    "p3": 30
   },
   "watchlist": [
     {
@@ -131,12 +131,180 @@
   ],
   "risks": [
     {
+      "title": "Sadio Mane retires from Senegal duty after 2026 World Cup heartbreak",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Sadio Mane has announced his retirement from international football following Senegal's dramatic exit from the 2026 FIFA World Cup.\nThe post Sadio Mane retires from Senegal duty after 2026 World Cup heartbreak appeared first on Vanguard News.",
+      "timestamp": "2026-07-11T17:43:10.535832Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/sadio-mane-retires-from-senegal-duty-after-2026-world-cup-heartbreak/"
+        }
+      ]
+    },
+    {
+      "title": "Is Lamine Yamal playing? Spain vs Belgium confirmed lineups for the 2026 World Cup game",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain and Belgium face off in a crucial 2026 World Cup quarterfinal clash, with a place in the semifinals on the line. The 2026 World Cup quarterfinals continue at Los Angeles Stadium, where Spain and Belgium clash in a crucial match as both look to book thei\u2026",
+      "timestamp": "2026-07-11T17:43:10.535895Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/is-lamine-yamal-playing-spain-vs-belgium-projected-lineups-for-the-2026-world-cup-game/"
+        }
+      ]
+    },
+    {
+      "title": "Spain vs Belgium, World Cup 2026: Live Thread",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Join us for a huge La Roja quarter-final adventure!",
+      "timestamp": "2026-07-11T17:43:10.535915Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.barcablaugranes.com/world-cup-2026/126205/spain-belgium-live-stream-lineups-kickoff-time-tv-channel-how-to-watch-world-cup-2026-online"
+        }
+      ]
+    },
+    {
+      "title": "World Cup 2026 quarter final: Spain vs. Belgium official line-ups",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Atalanta\u2019s Charles De Ketelaere and Napoli's Kevin De Bruyne start for Belgium against Spain in the World Cup quarter-final, as Romelu Lukaku is only fit for the bench.",
+      "timestamp": "2026-07-11T17:43:10.535943Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/world-cup-2026-quarter-final-spain-vs-belgium/"
+        }
+      ]
+    },
+    {
+      "title": "Why is Pedri not starting vs. Belgium? Spain star benched for World Cup 2026 quarterfinal",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Barcelona midfielder Pedri was a surprising omission from Spain's quarterfinal starting XI.",
+      "timestamp": "2026-07-11T17:43:10.535963Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/why-pedri-not-starting-spain-belgium-world-cup-quarterfinal/04d745885efcbb7a3677b275"
+        }
+      ]
+    },
+    {
+      "title": "Confirmed: Three Barcelona stars in Spain starting lineup vs Belgium \u2013 Pedri benched",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain are all set to take on Belgium later tonight in the quarter-finals of the 2026 FIFA World Cup.With kickoff less than two hours away, manager Luis de la Fuente has announced the starting lineup t...",
+      "timestamp": "2026-07-11T17:43:10.536000Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/confirmed-three-barcelona-stars-in-spain-starting-lineup-vs-belgium-pedri-benched/"
+        }
+      ]
+    },
+    {
+      "title": "England vs Norway World Cup quarterfinal threatened by severe weather delays",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "England and Norway's FIFA World Cup quarterfinal is under threat due to extreme weather conditions in Miami, with the 5pm ET kick-off time possibly set to be pushed back",
+      "timestamp": "2026-07-11T17:43:10.536035Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/england-norway-world-cup-delay-1931046"
+        }
+      ]
+    },
+    {
+      "title": "Clattenburg claim Mariani officiating 2026 World Cup Final \u2018would upset people\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Italian referee Maurizio Mariani is the favourite to officiate the 2026 World Cup Final, although pundit Mark Clattenburg claims the decision \u2018would upset a lot of people.\u2019",
+      "timestamp": "2026-07-11T17:43:10.536151Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/clattenburg-mariani-2026-world-cup-final-upset/"
+        }
+      ]
+    },
+    {
+      "title": "Argentina vs. Switzerland: Where to watch the 2026 World Cup quarterfinal match on Saturday night, TV channel, start time, free streaming info, and more",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Here's how to watch the Argentina vs. Switzerland quarterfinal match at the World Cup.",
+      "timestamp": "2026-07-11T17:43:10.536173Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/argentina-vs-switzerland-where-to-watch-the-2026-world-cup-quarterfinal-match-on-saturday-night-tv-channel-start-time-free-streaming-info-and-more-171500899.html"
+        }
+      ]
+    },
+    {
+      "title": "SEC Teams as World Cup Nations",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "With only six games remaining in the 2026 World Cup, I wanted to get out this crossover post before the tournament wraps up. While Georgia football is my favorite team across all sports, my favorite sport is actually soccer. So, what better way to blend the t\u2026",
+      "timestamp": "2026-07-11T17:43:10.536323Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dawgsports.com/college-football/38018/sec-teams-as-world-cup-nations"
+        }
+      ]
+    },
+    {
+      "title": "World Cup Final and Semi-Finals Ticket Prices Plunge",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Ticket prices for the 2026 FIFA World Cup Final are plummeting only days out from the five-week tournament's showpiece event.\nAccording to figures from the price and inventory tracking website TicketData.com, the average get-in cost for the July 19 final has \u2026",
+      "timestamp": "2026-07-11T17:43:10.536365Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/82702194278a935f"
+        }
+      ]
+    },
+    {
+      "title": "Declan Rice among three potential England injury absences as Norway quarterfinal looms",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England are sweating on the fitness of Declan Rice and two other key players ahead of their FIFA World Cup quarterfinal against Norway at Hard Rock Stadium in Miami on Saturday",
+      "timestamp": "2026-07-11T17:43:10.536402Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/rice-england-norway-world-cup-1931000"
+        }
+      ]
+    },
+    {
       "title": "The FIFA World Cup and the Rise of Experience Rights",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "On Location\u2019s Paul Caine explores why the economics of live sports are shifting beyond tickets and media rights toward premium hospitality and immersive experiences. Caine argues that as A.I. makes digital content increasingly abundant, the greatest competiti\u2026",
-      "timestamp": "2026-07-11T16:38:49.859884Z",
+      "timestamp": "2026-07-11T17:43:10.536431Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "South Africa have dismissed reports that Hugo Broos has stepped down as Bafana Bafana head coach following the team's historic 2026 FIFA World Cup campaign.\nThe post Broos remains Bafana Bafana head coach \u2014 South Africa FA appeared first on Vanguard News.",
-      "timestamp": "2026-07-11T16:38:49.859940Z",
+      "timestamp": "2026-07-11T17:43:10.536459Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The English Football Association is set to review its security arrangements after a man carrying a wrench entered their FIFA World Cup media centre in Kansas City",
-      "timestamp": "2026-07-11T16:38:49.859967Z",
+      "timestamp": "2026-07-11T17:43:10.536482Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's how to watch Spain vs Belgium for free online and from anywhere at the FIFA World Cup 2026, as Lamine Yamal & Co. seek a quarter-final win.",
-      "timestamp": "2026-07-11T16:38:49.860050Z",
+      "timestamp": "2026-07-11T17:43:10.536557Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A semifinal showdown with France is at stake for the winners of this clash of the European giants.",
-      "timestamp": "2026-07-11T16:38:49.860086Z",
+      "timestamp": "2026-07-11T17:43:10.536592Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain and Belgium meet in a blockbuster 2026 FIFA World Cup quarterfinal on Friday, July 10, with a semifinal matchup against France on the line. MORE: How to live stream World Cup 2026 How to Watch Spain vs Belgium Spain\u2026",
-      "timestamp": "2026-07-11T16:38:49.860167Z",
+      "timestamp": "2026-07-11T17:43:10.536669Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France eliminated Morocco 2\u20130 in the 2026 World Cup quarter-final at Gillette Stadium in Foxborough, Massachusetts on Thursday, advancing to a fourth consecutive World Cup semi-final, as confirmed b...",
-      "timestamp": "2026-07-11T16:38:49.860213Z",
+      "timestamp": "2026-07-11T17:43:10.536728Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Les Bleus will face the winner of Spain-Belgium at AT&T Stadium on July 14.",
-      "timestamp": "2026-07-11T16:38:49.860277Z",
+      "timestamp": "2026-07-11T17:43:10.536773Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA had nearly 1,200 category two tickets priced at $7,380 on sale Friday for the World Cup final on July 19 at MetLife Stadium in East Rutherford, New Jersey. The governing body's last-minute tickets sales site, which at times had listed the game as sold ou\u2026",
-      "timestamp": "2026-07-11T16:38:49.860505Z",
+      "timestamp": "2026-07-11T17:43:10.537010Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Federal agents recovered eight missing children while conducting a human trafficking operation June 22 in Kansas City, Missouri during the 2026 World Cup.",
-      "timestamp": "2026-07-11T16:38:49.860574Z",
+      "timestamp": "2026-07-11T17:43:10.537079Z",
       "links": [
         {
           "label": "Source",
@@ -276,25 +444,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Where to Watch Spain vs Belgium World Cup 2026 Match Free Live Streamhollywoodreporter.com",
-      "timestamp": "2026-07-11T16:38:49.860592Z",
+      "timestamp": "2026-07-11T17:43:10.537096Z",
       "links": [
         {
           "label": "Source",
           "url": "http://www.hollywoodreporter.com/tv/tv-news/watch-spain-belgium-world-cup-2026-game-fox-livestream-free-1236642350/"
-        }
-      ]
-    },
-    {
-      "title": "How to watch Spain vs. Belgium live for free in World Cup 2026 quarterfinals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain is still the only team not to have conceded a goal in this World Cup.",
-      "timestamp": "2026-07-11T16:38:49.860609Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/10/sports/how-to-watch-spain-belgium-for-free-in-world-cup-quarterfinals/"
         }
       ]
     },
@@ -304,11 +458,25 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain and Belgium will battle for a place in the FIFA World Cup quarterfinals. Here's everything you need to know to watch the match live in the United States. \nHere are all of the details of where you can watch Spain vs Belgium on US television and via legal\u2026",
-      "timestamp": "2026-07-11T16:38:49.860640Z",
+      "timestamp": "2026-07-11T17:43:10.537124Z",
       "links": [
         {
           "label": "Source",
           "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-spain-vs-belgium-in-the-usa-live-stream-and-tv-for-world-cup-quarter-finals/"
+        }
+      ]
+    },
+    {
+      "title": "How to watch Spain vs. Belgium live for free in World Cup 2026 quarterfinals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain is still the only team not to have conceded a goal in this World Cup.",
+      "timestamp": "2026-07-11T17:43:10.537141Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/10/sports/how-to-watch-spain-belgium-for-free-in-world-cup-quarterfinals/"
         }
       ]
     },
@@ -318,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The winner of the heavyweight quarterfinal clash at SoFi Stadium will advance to face France in the semifinals",
-      "timestamp": "2026-07-11T16:38:49.860694Z",
+      "timestamp": "2026-07-11T17:43:10.537176Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +500,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "Spain aims to maintain its unbeaten run against Belgium's potent attack in a World Cup quarterfinal at SoFi Stadium, with the winner advancing to face either France or Morocco.",
-      "timestamp": "2026-07-11T16:38:49.860714Z",
+      "timestamp": "2026-07-11T17:43:10.537195Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +514,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "Argentina's Football Federation has claimed that their systems were hacked after accredited media members allegedly received threatening emails regarding their FIFA World Cup win against Egypt",
-      "timestamp": "2026-07-11T16:38:49.860733Z",
+      "timestamp": "2026-07-11T17:43:10.537220Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Portugal have officially appointed Jorge Jesus as their new head coach, days after Roberto Mart\u00ednez stepped down following the country's exit from the 2026 FIFA World Cup.\nThe post Portugal appoint Jorge Jesus as new head coach appeared first on Vanguard News.",
-      "timestamp": "2026-07-11T16:38:49.860762Z",
+      "timestamp": "2026-07-11T17:43:10.537245Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +542,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England could be missing up to five players for Saturday\u2019s clash with Norway in the quarter-finals of the FIFA World Cup 2026.\u00a0The Three Lions advanced to the last eight of the competition with a d...",
-      "timestamp": "2026-07-11T16:38:49.860789Z",
+      "timestamp": "2026-07-11T17:43:10.537269Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +556,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Differing heat standards highlight the need for unified safety protocols in sports, emphasizing climate change's impact on global events.\nThe post FIFA\u2019s extreme heat threshold dodged a bullet at the 2026 World Cup, but the real story is what counts as \u2018extre\u2026",
-      "timestamp": "2026-07-11T16:38:49.860857Z",
+      "timestamp": "2026-07-11T17:43:10.537335Z",
       "links": [
         {
           "label": "Source",
@@ -402,7 +570,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "From legendary matches to timeless players, see how many FIFA World Cup facts you really know.",
-      "timestamp": "2026-07-11T16:38:49.861062Z",
+      "timestamp": "2026-07-11T17:43:10.537608Z",
       "links": [
         {
           "label": "Source",
@@ -416,156 +584,196 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "SportsLine's soccer experts have revealed their World Cup picks and World Cup predictions for Spain vs. Belgium on Friday, July 10",
-      "timestamp": "2026-07-11T16:38:49.861103Z",
+      "timestamp": "2026-07-11T17:43:10.537672Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.cbssports.com/soccer/news/2026-world-cup-picks-odds-predictions-best-bets-for-spain-vs-belgium-in-quarterfinals-friday/"
         }
       ]
-    },
-    {
-      "title": "England player Harry Kane\u2019s long history as an LGBTQ+ ally",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "England captain and Bayern Munich striker Harry Kane has always been a staunch LGBTQ+ ally. \u00a0 The 32-year-old footballer is leading England into their FIFA World Cup quarter-final game against Norway. Regarded as one of the best players in the world, having s\u2026",
-      "timestamp": "2026-07-11T16:38:49.861136Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thepinknews.com/2026/07/10/england-player-harry-kanes-long-history-as-an-lgbtq-ally/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA's ExpressVPN World Cup sponsorship sparks fury from Spain's La Liga and French broadcasters",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "La Liga and top French broadcasters are furious with FIFA for naming ExpressVPN an official 2026 World Cup sponsor. The rightsholders are lashing out at the VPN provider's refusal to implement anti-piracy site blocks.",
-      "timestamp": "2026-07-11T16:38:49.861280Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/vpn/vpn-privacy-security/fifas-expressvpn-world-cup-sponsorship-sparks-fury-from-spains-la-liga-and-french-broadcasters"
-        }
-      ]
-    },
-    {
-      "title": "Dembele 'picking up momentum' as France eye WC glory",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Ousmane Dembele expressed his delight after scoring and helping France reach the FIFA World Cup 2026 semi-finals, stating he is gaining confidence and momentum as the tournament progresses and the team remains focused on going all the way.",
-      "timestamp": "2026-07-11T16:38:49.861303Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/fifa-wc-2026-ousmane-dembele-on-frances-fifa-world-cup-2026-semi-finals-run/20260710.htm"
-        }
-      ]
-    },
-    {
-      "title": "Quarterfinal match at SoFi Stadium set to bring intense energy, economic boost",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The World Cup quarterfinal match between Belgium and Spain is set to bring intense energy to SoFi Stadium on Friday - and an economic boom to Los Angeles County.",
-      "timestamp": "2026-07-11T16:38:49.861323Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://abc7.com/post/world-cup-belgium-spain-quarterfinal-match-sofi-stadium-set-bring-intense-energy-economic-boost/19480546/"
-        }
-      ]
-    },
-    {
-      "title": "How to Watch the Spain vs. Belgium FIFA World Cup Quarterfinal Live for Free",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain has yet to concede a goal this tournament. Can Belgium breach their wall and book a spot in the top four? Watch today's World Cup quarterfinal game live using a streaming service or VPN.\nHow to watch for free: Today's match will air for free on global c\u2026",
-      "timestamp": "2026-07-11T16:38:49.861361Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/166089/how-to-watch-spain-vs-belgium-fifa-world-cup-quarterfinal-live-for-free"
-        }
-      ]
-    },
-    {
-      "title": "Norway vs England: World Cup quarterfinal \u2013 Haaland, Kane, prediction, news",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Erling Haaland's Norway will be out to chase more FIFA World Cup history when they face Harry Kane's England in Miami.",
-      "timestamp": "2026-07-11T16:38:49.861513Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/news/2026/7/10/norway-vs-england-world-cup-quarterfinal-haaland-kane-prediction-news"
-        }
-      ]
-    },
-    {
-      "title": "How to Watch the 2026 FIFA World Cup Live Without Cable (and Even for Free)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Get ready. The World Cup quarter-finals are in full swing, with Spain and Belgium facing off today at 3 p.m. ET. Who will make it through to the round of four? Here's how to catch the action live.\nAnd then there were eight. The 2026 World Cup quarter-finals a\u2026",
-      "timestamp": "2026-07-11T16:38:49.861562Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/161984/how-to-watch-2026-fifa-world-cup-game-live-stream-for-free-july-10"
-        }
-      ]
-    },
-    {
-      "title": "Who will Spain vs Belgium winner play next? Possible World Cup semifinal opponents",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Belgium and Spain square off in a 2026 World Cup quarterfinal match on Friday, July 10. Who might the winner play in the semifinals?",
-      "timestamp": "2026-07-11T16:38:49.861612Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/10/spain-belgium-next-world-cup-opponent-semifinals/90870190007/"
-        }
-      ]
-    },
-    {
-      "title": "De Bruyne Dilemma Looms as Spain Face Belgium in LA Quarterfinal",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain take on Belgium in the World Cup 2026 quarterfinals at SoFi Stadium in Los Angeles on Friday, with La Roja arriving off the back of a hard-fought win over Portugal and targeting a semifinal meet...",
-      "timestamp": "2026-07-11T16:38:49.861690Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_736d5322-b6eb-463a-9426-e0a009fc77b7"
-        }
-      ]
-    },
-    {
-      "title": "Haaland: England World Cup quarter-final will be 'super special'",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "Erling Haaland says the prosect of leading Norway\u2019s strike force to face England in Saturday\u2019s 2026 World Cup quarter-final will be another \u2018super special\u2019 career highlight. Men's Team City si...",
-      "timestamp": "2026-07-11T16:38:49.861734Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.mancity.com/news/mens/erling-haaland-on-norway-v-england-63919278"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Sadio Mane retires from Senegal duty after 2026 World Cup heartbreak",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/sadio-mane-retires-from-senegal-duty-after-2026-world-cup-heartbreak/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Is Lamine Yamal playing? Spain vs Belgium confirmed lineups for the 2026 World Cup game",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/is-lamine-yamal-playing-spain-vs-belgium-projected-lineups-for-the-2026-world-cup-game/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Spain vs Belgium, World Cup 2026: Live Thread",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.barcablaugranes.com/world-cup-2026/126205/spain-belgium-live-stream-lineups-kickoff-time-tv-channel-how-to-watch-world-cup-2026-online"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "World Cup 2026 quarter final: Spain vs. Belgium official line-ups",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/world-cup-2026-quarter-final-spain-vs-belgium/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Why is Pedri not starting vs. Belgium? Spain star benched for World Cup 2026 quarterfinal",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/why-pedri-not-starting-spain-belgium-world-cup-quarterfinal/04d745885efcbb7a3677b275"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Confirmed: Three Barcelona stars in Spain starting lineup vs Belgium \u2013 Pedri benched",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/confirmed-three-barcelona-stars-in-spain-starting-lineup-vs-belgium-pedri-benched/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "England vs Norway World Cup quarterfinal threatened by severe weather delays",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/england-norway-world-cup-delay-1931046"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Clattenburg claim Mariani officiating 2026 World Cup Final \u2018would upset people\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/clattenburg-mariani-2026-world-cup-final-upset/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Argentina vs. Switzerland: Where to watch the 2026 World Cup quarterfinal match on Saturday night, TV channel, start time, free streaming info, and more",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/argentina-vs-switzerland-where-to-watch-the-2026-world-cup-quarterfinal-match-on-saturday-night-tv-channel-start-time-free-streaming-info-and-more-171500899.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "SEC Teams as World Cup Nations",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dawgsports.com/college-football/38018/sec-teams-as-world-cup-nations"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "World Cup Final and Semi-Finals Ticket Prices Plunge",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/82702194278a935f"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Miami",
+      "event": "Declan Rice among three potential England injury absences as Norway quarterfinal looms",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/rice-england-norway-world-cup-1931000"
+        }
+      ]
+    },
     {
       "date": "Jul 11",
       "loc": "Global",
@@ -733,21 +941,6 @@
     },
     {
       "date": "Jul 11",
-      "loc": "Global",
-      "event": "How to watch Spain vs. Belgium live for free in World Cup 2026 quarterfinals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/10/sports/how-to-watch-spain-belgium-for-free-in-world-cup-quarterfinals/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
       "loc": "San Francisco Bay Area",
       "event": "How to watch Spain vs Belgium in USA: 2026 World Cup Quarter-Finals, Live Stream, TV & Preview",
       "type": "News",
@@ -758,6 +951,21 @@
         {
           "label": "Source",
           "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-spain-vs-belgium-in-the-usa-live-stream-and-tv-for-world-cup-quarter-finals/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "How to watch Spain vs. Belgium live for free in World Cup 2026 quarterfinals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/10/sports/how-to-watch-spain-belgium-for-free-in-world-cup-quarterfinals/"
         }
       ]
     },
@@ -880,157 +1088,7 @@
           "url": "https://www.cbssports.com/soccer/news/2026-world-cup-picks-odds-predictions-best-bets-for-spain-vs-belgium-in-quarterfinals-friday/"
         }
       ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "England player Harry Kane\u2019s long history as an LGBTQ+ ally",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thepinknews.com/2026/07/10/england-player-harry-kanes-long-history-as-an-lgbtq-ally/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "FIFA's ExpressVPN World Cup sponsorship sparks fury from Spain's La Liga and French broadcasters",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/vpn/vpn-privacy-security/fifas-expressvpn-world-cup-sponsorship-sparks-fury-from-spains-la-liga-and-french-broadcasters"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Dembele 'picking up momentum' as France eye WC glory",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/fifa-wc-2026-ousmane-dembele-on-frances-fifa-world-cup-2026-semi-finals-run/20260710.htm"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Los Angeles",
-      "event": "Quarterfinal match at SoFi Stadium set to bring intense energy, economic boost",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://abc7.com/post/world-cup-belgium-spain-quarterfinal-match-sofi-stadium-set-bring-intense-energy-economic-boost/19480546/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "How to Watch the Spain vs. Belgium FIFA World Cup Quarterfinal Live for Free",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/166089/how-to-watch-spain-vs-belgium-fifa-world-cup-quarterfinal-live-for-free"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Norway vs England: World Cup quarterfinal \u2013 Haaland, Kane, prediction, news",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/news/2026/7/10/norway-vs-england-world-cup-quarterfinal-haaland-kane-prediction-news"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "How to Watch the 2026 FIFA World Cup Live Without Cable (and Even for Free)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/161984/how-to-watch-2026-fifa-world-cup-game-live-stream-for-free-july-10"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Who will Spain vs Belgium winner play next? Possible World Cup semifinal opponents",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/10/spain-belgium-next-world-cup-opponent-semifinals/90870190007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Los Angeles",
-      "event": "De Bruyne Dilemma Looms as Spain Face Belgium in LA Quarterfinal",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_736d5322-b6eb-463a-9426-e0a009fc77b7"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Haaland: England World Cup quarter-final will be 'super special'",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.mancity.com/news/mens/erling-haaland-on-norway-v-england-63919278"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-11T16:38:49.861935Z"
+  "lastUpdated": "2026-07-11T17:43:10.537836Z"
 }
