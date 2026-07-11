@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 0,
-    "p3": 24
+    "p2": 1,
+    "p3": 27
   },
   "watchlist": [
     {
@@ -131,12 +131,138 @@
   ],
   "risks": [
     {
+      "title": "De Bruyne Dilemma Looms as Spain Face Belgium in LA Quarterfinal",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain take on Belgium in the World Cup 2026 quarterfinals at SoFi Stadium in Los Angeles on Friday, with La Roja arriving off the back of a hard-fought win over Portugal and targeting a semifinal meet...",
+      "timestamp": "2026-07-11T12:43:57.770761Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_736d5322-b6eb-463a-9426-e0a009fc77b7"
+        }
+      ]
+    },
+    {
+      "title": "Haaland: England World Cup quarter-final will be 'super special'",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "Erling Haaland says the prosect of leading Norway\u2019s strike force to face England in Saturday\u2019s 2026 World Cup quarter-final will be another \u2018super special\u2019 career highlight. Men's Team City si...",
+      "timestamp": "2026-07-11T12:43:57.770826Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.mancity.com/news/mens/erling-haaland-on-norway-v-england-63919278"
+        }
+      ]
+    },
+    {
+      "title": "Lamine Yamal odds, picks, predictions, player props: Best bets for Spain vs. Belgium in 2026 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "SportsLine soccer expert Brandt Sutton has analyzed the Lamine Yamal odds, and locked in his picks and predictions for Belgium vs. Spain",
+      "timestamp": "2026-07-11T12:43:57.770898Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/lamine-yamal-odds-picks-predictions-player-props-best-bets-for-spain-vs-belgium-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "Nico O\u2019Reilly addresses the Miami weather amid England v Norway postponement fears",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "It\u2019s all eyes on the weather for England v Norway, as the 2026 World Cup quarter-final clash is expected to be played in extreme heat. Miami is throwing a literal temper tantrum ahead of England v Norway, turning the quarter-final into a potential humid, ligh\u2026",
+      "timestamp": "2026-07-11T12:43:57.771002Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/nico-oreilly-addresses-the-miami-weather-amid-england-v-norway-postponement-fears/"
+        }
+      ]
+    },
+    {
+      "title": "How to Watch the Spain vs. Belgium FIFA World Cup Quarterfinal Live for Free",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain has yet to concede a goal this tournament. Can Belgium breach their wall and book a spot in the top four? Watch today's World Cup quarterfinal game live using a streaming service or VPN.\nHow to watch for free: Today's match will air for free on global c\u2026",
+      "timestamp": "2026-07-11T12:43:57.771038Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/166089/how-to-watch-the-spain-vs-belgium-fifa-world-cup-quarterfinal-live-for-free"
+        }
+      ]
+    },
+    {
+      "title": "Spain vs Belgium schedule, TV channel, time for World Cup match today",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "What channel is Belgium vs Spain match on today? Time, how to watch, how to stream 2026 World Cup match on TV, streaming on Friday, July 10, 2026.",
+      "timestamp": "2026-07-11T12:43:57.771071Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.azcentral.com/story/sports/soccer/worldcup/2026/07/10/spain-belgium-time-tv-channel-schedule-world-cup-2026-match-friday/90834134007/"
+        }
+      ]
+    },
+    {
+      "title": "Chiefs embrace international World Cup guests at Arrowhead Stadium",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Kansas City Chiefs embrace international World Cup guests at Arrowhead Stadium | @EdEastonJr",
+      "timestamp": "2026-07-11T12:43:57.771123Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/07/10/kansas-city-chiefs-embrace-international-world-cup-guests-at-arrowhead-stadium/90785405007/"
+        }
+      ]
+    },
+    {
+      "title": "Was the 2026 USMNT soccer\u2019s version of the New York Giants?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Seeing TV highlights of World Cup soccer (excuse me, football) matches at a nearly unrecognizable MetLife Stadium (excuse me, New York New Jersey Stadium) the past month, and watching the US Men\u2019s National Team games played on the west coast, got me to thinki\u2026",
+      "timestamp": "2026-07-11T12:43:57.771154Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bigblueview.com/new-york-giants-analysis/164941/was-the-2026-usmnt-soccers-version-of-the-new-york-giants"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Messi\u2019s 2026 FIFA World Cup form has left Spain\u2019s head coach amazed",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain head coach Luis De La Fuente heaped praise on Lionel Messi amid his marvellous 2026 World Cup run at 39 years old. Spain is heading into their quarter-final clash against Belgium as the only team in the World Cup yet to concede a goal, while Argentina h\u2026",
+      "timestamp": "2026-07-11T12:43:57.771202Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/lionel-messis-2026-fifa-world-cup-form-has-left-spains-head-coach-amazed/"
+        }
+      ]
+    },
+    {
       "title": "Haaland, Norway train ahead of England quarter-final showdown",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Norway forward Erling Haaland has openly challenged the media to 'put every single pressure on the English lads' ahead of their FIFA World Cup 2026 quarter-final clash against England, following Norway's stunning upset victory over Brazil.",
-      "timestamp": "2026-07-11T11:40:34.077676Z",
+      "timestamp": "2026-07-11T12:43:57.771266Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England take on Norway on Saturday night with a place in the World Cup semi-finals up for grabs. Read our in-depth preview here...",
-      "timestamp": "2026-07-11T11:40:34.077770Z",
+      "timestamp": "2026-07-11T12:43:57.771326Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Learn which TV channel or how to live stream the Spain and Belgium FIFA World Cup match.",
-      "timestamp": "2026-07-11T11:40:34.077802Z",
+      "timestamp": "2026-07-11T12:43:57.771358Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA World Cup 2026: Day 29",
-      "timestamp": "2026-07-11T11:40:34.077817Z",
+      "timestamp": "2026-07-11T12:43:57.771371Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup has been marred by widespread controversy surrounding the Video Assistant Referee (VAR) system, with coaches, players, and fans criticising its application, consistency, and impact on match outcomes, leading to a significant increase in int\u2026",
-      "timestamp": "2026-07-11T11:40:34.078026Z",
+      "timestamp": "2026-07-11T12:43:57.771588Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "It is fair to say that Adrien Rabiot was confident heading into France\u2019s 2026 FIFA World Cup quarter-final against Morocco on Thursday.\u00a0These two sides met in the 2022 edition of the World Cup at t...",
-      "timestamp": "2026-07-11T11:40:34.078070Z",
+      "timestamp": "2026-07-11T12:43:57.771635Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England and Norway will meet in a quarterfinal game for a chance to move on to the 2026 World Cup semifinals.",
-      "timestamp": "2026-07-11T11:40:34.078136Z",
+      "timestamp": "2026-07-11T12:43:57.771710Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Belgium, coming off a big victory over the USA, now faces reigning European champion Spain with a spot in the 2026 World Cup semifinals on the line.",
-      "timestamp": "2026-07-11T11:40:34.078163Z",
+      "timestamp": "2026-07-11T12:43:57.771746Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "What channel is the Spain soccer game vs Belgium on July 10 in the 2026 World Cup? Here's how to watch, including time, TV schedule and streaming info.",
-      "timestamp": "2026-07-11T11:40:34.078183Z",
+      "timestamp": "2026-07-11T12:43:57.771769Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The quarterfinal lands at the NFL's $5 billion palace. What to know about SoFi Stadium ahead of Spain vs Belgium World Cup game.",
-      "timestamp": "2026-07-11T11:40:34.078231Z",
+      "timestamp": "2026-07-11T12:43:57.771825Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Manchester United forward Marcus Rashford is with the England squad at the 2026 FIFA World Cup, but his future at Old Trafford remains unclear. The Englishman had a famous fallout with former head coa...",
-      "timestamp": "2026-07-11T11:40:34.078314Z",
+      "timestamp": "2026-07-11T12:43:57.771918Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By Gary Fogarty, Product Director World Cup 2026\u2122 fever is in full swing and to celebrate the beautiful game, our incredible partner ExpressVPN gave Opera users the chance of a lifetime. As an Official Supporter of the FIFA World Cup 2026\u2122, ExpressVPN offered\u2026",
-      "timestamp": "2026-07-11T11:40:34.078391Z",
+      "timestamp": "2026-07-11T12:43:57.772014Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Real Madrid are on the verge of making World Cup history.Despite not beginning the tournament with an unusually large contingent of players, the club\u2019s representatives have combined for 17 goals, le...",
-      "timestamp": "2026-07-11T11:40:34.078415Z",
+      "timestamp": "2026-07-11T12:43:57.772048Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By Gary Fogarty, Product Director World Cup 2026\u2122 fever is in full swing and to celebrate the beautiful game, our incredible partner ExpressVPN gave Opera users the chance of a lifetime. As an Official Supporter of the FIFA World Cup 2026\u2122, ExpressVPN offered\u2026",
-      "timestamp": "2026-07-11T11:40:34.078471Z",
+      "timestamp": "2026-07-11T12:43:57.772104Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Check out the odds for the Spain vs. Belgium Round of 16 matchup at the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-11T11:40:34.078559Z",
+      "timestamp": "2026-07-11T12:43:57.772198Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-      "timestamp": "2026-07-11T11:40:34.078582Z",
+      "timestamp": "2026-07-11T12:43:57.772221Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France\u2019s quarterfinal clash against Morocco revealed a massive truth about the quality of food for fans. The 2-0 scoreline shows how France easily outclassed Morocco in the first quarterfinal game of the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-11T11:40:34.078674Z",
+      "timestamp": "2026-07-11T12:43:57.772321Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kylian Mbappe admitted VAR confusion distracted him before his missed penalty against Morocco but said France's talented squad still has plenty to prove despite reaching the FIFA World Cup 2026 semi-finals with a 2-0 victory.",
-      "timestamp": "2026-07-11T11:40:34.078847Z",
+      "timestamp": "2026-07-11T12:43:57.772502Z",
       "links": [
         {
           "label": "Source",
@@ -388,86 +514,151 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Real Madrid stars continue to rule the roost at the 2026 FIFA World Cup, and last night was Kylian Mbappe and France\u2019s turn.Les Bleus faced Morocco in the quarter-finals of the competition, looking ...",
-      "timestamp": "2026-07-11T11:40:34.078914Z",
+      "timestamp": "2026-07-11T12:43:57.772588Z",
       "links": [
         {
           "label": "Source",
           "url": "https://madriduniversal.com/madrid-world-cup-spotlight-kylian-mbappe-proves-decisive-in-frances-win-over-morocco/"
         }
       ]
-    },
-    {
-      "title": "England vs Norway: All to know ahead of FIFA World Cup quarterfinal",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Haaland vs Kane and other key factors before World Cup 2026 showdown between England and Norway in Miami.",
-      "timestamp": "2026-07-11T11:40:34.078932Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/10/england-vs-norway-all-to-know-ahead-of-fifa-world-cup-quarterfinal"
-        }
-      ]
-    },
-    {
-      "title": "SEE: Belgium get Royal backing before Spain blockbuster",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "King Philippe of the Belgians visited the national football team to offer his support and encouragement ahead of their FIFA World Cup 2026 quarter-final match against Spain. He shared a meal, received a signed jersey, and praised their performance, expressing\u2026",
-      "timestamp": "2026-07-11T11:40:34.078969Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/see-belgium-get-royal-backing-before-spain-fifa-world-cup-blockbuster/20260710.htm"
-        }
-      ]
-    },
-    {
-      "title": "Barca World Cup Spotlight: Jules Kounde continues to remain solid for France",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup is reaching its business end, with the quarter-finals now upon us. France took on Morocco last night in the first of those games.With just eight games left, including the one t...",
-      "timestamp": "2026-07-11T11:40:34.078992Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barca-world-cup-spotlight-jules-kounde-continues-to-remain-solid-for-france/"
-        }
-      ]
-    },
-    {
-      "title": "What Juergen Klopp told Kylian Mbappe after France's win",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Former Liverpool manager Juergen Klopp shared a humorous exchange with France captain Kylian Mbappe after France's 2-0 victory over Morocco in the FIFA World Cup quarter-final, joking about Mbappe's prolific scoring and calling him a 'detector'.",
-      "timestamp": "2026-07-11T11:40:34.079054Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/fifa-world-cup-2026-juergen-klopps-humorous-exchange-with-kylian-mbappe-after-frances-world-cup-victory/20260710.htm"
-        }
-      ]
-    },
-    {
-      "title": "Spain coach Luis de la Fuente talks Pedri, Lamine Yamal and Gavi ahead of World Cup quarter-final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain head coach Luis de la Fuente has thrown his full support behind Barcelona stars Pedri, Lamine Yamal and Gavi ahead of the country\u2019s FIFA World Cup 2026 quarter-final against Belgium.The Spania...",
-      "timestamp": "2026-07-11T11:40:34.079234Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/spain-coach-luis-de-la-fuente-talks-pedri-lamine-yamal-and-gavi-ahead-of-world-cup-quarter-final/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 11",
+      "loc": "Los Angeles",
+      "event": "De Bruyne Dilemma Looms as Spain Face Belgium in LA Quarterfinal",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_736d5322-b6eb-463a-9426-e0a009fc77b7"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Haaland: England World Cup quarter-final will be 'super special'",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.mancity.com/news/mens/erling-haaland-on-norway-v-england-63919278"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Lamine Yamal odds, picks, predictions, player props: Best bets for Spain vs. Belgium in 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/lamine-yamal-odds-picks-predictions-player-props-best-bets-for-spain-vs-belgium-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Nico O\u2019Reilly addresses the Miami weather amid England v Norway postponement fears",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/nico-oreilly-addresses-the-miami-weather-amid-england-v-norway-postponement-fears/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "How to Watch the Spain vs. Belgium FIFA World Cup Quarterfinal Live for Free",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/166089/how-to-watch-the-spain-vs-belgium-fifa-world-cup-quarterfinal-live-for-free"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Spain vs Belgium schedule, TV channel, time for World Cup match today",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.azcentral.com/story/sports/soccer/worldcup/2026/07/10/spain-belgium-time-tv-channel-schedule-world-cup-2026-match-friday/90834134007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Kansas City",
+      "event": "Chiefs embrace international World Cup guests at Arrowhead Stadium",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/07/10/kansas-city-chiefs-embrace-international-world-cup-guests-at-arrowhead-stadium/90785405007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "New York / New Jersey",
+      "event": "Was the 2026 USMNT soccer\u2019s version of the New York Giants?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bigblueview.com/new-york-giants-analysis/164941/was-the-2026-usmnt-soccers-version-of-the-new-york-giants"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Lionel Messi\u2019s 2026 FIFA World Cup form has left Spain\u2019s head coach amazed",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/lionel-messis-2026-fifa-world-cup-form-has-left-spains-head-coach-amazed/"
+        }
+      ]
+    },
     {
       "date": "Jul 11",
       "loc": "Global",
@@ -752,82 +943,7 @@
           "url": "https://madriduniversal.com/madrid-world-cup-spotlight-kylian-mbappe-proves-decisive-in-frances-win-over-morocco/"
         }
       ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "England vs Norway: All to know ahead of FIFA World Cup quarterfinal",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/10/england-vs-norway-all-to-know-ahead-of-fifa-world-cup-quarterfinal"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "SEE: Belgium get Royal backing before Spain blockbuster",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/see-belgium-get-royal-backing-before-spain-fifa-world-cup-blockbuster/20260710.htm"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Barca World Cup Spotlight: Jules Kounde continues to remain solid for France",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barca-world-cup-spotlight-jules-kounde-continues-to-remain-solid-for-france/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "What Juergen Klopp told Kylian Mbappe after France's win",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/fifa-world-cup-2026-juergen-klopps-humorous-exchange-with-kylian-mbappe-after-frances-world-cup-victory/20260710.htm"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Spain coach Luis de la Fuente talks Pedri, Lamine Yamal and Gavi ahead of World Cup quarter-final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/spain-coach-luis-de-la-fuente-talks-pedri-lamine-yamal-and-gavi-ahead-of-world-cup-quarter-final/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-11T11:40:34.079386Z"
+  "lastUpdated": "2026-07-11T12:43:57.772738Z"
 }
