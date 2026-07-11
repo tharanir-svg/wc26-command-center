@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 1,
-    "p2": 1,
-    "p3": 29
+    "p2": 0,
+    "p3": 22
   },
   "watchlist": [
     {
@@ -131,12 +131,124 @@
   ],
   "risks": [
     {
+      "title": "Spain coach Luis de la Fuente talks Pedri, Lamine Yamal and Gavi ahead of World Cup quarter-final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain head coach Luis de la Fuente has thrown his full support behind Barcelona stars Pedri, Lamine Yamal and Gavi ahead of the country\u2019s FIFA World Cup 2026 quarter-final against Belgium.The Spania...",
+      "timestamp": "2026-07-11T07:02:39.975993Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/spain-coach-luis-de-la-fuente-talks-pedri-lamine-yamal-and-gavi-ahead-of-world-cup-quarter-final/"
+        }
+      ]
+    },
+    {
+      "title": "Datacenter MacGyver saved the biggest football match of the year",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "ON CALL The 2026 FIFA World Cup continues and at the time of writing, The Register's home nation \u2013 England \u2013 remains in with a chance to bring home the trophy! We therefore devote this week's edition of On Call, our weekly reader-contributed tale of tech supp\u2026",
+      "timestamp": "2026-07-11T07:02:39.976103Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/b3a2d3a58e4952bb"
+        }
+      ]
+    },
+    {
+      "title": "Erling Haaland reveals his favorite thing about Americans and why the World Cup has been \u2018amazing\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup has helped Erling Haaland become a fan favorite in the United States of America. Soccer fans who follow Erling Haaland\u2019s career know all about his hilarious personality, but thanks to the 2026 FIFA World Cup, the Norwegian superstar ha\u2026",
+      "timestamp": "2026-07-11T07:02:39.976323Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/erling-haaland-reveals-his-favorite-thing-about-americans-and-why-the-world-cup-has-been-amazing/"
+        }
+      ]
+    },
+    {
+      "title": "France ease past Morocco to reach World Cup semifinals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Boston, July 10: France booked their place in the FIFA World Cup 2026 semifinals with a 2-0 victory over Morocco, ending the Atlas Lions\u2019 impressive campaign and moving one step closer to a third World Cup title. After a tense first half, France finally broke\u2026",
+      "timestamp": "2026-07-11T07:02:39.976401Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://peoplesreview.com.np/2026/07/10/france-ease-past-morocco-to-reach-world-cup-semifinals/"
+        }
+      ]
+    },
+    {
+      "title": "Opta super computer predicts who will win FIFA World Cup as France beat Morocco",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup has entered its final stages with the first quarterfinal game done and dusted. The Boston Stadium hosted the first quarterfinal game between tournament favorites France and dark horses Morocco.",
+      "timestamp": "2026-07-11T07:02:39.976475Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/opta-super-computer-predicts-who-will-win-fifa-world-cup-as-france-beat-morocco/"
+        }
+      ]
+    },
+    {
+      "title": "Erling Haaland's Norway change hotels before FIFA WC quarter-final: Here's what the players complained; England clash awaits on Saturday",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Erling Haaland's Norway switch hotel: Norway's national football team has reportedly switched hotels in Fort Lauderdale just days before their FIFA World Cup quarter-final against England, after players allegedly encountered smoky, moldy, and poorly cleaned r\u2026",
+      "timestamp": "2026-07-11T07:02:39.976546Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/erling-haalands-norway-change-hotels-before-fifa-wc-quarter-final-heres-what-the-players-complained-england-clash-awaits-on-saturday/articleshow/132303834.cms"
+        }
+      ]
+    },
+    {
+      "title": "London descends into disorder as Morocco fans flood streets after World Cup elimination at hands of France",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Public unrest began in parts of London late Thursday night, and it appears Morocco\u2019s exit from the 2026 FIFA World Cup at the hands of France is the reason. France took down Morocco 2-0, forcing the African country\u2019s elimination for the second consecutive tou\u2026",
+      "timestamp": "2026-07-11T07:02:39.976613Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://freerepublic.com/focus/f-news/4387396/posts"
+        }
+      ]
+    },
+    {
+      "title": "What time is Spain vs. Belgium? Live stream, TV channel, kickoff schedule for World Cup 2026 quarterfinal match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain vs. Belgium kickoff time: Here's all you need to know, including TV and live stream details for the World Cup quarterfinal match.",
+      "timestamp": "2026-07-11T07:02:39.976665Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/spain-vs-belgium-time-live-stream-channel-schedule-world-cup/21363ec838d83ed7cbbe14ea"
+        }
+      ]
+    },
+    {
       "title": "France knocks Morocco out of World Cup in quarterfinal with same 2-0 scoreline as 2022",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "For the second straight tournament, Morocco was ousted by the French 2-0 \u2014 this time in the quarterfinals on Thursday at Gillette Stadium, four years after losing by the same score in the semifinals.",
-      "timestamp": "2026-07-11T04:49:22.832490Z",
+      "timestamp": "2026-07-11T07:02:39.976775Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup which kicked off June 11 is already on the home stretch. New stars have emerged while some established stars have justified their ratings.\nThe post Attention President Tinubu: Poor football management: a grave national security concern\u2026",
-      "timestamp": "2026-07-11T04:49:22.832545Z",
+      "timestamp": "2026-07-11T07:02:39.976806Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "When FIFA announced Nigerian Afrofusion superstar Burna Boy as one of the lead artists for the official 2026 FIFA World Cup song, Dai Dai, alongside Shakira,\nThe post FIFA WORLD CUP ANTHEM: How Burna Boy\u2019s global reach, streaming success got a boost appeared \u2026",
-      "timestamp": "2026-07-11T04:49:22.832585Z",
+      "timestamp": "2026-07-11T07:02:39.976838Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France is the only team in this tournament to win all six matches in regulation. Check out just how dominant Les Bleus and Kylian Mbapp\u00e9 have been.",
-      "timestamp": "2026-07-11T04:49:22.832610Z",
+      "timestamp": "2026-07-11T07:02:39.976860Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "From individual milestones to national numbers, several records have tumbled in Mbappe's historic World Cup run.",
-      "timestamp": "2026-07-11T04:49:22.832648Z",
+      "timestamp": "2026-07-11T07:02:39.976896Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "La Roja face another tough European opponent looking to reach a gigantic semi-final",
-      "timestamp": "2026-07-11T04:49:22.832832Z",
+      "timestamp": "2026-07-11T07:02:39.977094Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "BOSTON: France captain Kylian Mbappe etched his name deeper into the record books to his growing World Cup legacy, becoming the youngest player to make 20 FIFA World Cup appearances and the fastest player to reach 20 goals in the tournament\u2019s history. Mbappe \u2026",
-      "timestamp": "2026-07-11T04:49:22.832865Z",
+      "timestamp": "2026-07-11T07:02:39.977125Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The former Boston Celtics and current Philadelphia 76ers star Jaylen Brown attended the 2026 World Cup Quarter-Final game between France and Morocco at Gillette Stadium Foxborough, Massachusetts. As the two teams competed for a semi-final spot in the 2026 FIF\u2026",
-      "timestamp": "2026-07-11T04:49:22.833008Z",
+      "timestamp": "2026-07-11T07:02:39.977241Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The United States Men's National Team suffered a rough 4-1 loss to Belgium, which ended their 2026 FIFA World Cup run, and many people criticized the team's shortcomings or various players' issues. That included former United States Women's National Team star\u2026",
-      "timestamp": "2026-07-11T04:49:22.833041Z",
+      "timestamp": "2026-07-11T07:02:39.977274Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kylian Mbappe achieved new World Cup milestones and led France to victory. He became the youngest player with twenty World Cup appearances and the fastest to score twenty goals. Mbappe's eighth goal of the tournament secured a two-nil win against Morocco. Thi\u2026",
-      "timestamp": "2026-07-11T04:49:22.833138Z",
+      "timestamp": "2026-07-11T07:02:39.977369Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Norway had not qualified for the FIFA men's World Cup since 1998, so Erling Haaland was simply happy to participate in this summer's tournament.\n\"I haven't thought too much about that [how Norway, or himself, will perform] because my main goal was to qualify,\u2026",
-      "timestamp": "2026-07-11T04:49:22.833165Z",
+      "timestamp": "2026-07-11T07:02:39.977397Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France secured a two-nil victory over Morocco in their World Cup quarter-final match. Kylian Mbappe scored a superb goal after missing an earlier penalty kick. Ousmane Dembele added a second goal for France six minutes later. This win propels France into the \u2026",
-      "timestamp": "2026-07-11T04:49:22.833200Z",
+      "timestamp": "2026-07-11T07:02:39.977434Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France may have beaten Morocco in their 2026 World Cup quarterfinal matchup, but Moroccan keeper Yassine Bounou put together a tremendous performance.",
-      "timestamp": "2026-07-11T04:49:22.833239Z",
+      "timestamp": "2026-07-11T07:02:39.977473Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +430,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "Riot police clashed with large crowds on Edgware Road in northwest London after France eliminated Morocco from the 2026 FIFA World Cup quarterfinals.",
-      "timestamp": "2026-07-11T04:49:22.833257Z",
+      "timestamp": "2026-07-11T07:02:39.977524Z",
       "links": [
         {
           "label": "Source",
@@ -332,240 +444,136 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France did it to Morocco again at the World Cup. For the second straight tournament, Morocco was ousted by the French 2-0 \u2014 this time in the quarterfinals on Thursday at Gillette Stadium, four years after losing by the same score in the semifinals. With very \u2026",
-      "timestamp": "2026-07-11T04:49:22.833297Z",
+      "timestamp": "2026-07-11T07:02:39.977594Z",
       "links": [
         {
           "label": "Source",
           "url": "https://sports.yahoo.com/articles/morocco-again-knocked-world-cup-010054802.html"
         }
       ]
-    },
-    {
-      "title": "Erling Haaland Calls Out VAR Delay Before Kylian Mbappe Penalty Miss",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "While Erling Haaland is waiting for Norway's next match at the 2026 FIFA World Cup, he's observing the competition as a spectator and student of the game. On Thursday, he was clearly watching Kylian Mbappe and France in their quarterfinal matchup against Moro\u2026",
-      "timestamp": "2026-07-11T04:49:22.833351Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/d2f5994e8860bb23"
-        }
-      ]
-    },
-    {
-      "title": "The Lore Of Lamine Yamal: From The Lionel Messi Baby Picture To The 2026 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lamine Yamal is one of the most compelling stories at the 2026 World Cup. Learn more about the lore behind the 18-year-old's path to international stardom.",
-      "timestamp": "2026-07-11T04:49:22.833523Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/lore-lamine-yamal-from-lionel-messi-baby-picture-2026-world-cup"
-        }
-      ]
-    },
-    {
-      "title": "The Young Star vs. The Old Guard: What To Know For Spain vs. Belgium",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "What to know about the 2026 FIFA World Cup semifinal match between Spain and Belgium.",
-      "timestamp": "2026-07-11T04:49:22.833567Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/young-star-vs-old-guard-what-know-spain-vs-belgium"
-        }
-      ]
-    },
-    {
-      "title": "The Young Star vs. The Old Guard: What To Know For Spain vs. Belgium",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "What to know about the 2026 FIFA World Cup quarterfinal match between Spain and Belgium.",
-      "timestamp": "2026-07-11T04:49:22.833582Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/spain-vs-belgium-2026-world-cup-everything-to-know"
-        }
-      ]
-    },
-    {
-      "title": "Ranking The Top 10 Goals Of The 2026 FIFA World Cup (So Far)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here are the top 10 goals from the 2026 World Cup.",
-      "timestamp": "2026-07-11T04:49:22.833634Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/top-10-goals-2026-world-cup-tournament"
-        }
-      ]
-    },
-    {
-      "title": "Carli Lloyd unmoved following Christian Pulisic injury reveal: \u2018I don\u2019t owe anyone an apology\u2019",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "In the moments following the USMNT\u2019s disastrous 4-1 defeat to Belgium in the 2026 FIFA World Cup, many notable American soccer pundits laid the blame at the feet of Christian Pulisic. That includes Fox analyst Carli Lloyd, who called him out not just for his \u2026",
-      "timestamp": "2026-07-11T04:49:22.833679Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/carli-lloyd-christian-pulisic-injury-reveal-i-dont-owe-anyone-apology.html"
-        }
-      ]
-    },
-    {
-      "title": "World Cup: France defeat Morocco 2-0 to reach semi-finals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "BOSTON: France secured a place in the semi-finals of the FIFA World Cup 2026 with a 2-0 win over Morocco in an entertaining quarter-final at Boston Stadium. Second-half goals from captain Kylian Mbappe and Ousmane Dembele guided France into the last four, mar\u2026",
-      "timestamp": "2026-07-11T04:49:22.833761Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.khabarhub.com/2026/10/557841/"
-        }
-      ]
-    },
-    {
-      "title": "Migu and Lenovo Turn World Cup Predictions into a Human vs. AI Competition",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "12 Chinese AI Models Compete in Prediction Battle BEIJING and SHANGHAI, July 9, 2026 /PRNewswire/ -- The 2026 FIFA World Cup isn't only being decided on the pitch. It's also becoming a testing ground for artificial intelligence, as 12 of China's leading AI mo\u2026",
-      "timestamp": "2026-07-11T04:49:22.833887Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.prnewswire.com/news-releases/migu-and-lenovo-turn-world-cup-predictions-into-a-human-vs-ai-competition-302822425.html"
-        }
-      ]
-    },
-    {
-      "title": "Rooting For The Underdog Is Easy; Stopping Kylian Mbapp\u00e9 And France Is Not",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "With Morocco out of the way, the 2026 World Cup is France's to lose, and it doesn't plan on losing it again.",
-      "timestamp": "2026-07-11T04:49:22.833912Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/rooting-underdog-easy-stopping-kylian-mbappe-france-not"
-        }
-      ]
-    },
-    {
-      "title": "Kylian Mbappe and Didier Deschamps explain why the France star asked to be substituted in France\u2019s win over Morocco",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Kylian Mbappe and head coach Didier Deschamps shared some insights on why the France star asked to be substituted in the World Cup win over Morocco. Kylian Mbappe made headlines for two reasons in France\u2018s 2026 World Cup quarterfinal against Morocco: his goal\u2026",
-      "timestamp": "2026-07-11T04:49:22.833993Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/kylian-mbappe-and-didier-deschamps-explain-why-the-france-star-asked-to-be-substituted-in-frances-win-over-morocco/"
-        }
-      ]
-    },
-    {
-      "title": "Can ageless Messi keep delivering for Argentina at World Cup?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi has scored in every World Cup match so far, but after two gruelling knockout ties, will age finally catch up with the 39-year-old in the quarter-final against Switzerland?Saturday's quarter-final at Arrowhead Stadium will take him back to the sce\u2026",
-      "timestamp": "2026-07-11T04:49:22.834030Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/ageless-messi-keep-delivering-argentina-231546725.html"
-        }
-      ]
-    },
-    {
-      "title": "Mbappe and Dembele net as France beat Morocco to reach World Cup semifinal",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "France beat Morocco 2-0 in quartetfinals at FIFA World Cup 2026 and will meet Spain or Belgium next.",
-      "timestamp": "2026-07-11T04:49:22.834152Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/9/mbappe-and-dembele-net-as-france-beat-morocco-to-reach-world-cup-semifinal"
-        }
-      ]
-    },
-    {
-      "title": "France batted Morocco away with two strikes of sublime brilliance - the World Cup favourites showed they can win in different ways to book semi-final spot, writes IAN HERBERT",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "IAN HERBERT AT THE GILLETTE STADIUM: L'Equipe fretted in its headlines about 'Une Autre Histoire' - another history - but technical brilliance told and Kylian Mbappe again led the way.",
-      "timestamp": "2026-07-11T04:49:22.834254Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15965043/France-2-0-Morocco-World-Cup-2026-Result.html"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026 Quarter Final France Vs Morocco 1080p HDTV H264-DARKSPORT",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Links: HOMEPAGE\u00a0\u2013 TV.comFIFA.World.Cup.2026.Quarter.Final.France.Vs.Morocco.1080p.HDTV.H264-DARKSPORTMKV | AC3 / dolby digital | 4.69GBNFO - Subtitles \u2013 Torrent \u2013 NiTROFLARE \u2013 RAPiDGATORSingle File RAR: RAPiDGATOR Backup",
-      "timestamp": "2026-07-11T04:49:22.834300Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://post.rlsbb.cc/fifa-world-cup-2026-quarter-final-france-vs-morocco-1080p-hdtv-h264-darksport/"
-        }
-      ]
-    },
-    {
-      "title": "4 Takeaways From France's Win vs. Morocco In The World Cup Quarterfinals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "France is through to the semifinals of the 206 FIFA World Cup following a convincing 2-0 win over Morocco at Boston Stadium on Thursday afternoon.",
-      "timestamp": "2026-07-11T04:49:22.834333Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/4-takeaways-from-frances-win-vs-morocco-world-cup-quarterfinals"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026: England defender Marc Guehi fitness worry with hamstring injury",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England defender Marc Guehi is managing a slight hamstring injury and could miss Saturday's Norway quarter-final.",
-      "timestamp": "2026-07-11T04:49:22.834363Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Spain coach Luis de la Fuente talks Pedri, Lamine Yamal and Gavi ahead of World Cup quarter-final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/spain-coach-luis-de-la-fuente-talks-pedri-lamine-yamal-and-gavi-ahead-of-world-cup-quarter-final/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Datacenter MacGyver saved the biggest football match of the year",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/b3a2d3a58e4952bb"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Erling Haaland reveals his favorite thing about Americans and why the World Cup has been \u2018amazing\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/erling-haaland-reveals-his-favorite-thing-about-americans-and-why-the-world-cup-has-been-amazing/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "France ease past Morocco to reach World Cup semifinals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://peoplesreview.com.np/2026/07/10/france-ease-past-morocco-to-reach-world-cup-semifinals/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Opta super computer predicts who will win FIFA World Cup as France beat Morocco",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/opta-super-computer-predicts-who-will-win-fifa-world-cup-as-france-beat-morocco/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "Erling Haaland's Norway change hotels before FIFA WC quarter-final: Here's what the players complained; England clash awaits on Saturday",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/erling-haalands-norway-change-hotels-before-fifa-wc-quarter-final-heres-what-the-players-complained-england-clash-awaits-on-saturday/articleshow/132303834.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "London descends into disorder as Morocco fans flood streets after World Cup elimination at hands of France",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://freerepublic.com/focus/f-news/4387396/posts"
+        }
+      ]
+    },
+    {
+      "date": "Jul 11",
+      "loc": "Global",
+      "event": "What time is Spain vs. Belgium? Live stream, TV channel, kickoff schedule for World Cup 2026 quarterfinal match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/spain-vs-belgium-time-live-stream-channel-schedule-world-cup/21363ec838d83ed7cbbe14ea"
+        }
+      ]
+    },
     {
       "date": "Jul 11",
       "loc": "Boston",
@@ -790,247 +798,7 @@
           "url": "https://sports.yahoo.com/articles/morocco-again-knocked-world-cup-010054802.html"
         }
       ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Erling Haaland Calls Out VAR Delay Before Kylian Mbappe Penalty Miss",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/d2f5994e8860bb23"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "The Lore Of Lamine Yamal: From The Lionel Messi Baby Picture To The 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/lore-lamine-yamal-from-lionel-messi-baby-picture-2026-world-cup"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "The Young Star vs. The Old Guard: What To Know For Spain vs. Belgium",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/young-star-vs-old-guard-what-know-spain-vs-belgium"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "The Young Star vs. The Old Guard: What To Know For Spain vs. Belgium",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/spain-vs-belgium-2026-world-cup-everything-to-know"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Ranking The Top 10 Goals Of The 2026 FIFA World Cup (So Far)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/top-10-goals-2026-world-cup-tournament"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Carli Lloyd unmoved following Christian Pulisic injury reveal: \u2018I don\u2019t owe anyone an apology\u2019",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/carli-lloyd-christian-pulisic-injury-reveal-i-dont-owe-anyone-apology.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "World Cup: France defeat Morocco 2-0 to reach semi-finals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.khabarhub.com/2026/10/557841/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Migu and Lenovo Turn World Cup Predictions into a Human vs. AI Competition",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.prnewswire.com/news-releases/migu-and-lenovo-turn-world-cup-predictions-into-a-human-vs-ai-competition-302822425.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Rooting For The Underdog Is Easy; Stopping Kylian Mbapp\u00e9 And France Is Not",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/rooting-underdog-easy-stopping-kylian-mbappe-france-not"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Kylian Mbappe and Didier Deschamps explain why the France star asked to be substituted in France\u2019s win over Morocco",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/kylian-mbappe-and-didier-deschamps-explain-why-the-france-star-asked-to-be-substituted-in-frances-win-over-morocco/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Can ageless Messi keep delivering for Argentina at World Cup?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/ageless-messi-keep-delivering-argentina-231546725.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "Mbappe and Dembele net as France beat Morocco to reach World Cup semifinal",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/9/mbappe-and-dembele-net-as-france-beat-morocco-to-reach-world-cup-semifinal"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Boston",
-      "event": "France batted Morocco away with two strikes of sublime brilliance - the World Cup favourites showed they can win in different ways to book semi-final spot, writes IAN HERBERT",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15965043/France-2-0-Morocco-World-Cup-2026-Result.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026 Quarter Final France Vs Morocco 1080p HDTV H264-DARKSPORT",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://post.rlsbb.cc/fifa-world-cup-2026-quarter-final-france-vs-morocco-1080p-hdtv-h264-darksport/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "4 Takeaways From France's Win vs. Morocco In The World Cup Quarterfinals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/4-takeaways-from-frances-win-vs-morocco-world-cup-quarterfinals"
-        }
-      ]
-    },
-    {
-      "date": "Jul 11",
-      "loc": "Global",
-      "event": "World Cup 2026: England defender Marc Guehi fitness worry with hamstring injury",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-11T04:49:22.834519Z"
+  "lastUpdated": "2026-07-11T07:02:39.977777Z"
 }
