@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 1,
-    "p3": 24
+    "p2": 2,
+    "p3": 20
   },
   "watchlist": [
     {
@@ -131,12 +131,152 @@
   ],
   "risks": [
     {
+      "title": "Who is Dan Burn? Meet England's 6-7 defender who could be key to stopping Erling Haaland amid World Cup injuries",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "England will know first-hand how difficult the task will be in stopping superstar Norway striker Erling Haaland when the two clash in the 2026 FIFA World Cup quarterfinals on Saturday.",
+      "timestamp": "2026-07-12T07:52:13.960764Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/who-dan-burn-england-defender-haaland-injuries-world-cup/ba15f5647a65816b6b5926d4"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup Viral Theory: Has the strange 'Japan' factor already guessed 2026 champion?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA World Cup 2026: A viral FIFA World Cup fan theory is gaining attention after Brazil's defeat to Norway in the 2026 tournament. The quirky pattern claims that whenever Japan reach the knockout stage, the team that eliminates them is later knocked out by t\u2026",
+      "timestamp": "2026-07-12T07:52:13.960840Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-viral-theory-has-the-strange-japan-factor-already-guessed-2026-champion/articleshow/132325963.cms"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup Viral Theory: Has the strange 'Japan' factor already guessed 2026 champion?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA World Cup 2026: A viral FIFA World Cup fan theory is gaining attention after Brazil's defeat to Norway in the 2026 tournament. The quirky pattern claims that whenever Japan reach the knockout stage, the team that eliminates them is later knocked out by t\u2026",
+      "timestamp": "2026-07-12T07:52:13.960875Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-viral-theory-has-the-strange-japan-factor-already-guessed-2026-champion/articleshow/132326641.cms"
+        }
+      ]
+    },
+    {
+      "title": "What time is Norway vs. England? Live stream, TV channel, kickoff schedule for World Cup 2026 quarterfinal match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Here's everything you need to know to watch the Norway vs. England World Cup match, including where to watch on TV or live stream, what time the game starts and more.",
+      "timestamp": "2026-07-12T07:52:13.960957Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/norway-vs-england-time-live-stream-channel-schedule-world-cup/50cf1b3fcb742102f91a2666"
+        }
+      ]
+    },
+    {
+      "title": "Argentina vs Switzerland: World Cup quarterfinal \u2013 Messi, prediction, news",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lionel Messi\u2019s Argentina faces Breel Embolo\u2019s Switzerland for a place in the semifinals of the FIFA World Cup 2026.",
+      "timestamp": "2026-07-12T07:52:13.960985Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/11/argentina-switzerland-fifa-world-cup-quarterfinal-messi-prediction-news"
+        }
+      ]
+    },
+    {
+      "title": "How to watch Norway v England at World Cup 2026, channel and kick off time",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The Three Lions\u2019 2026 FIFA World Cup campaign continues with a quarter final against Norway on Saturday evening",
+      "timestamp": "2026-07-12T07:52:13.961108Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.timeout.com/london/news/how-to-watch-norway-v-england-at-world-cup-2026-channel-kick-off-time-071126"
+        }
+      ]
+    },
+    {
+      "title": "Haaland & Kane set for epic battle, Lammens sends Spain through",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "With the semi-finals within touching distance, the stakes could hardly be higher for the remaining World Cup hopefuls.France continued their imperious march towards MetLife Stadium with a comfortable ...",
+      "timestamp": "2026-07-12T07:52:13.961145Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/07/11/world-cup-2026-argentina-switzerland-spain-belgium-england-norway/"
+        }
+      ]
+    },
+    {
+      "title": "Viral Norway fan explains why he refuses to do \u2018stupid\u2019 World Cup Viking Row celebration",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Norway\u2019s Viking Row celebration has become iconic during the 2026 FIFA World Cup. Multiple Norwegian players have led the Viking Row after their nation won games during different stages of the World Cup.",
+      "timestamp": "2026-07-12T07:52:13.961199Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/viral-norway-fan-explains-why-he-refuses-to-do-stupid-world-cup-viking-row-celebration/"
+        }
+      ]
+    },
+    {
+      "title": "Erling Haaland is Norway's FIFA World Cup machine - and the internet's \"babygirl\"",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA World Cup 2026 match: Norwegian soccer star Erling Haaland has become a social media sensation. His online persona contrasts with his on-field dominance, creating fan appeal. Fans embrace him as a \"babygirl\" and \"princess\" due to his softer online presen\u2026",
+      "timestamp": "2026-07-12T07:52:13.961315Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/erling-haaland-is-norways-fifa-world-cup-machine-and-the-internets-babygirl/articleshow/132325132.cms"
+        }
+      ]
+    },
+    {
+      "title": "All the goals from England's 2026 World Cup campaign so far",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there.",
+      "timestamp": "2026-07-12T07:52:13.961420Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o"
+        }
+      ]
+    },
+    {
       "title": "What time is Argentina vs. Switzerland? Live stream, TV channel, kickoff schedule for World Cup 2026 quarterfinal match",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's everything you need to know to watch the Argentina vs. Switzerland World Cup quarterfinal match, including where to watch on TV or live stream, what time the game starts and more.",
-      "timestamp": "2026-07-12T05:02:08.906636Z",
+      "timestamp": "2026-07-12T07:52:13.961501Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA is set to sell pieces of turf from the World Cup final field, with the exclusive sale targeting audiences in the United States and Europe. The goal is to generate over eleven million dollars from this venture. A premium piece measures three inches by thr\u2026",
-      "timestamp": "2026-07-12T05:02:08.906795Z",
+      "timestamp": "2026-07-12T07:52:13.961630Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "YouTube sensation IShowSpeed receives an unbelievable gift from Portugal\u2019s Cristiano Ronaldo. Cristiano Ronaldo and Portugal\u2019s journey at the 2026 FIFA World Cup came to an end following a 1-0 defeat against Spain in the Round of 16.",
-      "timestamp": "2026-07-12T05:02:08.906829Z",
+      "timestamp": "2026-07-12T07:52:13.961662Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England are all set to take on Norway in the quarterfinal of the 2026 FIFA World Cup. This will be England\u2019s third-straight quarterfinal appearance in the World Cup.",
-      "timestamp": "2026-07-12T05:02:08.906967Z",
+      "timestamp": "2026-07-12T07:52:13.961791Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +332,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Spain secured a 2-1 victory over Belgium after a late goal from Mikel Merino.  Fabian Ruiz scored Spain's first goal in the thirtieth minute of the match.  Charles De Ketelaere equalized for Belgium before halftime, leveling the score.  Belgium faced challeng\u2026",
-      "timestamp": "2026-07-12T05:02:08.907019Z",
+      "timestamp": "2026-07-12T07:52:13.961840Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mikel Merino stars again as Spain edges Belgium 2-1 in the World Cup quarterfinalsABC News - Breaking News, Latest News and Videos FIFA World Cup 2026 stats: Merino makes World Cup history; Yamal-Cubarsi first since Pele-AltafiniESPN Spain pounce on Lammens e\u2026",
-      "timestamp": "2026-07-12T05:02:08.907075Z",
+      "timestamp": "2026-07-12T07:52:13.961894Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "As soon as Mikel Merino subbed in for Spain on Friday, Darren Fletcher knew. Spain and Belgium were knotted 1-1 in the 85th minute of Friday\u2019s 2026 FIFA World Cup quarterfinal matchup when the 30-year-old Merino entered the match, replacing Dani Olmo. As he d\u2026",
-      "timestamp": "2026-07-12T05:02:08.907308Z",
+      "timestamp": "2026-07-12T07:52:13.962126Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "SportsLine's Jon Eimer reveals his England vs. Norway best bets in the FIFA World Cup 2026 quarterfinals on Saturday",
-      "timestamp": "2026-07-12T05:02:08.907354Z",
+      "timestamp": "2026-07-12T07:52:13.962171Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "It makes sense that players and coaches taking part in the 2026 FIFA World Cup can't stop saying nice things about SoFi Stadium.",
-      "timestamp": "2026-07-12T05:02:08.907407Z",
+      "timestamp": "2026-07-12T07:52:13.962206Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The playing surface at the New York New Jersey Stadium may have come under fire during the 2026 World Cup, but some supporters will be able to purchase a piece of it. Otherwise known as the MetLife Stadium, the New York New Jersey Stadium will be where the 20\u2026",
-      "timestamp": "2026-07-12T05:02:08.907570Z",
+      "timestamp": "2026-07-12T07:52:13.962450Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "And here we go again for another France vs. Spain clash that PROMISES a lot!The first semifinal of the 2026 FIFA World Cup will pit against each other two national teams that keep building up heavywei...",
-      "timestamp": "2026-07-12T05:02:08.907593Z",
+      "timestamp": "2026-07-12T07:52:13.962490Z",
       "links": [
         {
           "label": "Source",
@@ -290,198 +430,166 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Even the field for the World Cup final is for sale. FIFA, accused of charging high prices for this year's tournament in the United States, is selling the grass that will be used for the July 19 final at MetLife Stadium in New Jersey at $450 per piece. FIFA's \u2026",
-      "timestamp": "2026-07-12T05:02:08.907684Z",
+      "timestamp": "2026-07-12T07:52:13.962591Z",
       "links": [
         {
           "label": "Source",
           "url": "https://sports.yahoo.com/articles/fifa-selling-field-used-world-230601285.html"
         }
       ]
-    },
-    {
-      "title": "England's Ezri Konsa on 'test' Norway's Erling Haaland represents in World Cup quarterfinal",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Ezri Konsa has given an insight into what it will take for England to keep Norway's Erling Haaland quiet in their FIFA World Cup quarterfinal at Hard Rock Stadium on Saturday",
-      "timestamp": "2026-07-12T05:02:08.907733Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_849e93f8-8123-41d3-84f5-be10f8de3339"
-        }
-      ]
-    },
-    {
-      "title": "Spain breaks Belgium late, sets up France semifinal",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "In the final World Cup match at SoFi Stadium, Mikel Merino scored off the bench for the second straight match to set up \"Final before the Final\" between tournament co-favorites.",
-      "timestamp": "2026-07-12T05:02:08.907820Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thesportingtribune.com/2026/07/10/world-cup-spain-belgium-mikel-merino-france-mbappe-yamal"
-        }
-      ]
-    },
-    {
-      "title": "Four Observations from Spain\u2019s 2-1 victory over Belgium in the 2026 FIFA World Cup quarterfinals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Belgium went down to Spain after putting up a brave fight that kept even for a long time.",
-      "timestamp": "2026-07-12T05:02:08.907884Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bavarianfootballworks.com/fifa-world-cup/228758/four-observations-from-spains-2-1-victory-over-belgium-in-the-2026-fifa-world-cup-quarterfinals"
-        }
-      ]
-    },
-    {
-      "title": "Brad Pitt and Ines de Ramon Bring the Heat With World Cup 2026 Date",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Once upon a time in Los Angeles, Brad Pitt and Ines de Ramon took a fun trip to the 2026 World Cup.\nIndeed, the Oscar winner and his girlfriend ventured to Los Angeles Stadium July 10 to watch...",
-      "timestamp": "2026-07-12T05:02:08.907921Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.eonline.com/news/1433883/world-cup-2026-brad-pitt-girlfriend-ines-de-ramon-attend-spain-match"
-        }
-      ]
-    },
-    {
-      "title": "Lamine Yamal fires warning to France before 2026 World Cup semifinal: \u2018If they have to fear anyone, it\u2019s us\u2019",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lamine Yamal addressed Spain's upcoming clash against France, with a place in the 2026 World Cup final on the line. Spain booked their spot in the semifinals of the 2026 World Cup with a 2-1 win over Belgium, setting up a mouthwatering clash against France on\u2026",
-      "timestamp": "2026-07-12T05:02:08.907955Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/lamine-yamal-fires-warning-to-france-before-2026-world-cup-semifinal-if-they-have-to-fear-anyone-its-us/"
-        }
-      ]
-    },
-    {
-      "title": "France vs. Spain Confirmed For Semifinals: Here's What To Know",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "France and Spain entered the 2026 FIFA World Cup as the favorites to win the tournament; now the two powerhouses will meet in the semifinals at Dallas Stadium on Tuesday.",
-      "timestamp": "2026-07-12T05:02:08.907975Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/france-vs-spain-confirmed-semifinals-heres-what-know"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026 Quarter Final Spain Vs Belgium 1080p HDTV H264-DARKSPORT",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Links: HOMEPAGE\u00a0\u2013 TV.comFIFA.World.Cup.2026.Quarter.Final.Spain.Vs.Belgium.1080p.HDTV.H264-DARKSPORTMKV | AC3 / dolby digital | 6.39GBNFO \u2013 Subtitles \u2013 Torrent \u2013 NiTROFLARE \u2013 RAPiDGATORSingle File RAR: RAPiDGATOR BackupFIFA.World.Cup.2026.Round.Of.32.Spain.Vs\u2026",
-      "timestamp": "2026-07-12T05:02:08.908028Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://post.rlsbb.cc/fifa-world-cup-2026-quarter-final-spain-vs-belgium-1080p-hdtv-h264-darksport/"
-        }
-      ]
-    },
-    {
-      "title": "Belgium eliminated from World Cup after mocking Donald Trump, dominating United States",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "On Monday night, Belgium was celebrating its most dominant match of the 2026 FIFA World Cup after dismantling the United States by a final score of 4-1 and mocking President Donald Trump in the process. The cathartic win came after a day of drama surrounding \u2026",
-      "timestamp": "2026-07-12T05:02:08.908096Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/belgium-eliminated-from-world-cup-after-mocking-donald-trump-dominating-united-states.html"
-        }
-      ]
-    },
-    {
-      "title": "When are the 2026 FIFA World Cup semifinals? Dates, confirmed teams",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup will soon be down to just four teams, and two bluebloods have already sealed their places in the semifinals.",
-      "timestamp": "2026-07-12T05:02:08.908168Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nbcsports.com/soccer/news/when-are-the-2026-fifa-world-cup-semifinals-dates-confirmed-teams"
-        }
-      ]
-    },
-    {
-      "title": "Lamine Yamal Gets 7/10 | Spanish Players Rated After Their 2-1 Win Vs Belgium In The FIFA World Cup 2026",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Los Angeles. Absolute boiling heat. A match that felt like a tactical chess game played at hypersonic speed. Spain are through to the semi-finals of the FIFA World Cup 2026, but bloody hell, they had ...",
-      "timestamp": "2026-07-12T05:02:08.908193Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://the4thofficial.net/2026/07/lamine-yamal-gets-7-10-spanish-players-rated-after-their-2-1-win-vs-belgium-in-the-fifa-world-cup-2026/"
-        }
-      ]
-    },
-    {
-      "title": "Quarterfinal match at SoFi Stadium brings economic boost to LA County",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The World Cup quarterfinal match between Spain and Belgium brought intense energy to SoFi Stadium and an economic boost to L.A. County.",
-      "timestamp": "2026-07-12T05:02:08.908217Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://abc7.com/post/world-cup-belgium-spain-quarterfinal-match-sofi-stadium-brings-intense-energy-economic-boost/19480546/"
-        }
-      ]
-    },
-    {
-      "title": "Ranking speediest soccer players at 2026 FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup is in its decisive phase, with the tournament well into the quarterfinals. On Thursday, France became the first semifinalist, defeating Morocco, 2-0, at Boston Stadium. Kylian Mbappe and Ousmane Dembele notched the goals for France.\u2026",
-      "timestamp": "2026-07-12T05:02:08.908317Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/ranking-speediest-soccer-players-at-2026-fifa-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "Spain reaches FIFA World Cup semifinals for the first time since 2010",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain has advanced to the 2026 FIFA World Cup semifinals after beating Belgium 2-1 on Friday, July 10 in Inglewood, California.",
-      "timestamp": "2026-07-12T05:02:08.908390Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/10/spain-reaches-the-2026-fifa-world-cup-semifinals/90873015007/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "Who is Dan Burn? Meet England's 6-7 defender who could be key to stopping Erling Haaland amid World Cup injuries",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/who-dan-burn-england-defender-haaland-injuries-world-cup/ba15f5647a65816b6b5926d4"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "FIFA World Cup Viral Theory: Has the strange 'Japan' factor already guessed 2026 champion?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-viral-theory-has-the-strange-japan-factor-already-guessed-2026-champion/articleshow/132325963.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "FIFA World Cup Viral Theory: Has the strange 'Japan' factor already guessed 2026 champion?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-viral-theory-has-the-strange-japan-factor-already-guessed-2026-champion/articleshow/132326641.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "What time is Norway vs. England? Live stream, TV channel, kickoff schedule for World Cup 2026 quarterfinal match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/norway-vs-england-time-live-stream-channel-schedule-world-cup/50cf1b3fcb742102f91a2666"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "Argentina vs Switzerland: World Cup quarterfinal \u2013 Messi, prediction, news",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/11/argentina-switzerland-fifa-world-cup-quarterfinal-messi-prediction-news"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "How to watch Norway v England at World Cup 2026, channel and kick off time",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.timeout.com/london/news/how-to-watch-norway-v-england-at-world-cup-2026-channel-kick-off-time-071126"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "New York / New Jersey",
+      "event": "Haaland & Kane set for epic battle, Lammens sends Spain through",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/07/11/world-cup-2026-argentina-switzerland-spain-belgium-england-norway/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "Viral Norway fan explains why he refuses to do \u2018stupid\u2019 World Cup Viking Row celebration",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/viral-norway-fan-explains-why-he-refuses-to-do-stupid-world-cup-viking-row-celebration/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "Erling Haaland is Norway's FIFA World Cup machine - and the internet's \"babygirl\"",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/erling-haaland-is-norways-fifa-world-cup-machine-and-the-internets-babygirl/articleshow/132325132.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "All the goals from England's 2026 World Cup campaign so far",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o"
+        }
+      ]
+    },
     {
       "date": "Jul 12",
       "loc": "Global",
@@ -661,202 +769,7 @@
           "url": "https://sports.yahoo.com/articles/fifa-selling-field-used-world-230601285.html"
         }
       ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Miami",
-      "event": "England's Ezri Konsa on 'test' Norway's Erling Haaland represents in World Cup quarterfinal",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_849e93f8-8123-41d3-84f5-be10f8de3339"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Los Angeles",
-      "event": "Spain breaks Belgium late, sets up France semifinal",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thesportingtribune.com/2026/07/10/world-cup-spain-belgium-mikel-merino-france-mbappe-yamal"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Four Observations from Spain\u2019s 2-1 victory over Belgium in the 2026 FIFA World Cup quarterfinals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bavarianfootballworks.com/fifa-world-cup/228758/four-observations-from-spains-2-1-victory-over-belgium-in-the-2026-fifa-world-cup-quarterfinals"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Brad Pitt and Ines de Ramon Bring the Heat With World Cup 2026 Date",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.eonline.com/news/1433883/world-cup-2026-brad-pitt-girlfriend-ines-de-ramon-attend-spain-match"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Lamine Yamal fires warning to France before 2026 World Cup semifinal: \u2018If they have to fear anyone, it\u2019s us\u2019",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/lamine-yamal-fires-warning-to-france-before-2026-world-cup-semifinal-if-they-have-to-fear-anyone-its-us/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Dallas",
-      "event": "France vs. Spain Confirmed For Semifinals: Here's What To Know",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/france-vs-spain-confirmed-semifinals-heres-what-know"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026 Quarter Final Spain Vs Belgium 1080p HDTV H264-DARKSPORT",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://post.rlsbb.cc/fifa-world-cup-2026-quarter-final-spain-vs-belgium-1080p-hdtv-h264-darksport/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Belgium eliminated from World Cup after mocking Donald Trump, dominating United States",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/belgium-eliminated-from-world-cup-after-mocking-donald-trump-dominating-united-states.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "When are the 2026 FIFA World Cup semifinals? Dates, confirmed teams",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nbcsports.com/soccer/news/when-are-the-2026-fifa-world-cup-semifinals-dates-confirmed-teams"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Lamine Yamal Gets 7/10 | Spanish Players Rated After Their 2-1 Win Vs Belgium In The FIFA World Cup 2026",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://the4thofficial.net/2026/07/lamine-yamal-gets-7-10-spanish-players-rated-after-their-2-1-win-vs-belgium-in-the-fifa-world-cup-2026/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Los Angeles",
-      "event": "Quarterfinal match at SoFi Stadium brings economic boost to LA County",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://abc7.com/post/world-cup-belgium-spain-quarterfinal-match-sofi-stadium-brings-intense-energy-economic-boost/19480546/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Ranking speediest soccer players at 2026 FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/ranking-speediest-soccer-players-at-2026-fifa-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Spain reaches FIFA World Cup semifinals for the first time since 2010",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/10/spain-reaches-the-2026-fifa-world-cup-semifinals/90873015007/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-12T05:02:08.908521Z"
+  "lastUpdated": "2026-07-12T07:52:13.962736Z"
 }
