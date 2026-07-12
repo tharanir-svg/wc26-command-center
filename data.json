@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 0,
-    "p3": 29
+    "p2": 1,
+    "p3": 32
   },
   "watchlist": [
     {
@@ -131,12 +131,180 @@
   ],
   "risks": [
     {
+      "title": "Norway vs. England live stream: How to watch FIFA World Cup, predictions and lineups",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The two sides will meet at the Hard Rock Stadium for the quarterfinal matchup",
+      "timestamp": "2026-07-12T14:20:09.059223Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/norway-vs-england-live-stream-how-to-watch-fifa-world-cup-predictions-and-lineups/"
+        }
+      ]
+    },
+    {
+      "title": "England face Norway as Argentina take on Switzerland in World Cup quarter-finals",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "MIAMI: England will take on Norway in a FIFA World Cup quarter-final on Friday in a blockbuster clash featuring star strikers Harry Kane and Erling Haaland. The winner will advance to the semi-finals to face either defending champions Argentina or surprise co\u2026",
+      "timestamp": "2026-07-12T14:20:09.059282Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://english.khabarhub.com/2026/11/558057/"
+        }
+      ]
+    },
+    {
+      "title": "The World Cup Golden Boot Race Has Become A Sponsorship Fight",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup Golden Boot race is uniquely competitive, with trophy sponsor Adidas directly vying against rival boot companies backing the leading scorers.",
+      "timestamp": "2026-07-12T14:20:09.059350Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/samleveridge/2026/07/11/the-world-cup-golden-boot-race-has-become-a-sponsorship-fight/"
+        }
+      ]
+    },
+    {
+      "title": "All the celebrities spotted cheering on their favorite teams at the World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Tom Cruise and David Beckham were among the celebrities seen at the 2026 FIFA World Cup.",
+      "timestamp": "2026-07-12T14:20:09.059372Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.businessinsider.com/photos-celebrities-cheering-2026-world-cup#article"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026: Norway, England Ambassadors gear up for blockbuster WC QF",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Norway's Ambassador and British High Commissioner anticipate a blockbuster World Cup quarter-final match. Both diplomats engaged in a playful challenge highlighting national differences and similarities. England advanced after a dramatic victory, while Norway\u2026",
+      "timestamp": "2026-07-12T14:20:09.059448Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-norway-england-ambassadors-gear-up-for-blockbuster-wc-qf/articleshow/132332194.cms"
+        }
+      ]
+    },
+    {
+      "title": "What is the Erling Haaland song that's gone viral? 'Kygo Jo' rap given new life in World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "As a teenager, Erling Haaland and some teammates released the rap song \"Kygo Jo.\" During the 2026 World Cup, it went viral and Kygo gave it a remix.",
+      "timestamp": "2026-07-12T14:20:09.059471Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/11/erling-haaland-song-kygo-remix-2026-world-cup/90884669007/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup schedule today: How to watch Norway v England, TV channels & live stream Saturday 11 July",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The final day of the 2026 World Cup quarter-finals will conclude with a pair of blockbuster matches involving two frontrunners and two dark horses. England face Norway in a match that could be defined by two superstar forwards: Erling Haaland and Harry Kane. \u2026",
+      "timestamp": "2026-07-12T14:20:09.059503Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/world-cup-schedule-today-watch-140051783.html"
+        }
+      ]
+    },
+    {
+      "title": "Just In: South Africa\u2019s Jayden Adams, who played at 2026 World Cup, dies at 25",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Adams played in all three of South Africa's group-stage matches at the tournament but did not feature in the knockout defeat by Canada.\nThe post Just In: South Africa\u2019s Jayden Adams, who played at 2026 World Cup, dies at 25 appeared first on Vanguard News.",
+      "timestamp": "2026-07-12T14:20:09.059581Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/just-in-south-africa-world-cup-midfielder-jayden-adams-dies-at-25/"
+        }
+      ]
+    },
+    {
+      "title": "Barcelona guaranteed World Cup final representation for fifth consecutive tournament",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FC Barcelona will once again be represented in a FIFA World Cup final after Spain\u2019s 2-1 victory over Belgium in the quarter-finals of the 2026 tournament. The result guarantees that at least one Bar...",
+      "timestamp": "2026-07-12T14:20:09.059693Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelona-guaranteed-world-cup-final-representation-for-fifth-consecutive-tournament/"
+        }
+      ]
+    },
+    {
+      "title": "Jayden Adams dead at 25: Tributes flood in after death of South Africa footballer just weeks after playing at 2026 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "South Africa star Jayden Adams has sadly passed away aged 25 just weeks after playing at the World Cup, according to reports.",
+      "timestamp": "2026-07-12T14:20:09.059796Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15970245/Jayden-Adams-dead-25-Tributes-flood-death-South-Africa-World-Cup.html"
+        }
+      ]
+    },
+    {
+      "title": "Argentina vs Switzerland schedule, TV channel for World Cup today",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "What channel is Switzerland vs Argentina match on today? Time, how to watch, how to stream 2026 World Cup match on TV, streaming on Saturday, July 11.",
+      "timestamp": "2026-07-12T14:20:09.059819Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.azcentral.com/story/sports/soccer/worldcup/2026/07/11/argentina-switzerland-time-tv-channel-schedule-world-cup-2026-match-saturday/90847808007/"
+        }
+      ]
+    },
+    {
+      "title": "How to Watch Argentina and Messi vs. Switzerland: TV Channel, Live Stream, Time",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Learn which TV channel or how to live stream the Argentina and Switzerland FIFA World Cup match.",
+      "timestamp": "2026-07-12T14:20:09.059881Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/argentina-vs-switzerland-how-to-watch-tv-channel-live-stream-2026-fifa-world-cup-quarterfinal"
+        }
+      ]
+    },
+    {
       "title": "Lisandro Martinez: United star\u2019s bold take on World Cup refereeing",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Manchester United defender Lisandro Martinez has played a key role in Argentina\u2019s run to the quarter-finals of the 2026 FIFA World Cup. The Butcher was a first-team regular for the Red Devils in the...",
-      "timestamp": "2026-07-12T12:45:04.404297Z",
+      "timestamp": "2026-07-12T14:20:09.059960Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Most World Cup host cities are seeing a noticeable bump in consumer spending. One city is still waiting for its share.",
-      "timestamp": "2026-07-12T12:45:04.404395Z",
+      "timestamp": "2026-07-12T14:20:09.060032Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Belgium goalkeeper Thibaut Courtois was seen consoling his replacement Senne Lammens, who was blamed for Spain's late winner in the FIFA World Cup quarter-final match on Friday.",
-      "timestamp": "2026-07-12T12:45:04.404423Z",
+      "timestamp": "2026-07-12T14:20:09.060053Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Learn which TV channel or how to live stream the Norway and England FIFA World Cup match.",
-      "timestamp": "2026-07-12T12:45:04.404446Z",
+      "timestamp": "2026-07-12T14:20:09.060070Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Amid the controversies surrounding refereeing at the 2026 FIFA World Cup, Argentina starter Lisandro Mart\u00ednez dismissed accusations of alleged favoritism toward Lionel Messi & Co.'s team.\"No, absolut...",
-      "timestamp": "2026-07-12T12:45:04.404475Z",
+      "timestamp": "2026-07-12T14:20:09.060100Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The World Cup quarterfinals end today with two intense matches between Norway and England, and Argentina and Switzerland. ,Who will make it through to the round of four? Here's how to catch the action live.\nAnd then there were six. The 2026 World Cup quarterf\u2026",
-      "timestamp": "2026-07-12T12:45:04.404504Z",
+      "timestamp": "2026-07-12T14:20:09.060128Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After two narrow escapes, will Argentina run out of luck against Switzerland? Watch their quarterfinal live using a streaming subscription or VPN.\nArgentina face Switzerland in the last quarterfinal game of the FIFA World Cup today, and once again, the player\u2026",
-      "timestamp": "2026-07-12T12:45:04.404548Z",
+      "timestamp": "2026-07-12T14:20:09.060187Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Erling Haaland or Harry Kane? Which superstar will propel their country into the top four? Tune in to the Norway vs. England quarterfinal live using a streaming service or VPN to find out.\nThe knockout stages of the FIFA World Cup 2026 have produced some adre\u2026",
-      "timestamp": "2026-07-12T12:45:04.404577Z",
+      "timestamp": "2026-07-12T14:20:09.060216Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England and Norway are doing battle with a trip to the 2026 World Cup semifinals on the line. Here's a look at who the winner could face.",
-      "timestamp": "2026-07-12T12:45:04.404605Z",
+      "timestamp": "2026-07-12T14:20:09.060243Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "What channel is England vs Norway match on today? Time, how to watch, how to stream 2026 World Cup match on TV, streaming on Saturday, July 11, 2026.",
-      "timestamp": "2026-07-12T12:45:04.404642Z",
+      "timestamp": "2026-07-12T14:20:09.060266Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France's 2-0 win over Morocco in the quarterfinal round of the World Cup was the seventh, and last, game of the tournament played at Gillette Stadium in Foxborough.",
-      "timestamp": "2026-07-12T12:45:04.404747Z",
+      "timestamp": "2026-07-12T14:20:09.060368Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Christian Pulisic suffered a bone bruise and microfracture in his right tibia and fibula during the USMNT's loss to Belgium in the 2026 FIFA World Cup round of 16.",
-      "timestamp": "2026-07-12T12:45:04.404805Z",
+      "timestamp": "2026-07-12T14:20:09.060426Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "At SoFi Stadium in Inglewood, with Belgium and Spain locked at 1-1 in the second half of a World Cup quarterfinal, Thibaut Courtois took a goal kick and felt his leg pain. While he tried to carry on, by the 71st minute, he was walking off the pitch in tears, \u2026",
-      "timestamp": "2026-07-12T12:45:04.404858Z",
+      "timestamp": "2026-07-12T14:20:09.060475Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "SportsLine's Jon Eimer reveals his England vs. Norway best bets in the FIFA World Cup 2026 quarterfinals on Saturday",
-      "timestamp": "2026-07-12T12:45:04.404928Z",
+      "timestamp": "2026-07-12T14:20:09.060542Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Check out the odds for the England vs. Norway quarterfinals matchup at the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-12T12:45:04.404998Z",
+      "timestamp": "2026-07-12T14:20:09.060614Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By Jacob Ajom The 2026 FIFA World Cup has exposed new realities patterning to the growth, development and spread football enjoys among other sports. When FIFA announced the new expanded 48-team format \u2013 with Africa getting 9 automatic slots \u2013 for its flagship\u2026",
-      "timestamp": "2026-07-12T12:45:04.405108Z",
+      "timestamp": "2026-07-12T14:20:09.060725Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup field has been whittled down to just six teams. Here's a look at who remains in competition for the title.",
-      "timestamp": "2026-07-12T12:45:04.405192Z",
+      "timestamp": "2026-07-12T14:20:09.060829Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +542,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England hasn't lost yet at the 2026 World Cup while Norway has seen Erling Haaland score seven goals. Here's how to watch their quarterfinal match.",
-      "timestamp": "2026-07-12T12:45:04.405212Z",
+      "timestamp": "2026-07-12T14:20:09.060851Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +556,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Norway and England are facing off in a 2026 World Cup quarterfinal. Who will start alongside Erling Haaland during the match?",
-      "timestamp": "2026-07-12T12:45:04.405231Z",
+      "timestamp": "2026-07-12T14:20:09.060880Z",
       "links": [
         {
           "label": "Source",
@@ -402,7 +570,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's how to watch the England vs. Norway quarterfinal match at the World Cup.",
-      "timestamp": "2026-07-12T12:45:04.405250Z",
+      "timestamp": "2026-07-12T14:20:09.060917Z",
       "links": [
         {
           "label": "Source",
@@ -416,128 +584,196 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Heading to the Norway vs England match? Ensure your bag meets Hard Rock Stadium's strict clear bag policy.",
-      "timestamp": "2026-07-12T12:45:04.405290Z",
+      "timestamp": "2026-07-12T14:20:09.060975Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/07/11/world-cup-bag-policy-hard-rock-stadium-miami-florida/90873314007/"
         }
       ]
-    },
-    {
-      "title": "Mbapp\u00e9 and Demb\u00e9l\u00e9 outscore 45 sides at World Cup, eye record",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The chemistry between Kylian Mbapp\u00e9 and Ousmane Demb\u00e9l\u00e9 is haunting opponents at the 2026 FIFA World Cup.With a combined 13 goals in the six matches played so far (eight from Mbapp\u00e9 and five from ...",
-      "timestamp": "2026-07-12T12:45:04.405313Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/mbappe-and-dembele-outscore-45-sides-at-world-cup-eye-record-43125212"
-        }
-      ]
-    },
-    {
-      "title": "England fans hit Miami with 10,000 going to watch World Cup match against Norway as David Beckham meets Harry Kane's men",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Around 10,000 football fans are set to attend the game at the Hard Rock Stadium in Florida tonight as thousands partied the night away across South Beach.",
-      "timestamp": "2026-07-12T12:45:04.405429Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/news/article-15970045/England-fans-hit-Miami-10-000-going-watch-World-Cup-match-against-Norway-David-Beckham-meet-Harry-Kanes-men.html"
-        }
-      ]
-    },
-    {
-      "title": "Xavi Espart talks Barcelona debut, Flick, La Masia, U19 Euro final: \u2018Almost a dream\u2019",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "While the world focuses its attention on the FIFA World Cup, a concurrent event being played with high-quality football is the UEFA Under-19 European Championship.Spain have reached the final of that ...",
-      "timestamp": "2026-07-12T12:45:04.405495Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/xavi-espart-talks-barcelona-debut-flick-la-masia-u19-euro-final-almost-a-dream/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA to sell off World Cup final turf for $445 a piece",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA will sell off pieces of the pitch from the World Cup final, with fans able to buy small parts of the grass turf for around $445. \"Own a genuine piece of football history with an authentic 2026 FIFA World Cup\u2122 Piece of the pitch, permanently preserved in \u2026",
-      "timestamp": "2026-07-12T12:45:04.405594Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_10ca8e06-cdae-4887-8925-d50fbeb736df"
-        }
-      ]
-    },
-    {
-      "title": "Why the 2026 World Cup Is Living Up to the Hype",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup has delivered on its promise, with expanded teams, thrilling upsets, and an unpredictable knockout stage. Discover why this tournament i\n\nRead More: https://punchng.com/why-the-2026-world-cup-is-living-up-to-the-hype/",
-      "timestamp": "2026-07-12T12:45:04.405640Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/why-the-2026-world-cup-is-living-up-to-the-hype/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup tourists basking in the wonders of Target are stuffing their suitcases with toothpaste and melatonin",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA World Cup visitors in the US are living the American dream: They're going on shopping sprees for everything from toothpaste to clothes.",
-      "timestamp": "2026-07-12T12:45:04.405780Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.businessinsider.com/world-cup-fans-shopping-clearing-out-american-big-box-stores-2026-7#article"
-        }
-      ]
-    },
-    {
-      "title": "Barcelona World Cup Spotlight: Cubarsi, Lamine Yamal impress for Spain vs Belgium",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The second quarter-final of the 2026 FIFA World Cup took place last night, with Spain facing Belgium.Both teams knew that a win would secure their place in the semi-finals, where France await, and La ...",
-      "timestamp": "2026-07-12T12:45:04.405859Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelona-world-cup-spotlight-cubarsi-lamine-yamal-impress-for-spain-vs-belgium/"
-        }
-      ]
-    },
-    {
-      "title": "Watch World Cup: Merino, Spain beats Belgium, move on to semifinals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-      "timestamp": "2026-07-12T12:45:04.405936Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/video/2026/7/11/video-world-cup-2026-highlights"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 12",
+      "loc": "Miami",
+      "event": "Norway vs. England live stream: How to watch FIFA World Cup, predictions and lineups",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/norway-vs-england-live-stream-how-to-watch-fifa-world-cup-predictions-and-lineups/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "England face Norway as Argentina take on Switzerland in World Cup quarter-finals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://english.khabarhub.com/2026/11/558057/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "The World Cup Golden Boot Race Has Become A Sponsorship Fight",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/samleveridge/2026/07/11/the-world-cup-golden-boot-race-has-become-a-sponsorship-fight/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "All the celebrities spotted cheering on their favorite teams at the World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.businessinsider.com/photos-celebrities-cheering-2026-world-cup#article"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026: Norway, England Ambassadors gear up for blockbuster WC QF",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-norway-england-ambassadors-gear-up-for-blockbuster-wc-qf/articleshow/132332194.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "What is the Erling Haaland song that's gone viral? 'Kygo Jo' rap given new life in World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/11/erling-haaland-song-kygo-remix-2026-world-cup/90884669007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "World Cup schedule today: How to watch Norway v England, TV channels & live stream Saturday 11 July",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/world-cup-schedule-today-watch-140051783.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "Just In: South Africa\u2019s Jayden Adams, who played at 2026 World Cup, dies at 25",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/just-in-south-africa-world-cup-midfielder-jayden-adams-dies-at-25/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "Barcelona guaranteed World Cup final representation for fifth consecutive tournament",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelona-guaranteed-world-cup-final-representation-for-fifth-consecutive-tournament/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "Jayden Adams dead at 25: Tributes flood in after death of South Africa footballer just weeks after playing at 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15970245/Jayden-Adams-dead-25-Tributes-flood-death-South-Africa-World-Cup.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "Argentina vs Switzerland schedule, TV channel for World Cup today",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.azcentral.com/story/sports/soccer/worldcup/2026/07/11/argentina-switzerland-time-tv-channel-schedule-world-cup-2026-match-saturday/90847808007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "How to Watch Argentina and Messi vs. Switzerland: TV Channel, Live Stream, Time",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/argentina-vs-switzerland-how-to-watch-tv-channel-live-stream-2026-fifa-world-cup-quarterfinal"
+        }
+      ]
+    },
     {
       "date": "Jul 12",
       "loc": "Global",
@@ -852,127 +1088,7 @@
           "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/07/11/world-cup-bag-policy-hard-rock-stadium-miami-florida/90873314007/"
         }
       ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Mbapp\u00e9 and Demb\u00e9l\u00e9 outscore 45 sides at World Cup, eye record",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/mbappe-and-dembele-outscore-45-sides-at-world-cup-eye-record-43125212"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Miami",
-      "event": "England fans hit Miami with 10,000 going to watch World Cup match against Norway as David Beckham meets Harry Kane's men",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/news/article-15970045/England-fans-hit-Miami-10-000-going-watch-World-Cup-match-against-Norway-David-Beckham-meet-Harry-Kanes-men.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Xavi Espart talks Barcelona debut, Flick, La Masia, U19 Euro final: \u2018Almost a dream\u2019",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/xavi-espart-talks-barcelona-debut-flick-la-masia-u19-euro-final-almost-a-dream/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "FIFA to sell off World Cup final turf for $445 a piece",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_10ca8e06-cdae-4887-8925-d50fbeb736df"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Why the 2026 World Cup Is Living Up to the Hype",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/why-the-2026-world-cup-is-living-up-to-the-hype/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "World Cup tourists basking in the wonders of Target are stuffing their suitcases with toothpaste and melatonin",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.businessinsider.com/world-cup-fans-shopping-clearing-out-american-big-box-stores-2026-7#article"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Barcelona World Cup Spotlight: Cubarsi, Lamine Yamal impress for Spain vs Belgium",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelona-world-cup-spotlight-cubarsi-lamine-yamal-impress-for-spain-vs-belgium/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Watch World Cup: Merino, Spain beats Belgium, move on to semifinals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/video/2026/7/11/video-world-cup-2026-highlights"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-12T12:45:04.406077Z"
+  "lastUpdated": "2026-07-12T14:20:09.061094Z"
 }
