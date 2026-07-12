@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 1,
-    "p3": 30
+    "p2": 3,
+    "p3": 31
   },
   "watchlist": [
     {
@@ -131,12 +131,152 @@
   ],
   "risks": [
     {
+      "title": "South Africa World Cup player dead at 25 just weeks after tournament appearance",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Jayden Adams played for South Africa in the 2026 FIFA World Cup less than two weeks ago but suddenly died earlier this week, the country's soccer federation announced.",
+      "timestamp": "2026-07-12T18:43:29.679388Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/sports/south-africa-world-cup-player-dead-25-weeks-after-tournament-appearance"
+        }
+      ]
+    },
+    {
+      "title": "South Africa\u2019s Jayden Adams, 25, dies after playing in FIFA World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "South Africa and Mamelodi Sundowns midfielder died after featuring in his nation\u2019s run to the World Cup round of 32.",
+      "timestamp": "2026-07-12T18:43:29.679462Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/11/south-africas-jayden-adams-25-dies-after-playing-in-fifa-world-cup"
+        }
+      ]
+    },
+    {
+      "title": "Argentina vs. Switzerland live stream: How to watch FIFA World Cup, odds, prediction, pick, channel",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The last of the four quarterfinals sees Messi and Argentina face the underrated Swiss",
+      "timestamp": "2026-07-12T18:43:29.679627Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/argentina-switzerland-world-cup-2026-preview-predictions-watch/"
+        }
+      ]
+    },
+    {
+      "title": "How to watch Norway vs England: Free Streams, TV Channels & Kick-Off time for a Haaland vs Kane FIFA World Cup 2026 quarter-final",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "Here's how to watch Norway vs England for free online and from anywhere at the FIFA World Cup 2026, as two of the world's best strikers meet in the last eight.",
+      "timestamp": "2026-07-12T18:43:29.679698Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/how-to-watch/football/norway-vs-england-world-cup-2026-free"
+        }
+      ]
+    },
+    {
+      "title": "Harry Kane explains what makes him and Erling Haaland different before World Cup QF clash",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "England\u2019s all-time leading scorer Harry Kane broke down what makes him and Norway\u2019s Erling Haaland different strikers before their World Cup match. England will hope they can stop Norway\u2019s electric run in the 2026 FIFA World Cup with a quarterfinals win.",
+      "timestamp": "2026-07-12T18:43:29.679734Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/harry-kane-explains-what-makes-him-and-erling-haaland-different-before-world-cup-qf-clash/"
+        }
+      ]
+    },
+    {
+      "title": "How to live stream Norway vs England for free: FIFA World Cup 2026, TV channel",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Norway and England meet Saturday in a 2026 FIFA World Cup quarterfinal, with the winner advancing to face either Argentina or Switzerland in the semifinals. MORE: How to live stream World Cup 2026 How to Watch Norway vs England Norway\u2026",
+      "timestamp": "2026-07-12T18:43:29.679773Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b08f7954-c211-4ab5-bdb8-1d98809e699e"
+        }
+      ]
+    },
+    {
+      "title": "Where to Watch Norway vs. England in the 2026 FIFA World Cup for Free",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The two teams will face off in the quarterfinals, with England favored to win the match behind captain Harry Kane",
+      "timestamp": "2026-07-12T18:43:29.679801Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-norway-england-world-cup-game-free-livestream-1235591822/"
+        }
+      ]
+    },
+    {
+      "title": "Fed up with World Cup goals called offside for a stray toe or two? A Canadian soccer trial could fix that",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Marginal offside calls, aided by technology, have been widely criticized in the FIFA World Cup 2026 for sucking the immediacy, momentum and joy out of soccer. But the Canadian Premier League believes it's at the forefront of a solution, as it trials what has \u2026",
+      "timestamp": "2026-07-12T18:43:29.679835Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/sports/soccer/fifa-world-cup-soccer-offside-daylight-rule-9.7266714"
+        }
+      ]
+    },
+    {
+      "title": "Where to Watch Norway vs. England in the 2026 FIFA World Cup for Free",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "With trials to platforms like DirecTV, you can watch the Norway vs. England FIFA World Cup game for free. Where can I watch Norway vs. England for free?",
+      "timestamp": "2026-07-12T18:43:29.679868Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.rollingstone.com/product-recommendations/streaming/how-to-watch-norway-england-world-cup-game-free-livestream-1235591822/"
+        }
+      ]
+    },
+    {
+      "title": "England\u2019s Thomas Tuchel Put on Notice Ahead of Norway World Cup Match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England manager Thomas Tuchel is facing a dire situation if his team can't get a necessary victory over Norway in the quarterfinals of the 2026 FIFA World Cup.\nDuring an ESPN FC segment discussing Saturday's massive matchup, England soccer legend Steve McMana\u2026",
+      "timestamp": "2026-07-12T18:43:29.679955Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/91263f8847c0ec96"
+        }
+      ]
+    },
+    {
       "title": "Some Montreal fans vexed by increased police presence at World Cup celebrations",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup has brought about plenty of celebratory moments for fans worldwide, including right here in Montreal. But some of those celebrations have included a feature that have local soccer fans crying foul: a heavy police presence.",
-      "timestamp": "2026-07-12T17:45:53.147384Z",
+      "timestamp": "2026-07-12T18:43:29.679979Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Team France's Kylian Mbapp\u00e9 suffered a \"minor ankle injury\" during a 2026 FIFA World Cup quarterfinal win over Morocco. How might this affect his game against Spain?",
-      "timestamp": "2026-07-12T17:45:53.147499Z",
+      "timestamp": "2026-07-12T18:43:29.680004Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Where to Watch Norway vs England World Cup 2026 Match Free Live Streamhollywoodreporter.com",
-      "timestamp": "2026-07-12T17:45:53.147550Z",
+      "timestamp": "2026-07-12T18:43:29.680040Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup quarterfinals continue today with Norway facing England and Argentina taking on Switzerland.",
-      "timestamp": "2026-07-12T17:45:53.147635Z",
+      "timestamp": "2026-07-12T18:43:29.680113Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Norway vs England FIFA World Cup 2026: England faces Norway in a crucial FIFA World Cup 2026 quarter-final match.  Norway seeks a historic semi-final berth after impressive knockout stage victories.  England advanced by overcoming DR Congo and Mexico in tough\u2026",
-      "timestamp": "2026-07-12T17:45:53.147699Z",
+      "timestamp": "2026-07-12T18:43:29.680177Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The last two quartefinals",
-      "timestamp": "2026-07-12T17:45:53.147737Z",
+      "timestamp": "2026-07-12T18:43:29.680211Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Tonight's another massive night for England at the 2026 World Cup:Saturday 11 July 2026England face Norway in the third quarter-final on Saturday evening, in Miami. The Three Lions handled the heat of...",
-      "timestamp": "2026-07-12T17:45:53.147766Z",
+      "timestamp": "2026-07-12T18:43:29.680241Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jayden Adams, who recently represented South Africa at the 2026 FIFA World Cup, has died. He was 25. The Mamelodi Sundowns midfielder\u2019s body was found on Saturday morning in a house in the Schotschekloof suburb of central Cape Town, where police have begun an\u2026",
-      "timestamp": "2026-07-12T17:45:53.147929Z",
+      "timestamp": "2026-07-12T18:43:29.680396Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "South Africa international midfielder Jayden Adams, who played a key role in his country's 2026 World Cup campaign, has died at the age of 25, with no cause of death immediately provided.",
-      "timestamp": "2026-07-12T17:45:53.147951Z",
+      "timestamp": "2026-07-12T18:43:29.680418Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "SportsLine's Jon Eimer reveals his England vs. Norway best bets in the FIFA World Cup 2026 quarterfinals on Saturday",
-      "timestamp": "2026-07-12T17:45:53.147999Z",
+      "timestamp": "2026-07-12T18:43:29.680478Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "South African footballer Jayden Adams, 25, has died shortly after helping his nation reach the 2026 FIFA World Cup knockout stage for the first time. His passing is mourned by the football community.",
-      "timestamp": "2026-07-12T17:45:53.148043Z",
+      "timestamp": "2026-07-12T18:43:29.680522Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Hamza Abdelkarim was one of the youngest players at the 2026 FIFA World Cup, as he was selected for the Egyptian national team despite having minimal experience at the top level.A youth player at Barc...",
-      "timestamp": "2026-07-12T17:45:53.148087Z",
+      "timestamp": "2026-07-12T18:43:29.680564Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The \"Fight Club\" actor and the jewelry designer were joined by two of their A-list pals as they watched the soccer match from a suite.",
-      "timestamp": "2026-07-12T17:45:53.148131Z",
+      "timestamp": "2026-07-12T18:43:29.680604Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "South Africa midfielder Jayden Adams has passed away at age 25, just weeks after appearing in the 2026 FIFA World Cup, the South African Football Players Union confirmed in a statement. Adams had appeared in all three Group Stage games\u2026",
-      "timestamp": "2026-07-12T17:45:53.148209Z",
+      "timestamp": "2026-07-12T18:43:29.680681Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England, a pre-tournament favorites, takes on Norway and superstar Erling Haaland in the quarterfinals of the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-12T17:45:53.148240Z",
+      "timestamp": "2026-07-12T18:43:29.680711Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "What channel is the Norway soccer game vs England on July 11 in the 2026 World Cup? Here's how to watch, including time, TV schedule and streaming info.",
-      "timestamp": "2026-07-12T17:45:53.148264Z",
+      "timestamp": "2026-07-12T18:43:29.680732Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Check out the odds for the Argentina vs. Switzerland quarterfinals matchup at the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-12T17:45:53.148287Z",
+      "timestamp": "2026-07-12T18:43:29.680753Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With no World Cup matches taking place in Los Angeles for the remainder of the tournament, we look back at what the city had to offer throughout its eight matches.\u00a0The eighth and final 2026 World Cup...",
-      "timestamp": "2026-07-12T17:45:53.148328Z",
+      "timestamp": "2026-07-12T18:43:29.680793Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The two sides will meet at the Hard Rock Stadium for the quarterfinal matchup",
-      "timestamp": "2026-07-12T17:45:53.148484Z",
+      "timestamp": "2026-07-12T18:43:29.680937Z",
       "links": [
         {
           "label": "Source",
@@ -402,7 +542,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "MIAMI: England will take on Norway in a FIFA World Cup quarter-final on Friday in a blockbuster clash featuring star strikers Harry Kane and Erling Haaland. The winner will advance to the semi-finals to face either defending champions Argentina or surprise co\u2026",
-      "timestamp": "2026-07-12T17:45:53.148515Z",
+      "timestamp": "2026-07-12T18:43:29.680987Z",
       "links": [
         {
           "label": "Source",
@@ -416,7 +556,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup Golden Boot race is uniquely competitive, with trophy sponsor Adidas directly vying against rival boot companies backing the leading scorers.",
-      "timestamp": "2026-07-12T17:45:53.148564Z",
+      "timestamp": "2026-07-12T18:43:29.681063Z",
       "links": [
         {
           "label": "Source",
@@ -430,7 +570,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Tom Cruise and David Beckham were among the celebrities seen at the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-12T17:45:53.148582Z",
+      "timestamp": "2026-07-12T18:43:29.681097Z",
       "links": [
         {
           "label": "Source",
@@ -444,7 +584,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Norway's Ambassador and British High Commissioner anticipate a blockbuster World Cup quarter-final match. Both diplomats engaged in a playful challenge highlighting national differences and similarities. England advanced after a dramatic victory, while Norway\u2026",
-      "timestamp": "2026-07-12T17:45:53.148656Z",
+      "timestamp": "2026-07-12T18:43:29.681191Z",
       "links": [
         {
           "label": "Source",
@@ -458,114 +598,166 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "As a teenager, Erling Haaland and some teammates released the rap song \"Kygo Jo.\" During the 2026 World Cup, it went viral and Kygo gave it a remix.",
-      "timestamp": "2026-07-12T17:45:53.148677Z",
+      "timestamp": "2026-07-12T18:43:29.681231Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/11/erling-haaland-song-kygo-remix-2026-world-cup/90884669007/"
         }
       ]
-    },
-    {
-      "title": "World Cup schedule today: How to watch Norway v England, TV channels & live stream Saturday 11 July",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The final day of the 2026 World Cup quarter-finals will conclude with a pair of blockbuster matches involving two frontrunners and two dark horses. England face Norway in a match that could be defined by two superstar forwards: Erling Haaland and Harry Kane. \u2026",
-      "timestamp": "2026-07-12T17:45:53.148708Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/world-cup-schedule-today-watch-140051783.html"
-        }
-      ]
-    },
-    {
-      "title": "Just In: South Africa\u2019s Jayden Adams, who played at 2026 World Cup, dies at 25",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Adams played in all three of South Africa's group-stage matches at the tournament but did not feature in the knockout defeat by Canada.\nThe post Just In: South Africa\u2019s Jayden Adams, who played at 2026 World Cup, dies at 25 appeared first on Vanguard News.",
-      "timestamp": "2026-07-12T17:45:53.148788Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/just-in-south-africa-world-cup-midfielder-jayden-adams-dies-at-25/"
-        }
-      ]
-    },
-    {
-      "title": "Barcelona guaranteed World Cup final representation for fifth consecutive tournament",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FC Barcelona will once again be represented in a FIFA World Cup final after Spain\u2019s 2-1 victory over Belgium in the quarter-finals of the 2026 tournament. The result guarantees that at least one Bar...",
-      "timestamp": "2026-07-12T17:45:53.148898Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelona-guaranteed-world-cup-final-representation-for-fifth-consecutive-tournament/"
-        }
-      ]
-    },
-    {
-      "title": "Jayden Adams dead at 25: Tributes flood in after death of South Africa footballer just weeks after playing at 2026 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "South Africa star Jayden Adams has sadly passed away aged 25 just weeks after playing at the World Cup, according to reports.",
-      "timestamp": "2026-07-12T17:45:53.148998Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15970245/Jayden-Adams-dead-25-Tributes-flood-death-South-Africa-World-Cup.html"
-        }
-      ]
-    },
-    {
-      "title": "Argentina vs Switzerland schedule, TV channel for World Cup today",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "What channel is Switzerland vs Argentina match on today? Time, how to watch, how to stream 2026 World Cup match on TV, streaming on Saturday, July 11.",
-      "timestamp": "2026-07-12T17:45:53.149020Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.azcentral.com/story/sports/soccer/worldcup/2026/07/11/argentina-switzerland-time-tv-channel-schedule-world-cup-2026-match-saturday/90847808007/"
-        }
-      ]
-    },
-    {
-      "title": "How to Watch Argentina and Messi vs. Switzerland: TV Channel, Live Stream, Time",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Learn which TV channel or how to live stream the Argentina and Switzerland FIFA World Cup match.",
-      "timestamp": "2026-07-12T17:45:53.149109Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/argentina-vs-switzerland-how-to-watch-tv-channel-live-stream-2026-fifa-world-cup-quarterfinal"
-        }
-      ]
-    },
-    {
-      "title": "Lisandro Martinez: United star\u2019s bold take on World Cup refereeing",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Manchester United defender Lisandro Martinez has played a key role in Argentina\u2019s run to the quarter-finals of the 2026 FIFA World Cup. The Butcher was a first-team regular for the Red Devils in the...",
-      "timestamp": "2026-07-12T17:45:53.149203Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thepeoplesperson.com/2026/07/11/lisandro-martinez-united-stars-bold-take-on-world-cup-refereeing-312587/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "South Africa World Cup player dead at 25 just weeks after tournament appearance",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/sports/south-africa-world-cup-player-dead-25-weeks-after-tournament-appearance"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "South Africa\u2019s Jayden Adams, 25, dies after playing in FIFA World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/11/south-africas-jayden-adams-25-dies-after-playing-in-fifa-world-cup"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "Argentina vs. Switzerland live stream: How to watch FIFA World Cup, odds, prediction, pick, channel",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/argentina-switzerland-world-cup-2026-preview-predictions-watch/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "How to watch Norway vs England: Free Streams, TV Channels & Kick-Off time for a Haaland vs Kane FIFA World Cup 2026 quarter-final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/how-to-watch/football/norway-vs-england-world-cup-2026-free"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "Harry Kane explains what makes him and Erling Haaland different before World Cup QF clash",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/harry-kane-explains-what-makes-him-and-erling-haaland-different-before-world-cup-qf-clash/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "How to live stream Norway vs England for free: FIFA World Cup 2026, TV channel",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b08f7954-c211-4ab5-bdb8-1d98809e699e"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "Where to Watch Norway vs. England in the 2026 FIFA World Cup for Free",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-norway-england-world-cup-game-free-livestream-1235591822/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "Fed up with World Cup goals called offside for a stray toe or two? A Canadian soccer trial could fix that",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/sports/soccer/fifa-world-cup-soccer-offside-daylight-rule-9.7266714"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "Where to Watch Norway vs. England in the 2026 FIFA World Cup for Free",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.rollingstone.com/product-recommendations/streaming/how-to-watch-norway-england-world-cup-game-free-livestream-1235591822/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "England\u2019s Thomas Tuchel Put on Notice Ahead of Norway World Cup Match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/91263f8847c0ec96"
+        }
+      ]
+    },
     {
       "date": "Jul 12",
       "loc": "Global",
@@ -925,112 +1117,7 @@
           "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/11/erling-haaland-song-kygo-remix-2026-world-cup/90884669007/"
         }
       ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "World Cup schedule today: How to watch Norway v England, TV channels & live stream Saturday 11 July",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/world-cup-schedule-today-watch-140051783.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Just In: South Africa\u2019s Jayden Adams, who played at 2026 World Cup, dies at 25",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/just-in-south-africa-world-cup-midfielder-jayden-adams-dies-at-25/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Barcelona guaranteed World Cup final representation for fifth consecutive tournament",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelona-guaranteed-world-cup-final-representation-for-fifth-consecutive-tournament/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Jayden Adams dead at 25: Tributes flood in after death of South Africa footballer just weeks after playing at 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15970245/Jayden-Adams-dead-25-Tributes-flood-death-South-Africa-World-Cup.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Argentina vs Switzerland schedule, TV channel for World Cup today",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.azcentral.com/story/sports/soccer/worldcup/2026/07/11/argentina-switzerland-time-tv-channel-schedule-world-cup-2026-match-saturday/90847808007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "How to Watch Argentina and Messi vs. Switzerland: TV Channel, Live Stream, Time",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/argentina-vs-switzerland-how-to-watch-tv-channel-live-stream-2026-fifa-world-cup-quarterfinal"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Lisandro Martinez: United star\u2019s bold take on World Cup refereeing",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thepeoplesperson.com/2026/07/11/lisandro-martinez-united-stars-bold-take-on-world-cup-refereeing-312587/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-12T17:45:53.149404Z"
+  "lastUpdated": "2026-07-12T18:43:29.681374Z"
 }
