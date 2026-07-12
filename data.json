@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 3,
-    "p3": 31
+    "p2": 4,
+    "p3": 28
   },
   "watchlist": [
     {
@@ -131,12 +131,180 @@
   ],
   "risks": [
     {
+      "title": "World Cup 2026: Norway vs England lineups: Heggem starts as Haaland faces Three Lions",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "Norway vs England takes place on Saturday evening, for a place in the World Cup semi-finals, in a quarter-final pitting the tournament's most feared striker",
+      "timestamp": "2026-07-12T19:58:12.349055Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/world-cup-2026-norway-vs-england-lineups/"
+        }
+      ]
+    },
+    {
+      "title": "What is England\u2019s current FIFA ranking ahead of its 2026 World Cup match vs Norway?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England heads to the Norway game in the 2026 World Cup quarterfinals with the possibility of reaching its best mark in the FIFA Rankings. England entered the 2026 FIFA World Cup widely regarded as one of the strongest national teams of the tournament, and now\u2026",
+      "timestamp": "2026-07-12T19:58:12.349114Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/what-is-englands-current-fifa-ranking-ahead-of-its-2026-world-cup-match-vs-norway/"
+        }
+      ]
+    },
+    {
+      "title": "Norway\u2019s updated FIFA ranking before 2026 World Cup clash with England",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Norway face England in a crucial 2026 World Cup quarterfinal clash, with a place in the semifinals on the line. The 2026 World Cup quarterfinals continue at Miami Stadium, where Norway take on England in a matchup that pits one of the tournament\u2019s biggest ove\u2026",
+      "timestamp": "2026-07-12T19:58:12.349149Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/norways-updated-fifa-ranking-before-2026-world-cup-clash-with-england/"
+        }
+      ]
+    },
+    {
+      "title": "England vs. Norway odds, prediction, time: 2026 World Cup quarterfinal picks by expert on 25-16 roll",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "SportsLine's Jon Eimer reveals his England vs. Norway best bets in the FIFA World Cup 2026 quarterfinals on Saturday",
+      "timestamp": "2026-07-12T19:58:12.349246Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/england-norway-odds-prediction-line-time-2026-world-cup-quarterfinal-picks-best-bets/"
+        }
+      ]
+    },
+    {
+      "title": "The high-flying England vs. Norway World Cup bet that's got everyone talking",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England and Norway face each other in the 2026 FIFA World Cup on Saturday.\nANP/Richard Pelham/Getty Images\nEngland and Norway are facing off in the FIFA World Cup quarterfinals on Saturday.\nBritish Airways and Norwegian Air Shuttle bet on the match's outcome \u2026",
+      "timestamp": "2026-07-12T19:58:12.349289Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/519cefca9c9a0f61"
+        }
+      ]
+    },
+    {
+      "title": "\u2018Beyond embarrassing\u2019: England star Harry Kane sparks outrage after Donald Trump comments",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "United States President Donald Trump has loomed large over the 2026 FIFA World Cup, especially after his controversial involvement in FIFA\u2019s decision to overturn the red card suspension for USMNT striker Folarin Balogun. However, it seems like one internation\u2026",
+      "timestamp": "2026-07-12T19:58:12.349355Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/beyond-embarrassing-england-star-harry-kane-sparks-outrage-after-donald-trump-comments.html"
+        }
+      ]
+    },
+    {
+      "title": "How Argentina\u2019s win, draw, or loss vs Switzerland could impact the 2026 World Cup bracket",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Gearing up for a massive Quarter-final battle this Saturday, defending champions Argentina and an undefeated Switzerland are ready to leave it all on the pitch. While the defending champion enters the clash as the favorite, the Swiss arrives unbeaten and dete\u2026",
+      "timestamp": "2026-07-12T19:58:12.349386Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/how-argentinas-win-draw-or-loss-vs-switzerland-could-impact-the-2026-world-cup-bracket/"
+        }
+      ]
+    },
+    {
+      "title": "Norway vs. England: Stream FIFA World Cup 2026 Match Live for Free",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "A compelling quarterfinal matchup pits former teammates Erling Haaland and Jude Bellingham against each other.",
+      "timestamp": "2026-07-12T19:58:12.349436Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cnet.com/tech/services-and-software/norway-vs-england-stream-fifa-world-cup-2026-match-live-for-free/"
+        }
+      ]
+    },
+    {
+      "title": "Norway vs England live updates, World Cup start time, predictions",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "It's Erling Haaland and Norway vs. Harry Kane and England in the 2026 FIFA World Cup quarterfinals. Follow for live updates, highlights and analysis.",
+      "timestamp": "2026-07-12T19:58:12.349455Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/07/11/norway-england-live-score-world-cup-updates/90864281007/"
+        }
+      ]
+    },
+    {
+      "title": "Norway's World Cup kit reflects the nation's Christian heritage with meaningful historic details",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Norway's 2026 World Cup jersey features the Nordic Cross and patterns inspired by the 12th-century Urnes Stave Church, celebrating Christian heritage.",
+      "timestamp": "2026-07-12T19:58:12.349522Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/outkick-sports/norways-world-cup-kit-reflects-nations-christian-heritage-meaningful-historic-details"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Messi's Biggest Test Yet? What To Know About Argentina vs. Switzerland",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Here is everything you need to know about Argentina vs. Switzerland in the 2026 FIFA World Cup quarterfinals.",
+      "timestamp": "2026-07-12T19:58:12.349590Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/lionel-messis-biggest-test-yet-what-know-about-argentina-vs-switzerland"
+        }
+      ]
+    },
+    {
+      "title": "Argentina vs Switzerland FIFA World Cup 2026: India time, live streaming, lineups, other details",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina vs Switzerland FIFA World Cup 2026: Defending champions Argentina will face Switzerland in the FIFA World Cup 2026 quarter-final. Lionel Messi has scored eight goals, leading Argentina's strong tournament performance so far. Switzerland aims to reac\u2026",
+      "timestamp": "2026-07-12T19:58:12.349647Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/argentina-vs-switzerland-fifa-world-cup-2026-india-time-live-streaming-where-to-watch-tv-channel-venue-predicted-lineup-key-players-injury-news-match-prediction/articleshow/132336405.cms"
+        }
+      ]
+    },
+    {
       "title": "South Africa World Cup player dead at 25 just weeks after tournament appearance",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jayden Adams played for South Africa in the 2026 FIFA World Cup less than two weeks ago but suddenly died earlier this week, the country's soccer federation announced.",
-      "timestamp": "2026-07-12T18:43:29.679388Z",
+      "timestamp": "2026-07-12T19:58:12.349668Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "South Africa and Mamelodi Sundowns midfielder died after featuring in his nation\u2019s run to the World Cup round of 32.",
-      "timestamp": "2026-07-12T18:43:29.679462Z",
+      "timestamp": "2026-07-12T19:58:12.349692Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The last of the four quarterfinals sees Messi and Argentina face the underrated Swiss",
-      "timestamp": "2026-07-12T18:43:29.679627Z",
+      "timestamp": "2026-07-12T19:58:12.349867Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +346,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Here's how to watch Norway vs England for free online and from anywhere at the FIFA World Cup 2026, as two of the world's best strikers meet in the last eight.",
-      "timestamp": "2026-07-12T18:43:29.679698Z",
+      "timestamp": "2026-07-12T19:58:12.349940Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +360,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "England\u2019s all-time leading scorer Harry Kane broke down what makes him and Norway\u2019s Erling Haaland different strikers before their World Cup match. England will hope they can stop Norway\u2019s electric run in the 2026 FIFA World Cup with a quarterfinals win.",
-      "timestamp": "2026-07-12T18:43:29.679734Z",
+      "timestamp": "2026-07-12T19:58:12.349980Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Norway and England meet Saturday in a 2026 FIFA World Cup quarterfinal, with the winner advancing to face either Argentina or Switzerland in the semifinals. MORE: How to live stream World Cup 2026 How to Watch Norway vs England Norway\u2026",
-      "timestamp": "2026-07-12T18:43:29.679773Z",
+      "timestamp": "2026-07-12T19:58:12.350018Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The two teams will face off in the quarterfinals, with England favored to win the match behind captain Harry Kane",
-      "timestamp": "2026-07-12T18:43:29.679801Z",
+      "timestamp": "2026-07-12T19:58:12.350045Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Marginal offside calls, aided by technology, have been widely criticized in the FIFA World Cup 2026 for sucking the immediacy, momentum and joy out of soccer. But the Canadian Premier League believes it's at the forefront of a solution, as it trials what has \u2026",
-      "timestamp": "2026-07-12T18:43:29.679835Z",
+      "timestamp": "2026-07-12T19:58:12.350076Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With trials to platforms like DirecTV, you can watch the Norway vs. England FIFA World Cup game for free. Where can I watch Norway vs. England for free?",
-      "timestamp": "2026-07-12T18:43:29.679868Z",
+      "timestamp": "2026-07-12T19:58:12.350103Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England manager Thomas Tuchel is facing a dire situation if his team can't get a necessary victory over Norway in the quarterfinals of the 2026 FIFA World Cup.\nDuring an ESPN FC segment discussing Saturday's massive matchup, England soccer legend Steve McMana\u2026",
-      "timestamp": "2026-07-12T18:43:29.679955Z",
+      "timestamp": "2026-07-12T19:58:12.350188Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup has brought about plenty of celebratory moments for fans worldwide, including right here in Montreal. But some of those celebrations have included a feature that have local soccer fans crying foul: a heavy police presence.",
-      "timestamp": "2026-07-12T18:43:29.679979Z",
+      "timestamp": "2026-07-12T19:58:12.350212Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Team France's Kylian Mbapp\u00e9 suffered a \"minor ankle injury\" during a 2026 FIFA World Cup quarterfinal win over Morocco. How might this affect his game against Spain?",
-      "timestamp": "2026-07-12T18:43:29.680004Z",
+      "timestamp": "2026-07-12T19:58:12.350238Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Where to Watch Norway vs England World Cup 2026 Match Free Live Streamhollywoodreporter.com",
-      "timestamp": "2026-07-12T18:43:29.680040Z",
+      "timestamp": "2026-07-12T19:58:12.350274Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup quarterfinals continue today with Norway facing England and Argentina taking on Switzerland.",
-      "timestamp": "2026-07-12T18:43:29.680113Z",
+      "timestamp": "2026-07-12T19:58:12.350348Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Norway vs England FIFA World Cup 2026: England faces Norway in a crucial FIFA World Cup 2026 quarter-final match.  Norway seeks a historic semi-final berth after impressive knockout stage victories.  England advanced by overcoming DR Congo and Mexico in tough\u2026",
-      "timestamp": "2026-07-12T18:43:29.680177Z",
+      "timestamp": "2026-07-12T19:58:12.350406Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The last two quartefinals",
-      "timestamp": "2026-07-12T18:43:29.680211Z",
+      "timestamp": "2026-07-12T19:58:12.350440Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Tonight's another massive night for England at the 2026 World Cup:Saturday 11 July 2026England face Norway in the third quarter-final on Saturday evening, in Miami. The Three Lions handled the heat of...",
-      "timestamp": "2026-07-12T18:43:29.680241Z",
+      "timestamp": "2026-07-12T19:58:12.350465Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +542,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jayden Adams, who recently represented South Africa at the 2026 FIFA World Cup, has died. He was 25. The Mamelodi Sundowns midfielder\u2019s body was found on Saturday morning in a house in the Schotschekloof suburb of central Cape Town, where police have begun an\u2026",
-      "timestamp": "2026-07-12T18:43:29.680396Z",
+      "timestamp": "2026-07-12T19:58:12.350686Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +556,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "South Africa international midfielder Jayden Adams, who played a key role in his country's 2026 World Cup campaign, has died at the age of 25, with no cause of death immediately provided.",
-      "timestamp": "2026-07-12T18:43:29.680418Z",
+      "timestamp": "2026-07-12T19:58:12.350722Z",
       "links": [
         {
           "label": "Source",
@@ -402,212 +570,196 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "SportsLine's Jon Eimer reveals his England vs. Norway best bets in the FIFA World Cup 2026 quarterfinals on Saturday",
-      "timestamp": "2026-07-12T18:43:29.680478Z",
+      "timestamp": "2026-07-12T19:58:12.350792Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.cbssports.com/soccer/news/england-norway-odds-prediction-line-time-2026-world-cup-quarterfinal-picks-bets/"
         }
       ]
-    },
-    {
-      "title": "South African Star Jayden Adams Dies at 25 Weeks After Historic World Cup Run with Bafana Bafana",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "South African footballer Jayden Adams, 25, has died shortly after helping his nation reach the 2026 FIFA World Cup knockout stage for the first time. His passing is mourned by the football community.",
-      "timestamp": "2026-07-12T18:43:29.680522Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ibtimes.com.au/south-african-footballer-jayden-adams-dies-25-1872124"
-        }
-      ]
-    },
-    {
-      "title": "Barcelona starlet to be available at Flick\u2019s disposal for pre-season on Monday after receiving state honours",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Hamza Abdelkarim was one of the youngest players at the 2026 FIFA World Cup, as he was selected for the Egyptian national team despite having minimal experience at the top level.A youth player at Barc...",
-      "timestamp": "2026-07-12T18:43:29.680564Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelona-starlet-to-be-available-at-flicks-disposal-for-pre-season-on-monday-after-receiving-state-honours/"
-        }
-      ]
-    },
-    {
-      "title": "Brad Pitt and girlfriend Ines de Ramon share steamy kiss at FIFA World Cup 2026 match",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The \"Fight Club\" actor and the jewelry designer were joined by two of their A-list pals as they watched the soccer match from a suite.",
-      "timestamp": "2026-07-12T18:43:29.680604Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://pagesix.com/2026/07/11/celebrity-news/brad-pitt-and-girlfriend-ines-de-ramon-share-steamy-kiss-at-fifa-world-cup-2026-match/"
-        }
-      ]
-    },
-    {
-      "title": "South Africa midfielder Jayden Adams dies at 25 days after starting in 2026 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "South Africa midfielder Jayden Adams has passed away at age 25, just weeks after appearing in the 2026 FIFA World Cup, the South African Football Players Union confirmed in a statement. Adams had appeared in all three Group Stage games\u2026",
-      "timestamp": "2026-07-12T18:43:29.680681Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/jayden-adams-cause-of-death-south-africa-world-cup-starter-dies-25/"
-        }
-      ]
-    },
-    {
-      "title": "What time does England play today vs Norway in World Cup quarterfinals?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England, a pre-tournament favorites, takes on Norway and superstar Erling Haaland in the quarterfinals of the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-12T18:43:29.680711Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.elpasotimes.com/story/sports/soccer/2026/07/11/when-does-england-play-in-the-world-cup-vs-norway-odds-prediction/90881383007/"
-        }
-      ]
-    },
-    {
-      "title": "What channel is Norway vs England soccer game on today? World Cup time, TV schedule",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "What channel is the Norway soccer game vs England on July 11 in the 2026 World Cup? Here's how to watch, including time, TV schedule and streaming info.",
-      "timestamp": "2026-07-12T18:43:29.680732Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.oklahoman.com/story/sports/soccer/2026/07/11/norway-vs-england-soccer-today-how-to-watch-stream-2026-world-cup-live/90862829007/"
-        }
-      ]
-    },
-    {
-      "title": "Argentina vs. Switzerland Prediction, Odds, Picks For World Cup Match",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Check out the odds for the Argentina vs. Switzerland quarterfinals matchup at the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-12T18:43:29.680753Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/argentina-vs-switzerland-prediction-odds-picks-world-cup-match"
-        }
-      ]
-    },
-    {
-      "title": "Reviewing the Los Angeles World Cup Experience",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "With no World Cup matches taking place in Los Angeles for the remainder of the tournament, we look back at what the city had to offer throughout its eight matches.\u00a0The eighth and final 2026 World Cup...",
-      "timestamp": "2026-07-12T18:43:29.680793Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://urbanpitch.com/reviewing-the-los-angeles-world-cup-experience/"
-        }
-      ]
-    },
-    {
-      "title": "Norway vs. England live stream: How to watch FIFA World Cup, predictions and lineups",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The two sides will meet at the Hard Rock Stadium for the quarterfinal matchup",
-      "timestamp": "2026-07-12T18:43:29.680937Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/norway-vs-england-live-stream-how-to-watch-fifa-world-cup-predictions-and-lineups/"
-        }
-      ]
-    },
-    {
-      "title": "England face Norway as Argentina take on Switzerland in World Cup quarter-finals",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "MIAMI: England will take on Norway in a FIFA World Cup quarter-final on Friday in a blockbuster clash featuring star strikers Harry Kane and Erling Haaland. The winner will advance to the semi-finals to face either defending champions Argentina or surprise co\u2026",
-      "timestamp": "2026-07-12T18:43:29.680987Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.khabarhub.com/2026/11/558057/"
-        }
-      ]
-    },
-    {
-      "title": "The World Cup Golden Boot Race Has Become A Sponsorship Fight",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup Golden Boot race is uniquely competitive, with trophy sponsor Adidas directly vying against rival boot companies backing the leading scorers.",
-      "timestamp": "2026-07-12T18:43:29.681063Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/samleveridge/2026/07/11/the-world-cup-golden-boot-race-has-become-a-sponsorship-fight/"
-        }
-      ]
-    },
-    {
-      "title": "All the celebrities spotted cheering on their favorite teams at the World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Tom Cruise and David Beckham were among the celebrities seen at the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-12T18:43:29.681097Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.businessinsider.com/photos-celebrities-cheering-2026-world-cup#article"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026: Norway, England Ambassadors gear up for blockbuster WC QF",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Norway's Ambassador and British High Commissioner anticipate a blockbuster World Cup quarter-final match. Both diplomats engaged in a playful challenge highlighting national differences and similarities. England advanced after a dramatic victory, while Norway\u2026",
-      "timestamp": "2026-07-12T18:43:29.681191Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-norway-england-ambassadors-gear-up-for-blockbuster-wc-qf/articleshow/132332194.cms"
-        }
-      ]
-    },
-    {
-      "title": "What is the Erling Haaland song that's gone viral? 'Kygo Jo' rap given new life in World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "As a teenager, Erling Haaland and some teammates released the rap song \"Kygo Jo.\" During the 2026 World Cup, it went viral and Kygo gave it a remix.",
-      "timestamp": "2026-07-12T18:43:29.681231Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/11/erling-haaland-song-kygo-remix-2026-world-cup/90884669007/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "World Cup 2026: Norway vs England lineups: Heggem starts as Haaland faces Three Lions",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/world-cup-2026-norway-vs-england-lineups/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "What is England\u2019s current FIFA ranking ahead of its 2026 World Cup match vs Norway?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/what-is-englands-current-fifa-ranking-ahead-of-its-2026-world-cup-match-vs-norway/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "Norway\u2019s updated FIFA ranking before 2026 World Cup clash with England",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/norways-updated-fifa-ranking-before-2026-world-cup-clash-with-england/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "England vs. Norway odds, prediction, time: 2026 World Cup quarterfinal picks by expert on 25-16 roll",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/england-norway-odds-prediction-line-time-2026-world-cup-quarterfinal-picks-best-bets/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "The high-flying England vs. Norway World Cup bet that's got everyone talking",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/519cefca9c9a0f61"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "\u2018Beyond embarrassing\u2019: England star Harry Kane sparks outrage after Donald Trump comments",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/beyond-embarrassing-england-star-harry-kane-sparks-outrage-after-donald-trump-comments.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "How Argentina\u2019s win, draw, or loss vs Switzerland could impact the 2026 World Cup bracket",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/how-argentinas-win-draw-or-loss-vs-switzerland-could-impact-the-2026-world-cup-bracket/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "Norway vs. England: Stream FIFA World Cup 2026 Match Live for Free",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cnet.com/tech/services-and-software/norway-vs-england-stream-fifa-world-cup-2026-match-live-for-free/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "Norway vs England live updates, World Cup start time, predictions",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/07/11/norway-england-live-score-world-cup-updates/90864281007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "Norway's World Cup kit reflects the nation's Christian heritage with meaningful historic details",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/outkick-sports/norways-world-cup-kit-reflects-nations-christian-heritage-meaningful-historic-details"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "Lionel Messi's Biggest Test Yet? What To Know About Argentina vs. Switzerland",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/lionel-messis-biggest-test-yet-what-know-about-argentina-vs-switzerland"
+        }
+      ]
+    },
+    {
+      "date": "Jul 12",
+      "loc": "Global",
+      "event": "Argentina vs Switzerland FIFA World Cup 2026: India time, live streaming, lineups, other details",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/argentina-vs-switzerland-fifa-world-cup-2026-india-time-live-streaming-where-to-watch-tv-channel-venue-predicted-lineup-key-players-injury-news-match-prediction/articleshow/132336405.cms"
+        }
+      ]
+    },
     {
       "date": "Jul 12",
       "loc": "Global",
@@ -907,217 +1059,7 @@
           "url": "https://www.cbssports.com/soccer/news/england-norway-odds-prediction-line-time-2026-world-cup-quarterfinal-picks-bets/"
         }
       ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "South African Star Jayden Adams Dies at 25 Weeks After Historic World Cup Run with Bafana Bafana",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ibtimes.com.au/south-african-footballer-jayden-adams-dies-25-1872124"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Barcelona starlet to be available at Flick\u2019s disposal for pre-season on Monday after receiving state honours",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelona-starlet-to-be-available-at-flicks-disposal-for-pre-season-on-monday-after-receiving-state-honours/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Brad Pitt and girlfriend Ines de Ramon share steamy kiss at FIFA World Cup 2026 match",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://pagesix.com/2026/07/11/celebrity-news/brad-pitt-and-girlfriend-ines-de-ramon-share-steamy-kiss-at-fifa-world-cup-2026-match/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "South Africa midfielder Jayden Adams dies at 25 days after starting in 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/jayden-adams-cause-of-death-south-africa-world-cup-starter-dies-25/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "What time does England play today vs Norway in World Cup quarterfinals?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.elpasotimes.com/story/sports/soccer/2026/07/11/when-does-england-play-in-the-world-cup-vs-norway-odds-prediction/90881383007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "What channel is Norway vs England soccer game on today? World Cup time, TV schedule",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.oklahoman.com/story/sports/soccer/2026/07/11/norway-vs-england-soccer-today-how-to-watch-stream-2026-world-cup-live/90862829007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Argentina vs. Switzerland Prediction, Odds, Picks For World Cup Match",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/argentina-vs-switzerland-prediction-odds-picks-world-cup-match"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Reviewing the Los Angeles World Cup Experience",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://urbanpitch.com/reviewing-the-los-angeles-world-cup-experience/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Miami",
-      "event": "Norway vs. England live stream: How to watch FIFA World Cup, predictions and lineups",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/norway-vs-england-live-stream-how-to-watch-fifa-world-cup-predictions-and-lineups/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "England face Norway as Argentina take on Switzerland in World Cup quarter-finals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.khabarhub.com/2026/11/558057/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "The World Cup Golden Boot Race Has Become A Sponsorship Fight",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/samleveridge/2026/07/11/the-world-cup-golden-boot-race-has-become-a-sponsorship-fight/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "All the celebrities spotted cheering on their favorite teams at the World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.businessinsider.com/photos-celebrities-cheering-2026-world-cup#article"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026: Norway, England Ambassadors gear up for blockbuster WC QF",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-norway-england-ambassadors-gear-up-for-blockbuster-wc-qf/articleshow/132332194.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "What is the Erling Haaland song that's gone viral? 'Kygo Jo' rap given new life in World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/11/erling-haaland-song-kygo-remix-2026-world-cup/90884669007/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-12T18:43:29.681374Z"
+  "lastUpdated": "2026-07-12T19:58:12.351057Z"
 }
