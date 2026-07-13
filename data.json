@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 31
+    "p3": 25
   },
   "watchlist": [
     {
@@ -131,12 +131,264 @@
   ],
   "risks": [
     {
+      "title": "England and Norway tied 1-1 at halftime of World Cup quarterfinal - AP News",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England and Norway tied 1-1 at halftime of World Cup quarterfinalAP News England tops Norway in extra time: World Cup live updates continue with Argentina vs. Switzerland up nextYahoo Sports Argentina vs. Switzerland Live World Cup 2026 Updates, Scores and Hi\u2026",
+      "timestamp": "2026-07-13T01:18:51.291122Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184417532"
+        }
+      ]
+    },
+    {
+      "title": "Why is Argentina wearing black armbands? Remembering Antonio Ratt\u00edn",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "At the 1966 World Cup, Argentine midfielder Antonio Rattin inadvertently led to the implementation of soccer's card system. The 2026 World Cup team is honoring him after his death Saturday.",
+      "timestamp": "2026-07-13T01:18:51.291378Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/11/argentina-black-armbands-antonio-rattin/90888957007/"
+        }
+      ]
+    },
+    {
+      "title": "Three observations from England\u2019s 2-1 win over Norway in the FIFA World Cup quarterfinals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Norway will row into their next World Cup stronger.",
+      "timestamp": "2026-07-13T01:18:51.291469Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bavarianfootballworks.com/fifa-world-cup/229467/three-observations-from-englands-2-1-win-over-norway-in-the-fifa-world-cup-quarterfinals"
+        }
+      ]
+    },
+    {
+      "title": "Argentina vs. Switzerland player ratings: Live grades for Lionel Messi, others in 2026 World Cup quarterfinal",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lionel Messi and defending champions Argentina hope to continue their push deep into the 2026 FIFA World Cup as they meet European side Switzerland in the quarterfinals from Kansas City on Saturday.",
+      "timestamp": "2026-07-13T01:18:51.291594Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/argentina-vs-switzerland-live-player-ratings-grades-world-cup/9776ac971754f827ac03a735"
+        }
+      ]
+    },
+    {
+      "title": "FIFA Makes Controversial Claim About England Goal Against Norway That Appeared To Hit Camera Cable",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Two goals from Real Madrid superstar Jude Bellingham lifted\u00a0England\u00a0into the semifinals of the\u00a02026 FIFA World Cup\u00a0with a 2-1 victory over\u00a0Norway\u00a0in extra time. However, many believe that the Three Lions did not even deserve to reach extra time after scoring \u2026",
+      "timestamp": "2026-07-13T01:18:51.291628Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://brobible.com/sports/article/england-norway-fifa-world-cup-camera-cable/"
+        }
+      ]
+    },
+    {
+      "title": "Jude Bellingham's second straight two-goal performance sends England to World Cup semifinals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Jude Bellingham scored twice, including the extra-time winner, as England edged Norway in a dramatic 2026 FIFA World Cup quarterfinal clash.",
+      "timestamp": "2026-07-13T01:18:51.291769Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/sports/jude-bellingham-second-straight-two-goal-performance-sends-england-world-cup-semifinals"
+        }
+      ]
+    },
+    {
+      "title": "Why isn\u2019t Johan Manzambi playing for Switzerland against Argentina at the 2026 World Cup?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Set to face Argentina in the 2026 World Cup quarterfinals, Johan Manzambi will be one of the main absences for Switzerland national team. Switzerland faces Argentina at Arrowhead Stadium in Kansas City on Saturday, July 12th, with a semifinal spot on the line\u2026",
+      "timestamp": "2026-07-13T01:18:51.291818Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/why-isnt-johan-manzambi-playing-for-switzerland-against-argentina-at-the-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "Jude Bellingham Gets 9.5/10 | England Players Rated Vs Norway As They March Into The Semi-Final Of The FIFA World Cup 2026",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Unadulterated drama. That is the only way to describe the absolute circus in Florida as England dragged themselves into the FIFA World Cup 2026 semi-finals. It took extra time, a massive slice of luck...",
+      "timestamp": "2026-07-13T01:18:51.291890Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://the4thofficial.net/2026/07/jude-bellingham-gets-9-5-10-england-players-rated-vs-norway-as-they-march-into-the-semi-final-of-the-fifa-world-cup-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Argentina vs Switzerland announcers: Who's calling the World Cup game on Fox?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Here's who's calling Argentina vs Switzerland in the 2026 World Cup on Saturday, airing on Fox.",
+      "timestamp": "2026-07-13T01:18:51.292031Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://ftw.usatoday.com/story/sports/soccer/worldcup/2026/07/11/argentina-switzerland-announcers-world-cup-fox/90872807007/"
+        }
+      ]
+    },
+    {
+      "title": "How to watch Argentina vs Switzerland: Live stream, TV channel & start time for World Cup Quarterfinals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lionel Messi is just two wins from reaching a second straight World Cup final and leads Argentina into battle against Switzerland on Saturday in the last of four quarterfinals. MORE: How to live stream World Cup 2026 How to Watch\u2026",
+      "timestamp": "2026-07-13T01:18:51.292064Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thebiglead.com/how-to-watch-argentina-vs-switzerland-live-stream-tv-channel-start-time-for-world-cup-quarterfinals/"
+        }
+      ]
+    },
+    {
+      "title": "England 2-1 Norway: Jude Bellingham brace sends Three Lions into World Cup semi-finals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England dug deep to beat Norway 2-1 after extra time in the 2026 FIFA World Cup quarter-finals at Hard Rock Stadium in Miami on Saturday evening.Norway broke the deadlock in the 36th minute as Andreas...",
+      "timestamp": "2026-07-13T01:18:51.292106Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/07/12/england-2-1-norway-jude-bellingham-brace-sends-three-lions-into-world-cup-semi-finals/"
+        }
+      ]
+    },
+    {
+      "title": "Why isn\u2019t Lautaro Martinez starting for Argentina against Switzerland at the 2026 World Cup?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina face Switzerland in a crucial 2026 World Cup quarterfinal clash, where Lautaro Martinez will begin the match from the bench. Argentina face Switzerland in the quarterfinals of the 2026 World Cup at Kansas City Stadium, and manager Lionel Scaloni opt\u2026",
+      "timestamp": "2026-07-13T01:18:51.292171Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/why-isnt-lautaro-martinez-starting-for-argentina-against-switzerland-at-the-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "Jude Bellingham Scores Twice To Send England To World Cup Semifinals Over Norway",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England is through to the 2026 FIFA World Cup semifinals following a hard-fought 2-0 win over Norway on Saturday at Miami Stadium.",
+      "timestamp": "2026-07-13T01:18:51.292225Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/england-vs-norway-highlights-jude-bellingham-brace-2026-world-cup"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026: England to play in semifinal game in Atlanta",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "We now know part of the matchup that will be coming to Atlanta next week.",
+      "timestamp": "2026-07-13T01:18:51.292254Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/fifa-world-cup-2026-england-234913171.html"
+        }
+      ]
+    },
+    {
+      "title": " It can still come home! England knock out Norway, into semis",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "This Saturday (11), England needed extra time to come from behind and beat Norway 2-1, securing a place in the semifinals of the 2026 FIFA World Cup.This is the fourth time the \"English Team\" has fini...",
+      "timestamp": "2026-07-13T01:18:51.292329Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/it-can-still-come-home-england-knock-out-norway-into-semis-43127622"
+        }
+      ]
+    },
+    {
+      "title": "'Man of all the moments' - Bellingham gives England the lead",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami.",
+      "timestamp": "2026-07-13T01:18:51.292367Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c20yrd39ge8o"
+        }
+      ]
+    },
+    {
+      "title": "Jayden Adams, South African World Cup Midfielder, Dies at 25",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Jayden Adams, the South African midfielder who represented his country at the 2026 FIFA World Cup, has died. He was 25. Entertainment Weekly reported that ... Read More",
+      "timestamp": "2026-07-13T01:18:51.292415Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://wealthofgeeks.com/jayden-adams-south-african-world-cup-midfielder-dies-at-25/"
+        }
+      ]
+    },
+    {
+      "title": " Argentina named to face Switzerland and try to reach the semis",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina return to the pitch this Saturday (11) at 10pm (Bras\u00edlia time), when they face Switzerland in Kansas City (USA) in the quarter-finals of the 2026 FIFA World Cup.The winner will face Norway ...",
+      "timestamp": "2026-07-13T01:18:51.292444Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/argentina-named-to-face-switzerland-and-try-to-reach-the-semis-43127605"
+        }
+      ]
+    },
+    {
       "title": "Norway kick hits FIFA Skycam on play leading to England goal",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England scored an equalizer vs. Norway on a Jude Bellingham goal during stoppage time in the first half of Saturday\u2019s 2026 FIFA World Cup quarterfinal match at Hard Rock Stadium in Miami. \u201cJUDE BELLINGHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM!\u201d John Strong with the Fo\u2026",
-      "timestamp": "2026-07-12T23:39:17.174816Z",
+      "timestamp": "2026-07-13T01:18:51.292488Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England's Jude Bellingham has his second goal against Norway during a World Cup quarterfinal match at Hard Rock Stadium in Miami Gardens.",
-      "timestamp": "2026-07-12T23:39:17.174975Z",
+      "timestamp": "2026-07-13T01:18:51.292592Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England's Jude Bellingham has his second goal against Norway during a World Cup quarterfinal match at Hard Rock Stadium in Miami Gardens.",
-      "timestamp": "2026-07-12T23:39:17.174995Z",
+      "timestamp": "2026-07-13T01:18:51.292606Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Norway national football team faced the England national football team on Saturday night in a historic FIFA World Cup 2026 quarter-final at Hard Rock Stadium in Miami Gardens, Florida. Norway vs England brought together two of the tournament\u2019s in-form tea\u2026",
-      "timestamp": "2026-07-12T23:39:17.175027Z",
+      "timestamp": "2026-07-13T01:18:51.292662Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Where to Watch Argentina vs Switzerland World Cup 2026 Match Free Livehollywoodreporter.com",
-      "timestamp": "2026-07-12T23:39:17.175107Z",
+      "timestamp": "2026-07-13T01:18:51.292741Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With Argentina set to clash against Switzerland, questions are rising over the presence of Lionel Messi in the game. Argentina faces Switzerland on Saturday, July 12th, at Arrowhead Stadium in Kansas City in the 2026 World Cup quarterfinals. With the defendin\u2026",
-      "timestamp": "2026-07-12T23:39:17.175171Z",
+      "timestamp": "2026-07-13T01:18:51.292823Z",
       "links": [
         {
           "label": "Source",
@@ -220,354 +472,288 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jude Bellingham's equalizer for England vs Norway in the 2026 World Cup quarterfinals should have been disallowed, as Fox Sports explained.",
-      "timestamp": "2026-07-12T23:39:17.175225Z",
+      "timestamp": "2026-07-13T01:18:51.292855Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/07/11/england-goal-not-reviewed-despite-hitting-cable-norway/90889062007/"
         }
       ]
-    },
-    {
-      "title": "What is Switzerland\u2019s current FIFA ranking ahead of its 2026 World Cup match vs Argentina?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Switzerland face Argentina in a crucial 2026 World Cup quarterfinal clash, with a place in the semifinals on the line. The final quarterfinal of the 2026 World Cup takes place at Kansas City Stadium, where Switzerland and defending champions Argentina meet fo\u2026",
-      "timestamp": "2026-07-12T23:39:17.175335Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/what-is-switzerlands-current-fifa-ranking-ahead-of-its-2026-world-cup-match-vs-argentina/"
-        }
-      ]
-    },
-    {
-      "title": "How to watch Argentina vs Switzerland: Free Streams, TV Channels & Kick-Off time for FIFA World Cup 2026 as Lionel Messi eyes quarter-final progress",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here's how to watch Argentina vs Switzerland for free online and from anywhere as Lionel Messi leads his side in this FIFA World Cup 2026 quarter-final.",
-      "timestamp": "2026-07-12T23:39:17.175455Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/how-to-watch/football/argentina-vs-switzerland-world-cup-2026-free"
-        }
-      ]
-    },
-    {
-      "title": "Argentina vs. Switzerland: Stream FIFA World Cup 2026 Match Live for Free",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The defending champs take on the Swiss in Kansas City for a place in the last four.",
-      "timestamp": "2026-07-12T23:39:17.175474Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cnet.com/tech/services-and-software/argentina-vs-switzerland-stream-fifa-world-cup-2026-match-live-for-free/"
-        }
-      ]
-    },
-    {
-      "title": "How to live stream Argentina vs Switzerland for free: FIFA World Cup 2026, TV channel",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina and Switzerland meet Saturday in a 2026 FIFA World Cup quarterfinal, with the winner moving on to face either Norway or England in the semifinals. MORE: How to live stream World Cup 2026 How to Watch Argentina vs Switzerland\u2026",
-      "timestamp": "2026-07-12T23:39:17.175518Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4edfbab0-251e-48fa-938a-3346db1b1777"
-        }
-      ]
-    },
-    {
-      "title": "How to watch Messi, Argentina vs. Switzerland for free in World Cup 2026",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina's title defense continues after a close call in the Round of 16.",
-      "timestamp": "2026-07-12T23:39:17.175537Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/11/sports/how-to-watch-argentina-switzerland-for-free-in-world-cup-2026/"
-        }
-      ]
-    },
-    {
-      "title": "Has England ever won the World Cup?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England is chasing history at the 2026 World Cup.",
-      "timestamp": "2026-07-12T23:39:17.175566Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/11/has-england-ever-won-the-world-cup/90888594007/"
-        }
-      ]
-    },
-    {
-      "title": "Jude Bellingham goal ties England vs. Norway World Cup match in Miami",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England star Jude Bellingham has brought the \"Three Lions\" level against Norway in the World Cup quarterfinal at Hard Rock Stadium.",
-      "timestamp": "2026-07-12T23:39:17.175599Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/07/11/jude-bellingham-goal-today-world-cup-england-norway-miami-quarterfinal/90881373007/"
-        }
-      ]
-    },
-    {
-      "title": "Argentina vs Switzerland Live Score, FIFA World Cup 2026 Quarter Finals: Messi leads Argentina in do-or-die Swiss showdown",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The curtain comes down on the quarter-final stage of the 2026 FIFA World Cup with a heavyweight clash between defending champions Argentina and an un",
-      "timestamp": "2026-07-12T23:39:17.175625Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup-2026-argentina-vs-switzerland-live-score-quarter-finals-football-match-today-lionel-messi-granit-xhaka-clash-prediction-latest-updates/liveblog/132337779.cms"
-        }
-      ]
-    },
-    {
-      "title": "Crown prince of Norway on hand for World Cup quarterfinal vs. England",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Norway's Crown Prince Haakon is at Hard Rock Stadium to see his country face England in the World Cup quarterfinals.",
-      "timestamp": "2026-07-12T23:39:17.175698Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/11/crown-prince-of-norway-haakon-world-cup-england/90888516007/"
-        }
-      ]
-    },
-    {
-      "title": "Norway vs. England score: 2026 FIFA World Cup quarters live updates as Erling Haaland, Harry Kane square off - CBS Sports",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Norway vs. England score: 2026 FIFA World Cup quarters live updates as Erling Haaland, Harry Kane square offCBS Sports England take on Norway in today\u2019s first 2026 World Cup quarterfinal: Live updatesThe New York Times Norway vs. England Live Updates, Score: \u2026",
-      "timestamp": "2026-07-12T23:39:17.175738Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184415508"
-        }
-      ]
-    },
-    {
-      "title": "Vikings, memes and flowing blond hair: Haaland is a cultural phenom at World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "No matter who lifts the FIFA World Cup trophy next weekend, the undisputed winner of this tournament is Erling Haaland.",
-      "timestamp": "2026-07-12T23:39:17.175761Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.stltoday.com/sports/professional/fifa/article_a789f307-2d56-546f-ae9b-12bcd54d9c75.html"
-        }
-      ]
-    },
-    {
-      "title": "Why is FIFA holding a minute of silence before today\u2019s World Cup quarterfinals?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "For the last two World Cup quarterfinal rounds played on Saturday, FIFA will be holding a minute of silence. The final two quarterfinals of the 2026 World Cup take place today, July 11th, with Norway facing England at Hard Rock Stadium in Miami and Argentina \u2026",
-      "timestamp": "2026-07-12T23:39:17.175837Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/why-is-fifa-holding-a-minute-of-silence-before-todays-world-cup-quarterfinals/"
-        }
-      ]
-    },
-    {
-      "title": "Mexico\u2019s First Openly Gay Mayor Slain in Guadalajara as World Cup Highlights More Than 135,000 Disappearances and more Journalist Killings",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Mexico\u2019s hosting of the 2026 FIFA World Cup was meant to showcase national pride, soccer passion, and cultural unity before a global audience.\nThe post Mexico\u2019s First Openly Gay Mayor Slain in Guadalajara as World Cup Highlights More Than 135,000 Disappearanc\u2026",
-      "timestamp": "2026-07-12T23:39:17.175872Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://gatewayhispanic.com/2026/07/mexicos-first-openly-gay-mayor-slain-guadalajara-as/"
-        }
-      ]
-    },
-    {
-      "title": "JP Dellacamera says 2026 World Cup was his last",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Forty years after calling his first World Cup match from a CBC studio in Toronto, JP Dellacamera has called his last. Dellacamera told The Philadelphia Inquirer the combination of the tournament returning to American soil and Fox\u2019s current deal winding down m\u2026",
-      "timestamp": "2026-07-12T23:39:17.175979Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/jp-dellacamera-last-world-cup-fox.html"
-        }
-      ]
-    },
-    {
-      "title": "Norway vs. England player ratings: Live grades for Harry Kane, others in 2026 World Cup quarterfinal",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Two of the great goal scorers at the 2026 FIFA World Cup clash as Harry Kane and England take on Erling Haaland and Norway in the quarterfinals from Miami on Saturday.",
-      "timestamp": "2026-07-12T23:39:17.176035Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/norway-vs-england-live-player-ratings-grades-world-cup/762dcef752d2c87fcb4429fa"
-        }
-      ]
-    },
-    {
-      "title": "Open 2026 World Cup Watch Thread: Day 30",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "It\u2019s the World Cup quarterfinals, and we are getting some tasty fixtures over the next few days.",
-      "timestamp": "2026-07-12T23:39:17.176056Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.blackwhitereadallover.com/2026-fifa-world-cup/39887/open-2026-world-cup-watch-thread-day-30"
-        }
-      ]
-    },
-    {
-      "title": "Why aren\u2019t Reece James and Djed Spence starting for England against Norway at the 2026 World Cup?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "With England facing Norway, the absence of both Reece James and Sjed Spence in the starting lineup raised some eyebrows among fans. England face Norway on Saturday, July 12th, in the 2026 World Cup quarterfinals at Miami Stadium, but Thomas Tuchel will be wit\u2026",
-      "timestamp": "2026-07-12T23:39:17.176208Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/why-arent-reece-james-and-djed-spence-starting-for-england-against-norway-at-the-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "Why isn\u2019t Jarell Quansah playing for England against Norway at the 2026 World Cup?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England face Norway in a crucial 2026 World Cup quarterfinal clash, where Jarell Quansah won't be available for this match. England face Norway in the quarterfinals of the 2026 World Cup at Miami Stadium, and Jarell Quansah won\u2019t be involved at all for manage\u2026",
-      "timestamp": "2026-07-12T23:39:17.176240Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/why-isnt-jarell-quansah-playing-for-england-against-norway-at-the-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "Excited England fans pack out pubs across the country ahead of the Three Lions' World Cup quarter-final against Norway in Miami",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "While tens of thousands of supporters have travelled stateside to watch England play, millions more will watch screenings of the game at fan zones, pubs or in their living rooms.",
-      "timestamp": "2026-07-12T23:39:17.176369Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/news/article-15970757/Excited-England-fans-pack-pubs-match.html"
-        }
-      ]
-    },
-    {
-      "title": "Who Was Jayden Adams? World Cup Player Dies at Age 25 Days After Competing",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "South African World Cup midfielder Jayden Adams has died at age 25, officials announced Saturday, a few weeks after helping his country reach the knockout stage of the 2026 FIFA World Cup.\nA Cape Town police spokesperson told Newsweek by email that authoritie\u2026",
-      "timestamp": "2026-07-12T23:39:17.176413Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/2b28e7cac166b546"
-        }
-      ]
-    },
-    {
-      "title": "England vs Norway announcers: Who's calling the World Cup game on Fox?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here's who's calling England vs Norway in the 2026 World Cup on Saturday, airing on Fox.",
-      "timestamp": "2026-07-12T23:39:17.176457Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://ftw.usatoday.com/story/sports/soccer/worldcup/2026/07/11/england-norway-announcers-world-cup-fox/90872806007/"
-        }
-      ]
-    },
-    {
-      "title": "Argentina vs. Switzerland live score, result, highlights from 2026 World Cup quarterfinal game",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Sporting News is tracking live scoring updates and highlights for Argentina vs. Switzerland in the 2026 FIFA World Cup. Follow for complete results from the quarterfinal match in Kansas City.",
-      "timestamp": "2026-07-12T23:39:17.176509Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/argentina-switzerland-world-cup-live-score-result-highlights/27445214b8bbfd680ea017dc"
-        }
-      ]
-    },
-    {
-      "title": "How to watch Norway vs England: Live stream, TV channel & start time for World Cup, Quarterfinals, tv channel, live stream, watch, free",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Harry Kane\u2019s England must overcome the siege of Erling Haaland\u2019s Norway if it\u2019s to reach the World Cup 2026 semifinals. MORE: How to live stream World Cup 2026 How to Watch Norway vs England Norway\u2019s Vikings must topple England in\u2026",
-      "timestamp": "2026-07-12T23:39:17.176553Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/how-to-watch-norway-vs-england-live-stream-tv-channel-start-time-for-world-cup-quarterfinals-tv-channel-live-stream-watch-free/"
-        }
-      ]
-    },
-    {
-      "title": "Why isn\u2019t Bukayo Saka starting for England against Norway at the 2026 World Cup?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England face Norway in a crucial 2026 World Cup quarterfinal clash, where Bukayo Saka will begin the match from the bench. England face Norway in the quarterfinals of the 2026 World Cup at Miami Stadium, and manager Thomas Tuchel has once again opted to leave\u2026",
-      "timestamp": "2026-07-12T23:39:17.176585Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/why-isnt-bukayo-saka-starting-for-england-against-norway-at-the-2026-world-cup/"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Jul 12",
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "England and Norway tied 1-1 at halftime of World Cup quarterfinal - AP News",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184417532"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "Why is Argentina wearing black armbands? Remembering Antonio Ratt\u00edn",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/11/argentina-black-armbands-antonio-rattin/90888957007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "Three observations from England\u2019s 2-1 win over Norway in the FIFA World Cup quarterfinals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bavarianfootballworks.com/fifa-world-cup/229467/three-observations-from-englands-2-1-win-over-norway-in-the-fifa-world-cup-quarterfinals"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Kansas City",
+      "event": "Argentina vs. Switzerland player ratings: Live grades for Lionel Messi, others in 2026 World Cup quarterfinal",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/argentina-vs-switzerland-live-player-ratings-grades-world-cup/9776ac971754f827ac03a735"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "FIFA Makes Controversial Claim About England Goal Against Norway That Appeared To Hit Camera Cable",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://brobible.com/sports/article/england-norway-fifa-world-cup-camera-cable/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "Jude Bellingham's second straight two-goal performance sends England to World Cup semifinals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/sports/jude-bellingham-second-straight-two-goal-performance-sends-england-world-cup-semifinals"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Kansas City",
+      "event": "Why isn\u2019t Johan Manzambi playing for Switzerland against Argentina at the 2026 World Cup?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/why-isnt-johan-manzambi-playing-for-switzerland-against-argentina-at-the-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "Jude Bellingham Gets 9.5/10 | England Players Rated Vs Norway As They March Into The Semi-Final Of The FIFA World Cup 2026",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://the4thofficial.net/2026/07/jude-bellingham-gets-9-5-10-england-players-rated-vs-norway-as-they-march-into-the-semi-final-of-the-fifa-world-cup-2026/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "Argentina vs Switzerland announcers: Who's calling the World Cup game on Fox?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://ftw.usatoday.com/story/sports/soccer/worldcup/2026/07/11/argentina-switzerland-announcers-world-cup-fox/90872807007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "How to watch Argentina vs Switzerland: Live stream, TV channel & start time for World Cup Quarterfinals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thebiglead.com/how-to-watch-argentina-vs-switzerland-live-stream-tv-channel-start-time-for-world-cup-quarterfinals/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Miami",
+      "event": "England 2-1 Norway: Jude Bellingham brace sends Three Lions into World Cup semi-finals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/07/12/england-2-1-norway-jude-bellingham-brace-sends-three-lions-into-world-cup-semi-finals/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Kansas City",
+      "event": "Why isn\u2019t Lautaro Martinez starting for Argentina against Switzerland at the 2026 World Cup?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/why-isnt-lautaro-martinez-starting-for-argentina-against-switzerland-at-the-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "Jude Bellingham Scores Twice To Send England To World Cup Semifinals Over Norway",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/england-vs-norway-highlights-jude-bellingham-brace-2026-world-cup"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026: England to play in semifinal game in Atlanta",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/fifa-world-cup-2026-england-234913171.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": " It can still come home! England knock out Norway, into semis",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/it-can-still-come-home-england-knock-out-norway-into-semis-43127622"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "'Man of all the moments' - Bellingham gives England the lead",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c20yrd39ge8o"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "Jayden Adams, South African World Cup Midfielder, Dies at 25",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://wealthofgeeks.com/jayden-adams-south-african-world-cup-midfielder-dies-at-25/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Kansas City",
+      "event": " Argentina named to face Switzerland and try to reach the semis",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/argentina-named-to-face-switzerland-and-try-to-reach-the-semis-43127605"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
       "loc": "Miami",
       "event": "Norway kick hits FIFA Skycam on play leading to England goal",
       "type": "News",
@@ -582,7 +768,7 @@
       ]
     },
     {
-      "date": "Jul 12",
+      "date": "Jul 13",
       "loc": "Miami",
       "event": "Bellingham's second goal gives England lead vs. Norway at World Cup",
       "type": "News",
@@ -597,7 +783,7 @@
       ]
     },
     {
-      "date": "Jul 12",
+      "date": "Jul 13",
       "loc": "Miami",
       "event": "Bellingham's second goal gives England lead vs. Norway at World Cup",
       "type": "News",
@@ -612,7 +798,7 @@
       ]
     },
     {
-      "date": "Jul 12",
+      "date": "Jul 13",
       "loc": "Miami",
       "event": "Norway vs England Results Today: FIFA World Cup 2026 Quarter-final Live Score, Updates, Stats",
       "type": "News",
@@ -627,7 +813,7 @@
       ]
     },
     {
-      "date": "Jul 12",
+      "date": "Jul 13",
       "loc": "Global",
       "event": "Where to Watch Argentina vs Switzerland World Cup 2026 Match Free Live",
       "type": "News",
@@ -642,7 +828,7 @@
       ]
     },
     {
-      "date": "Jul 12",
+      "date": "Jul 13",
       "loc": "Kansas City",
       "event": "Is Lionel Messi playing? Argentina vs Switzerland projected lineups for the 2026 World Cup game",
       "type": "News",
@@ -657,7 +843,7 @@
       ]
     },
     {
-      "date": "Jul 12",
+      "date": "Jul 13",
       "loc": "Global",
       "event": "Why Jude Bellingham goal vs Norway should have been called back",
       "type": "News",
@@ -670,367 +856,7 @@
           "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/07/11/england-goal-not-reviewed-despite-hitting-cable-norway/90889062007/"
         }
       ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Kansas City",
-      "event": "What is Switzerland\u2019s current FIFA ranking ahead of its 2026 World Cup match vs Argentina?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/what-is-switzerlands-current-fifa-ranking-ahead-of-its-2026-world-cup-match-vs-argentina/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "How to watch Argentina vs Switzerland: Free Streams, TV Channels & Kick-Off time for FIFA World Cup 2026 as Lionel Messi eyes quarter-final progress",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/how-to-watch/football/argentina-vs-switzerland-world-cup-2026-free"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Kansas City",
-      "event": "Argentina vs. Switzerland: Stream FIFA World Cup 2026 Match Live for Free",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cnet.com/tech/services-and-software/argentina-vs-switzerland-stream-fifa-world-cup-2026-match-live-for-free/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "How to live stream Argentina vs Switzerland for free: FIFA World Cup 2026, TV channel",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4edfbab0-251e-48fa-938a-3346db1b1777"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "How to watch Messi, Argentina vs. Switzerland for free in World Cup 2026",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/11/sports/how-to-watch-argentina-switzerland-for-free-in-world-cup-2026/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Has England ever won the World Cup?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/11/has-england-ever-won-the-world-cup/90888594007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Miami",
-      "event": "Jude Bellingham goal ties England vs. Norway World Cup match in Miami",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/07/11/jude-bellingham-goal-today-world-cup-england-norway-miami-quarterfinal/90881373007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Argentina vs Switzerland Live Score, FIFA World Cup 2026 Quarter Finals: Messi leads Argentina in do-or-die Swiss showdown",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup-2026-argentina-vs-switzerland-live-score-quarter-finals-football-match-today-lionel-messi-granit-xhaka-clash-prediction-latest-updates/liveblog/132337779.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Miami",
-      "event": "Crown prince of Norway on hand for World Cup quarterfinal vs. England",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/11/crown-prince-of-norway-haakon-world-cup-england/90888516007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Norway vs. England score: 2026 FIFA World Cup quarters live updates as Erling Haaland, Harry Kane square off - CBS Sports",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184415508"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Vikings, memes and flowing blond hair: Haaland is a cultural phenom at World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.stltoday.com/sports/professional/fifa/article_a789f307-2d56-546f-ae9b-12bcd54d9c75.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Miami",
-      "event": "Why is FIFA holding a minute of silence before today\u2019s World Cup quarterfinals?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/why-is-fifa-holding-a-minute-of-silence-before-todays-world-cup-quarterfinals/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Mexico\u2019s First Openly Gay Mayor Slain in Guadalajara as World Cup Highlights More Than 135,000 Disappearances and more Journalist Killings",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://gatewayhispanic.com/2026/07/mexicos-first-openly-gay-mayor-slain-guadalajara-as/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "JP Dellacamera says 2026 World Cup was his last",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/jp-dellacamera-last-world-cup-fox.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Norway vs. England player ratings: Live grades for Harry Kane, others in 2026 World Cup quarterfinal",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/norway-vs-england-live-player-ratings-grades-world-cup/762dcef752d2c87fcb4429fa"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Open 2026 World Cup Watch Thread: Day 30",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.blackwhitereadallover.com/2026-fifa-world-cup/39887/open-2026-world-cup-watch-thread-day-30"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Why aren\u2019t Reece James and Djed Spence starting for England against Norway at the 2026 World Cup?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/why-arent-reece-james-and-djed-spence-starting-for-england-against-norway-at-the-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Why isn\u2019t Jarell Quansah playing for England against Norway at the 2026 World Cup?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/why-isnt-jarell-quansah-playing-for-england-against-norway-at-the-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Excited England fans pack out pubs across the country ahead of the Three Lions' World Cup quarter-final against Norway in Miami",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/news/article-15970757/Excited-England-fans-pack-pubs-match.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Who Was Jayden Adams? World Cup Player Dies at Age 25 Days After Competing",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/2b28e7cac166b546"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "England vs Norway announcers: Who's calling the World Cup game on Fox?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://ftw.usatoday.com/story/sports/soccer/worldcup/2026/07/11/england-norway-announcers-world-cup-fox/90872806007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Kansas City",
-      "event": "Argentina vs. Switzerland live score, result, highlights from 2026 World Cup quarterfinal game",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/argentina-switzerland-world-cup-live-score-result-highlights/27445214b8bbfd680ea017dc"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "How to watch Norway vs England: Live stream, TV channel & start time for World Cup, Quarterfinals, tv channel, live stream, watch, free",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/how-to-watch-norway-vs-england-live-stream-tv-channel-start-time-for-world-cup-quarterfinals-tv-channel-live-stream-watch-free/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 12",
-      "loc": "Global",
-      "event": "Why isn\u2019t Bukayo Saka starting for England against Norway at the 2026 World Cup?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/why-isnt-bukayo-saka-starting-for-england-against-norway-at-the-2026-world-cup/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-12T23:39:17.176737Z"
+  "lastUpdated": "2026-07-13T01:18:51.293024Z"
 }
