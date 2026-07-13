@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 1,
+    "p1": 0,
     "p2": 1,
-    "p3": 36
+    "p3": 29
   },
   "watchlist": [
     {
@@ -131,12 +131,278 @@
   ],
   "risks": [
     {
+      "title": "World 8-4: Extra time prominence in the Quarterfinals of the 2026 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "There were 48, now only four remained",
+      "timestamp": "2026-07-13T11:46:32.841004Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bavarianfootballworks.com/fifa-world-cup/229739/world-8-4-extra-time-prominence-in-the-quarterfinals-of-the-2026-world-cup"
+        }
+      ]
+    },
+    {
+      "title": "World Cup fans furious as they claim tournament 'rigged' amid Argentina VAR win",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA World Cup fans criticized a controversial VAR decision that gave Argentina a numerical advantage minutes after Switzerland equalized in the quarterfinal, reigniting accusations that the tournament has repeatedly favored Lionel Messi's side",
+      "timestamp": "2026-07-13T11:46:32.841070Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/world-cup-fans-furious-argentina-1932760"
+        }
+      ]
+    },
+    {
+      "title": "Kylian Mbapp\u00e9: How France's superstar is chasing FIFA World Cup 2026 glory and football immortality",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Kylian Mbapp\u00e9 has become a defining athlete of his generation. His speed and finishing have earned admiration far beyond football. Mbapp\u00e9's influence extends beyond scoring goals for France. He is increasingly compared with sporting legends for his consistent\u2026",
+      "timestamp": "2026-07-13T11:46:32.841159Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/kylian-mbapp-how-frances-superstar-is-chasing-fifa-world-cup-2026-glory-and-football-immortality/articleshow/132344729.cms"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Cup: Predicted semi-final lineups",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "This article features our predicted lineups for the semi-finals of the 2026 FIFA World Cup, making it a useful resource for Fantasy World Cup managers looking for likely starters, key players and pote...",
+      "timestamp": "2026-07-13T11:46:32.841190Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://bulinews.com/2026-world-cup-predicted-semi-final-lineups"
+        }
+      ]
+    },
+    {
+      "title": "World Cup 2026 Semifinals Set: France, Spain, England and Argentina Chase Spot in New Jersey Final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup semifinals feature France, Spain, England, and Argentina, each vying for a spot in the final after intense quarterfinal matches across the United States.",
+      "timestamp": "2026-07-13T11:46:32.841228Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ibtimes.com.au/2026-fifa-world-cup-semifinals-france-spain-england-argentina-1872157"
+        }
+      ]
+    },
+    {
+      "title": "Messi Leads Argentina Past Switzerland 3-1 in Extra Time to Reach Second Straight World Cup Semifinal",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lionel Messi's scoring streak ended, but his assists led Argentina to a 3-1 victory over Switzerland, advancing them to the 2026 World Cup semifinals against England.",
+      "timestamp": "2026-07-13T11:46:32.841308Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ibtimes.com.au/messi-leads-argentina-world-cup-semifinals-1872145"
+        }
+      ]
+    },
+    {
+      "title": "In-demand Argentina forward has bids near R$1 billion ",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Juli\u00e1n \u00c1lvarez finally broke his scoring drought at the 2026 FIFA World Cup, and did so with a STUNNER that helped Argentina qualify for the semifinals.After a quiet start to the World Cup \u2014 in wh...",
+      "timestamp": "2026-07-13T11:46:32.841365Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/in-demand-argentina-forward-has-bids-near-r1-billion-43128964"
+        }
+      ]
+    },
+    {
+      "title": "Six Serie A players set to take part in 2026 World Cup semi-finals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The quarter-final stage of the 2026 World Cup is complete, and a total of six Serie A players will be progressing through to the tournament\u2019s semi-finals,",
+      "timestamp": "2026-07-13T11:46:32.841385Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/six-serie-a-players-2026-world-cup-semi-finals/"
+        }
+      ]
+    },
+    {
+      "title": "SoFi Stadium's World Cup run boosts confidence ahead of Super Bowl, LA Olympics",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "INGLEWOOD, California, July 12 : After a month of World Cup crowds, a temporary grass pitch and heightened security around politically sensitive matches, SoFi Stadium is turning towards its next mega-events with greater confidence, a senior venue executive sa\u2026",
+      "timestamp": "2026-07-13T11:46:32.841463Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.channelnewsasia.com/sport/sofi-stadiums-world-cup-run-boosts-confidence-ahead-super-bowl-la-olympics-6249126"
+        }
+      ]
+    },
+    {
+      "title": "Have your say on the World Cup semi-finals ",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France vs Spain and England vs Argentina \u2014 who will advance to the grand FINAL of the 2026 FIFA World Cup? Share your thoughts on the final in the comments!The decisive matches will take place on Tu...",
+      "timestamp": "2026-07-13T11:46:32.841494Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/have-your-say-on-the-world-cup-semi-finals-43128881"
+        }
+      ]
+    },
+    {
+      "title": "Mondiali: l'Argentina vola in semifinale, a Buenos Aires i festeggiamenti",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "epa13106618 Argentine fans celebrate their team's victory over Switzerland and qualification for the semi-finals of the 2026 FIFA World Cup in Buenos Aires, Argentina, 12 July 2026. Argentina will face England in the semi-final at Atlanta Stadium on 15 July. \u2026",
+      "timestamp": "2026-07-13T11:46:32.841547Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ansa.it/sito/photogallery/sport/2026/07/12/mondiali-largentina-vola-in-semifinale-a-buenos-aires-i-festeggiamenti_cfaea96c-7f77-4247-8295-90e52a4e7087.html"
+        }
+      ]
+    },
+    {
+      "title": "Mondiali: tifoso dell'Argentina sugli spalti con la maglietta di Messi",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "epaselect epa13106483 A fan of Argentina sits in the stands after the FIFA World Cup 2026 quarterfinals match Argentina vs Switzerland, in Kansas City, USA, 11 July 2026. Argentina won 3-1. EPA/WILL OLIVER (ANSA). (ANSA)",
+      "timestamp": "2026-07-13T11:46:32.841567Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ansa.it/sito/photogallery/sport/2026/07/12/mondiali-tifoso-dellargentina-sugli-spalti-con-la-maglietta-di-messi_90a3e30a-b95e-470d-a5f5-724a5de92cba.html"
+        }
+      ]
+    },
+    {
+      "title": "Mondiali: tifosi argentini assistono al match contro la Svizzera",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "epa13106544 Argentine fans react while watching a public broadcast of the 2026 FIFA World Cup quarter-final match between Argentina and Switzerland in Buenos Aires, Argentina, 11 July 2026. EPA/Adan Gonz\u00e1lez (ANSA). (ANSA)",
+      "timestamp": "2026-07-13T11:46:32.841589Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ansa.it/sito/photogallery/sport/2026/07/12/mondiali-tifosi-argentini-assistono-al-match-contro-la-svizzera_77720dad-f9db-483b-92ba-05fa30ecf5cc.html"
+        }
+      ]
+    },
+    {
+      "title": "Bellingham inspires England comeback as Arsenal stars reach World Cup semi-finals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England booked their place in the semi-finals of the 2026 FIFA World Cup after coming from behind to beat Norway 2-1 after extra time, with Jude Bellingham once again proving the difference for Thomas Tuchel\u2019s side. The Three Lions were far from their best in\u2026",
+      "timestamp": "2026-07-13T11:46:32.841622Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.justarsenal.com/bellingham-inspires-england-comeback-as-arsenal-stars-reach-world-cup-semi-finals/418467"
+        }
+      ]
+    },
+    {
+      "title": "Norway 'Robbed' by Referee: Alfie Haaland",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Former Norway international Alf-Inge 'Alfie' Haaland expressed his disappointment after Norway's FIFA World Cup 2026 campaign ended with a 2-1 extra-time defeat to England, claiming the Scandinavian side had been 'robbed' in the contest.",
+      "timestamp": "2026-07-13T11:46:32.841667Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/alfie-haaland-accuses-referee-of-robbing-norway-in-fifa-world-cup-2026-quarter-final-loss-to-england/20260712.htm"
+        }
+      ]
+    },
+    {
+      "title": "England\u2019s Victory Over Norway Draws Biggest UK Audience For World Cup 2026",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England progressed to the semi-final of the FIFA World Cup in front of the largest UK audience of the tournament so far. Jude Bellingham\u2019s brace of goals knocked Norway out of the competition, with a peak of 16.8M viewers watching the 2-1 triumph on ITV1. ITV\u2026",
+      "timestamp": "2026-07-13T11:46:32.841737Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://deadline.com/2026/07/england-norway-tv-rating-world-cup-1236980082/"
+        }
+      ]
+    },
+    {
+      "title": "England\u2019s Victory Over Norway Draws Biggest UK Audience For World Cup 2026",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England progressed to the semi-final of the FIFA World Cup in front of the largest UK audience of the tournament so far. Jude Bellingham\u2019s brace of goals knocked Norway out of the competition, with a peak of 16.8M viewers watching the 2-1 triumph on ITV1. ITV\u2026",
+      "timestamp": "2026-07-13T11:46:32.841754Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://deadline.com/2026/07/england-norway-tv-rating-world-cup-1236980082/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup 2026 semifinals set a historic first as France, Argentina, England, and Spain all advance",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The unprecedented semifinal lineup highlights the effectiveness of the revised seeding system, potentially reshaping future tournament strategies.\nThe post World Cup 2026 semifinals set a historic first as France, Argentina, England, and Spain all advance app\u2026",
+      "timestamp": "2026-07-13T11:46:32.841780Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cryptobriefing.com/world-cup-2026-historic-semifinal-lineup/"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Messi confronts challenge from England before first-ever international meeting at World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lionel Messi will face the English national men\u2019s football team for the first time in his career during the 2026 FIFA World Cup semi-finals. Messi has faced European national teams in the World Cup over his career 19 times, picking up 13 wins and two draws to\u2026",
+      "timestamp": "2026-07-13T11:46:32.841859Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/lionel-messi-confronts-challenge-from-england-before-first-ever-international-meeting-at-world-cup/"
+        }
+      ]
+    },
+    {
       "title": "'We lived up to the hype'",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "An emotional Stale Solbakken praised Norway's historic FIFA World Cup 2026 campaign after a 2-1 extra-time defeat to England ended their dream run in the quarter-finals.",
-      "timestamp": "2026-07-13T08:39:00.839429Z",
+      "timestamp": "2026-07-13T11:46:32.841877Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The quarterfinals of the 2026 FIFA World Cup have been wrapped up. The two semifinal matchups are as follows: France vs.",
-      "timestamp": "2026-07-13T08:39:00.839559Z",
+      "timestamp": "2026-07-13T11:46:32.841930Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-      "timestamp": "2026-07-13T08:39:00.839681Z",
+      "timestamp": "2026-07-13T11:46:32.841985Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA World Cup 2026 Semi-Finals Schedule: The FIFA World Cup 2026 has reached its exciting semi-final stage.  Defending champions Argentina will face England in a highly anticipated match.  France and Spain are set to compete in the other semi-final clash.  T\u2026",
-      "timestamp": "2026-07-13T08:39:00.839813Z",
+      "timestamp": "2026-07-13T11:46:32.842053Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "European football titans France and Spain meet in a blockbuster FIFA World Cup 2026 final four matchup in Dallas.",
-      "timestamp": "2026-07-13T08:39:00.839858Z",
+      "timestamp": "2026-07-13T11:46:32.842069Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England midfielder Jude Bellingham defended his teammates after head coach Thomas Tuchel criticised their performance despite a 2-1 extra-time victory over Norway in the FIFA World Cup 2026 quarter-finals, with Tuchel stating England were 'lucky' to progress.",
-      "timestamp": "2026-07-13T08:39:00.839904Z",
+      "timestamp": "2026-07-13T11:46:32.842089Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +486,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Some 76 per cent of Brazil\u2019s 2026 World Cup squad were Evangelical Christians, compared to their footballing peak when they were majority Catholic",
-      "timestamp": "2026-07-13T08:39:00.840039Z",
+      "timestamp": "2026-07-13T11:46:32.842149Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina has reached the 2026 FIFA World Cup semifinals. Here's the Albiceleste's next opponent, game date, kickoff time and TV schedule. The post Argentina\u2019s Next Game: World Cup Semifinal Opponent, Date and Time appeared first on HEAVY.",
-      "timestamp": "2026-07-13T08:39:00.840171Z",
+      "timestamp": "2026-07-13T11:46:32.842208Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Links: HOMEPAGE\u00a0\u2013 TV.comFIFA.World.Cup.2026.Quarter.Final.Argentina.Vs.Switzerland.1080p.HDTV.H264-DARKSPORTMKV | AC3 / dolby digital | 6.51GBNFO \u2013 Subtitles \u2013 Screenshot \u2013 Torrent \u2013 NiTROFLARE \u2013 RAPiDGATORSingle File RAR: RAPiDGATOR BackupFIFA.World.Cup.2026\u2026",
-      "timestamp": "2026-07-13T08:39:00.840296Z",
+      "timestamp": "2026-07-13T11:46:32.842269Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jude Bellingham twice dragged England back from the brink as Thomas Tuchel\u2019s side edged past a tenacious Norway to reach the FIFA World Cup semi-final, winning 2-1 after extra time at Miami Stadium....",
-      "timestamp": "2026-07-13T08:39:00.840352Z",
+      "timestamp": "2026-07-13T11:46:32.842294Z",
       "links": [
         {
           "label": "Source",
@@ -276,394 +542,301 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Senegal Football Federation has dismissed head coach Pape Thiaw following the country's underwhelming performance at the 2026 FIFA World Cup.\nThe post World Cup 2026: Senegal sack Pape Thiaw after disappointing campaign appeared first on Vanguard News.",
-      "timestamp": "2026-07-13T08:39:00.840558Z",
+      "timestamp": "2026-07-13T11:46:32.842413Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.vanguardngr.com/2026/07/world-cup-2026-senegal-sack-pape-thiaw-after-disappointing-campaign/"
         }
       ]
-    },
-    {
-      "title": "Swiss fairytale ends in controversy over Embolo red card",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Switzerland coach Murat Yakin blasted the rule behind Breel Embolo's controversial red card as \"unacceptable\" after Argentina's 3-1 extra-time victory ended the Swiss team's historic FIFA World Cup 2026 run.",
-      "timestamp": "2026-07-13T08:39:00.840640Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/fifa-wc-2026-it-destroyed-our-game-switzerland-coach-slams-unacceptable-var-rule/20260712.htm"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026: List of top scorers as Bellingham joins race",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The race for the top scorer award at the 2026 FIFA World Cup has intensified following the completion of the quarter-finals, with Lionel Messi and Kylian Mbappe leading the scoring charts.\nThe post World Cup 2026: List of top scorers as Bellingham joins race \u2026",
-      "timestamp": "2026-07-13T08:39:00.840689Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/world-cup-2026-list-of-top-scorers-as-bellingham-joins-race/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026: Semi-final fixtures confirmed \u2014 date, time and venue",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The semi-final fixtures for the 2026 FIFA World Cup have been confirmed following the conclusion of the quarter-final matches\nThe post World Cup 2026: Semi-final fixtures confirmed \u2014 date, time and venue appeared first on Vanguard News.",
-      "timestamp": "2026-07-13T08:39:00.840833Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/world-cup-2026-semi-final-fixtures-confirmed-date-time-and-venue/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup pitch ripped up immediately after final game despite NFL player preferences",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "After hosting seven matches during the 2026 World Cup, the Boston Stadium has quickly undergone a radical change. The Gillette Stadium in Foxborough played host to some incredible games during the tournament.",
-      "timestamp": "2026-07-13T08:39:00.840877Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/world-cup-pitch-ripped-up-immediately-after-final-game-despite-nfl-player-preferences/"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi breaks yet another World Cup record in Argentina\u2019s quarter-final vs Switzerland",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi\u2019s record-breaking 2026 FIFA World Cup run got even richer with his quarter-final appearance against Switzerland. Argentina will advance to the semi-finals of the 2026 World Cup after defeating Switzerland 3-1 AET in the quarters.",
-      "timestamp": "2026-07-13T08:39:00.840965Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/lionel-messi-breaks-yet-another-world-cup-record-in-argentinas-quarter-final-vs-switzerland/"
-        }
-      ]
-    },
-    {
-      "title": "Three Observations from Argentina\u2019s 3-1 win over Switzerland in the FIFA World Cup quarterfinal",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Onto the semi-finals for Argentina.",
-      "timestamp": "2026-07-13T08:39:00.841020Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bavarianfootballworks.com/fifa-world-cup/229590/three-observations-match-report-argentina-win-switzerland-wc-fifa-world-cup-quarterfinal-messi-alvarez-martinez-lautaro-embolo-red-card-xhaka-kobel-paredes-de-paul"
-        }
-      ]
-    },
-    {
-      "title": "\u2018What a joke\u2019: World Cup referee mistake sparks outrage",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Sunday afternoon\u2019s FIFA World Cup quarterfinal match between England and Norway was a hard-fought battle that took extra time to decide a victor. However, the match was marred by controversy after what appeared to be a clear referee mistake. On England\u2019s equa\u2026",
-      "timestamp": "2026-07-13T08:39:00.841145Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/world-cup-referee-mistake-sparks-outrage.html"
-        }
-      ]
-    },
-    {
-      "title": "Lisandro Martinez helps Argentina reach World Cup semi-final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Manchester United defender Lisandro Martinez has reached the semi-finals of the 2026 FIFA World Cup following Argentina\u2019s dramatic 3-1 win over Switzerland on Saturday, 11 July. The left-footed defe...",
-      "timestamp": "2026-07-13T08:39:00.841196Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thepeoplesperson.com/2026/07/12/lisandro-martinez-helps-argentina-reach-world-cup-semi-final-312613/"
-        }
-      ]
-    },
-    {
-      "title": "Flawed genius Emam Ashour could ignite Celtic",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Emam Ashour, the flawed genius. Could he be the spark to ignite our side?Emam Ashour of Egypt celebrates after scoring his team\u2019s first goal during the FIFA World Cup 2026 Round of 32 match between ...",
-      "timestamp": "2026-07-13T08:39:00.841262Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://celticshorts.com/2026/07/flawed-genius-emam-ashour-could-ignite-celtic/"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi\u2019s fiery message to Portuguese World Cup referee during QF win over Switzerland revealed",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina\u2019s 3-1 AET win over Switzerland in the 2026 FIFA World Cup quarter-final saw an uncharacteristically angry moment from Lionel Messi. The 39-year-old is known to let his football do the talking on the field, but there was a tense moment between the le\u2026",
-      "timestamp": "2026-07-13T08:39:00.841312Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/lionel-messis-fiery-message-to-portuguese-world-cup-referee-during-qf-win-over-switzerland-revealed/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026 results: Who won yesterday's match between England vs Norway and Argentina vs Switzerland? Check who reached the semi-final stage",
-      "risk": "high",
-      "severityText": "P1 CRITICAL",
-      "status": "VERIFIED",
-      "description": "Argentina defeated Switzerland 3-1 after extra time in a thrilling World Cup match. England also secured a 2-1 victory over Norway following an intense extra-time period. Both teams demonstrated resilience and attacking prowess to advance in the tournament. T\u2026",
-      "timestamp": "2026-07-13T08:39:00.841355Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-results-who-won-yesterdays-match-between-england-vs-norway-and-argentina-vs-switzerland-check-who-reached-the-semi-final-stage/articleshow/132340802.cms"
-        }
-      ]
-    },
-    {
-      "title": "World Cup semifinal rankings: Why France, Spain, England, and Argentina will (and won't) win 2026 FIFA title",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "48 teams entered the 2026 FIFA World Cup, and only four remain as the tournament has been whittled down to the semifinals. Here are reasons why each team will or won't win the title, and a superlative for each one.",
-      "timestamp": "2026-07-13T08:39:00.841426Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/world-cup-semifinal-rankings-will-wont-win-2026-fifa-title/c7489d418159db880f27778e"
-        }
-      ]
-    },
-    {
-      "title": "Which teams are in the World Cup semifinals, and what\u2019s the match schedule?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Qualified teams, venues, kickoff times, key players, and how to watch the FIFA World Cup 2026 semifinals.",
-      "timestamp": "2026-07-13T08:39:00.841483Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/12/which-teams-are-in-the-world-cup-semifinals-and-whats-the-match-schedule"
-        }
-      ]
-    },
-    {
-      "title": " Copa do Brasil semis have only champions after 36 years, off-pitch feud",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup made history even before the ball started rolling, back on June 11, in the match between Mexico and South Africa.After all, for the first time in history, the tournament that b...",
-      "timestamp": "2026-07-13T08:39:00.841519Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/copa-do-brasil-semis-have-only-champions-after-36-years-off-pitch-feud-43128095"
-        }
-      ]
-    },
-    {
-      "title": "\u2018We have to be realistic, we have to be better\u2019: Argentina\u2019s Scaloni looks ahead to England",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "After the qualification against Switzerland, head coach Lionel Scaloni delivered a grounding message ahead of the 2026 World Cup semifinal against England: \"We have to be realistic, we have to be better.\" Argentina secured a hard-fought place in the 2026 Worl\u2026",
-      "timestamp": "2026-07-13T08:39:00.841570Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/we-have-to-be-realistic-we-have-to-be-better-argentinas-scaloni-looks-ahead-to-england/"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi Gets 7/10 | Argentina Players Rated After Their Win Vs Switzerland In The FIFA World Cup 2026",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "It was ugly. It was exhausting. But in the end, the world champions did what they always seem to do.Argentina booked their place in the FIFA World Cup 2026 semi-finals after a brutal 120-minute scrap ...",
-      "timestamp": "2026-07-13T08:39:00.841637Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://the4thofficial.net/2026/07/lionel-messi-gets-7-10-argentina-players-rated-after-their-win-vs-switzerland-in-the-fifa-world-cup-2026/"
-        }
-      ]
-    },
-    {
-      "title": "Erling Haaland\u2019s dad ironically congratulates referee for England\u2019s win over Norway",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Norway\u2019s elimination from the 2026 FIFA World Cup under contentious circumstances led to an angry reaction from Erling Haaland\u2019s father, Alfie. Norway\u2019s shining run through the 2026 FIFA World Cup ended with a 2-1 loss in extra time to England, as the Erling \u2026",
-      "timestamp": "2026-07-13T08:39:00.841685Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/erling-haalands-dad-ironically-congratulates-referee-for-englands-win-over-norway/"
-        }
-      ]
-    },
-    {
-      "title": "England vs Argentina: Date, US and UK kick-off time and early team news for World Cup semi-final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England will play Argentina in the 2026 World Cup semi-final. It is difficult to think of a bigger game for both sides at this stage of the tournament.",
-      "timestamp": "2026-07-13T08:39:00.841818Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/england-vs-argentina-date-us-and-uk-kick-off-time-and-early-team-news-for-world-cup-semi-final/"
-        }
-      ]
-    },
-    {
-      "title": "Argentina advances to World Cup semifinals after escaping Switzerland in extra time",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The defending champions advanced to the 2026 FIFA World Cup semifinals after yet another controversial VAR decision that favored La Albiceleste.",
-      "timestamp": "2026-07-13T08:39:00.841919Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/12/sports/argentina-advances-to-world-cup-semifinals-after-escaping-switzerland-in-extra-time/"
-        }
-      ]
-    },
-    {
-      "title": "England edge Norway, Argentina beat Switzerland to set up semifinal clash",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Miami/Kansas, July 12: The FIFA World Cup 2026 has its second semifinal confirmed after England and Argentina came through two gripping quarterfinals that demanded resilience, patience, and moments of brilliance. Neither favourite enjoyed an easy evening, but\u2026",
-      "timestamp": "2026-07-13T08:39:00.842002Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://peoplesreview.com.np/2026/07/12/england-edge-norway-argentina-beat-switzerland-to-set-up-semifinal-clash/"
-        }
-      ]
-    },
-    {
-      "title": "2026 FIFA World Cup semifinals bracket: Complete matchups and schedule",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The quarterfinals of the 2026 World Cup have wrapped up, and the four remaining teams now know where and when they'll face off for a place in the final. The quarterfinal round of the 2026 World Cup has delivered its final four, and the road to the title has n\u2026",
-      "timestamp": "2026-07-13T08:39:00.842096Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/2026-fifa-world-cup-semifinals-bracket-complete-matchups-and-schedule/"
-        }
-      ]
-    },
-    {
-      "title": "Argentina edge Switzerland to reach World Cup semifinals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "KATHMANDU: Argentina secured a place in the FIFA World Cup semifinals after overcoming Switzerland 3-1 in extra time in a dramatic quarterfinal clash at Kansas City Stadium in Missouri. The defending champions Argentina took control early when Alexis Mac Alli\u2026",
-      "timestamp": "2026-07-13T08:39:00.842281Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.khabarhub.com/2026/12/558144/"
-        }
-      ]
-    },
-    {
-      "title": "Argentina fends off Switzerland challenge, books SF",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Reigning world champions, Argentina, continued their title defense at the 2026 FIFA World Cup, defeating Switzerland 3-1, scoring two goals in extra time, after their opponents equalized in the 72nd m...",
-      "timestamp": "2026-07-13T08:39:00.842415Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/c8fee064f76dd983"
-        }
-      ]
-    },
-    {
-      "title": "England vs. Argentina Confirmed For Semifinals: Here's What To Know",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here is everything you need to know about the 2026 FIFA World Cup semifinal between England and Argentina.",
-      "timestamp": "2026-07-13T08:39:00.842477Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/england-vs-argentina-confirmed-semifinals-heres-what-know"
-        }
-      ]
-    },
-    {
-      "title": "Argentina beat Switzerland to set up World Cup 2026 semifinal with England",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina need extra time to beat Switzerland 3-1 in the quarterfinals to set up a showdown with England on Wednesday.",
-      "timestamp": "2026-07-13T08:39:00.842545Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/12/argentina-defeat-switzerland-to-set-up-england-semifinal-at-world-cup-2026"
-        }
-      ]
-    },
-    {
-      "title": "World Cup bracket predictions 2026: Our picks for Argentina-England, Spain-France",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup is down to the final four with the biggest soccer stars on the planet still alive.",
-      "timestamp": "2026-07-13T08:39:00.842576Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/11/world-cup-predictions-semifinals-bracket-argentina-england/90890573007/"
-        }
-      ]
-    },
-    {
-      "title": "England vs Argentina: Date, kickoff time and venue for the 2026 World Cup semifinal",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The date, kickoff time and stadium for the semifinal of the 2026 World Cup match between England and Argentina. The second semifinal of the 2026 World Cup was set, with England becoming the first team to qualify after beating Norway, while Argentina reached i\u2026",
-      "timestamp": "2026-07-13T08:39:00.842624Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/england-vs-argentina-date-kickoff-time-and-venue-for-the-2026-world-cup-semifinal/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "World 8-4: Extra time prominence in the Quarterfinals of the 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bavarianfootballworks.com/fifa-world-cup/229739/world-8-4-extra-time-prominence-in-the-quarterfinals-of-the-2026-world-cup"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "World Cup fans furious as they claim tournament 'rigged' amid Argentina VAR win",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/world-cup-fans-furious-argentina-1932760"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "Kylian Mbapp\u00e9: How France's superstar is chasing FIFA World Cup 2026 glory and football immortality",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/kylian-mbapp-how-frances-superstar-is-chasing-fifa-world-cup-2026-glory-and-football-immortality/articleshow/132344729.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "2026 World Cup: Predicted semi-final lineups",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://bulinews.com/2026-world-cup-predicted-semi-final-lineups"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "World Cup 2026 Semifinals Set: France, Spain, England and Argentina Chase Spot in New Jersey Final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ibtimes.com.au/2026-fifa-world-cup-semifinals-france-spain-england-argentina-1872157"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "Messi Leads Argentina Past Switzerland 3-1 in Extra Time to Reach Second Straight World Cup Semifinal",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ibtimes.com.au/messi-leads-argentina-world-cup-semifinals-1872145"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "In-demand Argentina forward has bids near R$1 billion ",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/in-demand-argentina-forward-has-bids-near-r1-billion-43128964"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "Six Serie A players set to take part in 2026 World Cup semi-finals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/six-serie-a-players-2026-world-cup-semi-finals/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Los Angeles",
+      "event": "SoFi Stadium's World Cup run boosts confidence ahead of Super Bowl, LA Olympics",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.channelnewsasia.com/sport/sofi-stadiums-world-cup-run-boosts-confidence-ahead-super-bowl-la-olympics-6249126"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "Have your say on the World Cup semi-finals ",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/have-your-say-on-the-world-cup-semi-finals-43128881"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "Mondiali: l'Argentina vola in semifinale, a Buenos Aires i festeggiamenti",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ansa.it/sito/photogallery/sport/2026/07/12/mondiali-largentina-vola-in-semifinale-a-buenos-aires-i-festeggiamenti_cfaea96c-7f77-4247-8295-90e52a4e7087.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Kansas City",
+      "event": "Mondiali: tifoso dell'Argentina sugli spalti con la maglietta di Messi",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ansa.it/sito/photogallery/sport/2026/07/12/mondiali-tifoso-dellargentina-sugli-spalti-con-la-maglietta-di-messi_90a3e30a-b95e-470d-a5f5-724a5de92cba.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "Mondiali: tifosi argentini assistono al match contro la Svizzera",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ansa.it/sito/photogallery/sport/2026/07/12/mondiali-tifosi-argentini-assistono-al-match-contro-la-svizzera_77720dad-f9db-483b-92ba-05fa30ecf5cc.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "Bellingham inspires England comeback as Arsenal stars reach World Cup semi-finals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.justarsenal.com/bellingham-inspires-england-comeback-as-arsenal-stars-reach-world-cup-semi-finals/418467"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "Norway 'Robbed' by Referee: Alfie Haaland",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/alfie-haaland-accuses-referee-of-robbing-norway-in-fifa-world-cup-2026-quarter-final-loss-to-england/20260712.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "England\u2019s Victory Over Norway Draws Biggest UK Audience For World Cup 2026",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://deadline.com/2026/07/england-norway-tv-rating-world-cup-1236980082/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "England\u2019s Victory Over Norway Draws Biggest UK Audience For World Cup 2026",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://deadline.com/2026/07/england-norway-tv-rating-world-cup-1236980082/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "World Cup 2026 semifinals set a historic first as France, Argentina, England, and Spain all advance",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cryptobriefing.com/world-cup-2026-historic-semifinal-lineup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 13",
+      "loc": "Global",
+      "event": "Lionel Messi confronts challenge from England before first-ever international meeting at World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/lionel-messi-confronts-challenge-from-england-before-first-ever-international-meeting-at-world-cup/"
+        }
+      ]
+    },
     {
       "date": "Jul 13",
       "loc": "Global",
@@ -828,412 +1001,7 @@
           "url": "https://www.vanguardngr.com/2026/07/world-cup-2026-senegal-sack-pape-thiaw-after-disappointing-campaign/"
         }
       ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "Swiss fairytale ends in controversy over Embolo red card",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/fifa-wc-2026-it-destroyed-our-game-switzerland-coach-slams-unacceptable-var-rule/20260712.htm"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "World Cup 2026: List of top scorers as Bellingham joins race",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/world-cup-2026-list-of-top-scorers-as-bellingham-joins-race/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "World Cup 2026: Semi-final fixtures confirmed \u2014 date, time and venue",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/world-cup-2026-semi-final-fixtures-confirmed-date-time-and-venue/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Boston",
-      "event": "World Cup pitch ripped up immediately after final game despite NFL player preferences",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/world-cup-pitch-ripped-up-immediately-after-final-game-despite-nfl-player-preferences/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "Lionel Messi breaks yet another World Cup record in Argentina\u2019s quarter-final vs Switzerland",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/lionel-messi-breaks-yet-another-world-cup-record-in-argentinas-quarter-final-vs-switzerland/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "Three Observations from Argentina\u2019s 3-1 win over Switzerland in the FIFA World Cup quarterfinal",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bavarianfootballworks.com/fifa-world-cup/229590/three-observations-match-report-argentina-win-switzerland-wc-fifa-world-cup-quarterfinal-messi-alvarez-martinez-lautaro-embolo-red-card-xhaka-kobel-paredes-de-paul"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "\u2018What a joke\u2019: World Cup referee mistake sparks outrage",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/world-cup-referee-mistake-sparks-outrage.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "Lisandro Martinez helps Argentina reach World Cup semi-final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thepeoplesperson.com/2026/07/12/lisandro-martinez-helps-argentina-reach-world-cup-semi-final-312613/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "Flawed genius Emam Ashour could ignite Celtic",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://celticshorts.com/2026/07/flawed-genius-emam-ashour-could-ignite-celtic/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "Lionel Messi\u2019s fiery message to Portuguese World Cup referee during QF win over Switzerland revealed",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/lionel-messis-fiery-message-to-portuguese-world-cup-referee-during-qf-win-over-switzerland-revealed/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026 results: Who won yesterday's match between England vs Norway and Argentina vs Switzerland? Check who reached the semi-final stage",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "high",
-      "impact": "P1 CRITICAL",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-results-who-won-yesterdays-match-between-england-vs-norway-and-argentina-vs-switzerland-check-who-reached-the-semi-final-stage/articleshow/132340802.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "World Cup semifinal rankings: Why France, Spain, England, and Argentina will (and won't) win 2026 FIFA title",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/world-cup-semifinal-rankings-will-wont-win-2026-fifa-title/c7489d418159db880f27778e"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "Which teams are in the World Cup semifinals, and what\u2019s the match schedule?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/12/which-teams-are-in-the-world-cup-semifinals-and-whats-the-match-schedule"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": " Copa do Brasil semis have only champions after 36 years, off-pitch feud",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/copa-do-brasil-semis-have-only-champions-after-36-years-off-pitch-feud-43128095"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "\u2018We have to be realistic, we have to be better\u2019: Argentina\u2019s Scaloni looks ahead to England",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/we-have-to-be-realistic-we-have-to-be-better-argentinas-scaloni-looks-ahead-to-england/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "Lionel Messi Gets 7/10 | Argentina Players Rated After Their Win Vs Switzerland In The FIFA World Cup 2026",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://the4thofficial.net/2026/07/lionel-messi-gets-7-10-argentina-players-rated-after-their-win-vs-switzerland-in-the-fifa-world-cup-2026/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "Erling Haaland\u2019s dad ironically congratulates referee for England\u2019s win over Norway",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/erling-haalands-dad-ironically-congratulates-referee-for-englands-win-over-norway/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "England vs Argentina: Date, US and UK kick-off time and early team news for World Cup semi-final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/england-vs-argentina-date-us-and-uk-kick-off-time-and-early-team-news-for-world-cup-semi-final/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "Argentina advances to World Cup semifinals after escaping Switzerland in extra time",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/12/sports/argentina-advances-to-world-cup-semifinals-after-escaping-switzerland-in-extra-time/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "England edge Norway, Argentina beat Switzerland to set up semifinal clash",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://peoplesreview.com.np/2026/07/12/england-edge-norway-argentina-beat-switzerland-to-set-up-semifinal-clash/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "2026 FIFA World Cup semifinals bracket: Complete matchups and schedule",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/2026-fifa-world-cup-semifinals-bracket-complete-matchups-and-schedule/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Kansas City",
-      "event": "Argentina edge Switzerland to reach World Cup semifinals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.khabarhub.com/2026/12/558144/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "Argentina fends off Switzerland challenge, books SF",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/c8fee064f76dd983"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "England vs. Argentina Confirmed For Semifinals: Here's What To Know",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/england-vs-argentina-confirmed-semifinals-heres-what-know"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "Argentina beat Switzerland to set up World Cup 2026 semifinal with England",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/12/argentina-defeat-switzerland-to-set-up-england-semifinal-at-world-cup-2026"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "World Cup bracket predictions 2026: Our picks for Argentina-England, Spain-France",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/11/world-cup-predictions-semifinals-bracket-argentina-england/90890573007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "England vs Argentina: Date, kickoff time and venue for the 2026 World Cup semifinal",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/england-vs-argentina-date-kickoff-time-and-venue-for-the-2026-world-cup-semifinal/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-13T08:39:00.842809Z"
+  "lastUpdated": "2026-07-13T11:46:32.842560Z"
 }
