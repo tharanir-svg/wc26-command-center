@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 1,
+    "p1": 0,
     "p2": 2,
-    "p3": 24
+    "p3": 23
   },
   "watchlist": [
     {
@@ -131,12 +131,110 @@
   ],
   "risks": [
     {
+      "title": "How streaming creators built a new broadcast blueprint at the World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "As the 2026 FIFA World Cup nears its conclusion, a parallel broadcast has emerged alongside the official TV feed: creator-led livestreams from inside the stadiums and FIFA fan zones on Twitch and YouTube. This creator coverage isn\u2019t color on top of the main f\u2026",
+      "timestamp": "2026-07-14T04:36:08.672420Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/57e2e0d50941312f"
+        }
+      ]
+    },
+    {
+      "title": "How streaming creators built a new broadcast blueprint at the World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Livestreaming creators offer new ways to broadcast sports to diverse audiences; this 2026 FIFA World Cup may be the new blueprint for leagues",
+      "timestamp": "2026-07-14T04:36:08.672516Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://digiday.com/media/how-streaming-creators-built-a-new-broadcast-blueprint-at-the-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "WC: France seek revenge on Spain in blockbuster semi-final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France take on Spain in the FIFA World Cup 2026 semi-final aiming for a third consecutive World Cup final, with Kylian Mbappe and Ousmane Dembele leading Les Bleus against Europe's champions.",
+      "timestamp": "2026-07-14T04:36:08.672584Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/fifa-world-cup-2026-france-seek-revenge-on-spain-in-blockbuster-semi-final/20260713.htm"
+        }
+      ]
+    },
+    {
+      "title": "World Cup 2026 Semifinal Team Analysis: France, Spain, England and Argentina Prepare for Showdowns",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "For the first time, FIFA's top four teams\u2014France, Spain, England, and Argentina\u2014have reached the World Cup semifinals, promising historic matchups and intense competition for the ultimate prize.",
+      "timestamp": "2026-07-14T04:36:08.672675Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ibtimes.com.au/historic-world-cup-semifinals-top-four-teams-clash-1872171"
+        }
+      ]
+    },
+    {
+      "title": "World Cup could expand to 64 teams, FIFA President Gianni Infantino says",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup featured the largest field of teams yet, featuring 48 teams compared to the 32 teams previously involved in the tournament. However, it sounds like further expansion could be in the cards. During a recent interview, FIFA President Gian\u2026",
+      "timestamp": "2026-07-14T04:36:08.672745Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/world-cup-could-expand-to-64-teams-fifa-president-gianni-infantino-says.html"
+        }
+      ]
+    },
+    {
+      "title": "Bellingham bites back at Tuchel\u2019s \u2018lucky\u2019 comment after taxing win over Norway",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England were forced to survive another gruelling battle at the 2026 FIFA World Cup as Thomas Tuchel\u2019s side secured a 2-1 extra-time quarter-final win over Norway on Saturday. In draining conditions in Miami, the Three Lions fell behind to\u00a0Andreas Schjelderup\u2018\u2026",
+      "timestamp": "2026-07-14T04:36:08.672855Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thechronicle.com.gh/bellingham-bites-back-at-tuchels-lucky-comment-after-taxing-win-over-norway/"
+        }
+      ]
+    },
+    {
+      "title": "France vs Spain poll: Vote for the better player in every head-to-head matchup ahead of the 2026 World Cup semifinal",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France and Spain will be clashing in the 2026 World Cup semifinals, with stars in every single line of the pitch. France and Spain have been drawn to clash in the 2026 World Cup semifinals, with only one nation advancing to the final at MetLife Stadium. The g\u2026",
+      "timestamp": "2026-07-14T04:36:08.672957Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/france-vs-spain-poll-vote-for-the-better-player-in-every-head-to-head-matchup-ahead-of-the-2026-world-cup-semifinal/"
+        }
+      ]
+    },
+    {
       "title": "FIFA Investigates Alleged Racist Abuse of IShowSpeed at 2026 World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A group of fans have been accused of directing racist remarks at the streamer during Argentina's 3-2 win over Cape Verde.",
-      "timestamp": "2026-07-14T01:08:20.620517Z",
+      "timestamp": "2026-07-14T04:36:08.673132Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup semifinals are here. Here's how FIFA ranks the final four teams.",
-      "timestamp": "2026-07-14T01:08:20.620572Z",
+      "timestamp": "2026-07-14T04:36:08.673199Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup semifinals are here. Here's how FIFA ranks the final four teams.",
-      "timestamp": "2026-07-14T01:08:20.620602Z",
+      "timestamp": "2026-07-14T04:36:08.673252Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +276,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Uruguay has appointed legendary former striker Diego Forlan as interim head coach of the national team following Marcelo Bielsa's resignation after La Celeste's disappointing group-stage exit at the 2026 FIFA World Cup.\nThe post Uruguay announce Diego Forlan \u2026",
-      "timestamp": "2026-07-14T01:08:20.620806Z",
+      "timestamp": "2026-07-14T04:36:08.673613Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +290,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Seven World Cup matches, then Gillette Stadium's grass was ripped out.",
-      "timestamp": "2026-07-14T01:08:20.620828Z",
+      "timestamp": "2026-07-14T04:36:08.673658Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Adrian Sousa from Rabona TV recaps an extraordinary night of extra-time quarterfinal drama as England and Argentina set up a monumental semifinal. The quarterfinal stage of the 2026 FIFA World Cup has delivered an absolutely legendary night of extra-time dram\u2026",
-      "timestamp": "2026-07-14T01:08:20.620859Z",
+      "timestamp": "2026-07-14T04:36:08.673719Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Another Albiceleste night, another night for Argentina. The reigning world champions booked their place in the 2026 FIFA World Cup semi-finals with a 3-1 extra-time victory over Switzerland after a ha...",
-      "timestamp": "2026-07-14T01:08:20.620911Z",
+      "timestamp": "2026-07-14T04:36:08.673816Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France defender Ibrahima Konate has brushed aside Lamine Yamal's bold pre-match comments as the reigning European champions prepare to face Spain in the 2026 FIFA World Cup semi-final on Tuesday.\nThe post \u2018Let him say whatever he wants\u2019 \u2013 Konate slams Yamal a\u2026",
-      "timestamp": "2026-07-14T01:08:20.621028Z",
+      "timestamp": "2026-07-14T04:36:08.673971Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Real Madrid is stepping in to help ensure that the 2030 World Cup final is held at the Santiago Bernab\u00e9u Stadium.Morocco, throughout this 2026 World Cup, has been trying to get FIFA to award them the...",
-      "timestamp": "2026-07-14T01:08:20.621076Z",
+      "timestamp": "2026-07-14T04:36:08.674034Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The collection includes real pieces of the grass at MetLife Stadium in New Jersey, where the 2026 World Cup final will be played",
-      "timestamp": "2026-07-14T01:08:20.621138Z",
+      "timestamp": "2026-07-14T04:36:08.674113Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After Norway's World Cup elimination against England, Elring Haaland's father Alfie hit out at the referee Clement Turpin. Erling Haaland\u2018s 2026 World Cup run came to an end in the quarterfinals as England secured their place in the semifinals. In the heated \u2026",
-      "timestamp": "2026-07-14T01:08:20.621182Z",
+      "timestamp": "2026-07-14T04:36:08.674175Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England and Argentina renew their longstanding football rivalry with a World Cup final place at stake.",
-      "timestamp": "2026-07-14T01:08:20.621242Z",
+      "timestamp": "2026-07-14T04:36:08.674284Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France and Spain clash this Tuesday at the AT&T Stadium for a match of the semi-finals of the World Cup.In their last game, France won 2-0 against Morocco (World Cup 2026). In their last match, Spain ...",
-      "timestamp": "2026-07-14T01:08:20.621337Z",
+      "timestamp": "2026-07-14T04:36:08.674402Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Adams recently represented South Africa at the 2026 World Cup",
-      "timestamp": "2026-07-14T01:08:20.621395Z",
+      "timestamp": "2026-07-14T04:36:08.674476Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Amazon offers this 2026 FIFA World Cup Metal Keychain from $7.98.\u00a0 That's a savings of up to $5.\u00a0 Shipping is free for Prime members. Buy Now at Amazon",
-      "timestamp": "2026-07-14T01:08:20.621446Z",
+      "timestamp": "2026-07-14T04:36:08.674542Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Brazilian Football Confederation (CBF) released a video this Sunday (12) about the elimination from the 2026 FIFA World Cup.\"Believe it. Let the new cycle begin,\" CBF says, referring to the pursui...",
-      "timestamp": "2026-07-14T01:08:20.621515Z",
+      "timestamp": "2026-07-14T04:36:08.674633Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Erling Haaland was still in a good mood despite suffering a heartbreaking loss in the World Cup. On Saturday, Haaland and Norway were eliminated after losing to England 2-1 at Hard Rock Stadium in Miami. During his postgame press conference, Haaland reflected\u2026",
-      "timestamp": "2026-07-14T01:08:20.621628Z",
+      "timestamp": "2026-07-14T04:36:08.674783Z",
       "links": [
         {
           "label": "Source",
@@ -374,142 +472,121 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jude Bellingham might just drag England kicking and screaming to FIFA World Cup 2026 glory. To describe England as a one-man team when Harry Kane is around would clearly be unfair.",
-      "timestamp": "2026-07-14T01:08:20.621780Z",
+      "timestamp": "2026-07-14T04:36:08.675050Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.hitc.com/every-football-legend-jude-bellingham-has-now-scored-more-world-cup-goals-than/"
         }
       ]
-    },
-    {
-      "title": "FIFA World Cup 2026: Day 31",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Al Jazeera\u2019s Basel Ghazoghli has your #FIFAworldcup26 day 31 recap, as England and Argentina reach the semi-finals.",
-      "timestamp": "2026-07-14T01:08:20.621845Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/fifa-world-cup-2026-day-31"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026: 'Changed me as a person', Haaland reflects on Norway's WC journey after exit",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Reflecting on Norway's exit from the World Cup, Erling Haaland described the experience as transformative. He felt an overwhelming pride in representing his country at such a prestigious level. Although the team faced a quarter-final loss, their journey marke\u2026",
-      "timestamp": "2026-07-14T01:08:20.621905Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-changed-me-as-a-person-haaland-reflects-on-norways-wc-journey-after-exit/articleshow/132348517.cms"
-        }
-      ]
-    },
-    {
-      "title": "Patriots Reject Safety Concerns To Rip Out Natural Grass At Gillette Stadium After World Cup",
-      "risk": "high",
-      "severityText": "P1 CRITICAL",
-      "status": "VERIFIED",
-      "description": "The grass used for the World Cup at Gillette Stadium has been removed to be replaced with turf. Images of the change are now circulating social media. The move reignites debate surrounding NFL playing surfaces and player safety. Is grass better than turf? Res\u2026",
-      "timestamp": "2026-07-14T01:08:20.621963Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://brobible.com/sports/article/gillette-stadium-grass-world-cup-turf-debate-safety/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026 semifinalists perfectly mirror global rankings for first time ever",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The alignment of semifinalists with global rankings underscores the effectiveness of the expanded format in maintaining competitive integrity.\nThe post FIFA World Cup 2026 semifinalists perfectly mirror global rankings for first time ever appeared first on Cr\u2026",
-      "timestamp": "2026-07-14T01:08:20.622016Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/fifa-world-cup-2026-semifinalists-top-ranked/"
-        }
-      ]
-    },
-    {
-      "title": "Venice Beach\u2019s World Cup moment with Fan Zone signals new chapter for businesses, LA28 Olympics",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "For three days, the Official Los Angeles World Cup Fan Zone transformed one of the world\u2019s most iconic beachfront destinations into an international gathering place.",
-      "timestamp": "2026-07-14T01:08:20.622065Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://wpdash.medianewsgroup.com/2026/07/12/venice-beachs-world-cup-moment-with-fan-zone-signals-new-chapter-for-businesses-la28-olympics/"
-        }
-      ]
-    },
-    {
-      "title": "How Canada\u2019s vaccine infrastructure has helped guard against infectious disease during the FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The World Cup brought many visitors to Canada, which put public health authorities on alert for contagious illnesses. It\u2019s crucial that Canada remain committed to infectious disease preparedness.",
-      "timestamp": "2026-07-14T01:08:20.622139Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://theconversation.com/how-canadas-vaccine-infrastructure-has-helped-guard-against-infectious-disease-during-the-fifa-world-cup-287060"
-        }
-      ]
-    },
-    {
-      "title": "How Canada\u2019s vaccine infrastructure helped guard against infectious disease during the FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The World Cup brought many visitors to Canada, which put public health authorities on alert for contagious illnesses. It\u2019s crucial that Canada remain committed to infectious disease preparedness.",
-      "timestamp": "2026-07-14T01:08:20.622169Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://theconversation.com/how-canadas-vaccine-infrastructure-helped-guard-against-infectious-disease-during-the-fifa-world-cup-287060"
-        }
-      ]
-    },
-    {
-      "title": "2026 World Cup: FIFA issues Golden Boot update as Mbappe, Messi chase award",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA has confirmed that France captain Kylian Mbapp\u00e9 currently holds the advantage over Argentina skipper Lionel Messi in the race for the Golden Boot at the 2026 FIFA World Cup.\nThe post 2026 World Cup: FIFA issues Golden Boot update as Mbappe, Messi chase a\u2026",
-      "timestamp": "2026-07-14T01:08:20.622222Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/2026-world-cup-fifa-issues-golden-boot-update-as-mbappe-messi-chase-award/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026: how are posts on diversity and inclusion being received on social media?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "A study of over 6,000 posts by European football associations demonstrates that communities react very differently, depending on the type of diversity up for debate.",
-      "timestamp": "2026-07-14T01:08:20.622303Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://theconversation.com/world-cup-2026-how-are-posts-on-diversity-and-inclusion-being-received-on-social-media-287259"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "How streaming creators built a new broadcast blueprint at the World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/57e2e0d50941312f"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "How streaming creators built a new broadcast blueprint at the World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://digiday.com/media/how-streaming-creators-built-a-new-broadcast-blueprint-at-the-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "WC: France seek revenge on Spain in blockbuster semi-final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/fifa-world-cup-2026-france-seek-revenge-on-spain-in-blockbuster-semi-final/20260713.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "World Cup 2026 Semifinal Team Analysis: France, Spain, England and Argentina Prepare for Showdowns",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ibtimes.com.au/historic-world-cup-semifinals-top-four-teams-clash-1872171"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "World Cup could expand to 64 teams, FIFA President Gianni Infantino says",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/world-cup-could-expand-to-64-teams-fifa-president-gianni-infantino-says.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "Bellingham bites back at Tuchel\u2019s \u2018lucky\u2019 comment after taxing win over Norway",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thechronicle.com.gh/bellingham-bites-back-at-tuchels-lucky-comment-after-taxing-win-over-norway/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "New York / New Jersey",
+      "event": "France vs Spain poll: Vote for the better player in every head-to-head matchup ahead of the 2026 World Cup semifinal",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/france-vs-spain-poll-vote-for-the-better-player-in-every-head-to-head-matchup-ahead-of-the-2026-world-cup-semifinal/"
+        }
+      ]
+    },
     {
       "date": "Jul 14",
       "loc": "Global",
@@ -779,142 +856,7 @@
           "url": "https://www.hitc.com/every-football-legend-jude-bellingham-has-now-scored-more-world-cup-goals-than/"
         }
       ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026: Day 31",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/fifa-world-cup-2026-day-31"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026: 'Changed me as a person', Haaland reflects on Norway's WC journey after exit",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-changed-me-as-a-person-haaland-reflects-on-norways-wc-journey-after-exit/articleshow/132348517.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Boston",
-      "event": "Patriots Reject Safety Concerns To Rip Out Natural Grass At Gillette Stadium After World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "high",
-      "impact": "P1 CRITICAL",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://brobible.com/sports/article/gillette-stadium-grass-world-cup-turf-debate-safety/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026 semifinalists perfectly mirror global rankings for first time ever",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/fifa-world-cup-2026-semifinalists-top-ranked/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "Venice Beach\u2019s World Cup moment with Fan Zone signals new chapter for businesses, LA28 Olympics",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://wpdash.medianewsgroup.com/2026/07/12/venice-beachs-world-cup-moment-with-fan-zone-signals-new-chapter-for-businesses-la28-olympics/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "How Canada\u2019s vaccine infrastructure has helped guard against infectious disease during the FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://theconversation.com/how-canadas-vaccine-infrastructure-has-helped-guard-against-infectious-disease-during-the-fifa-world-cup-287060"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "How Canada\u2019s vaccine infrastructure helped guard against infectious disease during the FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://theconversation.com/how-canadas-vaccine-infrastructure-helped-guard-against-infectious-disease-during-the-fifa-world-cup-287060"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "2026 World Cup: FIFA issues Golden Boot update as Mbappe, Messi chase award",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/2026-world-cup-fifa-issues-golden-boot-update-as-mbappe-messi-chase-award/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "World Cup 2026: how are posts on diversity and inclusion being received on social media?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://theconversation.com/world-cup-2026-how-are-posts-on-diversity-and-inclusion-being-received-on-social-media-287259"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-14T01:08:20.622508Z"
+  "lastUpdated": "2026-07-14T04:36:08.675282Z"
 }
