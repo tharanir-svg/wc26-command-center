@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 1,
-    "p2": 0,
-    "p3": 29
+    "p2": 1,
+    "p3": 31
   },
   "watchlist": [
     {
@@ -131,12 +131,110 @@
   ],
   "risks": [
     {
+      "title": "How to watch France vs Spain: Live stream the 2026 FIFA World Cup Semifinals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Golden Boot frontrunner Kylian Mbapp\u00e9 leads France against Spain in a World Cup semifinal at Dallas Stadium in Arlington, Texas, on Tuesday.",
+      "timestamp": "2026-07-14T21:43:29.864031Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/sports/how-watch-france-vs-spain-live-stream-2026-fifa-world-cup-semifinals"
+        }
+      ]
+    },
+    {
+      "title": "Top 50 Most Viewed YouTube Channels Worldwide \u2022 Week Of 07/12/2026",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "For at least one more week, the soccer channels are ruling YouTube Shorts. The 2026 FIFA World Cup has been kind to Brazil's\u00a0Caz\u00e9TV, who led the way in the Global Top 50 with\u00a01.11 billion weekly views. The second most-watched YouTube channel of the week belon\u2026",
+      "timestamp": "2026-07-14T21:43:29.864090Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.tubefilter.com/2026/07/13/top-50-most-viewed-youtube-channels-week-of-07-12-2026/"
+        }
+      ]
+    },
+    {
+      "title": "How to Watch the 2026 FIFA World Cup: Schedule, Streaming Guide",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "With the semifinals underway, here's what to know about the remaining fixtures and how to catch them",
+      "timestamp": "2026-07-14T21:43:29.864280Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-the-2026-fifa-world-cup-live-streaming-1235574281/"
+        }
+      ]
+    },
+    {
+      "title": "France vs. Spain tactical preview: How World Cup match will play out with unstoppable force vs. immovable object",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Two of the top three teams in the world will meet on Tuesday to determine the first finalist of the 2026 FIFA World Cup as France (ranked No. 1) meet Spain (ranked No. 3) clash in Arlington, TX.",
+      "timestamp": "2026-07-14T21:43:29.864355Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/france-spain-tactical-preview-world-cup/a6a422e196dbfdbab152f346"
+        }
+      ]
+    },
+    {
+      "title": "TikTok Is Devastated After Erling Haaland Exits 2026 World Cup",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "TikTokers are sad to see Erling Haaland depart the 2026 FIFA World Cup\u2014here are the best memes to come out of the Norway striker\u2019s viral journey.",
+      "timestamp": "2026-07-14T21:43:29.864394Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/danidiplacido/2026/07/13/tiktok-is-devastated-after-erling-haaland-exits-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "A man spent his entire life savings to take his grandad to the World Cup and then his phone buzzed",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Twenty-one-year-old Jacob Allmendinger spent his entire $13,400 life savings to take his 80-year-old grandad to the 2026 World Cup, only for a company to completely refund him.",
+      "timestamp": "2026-07-14T21:43:29.864420Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.upworthy.com/pn-grandson-empties-savings-world-cup-grandad-refunded/"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Messi finally faces England: Argentina star\u2019s record against the other World Cup champions",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lionel Messi is set to face England in the 2026 World Cup semifinal, adding the last World Cup champion he had yet to play against in his career. Lionel Messi faces England for the first time in his career when Argentina and the Three Lions meet in the 2026 W\u2026",
+      "timestamp": "2026-07-14T21:43:29.864476Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/lionel-messi-finally-faces-england-argentina-stars-record-against-the-other-world-cup-champions/"
+        }
+      ]
+    },
+    {
       "title": "Yamal And Mbapp\u00e9 Headline Blockbuster Semifinal: What To Know For France vs. Spain",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here is everything you need to know for Tuesday at the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-14T20:03:56.542172Z",
+      "timestamp": "2026-07-14T21:43:29.864507Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The video assistant referee system, or VAR, has led to some controversial calls at the 2026 World Cup. Here\u2019s why.",
-      "timestamp": "2026-07-14T20:03:56.542224Z",
+      "timestamp": "2026-07-14T21:43:29.864534Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "David Beckham sported one of Tudor's new models, the Black Bay 54 'Blue, at the World Cup 2026quarter-final, England v Norway.",
-      "timestamp": "2026-07-14T20:03:56.542302Z",
+      "timestamp": "2026-07-14T21:43:29.864609Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "\u201cDai Dai (FIFA World Cup Official Song 2026)\u201d de Shakira y Burna Boy llega al No. 1 de la lista Billboard Global 200.",
-      "timestamp": "2026-07-14T20:03:56.542391Z",
+      "timestamp": "2026-07-14T21:43:29.864688Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lamine Yamal might have a mental advantage over Kylian Mbapp\u00e9 going into their meeting in the 2026 FIFA World Cup semifinals.",
-      "timestamp": "2026-07-14T20:03:56.542439Z",
+      "timestamp": "2026-07-14T21:43:29.864734Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England and Argentina clash this Wednesday at the Mercedes-Benz Stadium for a match of the semi-finals of the World Cup. The match will be broadcast live at 20:00 on BBC One.In their last game, Englan...",
-      "timestamp": "2026-07-14T20:03:56.542466Z",
+      "timestamp": "2026-07-14T21:43:29.864762Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "White House advisor Andrew Giuliani has opened up on who he hopes will win the FIFA World Cup, ahead of the highly-anticipated semifinals",
-      "timestamp": "2026-07-14T20:03:56.542572Z",
+      "timestamp": "2026-07-14T21:43:29.864889Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Dutch football referee Rob Dieperink has died at the age of 38, just weeks after he was removed from FIFA's list of match officials for the 2026 World Cup following a police investigation in the United Kingdom that was later dropped.\nThe post Dutch referee di\u2026",
-      "timestamp": "2026-07-14T20:03:56.542624Z",
+      "timestamp": "2026-07-14T21:43:29.864947Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Shakira and Burna Boy\u2019s \u201cDai Dai (FIFA World Cup Official Song 2026)\u201d hits No. 1 on the Billboard Global 200 chart.",
-      "timestamp": "2026-07-14T20:03:56.542648Z",
+      "timestamp": "2026-07-14T21:43:29.864968Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Football's 2026 World Cup has been full of controversies - Al Jazeera breaks down the five most significant.",
-      "timestamp": "2026-07-14T20:03:56.542666Z",
+      "timestamp": "2026-07-14T21:43:29.864989Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "EXCLUSIVE: A Folarin Balogun brace helped the U.S. Men\u2019s National Soccer Team kick off their 2026 World Cup in style with a 4-1 win over Paraguay. This was followed by a 2-0 win over Australia and despite losing 3-2 to Turkey in their final group game, the te\u2026",
-      "timestamp": "2026-07-14T20:03:56.542703Z",
+      "timestamp": "2026-07-14T21:43:29.865023Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "EXCLUSIVE: A Folarin Balogun brace helped the U.S. Men\u2019s National Soccer Team kick off their 2026 World Cup in style with a 4-1 win over Paraguay. This was followed by a 2-0 win over Australia and despite losing 3-2 to Turkey in their final group game, the te\u2026",
-      "timestamp": "2026-07-14T20:03:56.542726Z",
+      "timestamp": "2026-07-14T21:43:29.865048Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's how to watch the France vs. Spain semifinal match at the World Cup.",
-      "timestamp": "2026-07-14T20:03:56.542776Z",
+      "timestamp": "2026-07-14T21:43:29.865104Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With just four teams remaining, every Fantasy decision becomes magnified. The semi-finals not only determine who reaches the World Cup final, but they also shape the final stretch of the Fantasy FIFA World Cup game. At this stage, there are no easy fixtures, \u2026",
-      "timestamp": "2026-07-14T20:03:56.542834Z",
+      "timestamp": "2026-07-14T21:43:29.865166Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA announced the Piece of the Pitch collection, in which fans can buy part of the playing surface from the World Cup final at MetLife Stadium.",
-      "timestamp": "2026-07-14T20:03:56.542853Z",
+      "timestamp": "2026-07-14T21:43:29.865186Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "We are down to the final four teams of the 2026 FIFA World Cup co-hosted by the United States, Canada, and Mexico. The semi-final landscape presents an absolute dream lineup of global heavyweights: France, Spain, England, and Argentina. France boasts the shar\u2026",
-      "timestamp": "2026-07-14T20:03:56.542882Z",
+      "timestamp": "2026-07-14T21:43:29.865218Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The powerhouse clubs meet at Dallas' AT&T Stadium on Tuesday, July 14.",
-      "timestamp": "2026-07-14T20:03:56.542934Z",
+      "timestamp": "2026-07-14T21:43:29.865272Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The United States opened its 2026 World Cup campaign with a 4-1 victory over Paraguay in front of 70,000 fans at SoFi Stadium. Within hours, Google Trends data revealed an unprecedented spike in searc...",
-      "timestamp": "2026-07-14T20:03:56.543056Z",
+      "timestamp": "2026-07-14T21:43:29.865403Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France and Spain will meet in Dallas, Texas for the first semifinal on Tuesday while Argentina and England will be here in Atlanta for their semifinal match.",
-      "timestamp": "2026-07-14T20:03:56.543077Z",
+      "timestamp": "2026-07-14T21:43:29.865424Z",
       "links": [
         {
           "label": "Source",
@@ -402,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England and Argentina will play for a spot in the World Cup final. Tickets are pricey but still available from StubHub and Vivid Seats.",
-      "timestamp": "2026-07-14T20:03:56.543122Z",
+      "timestamp": "2026-07-14T21:43:29.865474Z",
       "links": [
         {
           "label": "Source",
@@ -416,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Semifinal ticket prices for the 2026 World Cup show a significant disparity. France versus Spain tickets are priced at $1,325, reflecting a recent decline. Argentina's match against England in Atlanta is listed at $2,841, showing a rise. This Argentina game i\u2026",
-      "timestamp": "2026-07-14T20:03:56.543186Z",
+      "timestamp": "2026-07-14T21:43:29.865538Z",
       "links": [
         {
           "label": "Source",
@@ -430,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France and Spain are ready to battle for a spot in the 2026 World Cup final when they meet at AT&T Stadium in Arlington, Texas on Tuesday, July 14.",
-      "timestamp": "2026-07-14T20:03:56.543217Z",
+      "timestamp": "2026-07-14T21:43:29.865570Z",
       "links": [
         {
           "label": "Source",
@@ -444,7 +542,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Four matches remain in the 2026 FIFA World Cup and tickets are still available, both through FIFA and resale sites.",
-      "timestamp": "2026-07-14T20:03:56.543324Z",
+      "timestamp": "2026-07-14T21:43:29.865715Z",
       "links": [
         {
           "label": "Source",
@@ -458,7 +556,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "Former Patriots wide receiver Julian Edelman had the perfect comparison for Norway's Erling Haaland.",
-      "timestamp": "2026-07-14T20:03:56.543340Z",
+      "timestamp": "2026-07-14T21:43:29.865733Z",
       "links": [
         {
           "label": "Source",
@@ -472,7 +570,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup is drawing to a close. Down to the semifinals, the tournament has already produced lasting memories and unforgettable stories, both good and bad.There are no surprises in the f...",
-      "timestamp": "2026-07-14T20:03:56.543393Z",
+      "timestamp": "2026-07-14T21:43:29.865773Z",
       "links": [
         {
           "label": "Source",
@@ -486,72 +584,121 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FOX Sports will blanket the Semifinals with on-site studio coverage featuring analysts and icons of the beautiful game Alexi Lalas, Thierry Henry and Zlatan Ibrahimovic alongside host Rebecca Lowe at both matches.",
-      "timestamp": "2026-07-14T20:03:56.543473Z",
+      "timestamp": "2026-07-14T21:43:29.865889Z",
       "links": [
         {
           "label": "Source",
           "url": "http://www.thefutoncritic.com/news/2026/07/13/fox-sports-announces-studio-match-assignments-for-historic-fifa-world-cup-2026-semifinals-on-fox-613411/20260713fox04/"
         }
       ]
-    },
-    {
-      "title": "Police launch investigation into death of World Cup star Jayden Adams",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Police have opened an investigation into the passing of 25-year-old South Africa midfielder Jayden Adams, who was found dead just two weeks after representing his country at the FIFA World Cup",
-      "timestamp": "2026-07-14T20:03:56.543541Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/police-investigation-death-jayden-adams-1934641"
-        }
-      ]
-    },
-    {
-      "title": "Argentina vs. England odds, prediction, time: 2026 World Cup semifinal picks from expert on 19-7 roll",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "SportsLine's Martin Green reveals his picks for Lionel Messi and Argentina versus Harry Kane and England in the World Cup 2026 on Wednesday",
-      "timestamp": "2026-07-14T20:03:56.543586Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/argentina-england-odds-prediction-time-2026-world-cup-semifinal-picks/"
-        }
-      ]
-    },
-    {
-      "title": "\u2018Corrupt to the core\u2019: Reporting exposes truth about Donald Trump\u2019s World Cup move and sparks outrage",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup had some major drama injected into its round of 16 when FIFA reinstated the USMNT\u2019s leading goal scorer in the tournament, Folarin Balogun, despite his being assessed a red card in the round of 32, which usually warrants a one-game sus\u2026",
-      "timestamp": "2026-07-14T20:03:56.543693Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/folarin-balogun-decision-made-by-one-person.html"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026: Slaven Bilic appointed Croatia's new Head Coach",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Slaven Bilic has been appointed as the new head coach of the Croatia national team. He takes charge after Zlatko Dalic stepped down following the FIFA World Cup exit. Bilic returns to international management after a two-year hiatus from coaching. Dalic's nin\u2026",
-      "timestamp": "2026-07-14T20:03:56.543929Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-slaven-bilic-appointed-croatias-new-head-coach/articleshow/132370586.cms"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 14",
+      "loc": "Dallas",
+      "event": "How to watch France vs Spain: Live stream the 2026 FIFA World Cup Semifinals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/sports/how-watch-france-vs-spain-live-stream-2026-fifa-world-cup-semifinals"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "Top 50 Most Viewed YouTube Channels Worldwide \u2022 Week Of 07/12/2026",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.tubefilter.com/2026/07/13/top-50-most-viewed-youtube-channels-week-of-07-12-2026/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "How to Watch the 2026 FIFA World Cup: Schedule, Streaming Guide",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-the-2026-fifa-world-cup-live-streaming-1235574281/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "France vs. Spain tactical preview: How World Cup match will play out with unstoppable force vs. immovable object",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/france-spain-tactical-preview-world-cup/a6a422e196dbfdbab152f346"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "TikTok Is Devastated After Erling Haaland Exits 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/danidiplacido/2026/07/13/tiktok-is-devastated-after-erling-haaland-exits-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "A man spent his entire life savings to take his grandad to the World Cup and then his phone buzzed",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.upworthy.com/pn-grandson-empties-savings-world-cup-grandad-refunded/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "Lionel Messi finally faces England: Argentina star\u2019s record against the other World Cup champions",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/lionel-messi-finally-faces-england-argentina-stars-record-against-the-other-world-cup-champions/"
+        }
+      ]
+    },
     {
       "date": "Jul 14",
       "loc": "Global",
@@ -941,67 +1088,7 @@
           "url": "http://www.thefutoncritic.com/news/2026/07/13/fox-sports-announces-studio-match-assignments-for-historic-fifa-world-cup-2026-semifinals-on-fox-613411/20260713fox04/"
         }
       ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "Police launch investigation into death of World Cup star Jayden Adams",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/police-investigation-death-jayden-adams-1934641"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "Argentina vs. England odds, prediction, time: 2026 World Cup semifinal picks from expert on 19-7 roll",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/argentina-england-odds-prediction-time-2026-world-cup-semifinal-picks/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "\u2018Corrupt to the core\u2019: Reporting exposes truth about Donald Trump\u2019s World Cup move and sparks outrage",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/folarin-balogun-decision-made-by-one-person.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026: Slaven Bilic appointed Croatia's new Head Coach",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-slaven-bilic-appointed-croatias-new-head-coach/articleshow/132370586.cms"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-14T20:03:56.544087Z"
+  "lastUpdated": "2026-07-14T21:43:29.866044Z"
 }
