@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 2,
-    "p3": 23
+    "p3": 22
   },
   "watchlist": [
     {
@@ -131,12 +131,82 @@
   ],
   "risks": [
     {
+      "title": "FIFA World Cup: Which semifinal team has best chance to win the trophy?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Form guide on the final four teams as they battle it out for the FIFA World Cup 2026 trophy in the United States.",
+      "timestamp": "2026-07-14T07:00:04.565671Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/13/fifa-world-cup-which-semifinal-team-has-best-chance-to-win-the-trophy"
+        }
+      ]
+    },
+    {
+      "title": "'We fear no one': Konate says before Spain World Cup clash",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France defender Ibrahima Konate says Les Bleus fear no one ahead of their FIFA World Cup 2026 semi-final against Spain, while acknowledging the challenge posed by Lamine Yamal and the tournament's best defence.",
+      "timestamp": "2026-07-14T07:00:04.565908Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/fifa-wc-2026-preview-france-do-not-fear-spain-but-respect-their-quality-players-say/20260713.htm"
+        }
+      ]
+    },
+    {
+      "title": "2026 FIFA World Cup Golden Boot race: Kylian Mbappe takes lead over Lionel Messi",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Kylian Mbapp\u00e9 and Lionel Messi are tied with eight goals atop the 2026 FIFA World Cup Golden Boot race, while Jude Bellingham, Harry Kane and Ousmane Demb\u00e9l\u00e9 remain in striking distance entering the semifinals.",
+      "timestamp": "2026-07-14T07:00:04.565946Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5f5dd4de-8b6e-4519-9c09-d571ac586041"
+        }
+      ]
+    },
+    {
+      "title": "2026 FIFA World Cup Golden Boot race: Kylian Mbappe takes lead over Lionel Messi",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Kylian Mbapp\u00e9 and Lionel Messi are tied with eight goals atop the 2026 FIFA World Cup Golden Boot race, while Jude Bellingham, Harry Kane and Ousmane Demb\u00e9l\u00e9 remain in striking distance entering the semifinals.",
+      "timestamp": "2026-07-14T07:00:04.565961Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/13/sports/2026-fifa-world-cup-golden-boot-race-kylian-mbappe-leads-lionel-messi/"
+        }
+      ]
+    },
+    {
+      "title": "Messi eyes England first as Argentina chase WC final berth",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lionel Messi will face England for the first time in his career when Argentina meet the Three Lions in the FIFA World Cup 2026 semi-final, ending a 20-year wait for one of football's most anticipated match-ups.",
+      "timestamp": "2026-07-14T07:00:04.566075Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/fifa-wc-2026-messis-missing-rival-argentina-captain-finally-faces-england-at-world-cup/20260713.htm"
+        }
+      ]
+    },
+    {
       "title": "How streaming creators built a new broadcast blueprint at the World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "As the 2026 FIFA World Cup nears its conclusion, a parallel broadcast has emerged alongside the official TV feed: creator-led livestreams from inside the stadiums and FIFA fan zones on Twitch and YouTube. This creator coverage isn\u2019t color on top of the main f\u2026",
-      "timestamp": "2026-07-14T04:36:08.672420Z",
+      "timestamp": "2026-07-14T07:00:04.566120Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Livestreaming creators offer new ways to broadcast sports to diverse audiences; this 2026 FIFA World Cup may be the new blueprint for leagues",
-      "timestamp": "2026-07-14T04:36:08.672516Z",
+      "timestamp": "2026-07-14T07:00:04.566165Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France take on Spain in the FIFA World Cup 2026 semi-final aiming for a third consecutive World Cup final, with Kylian Mbappe and Ousmane Dembele leading Les Bleus against Europe's champions.",
-      "timestamp": "2026-07-14T04:36:08.672584Z",
+      "timestamp": "2026-07-14T07:00:04.566197Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "For the first time, FIFA's top four teams\u2014France, Spain, England, and Argentina\u2014have reached the World Cup semifinals, promising historic matchups and intense competition for the ultimate prize.",
-      "timestamp": "2026-07-14T04:36:08.672675Z",
+      "timestamp": "2026-07-14T07:00:04.566241Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup featured the largest field of teams yet, featuring 48 teams compared to the 32 teams previously involved in the tournament. However, it sounds like further expansion could be in the cards. During a recent interview, FIFA President Gian\u2026",
-      "timestamp": "2026-07-14T04:36:08.672745Z",
+      "timestamp": "2026-07-14T07:00:04.566275Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England were forced to survive another gruelling battle at the 2026 FIFA World Cup as Thomas Tuchel\u2019s side secured a 2-1 extra-time quarter-final win over Norway on Saturday. In draining conditions in Miami, the Three Lions fell behind to\u00a0Andreas Schjelderup\u2018\u2026",
-      "timestamp": "2026-07-14T04:36:08.672855Z",
+      "timestamp": "2026-07-14T07:00:04.566316Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France and Spain will be clashing in the 2026 World Cup semifinals, with stars in every single line of the pitch. France and Spain have been drawn to clash in the 2026 World Cup semifinals, with only one nation advancing to the final at MetLife Stadium. The g\u2026",
-      "timestamp": "2026-07-14T04:36:08.672957Z",
+      "timestamp": "2026-07-14T07:00:04.566359Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A group of fans have been accused of directing racist remarks at the streamer during Argentina's 3-2 win over Cape Verde.",
-      "timestamp": "2026-07-14T04:36:08.673132Z",
+      "timestamp": "2026-07-14T07:00:04.566433Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup semifinals are here. Here's how FIFA ranks the final four teams.",
-      "timestamp": "2026-07-14T04:36:08.673199Z",
+      "timestamp": "2026-07-14T07:00:04.566459Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup semifinals are here. Here's how FIFA ranks the final four teams.",
-      "timestamp": "2026-07-14T04:36:08.673252Z",
+      "timestamp": "2026-07-14T07:00:04.566476Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +346,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Uruguay has appointed legendary former striker Diego Forlan as interim head coach of the national team following Marcelo Bielsa's resignation after La Celeste's disappointing group-stage exit at the 2026 FIFA World Cup.\nThe post Uruguay announce Diego Forlan \u2026",
-      "timestamp": "2026-07-14T04:36:08.673613Z",
+      "timestamp": "2026-07-14T07:00:04.566625Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +360,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Seven World Cup matches, then Gillette Stadium's grass was ripped out.",
-      "timestamp": "2026-07-14T04:36:08.673658Z",
+      "timestamp": "2026-07-14T07:00:04.566643Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Adrian Sousa from Rabona TV recaps an extraordinary night of extra-time quarterfinal drama as England and Argentina set up a monumental semifinal. The quarterfinal stage of the 2026 FIFA World Cup has delivered an absolutely legendary night of extra-time dram\u2026",
-      "timestamp": "2026-07-14T04:36:08.673719Z",
+      "timestamp": "2026-07-14T07:00:04.566670Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Another Albiceleste night, another night for Argentina. The reigning world champions booked their place in the 2026 FIFA World Cup semi-finals with a 3-1 extra-time victory over Switzerland after a ha...",
-      "timestamp": "2026-07-14T04:36:08.673816Z",
+      "timestamp": "2026-07-14T07:00:04.566712Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France defender Ibrahima Konate has brushed aside Lamine Yamal's bold pre-match comments as the reigning European champions prepare to face Spain in the 2026 FIFA World Cup semi-final on Tuesday.\nThe post \u2018Let him say whatever he wants\u2019 \u2013 Konate slams Yamal a\u2026",
-      "timestamp": "2026-07-14T04:36:08.673971Z",
+      "timestamp": "2026-07-14T07:00:04.566809Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Real Madrid is stepping in to help ensure that the 2030 World Cup final is held at the Santiago Bernab\u00e9u Stadium.Morocco, throughout this 2026 World Cup, has been trying to get FIFA to award them the...",
-      "timestamp": "2026-07-14T04:36:08.674034Z",
+      "timestamp": "2026-07-14T07:00:04.566850Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The collection includes real pieces of the grass at MetLife Stadium in New Jersey, where the 2026 World Cup final will be played",
-      "timestamp": "2026-07-14T04:36:08.674113Z",
+      "timestamp": "2026-07-14T07:00:04.566896Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After Norway's World Cup elimination against England, Elring Haaland's father Alfie hit out at the referee Clement Turpin. Erling Haaland\u2018s 2026 World Cup run came to an end in the quarterfinals as England secured their place in the semifinals. In the heated \u2026",
-      "timestamp": "2026-07-14T04:36:08.674175Z",
+      "timestamp": "2026-07-14T07:00:04.566930Z",
       "links": [
         {
           "label": "Source",
@@ -388,100 +458,91 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England and Argentina renew their longstanding football rivalry with a World Cup final place at stake.",
-      "timestamp": "2026-07-14T04:36:08.674284Z",
+      "timestamp": "2026-07-14T07:00:04.567016Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.aljazeera.com/sports/2026/7/12/fifa-world-cup-england-vs-argentina-historic-rivalry-greatest-moments-semifinal"
         }
       ]
-    },
-    {
-      "title": "PREVIEW | France vs Spain: team news, lineups, predictions (World Cup 14/07)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "France and Spain clash this Tuesday at the AT&T Stadium for a match of the semi-finals of the World Cup.In their last game, France won 2-0 against Morocco (World Cup 2026). In their last match, Spain ...",
-      "timestamp": "2026-07-14T04:36:08.674402Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.playmakerstats.com/news/preview-france-vs-spain-team-news-lineups-predictions-world-cup-14-07/1156331"
-        }
-      ]
-    },
-    {
-      "title": "Jayden Adams\u2019 Partner Speaks Out After Soccer Player\u2019s Sudden Death at 25: \u2018There Are No Words to Describe the Pain\u2019",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Adams recently represented South Africa at the 2026 World Cup",
-      "timestamp": "2026-07-14T04:36:08.674476Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://people.com/jayden-adams-partner-speaks-out-after-soccer-player-death-12016744"
-        }
-      ]
-    },
-    {
-      "title": "2026 FIFA World Cup Metal Keychain for from $8 + free shipping w/ Prime",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Amazon offers this 2026 FIFA World Cup Metal Keychain from $7.98.\u00a0 That's a savings of up to $5.\u00a0 Shipping is free for Prime members. Buy Now at Amazon",
-      "timestamp": "2026-07-14T04:36:08.674542Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/2026-FIFA-World-Cup-Metal-Keychain-for-from-8-free-shipping-w-Prime/21897135.html"
-        }
-      ]
-    },
-    {
-      "title": " CBF sends message to Brazilian fans over the hunt for hexa, watch",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Brazilian Football Confederation (CBF) released a video this Sunday (12) about the elimination from the 2026 FIFA World Cup.\"Believe it. Let the new cycle begin,\" CBF says, referring to the pursui...",
-      "timestamp": "2026-07-14T04:36:08.674633Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/cbf-sends-message-to-brazilian-fans-over-the-hunt-for-hexa-watch-43130429"
-        }
-      ]
-    },
-    {
-      "title": "Erling Haaland Partied At Miami Nightclub After Heartbreaking Loss To England",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Erling Haaland was still in a good mood despite suffering a heartbreaking loss in the World Cup. On Saturday, Haaland and Norway were eliminated after losing to England 2-1 at Hard Rock Stadium in Miami. During his postgame press conference, Haaland reflected\u2026",
-      "timestamp": "2026-07-14T04:36:08.674783Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://brobible.com/sports/article/erling-haaland-partied-at-miami-nightclub-after-heartbreaking-loss-to-england/"
-        }
-      ]
-    },
-    {
-      "title": "Every football legend Jude Bellingham has now scored more World Cup goals than",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Jude Bellingham might just drag England kicking and screaming to FIFA World Cup 2026 glory. To describe England as a one-man team when Harry Kane is around would clearly be unfair.",
-      "timestamp": "2026-07-14T04:36:08.675050Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/every-football-legend-jude-bellingham-has-now-scored-more-world-cup-goals-than/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "FIFA World Cup: Which semifinal team has best chance to win the trophy?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/13/fifa-world-cup-which-semifinal-team-has-best-chance-to-win-the-trophy"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "'We fear no one': Konate says before Spain World Cup clash",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/fifa-wc-2026-preview-france-do-not-fear-spain-but-respect-their-quality-players-say/20260713.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "2026 FIFA World Cup Golden Boot race: Kylian Mbappe takes lead over Lionel Messi",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5f5dd4de-8b6e-4519-9c09-d571ac586041"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "2026 FIFA World Cup Golden Boot race: Kylian Mbappe takes lead over Lionel Messi",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/13/sports/2026-fifa-world-cup-golden-boot-race-kylian-mbappe-leads-lionel-messi/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "Messi eyes England first as Argentina chase WC final berth",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/fifa-wc-2026-messis-missing-rival-argentina-captain-finally-faces-england-at-world-cup/20260713.htm"
+        }
+      ]
+    },
     {
       "date": "Jul 14",
       "loc": "Global",
@@ -766,97 +827,7 @@
           "url": "https://www.aljazeera.com/sports/2026/7/12/fifa-world-cup-england-vs-argentina-historic-rivalry-greatest-moments-semifinal"
         }
       ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "PREVIEW | France vs Spain: team news, lineups, predictions (World Cup 14/07)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.playmakerstats.com/news/preview-france-vs-spain-team-news-lineups-predictions-world-cup-14-07/1156331"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "Jayden Adams\u2019 Partner Speaks Out After Soccer Player\u2019s Sudden Death at 25: \u2018There Are No Words to Describe the Pain\u2019",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://people.com/jayden-adams-partner-speaks-out-after-soccer-player-death-12016744"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "2026 FIFA World Cup Metal Keychain for from $8 + free shipping w/ Prime",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/2026-FIFA-World-Cup-Metal-Keychain-for-from-8-free-shipping-w-Prime/21897135.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": " CBF sends message to Brazilian fans over the hunt for hexa, watch",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/cbf-sends-message-to-brazilian-fans-over-the-hunt-for-hexa-watch-43130429"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Miami",
-      "event": "Erling Haaland Partied At Miami Nightclub After Heartbreaking Loss To England",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://brobible.com/sports/article/erling-haaland-partied-at-miami-nightclub-after-heartbreaking-loss-to-england/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "Every football legend Jude Bellingham has now scored more World Cup goals than",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/every-football-legend-jude-bellingham-has-now-scored-more-world-cup-goals-than/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-14T04:36:08.675282Z"
+  "lastUpdated": "2026-07-14T07:00:04.567192Z"
 }
