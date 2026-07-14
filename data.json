@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 1,
     "p2": 2,
-    "p3": 25
+    "p3": 24
   },
   "watchlist": [
     {
@@ -131,12 +131,54 @@
   ],
   "risks": [
     {
+      "title": "FIFA Investigates Alleged Racist Abuse of IShowSpeed at 2026 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "A group of fans have been accused of directing racist remarks at the streamer during Argentina's 3-2 win over Cape Verde.",
+      "timestamp": "2026-07-14T01:08:20.620517Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.complex.com/sports/a/alex-ocho/fifa-ishowspeed-racist-abuse-world-cup-investigation"
+        }
+      ]
+    },
+    {
+      "title": "The final remaining World Cup semifinal teams as ranked by FIFA",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup semifinals are here. Here's how FIFA ranks the final four teams.",
+      "timestamp": "2026-07-14T01:08:20.620572Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.detroitnews.com/story/sports/soccer/2026/07/12/fifa-rankings-world-cup-semifinals-teams-france-spain-england-argentina/90896551007/"
+        }
+      ]
+    },
+    {
+      "title": "The final remaining World Cup semifinal teams as ranked by FIFA",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup semifinals are here. Here's how FIFA ranks the final four teams.",
+      "timestamp": "2026-07-14T01:08:20.620602Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/12/fifa-rankings-world-cup-semifinals-teams-france-spain-england-argentina/90895677007/"
+        }
+      ]
+    },
+    {
       "title": "Uruguay announce Diego Forlan as new coach",
       "risk": "medium",
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Uruguay has appointed legendary former striker Diego Forlan as interim head coach of the national team following Marcelo Bielsa's resignation after La Celeste's disappointing group-stage exit at the 2026 FIFA World Cup.\nThe post Uruguay announce Diego Forlan \u2026",
-      "timestamp": "2026-07-13T23:39:12.768589Z",
+      "timestamp": "2026-07-14T01:08:20.620806Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +192,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Seven World Cup matches, then Gillette Stadium's grass was ripped out.",
-      "timestamp": "2026-07-13T23:39:12.768650Z",
+      "timestamp": "2026-07-14T01:08:20.620828Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Adrian Sousa from Rabona TV recaps an extraordinary night of extra-time quarterfinal drama as England and Argentina set up a monumental semifinal. The quarterfinal stage of the 2026 FIFA World Cup has delivered an absolutely legendary night of extra-time dram\u2026",
-      "timestamp": "2026-07-13T23:39:12.768689Z",
+      "timestamp": "2026-07-14T01:08:20.620859Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Another Albiceleste night, another night for Argentina. The reigning world champions booked their place in the 2026 FIFA World Cup semi-finals with a 3-1 extra-time victory over Switzerland after a ha...",
-      "timestamp": "2026-07-13T23:39:12.768746Z",
+      "timestamp": "2026-07-14T01:08:20.620911Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France defender Ibrahima Konate has brushed aside Lamine Yamal's bold pre-match comments as the reigning European champions prepare to face Spain in the 2026 FIFA World Cup semi-final on Tuesday.\nThe post \u2018Let him say whatever he wants\u2019 \u2013 Konate slams Yamal a\u2026",
-      "timestamp": "2026-07-13T23:39:12.768867Z",
+      "timestamp": "2026-07-14T01:08:20.621028Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Real Madrid is stepping in to help ensure that the 2030 World Cup final is held at the Santiago Bernab\u00e9u Stadium.Morocco, throughout this 2026 World Cup, has been trying to get FIFA to award them the...",
-      "timestamp": "2026-07-13T23:39:12.768924Z",
+      "timestamp": "2026-07-14T01:08:20.621076Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The collection includes real pieces of the grass at MetLife Stadium in New Jersey, where the 2026 World Cup final will be played",
-      "timestamp": "2026-07-13T23:39:12.768995Z",
+      "timestamp": "2026-07-14T01:08:20.621138Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After Norway's World Cup elimination against England, Elring Haaland's father Alfie hit out at the referee Clement Turpin. Erling Haaland\u2018s 2026 World Cup run came to an end in the quarterfinals as England secured their place in the semifinals. In the heated \u2026",
-      "timestamp": "2026-07-13T23:39:12.769038Z",
+      "timestamp": "2026-07-14T01:08:20.621182Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England and Argentina renew their longstanding football rivalry with a World Cup final place at stake.",
-      "timestamp": "2026-07-13T23:39:12.769105Z",
+      "timestamp": "2026-07-14T01:08:20.621242Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France and Spain clash this Tuesday at the AT&T Stadium for a match of the semi-finals of the World Cup.In their last game, France won 2-0 against Morocco (World Cup 2026). In their last match, Spain ...",
-      "timestamp": "2026-07-13T23:39:12.769206Z",
+      "timestamp": "2026-07-14T01:08:20.621337Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Adams recently represented South Africa at the 2026 World Cup",
-      "timestamp": "2026-07-13T23:39:12.769268Z",
+      "timestamp": "2026-07-14T01:08:20.621395Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Amazon offers this 2026 FIFA World Cup Metal Keychain from $7.98.\u00a0 That's a savings of up to $5.\u00a0 Shipping is free for Prime members. Buy Now at Amazon",
-      "timestamp": "2026-07-13T23:39:12.769321Z",
+      "timestamp": "2026-07-14T01:08:20.621446Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Brazilian Football Confederation (CBF) released a video this Sunday (12) about the elimination from the 2026 FIFA World Cup.\"Believe it. Let the new cycle begin,\" CBF says, referring to the pursui...",
-      "timestamp": "2026-07-13T23:39:12.769398Z",
+      "timestamp": "2026-07-14T01:08:20.621515Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Erling Haaland was still in a good mood despite suffering a heartbreaking loss in the World Cup. On Saturday, Haaland and Norway were eliminated after losing to England 2-1 at Hard Rock Stadium in Miami. During his postgame press conference, Haaland reflected\u2026",
-      "timestamp": "2026-07-13T23:39:12.769534Z",
+      "timestamp": "2026-07-14T01:08:20.621628Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jude Bellingham might just drag England kicking and screaming to FIFA World Cup 2026 glory. To describe England as a one-man team when Harry Kane is around would clearly be unfair.",
-      "timestamp": "2026-07-13T23:39:12.769683Z",
+      "timestamp": "2026-07-14T01:08:20.621780Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Al Jazeera\u2019s Basel Ghazoghli has your #FIFAworldcup26 day 31 recap, as England and Argentina reach the semi-finals.",
-      "timestamp": "2026-07-13T23:39:12.769751Z",
+      "timestamp": "2026-07-14T01:08:20.621845Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Reflecting on Norway's exit from the World Cup, Erling Haaland described the experience as transformative. He felt an overwhelming pride in representing his country at such a prestigious level. Although the team faced a quarter-final loss, their journey marke\u2026",
-      "timestamp": "2026-07-13T23:39:12.769818Z",
+      "timestamp": "2026-07-14T01:08:20.621905Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +416,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "The grass used for the World Cup at Gillette Stadium has been removed to be replaced with turf. Images of the change are now circulating social media. The move reignites debate surrounding NFL playing surfaces and player safety. Is grass better than turf? Res\u2026",
-      "timestamp": "2026-07-13T23:39:12.769848Z",
+      "timestamp": "2026-07-14T01:08:20.621963Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The alignment of semifinalists with global rankings underscores the effectiveness of the expanded format in maintaining competitive integrity.\nThe post FIFA World Cup 2026 semifinalists perfectly mirror global rankings for first time ever appeared first on Cr\u2026",
-      "timestamp": "2026-07-13T23:39:12.769910Z",
+      "timestamp": "2026-07-14T01:08:20.622016Z",
       "links": [
         {
           "label": "Source",
@@ -402,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "For three days, the Official Los Angeles World Cup Fan Zone transformed one of the world\u2019s most iconic beachfront destinations into an international gathering place.",
-      "timestamp": "2026-07-13T23:39:12.769940Z",
+      "timestamp": "2026-07-14T01:08:20.622065Z",
       "links": [
         {
           "label": "Source",
@@ -416,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The World Cup brought many visitors to Canada, which put public health authorities on alert for contagious illnesses. It\u2019s crucial that Canada remain committed to infectious disease preparedness.",
-      "timestamp": "2026-07-13T23:39:12.769987Z",
+      "timestamp": "2026-07-14T01:08:20.622139Z",
       "links": [
         {
           "label": "Source",
@@ -430,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The World Cup brought many visitors to Canada, which put public health authorities on alert for contagious illnesses. It\u2019s crucial that Canada remain committed to infectious disease preparedness.",
-      "timestamp": "2026-07-13T23:39:12.770015Z",
+      "timestamp": "2026-07-14T01:08:20.622169Z",
       "links": [
         {
           "label": "Source",
@@ -444,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA has confirmed that France captain Kylian Mbapp\u00e9 currently holds the advantage over Argentina skipper Lionel Messi in the race for the Golden Boot at the 2026 FIFA World Cup.\nThe post 2026 World Cup: FIFA issues Golden Boot update as Mbappe, Messi chase a\u2026",
-      "timestamp": "2026-07-13T23:39:12.770046Z",
+      "timestamp": "2026-07-14T01:08:20.622222Z",
       "links": [
         {
           "label": "Source",
@@ -458,74 +500,63 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A study of over 6,000 posts by European football associations demonstrates that communities react very differently, depending on the type of diversity up for debate.",
-      "timestamp": "2026-07-13T23:39:12.770096Z",
+      "timestamp": "2026-07-14T01:08:20.622303Z",
       "links": [
         {
           "label": "Source",
           "url": "https://theconversation.com/world-cup-2026-how-are-posts-on-diversity-and-inclusion-being-received-on-social-media-287259"
         }
       ]
-    },
-    {
-      "title": "FIFA World Cup 2026: Norwegian Air changes Instagram logo to British Airways after WC exit",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Norwegian Air has honoured its social media wager with British Airways by changing its Instagram profile picture to the British carrier's logo for 24 hours after England defeated Norway 2-1 in their World Cup quarter-final on Saturday.",
-      "timestamp": "2026-07-13T23:39:12.770271Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-norwegian-air-changes-instagram-logo-to-british-airways-after-wc-exit/articleshow/132347570.cms"
-        }
-      ]
-    },
-    {
-      "title": "Top 5 Forwards at World Cup 2026: Mbappe, Messi Lead Tight Golden Boot Race Heading Into Semifinals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup Golden Boot race is a close contest, with Kylian Mbapp\u00e9 and Lionel Messi leading the pack. Both players have eight goals, with assists potentially deciding the winner.",
-      "timestamp": "2026-07-13T23:39:12.770333Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ibtimes.com.au/2026-world-cup-golden-boot-race-1872163"
-        }
-      ]
-    },
-    {
-      "title": "Jude Bellingham defends England\u2019s performance after manager Thomas Tuchel rips team",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England held off Norway 2-1 in extra time in the 2026 FIFA World Cup quarterfinals on Saturday at Hard Rock Stadium in Miami. But after the match, England manager Thomas Tuchel was very critical of the team\u2019s performance in a heated postgame interview with IT\u2026",
-      "timestamp": "2026-07-13T23:39:12.770363Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/england-thomas-tuchel-criticizes-team-jude-bellingham-defends-players.html"
-        }
-      ]
-    },
-    {
-      "title": "2026 FIFA World Cup Quarterfinal Awards",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Kylian Mbapp\u00e9 and France shine, but who else deserves recognition from their quarterfinals performance?",
-      "timestamp": "2026-07-13T23:39:12.770384Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bavarianfootballworks.com/germany-international-soccer/229718/fifa-world-cup-france-morocco-spain-belgium-england-norway-argentina-switzerland-quarterfinals-position-awards-bayern-munich"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "FIFA Investigates Alleged Racist Abuse of IShowSpeed at 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.complex.com/sports/a/alex-ocho/fifa-ishowspeed-racist-abuse-world-cup-investigation"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "The final remaining World Cup semifinal teams as ranked by FIFA",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.detroitnews.com/story/sports/soccer/2026/07/12/fifa-rankings-world-cup-semifinals-teams-france-spain-england-argentina/90896551007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "The final remaining World Cup semifinal teams as ranked by FIFA",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/12/fifa-rankings-world-cup-semifinals-teams-france-spain-england-argentina/90895677007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
       "loc": "Global",
       "event": "Uruguay announce Diego Forlan as new coach",
       "type": "News",
@@ -540,7 +571,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Boston",
       "event": "NFLPA protests as Gillette Stadium trades World Cup grass for turf",
       "type": "News",
@@ -555,7 +586,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Global",
       "event": "World Cup Daily Recap: Bellingham Drags England Past Norway; Argentina Outlasts Switzerland",
       "type": "News",
@@ -570,7 +601,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Global",
       "event": "Lautaro scores, Argentina in the semi-finals",
       "type": "News",
@@ -585,7 +616,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Global",
       "event": "\u2018Let him say whatever he wants\u2019 \u2013 Konate slams Yamal ahead of Spain clash",
       "type": "News",
@@ -600,7 +631,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Global",
       "event": "Real Madrid broker 2030 World Cup final talks",
       "type": "News",
@@ -615,7 +646,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "New York / New Jersey",
       "event": "2026 World Cup: FIFA Is Selling Pieces of the Grass From the World Cup Final Field! How Much Do They Cost and How to Buy Them",
       "type": "News",
@@ -630,7 +661,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Global",
       "event": "Erling Haaland\u2019s father Alfie hits out at referee after Norway\u2019s World Cup elimination against England",
       "type": "News",
@@ -645,7 +676,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Global",
       "event": "England vs Argentina: Greatest moments before FIFA World Cup semifinal",
       "type": "News",
@@ -660,7 +691,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Global",
       "event": "PREVIEW | France vs Spain: team news, lineups, predictions (World Cup 14/07)",
       "type": "News",
@@ -675,7 +706,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Global",
       "event": "Jayden Adams\u2019 Partner Speaks Out After Soccer Player\u2019s Sudden Death at 25: \u2018There Are No Words to Describe the Pain\u2019",
       "type": "News",
@@ -690,7 +721,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Global",
       "event": "2026 FIFA World Cup Metal Keychain for from $8 + free shipping w/ Prime",
       "type": "News",
@@ -705,7 +736,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Global",
       "event": " CBF sends message to Brazilian fans over the hunt for hexa, watch",
       "type": "News",
@@ -720,7 +751,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Miami",
       "event": "Erling Haaland Partied At Miami Nightclub After Heartbreaking Loss To England",
       "type": "News",
@@ -735,7 +766,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Global",
       "event": "Every football legend Jude Bellingham has now scored more World Cup goals than",
       "type": "News",
@@ -750,7 +781,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Global",
       "event": "FIFA World Cup 2026: Day 31",
       "type": "News",
@@ -765,7 +796,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Global",
       "event": "FIFA World Cup 2026: 'Changed me as a person', Haaland reflects on Norway's WC journey after exit",
       "type": "News",
@@ -780,7 +811,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Boston",
       "event": "Patriots Reject Safety Concerns To Rip Out Natural Grass At Gillette Stadium After World Cup",
       "type": "News",
@@ -795,7 +826,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Global",
       "event": "FIFA World Cup 2026 semifinalists perfectly mirror global rankings for first time ever",
       "type": "News",
@@ -810,7 +841,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Global",
       "event": "Venice Beach\u2019s World Cup moment with Fan Zone signals new chapter for businesses, LA28 Olympics",
       "type": "News",
@@ -825,7 +856,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Global",
       "event": "How Canada\u2019s vaccine infrastructure has helped guard against infectious disease during the FIFA World Cup",
       "type": "News",
@@ -840,7 +871,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Global",
       "event": "How Canada\u2019s vaccine infrastructure helped guard against infectious disease during the FIFA World Cup",
       "type": "News",
@@ -855,7 +886,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Global",
       "event": "2026 World Cup: FIFA issues Golden Boot update as Mbappe, Messi chase award",
       "type": "News",
@@ -870,7 +901,7 @@
       ]
     },
     {
-      "date": "Jul 13",
+      "date": "Jul 14",
       "loc": "Global",
       "event": "World Cup 2026: how are posts on diversity and inclusion being received on social media?",
       "type": "News",
@@ -883,67 +914,7 @@
           "url": "https://theconversation.com/world-cup-2026-how-are-posts-on-diversity-and-inclusion-being-received-on-social-media-287259"
         }
       ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026: Norwegian Air changes Instagram logo to British Airways after WC exit",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-norwegian-air-changes-instagram-logo-to-british-airways-after-wc-exit/articleshow/132347570.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "Top 5 Forwards at World Cup 2026: Mbappe, Messi Lead Tight Golden Boot Race Heading Into Semifinals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ibtimes.com.au/2026-world-cup-golden-boot-race-1872163"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Miami",
-      "event": "Jude Bellingham defends England\u2019s performance after manager Thomas Tuchel rips team",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/england-thomas-tuchel-criticizes-team-jude-bellingham-defends-players.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 13",
-      "loc": "Global",
-      "event": "2026 FIFA World Cup Quarterfinal Awards",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bavarianfootballworks.com/germany-international-soccer/229718/fifa-world-cup-france-morocco-spain-belgium-england-norway-argentina-switzerland-quarterfinals-position-awards-bayern-munich"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-13T23:39:12.770733Z"
+  "lastUpdated": "2026-07-14T01:08:20.622508Z"
 }
