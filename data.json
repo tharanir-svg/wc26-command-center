@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 1,
-    "p2": 2,
-    "p3": 28
+    "p2": 0,
+    "p3": 29
   },
   "watchlist": [
     {
@@ -131,12 +131,110 @@
   ],
   "risks": [
     {
+      "title": "Yamal And Mbapp\u00e9 Headline Blockbuster Semifinal: What To Know For France vs. Spain",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Here is everything you need to know for Tuesday at the 2026 FIFA World Cup.",
+      "timestamp": "2026-07-14T20:03:56.542172Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/yamal-mbappe-headline-blockbuster-semifinal-what-know-france-vs-spain"
+        }
+      ]
+    },
+    {
+      "title": "The Problem With VAR at the 2026 World Cup Isn\u2019t the Technology\u2014It\u2019s Who Interprets It",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The video assistant referee system, or VAR, has led to some controversial calls at the 2026 World Cup. Here\u2019s why.",
+      "timestamp": "2026-07-14T20:03:56.542224Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.wired.com/story/the-problem-with-var-at-the-2026-world-cup-isnt-the-technology-its-who-interprets-it/"
+        }
+      ]
+    },
+    {
+      "title": "David Beckham's World Cup Tudor Watch Was All About the Heritage",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "David Beckham sported one of Tudor's new models, the Black Bay 54 'Blue, at the World Cup 2026quarter-final, England v Norway.",
+      "timestamp": "2026-07-14T20:03:56.542302Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.esquire.com/style/mens-accessories/a71921355/david-beckham-world-cup-tudor-watch-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Shakira y Burna Boy lideran las listas globales con \"Dai Dai\"",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "\u201cDai Dai (FIFA World Cup Official Song 2026)\u201d de Shakira y Burna Boy llega al No. 1 de la lista Billboard Global 200.",
+      "timestamp": "2026-07-14T20:03:56.542391Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.billboard.com/espanol/noticias/shakira-burna-boy-dai-dai-no-1-global-copa-mundial-1236293343/"
+        }
+      ]
+    },
+    {
+      "title": "All 5 Times Lamine Yamal Has Beaten Kylian Mbapp\u00e9 In Elimination Matches",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lamine Yamal might have a mental advantage over Kylian Mbapp\u00e9 going into their meeting in the 2026 FIFA World Cup semifinals.",
+      "timestamp": "2026-07-14T20:03:56.542439Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/all-5-times-lamine-yamal-has-beaten-kylian-mbappe-elimination-matches"
+        }
+      ]
+    },
+    {
+      "title": "PREVIEW | England vs Argentina: team news, lineups, predictions (World Cup 15/07)",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England and Argentina clash this Wednesday at the Mercedes-Benz Stadium for a match of the semi-finals of the World Cup. The match will be broadcast live at 20:00 on BBC One.In their last game, Englan...",
+      "timestamp": "2026-07-14T20:03:56.542466Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.playmakerstats.com/news/preview-england-vs-argentina-team-news-lineups-predictions-world-cup-15-07/1156721"
+        }
+      ]
+    },
+    {
+      "title": "Donald Trump advisor declares favorite for World Cup glory ahead of semifinals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "White House advisor Andrew Giuliani has opened up on who he hopes will win the FIFA World Cup, ahead of the highly-anticipated semifinals",
+      "timestamp": "2026-07-14T20:03:56.542572Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/trump-giuliani-world-cup-favorites-1934924"
+        }
+      ]
+    },
+    {
       "title": "Dutch referee dies aged 38 weeks after being dropped from World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Dutch football referee Rob Dieperink has died at the age of 38, just weeks after he was removed from FIFA's list of match officials for the 2026 World Cup following a police investigation in the United Kingdom that was later dropped.\nThe post Dutch referee di\u2026",
-      "timestamp": "2026-07-14T18:56:07.465253Z",
+      "timestamp": "2026-07-14T20:03:56.542624Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Shakira and Burna Boy\u2019s \u201cDai Dai (FIFA World Cup Official Song 2026)\u201d hits No. 1 on the Billboard Global 200 chart.",
-      "timestamp": "2026-07-14T18:56:07.465301Z",
+      "timestamp": "2026-07-14T20:03:56.542648Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Football's 2026 World Cup has been full of controversies - Al Jazeera breaks down the five most significant.",
-      "timestamp": "2026-07-14T18:56:07.465325Z",
+      "timestamp": "2026-07-14T20:03:56.542666Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "EXCLUSIVE: A Folarin Balogun brace helped the U.S. Men\u2019s National Soccer Team kick off their 2026 World Cup in style with a 4-1 win over Paraguay. This was followed by a 2-0 win over Australia and despite losing 3-2 to Turkey in their final group game, the te\u2026",
-      "timestamp": "2026-07-14T18:56:07.465359Z",
+      "timestamp": "2026-07-14T20:03:56.542703Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "EXCLUSIVE: A Folarin Balogun brace helped the U.S. Men\u2019s National Soccer Team kick off their 2026 World Cup in style with a 4-1 win over Paraguay. This was followed by a 2-0 win over Australia and despite losing 3-2 to Turkey in their final group game, the te\u2026",
-      "timestamp": "2026-07-14T18:56:07.465386Z",
+      "timestamp": "2026-07-14T20:03:56.542726Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's how to watch the France vs. Spain semifinal match at the World Cup.",
-      "timestamp": "2026-07-14T18:56:07.465445Z",
+      "timestamp": "2026-07-14T20:03:56.542776Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With just four teams remaining, every Fantasy decision becomes magnified. The semi-finals not only determine who reaches the World Cup final, but they also shape the final stretch of the Fantasy FIFA World Cup game. At this stage, there are no easy fixtures, \u2026",
-      "timestamp": "2026-07-14T18:56:07.465504Z",
+      "timestamp": "2026-07-14T20:03:56.542834Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA announced the Piece of the Pitch collection, in which fans can buy part of the playing surface from the World Cup final at MetLife Stadium.",
-      "timestamp": "2026-07-14T18:56:07.465523Z",
+      "timestamp": "2026-07-14T20:03:56.542853Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "We are down to the final four teams of the 2026 FIFA World Cup co-hosted by the United States, Canada, and Mexico. The semi-final landscape presents an absolute dream lineup of global heavyweights: France, Spain, England, and Argentina. France boasts the shar\u2026",
-      "timestamp": "2026-07-14T18:56:07.465552Z",
+      "timestamp": "2026-07-14T20:03:56.542882Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The powerhouse clubs meet at Dallas' AT&T Stadium on Tuesday, July 14.",
-      "timestamp": "2026-07-14T18:56:07.465607Z",
+      "timestamp": "2026-07-14T20:03:56.542934Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The United States opened its 2026 World Cup campaign with a 4-1 victory over Paraguay in front of 70,000 fans at SoFi Stadium. Within hours, Google Trends data revealed an unprecedented spike in searc...",
-      "timestamp": "2026-07-14T18:56:07.465752Z",
+      "timestamp": "2026-07-14T20:03:56.543056Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France and Spain will meet in Dallas, Texas for the first semifinal on Tuesday while Argentina and England will be here in Atlanta for their semifinal match.",
-      "timestamp": "2026-07-14T18:56:07.465775Z",
+      "timestamp": "2026-07-14T20:03:56.543077Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England and Argentina will play for a spot in the World Cup final. Tickets are pricey but still available from StubHub and Vivid Seats.",
-      "timestamp": "2026-07-14T18:56:07.465821Z",
+      "timestamp": "2026-07-14T20:03:56.543122Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Semifinal ticket prices for the 2026 World Cup show a significant disparity. France versus Spain tickets are priced at $1,325, reflecting a recent decline. Argentina's match against England in Atlanta is listed at $2,841, showing a rise. This Argentina game i\u2026",
-      "timestamp": "2026-07-14T18:56:07.465882Z",
+      "timestamp": "2026-07-14T20:03:56.543186Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France and Spain are ready to battle for a spot in the 2026 World Cup final when they meet at AT&T Stadium in Arlington, Texas on Tuesday, July 14.",
-      "timestamp": "2026-07-14T18:56:07.465913Z",
+      "timestamp": "2026-07-14T20:03:56.543217Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Four matches remain in the 2026 FIFA World Cup and tickets are still available, both through FIFA and resale sites.",
-      "timestamp": "2026-07-14T18:56:07.466020Z",
+      "timestamp": "2026-07-14T20:03:56.543324Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +458,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "Former Patriots wide receiver Julian Edelman had the perfect comparison for Norway's Erling Haaland.",
-      "timestamp": "2026-07-14T18:56:07.466040Z",
+      "timestamp": "2026-07-14T20:03:56.543340Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup is drawing to a close. Down to the semifinals, the tournament has already produced lasting memories and unforgettable stories, both good and bad.There are no surprises in the f...",
-      "timestamp": "2026-07-14T18:56:07.466079Z",
+      "timestamp": "2026-07-14T20:03:56.543393Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FOX Sports will blanket the Semifinals with on-site studio coverage featuring analysts and icons of the beautiful game Alexi Lalas, Thierry Henry and Zlatan Ibrahimovic alongside host Rebecca Lowe at both matches.",
-      "timestamp": "2026-07-14T18:56:07.466157Z",
+      "timestamp": "2026-07-14T20:03:56.543473Z",
       "links": [
         {
           "label": "Source",
@@ -402,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Police have opened an investigation into the passing of 25-year-old South Africa midfielder Jayden Adams, who was found dead just two weeks after representing his country at the FIFA World Cup",
-      "timestamp": "2026-07-14T18:56:07.466225Z",
+      "timestamp": "2026-07-14T20:03:56.543541Z",
       "links": [
         {
           "label": "Source",
@@ -416,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "SportsLine's Martin Green reveals his picks for Lionel Messi and Argentina versus Harry Kane and England in the World Cup 2026 on Wednesday",
-      "timestamp": "2026-07-14T18:56:07.466270Z",
+      "timestamp": "2026-07-14T20:03:56.543586Z",
       "links": [
         {
           "label": "Source",
@@ -430,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup had some major drama injected into its round of 16 when FIFA reinstated the USMNT\u2019s leading goal scorer in the tournament, Folarin Balogun, despite his being assessed a red card in the round of 32, which usually warrants a one-game sus\u2026",
-      "timestamp": "2026-07-14T18:56:07.466374Z",
+      "timestamp": "2026-07-14T20:03:56.543693Z",
       "links": [
         {
           "label": "Source",
@@ -444,128 +542,121 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Slaven Bilic has been appointed as the new head coach of the Croatia national team. He takes charge after Zlatko Dalic stepped down following the FIFA World Cup exit. Bilic returns to international management after a two-year hiatus from coaching. Dalic's nin\u2026",
-      "timestamp": "2026-07-14T18:56:07.466525Z",
+      "timestamp": "2026-07-14T20:03:56.543929Z",
       "links": [
         {
           "label": "Source",
           "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-slaven-bilic-appointed-croatias-new-head-coach/articleshow/132370586.cms"
         }
       ]
-    },
-    {
-      "title": "Erling Haaland Says Goodbye to the U.S. After \u2018Emotional\u2019 World Cup Run with Norway",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Norway was knocked out of the 2026 FIFA World Cup by England on Saturday, July 11",
-      "timestamp": "2026-07-14T18:56:07.466617Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://people.com/erling-haaland-says-goodbye-to-us-after-emotional-world-cup-run-12016901"
-        }
-      ]
-    },
-    {
-      "title": "Folarin Balogun World Cup Red Card Scandal Takes New Twist Thanks To Rogue FIFA Official",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The\u00a0U.S. Men\u2019s National Team\u00a0has long-since been eliminated from the\u00a02026 FIFA World Cup\u00a0after crashing out in the round of 16 to Belgium, 4-1. However, even one week later, there\u2019s still plenty of talk surrounding FIFA\u2019s controversial decision to rescind the\u2026",
-      "timestamp": "2026-07-14T18:56:07.466668Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://brobible.com/sports/article/folarin-balogun-world-cup-red-card-scandal-takes-new-twist-thanks-to-rogue-fifa-official/"
-        }
-      ]
-    },
-    {
-      "title": "Ranking the four possible World Cup finals at MetLife Stadium",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "With four teams left in Argentina, France, Spain and England, we rank every possible World Cup final matchup at MetLife Stadium.",
-      "timestamp": "2026-07-14T18:56:07.466710Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/13/world-cup-finals-ranking-argentina-france-spain-england/90899698007/"
-        }
-      ]
-    },
-    {
-      "title": "Why I didn\u2019t pass to Haaland \u2014 Norway\u2019s Sorloth speaks out as death threats escalate",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "Norway striker Alexander Sorloth has become the latest player to face online abuse at the 2026 FIFA World Cup, receiving messages urging him to take his own life after his country's quarter-final defeat to England, according to Reuters.\nThe post Why I didn\u2019t \u2026",
-      "timestamp": "2026-07-14T18:56:07.466745Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/why-i-didnt-pass-to-haaland-norways-sorloth-speaks-out-as-death-threats-escalate/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup semifinals. Who made final 4 teams, schedule, odds",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "France, Spain, England and Argentina, the top four teams in the FIFA world rankings, are the last four teams still alive at the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-14T18:56:07.466805Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.elpasotimes.com/story/sports/soccer/2026/07/13/world-cup-semifinals-set-with-top-4-teams-odds-schedule/90900545007/"
-        }
-      ]
-    },
-    {
-      "title": "AI-generated video does not show South African flag bearer tripping during World Cup opening ceremony",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "Thousands of foreign nationals have been repatriated from South Africa in response to protests by locals calling for the expulsion of undocumented migrants. After South Africa lost its opening match at the 2026 FIFA World Cup, social media users mocked the na\u2026",
-      "timestamp": "2026-07-14T18:56:07.466854Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/ai-generated-video-does-not-150053398.html"
-        }
-      ]
-    },
-    {
-      "title": "Ogilvy Kicks Off 'Thanks World,' Major League Soccer's Largest Marketing Campaign",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Creative debuts during Fox's coverage of the FIFA World Cup semifinal and final matches.",
-      "timestamp": "2026-07-14T18:56:07.466898Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.mediapost.com/publications/article/416468/ogilvy-kicks-off-thanks-world-major-league-socc.html"
-        }
-      ]
-    },
-    {
-      "title": "Argentina's media convinced Jude Bellingham is INJURED as new footage emerges of England star grimacing in pain from his heavily-scarred shoulder",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "New footage released today shows the Three Lions ace clutching his shoulder and grimacing while walking through the mixed zone post-match at the Hard Rock Stadium on Saturday.",
-      "timestamp": "2026-07-14T18:56:07.466974Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15973881/Argentinas-media-convinced-Jude-Bellingham-INJURED-new-footage-emerges-England-star-grimacing-pain-heavily-scarred-shoulder.html"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "Yamal And Mbapp\u00e9 Headline Blockbuster Semifinal: What To Know For France vs. Spain",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/yamal-mbappe-headline-blockbuster-semifinal-what-know-france-vs-spain"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "The Problem With VAR at the 2026 World Cup Isn\u2019t the Technology\u2014It\u2019s Who Interprets It",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.wired.com/story/the-problem-with-var-at-the-2026-world-cup-isnt-the-technology-its-who-interprets-it/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "David Beckham's World Cup Tudor Watch Was All About the Heritage",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.esquire.com/style/mens-accessories/a71921355/david-beckham-world-cup-tudor-watch-2026/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "Shakira y Burna Boy lideran las listas globales con \"Dai Dai\"",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.billboard.com/espanol/noticias/shakira-burna-boy-dai-dai-no-1-global-copa-mundial-1236293343/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "All 5 Times Lamine Yamal Has Beaten Kylian Mbapp\u00e9 In Elimination Matches",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/all-5-times-lamine-yamal-has-beaten-kylian-mbappe-elimination-matches"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Atlanta",
+      "event": "PREVIEW | England vs Argentina: team news, lineups, predictions (World Cup 15/07)",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.playmakerstats.com/news/preview-england-vs-argentina-team-news-lineups-predictions-world-cup-15-07/1156721"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "Donald Trump advisor declares favorite for World Cup glory ahead of semifinals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/trump-giuliani-world-cup-favorites-1934924"
+        }
+      ]
+    },
     {
       "date": "Jul 14",
       "loc": "Global",
@@ -910,127 +1001,7 @@
           "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-slaven-bilic-appointed-croatias-new-head-coach/articleshow/132370586.cms"
         }
       ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "Erling Haaland Says Goodbye to the U.S. After \u2018Emotional\u2019 World Cup Run with Norway",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://people.com/erling-haaland-says-goodbye-to-us-after-emotional-world-cup-run-12016901"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "Folarin Balogun World Cup Red Card Scandal Takes New Twist Thanks To Rogue FIFA Official",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://brobible.com/sports/article/folarin-balogun-world-cup-red-card-scandal-takes-new-twist-thanks-to-rogue-fifa-official/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "New York / New Jersey",
-      "event": "Ranking the four possible World Cup finals at MetLife Stadium",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/13/world-cup-finals-ranking-argentina-france-spain-england/90899698007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "Why I didn\u2019t pass to Haaland \u2014 Norway\u2019s Sorloth speaks out as death threats escalate",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/why-i-didnt-pass-to-haaland-norways-sorloth-speaks-out-as-death-threats-escalate/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "World Cup semifinals. Who made final 4 teams, schedule, odds",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.elpasotimes.com/story/sports/soccer/2026/07/13/world-cup-semifinals-set-with-top-4-teams-odds-schedule/90900545007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "AI-generated video does not show South African flag bearer tripping during World Cup opening ceremony",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/ai-generated-video-does-not-150053398.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "Ogilvy Kicks Off 'Thanks World,' Major League Soccer's Largest Marketing Campaign",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.mediapost.com/publications/article/416468/ogilvy-kicks-off-thanks-world-major-league-socc.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Miami",
-      "event": "Argentina's media convinced Jude Bellingham is INJURED as new footage emerges of England star grimacing in pain from his heavily-scarred shoulder",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15973881/Argentinas-media-convinced-Jude-Bellingham-INJURED-new-footage-emerges-England-star-grimacing-pain-heavily-scarred-shoulder.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-14T18:56:07.467169Z"
+  "lastUpdated": "2026-07-14T20:03:56.544087Z"
 }
