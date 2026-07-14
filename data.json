@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 0,
+    "p1": 1,
     "p2": 2,
-    "p3": 22
+    "p3": 21
   },
   "watchlist": [
     {
@@ -131,12 +131,166 @@
   ],
   "risks": [
     {
+      "title": "US Soccer's Mainstream Moment: Americans Are Googling Their Own Team",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The United States opened its 2026 World Cup campaign with a 4-1 victory over Paraguay in front of 70,000 fans at SoFi Stadium. Within hours, Google Trends data revealed an unprecedented spike in searc...",
+      "timestamp": "2026-07-14T17:54:14.549004Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ddab6830-7765-42b7-973f-6e9e43290054"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup: How much tickets cost for Argentina vs England semifinal in Atlanta",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France and Spain will meet in Dallas, Texas for the first semifinal on Tuesday while Argentina and England will be here in Atlanta for their semifinal match.",
+      "timestamp": "2026-07-14T17:54:14.549080Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/fifa-world-cup-much-tickets-174736060.html"
+        }
+      ]
+    },
+    {
+      "title": "Where to buy England vs. Argentina World Cup tickets at Atlanta's Mercedes-Benz Stadium",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England and Argentina will play for a spot in the World Cup final. Tickets are pricey but still available from StubHub and Vivid Seats.",
+      "timestamp": "2026-07-14T17:54:14.549149Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.businessinsider.com/guides/tickets/where-to-buy-england-vs-argentina-tickets-world-cup-2026#article"
+        }
+      ]
+    },
+    {
+      "title": "FIFA 2026: Tickets to Argentina vs England World Cup semi 2x more expensive than France vs Spain",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Semifinal ticket prices for the 2026 World Cup show a significant disparity. France versus Spain tickets are priced at $1,325, reflecting a recent decline. Argentina's match against England in Atlanta is listed at $2,841, showing a rise. This Argentina game i\u2026",
+      "timestamp": "2026-07-14T17:54:14.549230Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-2026-tickets-to-argentina-vs-england-world-cup-semi-2x-more-expensive-than-france-vs-spain/articleshow/132373047.cms"
+        }
+      ]
+    },
+    {
+      "title": "What time does France vs. Spain World Cup semifinal match start tomorrow?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France and Spain are ready to battle for a spot in the 2026 World Cup final when they meet at AT&T Stadium in Arlington, Texas on Tuesday, July 14.",
+      "timestamp": "2026-07-14T17:54:14.549268Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/13/spain-vs-france-game-time-world-cup-semifinal/90902772007/"
+        }
+      ]
+    },
+    {
+      "title": "How much are World Cup tickets? Dallas semifinal seats remain",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Four matches remain in the 2026 FIFA World Cup and tickets are still available, both through FIFA and resale sites.",
+      "timestamp": "2026-07-14T17:54:14.549391Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.elpasotimes.com/story/sports/soccer/2026/07/13/world-cup-semifinal-tickets-for-dallas-match-still-on-sale-through-fifa/90902704007/"
+        }
+      ]
+    },
+    {
+      "title": "2026 FIFA World Cup star gets perfect comparison to Patriots legend",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "Former Patriots wide receiver Julian Edelman had the perfect comparison for Norway's Erling Haaland.",
+      "timestamp": "2026-07-14T17:54:14.549411Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://patriotswire.usatoday.com/story/sports/nfl/patriots/2026/07/13/norway-erling-haaland-compared-patriots-rob-gronkowski/90877908007/"
+        }
+      ]
+    },
+    {
+      "title": "The Top Moments From the 2026 World Cup Going Into the Semifinals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup is drawing to a close. Down to the semifinals, the tournament has already produced lasting memories and unforgettable stories, both good and bad.There are no surprises in the f...",
+      "timestamp": "2026-07-14T17:54:14.549453Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://urbanpitch.com/the-top-moments-from-the-2026-world-cup-going-into-the-semifinals/"
+        }
+      ]
+    },
+    {
+      "title": "FOX Sports Announces Studio, Match Assignments for Historic FIFA World Cup 2026 Semifinals on FOX",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FOX Sports will blanket the Semifinals with on-site studio coverage featuring analysts and icons of the beautiful game Alexi Lalas, Thierry Henry and Zlatan Ibrahimovic alongside host Rebecca Lowe at both matches.",
+      "timestamp": "2026-07-14T17:54:14.549538Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.thefutoncritic.com/news/2026/07/13/fox-sports-announces-studio-match-assignments-for-historic-fifa-world-cup-2026-semifinals-on-fox-613411/20260713fox04/"
+        }
+      ]
+    },
+    {
+      "title": "Police launch investigation into death of World Cup star Jayden Adams",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Police have opened an investigation into the passing of 25-year-old South Africa midfielder Jayden Adams, who was found dead just two weeks after representing his country at the FIFA World Cup",
+      "timestamp": "2026-07-14T17:54:14.549611Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/police-investigation-death-jayden-adams-1934641"
+        }
+      ]
+    },
+    {
+      "title": "Argentina vs. England odds, prediction, time: 2026 World Cup semifinal picks from expert on 19-7 roll",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "SportsLine's Martin Green reveals his picks for Lionel Messi and Argentina versus Harry Kane and England in the World Cup 2026 on Wednesday",
+      "timestamp": "2026-07-14T17:54:14.549656Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/argentina-england-odds-prediction-time-2026-world-cup-semifinal-picks/"
+        }
+      ]
+    },
+    {
       "title": "\u2018Corrupt to the core\u2019: Reporting exposes truth about Donald Trump\u2019s World Cup move and sparks outrage",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup had some major drama injected into its round of 16 when FIFA reinstated the USMNT\u2019s leading goal scorer in the tournament, Folarin Balogun, despite his being assessed a red card in the round of 32, which usually warrants a one-game sus\u2026",
-      "timestamp": "2026-07-14T16:06:06.590623Z",
+      "timestamp": "2026-07-14T17:54:14.549769Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Slaven Bilic has been appointed as the new head coach of the Croatia national team. He takes charge after Zlatko Dalic stepped down following the FIFA World Cup exit. Bilic returns to international management after a two-year hiatus from coaching. Dalic's nin\u2026",
-      "timestamp": "2026-07-14T16:06:06.590808Z",
+      "timestamp": "2026-07-14T17:54:14.549935Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Norway was knocked out of the 2026 FIFA World Cup by England on Saturday, July 11",
-      "timestamp": "2026-07-14T16:06:06.590902Z",
+      "timestamp": "2026-07-14T17:54:14.550031Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The\u00a0U.S. Men\u2019s National Team\u00a0has long-since been eliminated from the\u00a02026 FIFA World Cup\u00a0after crashing out in the round of 16 to Belgium, 4-1. However, even one week later, there\u2019s still plenty of talk surrounding FIFA\u2019s controversial decision to rescind the\u2026",
-      "timestamp": "2026-07-14T16:06:06.590954Z",
+      "timestamp": "2026-07-14T17:54:14.550096Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With four teams left in Argentina, France, Spain and England, we rank every possible World Cup final matchup at MetLife Stadium.",
-      "timestamp": "2026-07-14T16:06:06.590982Z",
+      "timestamp": "2026-07-14T17:54:14.550125Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +360,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Norway striker Alexander Sorloth has become the latest player to face online abuse at the 2026 FIFA World Cup, receiving messages urging him to take his own life after his country's quarter-final defeat to England, according to Reuters.\nThe post Why I didn\u2019t \u2026",
-      "timestamp": "2026-07-14T16:06:06.591017Z",
+      "timestamp": "2026-07-14T17:54:14.550166Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France, Spain, England and Argentina, the top four teams in the FIFA world rankings, are the last four teams still alive at the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-14T16:06:06.591050Z",
+      "timestamp": "2026-07-14T17:54:14.550201Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +388,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Thousands of foreign nationals have been repatriated from South Africa in response to protests by locals calling for the expulsion of undocumented migrants. After South Africa lost its opening match at the 2026 FIFA World Cup, social media users mocked the na\u2026",
-      "timestamp": "2026-07-14T16:06:06.591081Z",
+      "timestamp": "2026-07-14T17:54:14.550233Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Creative debuts during Fox's coverage of the FIFA World Cup semifinal and final matches.",
-      "timestamp": "2026-07-14T16:06:06.591109Z",
+      "timestamp": "2026-07-14T17:54:14.550260Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "New footage released today shows the Three Lions ace clutching his shoulder and grimacing while walking through the mixed zone post-match at the Hard Rock Stadium on Saturday.",
-      "timestamp": "2026-07-14T16:06:06.591163Z",
+      "timestamp": "2026-07-14T17:54:14.550317Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup has long served as football's biggest shop window, with standout performances often leading to blockbuster transfers and soaring market values\nThe post World Cup 2026: 10 players set for big transfers after impressive tournament appeared fi\u2026",
-      "timestamp": "2026-07-14T16:06:06.591216Z",
+      "timestamp": "2026-07-14T17:54:14.550378Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "There is a particular kind of expectation that follows you when you say you are in a country hosting a World Cup. It is not always spoken out loud, but it sits there in the background of conversations, in messages, in assumptions that come almost automaticall\u2026",
-      "timestamp": "2026-07-14T16:06:06.591357Z",
+      "timestamp": "2026-07-14T17:54:14.550530Z",
       "links": [
         {
           "label": "Source",
@@ -304,170 +458,181 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "United States President Donald Trump's representative for the 2026 FIFA World Cup, Andrew Giuliani, has thrown his support behind England to win the tournament if the host nation fails to go all the way.\nThe post Trump\u2019s White House backs England to win World\u2026",
-      "timestamp": "2026-07-14T16:06:06.591461Z",
+      "timestamp": "2026-07-14T17:54:14.550679Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.vanguardngr.com/2026/07/trumps-white-house-backs-england-to-win-world-cup-after-us-exit/"
         }
       ]
-    },
-    {
-      "title": "Four small businesses to compete in finals of Verizon\u2019s Small Business Super Pitch",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Selected from a nationwide competition, four businesses will make live pitches to judges including soccer legend and entrepreneur Carli Lloyd, then head to the FIFA World Cup 2026\u2122 Final Selected from a nationwide competition, four businesses will make live p\u2026",
-      "timestamp": "2026-07-14T16:06:06.591545Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.globenewswire.com/news-release/2026/07/13/3326245/0/en/Four-small-businesses-to-compete-in-finals-of-Verizon-s-Small-Business-Super-Pitch.html"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup England vs Argentina: What to know ahead of second semifinal",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina and England meet at the World Cup for the sixth time, facing off in Wednesday\u2019s semifinal in Atlanta.",
-      "timestamp": "2026-07-14T16:06:06.591567Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/13/argentina-england-fifa-world-cup-semifinal-prediction-messi-kane-venue"
-        }
-      ]
-    },
-    {
-      "title": "Premier League midfielder\u2019s World Cup heroics fail to change Real Madrid\u2019s transfer stance",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Real Madrid\u2019s transfer plans appear to have taken a decisive turn despite Rodri\u2019s outstanding performances at the 2026 FIFA World Cup.\u00a0According to Jose Felix Diaz, as relayed by Defensa Central,...",
-      "timestamp": "2026-07-14T16:06:06.591625Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fddef6f1-84c7-46b2-8574-636ba0dbe1b7"
-        }
-      ]
-    },
-    {
-      "title": "Claims DW reported petition to ban African, Muslim players from Germany's team after World Cup exit are false",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Following Germany\u2019s elimination from the 2026 FIFA World Cup on June 29, posts shared on social media claim that state-funded broadcaster Deutsche Welle (DW) reported that fans have launched a petition to ban African and Muslim players from the national team.\u2026",
-      "timestamp": "2026-07-14T16:06:06.591761Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/claims-dw-reported-petition-ban-122736137.html"
-        }
-      ]
-    },
-    {
-      "title": "Michael J. Epstein of The Epstein Law Firm to Present at New Jersey State Bar Association Seminar on FIFA World Cup 2026 Legal Issues",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "JERSEY CITY, N.J., July 13, 2026 (GLOBE NEWSWIRE) -- Michael J. Epstein, Esq.\r\n, certified by the Supreme Court of New Jersey as a Civil Trial Attorney and founding attorney of The Epstein Law Firm, P.A., will be a featured presenter at a New Jersey State Bar\u2026",
-      "timestamp": "2026-07-14T16:06:06.591944Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.globenewswire.com/news-release/2026/07/13/3326131/0/en/Michael-J-Epstein-of-The-Epstein-Law-Firm-to-Present-at-New-Jersey-State-Bar-Association-Seminar-on-FIFA-World-Cup-2026-Legal-Issues.html"
-        }
-      ]
-    },
-    {
-      "title": "Spain vs. France odds, prediction, time: 2026 World Cup semifinal picks from expert on 25-16 run",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "SportsLine's Jon Eimer reveals his France vs. Spain best bets for their FIFA World Cup 2026 semifinal match on Tuesday",
-      "timestamp": "2026-07-14T16:06:06.591973Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/spain-france-odds-prediction-time-2026-world-cup-semifinal-picks/"
-        }
-      ]
-    },
-    {
-      "title": "France vs. Spain odds, prediction, time: 2026 World Cup semifinal picks from expert on 19-7 run",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "SportsLine's Martin Green reveals his picks for Spain vs. France in the World Cup 2026 semifinals on Tuesday",
-      "timestamp": "2026-07-14T16:06:06.592060Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/france-spain-odds-prediction-line-time-2026-world-cup-semifinal-picks/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026 Recap",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Recap to the Semi Finals",
-      "timestamp": "2026-07-14T16:06:06.592091Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15973515/World-Cup-2026-Recap.html"
-        }
-      ]
-    },
-    {
-      "title": "Aston Villa hijack Newcastle transfer as deal agreed for World Cup star",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Aston Villa have gazumped Newcastle United to the signing of Freiburg\u2019s Johan Manzambi following his star turn for Switzerland at the FIFA World Cup 2026.\u00a0The Magpies had been leading the chase for...",
-      "timestamp": "2026-07-14T16:06:06.592156Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thefootballfaithful.com/aston-villa-hijack-newcastle-transfer-as-deal-agreed-for-world-cup-star/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026 Semi-Final France vs Spain Prediction & Best Bets",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Match: France vs SpainDate: Tuesday, 14 July 2026Kick-off: 19:00 BST (14:00 UTC-5)Venue: AT&T Stadium, Dallas (Arlington), USARound: World Cup 2026 Semi-FinalTV/Streaming (UK): BBC iPlayer / ITVXBetfr...",
-      "timestamp": "2026-07-14T16:06:06.592179Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.juvefc.com/world-cup-semi-final-france-spain-predictions/"
-        }
-      ]
-    },
-    {
-      "title": "Real Madrid superstar arrives at club amid uncertainty over severity of World Cup injury",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Real Madrid injury news is focused on Thibaut Courtois after the Belgian goalkeeper returned to Valdebebas following Belgium\u2019s elimination from the 2026 FIFA World Cup, reports Alvaro Esteban.The jo...",
-      "timestamp": "2026-07-14T16:06:06.592235Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://madriduniversal.com/real-madrid-superstar-arrives-at-club-amid-uncertainty-over-severity-of-world-cup-injury/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 14",
+      "loc": "Los Angeles",
+      "event": "US Soccer's Mainstream Moment: Americans Are Googling Their Own Team",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ddab6830-7765-42b7-973f-6e9e43290054"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Dallas",
+      "event": "FIFA World Cup: How much tickets cost for Argentina vs England semifinal in Atlanta",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/fifa-world-cup-much-tickets-174736060.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Atlanta",
+      "event": "Where to buy England vs. Argentina World Cup tickets at Atlanta's Mercedes-Benz Stadium",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.businessinsider.com/guides/tickets/where-to-buy-england-vs-argentina-tickets-world-cup-2026#article"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "FIFA 2026: Tickets to Argentina vs England World Cup semi 2x more expensive than France vs Spain",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-2026-tickets-to-argentina-vs-england-world-cup-semi-2x-more-expensive-than-france-vs-spain/articleshow/132373047.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "What time does France vs. Spain World Cup semifinal match start tomorrow?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/13/spain-vs-france-game-time-world-cup-semifinal/90902772007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Dallas",
+      "event": "How much are World Cup tickets? Dallas semifinal seats remain",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.elpasotimes.com/story/sports/soccer/2026/07/13/world-cup-semifinal-tickets-for-dallas-match-still-on-sale-through-fifa/90902704007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "2026 FIFA World Cup star gets perfect comparison to Patriots legend",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://patriotswire.usatoday.com/story/sports/nfl/patriots/2026/07/13/norway-erling-haaland-compared-patriots-rob-gronkowski/90877908007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "The Top Moments From the 2026 World Cup Going Into the Semifinals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://urbanpitch.com/the-top-moments-from-the-2026-world-cup-going-into-the-semifinals/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "FOX Sports Announces Studio, Match Assignments for Historic FIFA World Cup 2026 Semifinals on FOX",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.thefutoncritic.com/news/2026/07/13/fox-sports-announces-studio-match-assignments-for-historic-fifa-world-cup-2026-semifinals-on-fox-613411/20260713fox04/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "Police launch investigation into death of World Cup star Jayden Adams",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/police-investigation-death-jayden-adams-1934641"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "Argentina vs. England odds, prediction, time: 2026 World Cup semifinal picks from expert on 19-7 roll",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/argentina-england-odds-prediction-time-2026-world-cup-semifinal-picks/"
+        }
+      ]
+    },
     {
       "date": "Jul 14",
       "loc": "Global",
@@ -662,172 +827,7 @@
           "url": "https://www.vanguardngr.com/2026/07/trumps-white-house-backs-england-to-win-world-cup-after-us-exit/"
         }
       ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "Four small businesses to compete in finals of Verizon\u2019s Small Business Super Pitch",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.globenewswire.com/news-release/2026/07/13/3326245/0/en/Four-small-businesses-to-compete-in-finals-of-Verizon-s-Small-Business-Super-Pitch.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "FIFA World Cup England vs Argentina: What to know ahead of second semifinal",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/13/argentina-england-fifa-world-cup-semifinal-prediction-messi-kane-venue"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "Premier League midfielder\u2019s World Cup heroics fail to change Real Madrid\u2019s transfer stance",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fddef6f1-84c7-46b2-8574-636ba0dbe1b7"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "Claims DW reported petition to ban African, Muslim players from Germany's team after World Cup exit are false",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/claims-dw-reported-petition-ban-122736137.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "Michael J. Epstein of The Epstein Law Firm to Present at New Jersey State Bar Association Seminar on FIFA World Cup 2026 Legal Issues",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.globenewswire.com/news-release/2026/07/13/3326131/0/en/Michael-J-Epstein-of-The-Epstein-Law-Firm-to-Present-at-New-Jersey-State-Bar-Association-Seminar-on-FIFA-World-Cup-2026-Legal-Issues.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "Spain vs. France odds, prediction, time: 2026 World Cup semifinal picks from expert on 25-16 run",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/spain-france-odds-prediction-time-2026-world-cup-semifinal-picks/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "France vs. Spain odds, prediction, time: 2026 World Cup semifinal picks from expert on 19-7 run",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/france-spain-odds-prediction-line-time-2026-world-cup-semifinal-picks/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "World Cup 2026 Recap",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15973515/World-Cup-2026-Recap.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "Aston Villa hijack Newcastle transfer as deal agreed for World Cup star",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thefootballfaithful.com/aston-villa-hijack-newcastle-transfer-as-deal-agreed-for-world-cup-star/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Dallas",
-      "event": "World Cup 2026 Semi-Final France vs Spain Prediction & Best Bets",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.juvefc.com/world-cup-semi-final-france-spain-predictions/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "Real Madrid superstar arrives at club amid uncertainty over severity of World Cup injury",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://madriduniversal.com/real-madrid-superstar-arrives-at-club-amid-uncertainty-over-severity-of-world-cup-injury/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-14T16:06:06.592385Z"
+  "lastUpdated": "2026-07-14T17:54:14.550915Z"
 }
