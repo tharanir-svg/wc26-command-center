@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 2,
-    "p3": 24
+    "p2": 1,
+    "p3": 23
   },
   "watchlist": [
     {
@@ -131,12 +131,124 @@
   ],
   "risks": [
     {
+      "title": "468 Peruvian newborns named after Haaland as World Cup craze grows",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Hundreds of Peruvian newborns are named after Norway\u2019s Erling Haaland as his 2026 World Cup performance captivates fans. Discover the growing trend of Haal\n\nRead More: https://punchng.com/468-peruvian-newborns-named-after-haaland-as-world-cup-craze-grows/",
+      "timestamp": "2026-07-14T11:14:17.330532Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/468-peruvian-newborns-named-after-haaland-as-world-cup-craze-grows/"
+        }
+      ]
+    },
+    {
+      "title": "Mourinho sees new Real Madrid signing as key piece despite World Cup disappointment",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Real Madrid news surrounding Bernardo Silva has taken an interesting turn following the midfielder\u2019s underwhelming 2026 FIFA World Cup campaign with Portugal.\u00a0While the experienced playmaker strugg...",
+      "timestamp": "2026-07-14T11:14:17.330726Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/mourinho-sees-new-real-madrid-signing-as-key-piece-despite-world-cup-disappointment/"
+        }
+      ]
+    },
+    {
+      "title": "Why did Switzerland\u2019s Breel Embolo receive a red card against Argentina?",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "Breel Embolo's controversial red card against Argentina changed the 2026 FIFA World Cup quarterfinal. Here's why VAR overturned Leandro Paredes' booking and sent the Swiss striker off for simulation.",
+      "timestamp": "2026-07-14T11:14:17.330781Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/13/sports/why-breel-embolo-was-sent-off-explaining-the-controversial-red-card-in-argentina-vs-switzerland-world-cup-quarterfinal/"
+        }
+      ]
+    },
+    {
+      "title": "Chris Sutton's World Cup semi-final predictions",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "BBC Sport's football expert Chris Sutton gives his predictions for the semi-final ties at the 2026 World Cup.",
+      "timestamp": "2026-07-14T11:14:17.330833Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.com/sport/football/articles/c4gynmr6vjro?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
+        }
+      ]
+    },
+    {
+      "title": "Messi vs. Harry Kane: Who Leads Argentina and England to Victory in World Cup 2026 Semifinal in Atlanta?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lionel Messi and Harry Kane will face off in a historic World Cup semifinal as Argentina meets England in Atlanta, with both teams vying for a spot in the final.",
+      "timestamp": "2026-07-14T11:14:17.330948Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ibtimes.com.au/messi-kane-world-cup-semifinal-atlanta-1872198"
+        }
+      ]
+    },
+    {
+      "title": "Manchester United to lodge Manu Kon\u00e9 bid, Gian Piero Gasperini addresses Frenchman\u2019s Roma future",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Manu Kon\u00e9 (25) has established himself as an important figure in the France national team at the 2026 FIFA World Cup. The AS Roma midfielder started and impressed against Morocco in the quarter-final...",
+      "timestamp": "2026-07-14T11:14:17.331012Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.getfootballnewsfrance.com/2026/manchester-united-to-lodge-manu-kone-bid-gian-gasperini-addresses-frenchmans-roma-future/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026 Merchandise: Sports & Toys, Beverages/Snacks, Party Supplies 60% Off & More + Free Pickup on Orders $10+",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Walgreens has select FIFA World Cup 2026 Merchandise on sale for 60% Off listed below. Save an additional 10% Off w/ promo code WAG10 (apply in cart). Select free store pickup on orders $10+\r\n\r\nThanks",
+      "timestamp": "2026-07-14T11:14:17.331037Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slickdeals.net/f/19750401-60-off-all-fifa-merchandise-at-walgreens-at-link-items-from-1-39-free-pick-up-at-10"
+        }
+      ]
+    },
+    {
+      "title": "These 4 teams are left in the World Cup: What to know",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup has set its final four.",
+      "timestamp": "2026-07-14T11:14:17.331055Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://abcnews.com/GMA/Culture/world-cup-semifinals-teams-playing-schedules-biggest-stars/story?id=134678330"
+        }
+      ]
+    },
+    {
       "title": "Why did Argentina wear black arm bands in their quarterfinal match against Switzerland?",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina wore black armbands against Switzerland in the 2026 FIFA World Cup quarterfinal to honor Antonio Ratt\u00edn, whose infamous 1966 World Cup sending-off inspired FIFA's yellow and red card system.",
-      "timestamp": "2026-07-14T09:04:07.168385Z",
+      "timestamp": "2026-07-14T11:14:17.331149Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Coverage reached a peak audience of 13.589 million viewers from 5:15-5:30 PM ET.",
-      "timestamp": "2026-07-14T09:04:07.168481Z",
+      "timestamp": "2026-07-14T11:14:17.331219Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA has elected to pick Salvadoran referee Ivan Barton to officiate the first 2026 FIFA World Cup semi-final between France and Spain.\u00a0Les Bleus\u00a0clash with the 2024 UEFA Euros winners at Arlington\ufffd...",
-      "timestamp": "2026-07-14T09:04:07.168559Z",
+      "timestamp": "2026-07-14T11:14:17.331312Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-      "timestamp": "2026-07-14T09:04:07.168574Z",
+      "timestamp": "2026-07-14T11:14:17.331330Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Few players have enhanced their reputation at the 2026 FIFA World Cup quite like Pau Cubarsi.\u00a0The Barcelona defender has become one of Spain\u2019s standout performers during the tournament, combining d...",
-      "timestamp": "2026-07-14T09:04:07.168630Z",
+      "timestamp": "2026-07-14T11:14:17.331398Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England have travelled far more than rivals France and Argentina as World Cup 2026 tests teams across North America.",
-      "timestamp": "2026-07-14T09:04:07.168660Z",
+      "timestamp": "2026-07-14T11:14:17.331439Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA has appointed match officials for the highly anticipated 2026 World Cup semi-final between France and Spain. Get details on the referee and assistants\n\nRead More: https://punchng.com/world-cup-fifa-appoints-match-officials-for-france-spain-semi-final/",
-      "timestamp": "2026-07-14T09:04:07.168681Z",
+      "timestamp": "2026-07-14T11:14:17.331465Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Legendary German goalkeeper Oliver Kahn offers his expert analysis on the FIFA World Cup 2026 semi-finals, highlighting tactical discipline, mental strength, and fine margins as key determinants. He previews the Spain vs France clash, discusses the evolving r\u2026",
-      "timestamp": "2026-07-14T09:04:07.168719Z",
+      "timestamp": "2026-07-14T11:14:17.331513Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Form guide on the final four teams as they battle it out for the FIFA World Cup 2026 trophy in the United States.",
-      "timestamp": "2026-07-14T09:04:07.168774Z",
+      "timestamp": "2026-07-14T11:14:17.331587Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France defender Ibrahima Konate says Les Bleus fear no one ahead of their FIFA World Cup 2026 semi-final against Spain, while acknowledging the challenge posed by Lamine Yamal and the tournament's best defence.",
-      "timestamp": "2026-07-14T09:04:07.168964Z",
+      "timestamp": "2026-07-14T11:14:17.331812Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kylian Mbapp\u00e9 and Lionel Messi are tied with eight goals atop the 2026 FIFA World Cup Golden Boot race, while Jude Bellingham, Harry Kane and Ousmane Demb\u00e9l\u00e9 remain in striking distance entering the semifinals.",
-      "timestamp": "2026-07-14T09:04:07.168996Z",
+      "timestamp": "2026-07-14T11:14:17.331856Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kylian Mbapp\u00e9 and Lionel Messi are tied with eight goals atop the 2026 FIFA World Cup Golden Boot race, while Jude Bellingham, Harry Kane and Ousmane Demb\u00e9l\u00e9 remain in striking distance entering the semifinals.",
-      "timestamp": "2026-07-14T09:04:07.169011Z",
+      "timestamp": "2026-07-14T11:14:17.331888Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi will face England for the first time in his career when Argentina meet the Three Lions in the FIFA World Cup 2026 semi-final, ending a 20-year wait for one of football's most anticipated match-ups.",
-      "timestamp": "2026-07-14T09:04:07.169103Z",
+      "timestamp": "2026-07-14T11:14:17.332008Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "As the 2026 FIFA World Cup nears its conclusion, a parallel broadcast has emerged alongside the official TV feed: creator-led livestreams from inside the stadiums and FIFA fan zones on Twitch and YouTube. This creator coverage isn\u2019t color on top of the main f\u2026",
-      "timestamp": "2026-07-14T09:04:07.169140Z",
+      "timestamp": "2026-07-14T11:14:17.332058Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Livestreaming creators offer new ways to broadcast sports to diverse audiences; this 2026 FIFA World Cup may be the new blueprint for leagues",
-      "timestamp": "2026-07-14T09:04:07.169169Z",
+      "timestamp": "2026-07-14T11:14:17.332141Z",
       "links": [
         {
           "label": "Source",
@@ -346,156 +458,136 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France take on Spain in the FIFA World Cup 2026 semi-final aiming for a third consecutive World Cup final, with Kylian Mbappe and Ousmane Dembele leading Les Bleus against Europe's champions.",
-      "timestamp": "2026-07-14T09:04:07.169194Z",
+      "timestamp": "2026-07-14T11:14:17.332196Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.rediff.com/sports/report/fifa-world-cup-2026-france-seek-revenge-on-spain-in-blockbuster-semi-final/20260713.htm"
         }
       ]
-    },
-    {
-      "title": "World Cup 2026 Semifinal Team Analysis: France, Spain, England and Argentina Prepare for Showdowns",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "For the first time, FIFA's top four teams\u2014France, Spain, England, and Argentina\u2014have reached the World Cup semifinals, promising historic matchups and intense competition for the ultimate prize.",
-      "timestamp": "2026-07-14T09:04:07.169233Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ibtimes.com.au/historic-world-cup-semifinals-top-four-teams-clash-1872171"
-        }
-      ]
-    },
-    {
-      "title": "World Cup could expand to 64 teams, FIFA President Gianni Infantino says",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup featured the largest field of teams yet, featuring 48 teams compared to the 32 teams previously involved in the tournament. However, it sounds like further expansion could be in the cards. During a recent interview, FIFA President Gian\u2026",
-      "timestamp": "2026-07-14T09:04:07.169264Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/world-cup-could-expand-to-64-teams-fifa-president-gianni-infantino-says.html"
-        }
-      ]
-    },
-    {
-      "title": "Bellingham bites back at Tuchel\u2019s \u2018lucky\u2019 comment after taxing win over Norway",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England were forced to survive another gruelling battle at the 2026 FIFA World Cup as Thomas Tuchel\u2019s side secured a 2-1 extra-time quarter-final win over Norway on Saturday. In draining conditions in Miami, the Three Lions fell behind to\u00a0Andreas Schjelderup\u2018\u2026",
-      "timestamp": "2026-07-14T09:04:07.169300Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thechronicle.com.gh/bellingham-bites-back-at-tuchels-lucky-comment-after-taxing-win-over-norway/"
-        }
-      ]
-    },
-    {
-      "title": "France vs Spain poll: Vote for the better player in every head-to-head matchup ahead of the 2026 World Cup semifinal",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "France and Spain will be clashing in the 2026 World Cup semifinals, with stars in every single line of the pitch. France and Spain have been drawn to clash in the 2026 World Cup semifinals, with only one nation advancing to the final at MetLife Stadium. The g\u2026",
-      "timestamp": "2026-07-14T09:04:07.169337Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/france-vs-spain-poll-vote-for-the-better-player-in-every-head-to-head-matchup-ahead-of-the-2026-world-cup-semifinal/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA Investigates Alleged Racist Abuse of IShowSpeed at 2026 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "A group of fans have been accused of directing racist remarks at the streamer during Argentina's 3-2 win over Cape Verde.",
-      "timestamp": "2026-07-14T09:04:07.169402Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.complex.com/sports/a/alex-ocho/fifa-ishowspeed-racist-abuse-world-cup-investigation"
-        }
-      ]
-    },
-    {
-      "title": "The final remaining World Cup semifinal teams as ranked by FIFA",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup semifinals are here. Here's how FIFA ranks the final four teams.",
-      "timestamp": "2026-07-14T09:04:07.169426Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.detroitnews.com/story/sports/soccer/2026/07/12/fifa-rankings-world-cup-semifinals-teams-france-spain-england-argentina/90896551007/"
-        }
-      ]
-    },
-    {
-      "title": "The final remaining World Cup semifinal teams as ranked by FIFA",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup semifinals are here. Here's how FIFA ranks the final four teams.",
-      "timestamp": "2026-07-14T09:04:07.169442Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/12/fifa-rankings-world-cup-semifinals-teams-france-spain-england-argentina/90895677007/"
-        }
-      ]
-    },
-    {
-      "title": "Uruguay announce Diego Forlan as new coach",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "Uruguay has appointed legendary former striker Diego Forlan as interim head coach of the national team following Marcelo Bielsa's resignation after La Celeste's disappointing group-stage exit at the 2026 FIFA World Cup.\nThe post Uruguay announce Diego Forlan \u2026",
-      "timestamp": "2026-07-14T09:04:07.169611Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/uruguay-announce-diego-forlan-as-new-coach/"
-        }
-      ]
-    },
-    {
-      "title": "NFLPA protests as Gillette Stadium trades World Cup grass for turf",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "Seven World Cup matches, then Gillette Stadium's grass was ripped out.",
-      "timestamp": "2026-07-14T09:04:07.169627Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/nfl/news/nflpa-protests-gillette-stadium-trades-world-cup-grass-turf/6865e2e071e328efb2393b46"
-        }
-      ]
-    },
-    {
-      "title": "World Cup Daily Recap: Bellingham Drags England Past Norway; Argentina Outlasts Switzerland",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Adrian Sousa from Rabona TV recaps an extraordinary night of extra-time quarterfinal drama as England and Argentina set up a monumental semifinal. The quarterfinal stage of the 2026 FIFA World Cup has delivered an absolutely legendary night of extra-time dram\u2026",
-      "timestamp": "2026-07-14T09:04:07.169653Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/podcast/world-cup-daily-recap-bellingham-drags-england-past-norway-argentina-outlasts-switzerland/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "468 Peruvian newborns named after Haaland as World Cup craze grows",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/468-peruvian-newborns-named-after-haaland-as-world-cup-craze-grows/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "Mourinho sees new Real Madrid signing as key piece despite World Cup disappointment",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/mourinho-sees-new-real-madrid-signing-as-key-piece-despite-world-cup-disappointment/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "Why did Switzerland\u2019s Breel Embolo receive a red card against Argentina?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/13/sports/why-breel-embolo-was-sent-off-explaining-the-controversial-red-card-in-argentina-vs-switzerland-world-cup-quarterfinal/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "Chris Sutton's World Cup semi-final predictions",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.com/sport/football/articles/c4gynmr6vjro?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "Messi vs. Harry Kane: Who Leads Argentina and England to Victory in World Cup 2026 Semifinal in Atlanta?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ibtimes.com.au/messi-kane-world-cup-semifinal-atlanta-1872198"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "Manchester United to lodge Manu Kon\u00e9 bid, Gian Piero Gasperini addresses Frenchman\u2019s Roma future",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.getfootballnewsfrance.com/2026/manchester-united-to-lodge-manu-kone-bid-gian-gasperini-addresses-frenchmans-roma-future/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026 Merchandise: Sports & Toys, Beverages/Snacks, Party Supplies 60% Off & More + Free Pickup on Orders $10+",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slickdeals.net/f/19750401-60-off-all-fifa-merchandise-at-walgreens-at-link-items-from-1-39-free-pick-up-at-10"
+        }
+      ]
+    },
+    {
+      "date": "Jul 14",
+      "loc": "Global",
+      "event": "These 4 teams are left in the World Cup: What to know",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://abcnews.com/GMA/Culture/world-cup-semifinals-teams-playing-schedules-biggest-stars/story?id=134678330"
+        }
+      ]
+    },
     {
       "date": "Jul 14",
       "loc": "Global",
@@ -735,157 +827,7 @@
           "url": "https://www.rediff.com/sports/report/fifa-world-cup-2026-france-seek-revenge-on-spain-in-blockbuster-semi-final/20260713.htm"
         }
       ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "World Cup 2026 Semifinal Team Analysis: France, Spain, England and Argentina Prepare for Showdowns",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ibtimes.com.au/historic-world-cup-semifinals-top-four-teams-clash-1872171"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "World Cup could expand to 64 teams, FIFA President Gianni Infantino says",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/world-cup-could-expand-to-64-teams-fifa-president-gianni-infantino-says.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "Bellingham bites back at Tuchel\u2019s \u2018lucky\u2019 comment after taxing win over Norway",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thechronicle.com.gh/bellingham-bites-back-at-tuchels-lucky-comment-after-taxing-win-over-norway/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "New York / New Jersey",
-      "event": "France vs Spain poll: Vote for the better player in every head-to-head matchup ahead of the 2026 World Cup semifinal",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/france-vs-spain-poll-vote-for-the-better-player-in-every-head-to-head-matchup-ahead-of-the-2026-world-cup-semifinal/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "FIFA Investigates Alleged Racist Abuse of IShowSpeed at 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.complex.com/sports/a/alex-ocho/fifa-ishowspeed-racist-abuse-world-cup-investigation"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "The final remaining World Cup semifinal teams as ranked by FIFA",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.detroitnews.com/story/sports/soccer/2026/07/12/fifa-rankings-world-cup-semifinals-teams-france-spain-england-argentina/90896551007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "The final remaining World Cup semifinal teams as ranked by FIFA",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/12/fifa-rankings-world-cup-semifinals-teams-france-spain-england-argentina/90895677007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "Uruguay announce Diego Forlan as new coach",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/uruguay-announce-diego-forlan-as-new-coach/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Boston",
-      "event": "NFLPA protests as Gillette Stadium trades World Cup grass for turf",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/nfl/news/nflpa-protests-gillette-stadium-trades-world-cup-grass-turf/6865e2e071e328efb2393b46"
-        }
-      ]
-    },
-    {
-      "date": "Jul 14",
-      "loc": "Global",
-      "event": "World Cup Daily Recap: Bellingham Drags England Past Norway; Argentina Outlasts Switzerland",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/podcast/world-cup-daily-recap-bellingham-drags-england-past-norway-argentina-outlasts-switzerland/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-14T09:04:07.169793Z"
+  "lastUpdated": "2026-07-14T11:14:17.332351Z"
 }
