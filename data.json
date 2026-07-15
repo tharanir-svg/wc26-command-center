@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 0,
+    "p1": 1,
     "p2": 0,
-    "p3": 29
+    "p3": 26
   },
   "watchlist": [
     {
@@ -131,12 +131,96 @@
   ],
   "risks": [
     {
+      "title": "Timothee Chalamet seen chatting with David Beckham at France-Spain World Cup game in Texas",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The Hollywood star headed to AT&T Stadium in Arlington, Texas, as France locked horns with the reigning European champions for a place in Sunday's final.",
+      "timestamp": "2026-07-15T20:56:53.779413Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15977753/timothee-chalamet-david-beckham-france-spain-world-cup.html"
+        }
+      ]
+    },
+    {
+      "title": "France Lose Star to Non-Contact Injury vs Spain at 2026 FIFA World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France had not trailed through six matches of the 2026 FIFA men's World Cup, but that changed quickly when Les Bleus met Spain in the semifinal on Tuesday, July 14.\nFrance's Lucas Digne didn't sense Spain's Lamine Yamal behind him and kicked him in the thigh \u2026",
+      "timestamp": "2026-07-15T20:56:53.779535Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/fe68b6188f47af1e"
+        }
+      ]
+    },
+    {
+      "title": "France defender leaves World Cup semifinal early with clear message following injury",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Arsenal defender William Saliba was forced off in the first half of France's FIFA World Cup semifinal against Spain after the 25-year-old appeared to suffer a back injury",
+      "timestamp": "2026-07-15T20:56:53.779601Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/france-saliba-injury-world-cup-1937168"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup: British Consulate \u2018loves Atlanta\u2019 as England faces off with Argentina",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The FIFA World Cup is pressing forward and fans of England and Argentina are pouring into downtown Atlanta.",
+      "timestamp": "2026-07-15T20:56:53.779629Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/fifa-world-cup-british-consulate-203652315.html"
+        }
+      ]
+    },
+    {
+      "title": "What happened to William Saliba in France\u2019s World Cup semifinal against Spain?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Facing Spain in the 2026 World Cup semifinals, France star defender William Saliba had to exit the game. France and Spain are battling for a place in the 2026 World Cup final at AT&T Stadium in Dallas, but Les Bleus suffered an early setback when William Sali\u2026",
+      "timestamp": "2026-07-15T20:56:53.779710Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/what-happened-to-william-saliba-in-frances-world-cup-semifinal-against-spain/"
+        }
+      ]
+    },
+    {
+      "title": "Fans disrupt moment of silence honoring victims of terrorist attack prior to World Cup semifinal",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "Several fans shouted during a moment of silence held to honor the 86 victims of the July 14, 2016, terrorist attack in Nice, before France took on Spain in the FIFA World Cup semifinal at AT&T Stadium in Dallas",
+      "timestamp": "2026-07-15T20:56:53.779734Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/fans-silence-tribute-world-cup-1937123"
+        }
+      ]
+    },
+    {
       "title": "Luka Modric is reportedly considering continuing with Croatia after Slaven Bili\u0107\u2019s appointment",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After their elimination from the 2026 World Cup, Croatia decided to part ways with Zlatko Dali\u0107, a move that appeared to bring Luka Modri\u0107 closer to retiring from international soccer. However, he is reportedly considering continuing to play for the national \u2026",
-      "timestamp": "2026-07-15T19:58:46.235120Z",
+      "timestamp": "2026-07-15T20:56:53.779897Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "One of soccer's most storied rivalries adds a new chapter, with Lionel Messi facing England for the first time ever. The battle is going to be fierce, so don't miss a second. Here's how to watch the game for free using a VPN or subscription trial.\nArgentina t\u2026",
-      "timestamp": "2026-07-15T19:58:46.235207Z",
+      "timestamp": "2026-07-15T20:56:53.779960Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "SportsLine's Jon Eimer reveals his Argentina vs. England best bets in the FIFA World Cup 2026 semifinals on Wednesday",
-      "timestamp": "2026-07-15T19:58:46.235311Z",
+      "timestamp": "2026-07-15T20:56:53.780056Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain's Mikel Oyarzabal converted a penalty to give his team and early 1-0 lead vs. France at the 2026 World Cup semifinals. See the highlight.",
-      "timestamp": "2026-07-15T19:58:46.235364Z",
+      "timestamp": "2026-07-15T20:56:53.780133Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mikel Oyarzabal's early penalty gives Spain a 1-0 lead over France in the 2026 World Cup semifinal, highlighting a tense match between two top-ranked teams at Dallas Stadium.",
-      "timestamp": "2026-07-15T19:58:46.235390Z",
+      "timestamp": "2026-07-15T20:56:53.780158Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "It is the first competitive meeting of the sides since the 2002 World Cup and the fixture conjures so many memories, from Diego Maradona and the 'Hand of God' in 1986, to David Beckham's red card after tangling with Diego Simeone in 1998, while also thrusting\u2026",
-      "timestamp": "2026-07-15T19:58:46.235482Z",
+      "timestamp": "2026-07-15T20:56:53.780258Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Live coverage of the 2026 World Cup semifinal match between France and Spain. A huge match was expected in the 2026 World Cup semifinals, and France and Spain delivered as they battled for a place in the final.\n\n\n\nThe expectations are high because France have\u2026",
-      "timestamp": "2026-07-15T19:58:46.235601Z",
+      "timestamp": "2026-07-15T20:56:53.780380Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kylian Mbapp\u00e9 and Lamine Yamal lead the starting lineups for today's France vs. Spain World Cup semifinal. Here's every name in both XIs.",
-      "timestamp": "2026-07-15T19:58:46.235718Z",
+      "timestamp": "2026-07-15T20:56:53.780485Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France and Spain face off in a crucial 2026 World Cup semifinal, both looking to become the tournament's first finalist. France and Spain clash in what promises to be a great match at Dallas Stadium, with the winner becoming the first finalist of the 2026 Wor\u2026",
-      "timestamp": "2026-07-15T19:58:46.235765Z",
+      "timestamp": "2026-07-15T20:56:53.780532Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Trionda will have a change of design starting from the 2026 World Cup semifinals. The 2026 World Cup is down to its final four, with France vs Spain and England vs Argentina set as the semifinal matchups for a place in the final at MetLife Stadium. Alongs\u2026",
-      "timestamp": "2026-07-15T19:58:46.235801Z",
+      "timestamp": "2026-07-15T20:56:53.780571Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Two of the most dominant sides at the 2026 FIFA World Cup meet in the semifinals as 2018 champions and 2022 finalists France take on 2010 winners Spain in Arlington on Tuesday.",
-      "timestamp": "2026-07-15T19:58:46.235833Z",
+      "timestamp": "2026-07-15T20:56:53.780607Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Semifinals of the World Cup? Semifinals of the World Cup!",
-      "timestamp": "2026-07-15T19:58:46.235876Z",
+      "timestamp": "2026-07-15T20:56:53.780653Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France are playing for their third World Cup semifinal in a row, while Spain are fighting for their first since 2010. It's going to be a gripping game. Here's how to catch it live, even for free.\nHow to watch for free: Today's semifinal match will air for fre\u2026",
-      "timestamp": "2026-07-15T19:58:46.235938Z",
+      "timestamp": "2026-07-15T20:56:53.780712Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kylian Mbappe has been declared fit to start for France in their World Cup semi-final against Spain, easing concerns after an ankle injury scare in the quarter-finals. The star forward will captain the team, which also sees Aurelien Tchouameni return to midfi\u2026",
-      "timestamp": "2026-07-15T19:58:46.235994Z",
+      "timestamp": "2026-07-15T20:56:53.780756Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Prediction markets surpassed $50 billion in monthly volume in June, with their volume driven by trading on the FIFA World Cup 2026, CoinDesk reported Tuesday (July 14). Kalshi posted $31 billion in notional trading volume in June, Polymarket\u2019s international e\u2026",
-      "timestamp": "2026-07-15T19:58:46.236024Z",
+      "timestamp": "2026-07-15T20:56:53.780778Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup has been marked by criticized refereeing decisions in the knockout stages, leading FIFA to make a change to the VAR system for the semifinals",
-      "timestamp": "2026-07-15T19:58:46.236066Z",
+      "timestamp": "2026-07-15T20:56:53.780811Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kylian Mbapp\u00e9 and France meet Lamine Yamal and Spain today with a World Cup final berth on the line. Here's the full FOX broadcast team.",
-      "timestamp": "2026-07-15T19:58:46.236118Z",
+      "timestamp": "2026-07-15T20:56:53.780848Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "ESPN's F-C host Dan Thomas breaks down what fans can expect as the tournament reaches its final matches.",
-      "timestamp": "2026-07-15T19:58:46.236137Z",
+      "timestamp": "2026-07-15T20:56:53.780862Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain face France in a crucial 2026 World Cup semifinal, and Mikel Merino will once again begin the match on the bench. France clash with Spain and Mikel Merino will not be on his team\u2019s starting eleven in today\u2019s 2026 World Cup semifinal at Dallas Stadium, d\u2026",
-      "timestamp": "2026-07-15T19:58:46.236190Z",
+      "timestamp": "2026-07-15T20:56:53.780902Z",
       "links": [
         {
           "label": "Source",
@@ -402,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jerry Jones faces renewed criticism over the Cowboys' artificial turf as more NFL owners, coaches, and players voice support for natural grass.",
-      "timestamp": "2026-07-15T19:58:46.236212Z",
+      "timestamp": "2026-07-15T20:56:53.780917Z",
       "links": [
         {
           "label": "Source",
@@ -416,128 +500,106 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "SportsLine's Martin Green reveals his picks for Spain vs. France in the World Cup 2026 semifinals on Tuesday",
-      "timestamp": "2026-07-15T19:58:46.236233Z",
+      "timestamp": "2026-07-15T20:56:53.780932Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.cbssports.com/soccer/news/france-spain-odds-prediction-line-start-time-2026-world-cup-semifinal-picks/"
         }
       ]
-    },
-    {
-      "title": "Confirmed: Mbappe makes history, Tchouameni returns as Real Madrid duo start for France vs Spain",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "In a little over an hour, France take on Spain in the first semifinal of the 2026 FIFA World Cup at the Dallas Stadium.Ahead of kickoff, Les Bleus manager Didier Deschamps has announced the starting l...",
-      "timestamp": "2026-07-15T19:58:46.236390Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://madriduniversal.com/confirmed-mbappe-makes-history-tchouameni-returns-as-real-madrid-duo-start-for-france-vs-spain/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026 Today Match Schedule (15 July): France vs Spain match time in India, venue, semifinal preview, standings and live streaming details",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA World Cup 2026 match schedule for 15 July: France and Spain will compete in the FIFA World Cup 2026 semifinal on Wednesday, July 15.  The match is scheduled to begin at 12:30 AM IST in Dallas, Texas.  France has maintained an unbeaten record throughout t\u2026",
-      "timestamp": "2026-07-15T19:58:46.236459Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-today-match-schedule-15-july-france-vs-spain-match-time-in-india-venue-semifinal-preview-standings-and-live-streaming-details/articleshow/132398811.cms"
-        }
-      ]
-    },
-    {
-      "title": "2026 World Cup Semifinal: France vs. Spain",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "France and Spain battle for a trip to the World Cup Finale.",
-      "timestamp": "2026-07-15T19:58:46.236505Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.chiesaditotti.com/as-roma-international-break-matches/41738/2026-world-cup-semifinal-france-vs-spain"
-        }
-      ]
-    },
-    {
-      "title": "2026 World Cup Semifinal Predictions: Rabona TV\u2019s Final Four Breakdown",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Watch Rabona TV's official 2026 World Cup semifinal predictions video. Get expert score lines and tactical analysis for France-Spain and Argentina-England. The margins have narrowed to absolute zero at the 2026 FIFA World Cup. For the first time since the inc\u2026",
-      "timestamp": "2026-07-15T19:58:46.236571Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/2026-world-cup-semifinal-predictions-rabona-tvs-final-four-breakdown/"
-        }
-      ]
-    },
-    {
-      "title": "Tom Cruise and Jennifer Hudson Added to FIFA World Cup Closing Event",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The July 19 event has already lined up a halftime show that will include Madonna, BTS, Justin Bieber and Shakira.",
-      "timestamp": "2026-07-15T19:58:46.236590Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.hollywoodreporter.com/business/business-news/tom-cruise-jennifer-hudson-2026-fifa-world-cup-final-1236647775/"
-        }
-      ]
-    },
-    {
-      "title": "Will Declan Rice play vs. Argentina? What to know about England midfielder's injury, illness concerns",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England will need all hands on deck as they face their toughest test yet at the 2026 FIFA World Cup, a semifinal matchup against defending champions Argentina, but they could be without one of their most important stars.",
-      "timestamp": "2026-07-15T19:58:46.236658Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/will-declan-rice-play-vs-argentina-england-injury-illness/092c96d3115ddae88fa27ec2"
-        }
-      ]
-    },
-    {
-      "title": "\u2018It was difficult\u2019: Folarin Balogun breaks his silence on Donald Trump meddling in World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Folarin Balogun became the face of the United States Men\u2019s National Team during its 2026 FIFA World Cup run as the squad\u2019s leading goal scorer. Unfortunately, he also became the face of the tournament\u2019s biggest controversy. Balogun was assessed a red card fol\u2026",
-      "timestamp": "2026-07-15T19:58:46.236712Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/folarin-balogun-addresses-donald-trump-world-cup-controversy.html"
-        }
-      ]
-    },
-    {
-      "title": "Why isn\u2019t Manu Kone starting for France against Spain at the 2026 World Cup?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "France face Spain in a crucial 2026 World Cup semifinal, where Manu Kone will begin the match from the bench. France face Spain in the semifinals of the 2026 World Cup at Dallas Stadium, and manager Didier Deschamps opted to leave Manu Kone out of his startin\u2026",
-      "timestamp": "2026-07-15T19:58:46.236876Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/why-isnt-manu-kone-starting-for-france-against-spain-at-the-2026-world-cup/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 15",
+      "loc": "Global",
+      "event": "Timothee Chalamet seen chatting with David Beckham at France-Spain World Cup game in Texas",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15977753/timothee-chalamet-david-beckham-france-spain-world-cup.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 15",
+      "loc": "Global",
+      "event": "France Lose Star to Non-Contact Injury vs Spain at 2026 FIFA World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/fe68b6188f47af1e"
+        }
+      ]
+    },
+    {
+      "date": "Jul 15",
+      "loc": "Global",
+      "event": "France defender leaves World Cup semifinal early with clear message following injury",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/france-saliba-injury-world-cup-1937168"
+        }
+      ]
+    },
+    {
+      "date": "Jul 15",
+      "loc": "Global",
+      "event": "FIFA World Cup: British Consulate \u2018loves Atlanta\u2019 as England faces off with Argentina",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/fifa-world-cup-british-consulate-203652315.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 15",
+      "loc": "Dallas",
+      "event": "What happened to William Saliba in France\u2019s World Cup semifinal against Spain?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/what-happened-to-william-saliba-in-frances-world-cup-semifinal-against-spain/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 15",
+      "loc": "Dallas",
+      "event": "Fans disrupt moment of silence honoring victims of terrorist attack prior to World Cup semifinal",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/fans-silence-tribute-world-cup-1937123"
+        }
+      ]
+    },
     {
       "date": "Jul 15",
       "loc": "Global",
@@ -852,127 +914,7 @@
           "url": "https://www.cbssports.com/soccer/news/france-spain-odds-prediction-line-start-time-2026-world-cup-semifinal-picks/"
         }
       ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Dallas",
-      "event": "Confirmed: Mbappe makes history, Tchouameni returns as Real Madrid duo start for France vs Spain",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://madriduniversal.com/confirmed-mbappe-makes-history-tchouameni-returns-as-real-madrid-duo-start-for-france-vs-spain/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Dallas",
-      "event": "FIFA World Cup 2026 Today Match Schedule (15 July): France vs Spain match time in India, venue, semifinal preview, standings and live streaming details",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-today-match-schedule-15-july-france-vs-spain-match-time-in-india-venue-semifinal-preview-standings-and-live-streaming-details/articleshow/132398811.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Global",
-      "event": "2026 World Cup Semifinal: France vs. Spain",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.chiesaditotti.com/as-roma-international-break-matches/41738/2026-world-cup-semifinal-france-vs-spain"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Global",
-      "event": "2026 World Cup Semifinal Predictions: Rabona TV\u2019s Final Four Breakdown",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/2026-world-cup-semifinal-predictions-rabona-tvs-final-four-breakdown/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Global",
-      "event": "Tom Cruise and Jennifer Hudson Added to FIFA World Cup Closing Event",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.hollywoodreporter.com/business/business-news/tom-cruise-jennifer-hudson-2026-fifa-world-cup-final-1236647775/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Global",
-      "event": "Will Declan Rice play vs. Argentina? What to know about England midfielder's injury, illness concerns",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/will-declan-rice-play-vs-argentina-england-injury-illness/092c96d3115ddae88fa27ec2"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Global",
-      "event": "\u2018It was difficult\u2019: Folarin Balogun breaks his silence on Donald Trump meddling in World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/folarin-balogun-addresses-donald-trump-world-cup-controversy.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Dallas",
-      "event": "Why isn\u2019t Manu Kone starting for France against Spain at the 2026 World Cup?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/why-isnt-manu-kone-starting-for-france-against-spain-at-the-2026-world-cup/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-15T19:58:46.237037Z"
+  "lastUpdated": "2026-07-15T20:56:53.781165Z"
 }
