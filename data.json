@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 28
+    "p3": 29
   },
   "watchlist": [
     {
@@ -131,12 +131,124 @@
   ],
   "risks": [
     {
+      "title": "Kylian Mbapp\u00e9 Misses The Final, But He Is Already A World Cup Legend",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Despite coming up just short in the 2026 FIFA World Cup, Kylian Mbapp\u00e9 has compiled a World Cup r\u00e9sum\u00e9 that is simply unbelievable.",
+      "timestamp": "2026-07-15T23:45:23.732577Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/kylian-mbappes-fifa-world-cup-resume-stands-apart"
+        }
+      ]
+    },
+    {
+      "title": "Simon Kuper and Geoff Bennett discuss the World Cup on 'Settle In'",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "After more than 100 games played across three countries, the world's largest sporting event, the 2026 FIFA World Cup, comes to an end this Sunday. On the latest episode of our podcast \"Settle In,\" Geoff Bennett looked back on the highs and lows of the tournam\u2026",
+      "timestamp": "2026-07-15T23:45:23.732645Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/13bd9c374b2b92b8"
+        }
+      ]
+    },
+    {
+      "title": "Winners and losers of Spain vs. France 2026 World Cup semifinal match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Pedro Porro, Didier Deschamps and Dallas are among the winners and losers of the World Cup semifinals match where Spain ousted France 2-0.",
+      "timestamp": "2026-07-15T23:45:23.732791Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/14/spain-france-2026-world-cup-semifinal-winners-losers/90922282007/"
+        }
+      ]
+    },
+    {
+      "title": "France vs Spain: William Saliba Injury Leaves Les Bleus Facing Major World Cup Blow",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France\u2019s FIFA World Cup 2026 campaign suffered a huge setback during the France vs Spain semi-final after William Saliba was forced off with a back injury in the first half. The Arsenal defender left the pitch in the 30th minute after going down in pain follo\u2026",
+      "timestamp": "2026-07-15T23:45:23.732838Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://heavy.com/sports/soccer/world-cup/france-vs-spain-william-saliba-injury-leaves-les-bleus-facing-major-world-cup-blow/"
+        }
+      ]
+    },
+    {
+      "title": "Kylian Mbapp\u00e9 Goals: Can France's Star Still Win Golden Boot?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Despite losing in the semifinals, can Kylian Mbapp\u00e9 still win the 2026 FIFA World Cup golden boot award? What to know.",
+      "timestamp": "2026-07-15T23:45:23.732871Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/kylian-mbappe-france-world-cup-golden-boot-odds-messi"
+        }
+      ]
+    },
+    {
+      "title": "Kylian Mbappe\u2019s honest assessment after France\u2019s 2026 World Cup exit: \u2018We didn\u2019t know how to hurt Spain\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "After the 2-0 defeat in the 2026 World Cup semifinal against Spain, Kylian Mbappe made an honest assesment on France's performance: \"We didn't know how to hurt Spain.\" Kylian Mbappe suffered one of the most painful defeats of his career on Tuesday, failing to\u2026",
+      "timestamp": "2026-07-15T23:45:23.732915Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/kylian-mbappes-honest-assessment-after-frances-2026-world-cup-exit-we-didnt-know-how-to-hurt-spain/"
+        }
+      ]
+    },
+    {
+      "title": "Atlanta PD issues \u2018protect the public\u2019 statement after FBI meeting over England vs Argentina World Cup clash",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The FIFA World Cup semi-final clash between England and Argentina has been classed as the \u201chighest risk\u201d match of the tournament after the FBI and local police held a meeting this week. The FBI, FIFA officials and the Atlanta Police Department held a meeting \u2026",
+      "timestamp": "2026-07-15T23:45:23.732950Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/atlanta-pd-issues-protect-the-public-statement-after-fbi-meeting-over-england-vs-argentina-world-cup-clash/"
+        }
+      ]
+    },
+    {
+      "title": "Jerry Jones boos spark Gianni Infantino confusion during France vs Spain World Cup semi-final in Dallas",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Jerry Jones was at the centre of attention during the World Cup semi-final between France and Spain on Tuesday. Spain delivered a world-class performance at the Dallas Cowboys\u2019 AT&T Stadium, winning 2-0 to reach the final.",
+      "timestamp": "2026-07-15T23:45:23.733026Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/jerry-jones-boos-spark-gianni-infantino-confusion-during-france-vs-spain-world-cup-semi-final-in-dallas/"
+        }
+      ]
+    },
+    {
       "title": "FIFA World Cup: Semifinals tickets could set you back a pretty penny",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Demand for tickets to Wednesday\u2019s FIFA World Cup semifinal match between England and Argentina are among the highest Atlanta has ever seen.",
-      "timestamp": "2026-07-15T22:44:25.031179Z",
+      "timestamp": "2026-07-15T23:45:23.733065Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ahead of the semifinals, France had been by far the most impressive title contender at the 2026 FIFA World Cup, but it all came crashing down against Spain.",
-      "timestamp": "2026-07-15T22:44:25.031254Z",
+      "timestamp": "2026-07-15T23:45:23.733105Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Harry Kane and Jude Bellingham lead England against Lionel Messi and Argentina in a 2026 FIFA World Cup semifinal clash in Atlanta on Wednesday.",
-      "timestamp": "2026-07-15T22:44:25.031357Z",
+      "timestamp": "2026-07-15T23:45:23.733192Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After more than 100 games played across three countries, the world's largest sporting event, the 2026 FIFA World Cup, comes to an end this Sunday. On the latest episode of our podcast \"Settle In,\" Geoff Bennett looked back on the highs and lows of the tournam\u2026",
-      "timestamp": "2026-07-15T22:44:25.031489Z",
+      "timestamp": "2026-07-15T23:45:23.733312Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A data-driven look at the World Cup Golden Boot race uses goals, minutes played and Pareto efficiency to identify the most productive scorers.",
-      "timestamp": "2026-07-15T22:44:25.031539Z",
+      "timestamp": "2026-07-15T23:45:23.733337Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The France national football team faced the Spain national football team on Tuesday night in a blockbuster FIFA World Cup 2026 semi-final at Dallas Stadium in Arlington, Texas. France vs Spain brought together two of the tournament\u2019s strongest teams, with Fra\u2026",
-      "timestamp": "2026-07-15T22:44:25.031658Z",
+      "timestamp": "2026-07-15T23:45:23.733437Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup has provided a massive boon to what are typically the dog days of summer for sports. However, the U.S.\u2019s 4-1 crash-out at the hands of Belgium in the round of 16 has left a massive void for sports broadcasters. That vacuum was strongly\u2026",
-      "timestamp": "2026-07-15T22:44:25.031786Z",
+      "timestamp": "2026-07-15T23:45:23.733553Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France coach Didier Deschamps said his players were left \"devastated\" by their World Cup semi-final defeat to Spain on Tuesday before aiming a barb at match referee Ivan Barton from El Salvador.\nThe post 2026 World Cup: Why we lost to Spain \u2013 France coach Des\u2026",
-      "timestamp": "2026-07-15T22:44:25.031818Z",
+      "timestamp": "2026-07-15T23:45:23.733582Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Links: HOMEPAGE\u00a0\u2013 TV.comFIFA.World.Cup.2026.Semi.Final.France.Vs.Spain.720p.HDTV.DD2.0.x264-RMZMKV | AC3 / dolby digital | 2.89GBNFO - Subtitles \u2013 Screenshot \u2013 Torrent \u2013 NiTROFLARE \u2013 RAPiDGATORSingle File RAR: RAPiDGATOR Backup",
-      "timestamp": "2026-07-15T22:44:25.031936Z",
+      "timestamp": "2026-07-15T23:45:23.733712Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France were handed a sobering 2-0 defeat by Spain in the 2026 World Cup semifinals, enduring a difficult night at AT&T Stadium in Dallas. With the referee's performance emerging as one of the most debated aspects of the match, head coach Didier Deschamps did \u2026",
-      "timestamp": "2026-07-15T22:44:25.031982Z",
+      "timestamp": "2026-07-15T23:45:23.733755Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain secured their place in the 2026 World Cup final after defeating France, and Luis de la Fuente had nothing but praise for his team. Luis de la Fuente didn\u2019t hold back after Spain\u2018s 2-0 win over France sent them into the 2026 World Cup final, delivering a\u2026",
-      "timestamp": "2026-07-15T22:44:25.032020Z",
+      "timestamp": "2026-07-15T23:45:23.733788Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A group of Argentina fans were filmed burning the Union Jack ahead of La Albiceleste's FIFA World Cup semifinal against England on Wednesday in Atlanta, Georgia",
-      "timestamp": "2026-07-15T22:44:25.032042Z",
+      "timestamp": "2026-07-15T23:45:23.733812Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Even as the 2026 World Cup approaches its end game, fans from outside of the USA are still being shocked by the prices of in-stadium refreshments. That particular discourse has been a long-running theme during the tournament, with supporters often expressing \u2026",
-      "timestamp": "2026-07-15T22:44:25.032135Z",
+      "timestamp": "2026-07-15T23:45:23.733897Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With a true masterclass from Rodri, Lamine Yamal & Co., Spain beat France 2-0 this Tuesday (14) and qualified for the 2026 FIFA World Cup final.The Spaniards now wait to find out whether they will fac...",
-      "timestamp": "2026-07-15T22:44:25.032180Z",
+      "timestamp": "2026-07-15T23:45:23.733940Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The stars once again came out at AT&T Stadium on Tuesday for the blockbuster semifinal of the World Cup between Spain and France.",
-      "timestamp": "2026-07-15T22:44:25.032226Z",
+      "timestamp": "2026-07-15T23:45:23.733984Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain has punched their ticket to the World Cup Final. Are tickets still available at MetLife Stadium? See the latest on the 2026 World Cup Final.",
-      "timestamp": "2026-07-15T22:44:25.032297Z",
+      "timestamp": "2026-07-15T23:45:23.734049Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain secures a spot in the 2026 FIFA World Cup final after a dominant 2-0 victory over France. Read how Spain sealed their place!\n\nRead More: https://punchng.com/spain-beat-france-2-0-seal-place-in-world-cup-final/",
-      "timestamp": "2026-07-15T22:44:25.032388Z",
+      "timestamp": "2026-07-15T23:45:23.734128Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jay-Z at the FIFA World Cup 2026.\nSteph Chambers/Getty Images\nJay-Z loves luxury watches; the rarer and harder to get, the better.\nThe rapper and billionaire owns timepieces from Audemars Piguet, Richard Mille, and Patek Philippe.\nHe's even worn watches value\u2026",
-      "timestamp": "2026-07-15T22:44:25.032422Z",
+      "timestamp": "2026-07-15T23:45:23.734160Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jerry Lewis was big among the French.",
-      "timestamp": "2026-07-15T22:44:25.032472Z",
+      "timestamp": "2026-07-15T23:45:23.734207Z",
       "links": [
         {
           "label": "Source",
@@ -402,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In front of more than 70,176 roaring fans at AT&T Stadium on Tuesday afternoon, Spain suffocated France from the opening whistle and marched into the World Cup final.",
-      "timestamp": "2026-07-15T22:44:25.032600Z",
+      "timestamp": "2026-07-15T23:45:23.734342Z",
       "links": [
         {
           "label": "Source",
@@ -416,114 +528,136 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain secured a spot in the final of the 2026 FIFA World Cup for the first time since 2010, when La Roja was the champion, after defeating France 2-0 in the first semifinal at Dallas Stadium in Arling...",
-      "timestamp": "2026-07-15T22:44:25.032733Z",
+      "timestamp": "2026-07-15T23:45:23.734480Z",
       "links": [
         {
           "label": "Source",
           "url": "https://biztoc.com/x/70e110555baefaff"
         }
       ]
-    },
-    {
-      "title": "Who, when and where will Spain play in the 2026 World Cup final?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain defeated France and secured a place in the 2026 World Cup final, where they'll look to claim the second title in their history. The first finalist of the 2026 World Cup was decided at Dallas Stadium, after Spain claimed a strong 2-0 win over France to b\u2026",
-      "timestamp": "2026-07-15T22:44:25.032785Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/who-when-and-where-will-spain-play-in-the-2026-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "title": "2026 World Cup Bracket: Spain First Team To Clinch Ticket To Final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here's how the bracket looks like at the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-15T22:44:25.032897Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-bracket-semifinals-final-matchups"
-        }
-      ]
-    },
-    {
-      "title": "The '90s Rock Song England Has Sang After Every World Cup Win",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England's men's soccer team has sang a '90s rock hit, Oasis' 'Wonderwall,' after each of their 2026 FIFA World Cup victories. Continue reading\u2026",
-      "timestamp": "2026-07-15T22:44:25.032925Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://loudwire.com/england-soccer-team-sang-oasis-wonderwall-world-cup-victory/"
-        }
-      ]
-    },
-    {
-      "title": "Porro doubles Spain's lead over France",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Pedro Porro plays a one-two with Dani Olmo and doubles Spain's lead against France in the semi-finals of the 2026 World Cup.",
-      "timestamp": "2026-07-15T22:44:25.033005Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cgjxjnny9j6o"
-        }
-      ]
-    },
-    {
-      "title": "Who is in World Cup final? Live bracket, schedule and updates",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The first ticket to the 2026 World Cup final has been punched with Spain advancing. Now it awaits the winner of the second semifinal.",
-      "timestamp": "2026-07-15T22:44:25.033049Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/14/who-is-in-world-cup-final-live-bracket/90909033007/"
-        }
-      ]
-    },
-    {
-      "title": "France 0-2 Spain: La Roja reach World Cup final with dominant performance",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain have reached the 2026 World Cup final with a 2-0 win over France in Miami, confirming their spot in back-to-back major tournament finals.Mikel Oyarzabal opened the scoring for Spain from the pen...",
-      "timestamp": "2026-07-15T22:44:25.033098Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://wp.fromthespot.co.uk/31191/france-0-2-spain-la-roja-reach-world-cup-final-with-dominant-performance/"
-        }
-      ]
-    },
-    {
-      "title": "Louis Vuitton Just Unveiled Its 2026 FIFA World Cup Trophy Trunk",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Louis Vuitton unveiled its 2026 FIFA World Cup Trophy Trunk, the fifth time the luxury house has designed a case for the international tournament.",
-      "timestamp": "2026-07-15T22:44:25.033145Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://robbreport.com/lifestyle/sports-leisure/louis-vuitton-2026-fifa-world-cup-trophy-trunk-1238464851/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 15",
+      "loc": "Global",
+      "event": "Kylian Mbapp\u00e9 Misses The Final, But He Is Already A World Cup Legend",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/kylian-mbappes-fifa-world-cup-resume-stands-apart"
+        }
+      ]
+    },
+    {
+      "date": "Jul 15",
+      "loc": "Global",
+      "event": "Simon Kuper and Geoff Bennett discuss the World Cup on 'Settle In'",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/13bd9c374b2b92b8"
+        }
+      ]
+    },
+    {
+      "date": "Jul 15",
+      "loc": "Dallas",
+      "event": "Winners and losers of Spain vs. France 2026 World Cup semifinal match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/14/spain-france-2026-world-cup-semifinal-winners-losers/90922282007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 15",
+      "loc": "Global",
+      "event": "France vs Spain: William Saliba Injury Leaves Les Bleus Facing Major World Cup Blow",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://heavy.com/sports/soccer/world-cup/france-vs-spain-william-saliba-injury-leaves-les-bleus-facing-major-world-cup-blow/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 15",
+      "loc": "Global",
+      "event": "Kylian Mbapp\u00e9 Goals: Can France's Star Still Win Golden Boot?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/kylian-mbappe-france-world-cup-golden-boot-odds-messi"
+        }
+      ]
+    },
+    {
+      "date": "Jul 15",
+      "loc": "Global",
+      "event": "Kylian Mbappe\u2019s honest assessment after France\u2019s 2026 World Cup exit: \u2018We didn\u2019t know how to hurt Spain\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/kylian-mbappes-honest-assessment-after-frances-2026-world-cup-exit-we-didnt-know-how-to-hurt-spain/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 15",
+      "loc": "Global",
+      "event": "Atlanta PD issues \u2018protect the public\u2019 statement after FBI meeting over England vs Argentina World Cup clash",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/atlanta-pd-issues-protect-the-public-statement-after-fbi-meeting-over-england-vs-argentina-world-cup-clash/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 15",
+      "loc": "Dallas",
+      "event": "Jerry Jones boos spark Gianni Infantino confusion during France vs Spain World Cup semi-final in Dallas",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/jerry-jones-boos-spark-gianni-infantino-confusion-during-france-vs-spain-world-cup-semi-final-in-dallas/"
+        }
+      ]
+    },
     {
       "date": "Jul 15",
       "loc": "Global",
@@ -838,112 +972,7 @@
           "url": "https://biztoc.com/x/70e110555baefaff"
         }
       ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Dallas",
-      "event": "Who, when and where will Spain play in the 2026 World Cup final?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/who-when-and-where-will-spain-play-in-the-2026-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Global",
-      "event": "2026 World Cup Bracket: Spain First Team To Clinch Ticket To Final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-bracket-semifinals-final-matchups"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Global",
-      "event": "The '90s Rock Song England Has Sang After Every World Cup Win",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://loudwire.com/england-soccer-team-sang-oasis-wonderwall-world-cup-victory/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Global",
-      "event": "Porro doubles Spain's lead over France",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cgjxjnny9j6o"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Global",
-      "event": "Who is in World Cup final? Live bracket, schedule and updates",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/14/who-is-in-world-cup-final-live-bracket/90909033007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Global",
-      "event": "France 0-2 Spain: La Roja reach World Cup final with dominant performance",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://wp.fromthespot.co.uk/31191/france-0-2-spain-la-roja-reach-world-cup-final-with-dominant-performance/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Global",
-      "event": "Louis Vuitton Just Unveiled Its 2026 FIFA World Cup Trophy Trunk",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://robbreport.com/lifestyle/sports-leisure/louis-vuitton-2026-fifa-world-cup-trophy-trunk-1238464851/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-15T22:44:25.033301Z"
+  "lastUpdated": "2026-07-15T23:45:23.734644Z"
 }
