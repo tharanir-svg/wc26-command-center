@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 1,
-    "p3": 27
+    "p2": 2,
+    "p3": 24
   },
   "watchlist": [
     {
@@ -131,12 +131,124 @@
   ],
   "risks": [
     {
+      "title": "Erling Haaland Links Up With Zlatan Ibrahimovic After World Cup Exit",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "After Norway\u2018s quarterfinal exit from the 2026 FIFA World Cup, star striker Erling Haaland finally linked up with Zlatan Ibrahimovic.Haaland has been compared to Ibrahimovic due to their tall stature, goal-scoring prowess and long locks.In a post on Zlatan\u2019s \u2026",
+      "timestamp": "2026-07-15T04:35:51.708265Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://heavy.com/sports/soccer/world-cup/erling-haaland-zlatan-ibrahimovic-link-up/"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Scaloni reportedly set to make changes to Lionel Messi\u2019s Argentina XI with two key doubts for England clash",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Set to face England in the 2026 World Cup semifinal, Lionel Scaloni is reportedly set to make changes to Lionel Messi's Argentina XI, with two key doubts yet to be solved. Argentina are through to the 2026 World Cup semifinals after another unconvincing perfo\u2026",
+      "timestamp": "2026-07-15T04:35:51.708349Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/lionel-scaloni-reportedly-set-to-make-changes-to-lionel-messis-argentina-xi-with-two-key-doubts-for-england-clash/"
+        }
+      ]
+    },
+    {
+      "title": "WC semis: Spain target historic milestone against France",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain take a 36-match unbeaten run into their FIFA World Cup 2026 semi-final against France, with Lamine Yamal calling it the biggest match of his career as La Roja chase Italy's all-time record.",
+      "timestamp": "2026-07-15T04:35:51.708420Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/unbeaten-spain-eye-italys-all-time-record-in-world-cup-semi-final-vs-france/20260714.htm"
+        }
+      ]
+    },
+    {
+      "title": "56 Hilarious World Cup Memes That Perfectly Represent The Chaos That\u2019s Been Happening",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup has people all over the world losing sleep. And not only because of some surprising wins and upsets... Even those who aren't soccer fans have been setting their alarms for ungodly hours to watch matches between countries they might not\u2026",
+      "timestamp": "2026-07-15T04:35:51.708517Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.boredpanda.com/funny-world-cup-memes/"
+        }
+      ]
+    },
+    {
+      "title": "Piers Morgan explains how Harry Kane can get back at Donald Trump and US for 250th independence celebration",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Piers Morgan has a unique take on England ahead of their 2026 FIFA World Cup semifinal clash. England secured their spot in the semifinals of the 2026 FIFA World Cup after a gritty 2-1 win against Norway in the previous round.",
+      "timestamp": "2026-07-15T04:35:51.708627Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/piers-morgan-explains-how-harry-kane-can-get-back-at-donald-trump-and-us-for-250th-independence-celebration/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026 Final Winner Predicted: Model",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The winner of the FIFA World Cup 2026 Final could come down to some unlikely influences, a model predicts. The post FIFA World Cup 2026 Final Winner Predicted: Model appeared first on HEAVY.",
+      "timestamp": "2026-07-15T04:35:51.708649Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://heavy.com/sports/soccer/fifa-world-cup-2026-final-winner-predicted-model/"
+        }
+      ]
+    },
+    {
+      "title": "Erling Haaland brings taxidermied raccoon back to Norway after saying 'goodbye' to US World Cup run",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Erling Haaland and his taxidermy raccoon have touched back down in Norway after a sensational performance in his first FIFA World Cup \u201cIt followed me home,\u201d Haaland joked in a post on social media after fans quickly circulated the photos of the Norwegian socc\u2026",
+      "timestamp": "2026-07-15T04:35:51.708684Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://freerepublic.com/focus/f-news/4387849/posts"
+        }
+      ]
+    },
+    {
+      "title": "World Cup 2026: After 100 matches, the semifinals belong to soccer's heavyweights",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France, Spain, Argentina and England are the last teams standing \u2014 and with little separating the four former champions, \u201cit\u2019s all very tight.\u201d",
+      "timestamp": "2026-07-15T04:35:51.708730Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-after-100-matches-the-semifinals-belong-to-soccers-heavyweights-011116826.html"
+        }
+      ]
+    },
+    {
       "title": "Spain 'favourites' says France's Deschamps ahead of World Cup semi-final showdown",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "DALLAS: France coach Didier Deschamps insisted he still sees Spain as World Cup favourites on Monday (Jul 13) ahead of Les Bleus' blockbuster semi-final against the European champions.France take on Spain at the AT&T Stadium in Arlington, Texas, on Tuesday in\u2026",
-      "timestamp": "2026-07-15T01:05:50.861614Z",
+      "timestamp": "2026-07-15T04:35:51.708803Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Just one goal conceded after six matches played.That is Spain at the 2026 FIFA World Cup.\u00a0Luis de la Fuente\u2019s side will face France this Tuesday (14), relying on a defensive system that was breache...",
-      "timestamp": "2026-07-15T01:05:50.861713Z",
+      "timestamp": "2026-07-15T04:35:51.708879Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentinian superstar Lionel Messi has turned back the clock and is arguably turning in the most impressive World Cup performance in his career during the 2026 FIFA World Cup in North America. Entering Argentina\u2019s semifinal matchup against England, Messi has \u2026",
-      "timestamp": "2026-07-15T01:05:50.861760Z",
+      "timestamp": "2026-07-15T04:35:51.708920Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup is the world\u2019s biggest soccer event\u2014and it\u2019s also an incredibly expensive marketing platform. Sponsorships come in different tiers. A partner, the highest level of sponsorship, pays hundreds of millions of dollars in exchange for global rig\u2026",
-      "timestamp": "2026-07-15T01:05:50.861816Z",
+      "timestamp": "2026-07-15T04:35:51.708971Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Gianni Infantino says FIFA will discuss expanding to 64 teams after the 2026 FIFA World Cup shattered attendance records and had massive TV ratings.",
-      "timestamp": "2026-07-15T01:05:50.861932Z",
+      "timestamp": "2026-07-15T04:35:51.709076Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The White House has publicly backed England to win the 2026 FIFA World Cup after the US team\u2019s elimination. Read why they believe England can go all the wa\n\nRead More: https://punchng.com/white-house-backs-england-to-win-world-cup/",
-      "timestamp": "2026-07-15T01:05:50.862109Z",
+      "timestamp": "2026-07-15T04:35:51.709243Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "ANALYSIS: The top four seeds have all reached the semi-finals at this World Cup.",
-      "timestamp": "2026-07-15T01:05:50.862141Z",
+      "timestamp": "2026-07-15T04:35:51.709262Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Messi helped Argentina reach the semifinals of the competition on Saturday, teeing up Alexis Mac Allister for the opening goal in his country's 3-1 win over Switzerland in the last eight.",
-      "timestamp": "2026-07-15T01:05:50.862250Z",
+      "timestamp": "2026-07-15T04:35:51.709361Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Golden Boot frontrunner Kylian Mbapp\u00e9 leads France against Spain in a World Cup semifinal at Dallas Stadium in Arlington, Texas, on Tuesday.",
-      "timestamp": "2026-07-15T01:05:50.862390Z",
+      "timestamp": "2026-07-15T04:35:51.709491Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "For at least one more week, the soccer channels are ruling YouTube Shorts. The 2026 FIFA World Cup has been kind to Brazil's\u00a0Caz\u00e9TV, who led the way in the Global Top 50 with\u00a01.11 billion weekly views. The second most-watched YouTube channel of the week belon\u2026",
-      "timestamp": "2026-07-15T01:05:50.862421Z",
+      "timestamp": "2026-07-15T04:35:51.709520Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With the semifinals underway, here's what to know about the remaining fixtures and how to catch them",
-      "timestamp": "2026-07-15T01:05:50.862604Z",
+      "timestamp": "2026-07-15T04:35:51.709684Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Two of the top three teams in the world will meet on Tuesday to determine the first finalist of the 2026 FIFA World Cup as France (ranked No. 1) meet Spain (ranked No. 3) clash in Arlington, TX.",
-      "timestamp": "2026-07-15T01:05:50.862671Z",
+      "timestamp": "2026-07-15T04:35:51.709754Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +416,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "TikTokers are sad to see Erling Haaland depart the 2026 FIFA World Cup\u2014here are the best memes to come out of the Norway striker\u2019s viral journey.",
-      "timestamp": "2026-07-15T01:05:50.862703Z",
+      "timestamp": "2026-07-15T04:35:51.709784Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Twenty-one-year-old Jacob Allmendinger spent his entire $13,400 life savings to take his 80-year-old grandad to the 2026 World Cup, only for a company to completely refund him.",
-      "timestamp": "2026-07-15T01:05:50.862729Z",
+      "timestamp": "2026-07-15T04:35:51.709807Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi is set to face England in the 2026 World Cup semifinal, adding the last World Cup champion he had yet to play against in his career. Lionel Messi faces England for the first time in his career when Argentina and the Three Lions meet in the 2026 W\u2026",
-      "timestamp": "2026-07-15T01:05:50.862783Z",
+      "timestamp": "2026-07-15T04:35:51.709871Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here is everything you need to know for Tuesday at the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-15T01:05:50.862813Z",
+      "timestamp": "2026-07-15T04:35:51.709900Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The video assistant referee system, or VAR, has led to some controversial calls at the 2026 World Cup. Here\u2019s why.",
-      "timestamp": "2026-07-15T01:05:50.862842Z",
+      "timestamp": "2026-07-15T04:35:51.709949Z",
       "links": [
         {
           "label": "Source",
@@ -374,156 +486,136 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "David Beckham sported one of Tudor's new models, the Black Bay 54 'Blue, at the World Cup 2026quarter-final, England v Norway.",
-      "timestamp": "2026-07-15T01:05:50.862919Z",
+      "timestamp": "2026-07-15T04:35:51.710017Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.esquire.com/style/mens-accessories/a71921355/david-beckham-world-cup-tudor-watch-2026/"
         }
       ]
-    },
-    {
-      "title": "Shakira y Burna Boy lideran las listas globales con \"Dai Dai\"",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "\u201cDai Dai (FIFA World Cup Official Song 2026)\u201d de Shakira y Burna Boy llega al No. 1 de la lista Billboard Global 200.",
-      "timestamp": "2026-07-15T01:05:50.863000Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.billboard.com/espanol/noticias/shakira-burna-boy-dai-dai-no-1-global-copa-mundial-1236293343/"
-        }
-      ]
-    },
-    {
-      "title": "All 5 Times Lamine Yamal Has Beaten Kylian Mbapp\u00e9 In Elimination Matches",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lamine Yamal might have a mental advantage over Kylian Mbapp\u00e9 going into their meeting in the 2026 FIFA World Cup semifinals.",
-      "timestamp": "2026-07-15T01:05:50.863048Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/all-5-times-lamine-yamal-has-beaten-kylian-mbappe-elimination-matches"
-        }
-      ]
-    },
-    {
-      "title": "PREVIEW | England vs Argentina: team news, lineups, predictions (World Cup 15/07)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England and Argentina clash this Wednesday at the Mercedes-Benz Stadium for a match of the semi-finals of the World Cup. The match will be broadcast live at 20:00 on BBC One.In their last game, Englan...",
-      "timestamp": "2026-07-15T01:05:50.863074Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.playmakerstats.com/news/preview-england-vs-argentina-team-news-lineups-predictions-world-cup-15-07/1156721"
-        }
-      ]
-    },
-    {
-      "title": "Donald Trump advisor declares favorite for World Cup glory ahead of semifinals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "White House advisor Andrew Giuliani has opened up on who he hopes will win the FIFA World Cup, ahead of the highly-anticipated semifinals",
-      "timestamp": "2026-07-15T01:05:50.863196Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/trump-giuliani-world-cup-favorites-1934924"
-        }
-      ]
-    },
-    {
-      "title": "Dutch referee dies aged 38 weeks after being dropped from World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Dutch football referee Rob Dieperink has died at the age of 38, just weeks after he was removed from FIFA's list of match officials for the 2026 World Cup following a police investigation in the United Kingdom that was later dropped.\nThe post Dutch referee di\u2026",
-      "timestamp": "2026-07-15T01:05:50.863279Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/dutch-referee-dies-aged-38-weeks-after-being-dropped-from-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "Shakira & Burna Boy\u2019s \u2018Dai Dai\u2019 No. 1 on Both Global Charts",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Shakira and Burna Boy\u2019s \u201cDai Dai (FIFA World Cup Official Song 2026)\u201d hits No. 1 on the Billboard Global 200 chart.",
-      "timestamp": "2026-07-15T01:05:50.863302Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.billboard.com/music/chart-beat/shakira-burna-boy-dai-dai-global-chart-number-one-1236293292/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup: Five biggest controversies of the 2026 tournament",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Football's 2026 World Cup has been full of controversies - Al Jazeera breaks down the five most significant.",
-      "timestamp": "2026-07-15T01:05:50.863320Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/13/fifa-world-cup-five-biggest-controversies-of-the-2026-tournament"
-        }
-      ]
-    },
-    {
-      "title": "USMNT\u2019s World Cup Dream Is Over, But \u2018U.S. Against The World\u2019 Producers Want To Turn HBO Max Docuseries Into \u201cForever Franchise\u201d",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "EXCLUSIVE: A Folarin Balogun brace helped the U.S. Men\u2019s National Soccer Team kick off their 2026 World Cup in style with a 4-1 win over Paraguay. This was followed by a 2-0 win over Australia and despite losing 3-2 to Turkey in their final group game, the te\u2026",
-      "timestamp": "2026-07-15T01:05:50.863365Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://deadline.com/2026/07/usmnt-against-the-world-hbo-docuseries-forever-franchise-1236980972/"
-        }
-      ]
-    },
-    {
-      "title": "USMNT\u2019s World Cup Dream Is Over, But \u2018U.S. Against The World\u2019 Producers Want To Turn HBO Max Docuseries Into \u201cForever Franchise\u201d",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "EXCLUSIVE: A Folarin Balogun brace helped the U.S. Men\u2019s National Soccer Team kick off their 2026 World Cup in style with a 4-1 win over Paraguay. This was followed by a 2-0 win over Australia and despite losing 3-2 to Turkey in their final group game, the te\u2026",
-      "timestamp": "2026-07-15T01:05:50.863396Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://deadline.com/2026/07/usmnt-against-the-world-hbo-docuseries-forever-franchise-1236980972/"
-        }
-      ]
-    },
-    {
-      "title": "France vs. Spain: Where to watch the 2026 World Cup semifinal match, TV channel, start time, free streaming info, and more",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here's how to watch the France vs. Spain semifinal match at the World Cup.",
-      "timestamp": "2026-07-15T01:05:50.863467Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/france-vs-spain-where-to-watch-the-2026-world-cup-semifinal-match-tv-channel-start-time-free-streaming-info-and-more-182800195.html"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 15",
+      "loc": "Global",
+      "event": "Erling Haaland Links Up With Zlatan Ibrahimovic After World Cup Exit",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://heavy.com/sports/soccer/world-cup/erling-haaland-zlatan-ibrahimovic-link-up/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 15",
+      "loc": "Global",
+      "event": "Lionel Scaloni reportedly set to make changes to Lionel Messi\u2019s Argentina XI with two key doubts for England clash",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/lionel-scaloni-reportedly-set-to-make-changes-to-lionel-messis-argentina-xi-with-two-key-doubts-for-england-clash/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 15",
+      "loc": "Global",
+      "event": "WC semis: Spain target historic milestone against France",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/unbeaten-spain-eye-italys-all-time-record-in-world-cup-semi-final-vs-france/20260714.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 15",
+      "loc": "Global",
+      "event": "56 Hilarious World Cup Memes That Perfectly Represent The Chaos That\u2019s Been Happening",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.boredpanda.com/funny-world-cup-memes/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 15",
+      "loc": "Global",
+      "event": "Piers Morgan explains how Harry Kane can get back at Donald Trump and US for 250th independence celebration",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/piers-morgan-explains-how-harry-kane-can-get-back-at-donald-trump-and-us-for-250th-independence-celebration/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 15",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026 Final Winner Predicted: Model",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://heavy.com/sports/soccer/fifa-world-cup-2026-final-winner-predicted-model/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 15",
+      "loc": "Global",
+      "event": "Erling Haaland brings taxidermied raccoon back to Norway after saying 'goodbye' to US World Cup run",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://freerepublic.com/focus/f-news/4387849/posts"
+        }
+      ]
+    },
+    {
+      "date": "Jul 15",
+      "loc": "Global",
+      "event": "World Cup 2026: After 100 matches, the semifinals belong to soccer's heavyweights",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-after-100-matches-the-semifinals-belong-to-soccers-heavyweights-011116826.html"
+        }
+      ]
+    },
     {
       "date": "Jul 15",
       "loc": "Dallas",
@@ -793,157 +885,7 @@
           "url": "https://www.esquire.com/style/mens-accessories/a71921355/david-beckham-world-cup-tudor-watch-2026/"
         }
       ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Global",
-      "event": "Shakira y Burna Boy lideran las listas globales con \"Dai Dai\"",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.billboard.com/espanol/noticias/shakira-burna-boy-dai-dai-no-1-global-copa-mundial-1236293343/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Global",
-      "event": "All 5 Times Lamine Yamal Has Beaten Kylian Mbapp\u00e9 In Elimination Matches",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/all-5-times-lamine-yamal-has-beaten-kylian-mbappe-elimination-matches"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Atlanta",
-      "event": "PREVIEW | England vs Argentina: team news, lineups, predictions (World Cup 15/07)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.playmakerstats.com/news/preview-england-vs-argentina-team-news-lineups-predictions-world-cup-15-07/1156721"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Global",
-      "event": "Donald Trump advisor declares favorite for World Cup glory ahead of semifinals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/trump-giuliani-world-cup-favorites-1934924"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Global",
-      "event": "Dutch referee dies aged 38 weeks after being dropped from World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/dutch-referee-dies-aged-38-weeks-after-being-dropped-from-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Global",
-      "event": "Shakira & Burna Boy\u2019s \u2018Dai Dai\u2019 No. 1 on Both Global Charts",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.billboard.com/music/chart-beat/shakira-burna-boy-dai-dai-global-chart-number-one-1236293292/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Global",
-      "event": "FIFA World Cup: Five biggest controversies of the 2026 tournament",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/13/fifa-world-cup-five-biggest-controversies-of-the-2026-tournament"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Global",
-      "event": "USMNT\u2019s World Cup Dream Is Over, But \u2018U.S. Against The World\u2019 Producers Want To Turn HBO Max Docuseries Into \u201cForever Franchise\u201d",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://deadline.com/2026/07/usmnt-against-the-world-hbo-docuseries-forever-franchise-1236980972/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Global",
-      "event": "USMNT\u2019s World Cup Dream Is Over, But \u2018U.S. Against The World\u2019 Producers Want To Turn HBO Max Docuseries Into \u201cForever Franchise\u201d",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://deadline.com/2026/07/usmnt-against-the-world-hbo-docuseries-forever-franchise-1236980972/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 15",
-      "loc": "Global",
-      "event": "France vs. Spain: Where to watch the 2026 World Cup semifinal match, TV channel, start time, free streaming info, and more",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/france-vs-spain-where-to-watch-the-2026-world-cup-semifinal-match-tv-channel-start-time-free-streaming-info-and-more-182800195.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-15T01:05:50.863636Z"
+  "lastUpdated": "2026-07-15T04:35:51.710187Z"
 }
