@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 42
+    "p3": 30
   },
   "watchlist": [
     {
@@ -131,12 +131,124 @@
   ],
   "risks": [
     {
+      "title": "Sports World Reacts To Argentina's Comeback Win vs. England In World Cup Semis",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The sports world was sent into a frenzy over another stunning Argentina comeback at the 2026 FIFA World Cup, this time over England in the semifinals.",
+      "timestamp": "2026-07-16T23:44:22.197220Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/sports-world-reacts-argentinas-comeback-win-vs-england-world-cup-semis"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Messi praises Argentina\u2019s mentality after reaching another World Cup final: \u2018This group never stopped believing\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "After reaching another World Cup final, Lionel Messi shared words of appraisal to his Argentina teammates: \"This group never stopped believing.\" Lionel Messi delivered yet another masterclass at the 2026 FIFA World Cup, orchestrating Argentina\u2018s high-stakes s\u2026",
+      "timestamp": "2026-07-16T23:44:22.197328Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/lionel-messi-praises-argentinas-mentality-after-reaching-another-world-cup-final-this-group-never-stopped-believing/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup 2026: Is Thomas Tuchel to blame for England's loss to Argentina?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Tuchel didn't have any answers for England's loss after Wednesday's game. He also didn't have any answers for Argentina's second-half tactics and heroics.",
+      "timestamp": "2026-07-16T23:44:22.197373Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-is-thomas-tuchel-to-blame-for-englands-loss-to-argentina-232546143.html"
+        }
+      ]
+    },
+    {
+      "title": "England vs Argentina Highlights  2026 FIFA World Cup\u2122 | Semifinals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "This video features the high-stakes 2026 FIFA World Cup semifinal match between England and Argentina, culminating in a dramatic late comeback by Argentina. Match Overview & Highlights: Tactical Changes: England entered the match with tactical adjustments by \u2026",
+      "timestamp": "2026-07-16T23:44:22.197407Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://freerepublic.com/focus/f-news/4388119/posts"
+        }
+      ]
+    },
+    {
+      "title": "How IShowSpeed reacted to England\u2019s World Cup exit against Lionel Messi\u2019s Argentina",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "American influencer IShowSpeed was among the many famous faces in the crowd for the World Cup semi-final in Atlanta. Harry Kane\u2019s England played against Lionel Messi\u2019s Argentina at the Mercedes-Benz Stadium for a place in the final.",
+      "timestamp": "2026-07-16T23:44:22.197594Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b43d1004-7480-4d93-a07e-9b41eedf9a38"
+        }
+      ]
+    },
+    {
+      "title": "Spain vs. Argentina Combined XI: Messi, Yamal Lead World Cup Final Team",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Ahead of the Spain vs. Argentina 2026 FIFA World Cup final, we picked a combined XI featuring Lionel Messi, Lamine Yamal, Rodri and Emiliano Mart\u00ednez.",
+      "timestamp": "2026-07-16T23:44:22.197701Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/spain-vs-argentina-combined-xi-messi-yamal-lead-world-cup-final-team"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Messi, Lamine Yamal Met Almost 20 Years Ago For This Delightful Photo Shoot",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina's Lionel Messi and Spain's Lamine Yamal go way back to long before the 2026 World Cup final.",
+      "timestamp": "2026-07-16T23:44:22.197742Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/messi-yamal-faceoff-world-cup-final-wont-first-meeting"
+        }
+      ]
+    },
+    {
+      "title": "Spain vs Argentina Odds: Spain Favored Over In World Cup Final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Here are the latest odds to win the 2026 FIFA World Cup now that Spain and Argentina have advanced to the championship.",
+      "timestamp": "2026-07-16T23:44:22.197847Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/spain-vs-argentina-odds-spain-favored-over-world-cup-final"
+        }
+      ]
+    },
+    {
       "title": "Lisandro Martinez helps Argentina storm into World Cup final",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Manchester United defender Lisandro Martinez is set to feature in the 2026 FIFA World Cup final following Argentina\u2019s dramatic 2-1 win over England in the semi-final on Wednesday, 15 July. Martinez ...",
-      "timestamp": "2026-07-16T22:43:58.520448Z",
+      "timestamp": "2026-07-16T23:44:22.197979Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi's Argentina celebrate after their come-from-behind win over England in the FIFA World Cup semi-final on Wednesday.",
-      "timestamp": "2026-07-16T22:43:58.520604Z",
+      "timestamp": "2026-07-16T23:44:22.198111Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "That hurt. There is no other way to put it. For 84 minutes in Atlanta, England had one foot in their first World Cup final on foreign soil. Thomas Tuchel\u2019s tactical setup worked almost to perfection...",
-      "timestamp": "2026-07-16T22:43:58.520650Z",
+      "timestamp": "2026-07-16T23:44:22.198154Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina's players held up a banner reading \"Las Malvinas son Argentinas\" (The Falklands are Argentine) after they beat England 2-1 in their World Cup semi-final on Wednesday.The match at Atlanta's Mercedes-Benz Stadium was played against the backdrop of a l\u2026",
-      "timestamp": "2026-07-16T22:43:58.520682Z",
+      "timestamp": "2026-07-16T23:44:22.198187Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "An honest review of the official FIFA 2026 World Cup margarita. Here's how you can make your own Casamigos drinks at home ahead of the final game on July 19.",
-      "timestamp": "2026-07-16T22:43:58.520764Z",
+      "timestamp": "2026-07-16T23:44:22.198282Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium.",
-      "timestamp": "2026-07-16T22:43:58.520784Z",
+      "timestamp": "2026-07-16T23:44:22.198305Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain and Argentina will face off in the 2026 World Cup final on July 19 at New York New Jersey Stadium.",
-      "timestamp": "2026-07-16T22:43:58.520803Z",
+      "timestamp": "2026-07-16T23:44:22.198324Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A 19-year-old photo will carry enormous significance next Sunday (19), when Spain and Argentina face off in the 2026 FIFA World Cup final.The image of a young Lionel Messi bathing a baby Lamine Yamal ...",
-      "timestamp": "2026-07-16T22:43:58.520824Z",
+      "timestamp": "2026-07-16T23:44:22.198347Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The semi-finals served up the incredible stories you expect at a World Cup.",
-      "timestamp": "2026-07-16T22:43:58.520894Z",
+      "timestamp": "2026-07-16T23:44:22.198425Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Four key storylines to know for the 2026 FIFA World Cup final between Spain and Argentina on Sunday.",
-      "timestamp": "2026-07-16T22:43:58.520911Z",
+      "timestamp": "2026-07-16T23:44:22.198444Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Links: HOMEPAGE\u00a0\u2013 TV.comFIFA.World.Cup.2026.Semi.Final.England.Vs.Argentina.1080p.HDTV.H264-DARKSPORTMKV | AC3 / dolby digital | 5.98GBNFO \u2013 Subtitles \u2013 Torrent \u2013 NiTROFLARE \u2013 RAPiDGATORSingle File RAR: RAPiDGATOR BackupFIFA.World.Cup.2026.Round.Of.16.Portuga\u2026",
-      "timestamp": "2026-07-16T22:43:58.520940Z",
+      "timestamp": "2026-07-16T23:44:22.198478Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "What channel is Argentina vs Spain match on? Time, how to watch, how to stream 2026 World Cup final match on TV, streaming on Sunday, July 19, 2026.",
-      "timestamp": "2026-07-16T22:43:58.521012Z",
+      "timestamp": "2026-07-16T23:44:22.198553Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina and England supporters were out in force in Atlanta ahead of the World Cup semi-final on Wednesday. With a place in the final at stake and given the political tension over the Falkland Islands, it was an enormous occasion.",
-      "timestamp": "2026-07-16T22:43:58.521036Z",
+      "timestamp": "2026-07-16T23:44:22.198581Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "It's Lionel Messi and Argentina vs Lamine Yamal and Spain for the 2026 World Cup final. Here are all the details for the epic showdown.",
-      "timestamp": "2026-07-16T22:43:58.521144Z",
+      "timestamp": "2026-07-16T23:44:22.198681Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France will face England for Saturday\u2019s World Cup Bronze final. The game will be played in Miami\u2019s Hard Rock Stadium at 11pm CET. The Three Lions fell to World Cup holders Argentina on Wednesday a...",
-      "timestamp": "2026-07-16T22:43:58.521225Z",
+      "timestamp": "2026-07-16T23:44:22.198790Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup will conclude with a blockbuster final as Spain take on defending champions Argentina at New York New Jersey Stadium on Sunday.\nThe post Spain to face Argentina in 2026 World Cup Final appeared first on Vanguard News.",
-      "timestamp": "2026-07-16T22:43:58.521248Z",
+      "timestamp": "2026-07-16T23:44:22.198814Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's what Argentina soccer icon Lionel Messi has said about his future after his team's run at the 2026 World Cup final.",
-      "timestamp": "2026-07-16T22:43:58.521270Z",
+      "timestamp": "2026-07-16T23:44:22.198836Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Holders Argentina will face Spain in the final after snatching victory England in \u2060a highly-charged encounter.",
-      "timestamp": "2026-07-16T22:43:58.521303Z",
+      "timestamp": "2026-07-16T23:44:22.198891Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England was eliminated from World Cup championship contention by losing to Argentina, but it has one more match to play in the tournament.",
-      "timestamp": "2026-07-16T22:43:58.521323Z",
+      "timestamp": "2026-07-16T23:44:22.198921Z",
       "links": [
         {
           "label": "Source",
@@ -402,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Early on in the game at Atlanta's Mercedes-Benz stadium, Messi was seen exchanging tense words with the England superstar after a foul ignited an altercation between several players.",
-      "timestamp": "2026-07-16T22:43:58.521373Z",
+      "timestamp": "2026-07-16T23:44:22.198989Z",
       "links": [
         {
           "label": "Source",
@@ -416,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain is a small favorite against Argentina in the 2026 World Cup Final.",
-      "timestamp": "2026-07-16T22:43:58.521392Z",
+      "timestamp": "2026-07-16T23:44:22.199017Z",
       "links": [
         {
           "label": "Source",
@@ -430,296 +542,136 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup may be coming to an end, but as Michael Caine advised Matthew McConaughey to do in Interstellar, it\u2019s not going quietly into that good night. Wednesday\u2019s semifinal between England and Argentina was another classic, with the latter scoring t\u2026",
-      "timestamp": "2026-07-16T22:43:58.521425Z",
+      "timestamp": "2026-07-16T23:44:22.199062Z",
       "links": [
         {
           "label": "Source",
           "url": "https://brobible.com/sports/article/england-argentina-fans-reacting-to-world-cup-semifinal/"
         }
       ]
-    },
-    {
-      "title": "Where to buy World Cup final tickets for Spain vs. Argentina at New Jersey's MetLife Stadium",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The World Cup is coming to a close, but not before a high-stakes showdown between Spain and Argentina. Here's where to find tickets.",
-      "timestamp": "2026-07-16T22:43:58.521465Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.businessinsider.com/guides/tickets/where-to-buy-spain-vs-argentina-world-cup-final-tickets-2026#article"
-        }
-      ]
-    },
-    {
-      "title": "Argentina beat England 2-1 to reach the FIFA final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Current world champions Argentina managed to secure a remarkable 2-1 victory against England in the highly crucial semi-final round of the 2026 FIFA World Cup football tournament. The match, held at the Mercedes-Benz Stadium in Atlanta, was fiercely contested\u2026",
-      "timestamp": "2026-07-16T22:43:58.521509Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.gossiplankanews.com/2026/07/argentina-beat-england-2-1-to-reach.html"
-        }
-      ]
-    },
-    {
-      "title": "Argentina stun England 2-1 with late comeback to reach W\u2019Cup final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina staged a dramatic late comeback to beat England 2-1, securing their spot in the 2026 FIFA World Cup final. Read about the thrilling match.\n\nRead More: https://punchng.com/argentina-stun-england-2-1-with-late-comeback-to-reach-wcup-final/",
-      "timestamp": "2026-07-16T22:43:58.521552Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/argentina-stun-england-2-1-with-late-comeback-to-reach-wcup-final/"
-        }
-      ]
-    },
-    {
-      "title": "Fernandez fires in equaliser for Argentina",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Enzo Fernandez equalises for Argentina against England in the 2026 World Cup semi final at the Atlanta Stadium.",
-      "timestamp": "2026-07-16T22:43:58.521581Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cj4kx9n4pv5o"
-        }
-      ]
-    },
-    {
-      "title": "Field Of Dream Entertainers To Accompany World Cup Final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Post Malone is set to headline the closing ceremony for the FIFA World Cup Final, joining a star-studded lineup that\u2019s been swelling in recent weeks.",
-      "timestamp": "2026-07-16T22:43:58.521624Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/cathyolson/2026/07/15/field-of-dream-entertainers-to-accompany-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "title": "England vs France: Date, time for 2026 World Cup third-place playoff",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England and France will meet in the 2026 FIFA World Cup third-place playoff after both sides fell short in the semi-finals.\nThe post England vs France: Date, time for 2026 World Cup third-place playoff appeared first on Vanguard News.",
-      "timestamp": "2026-07-16T22:43:58.521691Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/england-vs-france-date-time-for-2026-world-cup-third-place-playoff/"
-        }
-      ]
-    },
-    {
-      "title": "How To Watch Argentina Vs. Spain In World Cup Final, Including Pregame And Halftime Shows",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "After 102 games across 16 cities in the U.S., Canada and Mexico, the 2026 FIFA World Cup has a final, with defending champion Argentina coming from behind for a 2-1 victory over England in Wednesday\u2019s semifinal to advance to the title game against Spain. The \u2026",
-      "timestamp": "2026-07-16T22:43:58.521723Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://deadline.com/2026/07/how-to-watch-argentina-spain-world-cup-final-1236983269/"
-        }
-      ]
-    },
-    {
-      "title": "How To Watch Argentina Vs. Spain In World Cup Final, Including Pregame And Halftime Shows",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "After 102 games across 16 cities in the U.S., Canada and Mexico, the 2026 FIFA World Cup has a final, with defending champion Argentina coming from behind for a 2-1 victory over England in Wednesday\u2019s semifinal to advance to the title game against Spain. The \u2026",
-      "timestamp": "2026-07-16T22:43:58.521744Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://deadline.com/2026/07/how-to-watch-argentina-spain-world-cup-final-1236983269/"
-        }
-      ]
-    },
-    {
-      "title": "How To Watch Argentina Vs. Spain In World Cup Final, Including Closing Ceremony & Halftime Show",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "After 102 games across 16 cities in the U.S., Canada and Mexico, the 2026 FIFA World Cup has a final, with defending champion Argentina coming from behind for a 2-1 victory over England in Wednesday\u2019s semifinal to advance to the title game against Spain. The \u2026",
-      "timestamp": "2026-07-16T22:43:58.521772Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://deadline.com/2026/07/how-to-watch-world-cup-final-argentina-vs-spain-1236983269/"
-        }
-      ]
-    },
-    {
-      "title": "How to buy tickets to see Spain vs Argentina in World Cup Final at MetLife",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "It's Spain vs Argentina in the 2026 World Cup Final. Are tickets still available at MetLife Stadium? See the latest on the World Cup Final.",
-      "timestamp": "2026-07-16T22:43:58.521790Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/15/spain-argentina-world-cup-final-2026-tickets-metlife-nj/90912586007/"
-        }
-      ]
-    },
-    {
-      "title": "Winning the Off-Field Match: How Corporate Communications, Smart Marketing, and Data Shape World Cup 2026 Commercial Impact",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Winning the Off-Field Match: How Corporate Communications, Smart Marketing, and Data Shape World Cup 2026 Commercial Impactllyc.global",
-      "timestamp": "2026-07-16T22:43:58.521811Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://llyc.global/en/trends/winning-the-off-field-match-how-corporate-communications-smart-marketing-and-data-shape-world-cup-2026-commercial-impact/"
-        }
-      ]
-    },
-    {
-      "title": "Video: Lautaro Martinez scores after Lionel Messi assist to complete Argentina\u2019s comeback vs England",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "With a great assist from Lionel Messi, Lautaro Martinez scored a header to complete Argentina's comeback in the 2026 World Cup semifinals against England. Argentina and England battled in a thrilling 2026 FIFA World Cup semifinal clash on Wednesday at Mercede\u2026",
-      "timestamp": "2026-07-16T22:43:58.521842Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/video-lautaro-martinez-scores-after-lionel-messi-assist-to-complete-argentinas-comeback-vs-england/"
-        }
-      ]
-    },
-    {
-      "title": "Spain vs Argentina: Date, kickoff time and venue for the 2026 World Cup Final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina produced a spectacular comeback to defeat England and secure their place in the final against Spain. Spain and Argentina both booked their place in the 2026 World Cup final, closing out the semifinal round and setting up a heavyweight rematch of sor\u2026",
-      "timestamp": "2026-07-16T22:43:58.521873Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/spain-vs-argentina-date-kickoff-time-and-venue-for-the-2026-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "title": "Messi, Argentina will play Spain in World Cup Final at MetLife",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina has advanced to the World Cup Final, which will be played against Spain at MetLife Stadium in New Jersey.",
-      "timestamp": "2026-07-16T22:43:58.521950Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/15/argentina-vs-spain-world-cup-final-match-metlife-stadium/90928459007/"
-        }
-      ]
-    },
-    {
-      "title": "Quote of the day by France FIFA World Cup 2026 coach Didier Deschamps, 'For me, I always considered that a group is above everything else' is a life lesson on winning psychology that says collective success should always take priority over personal ambition",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Quote of the day by Didier Deschamps offers a timeless lesson about teamwork, humility, and leadership. Didier Deschamps' words remind us that lasting success grows from cooperation, mutual respect, and a commitment to something greater than ourselves. Whethe\u2026",
-      "timestamp": "2026-07-16T22:43:58.522012Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-didier-deschamps-for-me-i-always-considered-that-a-group-is-above-everything-else-is-a-life-lesson-on-winning-psychology-that-says-collective-success-should-always-take-priority-over-personal-ambition/articleshow/132424887.cms"
-        }
-      ]
-    },
-    {
-      "title": "Argentina back into World Cup final with comeback against England",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina made yet another shocking comeback at the 2026 FIFA World Cup to secure its second consecutive final by beating England 2-1 after a nail-biting second half.England took the lead when Barcelo...",
-      "timestamp": "2026-07-16T22:43:58.522041Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/8ca0b9080162db7c"
-        }
-      ]
-    },
-    {
-      "title": "Argentina 2-1 England: Messi inspires comeback to send holders into World Cup final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina came from behind to beat England 2-1 in the 2026 FIFA World Cup semi-finals at Atlanta Stadium on Wednesday evening. England dominated possession early on, but Argentina\u2019s physicality prev...",
-      "timestamp": "2026-07-16T22:43:58.522129Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_46a9a16e-2e96-4df4-b107-9a561a03c550"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi Delivers 2 Clutch Assists To Lead Argentina To Back-To-Back World Cup Finals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi delivered two clutch assists in crunch time to lead Argentina to a 2-1 comeback win over England in the 2026 FIFA World Cup semifinals on Wednesday at Atlanta Stadium.",
-      "timestamp": "2026-07-16T22:43:58.522214Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/lionel-messi-delivers-2-clutch-assists-lead-argentina-back-to-back-world-cup-final"
-        }
-      ]
-    },
-    {
-      "title": "France vs England: Date, kick-off time and venue for the 2026 FIFA World Cup third-place match",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Although all the attention is focused on the 2026 World Cup final, France and England will play in the third-place match. With the tournament nearing its end, the date, kick-off time, and venue for the match have already been confirmed. Despite beginning the \u2026",
-      "timestamp": "2026-07-16T22:43:58.522276Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/france-vs-england-date-kick-off-time-and-venue-for-the-2026-fifa-world-cup-third-place-match/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup Final instant prediction for Spain vs. Argentina",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Preview and prediction for Argentina vs. Spain in the 2026 World Cup final.",
-      "timestamp": "2026-07-16T22:43:58.522309Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sbnation.com/soccer/1122434/world-cup-final-instant-prediction-for-spain-vs-argentina"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "Sports World Reacts To Argentina's Comeback Win vs. England In World Cup Semis",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/sports-world-reacts-argentinas-comeback-win-vs-england-world-cup-semis"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "Lionel Messi praises Argentina\u2019s mentality after reaching another World Cup final: \u2018This group never stopped believing\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/lionel-messi-praises-argentinas-mentality-after-reaching-another-world-cup-final-this-group-never-stopped-believing/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "World Cup 2026: Is Thomas Tuchel to blame for England's loss to Argentina?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-is-thomas-tuchel-to-blame-for-englands-loss-to-argentina-232546143.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "England vs Argentina Highlights  2026 FIFA World Cup\u2122 | Semifinals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://freerepublic.com/focus/f-news/4388119/posts"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Atlanta",
+      "event": "How IShowSpeed reacted to England\u2019s World Cup exit against Lionel Messi\u2019s Argentina",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b43d1004-7480-4d93-a07e-9b41eedf9a38"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "Spain vs. Argentina Combined XI: Messi, Yamal Lead World Cup Final Team",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/spain-vs-argentina-combined-xi-messi-yamal-lead-world-cup-final-team"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "Lionel Messi, Lamine Yamal Met Almost 20 Years Ago For This Delightful Photo Shoot",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/messi-yamal-faceoff-world-cup-final-wont-first-meeting"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "Spain vs Argentina Odds: Spain Favored Over In World Cup Final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/spain-vs-argentina-odds-spain-favored-over-world-cup-final"
+        }
+      ]
+    },
     {
       "date": "Jul 16",
       "loc": "Global",
@@ -1049,307 +1001,7 @@
           "url": "https://brobible.com/sports/article/england-argentina-fans-reacting-to-world-cup-semifinal/"
         }
       ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "New York / New Jersey",
-      "event": "Where to buy World Cup final tickets for Spain vs. Argentina at New Jersey's MetLife Stadium",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.businessinsider.com/guides/tickets/where-to-buy-spain-vs-argentina-world-cup-final-tickets-2026#article"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Atlanta",
-      "event": "Argentina beat England 2-1 to reach the FIFA final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.gossiplankanews.com/2026/07/argentina-beat-england-2-1-to-reach.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "Argentina stun England 2-1 with late comeback to reach W\u2019Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/argentina-stun-england-2-1-with-late-comeback-to-reach-wcup-final/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "Fernandez fires in equaliser for Argentina",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cj4kx9n4pv5o"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "Field Of Dream Entertainers To Accompany World Cup Final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/cathyolson/2026/07/15/field-of-dream-entertainers-to-accompany-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "England vs France: Date, time for 2026 World Cup third-place playoff",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/england-vs-france-date-time-for-2026-world-cup-third-place-playoff/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "How To Watch Argentina Vs. Spain In World Cup Final, Including Pregame And Halftime Shows",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://deadline.com/2026/07/how-to-watch-argentina-spain-world-cup-final-1236983269/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "How To Watch Argentina Vs. Spain In World Cup Final, Including Pregame And Halftime Shows",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://deadline.com/2026/07/how-to-watch-argentina-spain-world-cup-final-1236983269/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "How To Watch Argentina Vs. Spain In World Cup Final, Including Closing Ceremony & Halftime Show",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://deadline.com/2026/07/how-to-watch-world-cup-final-argentina-vs-spain-1236983269/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "New York / New Jersey",
-      "event": "How to buy tickets to see Spain vs Argentina in World Cup Final at MetLife",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/15/spain-argentina-world-cup-final-2026-tickets-metlife-nj/90912586007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "Winning the Off-Field Match: How Corporate Communications, Smart Marketing, and Data Shape World Cup 2026 Commercial Impact",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://llyc.global/en/trends/winning-the-off-field-match-how-corporate-communications-smart-marketing-and-data-shape-world-cup-2026-commercial-impact/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "Video: Lautaro Martinez scores after Lionel Messi assist to complete Argentina\u2019s comeback vs England",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/video-lautaro-martinez-scores-after-lionel-messi-assist-to-complete-argentinas-comeback-vs-england/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "Spain vs Argentina: Date, kickoff time and venue for the 2026 World Cup Final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/spain-vs-argentina-date-kickoff-time-and-venue-for-the-2026-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "New York / New Jersey",
-      "event": "Messi, Argentina will play Spain in World Cup Final at MetLife",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/15/argentina-vs-spain-world-cup-final-match-metlife-stadium/90928459007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "Quote of the day by France FIFA World Cup 2026 coach Didier Deschamps, 'For me, I always considered that a group is above everything else' is a life lesson on winning psychology that says collective success should always take priority over personal ambition",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-didier-deschamps-for-me-i-always-considered-that-a-group-is-above-everything-else-is-a-life-lesson-on-winning-psychology-that-says-collective-success-should-always-take-priority-over-personal-ambition/articleshow/132424887.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "Argentina back into World Cup final with comeback against England",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/8ca0b9080162db7c"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "Argentina 2-1 England: Messi inspires comeback to send holders into World Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_46a9a16e-2e96-4df4-b107-9a561a03c550"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "Lionel Messi Delivers 2 Clutch Assists To Lead Argentina To Back-To-Back World Cup Finals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/lionel-messi-delivers-2-clutch-assists-lead-argentina-back-to-back-world-cup-final"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "France vs England: Date, kick-off time and venue for the 2026 FIFA World Cup third-place match",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/france-vs-england-date-kick-off-time-and-venue-for-the-2026-fifa-world-cup-third-place-match/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "World Cup Final instant prediction for Spain vs. Argentina",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sbnation.com/soccer/1122434/world-cup-final-instant-prediction-for-spain-vs-argentina"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-16T22:43:58.522536Z"
+  "lastUpdated": "2026-07-16T23:44:22.199225Z"
 }
