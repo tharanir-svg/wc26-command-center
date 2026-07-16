@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 0,
+    "p1": 1,
     "p2": 0,
-    "p3": 21
+    "p3": 22
   },
   "watchlist": [
     {
@@ -131,12 +131,278 @@
   ],
   "risks": [
     {
+      "title": "Louis Vuitton unveils bespoke Trophy Trunk for FIFA World Cup 2026 ahead of the final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Louis Vuitton unveils bespoke Trophy Trunk for FIFA World Cup 2026 ahead of the finalFrance is shown the door, and Spain has triumphed into the final of the FIFA World Cup, now waiting patiently for either England or the...",
+      "timestamp": "2026-07-16T15:22:45.420027Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.yankodesign.com/2026/07/15/louis-vuitton-unveils-bespoke-trophy-trunk-for-fifa-world-cup-2026-ahead-of-the-final/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA's star-studded World Cup final halftime show is 'what people want', top exec claims... as fan fury continues over lengthy break",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA has said the show, featuring artists such as Madonna, Shakira and Justin Bieber, will last 11 minutes at MetLife Stadium on Sunday - but the break itself could be more than half an hour.",
+      "timestamp": "2026-07-16T15:22:45.420103Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15979519/fifa-world-cup-final-halftime-metlife.html"
+        }
+      ]
+    },
+    {
+      "title": "Are Harry Kane and Lionel Messi playing? England vs Argentina projected lineups for the 2026 World Cup semifinal",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England and Argentina clash in a crucial 2026 World Cup semifinal, with Spain waiting to find out their opponent in the final. The second semifinal of the 2026 World Cup takes place at Atlanta Stadium, where England and Argentina meet for the tournament\u2019s sec\u2026",
+      "timestamp": "2026-07-16T15:22:45.420165Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/are-harry-kane-and-lionel-messi-playing-england-vs-argentina-projected-lineups-for-the-2026-world-cup-semifinal/"
+        }
+      ]
+    },
+    {
+      "title": "Rival Argentina supporters fight in Atlanta ahead of England World Cup semifinal",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Police were reportedly forced to intervene after violence broke out between rival groups of Argentina supporters in Atlanta ahead of their FIFA World Cup semifinal against England on Wednesday",
+      "timestamp": "2026-07-16T15:22:45.420246Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/argentina-fans-england-world-cup-1938487"
+        }
+      ]
+    },
+    {
+      "title": "England vs. Argentina live stream: How to watch FIFA World Cup semifinals, predictions and lineups",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The winners move on to face Spain in the final on Sunday",
+      "timestamp": "2026-07-16T15:22:45.420303Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/england-argentina-live-stream-fifa-world-cup-semifinals-predictions-lineups/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026 Streaming Guide: How to Watch Without Cable",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Who will join Spain in this Sunday's final?",
+      "timestamp": "2026-07-16T15:22:45.420444Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cnet.com/tech/services-and-software/watch-fifa-world-cup-2026-how-to-watch-without-cable/"
+        }
+      ]
+    },
+    {
+      "title": "See all of Jude Bellingham's clutch goals for England at the World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England midfielder Jude Bellingham has come up big in the 2026 World Cup, tying for the team lead with six goals in six games. See all of them here.",
+      "timestamp": "2026-07-16T15:22:45.420465Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/15/jude-bellingham-england-stats-world-cup-goals/90927386007/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup spending surge reveals major customer divide",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The ongoing FIFA World Cup 2026 is producing winners and losers both on and off the field.\nOn the pitch, the home fans faced heartbreak when Team USA\u2019s run came to an end with a 4-1 loss to Belgium.\nOff the field, however, host cities continue to win.\nSoccer \u2026",
+      "timestamp": "2026-07-16T15:22:45.420567Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/0427790f7da3b47d"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Cup picks, odds, predictions: Best bets for England vs. Argentina in semifinals on Wednesday",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "SportsLine's soccer experts have revealed their World Cup picks and World Cup predictions for Argentina vs. England in the semifinals on Wednesday",
+      "timestamp": "2026-07-16T15:22:45.420642Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/2026-world-cup-picks-odds-predictions-best-bets-england-argentina-semifinals-wednesday/"
+        }
+      ]
+    },
+    {
+      "title": "Spain\u2019s Beautiful Balance",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Louisa Thomas on Spain\u2019s 2\u20130 victory over France in the semifinals of World Cup 2026, and the performance of Spain\u2019s star forward Lamine Yamal.",
+      "timestamp": "2026-07-16T15:22:45.420675Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.newyorker.com/sports/world-cup-2026/spains-beautiful-balance"
+        }
+      ]
+    },
+    {
+      "title": "England history in major semifinals: Three Lions' all-time record in final four of World Cup, Euros",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England face Argentina for a place in the FIFA World Cup 2026 final. Here is the Three Lions' complete semifinal record at the World Cup, European Championship and UEFA Nations League.",
+      "timestamp": "2026-07-16T15:22:45.420699Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/england-semifinals-history-three-lions-record-world-cup-euros/874ee68cdf678221463a30b1"
+        }
+      ]
+    },
+    {
+      "title": "How to Watch the England vs. Argentina FIFA World Cup Semifinal Live for Free",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "One of soccer's most storied rivalries adds a new chapter today, with Lionel Messi facing England for the first time ever. The battle is going to be fierce, so don't miss a second. Here's how to watch live, even for free.\nEngland take on Argentina in the seco\u2026",
+      "timestamp": "2026-07-16T15:22:45.420749Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/166165/how-to-watch-the-england-vs-argentina-fifa-world-cup-semifinal-live-for-free"
+        }
+      ]
+    },
+    {
+      "title": "GOAL: What the World Cup Teaches Us About Cybersecurity Before the Next Global Event",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "MADISON, S.D., July 15, 2026 /PRNewswire/ -- As the FIFA World Cup enters its final days, cybersecurity experts at SBS CyberSecurity warn that the same urgency and global attention driving fan engagement are also increasing risk for organizations. As interest\u2026",
+      "timestamp": "2026-07-16T15:22:45.420779Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/goal-what-the-world-cup-teaches-us-about-cybersecurity-before-the-next-global-event-302825990.html"
+        }
+      ]
+    },
+    {
+      "title": "How to steam World Cup semifinal between Argentina and England for free",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Here's how to watch the Argentina and England match in the 2026 FIFA World Cup semifinal in Atlanta without paying.",
+      "timestamp": "2026-07-16T15:22:45.420811Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9aec31a9-21ad-4379-8fb0-60b38e9f4c0d"
+        }
+      ]
+    },
+    {
+      "title": "\u201cHosting A World Cup Semifinal Before A NFC Championship Game\u201d: NFL Fans Troll Cowboys\u2019 SB Drought Amid Soccer Hype",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Dallas Cowboys\u2019 home, AT&T Stadium, was temporarily renamed Dallas Stadium and hosted the FIFA World Cup Semifinal Between Spain and France on Tuesday. With more than 70,000 fans in attendance, the event was filled with soccer fanatics and celebrities alike.",
+      "timestamp": "2026-07-16T15:22:45.420885Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1aa97906-df7e-449c-a58e-47d7c3b69ccb"
+        }
+      ]
+    },
+    {
+      "title": "Reason New England Patriots owner invited Scottish soccer fans to NFL game shared",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup saw a surprising relationship built between Scottish soccer fans and the city of Boston. Scotland\u2019s first two group games of the tournament took place in Boston, and travelling fans became very popular among the locals.",
+      "timestamp": "2026-07-16T15:22:45.421037Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/reason-new-england-patriots-owner-invited-scottish-soccer-fans-to-nfl-game-shared/"
+        }
+      ]
+    },
+    {
+      "title": "Events boss defends FIFA over extended World Cup half-time show",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Fifa has said the show, featuring artists such as Madonna, Shakira and Justin Bieber, will last 11 minutes at the MetLife Stadium on Sunday",
+      "timestamp": "2026-07-16T15:22:45.421143Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d2264023-eac0-4df4-9434-5b8b64e559db"
+        }
+      ]
+    },
+    {
+      "title": "How grassroots soccer brings people together in Canada beyond the spectacle of the World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "As the 2026 World Cup draws to a close, the focus has been on packed stadiums \u2014 but in an Ontario city, connection grows on informal fields, where soccer turns diversity into shared belonging.",
+      "timestamp": "2026-07-16T15:22:45.421197Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://theconversation.com/how-grassroots-soccer-brings-people-together-in-canada-beyond-the-spectacle-of-the-world-cup-286205"
+        }
+      ]
+    },
+    {
+      "title": "How to Watch the 2026 FIFA World Cup Live Without Cable (Even for Free)",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Today, the World Cup semifinals will wrap up with a fierce match between England and Argentina. Which team will make it through to face Spain in Sunday's final? Here's how to tune in live.\nThe World Cup is wrapping up quickly, but we still have three big matc\u2026",
+      "timestamp": "2026-07-16T15:22:45.421226Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/161984/how-to-watch-2026-fifa-world-cup-live-stream-for-free-semifinal-july-15"
+        }
+      ]
+    },
+    {
       "title": "(VIDEO) How to Watch England vs Argentina World Cup Semifinal for Free: TV Channels and Streams by Country",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Discover free viewing options for the England vs Argentina 2026 World Cup semifinal, including broadcast details and historical context of this storied rivalry.",
-      "timestamp": "2026-07-16T13:09:20.960337Z",
+      "timestamp": "2026-07-16T15:22:45.421268Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England and Argentina will renew one of international football\u2019s fiercest rivalries on Wednesday night with a place in the 2026 FIFA World Cup final on the line.Thomas Tuchel\u2019s side booked their p...",
-      "timestamp": "2026-07-16T13:09:20.960390Z",
+      "timestamp": "2026-07-16T15:22:45.421295Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "To celebrate the excitement of the FIFA World Cup, Assam's Chief Minister has sanctioned later operating hours for restaurants, enabling devoted fans to enjoy the semi-finals and finals. Restaurants in Guwahati will be allowed to serve until 3:30 am on select\u2026",
-      "timestamp": "2026-07-16T13:09:20.960578Z",
+      "timestamp": "2026-07-16T15:22:45.421470Z",
       "links": [
         {
           "label": "Source",
@@ -178,254 +444,301 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Learn which TV channel or how to live stream the England and Argentina FIFA World Cup match.",
-      "timestamp": "2026-07-16T13:09:20.960694Z",
+      "timestamp": "2026-07-16T15:22:45.421612Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.foxsports.com/stories/soccer/england-vs-argentina-how-to-watch-tv-channel-live-stream-2026-fifa-world-cup-semifinal"
         }
       ]
-    },
-    {
-      "title": "How to Watch the World Cup Today: Schedule, Time, TV, Streaming for Second Semifinal",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England meets Argentina in a 2026 World Cup semifinal today. See the kickoff time, TV channel and how to stream the match live on FOX.",
-      "timestamp": "2026-07-16T13:09:20.960749Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/how-watch-world-cup-today-schedule-time-tv-streaming-second-semifinal"
-        }
-      ]
-    },
-    {
-      "title": "England vs. Argentina odds, prediction, time: 2026 World Cup semifinal picks by expert on 25-18 roll",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "SportsLine's Jon Eimer reveals his Argentina vs. England best bets in the FIFA World Cup 2026 semifinals on Wednesday",
-      "timestamp": "2026-07-16T13:09:20.960815Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/england-argentina-odds-prediction-start-time-2026-world-cup-semifinal-picks/"
-        }
-      ]
-    },
-    {
-      "title": "Who Are the Announcers for England vs. Argentina in the 2026 World Cup Semifinal?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Harry Kane and England meet Lionel Messi and Argentina tomorrow with a World Cup final berth on the line. Here's the full FOX broadcast team.",
-      "timestamp": "2026-07-16T13:09:20.960856Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/who-announcers-england-vs-argentina-2026-world-cup-semifinal"
-        }
-      ]
-    },
-    {
-      "title": "\"Hydration breaks\" can help the \"beautiful game\" become a beautiful business",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup has seen the \"hydration break\" become a point of contention, with in-stadium fans repeatedly booing (and the FIFA-fearful broadcasters not inclined to mention it) and Fox laughing all the way to the bank.",
-      "timestamp": "2026-07-16T13:09:20.960900Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/hydration-breaks-can-help-the-beautiful-game-become-a-beautiful-business"
-        }
-      ]
-    },
-    {
-      "title": "World Cup final public transit will start earlier for closing ceremony",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Public transportation to the 2026 FIFA World Cup final at MetLife Stadium will start earlier on July 19 for the tournament's closing ceremony.",
-      "timestamp": "2026-07-16T13:09:20.960920Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/news/new-jersey/2026/07/15/fifa-world-cup-final-transportation/90926459007/"
-        }
-      ]
-    },
-    {
-      "title": "Why does England sing 'Wonderwall' at World Cup? Oasis anthem explained",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England players and fans have belted out the Oasis song \"Wonderwall\" after wins at the 2026 World Cup.",
-      "timestamp": "2026-07-16T13:09:20.960981Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/15/wonderwall-england-world-cup-oasis/90924732007/"
-        }
-      ]
-    },
-    {
-      "title": "Argentina vs England schedule, TV channel for World Cup match today",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "What channel is England vs Argentina match on today? Time, how to watch, how to stream 2026 World Cup match on TV, streaming Wednesday, July 15, 2026.",
-      "timestamp": "2026-07-16T13:09:20.961016Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.azcentral.com/story/sports/soccer/worldcup/2026/07/15/argentina-england-time-tv-channel-schedule-world-cup-2026-match-wednesday/90901379007/"
-        }
-      ]
-    },
-    {
-      "title": "Argentina vs. England odds, prediction, time: 2026 World Cup semifinal picks from expert on 19-8 roll",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "SportsLine's Martin Green reveals his picks for Lionel Messi and Argentina versus Harry Kane and England in the World Cup 2026 on Wednesday",
-      "timestamp": "2026-07-16T13:09:20.961055Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/argentina-england-odds-prediction-time-line-2026-world-cup-semifinal-picks-best-bets/"
-        }
-      ]
-    },
-    {
-      "title": "\u2018Love & Hip Hop\u2019 Star Tommie Lee Arrested at World Cup Match!",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Love & Hip Hop: Atlanta star Tommie Lee was arrested Saturday after authorities say she entered Hard Rock Stadium without a ticket during the World Cup match between England and Norway. Lee, whose legal name is Atasha Chizaah Jefferson, was taken into custody\u2026",
-      "timestamp": "2026-07-16T13:09:20.961292Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://mediatakeout.com/love-hip-hop-star-tommie-lee-arrested-at-world-cup-match/"
-        }
-      ]
-    },
-    {
-      "title": "How to Watch the 2026 FIFA World Cup Semifinal Live Without Cable (Even for Free)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The World Cup semifinals wrap up today with a match between England and Argentina. Who will make it through to face Spain in the final on Sunday? Here's how to catch the action live.\nFollowing Spain's impressive defeat over France (2-0) yesterday, today we'll\u2026",
-      "timestamp": "2026-07-16T13:09:20.961374Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/161984/how-to-watch-2026-fifa-world-cup-semifinal-live-stream-for-free"
-        }
-      ]
-    },
-    {
-      "title": "Throwback: \u2018Hand of God\u2019, \u2018Goal of the Century\u2019 \u2013 Two records Maradona set against England",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "As England and Argentina prepare to renew one of football's fiercest rivalries in Wednesday's 2026 FIFA World Cup semi-final, memories of Diego Maradona's unforgettable performance in Mexico 1986 have once again taken centre stage.\nThe post Throwback: \u2018Hand o\u2026",
-      "timestamp": "2026-07-16T13:09:20.961453Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/throwback-hand-of-god-goal-of-the-century-two-records-maradona-set-against-england/"
-        }
-      ]
-    },
-    {
-      "title": "Fans believe Spain are destined for FIFA World Cup win as EA Sports prediction statistic goes viral",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "With EA Sports\u2019 predicted pick Spain reaching the FIFA World Cup final, fans believe history is set to repeat itself. Since the 2010 FIFA World Cup, EA Sports have run simulations on their FIFA (now FC) game franchise to make a prediction of who would win the\u2026",
-      "timestamp": "2026-07-16T13:09:20.961586Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/fans-believe-spain-are-destined-for-fifa-world-cup-win-as-ea-sports-prediction-statistic-goes-viral/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup brackets: Teams, predictions, schedule and road to the final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain booked its place in the World Cup final while England and Argentina prepare for the game at Atlanta stadium.",
-      "timestamp": "2026-07-16T13:09:20.961726Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/news/2026/7/15/fifa-world-cup-brackets-teams-predictions-schedule-and-road-to-the-final"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup brackets: Teams, predictions, schedule and road to the final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain booked its place in the World Cup final while England and Argentina prepare for the game at Atlanta stadium.",
-      "timestamp": "2026-07-16T13:09:20.961742Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_62a0cf3f-c9c3-4970-a6d1-df7e18661367"
-        }
-      ]
-    },
-    {
-      "title": "Lamine Yamal to become third-youngest World Cup finalist ever",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lamine Yamal is set to make yet more World Cup history after helping Spain reach the final with victory over France. When he takes to the pitch at MetLife Stadium on Sunday, the Barcelona teenager wil...",
-      "timestamp": "2026-07-16T13:09:20.961839Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.playmakerstats.com/news/lamine-yamal-to-become-third-youngest-world-cup-finalist-ever/1157271"
-        }
-      ]
-    },
-    {
-      "title": "England vs. Argentina: A football rivalry full of history",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "From the Falkland Islands to Diego Maradona and David Beckham, there is so much history between the two 2026 World Cup semifinalists. World Cup holders Argentina are to face England in the 2026 World Cup semifinal in Atlanta \u2013 a match that will take place aga\u2026",
-      "timestamp": "2026-07-16T13:09:20.961889Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dw.com/en/england-vs-argentina-a-football-rivalry-full-of-history/a-77962179"
-        }
-      ]
-    },
-    {
-      "title": "Why the World Cup is still worth watching without the US men | Opinion",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The USMNT is out, but the 2026 World Cup remains a must-watch featuring stars like Messi and Mbapp\u00e9 who give the whole world reason to celebrate.",
-      "timestamp": "2026-07-16T13:09:20.961955Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.tennessean.com/story/opinion/contributors/2026/07/15/world-cup-messi-mpabbe-haaland-usmnt/90918297007/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "Louis Vuitton unveils bespoke Trophy Trunk for FIFA World Cup 2026 ahead of the final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.yankodesign.com/2026/07/15/louis-vuitton-unveils-bespoke-trophy-trunk-for-fifa-world-cup-2026-ahead-of-the-final/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "New York / New Jersey",
+      "event": "FIFA's star-studded World Cup final halftime show is 'what people want', top exec claims... as fan fury continues over lengthy break",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15979519/fifa-world-cup-final-halftime-metlife.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "Are Harry Kane and Lionel Messi playing? England vs Argentina projected lineups for the 2026 World Cup semifinal",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/are-harry-kane-and-lionel-messi-playing-england-vs-argentina-projected-lineups-for-the-2026-world-cup-semifinal/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "Rival Argentina supporters fight in Atlanta ahead of England World Cup semifinal",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/argentina-fans-england-world-cup-1938487"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "England vs. Argentina live stream: How to watch FIFA World Cup semifinals, predictions and lineups",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/england-argentina-live-stream-fifa-world-cup-semifinals-predictions-lineups/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026 Streaming Guide: How to Watch Without Cable",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cnet.com/tech/services-and-software/watch-fifa-world-cup-2026-how-to-watch-without-cable/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "See all of Jude Bellingham's clutch goals for England at the World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/15/jude-bellingham-england-stats-world-cup-goals/90927386007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "FIFA World Cup spending surge reveals major customer divide",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/0427790f7da3b47d"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "2026 World Cup picks, odds, predictions: Best bets for England vs. Argentina in semifinals on Wednesday",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/2026-world-cup-picks-odds-predictions-best-bets-england-argentina-semifinals-wednesday/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "Spain\u2019s Beautiful Balance",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.newyorker.com/sports/world-cup-2026/spains-beautiful-balance"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "England history in major semifinals: Three Lions' all-time record in final four of World Cup, Euros",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/england-semifinals-history-three-lions-record-world-cup-euros/874ee68cdf678221463a30b1"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "How to Watch the England vs. Argentina FIFA World Cup Semifinal Live for Free",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/166165/how-to-watch-the-england-vs-argentina-fifa-world-cup-semifinal-live-for-free"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "GOAL: What the World Cup Teaches Us About Cybersecurity Before the Next Global Event",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/goal-what-the-world-cup-teaches-us-about-cybersecurity-before-the-next-global-event-302825990.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "How to steam World Cup semifinal between Argentina and England for free",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9aec31a9-21ad-4379-8fb0-60b38e9f4c0d"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Dallas",
+      "event": "\u201cHosting A World Cup Semifinal Before A NFC Championship Game\u201d: NFL Fans Troll Cowboys\u2019 SB Drought Amid Soccer Hype",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1aa97906-df7e-449c-a58e-47d7c3b69ccb"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "Reason New England Patriots owner invited Scottish soccer fans to NFL game shared",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/reason-new-england-patriots-owner-invited-scottish-soccer-fans-to-nfl-game-shared/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "New York / New Jersey",
+      "event": "Events boss defends FIFA over extended World Cup half-time show",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d2264023-eac0-4df4-9434-5b8b64e559db"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "How grassroots soccer brings people together in Canada beyond the spectacle of the World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://theconversation.com/how-grassroots-soccer-brings-people-together-in-canada-beyond-the-spectacle-of-the-world-cup-286205"
+        }
+      ]
+    },
+    {
+      "date": "Jul 16",
+      "loc": "Global",
+      "event": "How to Watch the 2026 FIFA World Cup Live Without Cable (Even for Free)",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/161984/how-to-watch-2026-fifa-world-cup-live-stream-for-free-semifinal-july-15"
+        }
+      ]
+    },
     {
       "date": "Jul 16",
       "loc": "Global",
@@ -485,262 +798,7 @@
           "url": "https://www.foxsports.com/stories/soccer/england-vs-argentina-how-to-watch-tv-channel-live-stream-2026-fifa-world-cup-semifinal"
         }
       ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "How to Watch the World Cup Today: Schedule, Time, TV, Streaming for Second Semifinal",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/how-watch-world-cup-today-schedule-time-tv-streaming-second-semifinal"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "England vs. Argentina odds, prediction, time: 2026 World Cup semifinal picks by expert on 25-18 roll",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/england-argentina-odds-prediction-start-time-2026-world-cup-semifinal-picks/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "Who Are the Announcers for England vs. Argentina in the 2026 World Cup Semifinal?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/who-announcers-england-vs-argentina-2026-world-cup-semifinal"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "\"Hydration breaks\" can help the \"beautiful game\" become a beautiful business",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/hydration-breaks-can-help-the-beautiful-game-become-a-beautiful-business"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "New York / New Jersey",
-      "event": "World Cup final public transit will start earlier for closing ceremony",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/news/new-jersey/2026/07/15/fifa-world-cup-final-transportation/90926459007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "Why does England sing 'Wonderwall' at World Cup? Oasis anthem explained",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/15/wonderwall-england-world-cup-oasis/90924732007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "Argentina vs England schedule, TV channel for World Cup match today",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.azcentral.com/story/sports/soccer/worldcup/2026/07/15/argentina-england-time-tv-channel-schedule-world-cup-2026-match-wednesday/90901379007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "Argentina vs. England odds, prediction, time: 2026 World Cup semifinal picks from expert on 19-8 roll",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/argentina-england-odds-prediction-time-line-2026-world-cup-semifinal-picks-best-bets/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Miami",
-      "event": "\u2018Love & Hip Hop\u2019 Star Tommie Lee Arrested at World Cup Match!",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://mediatakeout.com/love-hip-hop-star-tommie-lee-arrested-at-world-cup-match/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "How to Watch the 2026 FIFA World Cup Semifinal Live Without Cable (Even for Free)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/161984/how-to-watch-2026-fifa-world-cup-semifinal-live-stream-for-free"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "Throwback: \u2018Hand of God\u2019, \u2018Goal of the Century\u2019 \u2013 Two records Maradona set against England",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/throwback-hand-of-god-goal-of-the-century-two-records-maradona-set-against-england/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "Fans believe Spain are destined for FIFA World Cup win as EA Sports prediction statistic goes viral",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/fans-believe-spain-are-destined-for-fifa-world-cup-win-as-ea-sports-prediction-statistic-goes-viral/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "FIFA World Cup brackets: Teams, predictions, schedule and road to the final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/news/2026/7/15/fifa-world-cup-brackets-teams-predictions-schedule-and-road-to-the-final"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "FIFA World Cup brackets: Teams, predictions, schedule and road to the final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_62a0cf3f-c9c3-4970-a6d1-df7e18661367"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "New York / New Jersey",
-      "event": "Lamine Yamal to become third-youngest World Cup finalist ever",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.playmakerstats.com/news/lamine-yamal-to-become-third-youngest-world-cup-finalist-ever/1157271"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "England vs. Argentina: A football rivalry full of history",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dw.com/en/england-vs-argentina-a-football-rivalry-full-of-history/a-77962179"
-        }
-      ]
-    },
-    {
-      "date": "Jul 16",
-      "loc": "Global",
-      "event": "Why the World Cup is still worth watching without the US men | Opinion",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.tennessean.com/story/opinion/contributors/2026/07/15/world-cup-messi-mpabbe-haaland-usmnt/90918297007/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-16T13:09:20.962155Z"
+  "lastUpdated": "2026-07-16T15:22:45.421811Z"
 }
