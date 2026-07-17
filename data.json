@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 30
+    "p3": 26
   },
   "watchlist": [
     {
@@ -131,12 +131,82 @@
   ],
   "risks": [
     {
+      "title": "The World Cup has shown why Manchester City are prepared to spend big to bolster their midfield",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain will meet Argentina in the 2026 FIFA World Cup final at the Met Life Stadium on Sunday. Both teams earned their way to the showpiece occasion with impressive and contrasting wins in their semi-f...",
+      "timestamp": "2026-07-17T11:11:21.239203Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://esteemedkompany.com/2026/07/16/the-world-cup-has-shown-why-manchester-city-are-prepared-to-spend-big-to-bolster-their-midfield/"
+        }
+      ]
+    },
+    {
+      "title": "Two incredible Lionel Messi stats highlight his impact in Argentina\u2019s World Cup comeback vs. England",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina are back in the World Cup final following their 2-1 victory over England in the semifinals at the Mercedes-Benz Stadium in Atlanta last night, as Lionel Messi spearheaded their comeback. After going down by one goal, courtesy of Anthony\u2026",
+      "timestamp": "2026-07-17T11:11:21.239307Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thebiglead.com/lionel-messi-stats-highlights-impact-argentina-win-over-england/"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Cup Final: All the celebrities appearing in the closing ceremony and halftime show",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Post Malone will headline the pre-game closing ceremony",
+      "timestamp": "2026-07-17T11:11:21.239440Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.the-independent.com/arts-entertainment/tv/news/world-cup-halftime-show-tom-cruise-b3016035.html"
+        }
+      ]
+    },
+    {
+      "title": "When is the next World Cup game? Schedule for rest of tournament",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England will take on France in the 2026 World Cup's third-place game this weekend, the next World Cup matchup.",
+      "timestamp": "2026-07-17T11:11:21.239484Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/16/next-world-cup-game-date-schedule/90939111007/"
+        }
+      ]
+    },
+    {
+      "title": "\u2018This is what a dictatorship does\u2019: Donald Trump sparks outrage for National Anthem decision",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "While not typically one of the more prominent nations when it comes to international soccer, the United States and President Donald Trump have been impossible to ignore throughout the 2026 FIFA World Cup, and it continues to spark outrage from the global socc\u2026",
+      "timestamp": "2026-07-17T11:11:21.239590Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_804c1777-8a4c-4656-b7a2-1fdeaac28517"
+        }
+      ]
+    },
+    {
       "title": "EXCLUSIVE | Stephen Warnock on Michael Olise: \u2018I don\u2019t think many people would have seen him at Crystal Palace as a potential Ballon d\u2019Or winner.\u2019",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Former England international Stephen Warnock was at the 2026 FIFA World Cup as a BBC co-commentator. He sat down with\u00a0Get French Football News\u00a0to discuss France\u2019s tournament so far and the impact ...",
-      "timestamp": "2026-07-17T09:42:04.098310Z",
+      "timestamp": "2026-07-17T11:11:21.239710Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After a month and a half, more than 100 soccer matches across 16 cities and 48 teams, only two countries are left to face off in the FIFA World Cup final on Sunday. Spain will play in the World Cup final for the first time since 2010, facing off against defen\u2026",
-      "timestamp": "2026-07-17T09:42:04.098377Z",
+      "timestamp": "2026-07-17T11:11:21.239739Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Cricket properties dominated Ormax Media\u2019s new Ormax StreamView report, with the ICC Men\u2019s T20 World Cup 2026 drawing an estimated 246 million viewers on JioHotstar between January and June 2026, more than any other title tracked in the measurement framework.\u2026",
-      "timestamp": "2026-07-17T09:42:04.098494Z",
+      "timestamp": "2026-07-17T11:11:21.239841Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "From Donald Trump's attendance to the match winner, the short guide before football\u2019s global showpiece in New Jersey.",
-      "timestamp": "2026-07-17T09:42:04.098544Z",
+      "timestamp": "2026-07-17T11:11:21.239885Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain are through to the 2026 World Cup final after dismissing tournament favourites France 2-0 in Dallas Stadium in Arlington, Texas, on July 14, 2026, with Mikel Oyarzabal and Pedro Porro scoring ei...",
-      "timestamp": "2026-07-17T09:42:04.098575Z",
+      "timestamp": "2026-07-17T11:11:21.239912Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi has led Argentina to yet another World Cup final, but it looks increasingly likely this might be his last. Messi dropped two assists in Argentina\u2019s 2- 1 comeback win over England in the 2026 FIFA World Cup semi-finals.",
-      "timestamp": "2026-07-17T09:42:04.098609Z",
+      "timestamp": "2026-07-17T11:11:21.239945Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina fans will now be scrambling to secure themselves a ticket for Sunday\u2019s World Cup final in New Jersey. A stunning late comeback against England booked Lionel Messi and co their spot in the final against Spain at MetLife Stadium.",
-      "timestamp": "2026-07-17T09:42:04.098638Z",
+      "timestamp": "2026-07-17T11:11:21.239976Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi leads the 2026 FIFA World Cup in successful dribbles, surpassing Lamine Yamal. Discover the full list of top dribblers.\n\nRead More: https://punchng.com/full-list-messi-overtakes-yamal-as-world-cups-top-dribbler/",
-      "timestamp": "2026-07-17T09:42:04.098667Z",
+      "timestamp": "2026-07-17T11:11:21.240004Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "IShowSpeed has been allowed to stream at a lot of the 2026 World Cup matches, but his tournament has not gone the way he hoped. Firstly, the majority of teams he supports each game often end up losing, such as England against Argentina this week.",
-      "timestamp": "2026-07-17T09:42:04.098836Z",
+      "timestamp": "2026-07-17T11:11:21.240152Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Britain has asked FIFA to investigate Argentina's soccer team. Players displayed a banner claiming sovereignty over the Falkland Islands after a match. The British government stated politics should remain separate from football games. Argentina and Britain ha\u2026",
-      "timestamp": "2026-07-17T09:42:04.098881Z",
+      "timestamp": "2026-07-17T11:11:21.240193Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "MLS commentator Nate Bukaty joins co-hosts Whitney Terrell and V.V. Ganeshananthan to talk about Kansas City\u2019s influence on American soccer and how the city came to host the World Cup. Bukaty, the co-author of Perfect Pitch: How Kansas City Became",
-      "timestamp": "2026-07-17T09:42:04.098910Z",
+      "timestamp": "2026-07-17T11:11:21.240221Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-      "timestamp": "2026-07-17T09:42:04.098933Z",
+      "timestamp": "2026-07-17T11:11:21.240242Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "An England fan who was told his flag could not be displayed at the World Cup has lashed out at FIFA after Argentina players danced around a banner claiming the Falkland Islands 'belonged to them.'",
-      "timestamp": "2026-07-17T09:42:04.099026Z",
+      "timestamp": "2026-07-17T11:11:21.240333Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Silvio Gazzaniga designed the FIFA World Cup trophy to symbolize sporting emotions. The original Jules Rimet Trophy was stolen twice and never recovered. Gazzaniga's design captures the athlete's struggle and the fan's jubilation. Winning teams receive a gold\u2026",
-      "timestamp": "2026-07-17T09:42:04.099090Z",
+      "timestamp": "2026-07-17T11:11:21.240396Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "On Sunday, 19 July, Spain will play Argentina in the FIFA World Cup final at MetLife Stadium in East Rutherford, New Jersey, the first men\u2019s World Cup final held on American soil since 1994. Argentina, the holders, reached it by beating England 2-1 in Atlanta\u2026",
-      "timestamp": "2026-07-17T09:42:04.099122Z",
+      "timestamp": "2026-07-17T11:11:21.240443Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup is now one game away from its final act, and Argentina have joined Spain in the showpiece after another dramatic night of knockout football.England faced Argentina in Atlanta w...",
-      "timestamp": "2026-07-17T09:42:04.099145Z",
+      "timestamp": "2026-07-17T11:11:21.240472Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Donald Trump spoke positively about Harry Kane ahead of the FIFA World Cup semi-final, and fans believe this jinxed England\u2019s chances to reach the final. Despite holding a 1-0 lead late into the game, England capitulated under the pressure of a dominant Argen\u2026",
-      "timestamp": "2026-07-17T09:42:04.099178Z",
+      "timestamp": "2026-07-17T11:11:21.240502Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Italian sculptor who designed the FIFA World Cup trophy wanted to capture three sporting emotions in a single spiraling form: the athlete\u2019s struggle, the fan\u2019s jubilation and the moment of victory. On Sunday, either Spain or Argentina will lift the trophy\u2026",
-      "timestamp": "2026-07-17T09:42:04.099222Z",
+      "timestamp": "2026-07-17T11:11:21.240545Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Barcelona and Spain have received encouraging news ahead of the 2026 FIFA World Cup final, with Lamine Yamal set to be fully available despite the injury concerns that emerged after the semi-final vic...",
-      "timestamp": "2026-07-17T09:42:04.099250Z",
+      "timestamp": "2026-07-17T11:11:21.240572Z",
       "links": [
         {
           "label": "Source",
@@ -402,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 31-year-old Belgium winger, who featured at the 2026 World Cup, joined the Gunners from Brighton in January 2023.\nThe post Trossard completes move to Besiktas for reported \u00a315.3m appeared first on Vanguard News.",
-      "timestamp": "2026-07-17T09:42:04.099360Z",
+      "timestamp": "2026-07-17T11:11:21.240706Z",
       "links": [
         {
           "label": "Source",
@@ -416,142 +486,91 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "How creators became this World Cup's real infrastructure: livestream culture, brand strategy, real-world activations and Gen Z fandom inside virtual worlds.",
-      "timestamp": "2026-07-17T09:42:04.099422Z",
+      "timestamp": "2026-07-17T11:11:21.240801Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.forbes.com/sites/ianshepherd/2026/07/16/the-creators-who-are-quietly-running-the-2026-world-cup/"
         }
       ]
-    },
-    {
-      "title": "Barcelona set for \u20ac2.89 million FIFA payout after strong World Cup representation",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Barcelona are set to receive almost \u20ac2.9 million for releasing its international players during the 2026 FIFA World Cup.According to Mundo Deportivo, FIFA\u2019s revised Club Benefits Programme will ha...",
-      "timestamp": "2026-07-17T09:42:04.099520Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelona-set-for-e2-89-million-fifa-payout-after-strong-world-cup-representation/"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi\u2019s nod to Barcelona after Argentina qualify for World Cup final: \u2018A club I\u2019ve always loved\u2019",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi could not hide his pride after guiding Argentina into the 2026 FIFA World Cup final, but it was his affectionate words about Barcelona that caught the attention within the Blaugrana envir...",
-      "timestamp": "2026-07-17T09:42:04.099641Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/lionel-messis-nod-to-barcelona-after-argentina-qualify-for-world-cup-final-a-club-ive-always-loved/"
-        }
-      ]
-    },
-    {
-      "title": "Argentina face punishment for \u2018direct flouting\u2019 of FIFA rules during World Cup semi-final celebration",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina\u2019s \u2018Las Malvinas son Argentinas\u2019 banner on the pitch after their 2-1 World Cup semi-final win over England might lead to a FIFA punishment. Argentina picked up a famous comeback 2-1 win over England in the semi-final of the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-17T09:42:04.099699Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/argentina-face-punishment-for-direct-flouting-of-fifa-rules-during-world-cup-semi-final-celebration/"
-        }
-      ]
-    },
-    {
-      "title": "Robo Ronaldo Explained: AI Humanoid Robot Making History at FIFA World Cup 2026",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The FIFA World Cup 2026 is not only showcasing the world\u2019s best football players but also highlighting the rapid evolution of artificial intelligence and robotics. Among the most talked-about technology innovations connected to the tournament is Robo Ronaldo,\u2026",
-      "timestamp": "2026-07-17T09:42:04.099836Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.successful-blog.com/1/who-is-robo-ronaldo/"
-        }
-      ]
-    },
-    {
-      "title": "Comeback Kings! Argentina's Great Escapes In World Cup 2026",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina battled their way into the semis after edging Cape Verde and Switzerland in extra time and coming from 2-0 down to defeat Egypt 3-2.",
-      "timestamp": "2026-07-17T09:42:04.099903Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/comeback-kings-argentinas-great-escapes-in-fifa-world-cup-2026/20260716.htm"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026: England beaten in semi-finals by Argentina - reaction",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "All the latest from the 2026 Fifa World Cup as England bow out to Argentina in the last four.",
-      "timestamp": "2026-07-17T09:42:04.099959Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bbc.com/sport/football/live/cm20r1g92zmt?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
-        }
-      ]
-    },
-    {
-      "title": "Jude Bellingham shares his one wish for England fans after World Cup semi-final loss",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England\u2019s Jude Bellingham was visibly distraught after their semi-final loss to Argentina in the 2026 FIFA World Cup. Lautaro Martinez broke English hearts with a sensational stoppage-time stunner to push Argentina to the Final at the expense of the Three Lio\u2026",
-      "timestamp": "2026-07-17T09:42:04.100035Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/jude-bellingham-shares-his-one-wish-for-england-fans-after-world-cup-semi-final-loss/"
-        }
-      ]
-    },
-    {
-      "title": "Man City 2026 World Cup Watch: Lionel Messi and Argentina break England hearts with stunning late semi-final comeback",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England\u2019s World Cup dream is over after a heartbreaking night at Mercedes-Benz Stadium, where Argentina conjured yet another late comeback to reach Sunday\u2019s final against Spain.Thomas Tuchel\u2019s s...",
-      "timestamp": "2026-07-17T09:42:04.100079Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cityxtra.co.uk/49931/man-city-2026-world-cup-watch-lionel-messi-and-argentina-break-england-hearts-with-stunning-late-semi-final-comeback/"
-        }
-      ]
-    },
-    {
-      "title": "Post Malone to headline closing ceremony for 2026 FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup final will take place at the New York New Jersey Stadium in New Jersey on Sunday.",
-      "timestamp": "2026-07-17T09:42:04.100135Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/post-malone-headline-closing-ceremony-043908321.html"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 17",
+      "loc": "Global",
+      "event": "The World Cup has shown why Manchester City are prepared to spend big to bolster their midfield",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://esteemedkompany.com/2026/07/16/the-world-cup-has-shown-why-manchester-city-are-prepared-to-spend-big-to-bolster-their-midfield/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 17",
+      "loc": "Atlanta",
+      "event": "Two incredible Lionel Messi stats highlight his impact in Argentina\u2019s World Cup comeback vs. England",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thebiglead.com/lionel-messi-stats-highlights-impact-argentina-win-over-england/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 17",
+      "loc": "Global",
+      "event": "2026 World Cup Final: All the celebrities appearing in the closing ceremony and halftime show",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.the-independent.com/arts-entertainment/tv/news/world-cup-halftime-show-tom-cruise-b3016035.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 17",
+      "loc": "Global",
+      "event": "When is the next World Cup game? Schedule for rest of tournament",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/16/next-world-cup-game-date-schedule/90939111007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 17",
+      "loc": "Global",
+      "event": "\u2018This is what a dictatorship does\u2019: Donald Trump sparks outrage for National Anthem decision",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_804c1777-8a4c-4656-b7a2-1fdeaac28517"
+        }
+      ]
+    },
     {
       "date": "Jul 17",
       "loc": "Global",
@@ -866,142 +885,7 @@
           "url": "https://www.forbes.com/sites/ianshepherd/2026/07/16/the-creators-who-are-quietly-running-the-2026-world-cup/"
         }
       ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "Barcelona set for \u20ac2.89 million FIFA payout after strong World Cup representation",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelona-set-for-e2-89-million-fifa-payout-after-strong-world-cup-representation/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "Lionel Messi\u2019s nod to Barcelona after Argentina qualify for World Cup final: \u2018A club I\u2019ve always loved\u2019",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/lionel-messis-nod-to-barcelona-after-argentina-qualify-for-world-cup-final-a-club-ive-always-loved/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "Argentina face punishment for \u2018direct flouting\u2019 of FIFA rules during World Cup semi-final celebration",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/argentina-face-punishment-for-direct-flouting-of-fifa-rules-during-world-cup-semi-final-celebration/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "Robo Ronaldo Explained: AI Humanoid Robot Making History at FIFA World Cup 2026",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.successful-blog.com/1/who-is-robo-ronaldo/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "Comeback Kings! Argentina's Great Escapes In World Cup 2026",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/comeback-kings-argentinas-great-escapes-in-fifa-world-cup-2026/20260716.htm"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "World Cup 2026: England beaten in semi-finals by Argentina - reaction",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bbc.com/sport/football/live/cm20r1g92zmt?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "Jude Bellingham shares his one wish for England fans after World Cup semi-final loss",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/jude-bellingham-shares-his-one-wish-for-england-fans-after-world-cup-semi-final-loss/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Atlanta",
-      "event": "Man City 2026 World Cup Watch: Lionel Messi and Argentina break England hearts with stunning late semi-final comeback",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cityxtra.co.uk/49931/man-city-2026-world-cup-watch-lionel-messi-and-argentina-break-england-hearts-with-stunning-late-semi-final-comeback/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "Post Malone to headline closing ceremony for 2026 FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/post-malone-headline-closing-ceremony-043908321.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-17T09:42:04.100266Z"
+  "lastUpdated": "2026-07-17T11:11:21.241023Z"
 }
