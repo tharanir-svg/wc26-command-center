@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 26
+    "p3": 21
   },
   "watchlist": [
     {
@@ -131,12 +131,194 @@
   ],
   "risks": [
     {
+      "title": "The 2026 World Cup has been a tournament where alcohol brands hoped to win influence through sponsorship",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Tournament sponsors have a captive audience.",
+      "timestamp": "2026-07-17T12:54:55.327854Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://theconversation.com/the-2026-world-cup-has-been-a-tournament-where-alcohol-brands-hoped-to-win-influence-through-sponsorship-287532"
+        }
+      ]
+    },
+    {
+      "title": "England coach Thomas Tuchel eyes future after 2026 World Cup semifinal exit",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Thomas Tuchel said he \"looks forward\" to his future as manager of England's national team after the Three Lions' brutal exit from the 2026 World Cup.",
+      "timestamp": "2026-07-17T12:54:55.327978Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.upi.com/Sports_News/Soccer/2026/07/16/latam-world-cup-Thomas-Tuchel-England-future/9161784201874/"
+        }
+      ]
+    },
+    {
+      "title": "DD.NYC Earns 2026 Webby Award Nomination for FIFA World Cup 26 New York New Jersey Website",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The nomination recognizes the agency's work on a high-profile platform built for fans, media, and partners worldwide NEW YORK, July 16, 2026 /PRNewswire/ -- DD.NYC, a leading creative design agency, has announced that its official FIFA World Cup 26\u2122 New York \u2026",
+      "timestamp": "2026-07-17T12:54:55.328138Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/ddnyc-earns-2026-webby-award-nomination-for-fifa-world-cup-26-new-york-new-jersey-website-302827483.html"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026: Biggest takeaways from the semifinals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The semifinals are now behind us, with plenty of key moments and incidents to digest ahead of Sunday\u2019s final.",
+      "timestamp": "2026-07-17T12:54:55.328217Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/16/fifa-world-cup-2026-biggest-takeaways-from-the-semifinals"
+        }
+      ]
+    },
+    {
+      "title": "Henry explains Tuchel\u2019s Marcus Rashford error vs Argentina",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Manchester United forward Marcus Rashford was only afforded a brief cameo in England\u2019s 2-1 defeat to Argentina on Wednesday, 15 July, in the 2026 World Cup semi-final. The English forward\u2019s future...",
+      "timestamp": "2026-07-17T12:54:55.328255Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thepeoplesperson.com/2026/07/16/henry-explains-tuchels-marcus-rashford-error-vs-argentina-312789/"
+        }
+      ]
+    },
+    {
+      "title": "Report \u2013 Reason why Bellingham lashed out at Argentina star after WC semifinal loss",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Jude Bellingham found himself at the centre of controversy following England\u2019s 2-1 defeat to Argentina in the 2026 FIFA World Cup semi-final.However, a fresh report has provided new context behind t...",
+      "timestamp": "2026-07-17T12:54:55.328286Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/report-reason-why-bellingham-lashed-out-at-argentina-star-after-wc-semifinal-loss/"
+        }
+      ]
+    },
+    {
+      "title": "24-Oz Official FIFA World Cup 2026 Squeeze Water Bottle (White or Black) $10.79 + Free Shipping w/ Prime or on $35+",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Paragon Trading Post via Amazon [amazon.com] has *24-Ounce Wagon International Official Authorized FIFA World Cup 2026 Edition Collectable Water Bottle* (White or Black) on sale for $17.99 - 40% off...",
+      "timestamp": "2026-07-17T12:54:55.328403Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slickdeals.net/f/19768686-24-oz-official-fifa-world-cup-2026-squeeze-water-bottle-white-or-black-10-79-free-shipping-w-prime-or-on-35"
+        }
+      ]
+    },
+    {
+      "title": "Coach USA/Perfect Body Wraps 25 Buses in World Cup-Themed Graphics for National and Regional Brands",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Using two Roland DG TrueVis XP-640 printers running up to 16 hours a day, the New Jersey facility turned around soccer-themed bus wraps for Lay's, Kalshi, Buchanan's Deluxe, and other advertisers ahead of matches at nearby MetLife Stadium. IRVINE, Calif., Jul\u2026",
+      "timestamp": "2026-07-17T12:54:55.328443Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/coach-usaperfect-body-wraps-25-buses-in-world-cup-themed-graphics-for-national-and-regional-brands-302827188.html"
+        }
+      ]
+    },
+    {
+      "title": "Prince William was \u2018gutted\u2019 as England lost the World Cup semifinal to Argentina",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Yesterday, England fell in the World Cup semifinal. Argentina made a late push, and now the FIFA World Cup final is between Argentina and Spain. While I\u2019m sure that Prince William watched the semifinal from one of his eleventy billion forever homes as he pull\u2026",
+      "timestamp": "2026-07-17T12:54:55.328758Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.celebitchy.com/986948/prince_william_was_gutted_as_england_lost_the_world_cup_semifinal_to_argentina/"
+        }
+      ]
+    },
+    {
+      "title": "\u2018It\u2019s terrible\u2019: England fan left red-faced after booking flight to New York during World Cup semi-final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup final is set to take place at the New York New Jersey Stadium on Sunday, July 19. It caps off an exciting summer of soccer in North America, but one England fan is not too happy that he is now on his way to New York ahead of the showpiece.",
+      "timestamp": "2026-07-17T12:54:55.328855Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/its-terrible-england-fan-left-red-faced-after-booking-flight-to-new-york-during-world-cup-semi-final/"
+        }
+      ]
+    },
+    {
+      "title": "KeySeek App Helps Catholics Prepare for PAC27 Marian Congress With Interactive Game and First World Chalice of Faith Competition",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Building on the excitement of the FIFA World Cup, the interactive game brings together nations in a friendly competition to share and deepen the Catholic faith OTTAWA, Ontario \u2014 Catholics around the world can now download a new app, KeySeek, to learn about th\u2026",
+      "timestamp": "2026-07-17T12:54:55.328890Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/keyseek-app-helps-catholics-prepare-for-pac27-marian-congress-with-interactive-game-and-first-world-chalice-of-faith-competition"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026: Is Argentina about to bury the 'Curse of Tilcara' forever? Viral legend returns as champions storm into final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina's potential World Cup victory revives the 'Curse of Tilcara' folklore.  This legend claims a broken promise from 1986 led to decades of football heartbreak.  Fans believe a 2018 visit by some players finally lifted the supposed curse.  AI fact-check\u2026",
+      "timestamp": "2026-07-17T12:54:55.328965Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-is-argentina-about-to-bury-the-curse-of-tilcara-forever-viral-legend-returns-as-champions-storm-into-final/articleshow/132437450.cms"
+        }
+      ]
+    },
+    {
+      "title": "Barcelona duo closing in on historic World Cup milestone with Spain",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Barcelona\u2019s influence on the 2026 FIFA World Cup has been impossible to ignore, and no two players have embodied that impact more than Lamine Yamal and Pau Cubarsi.\u00a0As Spain prepare to face Argenti...",
+      "timestamp": "2026-07-17T12:54:55.328993Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelona-duo-closing-in-on-historic-world-cup-milestone-with-spain/"
+        }
+      ]
+    },
+    {
       "title": "The World Cup has shown why Manchester City are prepared to spend big to bolster their midfield",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain will meet Argentina in the 2026 FIFA World Cup final at the Met Life Stadium on Sunday. Both teams earned their way to the showpiece occasion with impressive and contrasting wins in their semi-f...",
-      "timestamp": "2026-07-17T11:11:21.239203Z",
+      "timestamp": "2026-07-17T12:54:55.329179Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina are back in the World Cup final following their 2-1 victory over England in the semifinals at the Mercedes-Benz Stadium in Atlanta last night, as Lionel Messi spearheaded their comeback. After going down by one goal, courtesy of Anthony\u2026",
-      "timestamp": "2026-07-17T11:11:21.239307Z",
+      "timestamp": "2026-07-17T12:54:55.329257Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Post Malone will headline the pre-game closing ceremony",
-      "timestamp": "2026-07-17T11:11:21.239440Z",
+      "timestamp": "2026-07-17T12:54:55.329387Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England will take on France in the 2026 World Cup's third-place game this weekend, the next World Cup matchup.",
-      "timestamp": "2026-07-17T11:11:21.239484Z",
+      "timestamp": "2026-07-17T12:54:55.329433Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "While not typically one of the more prominent nations when it comes to international soccer, the United States and President Donald Trump have been impossible to ignore throughout the 2026 FIFA World Cup, and it continues to spark outrage from the global socc\u2026",
-      "timestamp": "2026-07-17T11:11:21.239590Z",
+      "timestamp": "2026-07-17T12:54:55.329549Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Former England international Stephen Warnock was at the 2026 FIFA World Cup as a BBC co-commentator. He sat down with\u00a0Get French Football News\u00a0to discuss France\u2019s tournament so far and the impact ...",
-      "timestamp": "2026-07-17T11:11:21.239710Z",
+      "timestamp": "2026-07-17T12:54:55.329728Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After a month and a half, more than 100 soccer matches across 16 cities and 48 teams, only two countries are left to face off in the FIFA World Cup final on Sunday. Spain will play in the World Cup final for the first time since 2010, facing off against defen\u2026",
-      "timestamp": "2026-07-17T11:11:21.239739Z",
+      "timestamp": "2026-07-17T12:54:55.329783Z",
       "links": [
         {
           "label": "Source",
@@ -234,268 +416,211 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Cricket properties dominated Ormax Media\u2019s new Ormax StreamView report, with the ICC Men\u2019s T20 World Cup 2026 drawing an estimated 246 million viewers on JioHotstar between January and June 2026, more than any other title tracked in the measurement framework.\u2026",
-      "timestamp": "2026-07-17T11:11:21.239841Z",
+      "timestamp": "2026-07-17T12:54:55.329919Z",
       "links": [
         {
           "label": "Source",
           "url": "https://variety.com/2026/tv/news/cricket-india-streaming-ormax-streamview-report-1236812292/"
         }
       ]
-    },
-    {
-      "title": "FIFA World Cup final: Date, time, halftime show, prediction and Trump",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "From Donald Trump's attendance to the match winner, the short guide before football\u2019s global showpiece in New Jersey.",
-      "timestamp": "2026-07-17T11:11:21.239885Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/16/fifa-world-cup-final-2026-date-time-and-venue-trump-prediction"
-        }
-      ]
-    },
-    {
-      "title": "Oyarzabal and Porro Send Spain Into 2026 World Cup Final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain are through to the 2026 World Cup final after dismissing tournament favourites France 2-0 in Dallas Stadium in Arlington, Texas, on July 14, 2026, with Mikel Oyarzabal and Pedro Porro scoring ei...",
-      "timestamp": "2026-07-17T11:11:21.239912Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.football-espana.net/2026/07/16/spain-2026-world-cup-final-france"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi admits he\u2019s tired after leading Argentina to his third World Cup final at 39 years old",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi has led Argentina to yet another World Cup final, but it looks increasingly likely this might be his last. Messi dropped two assists in Argentina\u2019s 2- 1 comeback win over England in the 2026 FIFA World Cup semi-finals.",
-      "timestamp": "2026-07-17T11:11:21.239945Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/lionel-messi-admits-hes-tired-after-leading-argentina-to-his-third-world-cup-final-at-39-years-old/"
-        }
-      ]
-    },
-    {
-      "title": "How Argentina\u2019s Lionel Messi-inspired win over England impacted World Cup final ticket prices",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina fans will now be scrambling to secure themselves a ticket for Sunday\u2019s World Cup final in New Jersey. A stunning late comeback against England booked Lionel Messi and co their spot in the final against Spain at MetLife Stadium.",
-      "timestamp": "2026-07-17T11:11:21.239976Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/how-argentinas-lionel-messi-inspired-win-over-england-impacted-world-cup-final-ticket-prices/"
-        }
-      ]
-    },
-    {
-      "title": "FULL LIST: Messi overtakes Yamal as World Cup\u2019s top dribbler",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi leads the 2026 FIFA World Cup in successful dribbles, surpassing Lamine Yamal. Discover the full list of top dribblers.\n\nRead More: https://punchng.com/full-list-messi-overtakes-yamal-as-world-cups-top-dribbler/",
-      "timestamp": "2026-07-17T11:11:21.240004Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/full-list-messi-overtakes-yamal-as-world-cups-top-dribbler/"
-        }
-      ]
-    },
-    {
-      "title": "IShowSpeed begs Lamine Yamal to stop Lionel Messi from winning another World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "IShowSpeed has been allowed to stream at a lot of the 2026 World Cup matches, but his tournament has not gone the way he hoped. Firstly, the majority of teams he supports each game often end up losing, such as England against Argentina this week.",
-      "timestamp": "2026-07-17T11:11:21.240152Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/ishowspeed-begs-lamine-yamal-to-stop-lionel-messi-from-winning-another-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026: UK urges FIFA to investigate Argentina over Falklands banner",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Britain has asked FIFA to investigate Argentina's soccer team. Players displayed a banner claiming sovereignty over the Falkland Islands after a match. The British government stated politics should remain separate from football games. Argentina and Britain ha\u2026",
-      "timestamp": "2026-07-17T11:11:21.240193Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/world-cup-2026-uk-urges-fifa-to-investigate-argentina-over-falklands-banner/articleshow/132433532.cms"
-        }
-      ]
-    },
-    {
-      "title": "Nate Bukaty on World Cup 2026 and the Heart of American Soccer",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "MLS commentator Nate Bukaty joins co-hosts Whitney Terrell and V.V. Ganeshananthan to talk about Kansas City\u2019s influence on American soccer and how the city came to host the World Cup. Bukaty, the co-author of Perfect Pitch: How Kansas City Became",
-      "timestamp": "2026-07-17T11:11:21.240221Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://lithub.com/nate-bukaty-on-world-cup-2026-and-the-heart-of-american-soccer/"
-        }
-      ]
-    },
-    {
-      "title": "Watch FIFA World Cup: Argentina rallies past England to reach final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-      "timestamp": "2026-07-17T11:11:21.240242Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/video/2026/7/16/video-world-cup-2026-highlights"
-        }
-      ]
-    },
-    {
-      "title": "England fan fury at FIFA 'hypocrisy' after shipyard worker's submarine flag is banned from World Cup stadiums - while Argentina players dance with 'Falkland's are ours' banner",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "An England fan who was told his flag could not be displayed at the World Cup has lashed out at FIFA after Argentina players danced around a banner claiming the Falkland Islands 'belonged to them.'",
-      "timestamp": "2026-07-17T11:11:21.240333Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/news/article-15981551/England-fan-fury-FIFA-hypocrisysubmarine-flag-banned-World-Cup-Argentina.html"
-        }
-      ]
-    },
-    {
-      "title": "How an Italian sculptor created the FIFA World Cup trophy that became an icon",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Silvio Gazzaniga designed the FIFA World Cup trophy to symbolize sporting emotions. The original Jules Rimet Trophy was stolen twice and never recovered. Gazzaniga's design captures the athlete's struggle and the fan's jubilation. Winning teams receive a gold\u2026",
-      "timestamp": "2026-07-17T11:11:21.240396Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/how-an-italian-sculptor-created-the-fifa-world-cup-trophy-that-became-an-icon/articleshow/132432679.cms"
-        }
-      ]
-    },
-    {
-      "title": "The biggest club soccer matches draw audiences that dwarf most American sports finals \u2014 and only recently have U.S. investors begun treating soccer not as a niche, but as the world\u2019s dominant sports market",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "On Sunday, 19 July, Spain will play Argentina in the FIFA World Cup final at MetLife Stadium in East Rutherford, New Jersey, the first men\u2019s World Cup final held on American soil since 1994. Argentina, the holders, reached it by beating England 2-1 in Atlanta\u2026",
-      "timestamp": "2026-07-17T11:11:21.240443Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://spacedaily.com/d-the-biggest-club-soccer-matches-draw-audiences-that-dwarf-most-american-sports-finals-and-only-recently-have-u-s-investors-begun-treating-soccer-not-as-a-niche-but-as-the-worlds-d/"
-        }
-      ]
-    },
-    {
-      "title": "Barca World Cup Spotlight: Anthony Gordon scores consolation goal as England bow out",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup is now one game away from its final act, and Argentina have joined Spain in the showpiece after another dramatic night of knockout football.England faced Argentina in Atlanta w...",
-      "timestamp": "2026-07-17T11:11:21.240472Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ee7e687f-c20b-424a-a478-a5b390c24881"
-        }
-      ]
-    },
-    {
-      "title": "Fans believe Donald Trump praising Harry Kane was the \u2018kiss of death\u2019 for England at FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Donald Trump spoke positively about Harry Kane ahead of the FIFA World Cup semi-final, and fans believe this jinxed England\u2019s chances to reach the final. Despite holding a 1-0 lead late into the game, England capitulated under the pressure of a dominant Argen\u2026",
-      "timestamp": "2026-07-17T11:11:21.240502Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/fans-believe-donald-trump-praising-harry-kane-was-the-kiss-of-death-for-england-at-fifa-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "How an Italian sculptor created the World Cup trophy that became an icon",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Italian sculptor who designed the FIFA World Cup trophy wanted to capture three sporting emotions in a single spiraling form: the athlete\u2019s struggle, the fan\u2019s jubilation and the moment of victory. On Sunday, either Spain or Argentina will lift the trophy\u2026",
-      "timestamp": "2026-07-17T11:11:21.240545Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/italian-sculptor-created-world-cup-073121211.html"
-        }
-      ]
-    },
-    {
-      "title": "Barcelona superstar\u2019s injury fears eased; will be available against Argentina in World Cup final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Barcelona and Spain have received encouraging news ahead of the 2026 FIFA World Cup final, with Lamine Yamal set to be fully available despite the injury concerns that emerged after the semi-final vic...",
-      "timestamp": "2026-07-17T11:11:21.240572Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelona-superstars-injury-fears-eased-will-be-available-against-argentina-in-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "title": "Trossard completes move to Besiktas for reported \u00a315.3m",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 31-year-old Belgium winger, who featured at the 2026 World Cup, joined the Gunners from Brighton in January 2023.\nThe post Trossard completes move to Besiktas for reported \u00a315.3m appeared first on Vanguard News.",
-      "timestamp": "2026-07-17T11:11:21.240706Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/trossard-completes-move-to-besiktas-for-reported-15-3m/"
-        }
-      ]
-    },
-    {
-      "title": "The Creators Who Are Quietly Running The 2026 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "How creators became this World Cup's real infrastructure: livestream culture, brand strategy, real-world activations and Gen Z fandom inside virtual worlds.",
-      "timestamp": "2026-07-17T11:11:21.240801Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/ianshepherd/2026/07/16/the-creators-who-are-quietly-running-the-2026-world-cup/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 17",
+      "loc": "Global",
+      "event": "The 2026 World Cup has been a tournament where alcohol brands hoped to win influence through sponsorship",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://theconversation.com/the-2026-world-cup-has-been-a-tournament-where-alcohol-brands-hoped-to-win-influence-through-sponsorship-287532"
+        }
+      ]
+    },
+    {
+      "date": "Jul 17",
+      "loc": "Global",
+      "event": "England coach Thomas Tuchel eyes future after 2026 World Cup semifinal exit",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.upi.com/Sports_News/Soccer/2026/07/16/latam-world-cup-Thomas-Tuchel-England-future/9161784201874/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 17",
+      "loc": "Global",
+      "event": "DD.NYC Earns 2026 Webby Award Nomination for FIFA World Cup 26 New York New Jersey Website",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/ddnyc-earns-2026-webby-award-nomination-for-fifa-world-cup-26-new-york-new-jersey-website-302827483.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 17",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026: Biggest takeaways from the semifinals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/16/fifa-world-cup-2026-biggest-takeaways-from-the-semifinals"
+        }
+      ]
+    },
+    {
+      "date": "Jul 17",
+      "loc": "Global",
+      "event": "Henry explains Tuchel\u2019s Marcus Rashford error vs Argentina",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thepeoplesperson.com/2026/07/16/henry-explains-tuchels-marcus-rashford-error-vs-argentina-312789/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 17",
+      "loc": "Global",
+      "event": "Report \u2013 Reason why Bellingham lashed out at Argentina star after WC semifinal loss",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/report-reason-why-bellingham-lashed-out-at-argentina-star-after-wc-semifinal-loss/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 17",
+      "loc": "Global",
+      "event": "24-Oz Official FIFA World Cup 2026 Squeeze Water Bottle (White or Black) $10.79 + Free Shipping w/ Prime or on $35+",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slickdeals.net/f/19768686-24-oz-official-fifa-world-cup-2026-squeeze-water-bottle-white-or-black-10-79-free-shipping-w-prime-or-on-35"
+        }
+      ]
+    },
+    {
+      "date": "Jul 17",
+      "loc": "New York / New Jersey",
+      "event": "Coach USA/Perfect Body Wraps 25 Buses in World Cup-Themed Graphics for National and Regional Brands",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/coach-usaperfect-body-wraps-25-buses-in-world-cup-themed-graphics-for-national-and-regional-brands-302827188.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 17",
+      "loc": "Global",
+      "event": "Prince William was \u2018gutted\u2019 as England lost the World Cup semifinal to Argentina",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.celebitchy.com/986948/prince_william_was_gutted_as_england_lost_the_world_cup_semifinal_to_argentina/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 17",
+      "loc": "Global",
+      "event": "\u2018It\u2019s terrible\u2019: England fan left red-faced after booking flight to New York during World Cup semi-final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/its-terrible-england-fan-left-red-faced-after-booking-flight-to-new-york-during-world-cup-semi-final/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 17",
+      "loc": "Global",
+      "event": "KeySeek App Helps Catholics Prepare for PAC27 Marian Congress With Interactive Game and First World Chalice of Faith Competition",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/keyseek-app-helps-catholics-prepare-for-pac27-marian-congress-with-interactive-game-and-first-world-chalice-of-faith-competition"
+        }
+      ]
+    },
+    {
+      "date": "Jul 17",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026: Is Argentina about to bury the 'Curse of Tilcara' forever? Viral legend returns as champions storm into final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-is-argentina-about-to-bury-the-curse-of-tilcara-forever-viral-legend-returns-as-champions-storm-into-final/articleshow/132437450.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 17",
+      "loc": "Global",
+      "event": "Barcelona duo closing in on historic World Cup milestone with Spain",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelona-duo-closing-in-on-historic-world-cup-milestone-with-spain/"
+        }
+      ]
+    },
     {
       "date": "Jul 17",
       "loc": "Global",
@@ -615,277 +740,7 @@
           "url": "https://variety.com/2026/tv/news/cricket-india-streaming-ormax-streamview-report-1236812292/"
         }
       ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "FIFA World Cup final: Date, time, halftime show, prediction and Trump",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/16/fifa-world-cup-final-2026-date-time-and-venue-trump-prediction"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Dallas",
-      "event": "Oyarzabal and Porro Send Spain Into 2026 World Cup Final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.football-espana.net/2026/07/16/spain-2026-world-cup-final-france"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "Lionel Messi admits he\u2019s tired after leading Argentina to his third World Cup final at 39 years old",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/lionel-messi-admits-hes-tired-after-leading-argentina-to-his-third-world-cup-final-at-39-years-old/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "New York / New Jersey",
-      "event": "How Argentina\u2019s Lionel Messi-inspired win over England impacted World Cup final ticket prices",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/how-argentinas-lionel-messi-inspired-win-over-england-impacted-world-cup-final-ticket-prices/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "FULL LIST: Messi overtakes Yamal as World Cup\u2019s top dribbler",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/full-list-messi-overtakes-yamal-as-world-cups-top-dribbler/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "IShowSpeed begs Lamine Yamal to stop Lionel Messi from winning another World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/ishowspeed-begs-lamine-yamal-to-stop-lionel-messi-from-winning-another-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "World Cup 2026: UK urges FIFA to investigate Argentina over Falklands banner",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/world-cup-2026-uk-urges-fifa-to-investigate-argentina-over-falklands-banner/articleshow/132433532.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Kansas City",
-      "event": "Nate Bukaty on World Cup 2026 and the Heart of American Soccer",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://lithub.com/nate-bukaty-on-world-cup-2026-and-the-heart-of-american-soccer/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "Watch FIFA World Cup: Argentina rallies past England to reach final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/video/2026/7/16/video-world-cup-2026-highlights"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "England fan fury at FIFA 'hypocrisy' after shipyard worker's submarine flag is banned from World Cup stadiums - while Argentina players dance with 'Falkland's are ours' banner",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/news/article-15981551/England-fan-fury-FIFA-hypocrisysubmarine-flag-banned-World-Cup-Argentina.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "How an Italian sculptor created the FIFA World Cup trophy that became an icon",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/how-an-italian-sculptor-created-the-fifa-world-cup-trophy-that-became-an-icon/articleshow/132432679.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "New York / New Jersey",
-      "event": "The biggest club soccer matches draw audiences that dwarf most American sports finals \u2014 and only recently have U.S. investors begun treating soccer not as a niche, but as the world\u2019s dominant sports market",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://spacedaily.com/d-the-biggest-club-soccer-matches-draw-audiences-that-dwarf-most-american-sports-finals-and-only-recently-have-u-s-investors-begun-treating-soccer-not-as-a-niche-but-as-the-worlds-d/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "Barca World Cup Spotlight: Anthony Gordon scores consolation goal as England bow out",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ee7e687f-c20b-424a-a478-a5b390c24881"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "Fans believe Donald Trump praising Harry Kane was the \u2018kiss of death\u2019 for England at FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/fans-believe-donald-trump-praising-harry-kane-was-the-kiss-of-death-for-england-at-fifa-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "How an Italian sculptor created the World Cup trophy that became an icon",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/italian-sculptor-created-world-cup-073121211.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "Barcelona superstar\u2019s injury fears eased; will be available against Argentina in World Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelona-superstars-injury-fears-eased-will-be-available-against-argentina-in-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "Trossard completes move to Besiktas for reported \u00a315.3m",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/trossard-completes-move-to-besiktas-for-reported-15-3m/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 17",
-      "loc": "Global",
-      "event": "The Creators Who Are Quietly Running The 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/ianshepherd/2026/07/16/the-creators-who-are-quietly-running-the-2026-world-cup/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-17T11:11:21.241023Z"
+  "lastUpdated": "2026-07-17T12:54:55.330077Z"
 }
