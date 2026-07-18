@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 0,
-    "p3": 19
+    "p2": 1,
+    "p3": 22
   },
   "watchlist": [
     {
@@ -131,12 +131,124 @@
   ],
   "risks": [
     {
+      "title": "Argentina vs. Spain: Average World Cup Final Ticket Listing Hits $5,480, Ticombo Data Shows",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "NEW YORK, July 17, 2026 /PRNewswire/ -- With Argentina and Spain set to meet in the World Cup Final in two days at MetLife Stadium in East Rutherford, New Jersey, Final average listing prices on Ticombo are among the highest levels tracked during the tourname\u2026",
+      "timestamp": "2026-07-18T17:43:49.845117Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.co.uk/news-releases/argentina-vs-spain-average-world-cup-final-ticket-listing-hits-5-480--ticombo-data-shows-302828732.html"
+        }
+      ]
+    },
+    {
+      "title": "World Cup Final weather forecast for Sunday at MetLife Stadium in N.J. calls for threat of rain",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The weekend forecast isn't locked in yet, but as of now it is looking likely there will be some rain showers and possible thunderstorms on Sunday in New Jersey.",
+      "timestamp": "2026-07-18T17:43:49.845166Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.nj.com/weather/2026/07/world-cup-final-weather-forecast-for-sunday-at-metlife-stadium-in-nj-calls-for-threat-of-rain.html"
+        }
+      ]
+    },
+    {
+      "title": "Argentina vs. Spain: Average World Cup Final Ticket Listing Hits $5,480, Ticombo Data Shows",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "NEW YORK, July 17, 2026 /PRNewswire/ -- With Argentina and Spain set to meet in the World Cup Final in two days at MetLife Stadium in East Rutherford, New Jersey, Final average listing prices on Ticombo are among the highest levels tracked during the tourname\u2026",
+      "timestamp": "2026-07-18T17:43:49.845243Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/argentina-vs-spain-average-world-cup-final-ticket-listing-hits-5-480--ticombo-data-shows-302828729.html"
+        }
+      ]
+    },
+    {
+      "title": "Ten songs that will have you ready for the World Cup final kickoff",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "To get in the spirit for the 2026 World Cup final between Argentina and Spain, The Associated Press has made a themed playlist",
+      "timestamp": "2026-07-18T17:43:49.845359Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.the-independent.com/arts-entertainment/music/world-cup-music-songs-playlist-b3017106.html"
+        }
+      ]
+    },
+    {
+      "title": "Football vs. f\u00fatbol: Nine reasons I'll always take the NFL over World Cup | Opinion",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Give me America's Game over The Beautiful Game any day, Nate Davis writes. With the 2026 World Cup coming to a close, he's about to get his wish.",
+      "timestamp": "2026-07-18T17:43:49.845410Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2026/07/17/nfl-or-world-cup-flopping-offsides-usmnt/90852250007/"
+        }
+      ]
+    },
+    {
+      "title": "Americans Complain of Soaring Costs in World Cup Host Cities",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Residents of the cities hosting games at the 2026 FIFA World Cup have voiced concern over what they see as significant soccer-driven inflation since the competition kicked off.\nAccording to a survey conducted in late June by the financial advisory website Car\u2026",
+      "timestamp": "2026-07-18T17:43:49.845590Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/82dee3d46ed072e6"
+        }
+      ]
+    },
+    {
+      "title": "FOX World Cup announcer says Trump's appearance at final is 'fun, unique thing' despite potential backlash",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FOX broadcaster John Strong says he'll \"play it down the middle\" as President Donald Trump and Gianni Infantino prepare to hand the FIFA World Cup trophy to the winning team.",
+      "timestamp": "2026-07-18T17:43:49.845616Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/sports/fox-world-cup-announcer-says-trumps-appearance-final-fun-unique-thing-despite-potential-backlash"
+        }
+      ]
+    },
+    {
+      "title": "Workers in World Cup Host Cities Strike (or Retain Right to) Over ICE and Wages",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "In Seattle, restaurant workers walked out, while Hilton Embassy Suites employees have been on strike since June 18.",
+      "timestamp": "2026-07-18T17:43:49.845637Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.labornotes.org/2026/07/world-cup-leverage-california-stadium-workers-win-right-strike-over-ice"
+        }
+      ]
+    },
+    {
       "title": "FIFA Brings Iconic American Tradition to the World Cup as 2026 Winners Receive Historic New Prize",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "When the 2026 FIFA World Cup comes to an end on July 19, the champions will leave New York New [\u2026]",
-      "timestamp": "2026-07-18T16:40:17.376403Z",
+      "timestamp": "2026-07-18T17:43:49.845759Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The United States lacks universal healthcare, but it isn't the only World Cup participant with incomplete coverage.",
-      "timestamp": "2026-07-18T16:40:17.376537Z",
+      "timestamp": "2026-07-18T17:43:49.845816Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain winger Lamine Yamal missed his team's first training session in New Jersey as preparations intensified for Sunday's 2026 FIFA World Cup final against Argentina.\nThe post Full list: Yamal misses training, other players injured ahead of 2026 World Cup fin\u2026",
-      "timestamp": "2026-07-18T16:40:17.376577Z",
+      "timestamp": "2026-07-18T17:43:49.845850Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "SportsLine's Jon Eimer reveals his France vs. England best bets in the FIFA World Cup 2026 third-place game on Saturday",
-      "timestamp": "2026-07-18T16:40:17.376644Z",
+      "timestamp": "2026-07-18T17:43:49.845911Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ex-teammates and colleagues hail Luis de la Fuente\u2019s leadership and tactical genius as key to Spain\u2019s FIFA World Cup 2026 final success.\n\nRead More: https://punchng.com/ex-teammates-colleagues-hail-de-la-fuente-as-mastermind-of-spains-world-cup-run/",
-      "timestamp": "2026-07-18T16:40:17.376732Z",
+      "timestamp": "2026-07-18T17:43:49.846002Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain and Argentina will decide who becomes champion of the 2026 World Cup, in a match that will see two similar tactical systems collide. New York New Jersey Stadium is gearing up to host the 2026 World Cup final, where Argentina will look to defend their cr\u2026",
-      "timestamp": "2026-07-18T16:40:17.376764Z",
+      "timestamp": "2026-07-18T17:43:49.846035Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Warnings about the air quality have been issued in New York and New Jersey ahead of Sunday\u2019s World Cup final in East Rutherford. The New York New Jersey Stadium (MetLife Stadium) will host the 23 World Cup final in soccer history, with current world champions\u2026",
-      "timestamp": "2026-07-18T16:40:17.376798Z",
+      "timestamp": "2026-07-18T17:43:49.846068Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina and Spain are set to kick off from New Jersey's MetLife Stadium at 3 p.m. ET on Sunday.",
-      "timestamp": "2026-07-18T16:40:17.376879Z",
+      "timestamp": "2026-07-18T17:43:49.846157Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The World Cup final is scheduled for Sunday in East Rutherford, New Jersey.",
-      "timestamp": "2026-07-18T16:40:17.376918Z",
+      "timestamp": "2026-07-18T17:43:49.846201Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain vs. Argentina World Cup Final: TV Channel, Live Stream, Kickoff Time, and Messi's Last Shot at Glory",
-      "timestamp": "2026-07-18T16:40:17.376936Z",
+      "timestamp": "2026-07-18T17:43:49.846232Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Winning players from the 2026 World Cup Final will receive championship rings, FIFA announced. Argentina will meet Spain in Sunday's finale.",
-      "timestamp": "2026-07-18T16:40:17.377023Z",
+      "timestamp": "2026-07-18T17:43:49.846327Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Canadian wildfire smoke is threatening the World Cup final at MetLife Stadium as Stu Holden said poor air quality could favor Spain over Argentina.",
-      "timestamp": "2026-07-18T16:40:17.377043Z",
+      "timestamp": "2026-07-18T17:43:49.846348Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Football may not be coming home, but the 2026 FIFA World Cup has been an illuminating event for LGBTQ+ fans. This year, the tournament was jointly hosted by three nations (United States, Mexico and Canada) for the first time.\u00a0 The 2026 World Cup will conclude\u2026",
-      "timestamp": "2026-07-18T16:40:17.377072Z",
+      "timestamp": "2026-07-18T17:43:49.846379Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Manchester United defender Lisandro Martinez may have received some good news regarding his involvement in the 2026 FIFA World Cup final. The Argentine has been a regular for his nation at the tournam...",
-      "timestamp": "2026-07-18T16:40:17.377295Z",
+      "timestamp": "2026-07-18T17:43:49.846613Z",
       "links": [
         {
           "label": "Source",
@@ -332,72 +444,136 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup final between Spain and Argentina will proceed despite Canadian wildfire smoke concerns, highlighting growing climate risk for major\nThe post World Cup final gets green light despite air quality fears, but the real game is climate risk mana\u2026",
-      "timestamp": "2026-07-18T16:40:17.377504Z",
+      "timestamp": "2026-07-18T17:43:49.846862Z",
       "links": [
         {
           "label": "Source",
           "url": "https://cryptobriefing.com/world-cup-final-air-quality-climate-risk/"
         }
       ]
-    },
-    {
-      "title": "Spain vs. Argentina: Where to watch the 2026 World Cup final, TV channel, match start time, free streaming info, and more",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here's how to watch the England vs. Argentina semifinal match at the World Cup.",
-      "timestamp": "2026-07-18T16:40:17.377595Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/spain-vs-argentina-where-to-watch-the-2026-world-cup-final-tv-channel-match-start-time-free-streaming-info-and-more-142857042.html"
-        }
-      ]
-    },
-    {
-      "title": "Lamine Yamal, Spain playing for World Cup glory at MetLife Stadium",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lamine Yamal and Spain are one win from a World Cup title. Here's what to know before Sunday's final at MetLife Stadium.",
-      "timestamp": "2026-07-18T16:40:17.377712Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/17/lamine-yamal-spain-world-cup-final-metlife-stadium/90927868007/"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi, Argentina eye history in World Cup final at MetLife",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi and Argentina are one win from another World Cup title. Here's what to know before Sunday's final at MetLife Stadium.",
-      "timestamp": "2026-07-18T16:40:17.377823Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/17/lionel-messi-argentina-world-cup-final-metlife-stadium/90940859007/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026 Soccer Spain 16-oz. Country Mixing Glass for $10 + free shipping w/ $35",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "If you're supporting Spain this Sunday, you can get this 16-oz. World Cup glass for $10; a savings of $4. Opt for pickup to avoid the $6.99 shipping charge (or get free shipping with orders of $35 or more).\r\nBuy Now at Walmart",
-      "timestamp": "2026-07-18T16:40:17.377956Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/FIFA-World-Cup-2026-Soccer-Spain-16-oz-Country-Mixing-Glass-for-10-free-shipping-w-35/21907188.html"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 18",
+      "loc": "New York / New Jersey",
+      "event": "Argentina vs. Spain: Average World Cup Final Ticket Listing Hits $5,480, Ticombo Data Shows",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.co.uk/news-releases/argentina-vs-spain-average-world-cup-final-ticket-listing-hits-5-480--ticombo-data-shows-302828732.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "New York / New Jersey",
+      "event": "World Cup Final weather forecast for Sunday at MetLife Stadium in N.J. calls for threat of rain",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.nj.com/weather/2026/07/world-cup-final-weather-forecast-for-sunday-at-metlife-stadium-in-nj-calls-for-threat-of-rain.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "New York / New Jersey",
+      "event": "Argentina vs. Spain: Average World Cup Final Ticket Listing Hits $5,480, Ticombo Data Shows",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/argentina-vs-spain-average-world-cup-final-ticket-listing-hits-5-480--ticombo-data-shows-302828729.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Ten songs that will have you ready for the World Cup final kickoff",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.the-independent.com/arts-entertainment/music/world-cup-music-songs-playlist-b3017106.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Football vs. f\u00fatbol: Nine reasons I'll always take the NFL over World Cup | Opinion",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2026/07/17/nfl-or-world-cup-flopping-offsides-usmnt/90852250007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Americans Complain of Soaring Costs in World Cup Host Cities",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/82dee3d46ed072e6"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "FOX World Cup announcer says Trump's appearance at final is 'fun, unique thing' despite potential backlash",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/sports/fox-world-cup-announcer-says-trumps-appearance-final-fun-unique-thing-despite-potential-backlash"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Workers in World Cup Host Cities Strike (or Retain Right to) Over ICE and Wages",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.labornotes.org/2026/07/world-cup-leverage-california-stadium-workers-win-right-strike-over-ice"
+        }
+      ]
+    },
     {
       "date": "Jul 18",
       "loc": "Global",
@@ -622,67 +798,7 @@
           "url": "https://cryptobriefing.com/world-cup-final-air-quality-climate-risk/"
         }
       ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "Spain vs. Argentina: Where to watch the 2026 World Cup final, TV channel, match start time, free streaming info, and more",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/spain-vs-argentina-where-to-watch-the-2026-world-cup-final-tv-channel-match-start-time-free-streaming-info-and-more-142857042.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "New York / New Jersey",
-      "event": "Lamine Yamal, Spain playing for World Cup glory at MetLife Stadium",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/17/lamine-yamal-spain-world-cup-final-metlife-stadium/90927868007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "New York / New Jersey",
-      "event": "Lionel Messi, Argentina eye history in World Cup final at MetLife",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/17/lionel-messi-argentina-world-cup-final-metlife-stadium/90940859007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026 Soccer Spain 16-oz. Country Mixing Glass for $10 + free shipping w/ $35",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/FIFA-World-Cup-2026-Soccer-Spain-16-oz-Country-Mixing-Glass-for-10-free-shipping-w-35/21907188.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-18T16:40:17.378214Z"
+  "lastUpdated": "2026-07-18T17:43:49.847110Z"
 }
