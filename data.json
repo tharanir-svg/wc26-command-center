@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 1,
+    "p1": 0,
     "p2": 0,
-    "p3": 16
+    "p3": 13
   },
   "watchlist": [
     {
@@ -131,12 +131,54 @@
   ],
   "risks": [
     {
+      "title": "FIFA make call on Lisandro Mart\u00ednez\u2019s 2026 World Cup final ban",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Manchester United defender Lisandro Martinez may have received some good news regarding his involvement in the 2026 FIFA World Cup final. The Argentine has been a regular for his nation at the tournam...",
+      "timestamp": "2026-07-18T15:41:22.363921Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thepeoplesperson.com/2026/07/17/fifa-make-call-on-lisandro-martinezs-2026-world-cup-final-ban-312841/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup final gets green light despite air quality fears, but the real game is climate risk management",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup final between Spain and Argentina will proceed despite Canadian wildfire smoke concerns, highlighting growing climate risk for major\nThe post World Cup final gets green light despite air quality fears, but the real game is climate risk mana\u2026",
+      "timestamp": "2026-07-18T15:41:22.364163Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cryptobriefing.com/world-cup-final-air-quality-climate-risk/"
+        }
+      ]
+    },
+    {
+      "title": "Spain vs. Argentina: Where to watch the 2026 World Cup final, TV channel, match start time, free streaming info, and more",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Here's how to watch the England vs. Argentina semifinal match at the World Cup.",
+      "timestamp": "2026-07-18T15:41:22.364260Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/spain-vs-argentina-where-to-watch-the-2026-world-cup-final-tv-channel-match-start-time-free-streaming-info-and-more-142857042.html"
+        }
+      ]
+    },
+    {
       "title": "Lamine Yamal, Spain playing for World Cup glory at MetLife Stadium",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lamine Yamal and Spain are one win from a World Cup title. Here's what to know before Sunday's final at MetLife Stadium.",
-      "timestamp": "2026-07-18T14:12:29.053503Z",
+      "timestamp": "2026-07-18T15:41:22.364376Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi and Argentina are one win from another World Cup title. Here's what to know before Sunday's final at MetLife Stadium.",
-      "timestamp": "2026-07-18T14:12:29.053624Z",
+      "timestamp": "2026-07-18T15:41:22.364457Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "If you're supporting Spain this Sunday, you can get this 16-oz. World Cup glass for $10; a savings of $4. Opt for pickup to avoid the $6.99 shipping charge (or get free shipping with orders of $35 or more).\r\nBuy Now at Walmart",
-      "timestamp": "2026-07-18T14:12:29.053714Z",
+      "timestamp": "2026-07-18T15:41:22.364540Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "As the 2026 FIFA World Cup gets set to wrap up, NBC's chief data analyst Steve Kornacki joins TODAY to break down the matchup between Argentina and Spain. He weighs in on Spain as the favorite, riding a 37-game unbeaten streak into the match. Then, Martha Ste\u2026",
-      "timestamp": "2026-07-18T14:12:29.053890Z",
+      "timestamp": "2026-07-18T15:41:22.364710Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Vin\u010di\u0107 has worked three games in this tournament, including the Mexico-Ecuador Round of 32 match.",
-      "timestamp": "2026-07-18T14:12:29.053992Z",
+      "timestamp": "2026-07-18T15:41:22.364809Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFPRO reports 19% of World Cup 2026 matches exceeded its heat safety threshold of 28C WBGT, pushing for formalized climate protocols with FIFA.\nThe post FIFPRO flags unsafe heat at nearly 20% of World Cup 2026 matches, raising questions about climate risk in\u2026",
-      "timestamp": "2026-07-18T14:12:29.054044Z",
+      "timestamp": "2026-07-18T15:41:22.364860Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This officially licensed Argentina tee is $12.74 at Walmart, down from $16.98. It's made from breathable, quick-dry polyester with an athletic fit for game day wear. Opt for pickup to avoid the $6.99 shipping charge (or get free shipping with orders of $35 or\u2026",
-      "timestamp": "2026-07-18T14:12:29.054140Z",
+      "timestamp": "2026-07-18T15:41:22.364956Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The New York metro area is still suffering from punishing haze and choking smoke from the Canadian wildfires, but experts are hopeful a change in the weather could offer some relief in time for Sunday\u2019s FIFA World Cup Final. New Yorkers woke up again Friday t\u2026",
-      "timestamp": "2026-07-18T14:12:29.054170Z",
+      "timestamp": "2026-07-18T15:41:22.364986Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Catch Madonna, BTS, Shakira, Justin Bieber and more during the championship game on Sunday.",
-      "timestamp": "2026-07-18T14:12:29.054198Z",
+      "timestamp": "2026-07-18T15:41:22.365014Z",
       "links": [
         {
           "label": "Source",
@@ -262,114 +304,61 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "For many, this would be the final of the 2026 FIFA World Cup, but France and England will play for third place this Saturday (18). Besides a spot on the podium, the match also marks the official farew...",
-      "timestamp": "2026-07-18T14:12:29.054341Z",
+      "timestamp": "2026-07-18T15:41:22.365191Z",
       "links": [
         {
           "label": "Source",
           "url": "https://onefootball.com/en/news/x-who-do-you-fancy-for-third-place-at-the-cup-have-your-say-43150830"
         }
       ]
-    },
-    {
-      "title": "FIFA World Cup 2026 Sculpted Relief 14-oz. Ceramic Mug for $12 + free shipping w/ Prime",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "This officially licensed FIFA World Cup mug is $3 off its regular $15 price at Amazon, and it matches the lowest price it has ever hit there. It's available in several styles. Prime members get free shipping. Buy Now at Amazon",
-      "timestamp": "2026-07-18T14:12:29.054461Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/FIFA-World-Cup-2026-Sculpted-Relief-14-oz-Ceramic-Mug-for-12-free-shipping-w-Prime/21907126.html"
-        }
-      ]
-    },
-    {
-      "title": "Will Wildfire Smoke Disrupt World Cup Finals In New York?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Extreme heat and dry conditions fuel massive wildfires in Canada. Will the smoke disrupt the FIFA World Cup championship match in New York this weekend? Experts weigh in.",
-      "timestamp": "2026-07-18T14:12:29.054499Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/marshallshepherd/2026/07/17/will-wildfire-smoke-disrupt-world-cup-finals-in-new-york/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA WC final marks full-circle moment for Messi and Yamal",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi and Lamine Yamal will face-off as defending champions Argentina meet reigning European champions Spain in the FIFA World Cup final, in New York on Saturday.",
-      "timestamp": "2026-07-18T14:12:29.054520Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/fifa-world-cup-2026-final-marks-full-circle-moment-for-messi-and-yamal/20260717.htm"
-        }
-      ]
-    },
-    {
-      "title": "Neymar enjoys luxury getaway after FIFA World Cup 2026 exit, all about the Brazil star\u2019s \u00a317.5 million superyacht which comes with a helipad",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Brazil superstar Neymar has once again grabbed attention, but this time it is not because of his performances on the football field. The former Barcelona and Paris Saint-Germain forward has been enjoying time aboard his luxury superyacht, Enejota, a vessel th\u2026",
-      "timestamp": "2026-07-18T14:12:29.054553Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/international-sports/neymar-enjoys-luxury-getaway-after-fifa-world-cup-2026-exit-all-about-the-brazil-stars-17-5-million-superyacht-which-comes-with-a-helipad/articleshow/132460889.cms"
-        }
-      ]
-    },
-    {
-      "title": "EXCLUSIVE: Iranian Soccer Spies Booted Out of Country \u2014 World Cup Delegation Caught With Enemy Terror Agents",
-      "risk": "high",
-      "severityText": "P1 CRITICAL",
-      "status": "VERIFIED",
-      "description": "Iranian soccer spies were booted over alleged terror agent links tied to World Cup security concerns.",
-      "timestamp": "2026-07-18T14:12:29.054604Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://radaronline.com/p/world-cup-iranian-soccer-spies-booted-terror-agent-links/"
-        }
-      ]
-    },
-    {
-      "title": "Lamine Yamal vs Lionel Messi net worth comparison: How Spain\u2019s teen star compares with football\u2019s legend before FIFA World Cup 2026 final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The stage is set for one of the biggest matches in this football calendar. Spain\u2019s teenage sensation Lamine Yamal prepares to face Lionel Messi\u2019s Argentina in the FIFA World Cup 2026 final. While millions of fans are focused on who will lift the famous trophy\u2026",
-      "timestamp": "2026-07-18T14:12:29.054637Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/international-sports/lamine-yamal-vs-lionel-messi-net-worth-comparison-how-spains-teen-star-compares-with-footballs-legend-before-fifa-world-cup-2026-final/articleshow/132460853.cms"
-        }
-      ]
-    },
-    {
-      "title": "France vs. England: Where to watch the 2026 World Cup third-place match, TV channel, start time, free streaming info, and more",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here's how to watch the France vs. England match at the World Cup.",
-      "timestamp": "2026-07-18T14:12:29.054785Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/france-vs-england-where-to-watch-the-2026-world-cup-third-place-match-tv-channel-start-time-free-streaming-info-and-more-114500276.html"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "FIFA make call on Lisandro Mart\u00ednez\u2019s 2026 World Cup final ban",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thepeoplesperson.com/2026/07/17/fifa-make-call-on-lisandro-martinezs-2026-world-cup-final-ban-312841/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "World Cup final gets green light despite air quality fears, but the real game is climate risk management",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cryptobriefing.com/world-cup-final-air-quality-climate-risk/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Spain vs. Argentina: Where to watch the 2026 World Cup final, TV channel, match start time, free streaming info, and more",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/spain-vs-argentina-where-to-watch-the-2026-world-cup-final-tv-channel-match-start-time-free-streaming-info-and-more-142857042.html"
+        }
+      ]
+    },
     {
       "date": "Jul 18",
       "loc": "New York / New Jersey",
@@ -519,112 +508,7 @@
           "url": "https://onefootball.com/en/news/x-who-do-you-fancy-for-third-place-at-the-cup-have-your-say-43150830"
         }
       ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026 Sculpted Relief 14-oz. Ceramic Mug for $12 + free shipping w/ Prime",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/FIFA-World-Cup-2026-Sculpted-Relief-14-oz-Ceramic-Mug-for-12-free-shipping-w-Prime/21907126.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "Will Wildfire Smoke Disrupt World Cup Finals In New York?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/marshallshepherd/2026/07/17/will-wildfire-smoke-disrupt-world-cup-finals-in-new-york/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "FIFA WC final marks full-circle moment for Messi and Yamal",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/fifa-world-cup-2026-final-marks-full-circle-moment-for-messi-and-yamal/20260717.htm"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "Neymar enjoys luxury getaway after FIFA World Cup 2026 exit, all about the Brazil star\u2019s \u00a317.5 million superyacht which comes with a helipad",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/international-sports/neymar-enjoys-luxury-getaway-after-fifa-world-cup-2026-exit-all-about-the-brazil-stars-17-5-million-superyacht-which-comes-with-a-helipad/articleshow/132460889.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "EXCLUSIVE: Iranian Soccer Spies Booted Out of Country \u2014 World Cup Delegation Caught With Enemy Terror Agents",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "high",
-      "impact": "P1 CRITICAL",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://radaronline.com/p/world-cup-iranian-soccer-spies-booted-terror-agent-links/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "Lamine Yamal vs Lionel Messi net worth comparison: How Spain\u2019s teen star compares with football\u2019s legend before FIFA World Cup 2026 final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/international-sports/lamine-yamal-vs-lionel-messi-net-worth-comparison-how-spains-teen-star-compares-with-footballs-legend-before-fifa-world-cup-2026-final/articleshow/132460853.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "France vs. England: Where to watch the 2026 World Cup third-place match, TV channel, start time, free streaming info, and more",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/france-vs-england-where-to-watch-the-2026-world-cup-third-place-match-tv-channel-start-time-free-streaming-info-and-more-114500276.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-18T14:12:29.055120Z"
+  "lastUpdated": "2026-07-18T15:41:22.365408Z"
 }
