@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 2,
     "p2": 0,
-    "p3": 29
+    "p3": 30
   },
   "watchlist": [
     {
@@ -131,12 +131,166 @@
   ],
   "risks": [
     {
+      "title": "Top 50 Players From The 2026 World Cup Ahead Of The Final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup was filled with household names delivering big moments and breakout stars who shined. Here's our ranking of the top 50.",
+      "timestamp": "2026-07-18T10:05:56.327013Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/world-cup-2026-top-50-players-ranked"
+        }
+      ]
+    },
+    {
+      "title": "What are the top 10 FIFA World Cup Finals of all time?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Since the first FIFA World Cup in 1930, hosted by Uruguay, there have been 22 editions of the tournament, several of which have gone down in football history.The 23rd edition of football\u2019s greatest ...",
+      "timestamp": "2026-07-18T10:05:56.327102Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://wp.fromthespot.co.uk/31203/what-are-the-top-10-fifa-world-cup-finals-of-all-time/"
+        }
+      ]
+    },
+    {
+      "title": "All you need to know about World Cup final referee Slavko Vin\u010di\u0107",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Learn everything about Slavko Vin\u010di\u0107, the Slovenian referee appointed to officiate the 2026 FIFA World Cup final between Spain and Argentina.\n\nRead More: https://punchng.com/all-you-need-to-know-about-world-cup-final-referee-slavko-vincic/",
+      "timestamp": "2026-07-18T10:05:56.327138Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/all-you-need-to-know-about-world-cup-final-referee-slavko-vincic/"
+        }
+      ]
+    },
+    {
+      "title": "7 Facts About The World Cup Final Stadium",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "What do you need to know about the MetLife Stadium that will host the 2026 World Cup final?",
+      "timestamp": "2026-07-18T10:05:56.327173Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/seven-facts-about-the-world-cup-final-stadium-sports-listicle/20260717.htm"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup: 10 things to know before Spain-Argentina final in New York",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "From the viral photo of Lionel Messi with baby Lamine Yamal to Donald Trump\u2019s presence and the NFL-style half-time show.",
+      "timestamp": "2026-07-18T10:05:56.327200Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/17/spain-argentina-fifa-world-cup-2026-final-messi-yamal-photo-trump"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Messi\u2019s tearful on-field message to Argentine teammate revealed before World Cup final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lionel Messi was visibly emotional while embracing his Argentine teammate after their late-game heroics to advance to the 2026 FIFA World Cup Final. Messi created multiple magic moments in the final 30 minutes against England while his team was down 1-0.",
+      "timestamp": "2026-07-18T10:05:56.327350Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/lionel-messis-tearful-on-field-message-to-argentine-teammate-revealed-before-world-cup-final/"
+        }
+      ]
+    },
+    {
+      "title": "Barcelona director Deco hails Messi ahead of World Cup final: \u2018He will always be one of ours\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Barcelona sporting director Deco is in New York alongside club president Joan Laporta and advisor Alejandro Echevarria ahead of Sunday\u2019s 2026 FIFA World Cup final between Spain and Argentina.After w...",
+      "timestamp": "2026-07-18T10:05:56.327381Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelona-director-deco-hails-messi-ahead-of-world-cup-final-he-will-always-be-one-of-ours/"
+        }
+      ]
+    },
+    {
+      "title": "Uganda's Ghetto Kids Set to Perform Alongside Shakira at World Cup Final Match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Uganda's Ghetto Kids are set to perform with Shakira at the 2026 FIFA World Cup final, marking a historic moment for African talent on a global stage.",
+      "timestamp": "2026-07-18T10:05:56.327401Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.tuko.co.ke/entertainment/633136-ugandas-ghetto-kids-set-perform-alongside-shakira-world-cup-final-match/"
+        }
+      ]
+    },
+    {
+      "title": "Orlando Gill: Manchester United target drops major hint over future",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Manchester United target Orlando Gill has opened up on his future. The Paraguayan goalkeeper was a revelation for his country at the 2026 FIFA World Cup.Gill arrived at the summer\u2019s spectacle as a r...",
+      "timestamp": "2026-07-18T10:05:56.327462Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thepeoplesperson.com/2026/07/17/orlando-gill-manchester-united-target-drops-major-hint-over-future-312827/"
+        }
+      ]
+    },
+    {
+      "title": "Where to watch Lionel Messi, Argentina vs Spain in World Cup final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina and Spain meet in the 2026 World Cup final. Here's how to watch the match July 19.",
+      "timestamp": "2026-07-18T10:05:56.327501Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dispatch.com/story/sports/pro/2026/07/17/argentina-vs-spain-world-cup-2026-final-watch-tv-stream/90947855007/"
+        }
+      ]
+    },
+    {
+      "title": "Watch FIFA World Cup: Argentina arrives in New Jersey ahead of Spain final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+      "timestamp": "2026-07-18T10:05:56.327565Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/video/2026/7/17/video-world-cup-2026-highlights"
+        }
+      ]
+    },
+    {
       "title": "Where to watch Spain-Argentina World Cup Final in Salisbury, Ocean City",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup Final between Spain and Argentina is set to take place this Sunday. Here are places in Salisbury and Ocean where fans can watch.",
-      "timestamp": "2026-07-18T08:28:42.375871Z",
+      "timestamp": "2026-07-18T10:05:56.327636Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Akins Ford Arena will host a free watch party for the 2026 FIFA World Cup Final on Sunday, July 19.",
-      "timestamp": "2026-07-18T08:28:42.375914Z",
+      "timestamp": "2026-07-18T10:05:56.327652Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Fans have flocked to bars while the major sporting events are on.",
-      "timestamp": "2026-07-18T08:28:42.375951Z",
+      "timestamp": "2026-07-18T10:05:56.327686Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +332,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "Tottenham have moved to accelerate their pursuit of Man City winger SavinhoSavinho has been named as Spurs\u2019 \u201cchosen target\u201d as they look to strengthen their attackThe Brazilian is open to leavin...",
-      "timestamp": "2026-07-18T08:28:42.376010Z",
+      "timestamp": "2026-07-18T10:05:56.327741Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "An air quality alert has been issued in New York and New Jersey ahead of Sunday\u2019s World Cup final between Spain and Argentina. The 23 World Cup final will see the European champions take on the South American champions at the New York New Jersey Stadium (MetL\u2026",
-      "timestamp": "2026-07-18T08:28:42.376059Z",
+      "timestamp": "2026-07-18T10:05:56.327789Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A world-class arena, a milestone moment for HTX\u2019s global user community.  PANAMA CITY, July  17, 2026  (GLOBE NEWSWIRE) -- As the highly anticipated...",
-      "timestamp": "2026-07-18T08:28:42.376089Z",
+      "timestamp": "2026-07-18T10:05:56.327818Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Messi's 2026 World Cup brilliance is driving $ARG fan token trading volumes higher on Chiliz, as Xabi Alonso praises the 39-year-old's exceptional play.\nThe post Messi\u2019s World Cup magic is moving more than just scoreboards, it\u2019s moving fan token markets appea\u2026",
-      "timestamp": "2026-07-18T08:28:42.376159Z",
+      "timestamp": "2026-07-18T10:05:56.327887Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Barcelona president Joan Laporta believes the club will be at the heart of the 2026 FIFA World Cup final as Spain prepare to face Argentina in New York.\u00a0With eight Barcelona players included in Luis ...",
-      "timestamp": "2026-07-18T08:28:42.376285Z",
+      "timestamp": "2026-07-18T10:05:56.327986Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "SAN ANGELO, Texas (Concho Valley Homepage) \u2014 Griff McClellan interviewed some fans at a World Cup match. After Spain defeated France 2-0 in the 2026 FIFA World Cup semifinal, KSAN and KLST sports reporter Griff McClellan interviewed fans outside of Dallas Sta\u2026",
-      "timestamp": "2026-07-18T08:28:42.376343Z",
+      "timestamp": "2026-07-18T10:05:56.328033Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The finish line is finally in sight, but the 2026 FIFA World Cup still has plenty of stories left to tell.From emotional farewells to generational rivalries, the stakes could hardly be higher.Read on ...",
-      "timestamp": "2026-07-18T08:28:42.376385Z",
+      "timestamp": "2026-07-18T10:05:56.328074Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +430,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "Federal authorities have charged hundreds of people for flying drones too close to FIFA World Cup sites, and some of them were not even filming the tournament. One pilot got footage of a church, another was shooting for a real estate business, and both ended \u2026",
-      "timestamp": "2026-07-18T08:28:42.376543Z",
+      "timestamp": "2026-07-18T10:05:56.328229Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Louis Vuitton has once again designed the bespoke trunk for the FIFA World Cup trophy, marking the fifth consecutive tournament. The luxury travel case, featuring a golden V and the brand's monogram, will transport the coveted prize to the New York-New Jersey\u2026",
-      "timestamp": "2026-07-18T08:28:42.376577Z",
+      "timestamp": "2026-07-18T10:05:56.328262Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lamine Yamal has taken the world by storm during the 2026 FIFA World Cup, thanks to his undeniable talent and humble attitude. See details.",
-      "timestamp": "2026-07-18T08:28:42.376622Z",
+      "timestamp": "2026-07-18T10:05:56.328329Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA announces Slavko Vin\u010di\u0107 will referee the 2026 World Cup Final between Spain and Argentina. Get details on officials and match info.\n\nRead More: https://punchng.com/fifa-names-officials-for-spain-argentina-world-cup-final/",
-      "timestamp": "2026-07-18T08:28:42.376650Z",
+      "timestamp": "2026-07-18T10:05:56.328358Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "It has been a thrilling month filled with late-night matches and dramatic goals, and we have finally reached the ultimate showdown. The FIFA World Cup 2026 finals are upon us, with Argentina and Spain competing for the most prestigious trophy in football hist\u2026",
-      "timestamp": "2026-07-18T08:28:42.376686Z",
+      "timestamp": "2026-07-18T10:05:56.328395Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England's FIFA World Cup 2026 campaign concluded with a semi-final defeat to Argentina. Star midfielder Jude Bellingham expressed gratitude to supporters for their unwavering backing and called for the unity shown during the tournament to continue. Bellingham\u2026",
-      "timestamp": "2026-07-18T08:28:42.376742Z",
+      "timestamp": "2026-07-18T10:05:56.328452Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "For the first time, winners of the FIFA World Cup 2026 will receive bespoke championship rings, a tradition inspired by American sports. These custom-designed rings, featuring the World Cup trophy and team identity, will be awarded to the champions and also m\u2026",
-      "timestamp": "2026-07-18T08:28:42.376852Z",
+      "timestamp": "2026-07-18T10:05:56.328559Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "World Cup final: Argentina vs. Spain - What you need to know, predictions, oddsESPN FIFA World Cup 2026 FinalFIFA Messi\u2019s Mission vs. Spanish Control: The World Cup Final Is SetWSJ World Cup semifinals bracket: Full schedule, matchups and path to the finalYah\u2026",
-      "timestamp": "2026-07-18T08:28:42.376903Z",
+      "timestamp": "2026-07-18T10:05:56.328637Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +542,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi and Kylian Mbappe are among the biggest stars expected to walk away with at least one individual award.",
-      "timestamp": "2026-07-18T08:28:42.376924Z",
+      "timestamp": "2026-07-18T10:05:56.328661Z",
       "links": [
         {
           "label": "Source",
@@ -402,7 +556,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lamine Yamal was seen limping after Spain's 2-1 defeat of France in the semifinals of the 2026 FIFA World Cup and didn't fully participate in Thursday's team practice.",
-      "timestamp": "2026-07-18T08:28:42.376969Z",
+      "timestamp": "2026-07-18T10:05:56.328708Z",
       "links": [
         {
           "label": "Source",
@@ -416,156 +570,181 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "OPINION: Messi holds Fifa World Cup records with 21 goals and 12 assists for Argentina.",
-      "timestamp": "2026-07-18T08:28:42.376998Z",
+      "timestamp": "2026-07-18T10:05:56.328756Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.nzherald.co.nz/sport/football/football-world-cup/lionel-messi-not-lebron-james-is-the-true-athlete-of-the-century-michael-burgess/premium/UDNCFV6JDFAH5HAEYNVW653GHY/"
         }
       ]
-    },
-    {
-      "title": "Argentina-Spain is refreshing World Cup final defined by mutual admiration",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The road to the 2026 FIFA World Cup final twisted through two very different semifinals.",
-      "timestamp": "2026-07-18T08:28:42.377057Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/16/sports/argentina-spain-is-refreshing-world-cup-final-defined-by-mutual-admiration/"
-        }
-      ]
-    },
-    {
-      "title": "BTS to perform at FIFA World Cup 2026: Streaming date, time, venue and where to watch on OTT in India. Shakira, Madonna and Justin Bieber also on the lineup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "BTS is currently gearing up to perform at the FIFA World Cup 2026 final halftime show.  Besides them, Shakira, Madonna, and Justin Bieber also join the star-studded lineup. The final match airs in India on July 20 at 12:30 AM IST. Read on to know where to wat\u2026",
-      "timestamp": "2026-07-18T08:28:42.377103Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/magazines/panache/bts-to-perform-at-fifa-world-cup-2026-streaming-date-time-venue-and-where-to-watch-on-ott-in-india-shakira-madonna-and-justin-bieber-also-on-the-lineup/articleshow/132450422.cms"
-        }
-      ]
-    },
-    {
-      "title": "Slavko Vincic to referee 2026 World Cup final: His record with Lionel Messi\u2019s Argentina and Lamine Yamal\u2019s Spain",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Slavko Vincic has been assigned as the referee for the 2026 World Cup final, prompting questions on his record with Lionel Messi's Argentina and Lamine Yamal's Spain. The 2026 World Cup final is rapidly approaching, and every minor detail surrounding Sunday\u2019s\u2026",
-      "timestamp": "2026-07-18T08:28:42.377175Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/slavko-vincic-to-referee-2026-world-cup-final-his-record-with-lionel-messis-argentina-and-lamine-yamals-spain/"
-        }
-      ]
-    },
-    {
-      "title": "France, England to face off for bronze in last Miami World Cup match",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "South Florida\u2019s final World Cup match is Saturday. The day before Spain and Argentina play for the world title, England and France will play for the bronze medal at Miami Stadium (aka Hard Rock Stadium) at 5 p.m. Although players on both teams had their eyes \u2026",
-      "timestamp": "2026-07-18T08:28:42.377245Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sun-sentinel.com/2026/07/16/wc-bronze-matchup/"
-        }
-      ]
-    },
-    {
-      "title": "Inside Man United's unusual pre-season: Why they've abandoned a 'showpiece' tour and the USA is off limits, the Helsinki curtain-raiser involving Wes Brown and five-star luxury Irish hotel",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Last summer, United rounded off their pre-season tour of the US against Everton in the futuristic Mercedes-Benz Stadium in Atlanta where Argentina ended England's World Cup dream.",
-      "timestamp": "2026-07-18T08:28:42.377275Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15982675/manchester-united-preseason-tour-europe.html"
-        }
-      ]
-    },
-    {
-      "title": "Will Canadian Wildfire Smoke Threaten 2026 FIFA World Cup Final?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "As of Wednesday, July 15, more than 180 active wildfires blazed across Ontario, Canada, per The New York Times, and smoke from those Canadian wildfires are subsequently compromising air quality in the Northeast and portions of the Midwest.\nThe 2026 FIFA men's\u2026",
-      "timestamp": "2026-07-18T08:28:42.377314Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/c0f3e440e0c6632d"
-        }
-      ]
-    },
-    {
-      "title": "Every Teenager To Start In A World Cup Final \u2014\u00a0And Win It",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Only three teenagers in FIFA World Cup history have started in the final and won it. Here is the full list, and the players that could join it.",
-      "timestamp": "2026-07-18T08:28:42.377365Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/every-teenager-start-world-cup-final-and-win"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi's, Argentina's World Cup Final History Ahead Of Sunday's Final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here's what to know about Argentina's 2026 World Cup run.",
-      "timestamp": "2026-07-18T08:28:42.377427Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/lionel-messis-argentinas-world-cup-final-history-ahead-sundays-final"
-        }
-      ]
-    },
-    {
-      "title": "Highest and lowest attendances in FIFA World Cup final history ahead of the 2026 decider",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "With the sport growing even more, the World Cup finals had diverse attendances. With the trophy on the line in the 2026 World Cup final between Spain and Argentina, the match will add another chapter to the competition\u2019s history, but it will not become the mo\u2026",
-      "timestamp": "2026-07-18T08:28:42.377456Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/highest-and-lowest-attendances-in-fifa-world-cup-final-history-ahead-of-the-2026-decider/"
-        }
-      ]
-    },
-    {
-      "title": "\u201cIf You Don\u2019t Want to Follow\u2026 Go Home\u201d: Giannis Antetokounmpo Reveals Desire to Mirror Lionel Messi\u2019s Blueprint at Heat Introduction",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Giannis Antetokounmpo was introduced as a Miami Heat player on Thursday, one day after Argentina\u2019s stunning 2-1 semifinal comeback over England at Mercedes-Benz Stadium in Atlanta. He watched the match in person, sitting alongside Mick Jagger and Jermaine Dup\u2026",
-      "timestamp": "2026-07-18T08:28:42.377571Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.essentiallysports.com/nba-active-basketball-news-if-you-dont-want-to-follow-go-home-giannis-antetokounmpo-reveals-desire-to-mirror-lionel-messis-blueprint-at-miami-heat-introduction/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Top 50 Players From The 2026 World Cup Ahead Of The Final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/world-cup-2026-top-50-players-ranked"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "What are the top 10 FIFA World Cup Finals of all time?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://wp.fromthespot.co.uk/31203/what-are-the-top-10-fifa-world-cup-finals-of-all-time/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "All you need to know about World Cup final referee Slavko Vin\u010di\u0107",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/all-you-need-to-know-about-world-cup-final-referee-slavko-vincic/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "New York / New Jersey",
+      "event": "7 Facts About The World Cup Final Stadium",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/seven-facts-about-the-world-cup-final-stadium-sports-listicle/20260717.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "FIFA World Cup: 10 things to know before Spain-Argentina final in New York",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/17/spain-argentina-fifa-world-cup-2026-final-messi-yamal-photo-trump"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Lionel Messi\u2019s tearful on-field message to Argentine teammate revealed before World Cup final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/lionel-messis-tearful-on-field-message-to-argentine-teammate-revealed-before-world-cup-final/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Barcelona director Deco hails Messi ahead of World Cup final: \u2018He will always be one of ours\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelona-director-deco-hails-messi-ahead-of-world-cup-final-he-will-always-be-one-of-ours/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Uganda's Ghetto Kids Set to Perform Alongside Shakira at World Cup Final Match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.tuko.co.ke/entertainment/633136-ugandas-ghetto-kids-set-perform-alongside-shakira-world-cup-final-match/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Orlando Gill: Manchester United target drops major hint over future",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thepeoplesperson.com/2026/07/17/orlando-gill-manchester-united-target-drops-major-hint-over-future-312827/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Where to watch Lionel Messi, Argentina vs Spain in World Cup final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dispatch.com/story/sports/pro/2026/07/17/argentina-vs-spain-world-cup-2026-final-watch-tv-stream/90947855007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Watch FIFA World Cup: Argentina arrives in New Jersey ahead of Spain final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/video/2026/7/17/video-world-cup-2026-highlights"
+        }
+      ]
+    },
     {
       "date": "Jul 18",
       "loc": "Global",
@@ -880,157 +1059,7 @@
           "url": "https://www.nzherald.co.nz/sport/football/football-world-cup/lionel-messi-not-lebron-james-is-the-true-athlete-of-the-century-michael-burgess/premium/UDNCFV6JDFAH5HAEYNVW653GHY/"
         }
       ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "Argentina-Spain is refreshing World Cup final defined by mutual admiration",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/16/sports/argentina-spain-is-refreshing-world-cup-final-defined-by-mutual-admiration/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "BTS to perform at FIFA World Cup 2026: Streaming date, time, venue and where to watch on OTT in India. Shakira, Madonna and Justin Bieber also on the lineup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/magazines/panache/bts-to-perform-at-fifa-world-cup-2026-streaming-date-time-venue-and-where-to-watch-on-ott-in-india-shakira-madonna-and-justin-bieber-also-on-the-lineup/articleshow/132450422.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "Slavko Vincic to referee 2026 World Cup final: His record with Lionel Messi\u2019s Argentina and Lamine Yamal\u2019s Spain",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/slavko-vincic-to-referee-2026-world-cup-final-his-record-with-lionel-messis-argentina-and-lamine-yamals-spain/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Miami",
-      "event": "France, England to face off for bronze in last Miami World Cup match",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sun-sentinel.com/2026/07/16/wc-bronze-matchup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Atlanta",
-      "event": "Inside Man United's unusual pre-season: Why they've abandoned a 'showpiece' tour and the USA is off limits, the Helsinki curtain-raiser involving Wes Brown and five-star luxury Irish hotel",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15982675/manchester-united-preseason-tour-europe.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "Will Canadian Wildfire Smoke Threaten 2026 FIFA World Cup Final?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/c0f3e440e0c6632d"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "Every Teenager To Start In A World Cup Final \u2014\u00a0And Win It",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/every-teenager-start-world-cup-final-and-win"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "Lionel Messi's, Argentina's World Cup Final History Ahead Of Sunday's Final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/lionel-messis-argentinas-world-cup-final-history-ahead-sundays-final"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "Highest and lowest attendances in FIFA World Cup final history ahead of the 2026 decider",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/highest-and-lowest-attendances-in-fifa-world-cup-final-history-ahead-of-the-2026-decider/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Atlanta",
-      "event": "\u201cIf You Don\u2019t Want to Follow\u2026 Go Home\u201d: Giannis Antetokounmpo Reveals Desire to Mirror Lionel Messi\u2019s Blueprint at Heat Introduction",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.essentiallysports.com/nba-active-basketball-news-if-you-dont-want-to-follow-go-home-giannis-antetokounmpo-reveals-desire-to-mirror-lionel-messis-blueprint-at-miami-heat-introduction/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-18T08:28:42.377834Z"
+  "lastUpdated": "2026-07-18T10:05:56.328968Z"
 }
