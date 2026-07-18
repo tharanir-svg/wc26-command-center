@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 0,
+    "p1": 1,
     "p2": 0,
-    "p3": 24
+    "p3": 26
   },
   "watchlist": [
     {
@@ -131,12 +131,138 @@
   ],
   "risks": [
     {
+      "title": "Joan Laporta talks Messi, Lamine, Deco, La Masia ahead of FIFA World Cup final: \u2018We are very proud\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Barcelona president Joan Laporta believes the club will be at the heart of the 2026 FIFA World Cup final as Spain prepare to face Argentina in New York.\u00a0With eight Barcelona players included in Luis ...",
+      "timestamp": "2026-07-18T06:50:28.353043Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/joan-laporta-talks-messi-lamine-deco-la-masia-ahead-of-fifa-world-cup-final-we-are-very-proud/"
+        }
+      ]
+    },
+    {
+      "title": "MUST SEE: Passionate World Cup fans in Dallas for semifinal match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "SAN ANGELO, Texas (Concho Valley Homepage) \u2014 Griff McClellan interviewed some fans at a World Cup match. After Spain defeated France 2-0 in the 2026 FIFA World Cup semifinal, KSAN and KLST sports reporter Griff McClellan interviewed fans outside of Dallas Sta\u2026",
+      "timestamp": "2026-07-18T06:50:28.353139Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.conchovalleyhomepage.com/locker-room/must-see-passionate-world-cup-fans-in-dallas-for-semifinal-match/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup alters Ballon d\u2019Or landscape ahead of Yamal\u2019s career-defining clash against childhood idol",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The finish line is finally in sight, but the 2026 FIFA World Cup still has plenty of stories left to tell.From emotional farewells to generational rivalries, the stakes could hardly be higher.Read on ...",
+      "timestamp": "2026-07-18T06:50:28.353189Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/07/17/world-cup-2026-france-deschamps-argentina-messi-spain-yamal/"
+        }
+      ]
+    },
+    {
+      "title": "Hundreds Charged for Flying Drones Near World Cup Sites, Even for Unrelated Shots",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "Federal authorities have charged hundreds of people for flying drones too close to FIFA World Cup sites, and some of them were not even filming the tournament. One pilot got footage of a church, another was shooting for a real estate business, and both ended \u2026",
+      "timestamp": "2026-07-18T06:50:28.353348Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://fstoppers.com/drone/hundreds-charged-flying-drones-near-world-cup-sites-even-unrelated-shots-903588"
+        }
+      ]
+    },
+    {
+      "title": "World Cup Trophy Gets Luxury Louis Vuitton Trunk",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Louis Vuitton has once again designed the bespoke trunk for the FIFA World Cup trophy, marking the fifth consecutive tournament. The luxury travel case, featuring a golden V and the brand's monogram, will transport the coveted prize to the New York-New Jersey\u2026",
+      "timestamp": "2026-07-18T06:50:28.353384Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/fifa-wc-2026-louis-vuitton-designs-iconic-world-cup-trophy-travel-case/20260717.htm"
+        }
+      ]
+    },
+    {
+      "title": "How 19-year-old soccer star Lamine Yamal built his eye-watering fortune",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lamine Yamal has taken the world by storm during the 2026 FIFA World Cup, thanks to his undeniable talent and humble attitude. See details.",
+      "timestamp": "2026-07-18T06:50:28.353430Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hellomagazine.com/us/913363/inside-soccer-star-lamine-yamal-incredible-net-worth-at-19-years-of-age/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA names officials for Spain, Argentina World Cup final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA announces Slavko Vin\u010di\u0107 will referee the 2026 World Cup Final between Spain and Argentina. Get details on officials and match info.\n\nRead More: https://punchng.com/fifa-names-officials-for-spain-argentina-world-cup-final/",
+      "timestamp": "2026-07-18T06:50:28.353463Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/fifa-names-officials-for-spain-argentina-world-cup-final/"
+        }
+      ]
+    },
+    {
+      "title": "6 Places You Can Watch the FIFA World Cup 2026 Finals Live in Malaysia",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "It has been a thrilling month filled with late-night matches and dramatic goals, and we have finally reached the ultimate showdown. The FIFA World Cup 2026 finals are upon us, with Argentina and Spain competing for the most prestigious trophy in football hist\u2026",
+      "timestamp": "2026-07-18T06:50:28.353499Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://soyacincau.com/2026/07/17/6-places-you-can-watch-the-fifa-world-cup-2026-finals-live-in-malaysia/"
+        }
+      ]
+    },
+    {
+      "title": "England Star Bellingham Thanks Fans After World Cup Exit",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England's FIFA World Cup 2026 campaign concluded with a semi-final defeat to Argentina. Star midfielder Jude Bellingham expressed gratitude to supporters for their unwavering backing and called for the unity shown during the tournament to continue. Bellingham\u2026",
+      "timestamp": "2026-07-18T06:50:28.353556Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/jude-bellingham-insta-note-england-fifa-world-cup-2026-exit/20260717.htm"
+        }
+      ]
+    },
+    {
       "title": "World Cup 2026 Winners To Get Unique Championship Rings",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "For the first time, winners of the FIFA World Cup 2026 will receive bespoke championship rings, a tradition inspired by American sports. These custom-designed rings, featuring the World Cup trophy and team identity, will be awarded to the champions and also m\u2026",
-      "timestamp": "2026-07-18T04:34:11.125542Z",
+      "timestamp": "2026-07-18T06:50:28.353667Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "World Cup final: Argentina vs. Spain - What you need to know, predictions, oddsESPN FIFA World Cup 2026 FinalFIFA Messi\u2019s Mission vs. Spanish Control: The World Cup Final Is SetWSJ World Cup semifinals bracket: Full schedule, matchups and path to the finalYah\u2026",
-      "timestamp": "2026-07-18T04:34:11.125619Z",
+      "timestamp": "2026-07-18T06:50:28.353718Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi and Kylian Mbappe are among the biggest stars expected to walk away with at least one individual award.",
-      "timestamp": "2026-07-18T04:34:11.125674Z",
+      "timestamp": "2026-07-18T06:50:28.353737Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lamine Yamal was seen limping after Spain's 2-1 defeat of France in the semifinals of the 2026 FIFA World Cup and didn't fully participate in Thursday's team practice.",
-      "timestamp": "2026-07-18T04:34:11.125738Z",
+      "timestamp": "2026-07-18T06:50:28.353782Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "OPINION: Messi holds Fifa World Cup records with 21 goals and 12 assists for Argentina.",
-      "timestamp": "2026-07-18T04:34:11.125771Z",
+      "timestamp": "2026-07-18T06:50:28.353820Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The road to the 2026 FIFA World Cup final twisted through two very different semifinals.",
-      "timestamp": "2026-07-18T04:34:11.125836Z",
+      "timestamp": "2026-07-18T06:50:28.353877Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "BTS is currently gearing up to perform at the FIFA World Cup 2026 final halftime show.  Besides them, Shakira, Madonna, and Justin Bieber also join the star-studded lineup. The final match airs in India on July 20 at 12:30 AM IST. Read on to know where to wat\u2026",
-      "timestamp": "2026-07-18T04:34:11.125886Z",
+      "timestamp": "2026-07-18T06:50:28.353928Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Slavko Vincic has been assigned as the referee for the 2026 World Cup final, prompting questions on his record with Lionel Messi's Argentina and Lamine Yamal's Spain. The 2026 World Cup final is rapidly approaching, and every minor detail surrounding Sunday\u2019s\u2026",
-      "timestamp": "2026-07-18T04:34:11.125960Z",
+      "timestamp": "2026-07-18T06:50:28.354004Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "South Florida\u2019s final World Cup match is Saturday. The day before Spain and Argentina play for the world title, England and France will play for the bronze medal at Miami Stadium (aka Hard Rock Stadium) at 5 p.m. Although players on both teams had their eyes \u2026",
-      "timestamp": "2026-07-18T04:34:11.126018Z",
+      "timestamp": "2026-07-18T06:50:28.354059Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Last summer, United rounded off their pre-season tour of the US against Everton in the futuristic Mercedes-Benz Stadium in Atlanta where Argentina ended England's World Cup dream.",
-      "timestamp": "2026-07-18T04:34:11.126050Z",
+      "timestamp": "2026-07-18T06:50:28.354122Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "As of Wednesday, July 15, more than 180 active wildfires blazed across Ontario, Canada, per The New York Times, and smoke from those Canadian wildfires are subsequently compromising air quality in the Northeast and portions of the Midwest.\nThe 2026 FIFA men's\u2026",
-      "timestamp": "2026-07-18T04:34:11.126091Z",
+      "timestamp": "2026-07-18T06:50:28.354167Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Only three teenagers in FIFA World Cup history have started in the final and won it. Here is the full list, and the players that could join it.",
-      "timestamp": "2026-07-18T04:34:11.126142Z",
+      "timestamp": "2026-07-18T06:50:28.354223Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's what to know about Argentina's 2026 World Cup run.",
-      "timestamp": "2026-07-18T04:34:11.126207Z",
+      "timestamp": "2026-07-18T06:50:28.354285Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With the sport growing even more, the World Cup finals had diverse attendances. With the trophy on the line in the 2026 World Cup final between Spain and Argentina, the match will add another chapter to the competition\u2019s history, but it will not become the mo\u2026",
-      "timestamp": "2026-07-18T04:34:11.126237Z",
+      "timestamp": "2026-07-18T06:50:28.354314Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Giannis Antetokounmpo was introduced as a Miami Heat player on Thursday, one day after Argentina\u2019s stunning 2-1 semifinal comeback over England at Mercedes-Benz Stadium in Atlanta. He watched the match in person, sitting alongside Mick Jagger and Jermaine Dup\u2026",
-      "timestamp": "2026-07-18T04:34:11.126333Z",
+      "timestamp": "2026-07-18T06:50:28.354403Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi and Argentina players discovered Jordan Pickford's water bottle containing penalty instructions after their dramatic 2-1 FIFA World Cup semifinal win against England",
-      "timestamp": "2026-07-18T04:34:11.126463Z",
+      "timestamp": "2026-07-18T06:50:28.354531Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here is everything we know about France star Kylian Mbapp\u00e9's status for the 2026 FIFA World Cup bronze final match vs. England.",
-      "timestamp": "2026-07-18T04:34:11.126532Z",
+      "timestamp": "2026-07-18T06:50:28.354624Z",
       "links": [
         {
           "label": "Source",
@@ -374,100 +500,151 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Article URL: https://wc26.bogachev.fr/index.html\nComments URL: https://news.ycombinator.com/item?id=48941056\nPoints: 4\n# Comments: 1",
-      "timestamp": "2026-07-18T04:34:11.126584Z",
+      "timestamp": "2026-07-18T06:50:28.354675Z",
       "links": [
         {
           "label": "Source",
           "url": "https://wc26.bogachev.fr/index.html"
         }
       ]
-    },
-    {
-      "title": "World Cup 2026: FIFA to award first-ever championship rings to winner of Spain-Argentina",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA is following a local tradition at the World Cup.",
-      "timestamp": "2026-07-18T04:34:11.126744Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-fifa-to-award-first-ever-championship-rings-to-winner-of-spain-argentina-213350085.html"
-        }
-      ]
-    },
-    {
-      "title": "Argentina\u2019s World Cup Victory Over England Scores 15.1 Million Viewers on Fox, Largest Semifinals Telecast in English-Language U.S. History",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Just a day after Fox Sports\u2019 coverage of the FIFA World Cup 2026 semifinals broke records, they did it again. Wednesday\u2019s nailbiter between Argentina and England averaged 15.063 million viewers on Fox, making it the most-watched FIFA Men\u2019s World Cup semifinal\u2026",
-      "timestamp": "2026-07-18T04:34:11.126993Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://variety.com/2026/tv/news/argentina-england-world-cup-ratings-15-million-fox-1236813261/"
-        }
-      ]
-    },
-    {
-      "title": "Lamine Yamal\u2019s iconic baby photo with Messi in 2007: Which campaign was it for?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lamine Yamal\u2019s iconic 2007 photo in a plastic bathtub being bathed by Lionel Messi has gone viral once again, a legendary image originally produced for a joint charity campaign. The highly anticipated showdown in the 2026 FIFA World Cup final between Lamine Y\u2026",
-      "timestamp": "2026-07-18T04:34:11.127038Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/lamine-yamals-iconic-baby-photo-with-messi-in-2007-which-campaign-was-it-for/"
-        }
-      ]
-    },
-    {
-      "title": "PREVIEW | France vs England: team news, lineups, predictions (World Cup 18/07)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "France and England face each other this Saturday at the Hard Rock Stadium of the World Cup. The match will be broadcast live at 22:00 on BBC One.In their last fixture, France suffered a 0-2 reverse ag...",
-      "timestamp": "2026-07-18T04:34:11.127081Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.playmakerstats.com/news/preview-france-vs-england-team-news-lineups-predictions-world-cup-18-07/1158220"
-        }
-      ]
-    },
-    {
-      "title": "The Seven Players With The Best Chance To Break Lionel Messi\u2019s FIFA World Cup Goal-Scoring Record",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Barring the rules of soccer changing immediately or something unlike we\u2019ve ever seen before,\u00a0Lionel Messi\u00a0is going to leave the 2026\u00a0FIFA World Cup\u00a0as the tournament\u2019s all-time leading scorer. As it stands, Messi holds the record with 21 goals after overtakin\u2026",
-      "timestamp": "2026-07-18T04:34:11.127270Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://brobible.com/sports/article/fifa-world-cup-players-likely-break-messi-scoring-record/"
-        }
-      ]
-    },
-    {
-      "title": "White House confirms Trump will attend World Cup final in New Jersey: 'A fitting conclusion'",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "President Donald Trump will join Gianni Infantino to hand the FIFA World Cup trophy to the winning team's captain on the field at MetLife Stadium Sunday.",
-      "timestamp": "2026-07-18T04:34:11.127331Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxnews.com/sports/white-house-confirms-trump-attend-world-cup-final-new-jersey-fitting-conclusion"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Joan Laporta talks Messi, Lamine, Deco, La Masia ahead of FIFA World Cup final: \u2018We are very proud\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/joan-laporta-talks-messi-lamine-deco-la-masia-ahead-of-fifa-world-cup-final-we-are-very-proud/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Dallas",
+      "event": "MUST SEE: Passionate World Cup fans in Dallas for semifinal match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.conchovalleyhomepage.com/locker-room/must-see-passionate-world-cup-fans-in-dallas-for-semifinal-match/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "World Cup alters Ballon d\u2019Or landscape ahead of Yamal\u2019s career-defining clash against childhood idol",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/07/17/world-cup-2026-france-deschamps-argentina-messi-spain-yamal/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Hundreds Charged for Flying Drones Near World Cup Sites, Even for Unrelated Shots",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://fstoppers.com/drone/hundreds-charged-flying-drones-near-world-cup-sites-even-unrelated-shots-903588"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "World Cup Trophy Gets Luxury Louis Vuitton Trunk",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/fifa-wc-2026-louis-vuitton-designs-iconic-world-cup-trophy-travel-case/20260717.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "How 19-year-old soccer star Lamine Yamal built his eye-watering fortune",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hellomagazine.com/us/913363/inside-soccer-star-lamine-yamal-incredible-net-worth-at-19-years-of-age/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "FIFA names officials for Spain, Argentina World Cup final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/fifa-names-officials-for-spain-argentina-world-cup-final/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "6 Places You Can Watch the FIFA World Cup 2026 Finals Live in Malaysia",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://soyacincau.com/2026/07/17/6-places-you-can-watch-the-fifa-world-cup-2026-finals-live-in-malaysia/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "England Star Bellingham Thanks Fans After World Cup Exit",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/jude-bellingham-insta-note-england-fifa-world-cup-2026-exit/20260717.htm"
+        }
+      ]
+    },
     {
       "date": "Jul 18",
       "loc": "Global",
@@ -737,97 +914,7 @@
           "url": "https://wc26.bogachev.fr/index.html"
         }
       ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "World Cup 2026: FIFA to award first-ever championship rings to winner of Spain-Argentina",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-fifa-to-award-first-ever-championship-rings-to-winner-of-spain-argentina-213350085.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "Argentina\u2019s World Cup Victory Over England Scores 15.1 Million Viewers on Fox, Largest Semifinals Telecast in English-Language U.S. History",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://variety.com/2026/tv/news/argentina-england-world-cup-ratings-15-million-fox-1236813261/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "Lamine Yamal\u2019s iconic baby photo with Messi in 2007: Which campaign was it for?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/lamine-yamals-iconic-baby-photo-with-messi-in-2007-which-campaign-was-it-for/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Miami",
-      "event": "PREVIEW | France vs England: team news, lineups, predictions (World Cup 18/07)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.playmakerstats.com/news/preview-france-vs-england-team-news-lineups-predictions-world-cup-18-07/1158220"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "The Seven Players With The Best Chance To Break Lionel Messi\u2019s FIFA World Cup Goal-Scoring Record",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://brobible.com/sports/article/fifa-world-cup-players-likely-break-messi-scoring-record/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "New York / New Jersey",
-      "event": "White House confirms Trump will attend World Cup final in New Jersey: 'A fitting conclusion'",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxnews.com/sports/white-house-confirms-trump-attend-world-cup-final-new-jersey-fitting-conclusion"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-18T04:34:11.127496Z"
+  "lastUpdated": "2026-07-18T06:50:28.354968Z"
 }
