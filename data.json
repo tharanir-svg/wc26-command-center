@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 16
+    "p3": 21
   },
   "watchlist": [
     {
@@ -131,12 +131,194 @@
   ],
   "risks": [
     {
+      "title": "Every FIFA World Cup final in history: Results, scores and host countries",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The full list of finals in World Cup history with the scores, the stadiums and the hosts. The last match of the 2026 World Cup has Spain and Argentina going for the trophy. However, this wouldn\u2019t be the first time they would be champions, as they are part of \u2026",
+      "timestamp": "2026-07-18T20:37:28.852472Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/every-fifa-world-cup-final-in-history-results-scores-and-host-countries/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup: England meets France in match neither team really wants",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England and France have made it to the final weekend of the 2026 World Cup. But neither team had its sights set on the consolation match at Hard Rock.",
+      "timestamp": "2026-07-18T20:37:28.852542Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/07/17/miami-finale-world-cup-third-place-match-england-france/90957868007/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup Winners Will Be Awarded Championship Rings For First Time Ever",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup winners will be receiving championship rings for the first time in the tournament's history.",
+      "timestamp": "2026-07-18T20:37:28.852567Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/world-cup-winners-will-awarded-championship-rings-first-time-ever"
+        }
+      ]
+    },
+    {
+      "title": "USMNT Center Back Tim Ream Makes Wildly Out Of Touch Comments After Crashing Out Of World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Through the early stages of the\u00a02026 FIFA World Cup, it truly appeared as if we were going to see a different\u00a0United States Men\u2019s National Team. The U.S. clobbered a very solid Paraguay team to start the tournament, then followed it up with a controlled 2-0 v\u2026",
+      "timestamp": "2026-07-18T20:37:28.852607Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://brobible.com/sports/article/usmnt-tim-ream-comments-world-cup-loss-belgium/"
+        }
+      ]
+    },
+    {
+      "title": "Beyond Goals And Assists: The Numbers Behind Lionel Messi's 2026 World Cup Run",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Check out the metrics behind Lionel Messi's historic run at the 2026 FIFA World Cup.",
+      "timestamp": "2026-07-18T20:37:28.852626Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/deep-dive-numbers-behind-lionel-messis-incredible-2026-fifa-world-cup-run"
+        }
+      ]
+    },
+    {
+      "title": "Argentina vs. Spain: The 2026 World Cup Final By The Numbers",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Check out all the stats and facts around the historic matchup between Argentina and Spain.",
+      "timestamp": "2026-07-18T20:37:28.852645Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/argentina-vs-spain-2026-world-cup-numbers"
+        }
+      ]
+    },
+    {
+      "title": "Gen Z\u2019s June Obsession: Watching Love Island USA and the World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Peacock just had its best month ever \u2014 thanks to the unlikely programming combo of \u2018Love Island USA\u2019 and the 2026 FIFA World Cup. Gen Z showed up for both in droves.",
+      "timestamp": "2026-07-18T20:37:28.852712Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.vulture.com/article/peacock-june-ratings-gen-z-love-island-world-cup.html"
+        }
+      ]
+    },
+    {
+      "title": "Messi eyes second World Cup crown at the scene of his lowest ebb",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lionel Messi could end any debate about whether he is the greatest player of all time if he leads Argentina to World Cup glory again on Sunday at the MetLife Stadium -- where a decade ago he tearfully declared his international career over.\"Obviously I would \u2026",
+      "timestamp": "2026-07-18T20:37:28.852772Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/messi-eyes-second-world-cup-201318709.html"
+        }
+      ]
+    },
+    {
+      "title": "World Cup brings more flings, romance for LA singles during tournament",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup final between Spain and Argentina is Sunday, but the impact of the FIFA tournament this summer seeped into unexpected aspects of society. The United States was one of three host nations for the World Cup, with several cities throughout the \u2026",
+      "timestamp": "2026-07-18T20:37:28.852821Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/17/sports/world-cup-brings-more-flings-for-los-angeles-singles-during-tournament/"
+        }
+      ]
+    },
+    {
+      "title": "France star Ibrahima Konate brands World Cup third-place play-off against England 'the game no one wants to play'",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The two nations will go head-to-head at Miami's Hard Rock Stadium at 8pm tomorrow after losing their respective semi-finals.",
+      "timestamp": "2026-07-18T20:37:28.852847Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15986003/France-star-Ibrahima-Konate-brands-World-Cup-place-play.html"
+        }
+      ]
+    },
+    {
+      "title": "Star-Studded Bronze Match: Mbapp\u00e9, Bellingham Lead France-England Third-Place Game",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France and England face off for the 2026 World Cup third-place match on Saturday. Here's what to know.",
+      "timestamp": "2026-07-18T20:37:28.852883Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/world-cup-france-england-bronze-third-place-mbappe-bellingham-kane"
+        }
+      ]
+    },
+    {
+      "title": "The 5\ufe0f\u20e3 biggest shocks in World Cup final history ",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "You're not always safe from a surprise.This Sunday, Spain and Argentina will battle for the world title on the pitch at MetLife Stadium in New York.While this final is generally considered too close t...",
+      "timestamp": "2026-07-18T20:37:28.852908Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/the-5-biggest-shocks-in-world-cup-final-history-43152685"
+        }
+      ]
+    },
+    {
+      "title": "FIFA President & White House Officials To Discuss Air Quality Health Risks Ahead Of World Cup Final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "White House officials reportedly will meet today with FIFA president Gianni Infantino to discuss any potential air quality-related health risks posed by the Canadian wildfire smoke on Sunday\u2019s World Cup final taking place at MetLife Stadium in New Jersey. The\u2026",
+      "timestamp": "2026-07-18T20:37:28.852939Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://deadline.com/2026/07/world-cup-fifa-white-house-air-quality-wildfires-1236997021/"
+        }
+      ]
+    },
+    {
       "title": "Why NFL Stadiums Aren't Built for the World Cup | WSJ Pro Perfected",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "As the 2026 FIFA World Cup comes to a close with the final between Spain and Argentina at New York New Jersey Stadium, WSJ ...",
-      "timestamp": "2026-07-18T19:56:38.046391Z",
+      "timestamp": "2026-07-18T20:37:28.852992Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup final is introducing its first-ever halftime show, featuring Justin Bieber, BTS, Shakira and more\u2014here\u2019s how to get tickets.",
-      "timestamp": "2026-07-18T19:56:38.046591Z",
+      "timestamp": "2026-07-18T20:37:28.853136Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The two sides will meet on Sunday at MetLife Stadium in New Jersey.",
-      "timestamp": "2026-07-18T19:56:38.046704Z",
+      "timestamp": "2026-07-18T20:37:28.853232Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In the U.S., beer consumption has fallen steadily for a decade, according to the Brewers Association, a trade group for craft brewers. Canada has seen a similar decline, according to the national statistics agency. The Brewers of Europe trade association says\u2026",
-      "timestamp": "2026-07-18T19:56:38.047067Z",
+      "timestamp": "2026-07-18T20:37:28.853556Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Yamal was just a few months old and Messi, then 20, was an emerging talent when the photos were taken, according to the photographer.",
-      "timestamp": "2026-07-18T19:56:38.047266Z",
+      "timestamp": "2026-07-18T20:37:28.853756Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England manager Thomas Tuchel opted against giving Manchester United midfielder Kobbie Mainoo any minutes at the 2026 FIFA World Cup so far. Liverpool legend Graeme Souness believes that it was the ri...",
-      "timestamp": "2026-07-18T19:56:38.047352Z",
+      "timestamp": "2026-07-18T20:37:28.853836Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "EAST RUTHERFORD, N.J. \u2014 The 2026 FIFA World Cup has delivered upsets, controversy, dramatic comebacks and breakout stars. Now it comes down to the matchup many fans wanted all along: Spain vs. Argentina.  OFFICIAL: FIFA to award the winners of the World C\u2026",
-      "timestamp": "2026-07-18T19:56:38.047386Z",
+      "timestamp": "2026-07-18T20:37:28.853868Z",
       "links": [
         {
           "label": "Source",
@@ -234,128 +416,211 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "MIAMI GARDENS \u2013 The English and French teams wish they were not in South Florida this weekend. They would prefer to be in New York, preparing to play in the World Cup final. Instead, they will play in the bronze final at Miami Stadium (aka Hard Rock Stadium) \u2026",
-      "timestamp": "2026-07-18T19:56:38.047456Z",
+      "timestamp": "2026-07-18T20:37:28.853959Z",
       "links": [
         {
           "label": "Source",
           "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ea33c1f1-b092-4284-8774-b6016c86914a"
         }
       ]
-    },
-    {
-      "title": "World Cup Final: Lionel Messi vies for immortality vs. stingy Spain",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi will attempt to further cement his name among athletic immortals when Argentina battles Spain in Sunday's 2026 World Cup Final.",
-      "timestamp": "2026-07-18T19:56:38.047576Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.upi.com/Sports_News/Soccer/2026/07/17/latam-world-cup-Messi-Argentina-Spain-World-Cup-final/4131784303348/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026: France, England prepare for gloomy World Cup send-off",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "France and England will play in the World Cup third-place match after semi-final losses. Both teams are disappointed after their respective defeats in the tournament's final stages. This match offers a chance for Kylian Mbappe to lead the scoring charts. Harr\u2026",
-      "timestamp": "2026-07-18T19:56:38.047663Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-france-england-prepare-for-gloomy-world-cup-send-off/articleshow/132468461.cms"
-        }
-      ]
-    },
-    {
-      "title": "Canada wildfires: Smoke choking major US cities",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Air quality warnings have been issued in major US cities due to dense wildfire smoke from Canada. FIFA World Cup organizers are \"monitoring closely\" the smoky conditions. Smoke from hundreds of wildfires burning in Canada has prompted air quality warnings acr\u2026",
-      "timestamp": "2026-07-18T19:56:38.047692Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dw.com/en/canada-wildfires-smoke-choking-major-us-cities/a-78014421"
-        }
-      ]
-    },
-    {
-      "title": "FIFA fever: Govt extends pub, bar hours till 4.30am",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Telangana allows Hyderabad bars, clubs and microbreweries to stay open late for FIFA World Cup 2026 screenings, with strict rules and zero-tolerance policing.",
-      "timestamp": "2026-07-18T19:56:38.047729Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/city/hyderabad/fifa-fever-govt-extends-pub-bar-hours-till-4-30am/articleshow/132468073.cms"
-        }
-      ]
-    },
-    {
-      "title": "An Offside Wish",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Ahead of the FIFA World Cup final, two football-themed jokes are making the rounds online: one pokes fun at VAR's inconsistency by suggesting building a bridge across the Atlantic is easier, while the other delivers a dark punchline about a widower choosing t\u2026",
-      "timestamp": "2026-07-18T19:56:38.047761Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/opinion/bliss-of-everyday-life/an-offside-wish/articleshow/132468064.cms"
-        }
-      ]
-    },
-    {
-      "title": "Been played by deep play? How FIFA World Cup 2026 shapes the modern football fan",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Despite the shadow of controversy, numerous football enthusiasts engaged with this year's Fifa World Cup. The expanded format highlighted both rising nations and well-known athletes. Yet, dubious officiating and VAR's implementation sparked intense debates an\u2026",
-      "timestamp": "2026-07-18T19:56:38.047851Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/opinion/et-commentary/been-played-by-deep-play-how-fifa-world-cup-2026-shapes-the-modern-football-fan/articleshow/132467393.cms"
-        }
-      ]
-    },
-    {
-      "title": "How to Bet on Argentina to Win the 2026 World Cup Final and Claim Over $2000 in Bonuses",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "How to Bet on Argentina to Win the 2026 World Cup Final and Claim Over $2000 in Bonuses.",
-      "timestamp": "2026-07-18T19:56:38.047918Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/betting/how-bet-argentina-win-2026-world-cup-final-claim-over-2000-bonuses"
-        }
-      ]
-    },
-    {
-      "title": "Who is performing at World Cup final? Every artist confirmed so far",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here is the full list of performers fans will see at the 2026 World Cup final.",
-      "timestamp": "2026-07-18T19:56:38.047978Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/17/world-cup-final-performers-2026-halftime-show/90957706007/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Every FIFA World Cup final in history: Results, scores and host countries",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/every-fifa-world-cup-final-in-history-results-scores-and-host-countries/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Miami",
+      "event": "World Cup: England meets France in match neither team really wants",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/07/17/miami-finale-world-cup-third-place-match-england-france/90957868007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "World Cup Winners Will Be Awarded Championship Rings For First Time Ever",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/world-cup-winners-will-awarded-championship-rings-first-time-ever"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "USMNT Center Back Tim Ream Makes Wildly Out Of Touch Comments After Crashing Out Of World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://brobible.com/sports/article/usmnt-tim-ream-comments-world-cup-loss-belgium/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Beyond Goals And Assists: The Numbers Behind Lionel Messi's 2026 World Cup Run",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/deep-dive-numbers-behind-lionel-messis-incredible-2026-fifa-world-cup-run"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Argentina vs. Spain: The 2026 World Cup Final By The Numbers",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/argentina-vs-spain-2026-world-cup-numbers"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Gen Z\u2019s June Obsession: Watching Love Island USA and the World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.vulture.com/article/peacock-june-ratings-gen-z-love-island-world-cup.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "New York / New Jersey",
+      "event": "Messi eyes second World Cup crown at the scene of his lowest ebb",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/messi-eyes-second-world-cup-201318709.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "World Cup brings more flings, romance for LA singles during tournament",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/17/sports/world-cup-brings-more-flings-for-los-angeles-singles-during-tournament/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Miami",
+      "event": "France star Ibrahima Konate brands World Cup third-place play-off against England 'the game no one wants to play'",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15986003/France-star-Ibrahima-Konate-brands-World-Cup-place-play.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Star-Studded Bronze Match: Mbapp\u00e9, Bellingham Lead France-England Third-Place Game",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/world-cup-france-england-bronze-third-place-mbappe-bellingham-kane"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "New York / New Jersey",
+      "event": "The 5\ufe0f\u20e3 biggest shocks in World Cup final history ",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/the-5-biggest-shocks-in-world-cup-final-history-43152685"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "New York / New Jersey",
+      "event": "FIFA President & White House Officials To Discuss Air Quality Health Risks Ahead Of World Cup Final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://deadline.com/2026/07/world-cup-fifa-white-house-air-quality-wildfires-1236997021/"
+        }
+      ]
+    },
     {
       "date": "Jul 18",
       "loc": "Global",
@@ -475,127 +740,7 @@
           "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ea33c1f1-b092-4284-8774-b6016c86914a"
         }
       ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "World Cup Final: Lionel Messi vies for immortality vs. stingy Spain",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.upi.com/Sports_News/Soccer/2026/07/17/latam-world-cup-Messi-Argentina-Spain-World-Cup-final/4131784303348/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026: France, England prepare for gloomy World Cup send-off",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-france-england-prepare-for-gloomy-world-cup-send-off/articleshow/132468461.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "Canada wildfires: Smoke choking major US cities",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dw.com/en/canada-wildfires-smoke-choking-major-us-cities/a-78014421"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "FIFA fever: Govt extends pub, bar hours till 4.30am",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/city/hyderabad/fifa-fever-govt-extends-pub-bar-hours-till-4-30am/articleshow/132468073.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "An Offside Wish",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/opinion/bliss-of-everyday-life/an-offside-wish/articleshow/132468064.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "Been played by deep play? How FIFA World Cup 2026 shapes the modern football fan",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/opinion/et-commentary/been-played-by-deep-play-how-fifa-world-cup-2026-shapes-the-modern-football-fan/articleshow/132467393.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "How to Bet on Argentina to Win the 2026 World Cup Final and Claim Over $2000 in Bonuses",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/betting/how-bet-argentina-win-2026-world-cup-final-claim-over-2000-bonuses"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "Who is performing at World Cup final? Every artist confirmed so far",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/17/world-cup-final-performers-2026-halftime-show/90957706007/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-18T19:56:38.048162Z"
+  "lastUpdated": "2026-07-18T20:37:28.854207Z"
 }
