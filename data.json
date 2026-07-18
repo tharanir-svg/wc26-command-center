@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 13
+    "p3": 19
   },
   "watchlist": [
     {
@@ -131,12 +131,194 @@
   ],
   "risks": [
     {
+      "title": "FIFA Brings Iconic American Tradition to the World Cup as 2026 Winners Receive Historic New Prize",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "When the 2026 FIFA World Cup comes to an end on July 19, the champions will leave New York New [\u2026]",
+      "timestamp": "2026-07-18T16:40:17.376403Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sportsnaut.com/soccer/fifa-brings-american-tradition-to-the-world-cup-as-2026-winners"
+        }
+      ]
+    },
+    {
+      "title": "Is US only country in 2026 World Cup without universal healthcare? We checked all 48 teams",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The United States lacks universal healthcare, but it isn't the only World Cup participant with incomplete coverage.",
+      "timestamp": "2026-07-18T16:40:17.376537Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.snopes.com//fact-check/world-cup-teams-universal-healthcare/"
+        }
+      ]
+    },
+    {
+      "title": "Full list: Yamal misses training, other players injured ahead of 2026 World Cup final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain winger Lamine Yamal missed his team's first training session in New Jersey as preparations intensified for Sunday's 2026 FIFA World Cup final against Argentina.\nThe post Full list: Yamal misses training, other players injured ahead of 2026 World Cup fin\u2026",
+      "timestamp": "2026-07-18T16:40:17.376577Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/full-list-yamal-misses-training-other-players-injured-ahead-of-2026-world-cup-final/"
+        }
+      ]
+    },
+    {
+      "title": "England vs. France odds, prediction, time: 2026 World Cup third-place match picks by expert on 27-18 roll",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "SportsLine's Jon Eimer reveals his France vs. England best bets in the FIFA World Cup 2026 third-place game on Saturday",
+      "timestamp": "2026-07-18T16:40:17.376644Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/betting/news/england-france-odds-prediction-time-2026-world-cup-third-place-match-picks/"
+        }
+      ]
+    },
+    {
+      "title": "Ex-teammates, colleagues hail De la Fuente as mastermind of Spain\u2019s World Cup run",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Ex-teammates and colleagues hail Luis de la Fuente\u2019s leadership and tactical genius as key to Spain\u2019s FIFA World Cup 2026 final success.\n\nRead More: https://punchng.com/ex-teammates-colleagues-hail-de-la-fuente-as-mastermind-of-spains-world-cup-run/",
+      "timestamp": "2026-07-18T16:40:17.376732Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/ex-teammates-colleagues-hail-de-la-fuente-as-mastermind-of-spains-world-cup-run/"
+        }
+      ]
+    },
+    {
+      "title": "Spain\u2019s defensive wall vs Argentina\u2019s chaos: Breaking down the 2026 World Cup final tactical battle",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain and Argentina will decide who becomes champion of the 2026 World Cup, in a match that will see two similar tactical systems collide. New York New Jersey Stadium is gearing up to host the 2026 World Cup final, where Argentina will look to defend their cr\u2026",
+      "timestamp": "2026-07-18T16:40:17.376764Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/spains-defensive-wall-vs-argentinas-chaos-breaking-down-the-2026-world-cup-final-tactical-battle/"
+        }
+      ]
+    },
+    {
+      "title": "Update on 2026 World Cup final after air quality warnings in New York and New Jersey",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Warnings about the air quality have been issued in New York and New Jersey ahead of Sunday\u2019s World Cup final in East Rutherford. The New York New Jersey Stadium (MetLife Stadium) will host the 23 World Cup final in soccer history, with current world champions\u2026",
+      "timestamp": "2026-07-18T16:40:17.376798Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/update-on-2026-world-cup-final-after-air-quality-warnings-in-new-york-and-new-jersey/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup final reportedly not expected to be affected by air quality issues",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina and Spain are set to kick off from New Jersey's MetLife Stadium at 3 p.m. ET on Sunday.",
+      "timestamp": "2026-07-18T16:40:17.376879Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/world-cup-final-reportedly-not-expected-to-be-affected-by-air-quality-issues-155759049.html"
+        }
+      ]
+    },
+    {
+      "title": "Authorities 'monitoring' wildfires' impact on 2026 World Cup final, sources say",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The World Cup final is scheduled for Sunday in East Rutherford, New Jersey.",
+      "timestamp": "2026-07-18T16:40:17.376918Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://abcnews.com/GMA/News/wildfires-air-quality-impact-2026-world-cup-final/story?id=134848966"
+        }
+      ]
+    },
+    {
+      "title": "How to Watch the 2026 World Cup Final This Sunday",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain vs. Argentina World Cup Final: TV Channel, Live Stream, Kickoff Time, and Messi's Last Shot at Glory",
+      "timestamp": "2026-07-18T16:40:17.376936Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/how-watch-2026-world-cup-final-sunday"
+        }
+      ]
+    },
+    {
+      "title": "World Cup 2026 victors to receive first-ever championship rings",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Winning players from the 2026 World Cup Final will receive championship rings, FIFA announced. Argentina will meet Spain in Sunday's finale.",
+      "timestamp": "2026-07-18T16:40:17.377023Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.upi.com/Sports_News/Soccer/2026/07/17/latam-world-cup-winners-receive-rings/6051784300747/"
+        }
+      ]
+    },
+    {
+      "title": "If air quality is poor, Argentina could be hurt by Spain's style in World Cup Final, FOX analyst says",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Canadian wildfire smoke is threatening the World Cup final at MetLife Stadium as Stu Holden said poor air quality could favor Spain over Argentina.",
+      "timestamp": "2026-07-18T16:40:17.377043Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/sports/air-quality-poor-argentina-hurt-spain-style-world-cup-final-fox-analyst"
+        }
+      ]
+    },
+    {
+      "title": "An LGBTQ+ roundup of the 2026 World Cup, from Pride games to boycotts",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Football may not be coming home, but the 2026 FIFA World Cup has been an illuminating event for LGBTQ+ fans. This year, the tournament was jointly hosted by three nations (United States, Mexico and Canada) for the first time.\u00a0 The 2026 World Cup will conclude\u2026",
+      "timestamp": "2026-07-18T16:40:17.377072Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thepinknews.com/2026/07/17/an-lgbtq-roundup-of-the-2026-world-cup-from-pride-games-to-boycotts/"
+        }
+      ]
+    },
+    {
       "title": "FIFA make call on Lisandro Mart\u00ednez\u2019s 2026 World Cup final ban",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Manchester United defender Lisandro Martinez may have received some good news regarding his involvement in the 2026 FIFA World Cup final. The Argentine has been a regular for his nation at the tournam...",
-      "timestamp": "2026-07-18T15:41:22.363921Z",
+      "timestamp": "2026-07-18T16:40:17.377295Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup final between Spain and Argentina will proceed despite Canadian wildfire smoke concerns, highlighting growing climate risk for major\nThe post World Cup final gets green light despite air quality fears, but the real game is climate risk mana\u2026",
-      "timestamp": "2026-07-18T15:41:22.364163Z",
+      "timestamp": "2026-07-18T16:40:17.377504Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's how to watch the England vs. Argentina semifinal match at the World Cup.",
-      "timestamp": "2026-07-18T15:41:22.364260Z",
+      "timestamp": "2026-07-18T16:40:17.377595Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lamine Yamal and Spain are one win from a World Cup title. Here's what to know before Sunday's final at MetLife Stadium.",
-      "timestamp": "2026-07-18T15:41:22.364376Z",
+      "timestamp": "2026-07-18T16:40:17.377712Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi and Argentina are one win from another World Cup title. Here's what to know before Sunday's final at MetLife Stadium.",
-      "timestamp": "2026-07-18T15:41:22.364457Z",
+      "timestamp": "2026-07-18T16:40:17.377823Z",
       "links": [
         {
           "label": "Source",
@@ -206,114 +388,211 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "If you're supporting Spain this Sunday, you can get this 16-oz. World Cup glass for $10; a savings of $4. Opt for pickup to avoid the $6.99 shipping charge (or get free shipping with orders of $35 or more).\r\nBuy Now at Walmart",
-      "timestamp": "2026-07-18T15:41:22.364540Z",
+      "timestamp": "2026-07-18T16:40:17.377956Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.dealnews.com/FIFA-World-Cup-2026-Soccer-Spain-16-oz-Country-Mixing-Glass-for-10-free-shipping-w-35/21907188.html"
         }
       ]
-    },
-    {
-      "title": "Steve Kornacki Breaks Down World Cup Final Match",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "As the 2026 FIFA World Cup gets set to wrap up, NBC's chief data analyst Steve Kornacki joins TODAY to break down the matchup between Argentina and Spain. He weighs in on Spain as the favorite, riding a 37-game unbeaten streak into the match. Then, Martha Ste\u2026",
-      "timestamp": "2026-07-18T15:41:22.364710Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.today.com/video/steve-kornacki-and-martha-stewart-s-grandson-talk-world-cup-266839109959"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026: Slovenia's Slavko Vin\u010di\u0107 selected to officiate Argentina-Spain final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Vin\u010di\u0107 has worked three games in this tournament, including the Mexico-Ecuador Round of 32 match.",
-      "timestamp": "2026-07-18T15:41:22.364809Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-slovenias-slavko-vincic-selected-to-officiate-argentina-spain-final-130748888.html"
-        }
-      ]
-    },
-    {
-      "title": "FIFPRO flags unsafe heat at nearly 20% of World Cup 2026 matches, raising questions about climate risk in global sports",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFPRO reports 19% of World Cup 2026 matches exceeded its heat safety threshold of 28C WBGT, pushing for formalized climate protocols with FIFA.\nThe post FIFPRO flags unsafe heat at nearly 20% of World Cup 2026 matches, raising questions about climate risk in\u2026",
-      "timestamp": "2026-07-18T15:41:22.364860Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/fifpro-heat-concerns-world-cup-2026/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026 Men's Argentina Country Soccer T-Shirt for $13 + free shipping w/ $35",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "This officially licensed Argentina tee is $12.74 at Walmart, down from $16.98. It's made from breathable, quick-dry polyester with an athletic fit for game day wear. Opt for pickup to avoid the $6.99 shipping charge (or get free shipping with orders of $35 or\u2026",
-      "timestamp": "2026-07-18T15:41:22.364956Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/FIFA-World-Cup-2026-Mens-Argentina-Country-Soccer-T-Shirt-for-13-free-shipping-w-35/21907141.html"
-        }
-      ]
-    },
-    {
-      "title": "NYC wakes up to \u2018unhealthy\u2019 air quality from Canada wildfire smoke \u2014 but hope in sight for MetLife\u2019s World Cup final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The New York metro area is still suffering from punishing haze and choking smoke from the Canadian wildfires, but experts are hopeful a change in the weather could offer some relief in time for Sunday\u2019s FIFA World Cup Final. New Yorkers woke up again Friday t\u2026",
-      "timestamp": "2026-07-18T15:41:22.364986Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/17/us-news/nyc-has-unhealthy-air-quality-from-canada-wildfire-but-hope-in-sight-for-metlifes-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "title": "How to Watch the 2026 FIFA World Cup Final Halftime Show",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Catch Madonna, BTS, Shakira, Justin Bieber and more during the championship game on Sunday.",
-      "timestamp": "2026-07-18T15:41:22.365014Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cnet.com/culture/entertainment/how-to-watch-the-2026-fifa-championship-final-halftime-show/"
-        }
-      ]
-    },
-    {
-      "title": " x ! Who do you fancy for third place at the Cup? Have your say!",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "For many, this would be the final of the 2026 FIFA World Cup, but France and England will play for third place this Saturday (18). Besides a spot on the podium, the match also marks the official farew...",
-      "timestamp": "2026-07-18T15:41:22.365191Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/x-who-do-you-fancy-for-third-place-at-the-cup-have-your-say-43150830"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "FIFA Brings Iconic American Tradition to the World Cup as 2026 Winners Receive Historic New Prize",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sportsnaut.com/soccer/fifa-brings-american-tradition-to-the-world-cup-as-2026-winners"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Is US only country in 2026 World Cup without universal healthcare? We checked all 48 teams",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.snopes.com//fact-check/world-cup-teams-universal-healthcare/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Full list: Yamal misses training, other players injured ahead of 2026 World Cup final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/full-list-yamal-misses-training-other-players-injured-ahead-of-2026-world-cup-final/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "England vs. France odds, prediction, time: 2026 World Cup third-place match picks by expert on 27-18 roll",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/betting/news/england-france-odds-prediction-time-2026-world-cup-third-place-match-picks/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Ex-teammates, colleagues hail De la Fuente as mastermind of Spain\u2019s World Cup run",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/ex-teammates-colleagues-hail-de-la-fuente-as-mastermind-of-spains-world-cup-run/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Spain\u2019s defensive wall vs Argentina\u2019s chaos: Breaking down the 2026 World Cup final tactical battle",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/spains-defensive-wall-vs-argentinas-chaos-breaking-down-the-2026-world-cup-final-tactical-battle/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "New York / New Jersey",
+      "event": "Update on 2026 World Cup final after air quality warnings in New York and New Jersey",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/update-on-2026-world-cup-final-after-air-quality-warnings-in-new-york-and-new-jersey/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "New York / New Jersey",
+      "event": "World Cup final reportedly not expected to be affected by air quality issues",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/world-cup-final-reportedly-not-expected-to-be-affected-by-air-quality-issues-155759049.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Authorities 'monitoring' wildfires' impact on 2026 World Cup final, sources say",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://abcnews.com/GMA/News/wildfires-air-quality-impact-2026-world-cup-final/story?id=134848966"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "How to Watch the 2026 World Cup Final This Sunday",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/how-watch-2026-world-cup-final-sunday"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "World Cup 2026 victors to receive first-ever championship rings",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.upi.com/Sports_News/Soccer/2026/07/17/latam-world-cup-winners-receive-rings/6051784300747/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "New York / New Jersey",
+      "event": "If air quality is poor, Argentina could be hurt by Spain's style in World Cup Final, FOX analyst says",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/sports/air-quality-poor-argentina-hurt-spain-style-world-cup-final-fox-analyst"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "An LGBTQ+ roundup of the 2026 World Cup, from Pride games to boycotts",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thepinknews.com/2026/07/17/an-lgbtq-roundup-of-the-2026-world-cup-from-pride-games-to-boycotts/"
+        }
+      ]
+    },
     {
       "date": "Jul 18",
       "loc": "Global",
@@ -403,112 +682,7 @@
           "url": "https://www.dealnews.com/FIFA-World-Cup-2026-Soccer-Spain-16-oz-Country-Mixing-Glass-for-10-free-shipping-w-35/21907188.html"
         }
       ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "Steve Kornacki Breaks Down World Cup Final Match",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.today.com/video/steve-kornacki-and-martha-stewart-s-grandson-talk-world-cup-266839109959"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "World Cup 2026: Slovenia's Slavko Vin\u010di\u0107 selected to officiate Argentina-Spain final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-slovenias-slavko-vincic-selected-to-officiate-argentina-spain-final-130748888.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "FIFPRO flags unsafe heat at nearly 20% of World Cup 2026 matches, raising questions about climate risk in global sports",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/fifpro-heat-concerns-world-cup-2026/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026 Men's Argentina Country Soccer T-Shirt for $13 + free shipping w/ $35",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/FIFA-World-Cup-2026-Mens-Argentina-Country-Soccer-T-Shirt-for-13-free-shipping-w-35/21907141.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "New York / New Jersey",
-      "event": "NYC wakes up to \u2018unhealthy\u2019 air quality from Canada wildfire smoke \u2014 but hope in sight for MetLife\u2019s World Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/17/us-news/nyc-has-unhealthy-air-quality-from-canada-wildfire-but-hope-in-sight-for-metlifes-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "How to Watch the 2026 FIFA World Cup Final Halftime Show",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cnet.com/culture/entertainment/how-to-watch-the-2026-fifa-championship-final-halftime-show/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": " x ! Who do you fancy for third place at the Cup? Have your say!",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/x-who-do-you-fancy-for-third-place-at-the-cup-have-your-say-43150830"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-18T15:41:22.365408Z"
+  "lastUpdated": "2026-07-18T16:40:17.378214Z"
 }
