@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 1,
-    "p3": 22
+    "p3": 29
   },
   "watchlist": [
     {
@@ -131,12 +131,138 @@
   ],
   "risks": [
     {
+      "title": "FIFA World Cup 2026: France, England prepare for gloomy World Cup send-off",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France and England will play in the World Cup third-place match after semi-final losses. Both teams are disappointed after their respective defeats in the tournament's final stages. This match offers a chance for Kylian Mbappe to lead the scoring charts. Harr\u2026",
+      "timestamp": "2026-07-18T18:41:03.853610Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-france-england-prepare-for-gloomy-world-cup-send-off/articleshow/132468461.cms"
+        }
+      ]
+    },
+    {
+      "title": "Canada wildfires: Smoke choking major US cities",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Air quality warnings have been issued in major US cities due to dense wildfire smoke from Canada. FIFA World Cup organizers are \"monitoring closely\" the smoky conditions. Smoke from hundreds of wildfires burning in Canada has prompted air quality warnings acr\u2026",
+      "timestamp": "2026-07-18T18:41:03.853746Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dw.com/en/canada-wildfires-smoke-choking-major-us-cities/a-78014421"
+        }
+      ]
+    },
+    {
+      "title": "FIFA fever: Govt extends pub, bar hours till 4.30am",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Telangana allows Hyderabad bars, clubs and microbreweries to stay open late for FIFA World Cup 2026 screenings, with strict rules and zero-tolerance policing.",
+      "timestamp": "2026-07-18T18:41:03.853811Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/city/hyderabad/fifa-fever-govt-extends-pub-bar-hours-till-4-30am/articleshow/132468073.cms"
+        }
+      ]
+    },
+    {
+      "title": "An Offside Wish",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Ahead of the FIFA World Cup final, two football-themed jokes are making the rounds online: one pokes fun at VAR's inconsistency by suggesting building a bridge across the Atlantic is easier, while the other delivers a dark punchline about a widower choosing t\u2026",
+      "timestamp": "2026-07-18T18:41:03.853858Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/opinion/bliss-of-everyday-life/an-offside-wish/articleshow/132468064.cms"
+        }
+      ]
+    },
+    {
+      "title": "Been played by deep play? How FIFA World Cup 2026 shapes the modern football fan",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Despite the shadow of controversy, numerous football enthusiasts engaged with this year's Fifa World Cup. The expanded format highlighted both rising nations and well-known athletes. Yet, dubious officiating and VAR's implementation sparked intense debates an\u2026",
+      "timestamp": "2026-07-18T18:41:03.853949Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/opinion/et-commentary/been-played-by-deep-play-how-fifa-world-cup-2026-shapes-the-modern-football-fan/articleshow/132467393.cms"
+        }
+      ]
+    },
+    {
+      "title": "How to Bet on Argentina to Win the 2026 World Cup Final and Claim Over $2000 in Bonuses",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "How to Bet on Argentina to Win the 2026 World Cup Final and Claim Over $2000 in Bonuses.",
+      "timestamp": "2026-07-18T18:41:03.853993Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/betting/how-bet-argentina-win-2026-world-cup-final-claim-over-2000-bonuses"
+        }
+      ]
+    },
+    {
+      "title": "Who is performing at World Cup final? Every artist confirmed so far",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Here is the full list of performers fans will see at the 2026 World Cup final.",
+      "timestamp": "2026-07-18T18:41:03.854037Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/17/world-cup-final-performers-2026-halftime-show/90957706007/"
+        }
+      ]
+    },
+    {
+      "title": "Special trains set for Gillette Stadium events",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FOXBORO -- While the World Cup games are over, special event MBTA train service will continue to be offered for concerts and other events lined up for Gillette Stadium.",
+      "timestamp": "2026-07-18T18:41:03.854080Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thesunchronicle.com/news/local_news/special-trains-set-for-gillette-stadium-events/article_2dbf4d90-b98b-42a4-ae35-8dfd63517879.html"
+        }
+      ]
+    },
+    {
+      "title": "The World Cup Travel Matrix",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup is, by rough consensus, the most politically compromised and nakedly commercial tournament ever staged. It is also, by that same",
+      "timestamp": "2026-07-18T18:41:03.854135Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://skift.com/2026/07/17/the-world-cup-travel-matrix/"
+        }
+      ]
+    },
+    {
       "title": "Argentina vs. Spain: Average World Cup Final Ticket Listing Hits $5,480, Ticombo Data Shows",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "NEW YORK, July 17, 2026 /PRNewswire/ -- With Argentina and Spain set to meet in the World Cup Final in two days at MetLife Stadium in East Rutherford, New Jersey, Final average listing prices on Ticombo are among the highest levels tracked during the tourname\u2026",
-      "timestamp": "2026-07-18T17:43:49.845117Z",
+      "timestamp": "2026-07-18T18:41:03.854203Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The weekend forecast isn't locked in yet, but as of now it is looking likely there will be some rain showers and possible thunderstorms on Sunday in New Jersey.",
-      "timestamp": "2026-07-18T17:43:49.845166Z",
+      "timestamp": "2026-07-18T18:41:03.854224Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "NEW YORK, July 17, 2026 /PRNewswire/ -- With Argentina and Spain set to meet in the World Cup Final in two days at MetLife Stadium in East Rutherford, New Jersey, Final average listing prices on Ticombo are among the highest levels tracked during the tourname\u2026",
-      "timestamp": "2026-07-18T17:43:49.845243Z",
+      "timestamp": "2026-07-18T18:41:03.854276Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "To get in the spirit for the 2026 World Cup final between Argentina and Spain, The Associated Press has made a themed playlist",
-      "timestamp": "2026-07-18T17:43:49.845359Z",
+      "timestamp": "2026-07-18T18:41:03.854362Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Give me America's Game over The Beautiful Game any day, Nate Davis writes. With the 2026 World Cup coming to a close, he's about to get his wish.",
-      "timestamp": "2026-07-18T17:43:49.845410Z",
+      "timestamp": "2026-07-18T18:41:03.854403Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Residents of the cities hosting games at the 2026 FIFA World Cup have voiced concern over what they see as significant soccer-driven inflation since the competition kicked off.\nAccording to a survey conducted in late June by the financial advisory website Car\u2026",
-      "timestamp": "2026-07-18T17:43:49.845590Z",
+      "timestamp": "2026-07-18T18:41:03.854561Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FOX broadcaster John Strong says he'll \"play it down the middle\" as President Donald Trump and Gianni Infantino prepare to hand the FIFA World Cup trophy to the winning team.",
-      "timestamp": "2026-07-18T17:43:49.845616Z",
+      "timestamp": "2026-07-18T18:41:03.854585Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +360,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "In Seattle, restaurant workers walked out, while Hilton Embassy Suites employees have been on strike since June 18.",
-      "timestamp": "2026-07-18T17:43:49.845637Z",
+      "timestamp": "2026-07-18T18:41:03.854610Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "When the 2026 FIFA World Cup comes to an end on July 19, the champions will leave New York New [\u2026]",
-      "timestamp": "2026-07-18T17:43:49.845759Z",
+      "timestamp": "2026-07-18T18:41:03.854764Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The United States lacks universal healthcare, but it isn't the only World Cup participant with incomplete coverage.",
-      "timestamp": "2026-07-18T17:43:49.845816Z",
+      "timestamp": "2026-07-18T18:41:03.854820Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain winger Lamine Yamal missed his team's first training session in New Jersey as preparations intensified for Sunday's 2026 FIFA World Cup final against Argentina.\nThe post Full list: Yamal misses training, other players injured ahead of 2026 World Cup fin\u2026",
-      "timestamp": "2026-07-18T17:43:49.845850Z",
+      "timestamp": "2026-07-18T18:41:03.854851Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "SportsLine's Jon Eimer reveals his France vs. England best bets in the FIFA World Cup 2026 third-place game on Saturday",
-      "timestamp": "2026-07-18T17:43:49.845911Z",
+      "timestamp": "2026-07-18T18:41:03.854911Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ex-teammates and colleagues hail Luis de la Fuente\u2019s leadership and tactical genius as key to Spain\u2019s FIFA World Cup 2026 final success.\n\nRead More: https://punchng.com/ex-teammates-colleagues-hail-de-la-fuente-as-mastermind-of-spains-world-cup-run/",
-      "timestamp": "2026-07-18T17:43:49.846002Z",
+      "timestamp": "2026-07-18T18:41:03.854996Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain and Argentina will decide who becomes champion of the 2026 World Cup, in a match that will see two similar tactical systems collide. New York New Jersey Stadium is gearing up to host the 2026 World Cup final, where Argentina will look to defend their cr\u2026",
-      "timestamp": "2026-07-18T17:43:49.846035Z",
+      "timestamp": "2026-07-18T18:41:03.855027Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Warnings about the air quality have been issued in New York and New Jersey ahead of Sunday\u2019s World Cup final in East Rutherford. The New York New Jersey Stadium (MetLife Stadium) will host the 23 World Cup final in soccer history, with current world champions\u2026",
-      "timestamp": "2026-07-18T17:43:49.846068Z",
+      "timestamp": "2026-07-18T18:41:03.855057Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina and Spain are set to kick off from New Jersey's MetLife Stadium at 3 p.m. ET on Sunday.",
-      "timestamp": "2026-07-18T17:43:49.846157Z",
+      "timestamp": "2026-07-18T18:41:03.855135Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The World Cup final is scheduled for Sunday in East Rutherford, New Jersey.",
-      "timestamp": "2026-07-18T17:43:49.846201Z",
+      "timestamp": "2026-07-18T18:41:03.855177Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain vs. Argentina World Cup Final: TV Channel, Live Stream, Kickoff Time, and Messi's Last Shot at Glory",
-      "timestamp": "2026-07-18T17:43:49.846232Z",
+      "timestamp": "2026-07-18T18:41:03.855195Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Winning players from the 2026 World Cup Final will receive championship rings, FIFA announced. Argentina will meet Spain in Sunday's finale.",
-      "timestamp": "2026-07-18T17:43:49.846327Z",
+      "timestamp": "2026-07-18T18:41:03.855280Z",
       "links": [
         {
           "label": "Source",
@@ -402,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Canadian wildfire smoke is threatening the World Cup final at MetLife Stadium as Stu Holden said poor air quality could favor Spain over Argentina.",
-      "timestamp": "2026-07-18T17:43:49.846348Z",
+      "timestamp": "2026-07-18T18:41:03.855300Z",
       "links": [
         {
           "label": "Source",
@@ -416,44 +542,151 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Football may not be coming home, but the 2026 FIFA World Cup has been an illuminating event for LGBTQ+ fans. This year, the tournament was jointly hosted by three nations (United States, Mexico and Canada) for the first time.\u00a0 The 2026 World Cup will conclude\u2026",
-      "timestamp": "2026-07-18T17:43:49.846379Z",
+      "timestamp": "2026-07-18T18:41:03.855328Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.thepinknews.com/2026/07/17/an-lgbtq-roundup-of-the-2026-world-cup-from-pride-games-to-boycotts/"
         }
       ]
-    },
-    {
-      "title": "FIFA make call on Lisandro Mart\u00ednez\u2019s 2026 World Cup final ban",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Manchester United defender Lisandro Martinez may have received some good news regarding his involvement in the 2026 FIFA World Cup final. The Argentine has been a regular for his nation at the tournam...",
-      "timestamp": "2026-07-18T17:43:49.846613Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thepeoplesperson.com/2026/07/17/fifa-make-call-on-lisandro-martinezs-2026-world-cup-final-ban-312841/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup final gets green light despite air quality fears, but the real game is climate risk management",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup final between Spain and Argentina will proceed despite Canadian wildfire smoke concerns, highlighting growing climate risk for major\nThe post World Cup final gets green light despite air quality fears, but the real game is climate risk mana\u2026",
-      "timestamp": "2026-07-18T17:43:49.846862Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/world-cup-final-air-quality-climate-risk/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026: France, England prepare for gloomy World Cup send-off",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-france-england-prepare-for-gloomy-world-cup-send-off/articleshow/132468461.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Canada wildfires: Smoke choking major US cities",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dw.com/en/canada-wildfires-smoke-choking-major-us-cities/a-78014421"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "FIFA fever: Govt extends pub, bar hours till 4.30am",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/city/hyderabad/fifa-fever-govt-extends-pub-bar-hours-till-4-30am/articleshow/132468073.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "An Offside Wish",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/opinion/bliss-of-everyday-life/an-offside-wish/articleshow/132468064.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Been played by deep play? How FIFA World Cup 2026 shapes the modern football fan",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/opinion/et-commentary/been-played-by-deep-play-how-fifa-world-cup-2026-shapes-the-modern-football-fan/articleshow/132467393.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "How to Bet on Argentina to Win the 2026 World Cup Final and Claim Over $2000 in Bonuses",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/betting/how-bet-argentina-win-2026-world-cup-final-claim-over-2000-bonuses"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "Who is performing at World Cup final? Every artist confirmed so far",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/17/world-cup-final-performers-2026-halftime-show/90957706007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Boston",
+      "event": "Special trains set for Gillette Stadium events",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thesunchronicle.com/news/local_news/special-trains-set-for-gillette-stadium-events/article_2dbf4d90-b98b-42a4-ae35-8dfd63517879.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 18",
+      "loc": "Global",
+      "event": "The World Cup Travel Matrix",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://skift.com/2026/07/17/the-world-cup-travel-matrix/"
+        }
+      ]
+    },
     {
       "date": "Jul 18",
       "loc": "New York / New Jersey",
@@ -768,37 +1001,7 @@
           "url": "https://www.thepinknews.com/2026/07/17/an-lgbtq-roundup-of-the-2026-world-cup-from-pride-games-to-boycotts/"
         }
       ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "FIFA make call on Lisandro Mart\u00ednez\u2019s 2026 World Cup final ban",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thepeoplesperson.com/2026/07/17/fifa-make-call-on-lisandro-martinezs-2026-world-cup-final-ban-312841/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 18",
-      "loc": "Global",
-      "event": "World Cup final gets green light despite air quality fears, but the real game is climate risk management",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/world-cup-final-air-quality-climate-risk/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-18T17:43:49.847110Z"
+  "lastUpdated": "2026-07-18T18:41:03.855650Z"
 }
