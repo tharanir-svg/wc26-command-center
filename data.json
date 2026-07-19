@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 1,
     "p2": 0,
-    "p3": 30
+    "p3": 31
   },
   "watchlist": [
     {
@@ -131,12 +131,124 @@
   ],
   "risks": [
     {
+      "title": "Get-in price for World Cup finale hits $10,000",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "On Sunday, MetLife Stadium will host the event with the most expensive tickets prices ever.",
+      "timestamp": "2026-07-19T17:44:56.200526Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/get-in-price-for-world-cup-finale-hits-10-000"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026: Messi's World Cup greatness, one record at a time",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The spotlight will be firmly on Argentina captain Lionel Messi, who is expected to play the final World Cup match of his career. The 39-year-old will become only the second player after Cafu to appear in three World Cup finals and heads into the decider after\u2026",
+      "timestamp": "2026-07-19T17:44:56.200595Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-messis-world-cup-greatness-one-record-at-a-time/articleshow/132483927.cms"
+        }
+      ]
+    },
+    {
+      "title": "France vs England FIFA World Cup 2026: Lineup, key players, prediction, team stats, injury news",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France and England will compete for third place at the FIFA World Cup 2026. Both European giants aim to finish their campaigns on a high note. Didier Deschamps will manage France for the final time after a successful tenure. Key players like Kylian Mbappe and\u2026",
+      "timestamp": "2026-07-19T17:44:56.200641Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/france-vs-england-fifa-world-cup-2026-lineup-key-players-prediction-team-stats-injury-news-update/articleshow/132483854.cms"
+        }
+      ]
+    },
+    {
+      "title": "Will smokey skies affect the much-anticipated World Cup Final in New Jersey?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Smoke from massive Canadian wildfires is expected to retreat before Sunday's final between Argentina and Spain at MetLife Stadium in New Jersey, with meteorologists telling The Post they predict only a light haze and little impact on the championship match.",
+      "timestamp": "2026-07-19T17:44:56.200694Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/18/us-news/will-smokey-skies-affect-the-much-anticipated-world-cup-final-in-new-jersey/"
+        }
+      ]
+    },
+    {
+      "title": "How to watch France vs England in USA: 2026 World Cup 3rd Place Playoff, Live Stream, TV & Preview",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "France and England are scheduled to meet in the FIFA World Cup third-place playoff. Here\u2019s how fans in the United States can watch the action live. \nHere are all of the details of where you can watch France vs England on US television and via legal streaming:\u2026",
+      "timestamp": "2026-07-19T17:44:56.200791Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-france-vs-england-in-the-usa-live-stream-and-tv-for-world-cup-3rd-place-playoff/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026: Lamine Yamal, Pel\u00e9, Mbapp\u00e9 and more, all-time youngest players to feature in finals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "With the upcoming final, Spain's Lamine Yamal and Pau Cubars\u00ed are poised to etch their names into the World Cup record books as the youngest-ever finalists. They step into a rarefied circle of players under twenty, sharing the stage with legends like Pel\u00e9 fro\u2026",
+      "timestamp": "2026-07-19T17:44:56.200830Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-lamine-yamal-pel-mbapp-and-more-all-time-youngest-players-to-feature-in-finals/articleshow/132483734.cms"
+        }
+      ]
+    },
+    {
+      "title": "\u2018Totally unacceptable\u2019: Donald Trump blames Canada as World Cup faces major problem",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "While both United States President Donald Trump and FIFA President Gianni Infantino agreed that the 2026 FIFA World Cup has been resoundingly successful up to this point, the tournament\u2019s final match faces a major problem, and Trump is placing blame on Canada\u2026",
+      "timestamp": "2026-07-19T17:44:56.200883Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/totally-unacceptable-donald-trump-blames-canada-as-world-cup-faces-major-problem.html"
+        }
+      ]
+    },
+    {
+      "title": "Cristiano Ronaldo may have already chosen his Portugal farewell date after 2026 World Cup heartbreak, and the location is perfect",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The five-time Ballon d\u2019Or winner has already confirmed the tournament was his last World Cup, but speculation is growing that his final appearance for his country could arrive in a setting filled with personal meaning. Cristiano Ronaldo\u2019s legendary internatio\u2026",
+      "timestamp": "2026-07-19T17:44:56.200929Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-may-have-already-chosen-his-portugal-farewell-date-after-2026-world-cup-heartbreak-and-the-location-is-perfect/"
+        }
+      ]
+    },
+    {
       "title": "Revisit Lionel Messi's NJ history ahead of World Cup final at MetLife",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi returns to MetLife Stadium for the World Cup Final. Here's every match he has played in New Jersey.",
-      "timestamp": "2026-07-19T16:40:12.364970Z",
+      "timestamp": "2026-07-19T17:44:56.201065Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The World Cup tournament was bigger than ever before this year, and so is the list of stars expected at MetLife Stadium for Sunday's final, from Tom Cruise in the closing ceremony to Madonna and Shakira on the halftime stage.\nThe post Madonna, Cruise lead A-l\u2026",
-      "timestamp": "2026-07-19T16:40:12.365043Z",
+      "timestamp": "2026-07-19T17:44:56.201104Z",
       "links": [
         {
           "label": "Source",
@@ -164,25 +276,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England and France meet in the 2026 World Cup third-place match. Follow along here for the latest news, updates and highlights.",
-      "timestamp": "2026-07-19T16:40:12.365101Z",
+      "timestamp": "2026-07-19T17:44:56.201151Z",
       "links": [
         {
           "label": "Source",
           "url": "https://sports.yahoo.com/soccer/live/england-vs-france-world-cup-2026-score-result-schedule-live-updates-160000692.html"
-        }
-      ]
-    },
-    {
-      "title": "France vs. England, 2026 World Cup 3rd Place match: Match thread and discussion",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "It\u2019s the consolation game.",
-      "timestamp": "2026-07-19T16:40:12.365123Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.starsandstripesfc.com/concacaf-gold-cup/44941/france-vs-england-2026-world-cup-3rd-place-match-match-thread-and-discussion"
         }
       ]
     },
@@ -192,11 +290,25 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup will continue to make history during the final match between reigning champs Argentina and Spain at New York New Jersey Stadium on July 19.",
-      "timestamp": "2026-07-19T16:40:12.365147Z",
+      "timestamp": "2026-07-19T17:44:56.201173Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.today.com/popculture/tv/fifa-world-cup-final-halftime-closing-ceremony-performers-guide-rcna587541"
+        }
+      ]
+    },
+    {
+      "title": "France vs. England, 2026 World Cup 3rd Place match: Match thread and discussion",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "It\u2019s the consolation game.",
+      "timestamp": "2026-07-19T17:44:56.201192Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.starsandstripesfc.com/concacaf-gold-cup/44941/france-vs-england-2026-world-cup-3rd-place-match-match-thread-and-discussion"
         }
       ]
     },
@@ -206,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The World Cup tournament was bigger than ever before this year, and so is the list of stars expected at MetLife Stadium for Sunday's final, from Tom Cruise in the closing ceremony to Madonna and Shakira on the halftime stage.Madonna, who just dropped a new al\u2026",
-      "timestamp": "2026-07-19T16:40:12.365175Z",
+      "timestamp": "2026-07-19T17:44:56.201220Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "From stunning goals to parking nightmares, we look back at the unforgettable World Cup 2026 matches in Miami.",
-      "timestamp": "2026-07-19T16:40:12.365197Z",
+      "timestamp": "2026-07-19T17:44:56.201237Z",
       "links": [
         {
           "label": "Source",
@@ -234,21 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Amputees take part in a football match inspired by FIFA World Cup 2026 final Spain against Argentina on a pitch in Gaza City, 18 July 2026. Spain won the symbolic match 3-1. EPA/MOHAMMED SABER (ANSA). (ANSA)",
-      "timestamp": "2026-07-19T16:40:12.365246Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ansa.it/sito/photogallery/sport/2026/07/18/gli-amputati-di-gaza-si-sfidano-in-spagna-argentina_c4c2cdeb-6865-478d-8003-c0a2ab044a8e.html"
-        }
-      ]
-    },
-    {
-      "title": "Gli amputati di Gaza si sfidano in Spagna-Argentina",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Amputees take part in a football match inspired by FIFA World Cup 2026 final Spain against Argentina on a pitch in Gaza City, 18 July 2026. Spain won the symbolic match 3-1. EPA/MOHAMMED SABER (ANSA). (ANSA)",
-      "timestamp": "2026-07-19T16:40:12.365262Z",
+      "timestamp": "2026-07-19T17:44:56.201286Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +360,21 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Amputees take part in a football match inspired by FIFA World Cup 2026 final Spain against Argentina on a pitch in Gaza City, 18 July 2026. Spain won the symbolic match 3-1. EPA/MOHAMMED SABER (ANSA). (ANSA)",
-      "timestamp": "2026-07-19T16:40:12.365276Z",
+      "timestamp": "2026-07-19T17:44:56.201303Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ansa.it/sito/photogallery/sport/2026/07/18/gli-amputati-di-gaza-si-sfidano-in-spagna-argentina_c4c2cdeb-6865-478d-8003-c0a2ab044a8e.html"
+        }
+      ]
+    },
+    {
+      "title": "Gli amputati di Gaza si sfidano in Spagna-Argentina",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Amputees take part in a football match inspired by FIFA World Cup 2026 final Spain against Argentina on a pitch in Gaza City, 18 July 2026. Spain won the symbolic match 3-1. EPA/MOHAMMED SABER (ANSA). (ANSA)",
+      "timestamp": "2026-07-19T17:44:56.201318Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Food brands and venues gear up for the FIFA World Cup final, anticipating a surge in late-night demand and celebrations.",
-      "timestamp": "2026-07-19T16:40:12.365305Z",
+      "timestamp": "2026-07-19T17:44:56.201348Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Carlos Alcaraz and Rafael Nadal are gearing up to cheer for Spain in the 2026 World Cup final. The World No.",
-      "timestamp": "2026-07-19T16:40:12.365332Z",
+      "timestamp": "2026-07-19T17:44:56.201373Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Metlife Stadium during the World Cup match between Brazil v Morocco June 13.\n \n\nMost of the money is headed to the New York New Jersey World Cup Committee, officials say. [ more \u203a ]",
-      "timestamp": "2026-07-19T16:40:12.365370Z",
+      "timestamp": "2026-07-19T17:44:56.201417Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France and England will compete for third place in the FIFA World Cup 2026. Both teams aim to finish the tournament with a victory and secure the bronze medal. France lost to Spain, while England suffered a late defeat against Argentina. This match marks Didi\u2026",
-      "timestamp": "2026-07-19T16:40:12.365401Z",
+      "timestamp": "2026-07-19T17:44:56.201447Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Soccer fans can watch the 2026 World Cup final between Argentina and Spain for free through various broadcasters worldwide, with options available on TV and streaming platforms.",
-      "timestamp": "2026-07-19T16:40:12.365548Z",
+      "timestamp": "2026-07-19T17:44:56.201598Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Indian football team head coach Khalid Jamil shares his predictions for the FIFA World Cup final between Argentina and Spain, expressing a personal preference for Lionel Messi's Argentina while acknowledging Spain's strong form and tactical advantages. He ant\u2026",
-      "timestamp": "2026-07-19T16:40:12.365598Z",
+      "timestamp": "2026-07-19T17:44:56.201647Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The World Cup final is set to take place at MetLife Stadium in New Jersey on Sunday afternoon. Meanwhile, air quality remains a concern as smoke from the out-of-control wildfires continues to blow down over the Northeast from Canada. It should be better at ki\u2026",
-      "timestamp": "2026-07-19T16:40:12.365674Z",
+      "timestamp": "2026-07-19T17:44:56.201733Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lamine Yamal and Lionel Messi meet in a clash of generations in Sunday's blockbuster Spain vs Argentina World Cup final.",
-      "timestamp": "2026-07-19T16:40:12.365847Z",
+      "timestamp": "2026-07-19T17:44:56.201890Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Messi is set to play what will likely be his final World Cup game on Sunday in the final against Spain, 10 years after quitting the national team after a series of crushing defeats",
-      "timestamp": "2026-07-19T16:40:12.365887Z",
+      "timestamp": "2026-07-19T17:44:56.201925Z",
       "links": [
         {
           "label": "Source",
@@ -402,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "If you want to grab a last-minute ticket to watch the 2026 World Cup final, they will not come cheap. This year\u2019s showpiece is taking place at the New York New Jersey Stadium on Sunday, July 19.",
-      "timestamp": "2026-07-19T16:40:12.365915Z",
+      "timestamp": "2026-07-19T17:44:56.201952Z",
       "links": [
         {
           "label": "Source",
@@ -416,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Two top teams compete for a third place standing in the World Cup",
-      "timestamp": "2026-07-19T16:40:12.365947Z",
+      "timestamp": "2026-07-19T17:44:56.201985Z",
       "links": [
         {
           "label": "Source",
@@ -430,7 +542,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup final in New York New Jersey stadium faces a significant health threat from wildfire smoke.",
-      "timestamp": "2026-07-19T16:40:12.365965Z",
+      "timestamp": "2026-07-19T17:44:56.202002Z",
       "links": [
         {
           "label": "Source",
@@ -444,7 +556,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "Spain are the tournament's best defensive side, while Argentina are the most attacking. This battle is one for the ages, and here's how you can watch it live for free using a VPN.\nAfter weeks of thrilling contests, endless drama, and high-quality soccer, the \u2026",
-      "timestamp": "2026-07-19T16:40:12.366023Z",
+      "timestamp": "2026-07-19T17:44:56.202063Z",
       "links": [
         {
           "label": "Source",
@@ -458,114 +570,136 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The World Cup final is where heroes are made and dreams come true for players and fans alike. Can you name every city that has ever hosted the showpiece?",
-      "timestamp": "2026-07-19T16:40:12.366124Z",
+      "timestamp": "2026-07-19T17:44:56.202233Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.bbc.co.uk/sport/football/articles/cvgzp820y9xo"
         }
       ]
-    },
-    {
-      "title": "How to Watch the 2026 FIFA World Cup Final Live Without Cable (Even for Free)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "This weekend, the World Cup is wrapping up with France vs. England in the bronze final and Spain vs. Argentina in the big finale. Who will be crowned the ultimate champion? Here's how to tune in live.\nThe 2026 World Cup is drawing to a close. This weekend, we\u2026",
-      "timestamp": "2026-07-19T16:40:12.366212Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/161984/how-to-watch-2026-fifa-world-cup-final-live-stream-for-free-third-place"
-        }
-      ]
-    },
-    {
-      "title": "Weather chaos threatens delayed kick-off for Spain vs Argentina World Cup final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The World Cup final between Spain and Argentina at MetLife Stadium faces a potential delay as dangerous wildfire smoke from Canada threatens air quality in the New York-New Jersey area ahead of the July 19 showpiece",
-      "timestamp": "2026-07-19T16:40:12.366272Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/canada-wildfires-world-cup-final-1943809"
-        }
-      ]
-    },
-    {
-      "title": "How to Watch the France vs. England FIFA World Cup Third-Place Match Live for Free",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Kylian Mbapp\u00e9, Harry Kane, and Jude Bellingham can still win the Golden Boot. Who will make the stronger claim? Watch the France vs. England third-place final using a streaming app or VPN to find out.\nAfter a month of adrenaline-pumping action, the FIFA World\u2026",
-      "timestamp": "2026-07-19T16:40:12.366328Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/166219/how-to-watch-france-vs-england-fifa-world-cup-third-place-match-live-free"
-        }
-      ]
-    },
-    {
-      "title": "Messi vs Yamal Analysis: Argentina and Spain Prepare for the Highly Anticipated World Cup Final Sunday",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina and Spain meet in the 2026 World Cup final, featuring a generational clash between Lionel Messi and Lamine Yamal. The match promises a thrilling contest of styles and legacies.",
-      "timestamp": "2026-07-19T16:40:12.366352Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ibtimes.com.au/messi-yamal-generational-clash-2026-world-cup-final-1872503"
-        }
-      ]
-    },
-    {
-      "title": "England vs. France odds, prediction, time: 2026 World Cup third-place match picks by expert on 27-18 roll",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "SportsLine's Jon Eimer reveals his France vs. England best bets in the FIFA World Cup 2026 third-place game on Saturday",
-      "timestamp": "2026-07-19T16:40:12.366412Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/betting/news/england-france-odds-prediction-time-2026-world-cup-third-place-match-picks-bets/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup started with 210 teams. After 1,046 days, two remain",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup began with a record-tying 210 entrants. After 1,046 days, Argentina and Spain are the last two standing.",
-      "timestamp": "2026-07-19T16:40:12.366443Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/18/world-cup-elimination-tracker-2026/90952345007/"
-        }
-      ]
-    },
-    {
-      "title": "England vs France schedule, TV channel, time for World Cup match today",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "What channel is France vs England match on today? Time, how to watch, how to stream 2026 World Cup match on TV, streaming on Saturday, July 18, 2026.",
-      "timestamp": "2026-07-19T16:40:12.366530Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.azcentral.com/story/sports/soccer/worldcup/2026/07/18/england-france-time-tv-channel-schedule-world-cup-2026-match-saturday/90957393007/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 19",
+      "loc": "New York / New Jersey",
+      "event": "Get-in price for World Cup finale hits $10,000",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/get-in-price-for-world-cup-finale-hits-10-000"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026: Messi's World Cup greatness, one record at a time",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-messis-world-cup-greatness-one-record-at-a-time/articleshow/132483927.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "France vs England FIFA World Cup 2026: Lineup, key players, prediction, team stats, injury news",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/france-vs-england-fifa-world-cup-2026-lineup-key-players-prediction-team-stats-injury-news-update/articleshow/132483854.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "New York / New Jersey",
+      "event": "Will smokey skies affect the much-anticipated World Cup Final in New Jersey?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/18/us-news/will-smokey-skies-affect-the-much-anticipated-world-cup-final-in-new-jersey/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "San Francisco Bay Area",
+      "event": "How to watch France vs England in USA: 2026 World Cup 3rd Place Playoff, Live Stream, TV & Preview",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-france-vs-england-in-the-usa-live-stream-and-tv-for-world-cup-3rd-place-playoff/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026: Lamine Yamal, Pel\u00e9, Mbapp\u00e9 and more, all-time youngest players to feature in finals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-lamine-yamal-pel-mbapp-and-more-all-time-youngest-players-to-feature-in-finals/articleshow/132483734.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "\u2018Totally unacceptable\u2019: Donald Trump blames Canada as World Cup faces major problem",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/totally-unacceptable-donald-trump-blames-canada-as-world-cup-faces-major-problem.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "Cristiano Ronaldo may have already chosen his Portugal farewell date after 2026 World Cup heartbreak, and the location is perfect",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-may-have-already-chosen-his-portugal-farewell-date-after-2026-world-cup-heartbreak-and-the-location-is-perfect/"
+        }
+      ]
+    },
     {
       "date": "Jul 19",
       "loc": "New York / New Jersey",
@@ -614,21 +748,6 @@
     {
       "date": "Jul 19",
       "loc": "Global",
-      "event": "France vs. England, 2026 World Cup 3rd Place match: Match thread and discussion",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.starsandstripesfc.com/concacaf-gold-cup/44941/france-vs-england-2026-world-cup-3rd-place-match-match-thread-and-discussion"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
       "event": "Justin Bieber, Shakira, BTS and More Performing at 2026 World Cup Final Closing Ceremony and Halftime Show",
       "type": "News",
       "confidence": "Confirmed",
@@ -638,6 +757,21 @@
         {
           "label": "Source",
           "url": "https://www.today.com/popculture/tv/fifa-world-cup-final-halftime-closing-ceremony-performers-guide-rcna587541"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "France vs. England, 2026 World Cup 3rd Place match: Match thread and discussion",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.starsandstripesfc.com/concacaf-gold-cup/44941/france-vs-england-2026-world-cup-3rd-place-match-match-thread-and-discussion"
         }
       ]
     },
@@ -682,7 +816,7 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://www.ansa.it/sito/photogallery/sport/2026/07/18/gli-amputati-di-gaza-si-sfidano-in-spagna-argentina_c4c2cdeb-6865-478d-8003-c0a2ab044a8e.html"
+          "url": "https://www.ansa.it/sito/photogallery/curiosita/2026/07/18/gli-amputati-di-gaza-si-sfidano-in-spagna-argentina_b618b67c-37fa-4ae3-bd04-1a978ba87580.html"
         }
       ]
     },
@@ -697,7 +831,7 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://www.ansa.it/sito/photogallery/curiosita/2026/07/18/gli-amputati-di-gaza-si-sfidano-in-spagna-argentina_b618b67c-37fa-4ae3-bd04-1a978ba87580.html"
+          "url": "https://www.ansa.it/sito/photogallery/sport/2026/07/18/gli-amputati-di-gaza-si-sfidano-in-spagna-argentina_c4c2cdeb-6865-478d-8003-c0a2ab044a8e.html"
         }
       ]
     },
@@ -925,112 +1059,7 @@
           "url": "https://www.bbc.co.uk/sport/football/articles/cvgzp820y9xo"
         }
       ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "How to Watch the 2026 FIFA World Cup Final Live Without Cable (Even for Free)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/161984/how-to-watch-2026-fifa-world-cup-final-live-stream-for-free-third-place"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "New York / New Jersey",
-      "event": "Weather chaos threatens delayed kick-off for Spain vs Argentina World Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/canada-wildfires-world-cup-final-1943809"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "How to Watch the France vs. England FIFA World Cup Third-Place Match Live for Free",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/166219/how-to-watch-france-vs-england-fifa-world-cup-third-place-match-live-free"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "Messi vs Yamal Analysis: Argentina and Spain Prepare for the Highly Anticipated World Cup Final Sunday",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ibtimes.com.au/messi-yamal-generational-clash-2026-world-cup-final-1872503"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "England vs. France odds, prediction, time: 2026 World Cup third-place match picks by expert on 27-18 roll",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/betting/news/england-france-odds-prediction-time-2026-world-cup-third-place-match-picks-bets/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "World Cup started with 210 teams. After 1,046 days, two remain",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/18/world-cup-elimination-tracker-2026/90952345007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "England vs France schedule, TV channel, time for World Cup match today",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.azcentral.com/story/sports/soccer/worldcup/2026/07/18/england-france-time-tv-channel-schedule-world-cup-2026-match-saturday/90957393007/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-19T16:40:12.366769Z"
+  "lastUpdated": "2026-07-19T17:44:56.202411Z"
 }
