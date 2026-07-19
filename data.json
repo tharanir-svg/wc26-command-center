@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 1,
+    "p1": 2,
     "p2": 0,
-    "p3": 32
+    "p3": 26
   },
   "watchlist": [
     {
@@ -131,12 +131,124 @@
   ],
   "risks": [
     {
+      "title": "FIFA World Cup: Spain vs Argentina \u2013 What to know ahead of the final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lamine Yamal and Lionel Messi meet in a clash of generations in Sunday's blockbuster Spain vs Argentina World Cup final.",
+      "timestamp": "2026-07-19T14:16:55.599152Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/18/spain-argentina-fifa-world-cup-final-prediction-head-to-head-messi-yamal-prediction-venue"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Messi's international career comes full circle at MetLife Stadium a decade after Argentina retirement",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Messi is set to play what will likely be his final World Cup game on Sunday in the final against Spain, 10 years after quitting the national team after a series of crushing defeats",
+      "timestamp": "2026-07-19T14:16:55.599226Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/lionel-messis-international-career-full-circle-international-retirement-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup final ticket prices on secondary market site surpass Super Bowl record by over $2,000",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "If you want to grab a last-minute ticket to watch the 2026 World Cup final, they will not come cheap. This year\u2019s showpiece is taking place at the New York New Jersey Stadium on Sunday, July 19.",
+      "timestamp": "2026-07-19T14:16:55.599268Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/world-cup-final-ticket-prices-on-secondary-market-site-surpass-super-bowl-record-by-over-2000/"
+        }
+      ]
+    },
+    {
+      "title": "France vs. England live stream: How to watch FIFA World Cup third place, odds, prediction, pick, lineups",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Two top teams compete for a third place standing in the World Cup",
+      "timestamp": "2026-07-19T14:16:55.599316Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/france-vs-england-live-stream-how-to-watch-fifa-world-cup-third-place-odds-prediction-pick-lineups/"
+        }
+      ]
+    },
+    {
+      "title": "Wildfire Smoke And The World Cup Final: Does FIFA Have A Back Up Plan?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup final in New York New Jersey stadium faces a significant health threat from wildfire smoke.",
+      "timestamp": "2026-07-19T14:16:55.599343Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/robertglatter/2026/07/18/wildfire-smoke-and-the-world-cup-final-does-fifa-have-a-back-up-plan/"
+        }
+      ]
+    },
+    {
+      "title": "How to Watch the Spain vs. Argentina FIFA World Cup Final Live for Free",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "Spain are the tournament's best defensive side, while Argentina are the most attacking. This battle is one for the ages, and here's how you can watch it live for free using a VPN.\nAfter weeks of thrilling contests, endless drama, and high-quality soccer, the \u2026",
+      "timestamp": "2026-07-19T14:16:55.599423Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/166220/how-to-watch-the-spain-vs-argentina-fifa-world-cup-final-live-for-free"
+        }
+      ]
+    },
+    {
+      "title": "Quiz: Name every men's World Cup final host city",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The World Cup final is where heroes are made and dreams come true for players and fans alike. Can you name every city that has ever hosted the showpiece?",
+      "timestamp": "2026-07-19T14:16:55.599564Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvgzp820y9xo"
+        }
+      ]
+    },
+    {
+      "title": "How to Watch the 2026 FIFA World Cup Final Live Without Cable (Even for Free)",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "This weekend, the World Cup is wrapping up with France vs. England in the bronze final and Spain vs. Argentina in the big finale. Who will be crowned the ultimate champion? Here's how to tune in live.\nThe 2026 World Cup is drawing to a close. This weekend, we\u2026",
+      "timestamp": "2026-07-19T14:16:55.599683Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/161984/how-to-watch-2026-fifa-world-cup-final-live-stream-for-free-third-place"
+        }
+      ]
+    },
+    {
       "title": "Weather chaos threatens delayed kick-off for Spain vs Argentina World Cup final",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The World Cup final between Spain and Argentina at MetLife Stadium faces a potential delay as dangerous wildfire smoke from Canada threatens air quality in the New York-New Jersey area ahead of the July 19 showpiece",
-      "timestamp": "2026-07-19T12:43:08.874574Z",
+      "timestamp": "2026-07-19T14:16:55.599763Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kylian Mbapp\u00e9, Harry Kane, and Jude Bellingham can still win the Golden Boot. Who will make the stronger claim? Watch the France vs. England third-place final using a streaming app or VPN to find out.\nAfter a month of adrenaline-pumping action, the FIFA World\u2026",
-      "timestamp": "2026-07-19T12:43:08.874672Z",
+      "timestamp": "2026-07-19T14:16:55.599853Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina and Spain meet in the 2026 World Cup final, featuring a generational clash between Lionel Messi and Lamine Yamal. The match promises a thrilling contest of styles and legacies.",
-      "timestamp": "2026-07-19T12:43:08.874708Z",
+      "timestamp": "2026-07-19T14:16:55.599884Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "SportsLine's Jon Eimer reveals his France vs. England best bets in the FIFA World Cup 2026 third-place game on Saturday",
-      "timestamp": "2026-07-19T12:43:08.874747Z",
+      "timestamp": "2026-07-19T14:16:55.599930Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup began with a record-tying 210 entrants. After 1,046 days, Argentina and Spain are the last two standing.",
-      "timestamp": "2026-07-19T12:43:08.874780Z",
+      "timestamp": "2026-07-19T14:16:55.599967Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "What channel is France vs England match on today? Time, how to watch, how to stream 2026 World Cup match on TV, streaming on Saturday, July 18, 2026.",
-      "timestamp": "2026-07-19T12:43:08.874851Z",
+      "timestamp": "2026-07-19T14:16:55.600053Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England and France meet for one final time at the 2026 FIFA World Cup as the two European heavyweights battle it out for third place.Both nations suffered semi-final heartbreak, with England beaten 2-...",
-      "timestamp": "2026-07-19T12:43:08.875066Z",
+      "timestamp": "2026-07-19T14:16:55.600303Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "North America correspondent Nada Tawfik explores the decision to award the World Cup final to MetLife Stadium amid competition from rival venues.",
-      "timestamp": "2026-07-19T12:43:08.875097Z",
+      "timestamp": "2026-07-19T14:16:55.600337Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "An Argentine fan named Santiago smuggled the Malvinas banner into Mercedes-Benz Stadium by hiding it in his pants to get past security checks.",
-      "timestamp": "2026-07-19T12:43:08.875121Z",
+      "timestamp": "2026-07-19T14:16:55.600368Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Match: France vs England | Stage: Match for Third Place | Date: Saturday, 18 July 2026 | Kick-off: 17:00 local (UTC-4) | Venue: Hard Rock Stadium, Miami Gardens, Florida | TV (UK): BBC iPlayer / ITVXH...",
-      "timestamp": "2026-07-19T12:43:08.875168Z",
+      "timestamp": "2026-07-19T14:16:55.600426Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "North America correspondent Nada Tawfik explores the decision to award the World Cup final to MetLife Stadium amid competition from rival venues.",
-      "timestamp": "2026-07-19T12:43:08.875185Z",
+      "timestamp": "2026-07-19T14:16:55.600448Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain are gearing up for the 2026 World Cup final, looking to build on their Euro 2024 success. They beat England to win the latest European Championships and are now one game away from being crowned World Cup champions for a second time.",
-      "timestamp": "2026-07-19T12:43:08.875244Z",
+      "timestamp": "2026-07-19T14:16:55.600548Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain's 2010 World Cup winner Joan Capdevila publicly appealed to Trump after his ESTA was denied, blocking his trip to the 2026 World Cup final at MetLife\nThe post Joan Capdevila appeals to Trump after ESTA denial blocks World Cup final trip appeared first o\u2026",
-      "timestamp": "2026-07-19T12:43:08.875290Z",
+      "timestamp": "2026-07-19T14:16:55.600581Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain defender Aymeric Laporte has questioned some refereeing decisions involving Argentina ahead of the FIFA World Cup 2026 final, saying aggressive play should not go unpunished.",
-      "timestamp": "2026-07-19T12:43:08.875364Z",
+      "timestamp": "2026-07-19T14:16:55.600672Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup semi-final concluded on July 15, with Spain and Argentina advancing to the final battle to lift the 18-carat gold trophy.After the competition commenced with Manchester City ha...",
-      "timestamp": "2026-07-19T12:43:08.875386Z",
+      "timestamp": "2026-07-19T14:16:55.600699Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +458,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "All Times Eastern Australian Rules Football AFL Men\u2019s \u2014 Round 19 Richmond Tigers vs. Hawthorn Hawks \u2014 FS2/Fox One, 11 p.m. Gold Coast Suns vs. Western Bulldogs \u2014 Fox Soccer Plus, 1:01 a.m. (Sunday) Essendon Bombers vs. Greater Western Sydney Giants \u2014 FS2/Fox \u2026",
-      "timestamp": "2026-07-19T12:43:08.875462Z",
+      "timestamp": "2026-07-19T14:16:55.600794Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Check out the odds for the France vs. England third-place game at the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-19T12:43:08.875500Z",
+      "timestamp": "2026-07-19T14:16:55.600849Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Barcelona midfielder Fermin Lopez will travel to the United States to support Spain in the 2026 FIFA World Cup final despite missing the tournament through injury.The aforementioned gesture comes from...",
-      "timestamp": "2026-07-19T12:43:08.875564Z",
+      "timestamp": "2026-07-19T14:16:55.600956Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Delhi Chief Minister Rekha Gupta announced extended operating hours for establishments. Restaurants and cafes can welcome patrons until 4 am this weekend. This decision supports fans watching the FIFA World Cup 2026 final match. The city's 24x7 business frame\u2026",
-      "timestamp": "2026-07-19T12:43:08.875630Z",
+      "timestamp": "2026-07-19T14:16:55.601056Z",
       "links": [
         {
           "label": "Source",
@@ -402,198 +514,136 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "epa13118396 Moo Deng, a two-year-old female pygmy hippopotamus, eats a soccer ball-shaped carved watermelon decorated with Argentina's national flag to predict the winner of the FIFA World Cup 2026 final match between Spain and Argentina, at Khao Kheow Ope...\u2026",
-      "timestamp": "2026-07-19T12:43:08.875695Z",
+      "timestamp": "2026-07-19T14:16:55.601182Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.ansa.it/sito/photogallery/curiosita/2026/07/18/lippopotamo-moo-deng-predice-il-vincitore-dei-mondiali_f0b8fcb2-a963-4c7f-b7b9-1810d8328631.html"
         }
       ]
-    },
-    {
-      "title": "What channel is France vs England bronze final on today? World Cup time, TV schedule",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "What channel is the France bronze medal game vs England on July 18 in the 2026 World Cup? Here's how to watch, including time, TV schedule and streaming info...",
-      "timestamp": "2026-07-19T12:43:08.875860Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.oklahoman.com/story/sports/soccer/2026/07/18/how-to-watch-france-vs-england-bronze-match-today-world-cup-live-2026/90955475007/"
-        }
-      ]
-    },
-    {
-      "title": "Which AI Best Predicts the 2026 World Cup Final? We Asked 5 Models About Sunday's Match",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Which chatbot will come out on top?",
-      "timestamp": "2026-07-19T12:43:08.875917Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cnet.com/tech/services-and-software/who-will-win-world-cup-final-ai-models-predict/"
-        }
-      ]
-    },
-    {
-      "title": "It's France vs. England in Miami for World Cup bronze today. What to know",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup is down to its final weekend. Before the final, South Florida will see one last game.",
-      "timestamp": "2026-07-19T12:43:08.875935Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/18/france-england-miami-world-cup-bronze-weather-start-time/90953189007/"
-        }
-      ]
-    },
-    {
-      "title": "\u2018Would not have been such an incredible success without you\u2019: Donald Trump gets high praise from FIFA president",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup is set to conclude on Sunday with the final between Spain and Argentina. And according to FIFA President Gianni Infantino, the tournament has been a resounding success. On Friday, United States President Donald Trump hosted a reception\u2026",
-      "timestamp": "2026-07-19T12:43:08.875969Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/donald-trump-praise-gianni-infantino.html"
-        }
-      ]
-    },
-    {
-      "title": "Every third-place play-off winner in FIFA World Cup history",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "It\u2019s the game that no one wanted to be in as England prepare to take on France in the third-place play-off of the FIFA World Cup 2026.\u00a0First introduced in 1934, the match decides who goes home with...",
-      "timestamp": "2026-07-19T12:43:08.876010Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thefootballfaithful.com/every-third-place-play-off-winner-in-fifa-world-cup-history/"
-        }
-      ]
-    },
-    {
-      "title": "Lautaro's Argentina numbers and stats",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "On Sunday 19 July at 21:00 CEST, Lautaro Mart\u00ednez and Argentina will take part in the 2026 FIFA World Cup final against Spain at New York/New Jersey Stadium in East Rutherford. It will be another lan...",
-      "timestamp": "2026-07-19T12:43:08.876071Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.inter.it/en/news/numbers-statistics-lautaro-argentina"
-        }
-      ]
-    },
-    {
-      "title": "World Cup Golden Boot 2026: Who will take the trophy?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The race for the 2026 FIFA World Cup Golden Boot has been one for the ages this summer.It\u2019s been a summer where the big names have shone, and the Golden Boot is firmly up for grabs with just two gam...",
-      "timestamp": "2026-07-19T12:43:08.876096Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thefootballfaithful.com/world-cup-golden-boot-2026-who-will-take-the-trophy/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026: Spain defender Laporte surprised by refereeing decisions involving Argentina",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain defender Aymeric Laporte expressed surprise at refereeing decisions favoring Argentina's aggressive style. He believes such actions should not go unpunished in important football competitions. Laporte praised Spain's disciplined approach throughout the \u2026",
-      "timestamp": "2026-07-19T12:43:08.876150Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-spain-defender-laporte-surprised-by-refereeing-decisions-involving-argentina/articleshow/132477631.cms"
-        }
-      ]
-    },
-    {
-      "title": "Visualizing everything you need to know about the 2026 World Cup final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "We visualized key data points like travel distances and statistics to bring the Argentina vs. Spain 2026 World Cup final to life.",
-      "timestamp": "2026-07-19T12:43:08.876232Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/18/spain-argentina-world-cup-final-preview-data-visual/90947925007/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026: Marc Cucurella vows to retire from Spain duty, get coach tattoo if La Roja wins title",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain's Marc Cucurella has pledged to retire from international football after the World Cup final. He stated that winning both the European Championship and World Cup would be his ultimate achievement. Cucurella also promised to get a tattoo of coach Luis de\u2026",
-      "timestamp": "2026-07-19T12:43:08.876355Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-marc-cucurella-vows-to-retire-from-spain-duty-get-coach-tattoo-if-la-roja-wins-title/articleshow/132477457.cms"
-        }
-      ]
-    },
-    {
-      "title": "Argentina\u2019s New York fans share hopes before 2026 World Cup final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentinians in Queens hold on to football tradition, as new communities grow support the national team in NYC.",
-      "timestamp": "2026-07-19T12:43:08.876439Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/18/argentinas-new-york-fans-share-hopes-ahead-of-2026-world-cup-final"
-        }
-      ]
-    },
-    {
-      "title": "West Bengal government plans FIFA World Cup final live screening at Nandan, districts",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "West Bengal will host live FIFA World Cup final screenings on a giant screen.  Football fans can watch the Argentina-Spain match at Nandan in Kolkata.  Similar large screen arrangements will be made across districts for enthusiasts.  The Youth Services and Sp\u2026",
-      "timestamp": "2026-07-19T12:43:08.876485Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/west-bengal-government-plans-fifa-world-cup-final-live-screening-at-nandan-districts/articleshow/132477257.cms"
-        }
-      ]
-    },
-    {
-      "title": "Barred in the US! World champion asks Trump for help to see final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Joan Capdevila, a world champion with the Spanish national team in 2010, is going through a bureaucratic nightmare on the eve of the big 2026 FIFA World Cup final. The former full-back revealed on soc...",
-      "timestamp": "2026-07-19T12:43:08.876513Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/barred-in-the-us-world-champion-asks-trump-for-help-to-see-final-43154312"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "FIFA World Cup: Spain vs Argentina \u2013 What to know ahead of the final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/18/spain-argentina-fifa-world-cup-final-prediction-head-to-head-messi-yamal-prediction-venue"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "New York / New Jersey",
+      "event": "Lionel Messi's international career comes full circle at MetLife Stadium a decade after Argentina retirement",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/lionel-messis-international-career-full-circle-international-retirement-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "World Cup final ticket prices on secondary market site surpass Super Bowl record by over $2,000",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/world-cup-final-ticket-prices-on-secondary-market-site-surpass-super-bowl-record-by-over-2000/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "France vs. England live stream: How to watch FIFA World Cup third place, odds, prediction, pick, lineups",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/france-vs-england-live-stream-how-to-watch-fifa-world-cup-third-place-odds-prediction-pick-lineups/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "Wildfire Smoke And The World Cup Final: Does FIFA Have A Back Up Plan?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/robertglatter/2026/07/18/wildfire-smoke-and-the-world-cup-final-does-fifa-have-a-back-up-plan/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "How to Watch the Spain vs. Argentina FIFA World Cup Final Live for Free",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/166220/how-to-watch-the-spain-vs-argentina-fifa-world-cup-final-live-for-free"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "Quiz: Name every men's World Cup final host city",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvgzp820y9xo"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "How to Watch the 2026 FIFA World Cup Final Live Without Cable (Even for Free)",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/161984/how-to-watch-2026-fifa-world-cup-final-live-stream-for-free-third-place"
+        }
+      ]
+    },
     {
       "date": "Jul 19",
       "loc": "New York / New Jersey",
@@ -893,202 +943,7 @@
           "url": "https://www.ansa.it/sito/photogallery/curiosita/2026/07/18/lippopotamo-moo-deng-predice-il-vincitore-dei-mondiali_f0b8fcb2-a963-4c7f-b7b9-1810d8328631.html"
         }
       ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "What channel is France vs England bronze final on today? World Cup time, TV schedule",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.oklahoman.com/story/sports/soccer/2026/07/18/how-to-watch-france-vs-england-bronze-match-today-world-cup-live-2026/90955475007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "Which AI Best Predicts the 2026 World Cup Final? We Asked 5 Models About Sunday's Match",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cnet.com/tech/services-and-software/who-will-win-world-cup-final-ai-models-predict/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "It's France vs. England in Miami for World Cup bronze today. What to know",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/18/france-england-miami-world-cup-bronze-weather-start-time/90953189007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "\u2018Would not have been such an incredible success without you\u2019: Donald Trump gets high praise from FIFA president",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/donald-trump-praise-gianni-infantino.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "Every third-place play-off winner in FIFA World Cup history",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thefootballfaithful.com/every-third-place-play-off-winner-in-fifa-world-cup-history/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "Lautaro's Argentina numbers and stats",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.inter.it/en/news/numbers-statistics-lautaro-argentina"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "World Cup Golden Boot 2026: Who will take the trophy?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thefootballfaithful.com/world-cup-golden-boot-2026-who-will-take-the-trophy/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026: Spain defender Laporte surprised by refereeing decisions involving Argentina",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-spain-defender-laporte-surprised-by-refereeing-decisions-involving-argentina/articleshow/132477631.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "Visualizing everything you need to know about the 2026 World Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/18/spain-argentina-world-cup-final-preview-data-visual/90947925007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026: Marc Cucurella vows to retire from Spain duty, get coach tattoo if La Roja wins title",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-marc-cucurella-vows-to-retire-from-spain-duty-get-coach-tattoo-if-la-roja-wins-title/articleshow/132477457.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "Argentina\u2019s New York fans share hopes before 2026 World Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/18/argentinas-new-york-fans-share-hopes-ahead-of-2026-world-cup-final"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "West Bengal government plans FIFA World Cup final live screening at Nandan, districts",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/west-bengal-government-plans-fifa-world-cup-final-live-screening-at-nandan-districts/articleshow/132477257.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "Barred in the US! World champion asks Trump for help to see final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/barred-in-the-us-world-champion-asks-trump-for-help-to-see-final-43154312"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-19T12:43:08.876716Z"
+  "lastUpdated": "2026-07-19T14:16:55.601503Z"
 }
