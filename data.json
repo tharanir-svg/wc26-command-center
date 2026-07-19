@@ -5,7 +5,7 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 0,
+    "p1": 1,
     "p2": 0,
     "p3": 28
   },
@@ -131,12 +131,292 @@
   ],
   "risks": [
     {
+      "title": "How many penalty kicks in soccer? Explaining FIFA World Cup final shootout rules",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "If the FIFA World Cup final is level after extra time, the trophy is decided by a penalty shootout. Here's how the rules work, from how many penalties each team gets to sudden death and which World Cup finals have been settled from the spot.",
+      "timestamp": "2026-07-19T07:21:49.684854Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/how-many-penalty-kicks-soccer-world-cup-final-shootout-rules/a3c8c21539c8ea7e1fdb4575"
+        }
+      ]
+    },
+    {
+      "title": "Argentina boss reveals the only way to stop Barcelona sensation Lamine Yamal: \u2018I wish we could\u2026\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina manager Lionel Scaloni has admitted stopping Barcelona sensation Lamine Yamal will be one of his side\u2019s biggest challenges in the 2026 FIFA World Cup final, joking that the only solution w...",
+      "timestamp": "2026-07-19T07:21:49.684931Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/argentina-boss-reveals-the-only-way-to-stop-barcelona-sensation-lamine-yamal-i-wish-we-could/"
+        }
+      ]
+    },
+    {
+      "title": "What is BTS? Meet the members, songs and more about 2026 World Cup halftime performers",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Here's the rundown on the seven artists that make up BTS.",
+      "timestamp": "2026-07-19T07:21:49.684973Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/what-bts-meet-members-songs-more-2026-world-cup-halftime-performers/d0dabcae44ee54820a73cbb3"
+        }
+      ]
+    },
+    {
+      "title": "How to watch France v England at World Cup 2026, channel and kick off time",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England\u2019s final 2026 FIFA World Cup match \u2013 a third-place game against France \u2013 is on Saturday evening",
+      "timestamp": "2026-07-19T07:21:49.685005Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.timeout.com/london/news/watch-france-v-england-world-cup-2026-channel-kick-off-time-071826"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026 Final Live: Spain vs Argentina date, time, venue, India match time and where to watch",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain and Argentina will compete for the FIFA World Cup 2026 title. The championship match is scheduled for July 19, 2026, in New Jersey. Indian viewers can watch the final live in the early hours of July 20. England and France will play in the third-place pl\u2026",
+      "timestamp": "2026-07-19T07:21:49.685038Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-final-live-date-time-venue-india-time-spain-vs-argentina-match-schedule/articleshow/132474504.cms"
+        }
+      ]
+    },
+    {
+      "title": "Match preview: England, France battle for World Cup third place",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England and France clash in the FIFA World Cup third-place play-off. Get team news, Golden Boot race updates, and match predictions for England France Worl\n\nRead More: https://punchng.com/match-preview-england-france-battle-for-world-cup-third-place/",
+      "timestamp": "2026-07-19T07:21:49.685100Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/match-preview-england-france-battle-for-world-cup-third-place/"
+        }
+      ]
+    },
+    {
+      "title": "Khabib Nurmagomedov drops a strong hint about the team he's supporting in the FIFA World Cup 2026 finals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Khabib Nurmagomedov's Instagram posts have ignited debate about his World Cup final allegiance. He alluded to supporting Spain, which he described as Palestine-loving. This statement followed his tribute to Argentine football legend Diego Maradona. The former\u2026",
+      "timestamp": "2026-07-19T07:21:49.685156Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/mma/news/khabib-nurmagomedov-drops-a-strong-hint-about-the-team-hes-supporting-in-the-fifa-world-cup-2026-finals/articleshow/132474908.cms"
+        }
+      ]
+    },
+    {
+      "title": "How many people watch the World Cup final vs. Super Bowl in USA, around the world?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The FIFA World Cup final and the Super Bowl are two of the biggest sporting events in the world, but which attracts the larger television audience? Here's how the viewing figures compare in the United States and worldwide.",
+      "timestamp": "2026-07-19T07:21:49.685179Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/how-many-people-watch-world-cup-final-vs-super-bowl/a6a8974bfce8bba000258a4c"
+        }
+      ]
+    },
+    {
+      "title": "Geometry, football and the World Cup\u00a0final",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "Spain will play Argentina in the Fifa World Cup final on Sunday. The highly anticipated match takes place in New Jersey\u2019s MetLife Stadium, with the teams vying for the most coveted prize in football. Attacking flair and physicality will no doubt play a role. \u2026",
+      "timestamp": "2026-07-19T07:21:49.685210Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://english.khabarhub.com/2026/18/559168/"
+        }
+      ]
+    },
+    {
+      "title": "Final tickets reach insane prices, Bellingham tries to lift England spirits",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "We are less than 48 hours away from the highly anticipated 2026 FIFA World Cup final, as Spain bid to dethrone reigning champions Argentina in New Jersey.Tonight\u2019s mouth-watering third-place play-of...",
+      "timestamp": "2026-07-19T07:21:49.685252Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/07/18/world-cup-2026-england-bellingham-france-tickets/"
+        }
+      ]
+    },
+    {
+      "title": "Spain vs Argentina World Cup 2026 final preview: Prediction, team news & line-ups",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "New Jersey\u2019s MetLife Stadium is the venue as Spain and Argentina go head-to-head in the 2026 FIFA World Cup final.For the first time in history, the reigning European champions face the current Copa...",
+      "timestamp": "2026-07-19T07:21:49.685269Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/07/18/world-cup-2026-preview-spain-argentina-h2h-team-news-line-ups-prediction/"
+        }
+      ]
+    },
+    {
+      "title": "Spain vs. Argentina history: Head-to-head matches at World Cup, last meeting, team records and more",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain and Argentina meet in the FIFA World Cup final for the first time. Here's everything to know about their head-to-head record, previous World Cup meetings and recent history.",
+      "timestamp": "2026-07-19T07:21:49.685324Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/spain-vs-argentina-history-matches-world-cup-team-records/44eefeea2be269d289633dd9"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Cup, third place game: France vs England",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The penultimate game of the 2026 World Cup",
+      "timestamp": "2026-07-19T07:21:49.685354Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/170265/2026-world-cup-third-place-game-france-vs-england"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup Winners List (1930\u20132026): Complete list of champions through the years",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Country-wise FIFA World Cup winners list from 1930 to 2026: Reigning champions Argentina will face Spain in the 2026 FIFA World Cup final. This title clash concludes the first-ever 48-team edition of the men's tournament. Argentina aims to defend their World \u2026",
+      "timestamp": "2026-07-19T07:21:49.685376Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-winners-list-19302026-complete-list-of-champions-through-the-years/articleshow/132474634.cms"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026 Final tickets: Ticket price, booking, where to buy Argentina vs Spain tickets; Check latest sale details",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA World Cup Final ticket prices: FIFA World Cup 2026 Final tickets remain in high demand ahead of Argentina vs Spain at New York New Jersey Stadium. Here's how fans can still buy tickets, the official booking options, latest ticket prices, categories and i\u2026",
+      "timestamp": "2026-07-19T07:21:49.685414Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-final-tickets-price-booking-sale-date-how-to-buy-argentina-vs-spain-match-tickets/articleshow/132474571.cms"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026: Lionel Messi hails Lamine Yamal as 'truly amazing' ahead of Spain's final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lionel Messi acknowledged Lamine Yamal as an amazing player before the World Cup final. Argentina aims to prevent the young Spanish sensation from achieving a historic milestone. Defending champions Argentina secured a thrilling comeback win against England i\u2026",
+      "timestamp": "2026-07-19T07:21:49.685512Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-lionel-messi-hails-lamine-yamal-as-truly-amazing-ahead-of-spains-final/articleshow/132474305.cms"
+        }
+      ]
+    },
+    {
+      "title": "PHOTO: Burna Boy, Shakira meet ahead of World Cup final halftime show",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Nigerian Afrobeats star Burna Boy and pop icon Shakira meet during rehearsals for the 2026 FIFA World Cup final halftime show.\n\nRead More: https://punchng.com/photo-burna-boy-shakira-meet-ahead-of-world-cup-final-halftime-show/",
+      "timestamp": "2026-07-19T07:21:49.685532Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/photo-burna-boy-shakira-meet-ahead-of-world-cup-final-halftime-show/"
+        }
+      ]
+    },
+    {
+      "title": "What time is France vs. England? Live stream, TV channel, kickoff schedule for World Cup 2026 third place match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Here's everything you need to know to watch the France vs. England World Cup match, including where to watch on TV or live stream, what time the game starts and more.",
+      "timestamp": "2026-07-19T07:21:49.685550Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/france-vs-england-time-live-stream-channel-schedule-world-cup/67f210717652ebb626a685e2"
+        }
+      ]
+    },
+    {
+      "title": "World Cup extra time rules, explained: What happens if 2026 final is tied at end of regulation",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "With the 2026 World Cup final set for July 19 at MetLife Stadium in New Jersey, it's worth a reminder of what actually happens if the biggest match of the tournament is still level after 90 minutes. Not many games have gone beyond regulation time at this tour\u2026",
+      "timestamp": "2026-07-19T07:21:49.685579Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/world-cup-extra-time-rules-what-happens-2026-final-tied/a2f91af00dd7265309694be3"
+        }
+      ]
+    },
+    {
+      "title": "Meet the full list of 2026 World Cup final performers, from Shakira to national anthem singers",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Here's who will take the stage on the final day of the 2026 World Cup.",
+      "timestamp": "2026-07-19T07:21:49.685592Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/world-cup-final-performers-list-2026-shakira-national-anthem/b8c56908d6383e57fd6b40d9"
+        }
+      ]
+    },
+    {
       "title": "Uncertainty clouds the forecast on whether wildfire smoke will affect FIFA World Cup final",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Canadian wildfire smoke creates hazy conditions for the World Cup final.  Mikel Merino and Spain aim to ignore external factors affecting the game.  Experts express concern over outdoor practice sessions held in hazardous air.  Rain is expected Saturday, foll\u2026",
-      "timestamp": "2026-07-19T04:56:16.119224Z",
+      "timestamp": "2026-07-19T07:21:49.685633Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "World Cup betting volume increased eighty percent, exceeding expectations for the expanded tournament.  More active customers and record numbers were observed by betting experts after the event.  England attracted the most betting tickets, followed by France \u2026",
-      "timestamp": "2026-07-19T04:56:16.119328Z",
+      "timestamp": "2026-07-19T07:21:49.685689Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "US President Donald Trump has a strange proposal for FIFA President Gianni Infantino. The 2026 FIFA World Cup has been hosted by the US, Mexico, and Canada, with Donald Trump\u2019s country hosting the majority of the games.",
-      "timestamp": "2026-07-19T04:56:16.119456Z",
+      "timestamp": "2026-07-19T07:21:49.685784Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "On Sunday, the world will be watching as Spain meet Argentina for the 2026 FIFA World Cup final. The natural grass surface it is played on may look mundane, but is the product of years of painstaking research and development.",
-      "timestamp": "2026-07-19T04:56:16.119545Z",
+      "timestamp": "2026-07-19T07:21:49.685850Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Adrian Sousa from Rabona TV delivers his full, in-depth preview and definitive champion prediction for the dream final between Spain and Argentina at MetLife Stadium. The long, grueling road across North America has led to this exact moment. Out of the histor\u2026",
-      "timestamp": "2026-07-19T04:56:16.119741Z",
+      "timestamp": "2026-07-19T07:21:49.686005Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Watch Rabona TV's official 2026 World Cup Final predictions video. Get expert tactical analysis, score projections, and insights for Spain vs Argentina at MetLife Stadium. The grandest stage in sports has filtered out 46 nations, leaving only two absolute tit\u2026",
-      "timestamp": "2026-07-19T04:56:16.119802Z",
+      "timestamp": "2026-07-19T07:21:49.686080Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Despite political drama and a disappointing end to the U.S. team\u2019s run, the 2026 World Cup proved to be an eye-opening affirmation of American soft power. By the time Spain or Argentina lifts the World Cup trophy on Sunday, the U.S. men\u2019s national team will h\u2026",
-      "timestamp": "2026-07-19T04:56:16.119832Z",
+      "timestamp": "2026-07-19T07:21:49.686104Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The curtains will be drawn on the 2026 FIFA World Cup tomorrow.\u00a0\u00a0 The 104 football battles fought amongst 48 countries will come to a most befitting climax. The two teams at the finish line are amongst the 7 that have previously won the World Cup, maintaining\u2026",
-      "timestamp": "2026-07-19T04:56:16.119982Z",
+      "timestamp": "2026-07-19T07:21:49.686219Z",
       "links": [
         {
           "label": "Source",
@@ -248,282 +528,316 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "\u200bThe 2026 FIFA World Cup final on July 19th is not merely a match; it is a funeral for the game as we knew it.\u00a0 Every civilization has a moment that historians later recognize as the quiet beginning of a new age. It rarely arrives with the fanfare of revoluti\u2026",
-      "timestamp": "2026-07-19T04:56:16.120053Z",
+      "timestamp": "2026-07-19T07:21:49.686259Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.vanguardngr.com/2026/07/2026-world-cup-final-messi-vs-yamal-sorcerer-and-the-apprentice-by-stephanie-shaakaa/"
         }
       ]
-    },
-    {
-      "title": "2026 FIFA World Cup final: History asking for a signature",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "This is not just a game. This is history asking for a signature. And if it happens? A second straight World Cup for Argentina \u2014 the very first in the modern era to defend the crown.\nThe post 2026 FIFA World Cup final: History asking for a signature\u00a0\u00a0 appeared\u2026",
-      "timestamp": "2026-07-19T04:56:16.120151Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/2026-fifa-world-cup-final-history-asking-for-a-signature/"
-        }
-      ]
-    },
-    {
-      "title": "2026 World Cup final: U.S. President Donald Trump to attend; FIFA will present championship rings",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The final is set for Sunday, also featuring a halftime show for the first time",
-      "timestamp": "2026-07-19T04:56:16.120199Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/2026-world-cup-final-us-president-donald-trump-to-attend-fifa-championship-rings/"
-        }
-      ]
-    },
-    {
-      "title": "New York is the heart of the world and is a fitting host for the 2026 World Cup final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup final being held in the New York New Jersey Stadium feels right: \"The United States are the melting pot of the world, and New York City is the hub of it all.\"",
-      "timestamp": "2026-07-19T04:56:16.120233Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nbcsports.com/soccer/news/new-york-is-the-heart-of-the-world-and-is-a-fitting-host-for-the-2026-world-cup-final"
-        }
-      ]
-    },
-    {
-      "title": "Donald Trump takes shot at Thomas Tuchel\u2019s \u2018unusual\u2019 use of his good friend Harry Kane vs. Argentina",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England\u2019s dream of ending the 60-year FIFA World Cup drought came at a crashing end against Argentina. Harry Kane\u2019s England took on Argentina during the 2026 FIFA World Cup semifinals, and they nearly clinched a spot in the finals.",
-      "timestamp": "2026-07-19T04:56:16.120283Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/donald-trump-takes-shot-at-thomas-tuchels-unusual-use-of-his-good-friend-harry-kane-vs-argentina/"
-        }
-      ]
-    },
-    {
-      "title": "Trump threatens Canada over wildfires ahead of World Cup final (VIDEOS)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "US President Donald Trump has threatened to impose additional tariffs on Canada over wildfire smoke that has blanketed much of the northeastern United States, just days before the FIFA World Cup final in New Jersey.",
-      "timestamp": "2026-07-19T04:56:16.120474Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rt.com/news/643194-us-wildfire-smoke-fifa/"
-        }
-      ]
-    },
-    {
-      "title": "16 World Cup viral moments - from Haaland's bromance to Posh Spice's no-nonsense",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "We look at some of the most memorable scenes during the 2026 World Cup that set the internet alight.",
-      "timestamp": "2026-07-19T04:56:16.120526Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bbc.com/news/articles/cdr4rrzypymo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D"
-        }
-      ]
-    },
-    {
-      "title": "'Something really special': FIFA World Cup soccer grows on Trump",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Trump described at a FIFA World Cup reception how his family likes soccer and looks forward to attending the championship game July 19.",
-      "timestamp": "2026-07-19T04:56:16.120544Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/news/politics/2026/07/17/trump-fifa-world-cup-final/90962557007/"
-        }
-      ]
-    },
-    {
-      "title": "Trump, Infantino declare World Cup a success before Argentina-Spain final: 'America has won'",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Trump and Gianni Infantino praised the 2026 FIFA World Cup as the greatest sporting event in history ahead of Sunday's final at MetLife Stadium.",
-      "timestamp": "2026-07-19T04:56:16.120588Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxnews.com/sports/trump-infantino-declare-world-cup-success-argentina-spain-final-america-won"
-        }
-      ]
-    },
-    {
-      "title": "He's not worried about his vocals! Justin Bieber puffs on a cigar days out from FIFA World Cup halftime performance alongside Madonna, Shakira and Coldplay",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Earlier this month Bieber was announced as one of several World Cup entertainers, alongside\u00a0headliners Madonna, Shakira, and BTS.",
-      "timestamp": "2026-07-19T04:56:16.120615Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/tvshowbiz/article-15986299/Justin-Bieber-smokes-cigar-golf-World-Cup.html"
-        }
-      ]
-    },
-    {
-      "title": "C\u00f3mo ver gratis la final de la Copa Mundial de la FIFA 2026 en espa\u00f1ol",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup Final on Sunday, July 19: Here's how to find, livestream and watch Spain vs. Argentina with Spanish broadcast live online free",
-      "timestamp": "2026-07-19T04:56:16.120637Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.billboard.com/espanol/cultura-entretenimiento/copa-mundial-final-espana-argentina-como-ver-online-espanol-1236296487/"
-        }
-      ]
-    },
-    {
-      "title": "For Next FIFA World Cup, Make Human Rights The Goal",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "When the 2026 World Cup concludes on Sunday, US President Donald Trump will be on stage to lift the trophy\u2014making this World Cup a new sportswashing exemplar.",
-      "timestamp": "2026-07-19T04:56:16.120660Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/minkyworden/2026/07/17/for-next-fifa-world-cup-make-human-rights-the-goal/"
-        }
-      ]
-    },
-    {
-      "title": "Recapping Argentina's Run To The 2026 World Cup Final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "After surviving close calls and pulling off improbable comebacks, let's take a look back at Argentina's historic run to the World Cup final.",
-      "timestamp": "2026-07-19T04:56:16.120679Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/recapping-argentinas-run-2026-world-cup-final"
-        }
-      ]
-    },
-    {
-      "title": "Trump To Attend FIFA World Cup Final In New Jersey",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "President Donald Trump will attend the FIFA World Cup final between Spain and Argentina on Sunday at MetLife Stadium in New Jersey, the White House has confirmed. \nAccording to the report, Trump is expected to join FIFA President Gianni Infantino during the p\u2026",
-      "timestamp": "2026-07-19T04:56:16.120721Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/94fa4417acd5d3f1"
-        }
-      ]
-    },
-    {
-      "title": "Steelers veterans call out NFL teams over FIFA World Cup artificial turf controversy",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Pittsburgh Steelers veterans have gotten involved in the NFL drama over artificial turf and grass playing surfaces due to the FIFA World Cup.",
-      "timestamp": "2026-07-19T04:56:16.120812Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/07/17/steelers-cam-heyward-patrick-queen-fifa-world-cup-turf-drama-nfl/90962567007/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA makes decision on World Cup final venue after crisis talks with White House officials over Canada wildfire smoke",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA has no plans to move Sunday's World Cup final, even as dangerous smoke from Canadian wildfires leaves a haze over New York City, reports claim. Spain is due to face Argentina in a blockbuster final at MetLife Stadium and there have been warnings that the\u2026",
-      "timestamp": "2026-07-19T04:56:16.120855Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://freerepublic.com/focus/f-news/4388379/posts"
-        }
-      ]
-    },
-    {
-      "title": "FIFA makes decision on World Cup final venue after crisis talks with White House officials over Canada wildfire smoke",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA has no plans to move Sunday's World Cup final, even as dangerous smoke from Canadian wildfires leaves a haze over New York City, reports claim. Spain is due to face Argentina in a blockbuster final at MetLife Stadium and there have been warnings that the\u2026",
-      "timestamp": "2026-07-19T04:56:16.120895Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://freerepublic.com/focus/f-chat/4388379/posts"
-        }
-      ]
-    },
-    {
-      "title": "Wrap Up The 2026 FIFA World Cup 2026\u2122 With An Officially Licensed SANDISK\u00ae USB-C Flash Drive",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "We\u2019ve reached the final weekend of the FIFA World Cup 2026\u2122, and what a month of action it has been! We\u2019re down to Spain vs. Argentina, and whether you\u2019re pleased or not with how your favorite team played, we can all agree that the excitement of the World Cup\u2026",
-      "timestamp": "2026-07-19T04:56:16.120955Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://brobible.com/gear/article/wrap-up-the-2026-fifa-world-cup-2026-with-an-officially-licensed-sandisk-usb-c-flash-drive/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup Final: Canadian Wildfires Raise White House, FIFA Concerns",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Those Canadian wildfires could have a global impact in a very big way this Sunday. With Spain set to take on Argentina during Sunday's FIFA World Cup final at MetLife Stadium in New Jersey, reports are that Trump's White House and FIFA president\u00a0Gianni Infant\u2026",
-      "timestamp": "2026-07-19T04:56:16.121018Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://bleedingcool.com/tv/world-cup-final-canadian-wildfires-raise-white-house-fifa-concerns/"
-        }
-      ]
-    },
-    {
-      "title": "Trump Boasts USA Has Morphed Into a \u2018Soccer Country\u2019 During Glowing Event With FIFA Boss",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "President Donald Trump declared Americans love both kinds of football now, with the president saying the USA is a \"soccer country\" after the 2026 World Cup\nThe post Trump Boasts USA Has Morphed Into a \u2018Soccer Country\u2019 During Glowing Event With FIFA Boss first\u2026",
-      "timestamp": "2026-07-19T04:56:16.121090Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.mediaite.com/media/sports/trump-boasts-usa-has-morphed-into-a-soccer-country-during-glowing-event-with-fifa-boss/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "How many penalty kicks in soccer? Explaining FIFA World Cup final shootout rules",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/how-many-penalty-kicks-soccer-world-cup-final-shootout-rules/a3c8c21539c8ea7e1fdb4575"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "Argentina boss reveals the only way to stop Barcelona sensation Lamine Yamal: \u2018I wish we could\u2026\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/argentina-boss-reveals-the-only-way-to-stop-barcelona-sensation-lamine-yamal-i-wish-we-could/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "What is BTS? Meet the members, songs and more about 2026 World Cup halftime performers",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/what-bts-meet-members-songs-more-2026-world-cup-halftime-performers/d0dabcae44ee54820a73cbb3"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "How to watch France v England at World Cup 2026, channel and kick off time",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.timeout.com/london/news/watch-france-v-england-world-cup-2026-channel-kick-off-time-071826"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026 Final Live: Spain vs Argentina date, time, venue, India match time and where to watch",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-final-live-date-time-venue-india-time-spain-vs-argentina-match-schedule/articleshow/132474504.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "Match preview: England, France battle for World Cup third place",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/match-preview-england-france-battle-for-world-cup-third-place/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "Khabib Nurmagomedov drops a strong hint about the team he's supporting in the FIFA World Cup 2026 finals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/mma/news/khabib-nurmagomedov-drops-a-strong-hint-about-the-team-hes-supporting-in-the-fifa-world-cup-2026-finals/articleshow/132474908.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "San Francisco Bay Area",
+      "event": "How many people watch the World Cup final vs. Super Bowl in USA, around the world?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/how-many-people-watch-world-cup-final-vs-super-bowl/a6a8974bfce8bba000258a4c"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "New York / New Jersey",
+      "event": "Geometry, football and the World Cup\u00a0final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://english.khabarhub.com/2026/18/559168/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "Final tickets reach insane prices, Bellingham tries to lift England spirits",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/07/18/world-cup-2026-england-bellingham-france-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "New York / New Jersey",
+      "event": "Spain vs Argentina World Cup 2026 final preview: Prediction, team news & line-ups",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/07/18/world-cup-2026-preview-spain-argentina-h2h-team-news-line-ups-prediction/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "Spain vs. Argentina history: Head-to-head matches at World Cup, last meeting, team records and more",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/spain-vs-argentina-history-matches-world-cup-team-records/44eefeea2be269d289633dd9"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "2026 World Cup, third place game: France vs England",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/170265/2026-world-cup-third-place-game-france-vs-england"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "FIFA World Cup Winners List (1930\u20132026): Complete list of champions through the years",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-winners-list-19302026-complete-list-of-champions-through-the-years/articleshow/132474634.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026 Final tickets: Ticket price, booking, where to buy Argentina vs Spain tickets; Check latest sale details",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-final-tickets-price-booking-sale-date-how-to-buy-argentina-vs-spain-match-tickets/articleshow/132474571.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026: Lionel Messi hails Lamine Yamal as 'truly amazing' ahead of Spain's final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-lionel-messi-hails-lamine-yamal-as-truly-amazing-ahead-of-spains-final/articleshow/132474305.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "PHOTO: Burna Boy, Shakira meet ahead of World Cup final halftime show",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/photo-burna-boy-shakira-meet-ahead-of-world-cup-final-halftime-show/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "What time is France vs. England? Live stream, TV channel, kickoff schedule for World Cup 2026 third place match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/france-vs-england-time-live-stream-channel-schedule-world-cup/67f210717652ebb626a685e2"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "New York / New Jersey",
+      "event": "World Cup extra time rules, explained: What happens if 2026 final is tied at end of regulation",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/world-cup-extra-time-rules-what-happens-2026-final-tied/a2f91af00dd7265309694be3"
+        }
+      ]
+    },
+    {
+      "date": "Jul 19",
+      "loc": "Global",
+      "event": "Meet the full list of 2026 World Cup final performers, from Shakira to national anthem singers",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/world-cup-final-performers-list-2026-shakira-national-anthem/b8c56908d6383e57fd6b40d9"
+        }
+      ]
+    },
     {
       "date": "Jul 19",
       "loc": "Global",
@@ -658,292 +972,7 @@
           "url": "https://www.vanguardngr.com/2026/07/2026-world-cup-final-messi-vs-yamal-sorcerer-and-the-apprentice-by-stephanie-shaakaa/"
         }
       ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "2026 FIFA World Cup final: History asking for a signature",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/2026-fifa-world-cup-final-history-asking-for-a-signature/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "2026 World Cup final: U.S. President Donald Trump to attend; FIFA will present championship rings",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/2026-world-cup-final-us-president-donald-trump-to-attend-fifa-championship-rings/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "New York is the heart of the world and is a fitting host for the 2026 World Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nbcsports.com/soccer/news/new-york-is-the-heart-of-the-world-and-is-a-fitting-host-for-the-2026-world-cup-final"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "Donald Trump takes shot at Thomas Tuchel\u2019s \u2018unusual\u2019 use of his good friend Harry Kane vs. Argentina",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/donald-trump-takes-shot-at-thomas-tuchels-unusual-use-of-his-good-friend-harry-kane-vs-argentina/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "Trump threatens Canada over wildfires ahead of World Cup final (VIDEOS)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rt.com/news/643194-us-wildfire-smoke-fifa/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "16 World Cup viral moments - from Haaland's bromance to Posh Spice's no-nonsense",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bbc.com/news/articles/cdr4rrzypymo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "'Something really special': FIFA World Cup soccer grows on Trump",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/news/politics/2026/07/17/trump-fifa-world-cup-final/90962557007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "New York / New Jersey",
-      "event": "Trump, Infantino declare World Cup a success before Argentina-Spain final: 'America has won'",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxnews.com/sports/trump-infantino-declare-world-cup-success-argentina-spain-final-america-won"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "He's not worried about his vocals! Justin Bieber puffs on a cigar days out from FIFA World Cup halftime performance alongside Madonna, Shakira and Coldplay",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/tvshowbiz/article-15986299/Justin-Bieber-smokes-cigar-golf-World-Cup.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "C\u00f3mo ver gratis la final de la Copa Mundial de la FIFA 2026 en espa\u00f1ol",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.billboard.com/espanol/cultura-entretenimiento/copa-mundial-final-espana-argentina-como-ver-online-espanol-1236296487/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "For Next FIFA World Cup, Make Human Rights The Goal",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/minkyworden/2026/07/17/for-next-fifa-world-cup-make-human-rights-the-goal/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "Recapping Argentina's Run To The 2026 World Cup Final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/recapping-argentinas-run-2026-world-cup-final"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "New York / New Jersey",
-      "event": "Trump To Attend FIFA World Cup Final In New Jersey",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/94fa4417acd5d3f1"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "Steelers veterans call out NFL teams over FIFA World Cup artificial turf controversy",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/07/17/steelers-cam-heyward-patrick-queen-fifa-world-cup-turf-drama-nfl/90962567007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "New York / New Jersey",
-      "event": "FIFA makes decision on World Cup final venue after crisis talks with White House officials over Canada wildfire smoke",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://freerepublic.com/focus/f-news/4388379/posts"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "New York / New Jersey",
-      "event": "FIFA makes decision on World Cup final venue after crisis talks with White House officials over Canada wildfire smoke",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://freerepublic.com/focus/f-chat/4388379/posts"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "Wrap Up The 2026 FIFA World Cup 2026\u2122 With An Officially Licensed SANDISK\u00ae USB-C Flash Drive",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://brobible.com/gear/article/wrap-up-the-2026-fifa-world-cup-2026-with-an-officially-licensed-sandisk-usb-c-flash-drive/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "New York / New Jersey",
-      "event": "World Cup Final: Canadian Wildfires Raise White House, FIFA Concerns",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://bleedingcool.com/tv/world-cup-final-canadian-wildfires-raise-white-house-fifa-concerns/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "Trump Boasts USA Has Morphed Into a \u2018Soccer Country\u2019 During Glowing Event With FIFA Boss",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.mediaite.com/media/sports/trump-boasts-usa-has-morphed-into-a-soccer-country-during-glowing-event-with-fifa-boss/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-19T04:56:16.121283Z"
+  "lastUpdated": "2026-07-19T07:21:49.686429Z"
 }
