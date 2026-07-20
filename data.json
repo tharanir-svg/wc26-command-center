@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 36
+    "p3": 48
   },
   "watchlist": [
     {
@@ -131,12 +131,516 @@
   ],
   "risks": [
     {
+      "title": "Madrid World Cup Spotlight: Mbappe finishes his WC in style with brace against England",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup is almost at its end, with only the final left after a wild third-place play-off between France and England.England beat France 6-4 in Miami to finish third, in a game that bec...",
+      "timestamp": "2026-07-20T08:31:15.430479Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/madrid-world-cup-spotlight-mbappe-finishes-his-wc-in-style-with-brace-against-england/"
+        }
+      ]
+    },
+    {
+      "title": "How long is halftime at the World Cup final? Projected show length and more to know in 2026",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup final will feature the tournament's first-ever halftime show, making the break much longer than a standard soccer match.",
+      "timestamp": "2026-07-20T08:31:15.430538Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/how-long-world-cup-final-halftime-show-length-2026/288d59ba2d32347beb8f453c"
+        }
+      ]
+    },
+    {
+      "title": "Zohran Mamdani reacts to Lionel Messi and Lamine Yamal\u2019s famous bathing picture ahead of World Cup final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup will take place between Argentina and Spain at the MetLife Stadium. Spain booked their spot after defeating World Cup favorites France in the semifinals, while Argentina edged out England to reach the finals.",
+      "timestamp": "2026-07-20T08:31:15.430575Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/zohran-mamdani-reacts-to-lionel-messi-and-lamine-yamals-famous-bathing-picture-ahead-of-world-cup-final/"
+        }
+      ]
+    },
+    {
+      "title": "Watch FIFA World Cup: Argentina, Spain make preparations ahead of final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+      "timestamp": "2026-07-20T08:31:15.430594Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/video/2026/7/19/video-world-cup-2026-highlights"
+        }
+      ]
+    },
+    {
+      "title": "Burna Boy, Madonna, Justin Bieber, others perform at World Cup final halftime show tonight",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "By Ayo Onikoyi Burna Boy has made history again as he is set to perform at the first-ever FIFA World Cup final halftime show tonight set to take place at the New York New Jersey Stadium before the second half of the 2026 World Cup final. The African Giant wil\u2026",
+      "timestamp": "2026-07-20T08:31:15.430627Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/burna-boy-madonna-justin-bieber-others-perform-at-world-cup-final-halftime-show-tonight/"
+        }
+      ]
+    },
+    {
+      "title": "Spain star says he will reluctantly shake US President Donald Trump's hand at World Cup final: 'I don't want to go to prison'",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The United States president will be on hand at the MetLife Stadium in New Jersey to hand the Jules Rimet trophy to the winners on Sunday, with Spain taking on defending champions Argentina.",
+      "timestamp": "2026-07-20T08:31:15.430673Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15988383/Spain-US-President-Donald-Trump-World-Cup.html"
+        }
+      ]
+    },
+    {
+      "title": "Argentina vs Spain today at MetLife Stadium for World Cup title",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina and Spain meet Sunday at MetLife Stadium with the World Cup trophy on the line. Here's what to know before kickoff.",
+      "timestamp": "2026-07-20T08:31:15.430692Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/19/argentina-vs-spain-world-cup-final-metlife-stadium/90942752007/"
+        }
+      ]
+    },
+    {
+      "title": "Where is the next World Cup? See hosts for 2030 and 2034",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup ends today at MetLife. Here's where the next tournaments will be played in 2030 and 2034.",
+      "timestamp": "2026-07-20T08:31:15.430707Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/19/next-world-cup-hosts-2030-2034/90940826007/"
+        }
+      ]
+    },
+    {
+      "title": "Is this the most controversial World Cup yet?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "After more than 100 matches across Canada, Mexico and the United States, the FIFA World Cup 2026 is about to come to an end, cementing its legacy with highs, lows \u2014 and seemingly endless controversies. So, is this the most controversial World Cup? We talk to \u2026",
+      "timestamp": "2026-07-20T08:31:15.430767Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/news/world/world-cup-controversies-fifa-9.7275352"
+        }
+      ]
+    },
+    {
+      "title": "World Cup recap: Six key moments before Argentina-Spain final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Relive the most thrilling moments of the 2026 World Cup, from minnows\u2019 sparkle to Argentina\u2019s comebacks, before the highly anticipated Argentina-Spain fina\n\nRead More: https://punchng.com/world-cup-recap-six-key-moments-before-argentina-spain-final/",
+      "timestamp": "2026-07-20T08:31:15.430813Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/?p=2194201"
+        }
+      ]
+    },
+    {
+      "title": "World Cup final ticket prices hit $60,000 as Spain faces Argentina",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Fans hoping to witness Lionel Messi's Argentina take on Lamine Yamal's Spain in Sunday's FIFA World Cup final will have to pay a premium, with last-minute tickets selling for between $10,000 and $60,000.\nThe post World Cup final ticket prices hit $60,000 as S\u2026",
+      "timestamp": "2026-07-20T08:31:15.430857Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/world-cup-final-ticket-prices-hit-60000-as-spain-faces-argentina/"
+        }
+      ]
+    },
+    {
+      "title": "The biggest takeaways from the 2026 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The World Cup final between Spain and defending champion Argentina marks the end of the biggest tournament in the competition\u2019s history. The supersized tournament delivered thrilling action on the field, with upsets, dramatic comebacks, spectacular goals and \u2026",
+      "timestamp": "2026-07-20T08:31:15.430888Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/biggest-takeaways-2026-world-cup-073903482.html"
+        }
+      ]
+    },
+    {
+      "title": "Erling Haaland and Zlatan Ibrahimovic are stunned by Lionel Messi\u2019s 2026 World Cup run",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Erling Haaland and Zlatan Ibrahimovic\u2019s recent on-camera chat saw the pair marvel at 39-year-old Lionel Messi\u2019s accomplishments at the 2026 FIFA World Cup. Even with the high bar associated with Lionel Messi, he\u2019s shattered expectations with 12 goal contribut\u2026",
+      "timestamp": "2026-07-20T08:31:15.430918Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/erling-haaland-and-zlatan-ibrahimovic-are-stunned-by-lionel-messis-2026-world-cup-run/"
+        }
+      ]
+    },
+    {
+      "title": "Real Madrid make history at 2026 FIFA World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The FIFA World Cup\u2019s third-place match last night was an absolute goal-fest and probably the most exciting game of the tournament so far.France scored four times on the night and still came up short...",
+      "timestamp": "2026-07-20T08:31:15.430949Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/real-madrid-make-history-at-2026-fifa-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "Heavy metal vs. an orchestra: What to expect from the World Cup final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "After 103 matches and 38 days of action, we\u2019re down to the final game on the last day of the 2026 World Cup.",
+      "timestamp": "2026-07-20T08:31:15.430977Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cnn.com/2026/07/19/sport/world-cup-final-preview"
+        }
+      ]
+    },
+    {
+      "title": "Yamal Meets Messi: Spain vs Argentina World Cup 2026 Final Preview",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain and Argentina meet at MetLife Stadium in New Jersey on Sunday evening for the World Cup 2026 Final, a fixture that doubles as the first competitive encounter between Lamine Yamal and Lionel Mess...",
+      "timestamp": "2026-07-20T08:31:15.431003Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.football-espana.net/2026/07/19/spain-argentina-world-cup-final-preview-lineups"
+        }
+      ]
+    },
+    {
+      "title": "Was World Cup a boon or bust for New York, USA? It\u2019s complicated",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Sunday at MetLife Stadium, Spain or Argentina will win the World Cup final. But who are the financial winners?",
+      "timestamp": "2026-07-20T08:31:15.431025Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/19/sports/was-world-cup-a-boon-or-bust-for-new-york-usa-its-complicated/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026 Final live streaming: When and where to watch Spain vs Argentina in India",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain and Argentina will compete in the FIFA World Cup 2026 final. This championship match is scheduled for July 19, 2026, at MetLife Stadium. Indian viewers can watch the exciting final early Monday morning, July 20. Spain aims for their second title, while \u2026",
+      "timestamp": "2026-07-20T08:31:15.431049Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-final-live-streaming-where-and-where-to-watch-argentina-vs-france-free-in-indaia-tv-channel-india/articleshow/132491077.cms"
+        }
+      ]
+    },
+    {
+      "title": "Spain vs Argentina FIFA World Cup final: Team news, prediction and lineups",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lionel Messi vs Lamine Yamal in a clash of two generations at the biggest match of the biggest World Cup in history.",
+      "timestamp": "2026-07-20T08:31:15.431068Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-fifa-world-cup-final-messi-yamal-prediction-time-lineups-team-news"
+        }
+      ]
+    },
+    {
+      "title": "England beat France 6-4 in World Cup third-place classic, players share post-match huddle",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England beat France 6-4 in the 2026 World Cup third-place match. Saka scored a hat-trick, Bellingham sealed it late, and Mbapp broke the all-time goals\nThe post England beat France 6-4 in World Cup third-place classic, players share post-match huddle appeared\u2026",
+      "timestamp": "2026-07-20T08:31:15.431107Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cryptobriefing.com/england-france-world-cup-third-place-huddle/"
+        }
+      ]
+    },
+    {
+      "title": "Spain predicted starting lineup vs. Argentina today: World Cup starting XI",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain has only surrendered one goal in seven matches at the 2026 World Cup.",
+      "timestamp": "2026-07-20T08:31:15.431126Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/19/spain-lineup-today-world-cup-vs-argentina-final/90970869007/"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Messi net worth 2026: Inside the fortune of Argentina's football legend",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lionel Messi faces a chance to cement his legacy in the World Cup final.  He previously retired from international football after a painful loss at MetLife Stadium.  Messi had achieved significant club success but lacked major international trophies.  Argenti\u2026",
+      "timestamp": "2026-07-20T08:31:15.431180Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/lionel-messi-net-worth-2026-salary-businesses-car-collection-endorsements-luxury-lifestyle/articleshow/132491005.cms"
+        }
+      ]
+    },
+    {
+      "title": "How to watch Argentina vs Spain: Live stream the 2026 FIFA World Cup final match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina's stunning stoppage-time comeback against England sets up a historic World Cup final against dominant Spain at MetLife Stadium Sunday.",
+      "timestamp": "2026-07-20T08:31:15.431197Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/sports/how-watch-argentina-vs-spain-live-stream-2026-fifa-world-cup-final-match"
+        }
+      ]
+    },
+    {
+      "title": "Is the World Cup \u2018rigged\u2019 for Argentina? Inside six moments that debunk FIFA bias narrative",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "As Lionel Messi goes for his second straight FIFA World Cup championship, not everyone is thrilled about Argentina's run to the tournament's title match.",
+      "timestamp": "2026-07-20T08:31:15.431284Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/world-cup-rigged-argentina-moments-fifa-bias-narrative/e9f989f7f88481223eebc495"
+        }
+      ]
+    },
+    {
+      "title": "Who is in the World Cup halftime show? Full details and list of known performers for 2026 final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "There are many big names set to appear at MetLife Stadium during halftime of Argentina vs. Spain.",
+      "timestamp": "2026-07-20T08:31:15.431305Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/world-cup-halftime-show-details-performers-2026-final/ecafd0b6389b49c2764d1094"
+        }
+      ]
+    },
+    {
+      "title": "The FIFA World Cup Halftime Show Breaks A Longstanding Tradition",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "For 96 years, the FIFA World Cup final has observed the same halftime tradition: fifteen minutes of punditry, tactical analysis and players regrouping in the tunnel. On July 19, that changes.",
+      "timestamp": "2026-07-20T08:31:15.431326Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/hannahabraham/2026/07/19/the-fifa-world-cup-halftime-show-breaks-a-longstanding-tradition/"
+        }
+      ]
+    },
+    {
+      "title": "Spain vs Argentina \u2013 Past meetings and head-to-head record",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain and Argentina compete for the biggest prize in football in the 2026 FIFA World Cup final this evening.Argentina are aiming to defend their title won in Qatar four years ago, following a hard-fou...",
+      "timestamp": "2026-07-20T08:31:15.431353Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thefootballfaithful.com/spain-vs-argentina-past-meetings-and-head-to-head-record/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA 2026 World Cup final: How much prize money the winner and runner-up gets",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain and Argentina are set to face off in the 2026 FIFA World Cup Final at the MetLife Stadium. Spain reached the final by sweeping through Group H, followed by knockout wins over Austria, Portugal, Belgium, and a 2-0 semi-final victory against France.",
+      "timestamp": "2026-07-20T08:31:15.431390Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/fifa-2026-world-cup-final-how-much-money-will-and-win/"
+        }
+      ]
+    },
+    {
+      "title": "Molina, De Paul Decisions Loom as Scaloni Shapes Argentina\u2019s World Cup Final XI",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lionel Scaloni is reportedly weighing two changes to his Argentina lineup for Sunday\u2019s 2026 World Cup final against Spain at the New York New Jersey Stadium, according to journalist Gaston Edul, wit...",
+      "timestamp": "2026-07-20T08:31:15.431419Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.juvefc.com/argentina-world-cup-final-lineup-scaloni/"
+        }
+      ]
+    },
+    {
+      "title": "Spain FIFA World Cup records: Titles, finals, wins, goals and historic milestones",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina and Spain will compete in the FIFA World Cup 2026 final.  Defending champions Argentina aim to retain their title against Spain.  Spain seeks their second World Cup victory after winning in 2010.  This match likely marks Lionel Messi's final World C\u2026",
+      "timestamp": "2026-07-20T08:31:15.431452Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/spain-fifa-world-cup-records-titles-finals-wins-goals-and-historic-milestones/articleshow/132490608.cms"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026 Prize Money: How much winner and runner-up will get after Argentina vs Spain final, check complete prize breakdown of the top four teams",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA World Cup 2026 Prize Money: Argentina and Spain compete today in the FIFA World Cup 2026 final match.  The tournament offers a record prize pool of $655 million for participating teams.  Defending champions Argentina seek their fourth World Cup title aga\u2026",
+      "timestamp": "2026-07-20T08:31:15.431485Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-prize-money-how-much-winner-and-runner-up-will-get-after-argentina-vs-spain-final-check-complete-prize-breakdown-of-the-top-four-teams/articleshow/132490530.cms"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026 Top Scorers List: Mbapp\u00e9\u2019s 10-goal lead puts him on top, but Messi has one last shot at his first Golden Boot",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA World Cup 2026 Top Scorers List: The Golden Boot race has a blockbuster finish lined up: Kylian Mbapp\u00e9 leads the FIFA World Cup 2026 scoring charts with 10 goals and a new record, but Lionel Messi still has one final chance to catch him.",
+      "timestamp": "2026-07-20T08:31:15.431535Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-top-scorers-list-golden-boot-race-mbappe-messi-argentina-spain-bellingham-haaland-kane/articleshow/132490497.cms"
+        }
+      ]
+    },
+    {
+      "title": "How many times has Argentina reached the FIFA World Cup final? Complete history of the South American nation's journey",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina's FIFA World Cup Final: Argentina has reached seven FIFA World Cup finals, securing three championship titles.  They won their first title in 1978 and their third in 2022.  The team also finished as runners-up in three previous tournaments.  Argenti\u2026",
+      "timestamp": "2026-07-20T08:31:15.431630Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/how-many-times-has-argentina-reached-fifa-world-cup-final-history-record-lionel-messi-diego-maradonas/articleshow/132490306.cms"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026: Everything you need to know before the final \u2014 format, tickets, halftime show, host cities, prize money, controversies and more",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "2026 FIFA World Cup Final 2026: The FIFA World Cup 2026 is rewriting history with its expanded format and unprecedented scale. This tournament features 48 teams and 104 matches across three host nations. Argentina will face Spain in the final at MetLife Stadi\u2026",
+      "timestamp": "2026-07-20T08:31:15.431657Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-everything-you-need-to-know-before-the-final-format-tickets-halftime-show-host-cities-prize-money-controversies-and-more/articleshow/132490418.cms"
+        }
+      ]
+    },
+    {
+      "title": "Roman Reigns reveals his pick for 2026 FIFA World Cup winner between Argentina and Spain",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "WWE superstar Roman Reigns has chimed in on the outcome of the 2026 FIFA World Cup final. Lionel Messi\u2019s Argentina are all set to take on Lamine Yamal\u2019s Spain for a shot at winning back-to-back World Cups.",
+      "timestamp": "2026-07-20T08:31:15.431685Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/roman-reigns-reveals-his-pick-for-2026-fifa-world-cup-winner-between-argentina-and-spain/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026 Golden Ball Could Go to Spanish Star",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The FIFA World Cup 2026 Golden Ball could go to a Spanish star, though Lionel Messi will have something to say about it. The post FIFA World Cup 2026 Golden Ball Could Go to Spanish Star appeared first on HEAVY.",
+      "timestamp": "2026-07-20T08:31:15.431730Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5728f293-55b2-4cce-82e7-d654a7c58766"
+        }
+      ]
+    },
+    {
       "title": "The flight hours and miles of World Cup travels of FIFA's Infantino in numbers",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA President Gianni Infantino got some serious air time over the course of the 2026 World Cup, the tournament's most far-flung edition ever. To track his travels, The Associated Press analyzed flight logs for a private business jet used by Infantino in rece\u2026",
-      "timestamp": "2026-07-20T05:24:45.560911Z",
+      "timestamp": "2026-07-20T08:31:15.431786Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +654,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Last FIFA World Cup trophy: As the countdown to the FIFA World Cup 2026 final begins, fans are revisiting the unforgettable 2022 title clash between Argentina and France. Lionel Messi finally lifted the World Cup after a dramatic penalty shootout, while Kylia\u2026",
-      "timestamp": "2026-07-20T05:24:45.560968Z",
+      "timestamp": "2026-07-20T08:31:15.431815Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +668,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "How Argentina Won the FIFA World Cup 2022 Final: Argentina secured the 2022 FIFA World Cup title after a thrilling final match.  Lionel Messi finally achieved his lifelong dream of winning the coveted trophy.  The game featured a dramatic comeback and a tense\u2026",
-      "timestamp": "2026-07-20T05:24:45.561006Z",
+      "timestamp": "2026-07-20T08:31:15.431848Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +682,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Former Spain defender Joan Capdevila was granted a US entry waiver after an ESTA denial linked to Iran travel nearly kept him from the 2026 World Cup final.\nThe post Joan Capdevila granted US entry waiver after Trump appeal ahead of World Cup final appeared f\u2026",
-      "timestamp": "2026-07-20T05:24:45.561168Z",
+      "timestamp": "2026-07-20T08:31:15.431978Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +696,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Rob Dieperink, who was dropped from officiating at the 2026 FIFA World Cup following his arrest for the alleged sexual assault of a minor, has passed away at the age of 38.",
-      "timestamp": "2026-07-20T05:24:45.561264Z",
+      "timestamp": "2026-07-20T08:31:15.432060Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +710,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's the rundown on who Hudson is and why she was chosen to sing the U.S. national anthem.",
-      "timestamp": "2026-07-20T05:24:45.561284Z",
+      "timestamp": "2026-07-20T08:31:15.432078Z",
       "links": [
         {
           "label": "Source",
@@ -220,25 +724,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The European champions, Spain, are set to face the Copa America champions, Argentina, in the FIFA World Cup 2026 final on Sunday at the New York-New Jersey Stadium.Spain head into this huge clash in o...",
-      "timestamp": "2026-07-20T05:24:45.561350Z",
+      "timestamp": "2026-07-20T08:31:15.432139Z",
       "links": [
         {
           "label": "Source",
           "url": "https://thefootballfaithful.com/spain-vs-argentina-predicted-lineup-and-team-news/"
-        }
-      ]
-    },
-    {
-      "title": "Argentina predicted lineup and team news vs Spain",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The reigning Copa America winners and current World Champions, Argentina, will take on European champions Spain in the FIFA World Cup 2026 final on Sunday at the New York New Jersey Stadium.Argentina ...",
-      "timestamp": "2026-07-20T05:24:45.561372Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thefootballfaithful.com/argentina-predicted-lineup-and-team-news-vs-spain/"
         }
       ]
     },
@@ -248,11 +738,25 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The reigning Copa America champions and the defending World Champions, Argentina, face the reigning European Champions, Spain, in the Final match of the FIFA World Cup 2026 on Sunday at the New York-N...",
-      "timestamp": "2026-07-20T05:24:45.561398Z",
+      "timestamp": "2026-07-20T08:31:15.432164Z",
       "links": [
         {
           "label": "Source",
           "url": "https://thefootballfaithful.com/spain-vs-argentina-match-preview-and-team-news/"
+        }
+      ]
+    },
+    {
+      "title": "Argentina predicted lineup and team news vs Spain",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The reigning Copa America winners and current World Champions, Argentina, will take on European champions Spain in the FIFA World Cup 2026 final on Sunday at the New York New Jersey Stadium.Argentina ...",
+      "timestamp": "2026-07-20T08:31:15.432186Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thefootballfaithful.com/argentina-predicted-lineup-and-team-news-vs-spain/"
         }
       ]
     },
@@ -262,7 +766,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA World Cup 2026 records so far: The 2026 FIFA World Cup has seen numerous records shattered across its expanded format. Lionel Messi became the all-time leading scorer and assist provider in men's World Cup history. Spain's Unai Simon set a new record for\u2026",
-      "timestamp": "2026-07-20T05:24:45.561429Z",
+      "timestamp": "2026-07-20T08:31:15.432241Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +780,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A trend of teams defending deep has enticed forwards to take shots from outside the penalty area, Jurgen Klinsmann says.",
-      "timestamp": "2026-07-20T05:24:45.561550Z",
+      "timestamp": "2026-07-20T08:31:15.432431Z",
       "links": [
         {
           "label": "Source",
@@ -290,352 +794,556 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kylian Mbappe has become the FIFA World Cup's all-time leading goalscorer. He achieved this historic milestone after scoring two goals in a recent match. Mbappe now holds the record with twenty-two goals in twenty-two appearances. This places him ahead of Lio\u2026",
-      "timestamp": "2026-07-20T05:24:45.561581Z",
+      "timestamp": "2026-07-20T08:31:15.432483Z",
       "links": [
         {
           "label": "Source",
           "url": "https://economictimes.indiatimes.com/news/new-updates/top-scorer-in-fifa-world-cup-2026-check-who-now-leads-the-current-and-all-time-world-cup-scoring-list/articleshow/132489440.cms"
         }
       ]
-    },
-    {
-      "title": "Argentina vs Spain Predictions, Odds & Best Bets for the Sunday, July 19 World Cup Match",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Check out Chris Vasile's Spain vs. Argentina predictions, best bets, and player props for the 2026 FIFA World Cup final, including why he likes the Draw, Under 2.5 goals, and Lionel Messi to score on July 19.",
-      "timestamp": "2026-07-20T05:24:45.561693Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.covers.com/world-cup/argentina-vs-spain-prediction-picks-odds-sunday-7-19-2026"
-        }
-      ]
-    },
-    {
-      "title": "Fifa 2026: England, having defeated France, will be third.",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England secured a thrilling 6-4 victory over France in the third-place match of the FIFA World Cup, held on July 18, 2026, at Hard Rock Stadium in Miami Gardens, Florida, USA. This triumph marked England's best tournament finish since winning the World Cup on\u2026",
-      "timestamp": "2026-07-20T05:24:45.561739Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.gossiplankanews.com/2026/07/fifa-2026-england-having-defeated.html"
-        }
-      ]
-    },
-    {
-      "title": "England player ratings vs France: Saka steals the show as Three Lions finish third",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England claimed third place at the 2026 World Cup with a 6-4 victory over France in a remarkable third-place play-off at Miami Stadium. Bukayo Saka scored a hat-trick to earn Player of the Match honou...",
-      "timestamp": "2026-07-20T05:24:45.561763Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_77aa7903-bf83-457d-ab9a-0724a4dcbd91"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup Golden Boot 2026: Third-place playoff reshapes race as Lionel Messi falls behind",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA world cup golden boot 2026: Kylian Mbappe became the World Cup's all-time leading scorer and moved ahead of Lionel Messi. He scored twice in France's 6-4 defeat to England in the third-place playoff. Mbappe's brace took his tournament tally to ten goals,\u2026",
-      "timestamp": "2026-07-20T05:24:45.561862Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-golden-boot-2026-third-place-playoff-reshapes-race-as-lionel-messi-falls-behind/articleshow/132489059.cms"
-        }
-      ]
-    },
-    {
-      "title": "Who won FIFA World Cup 2026 France vs England match? Third-place playoff delivers 10-goal World Cup classic",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Bukayo Saka scored a hat-trick as England defeated France 6-4 in a dramatic playoff match.  England secured their best World Cup finish since winning the title in 1966.  Kylian Mbappe scored twice for France, finishing the tournament with a record 10 goals.  \u2026",
-      "timestamp": "2026-07-20T05:24:45.561926Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/who-won-fifa-world-cup-2026-france-vs-england-match-third-place-playoff-delivers-10-goal-world-cup-classic/articleshow/132489030.cms"
-        }
-      ]
-    },
-    {
-      "title": "How The 2026 World Cup Has Forever Changed Soccer In The U.S.",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The tournament is set to profoundly impact American soccer, accelerating its growth and leaving a lasting legacy.",
-      "timestamp": "2026-07-20T05:24:45.561945Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/clementelisi/2026/07/18/how-the-2026-world-cup-has-forever-changed-soccer-in-the-us/"
-        }
-      ]
-    },
-    {
-      "title": "Folks watch the World Cup 3rd place match at the FIFA fan zone in Scranton",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Soccer fans had their rally caps on this afternoon in the Electric City. Scranton's FIFA fan zone returned to Courthouse Square this afternoon as the World...",
-      "timestamp": "2026-07-20T05:24:45.561967Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.wnep.com/article/news/local/lackawanna-county/folks-watch-world-cup-3rd-place-match-fifa-fan-zone-scranton-lackawanna-county/523-9f40bec5-0882-4594-a8ae-9d65f009d9a6"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup Triggers a Global Anti-Piracy Crackdown",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "During the FIFA World Cup, law enforcement and private partners across multiple continents have seized or blocked well over a thousand pirate streaming domains, arrested suspects, and cut off advertising revenue. Taken together, \"Operation Offsides\" and \"Oper\u2026",
-      "timestamp": "2026-07-20T05:24:45.562093Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://torrentfreak.com/fifa-world-cup-triggers-a-global-anti-piracy-crackdown/"
-        }
-      ]
-    },
-    {
-      "title": "WATCH: Countdown to 2026 FIFA World Cup Final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "In less than 24 hours, New Jersey's MetLife Stadium will host Spain and Argentina for the 2026 FIFA World Cup Final. It's the first match between the two countries in 60 years.",
-      "timestamp": "2026-07-20T05:24:45.562112Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://abcnews.com/video/134884586/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA toasts World Cup triumph as tournament draws to close",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup concluded as a triumph, overcoming initial concerns about high prices and geopolitical tensions. Thrilling football and a strong feel-good factor captivated fans across the United States, Mexico, and Canada. Despite fears, the expanded 48-t\u2026",
-      "timestamp": "2026-07-20T05:24:45.562158Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-toasts-world-cup-triumph-as-tournament-draws-to-close/articleshow/132488915.cms"
-        }
-      ]
-    },
-    {
-      "title": " After making history, Mbapp\u00e9 throws in the towel v Messi",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "In a completely crazy match, France lost to England 6-4 this Saturday (18) and had to settle for fourth place at the 2026 FIFA World Cup.+\u00a0 At least it was fun! The internet reacts to the madness...",
-      "timestamp": "2026-07-20T05:24:45.562181Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/after-making-history-mbappe-throws-in-the-towel-v-messi-43157009"
-        }
-      ]
-    },
-    {
-      "title": "Saka Shines as England Crushes France for Third Place",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Bukayo Saka earns a 9/10 rating after leading England to a thrilling 6-4 victory over France to secure third place at the 2026 World Cup.",
-      "timestamp": "2026-07-20T05:24:45.562200Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://easysportz.com/2026/07/saka-shines-as-england-crushes-france-for-third-place/"
-        }
-      ]
-    },
-    {
-      "title": "Yankees-Dodgers postponed just miles from World Cup final stadium on eve of Spain vs Argentina",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Weather conditions have had a significant impact on another major sporting event just hours before Sunday\u2019s FIFA World Cup 2026 final. Spain take on Argentina in East Rutherford, New Jersey in the biggest game soccer has to offer.",
-      "timestamp": "2026-07-20T05:24:45.562233Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/yankees-dodgers-postponed-just-miles-from-world-cup-final-stadium-on-eve-of-spain-vs-argentina/"
-        }
-      ]
-    },
-    {
-      "title": "Spain vs. Argentina live stream: How to watch FIFA World Cup final, odds, prediction, pick, lineups",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup final will take place on Sunday at MetLife Stadium with the biggest prize on the line",
-      "timestamp": "2026-07-20T05:24:45.562265Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/spain-argentina-world-cup-2026-preview-predictions-watch/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026: England survive France fightback and secure third place in World Cup goalfest",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England achieved third place for the first time after a 6-4 win over France. Bukayo Saka scored a hat-trick in this high-scoring playoff match. Kylian Mbappe netted twice, setting new World Cup scoring records. The ten goals set a new record for a third-place\u2026",
-      "timestamp": "2026-07-20T05:24:45.562325Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-england-survive-france-fightback-and-secure-third-place-in-world-cup-goalfest/articleshow/132488816.cms"
-        }
-      ]
-    },
-    {
-      "title": "How much are World Cup final tickets 2026? Here are the most expensive, cheapest seats for MetLife Stadium",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Sporting News looks at the price point for 2026 World Cup final tickets.",
-      "timestamp": "2026-07-20T05:24:45.562373Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/how-much-are-world-cup-final-tickets-2026/b70ccf9167aeac53d731b412"
-        }
-      ]
-    },
-    {
-      "title": "Report: Rodrigo De Paul expected to return to Lionel Messi\u2019s Argentina starting XI for 2026 World Cup final against Spain",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina face Spain in the 2026 World Cup final, and Rodrigo De Paul could return to the starting lineup alongside Lionel Messi. Lionel Messi will chase his second title when Argentina face Spain in the 2026 World Cup final on Sunday at New York New Jersey S\u2026",
-      "timestamp": "2026-07-20T05:24:45.562413Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/report-rodrigo-de-paul-expected-to-return-to-lionel-messis-argentina-starting-xi-for-2026-world-cup-final-against-spain/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026 3rd Place Play Off France Vs England 1080p HDTV H264-DARKSPORT",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Links: HOMEPAGE\u00a0\u2013 TV.comFIFA.World.Cup.2026.3rd.Place.Play.Off.France.Vs.England.1080p.HDTV.H264-DARKSPORTMKV | AC3 / dolby digital | 7.54GBNFO \u2013 Subtitles \u2013 Torrent \u2013 NiTROFLARE \u2013 RAPiDGATORSingle File RAR: RAPiDGATOR BackupFIFA.World.Cup.2026.Quarter.Final.\u2026",
-      "timestamp": "2026-07-20T05:24:45.562441Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://post.rlsbb.cc/fifa-world-cup-2026-3rd-place-play-off-france-vs-england-1080p-hdtv-h264-darksport/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup winner\u2019s ring explained: Design, estimated price, and who can buy it",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "A tradition may emerge as this is the first time that the winners get a ring. In the final match of the 2026 World Cup, the main award is the trophy every player dreams of lifting, but the winner of the match between Spain and Argentina should also receive a \u2026",
-      "timestamp": "2026-07-20T05:24:45.562501Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/fifa-world-cup-winners-ring-explained-design-estimated-price-and-who-can-buy-it/"
-        }
-      ]
-    },
-    {
-      "title": "England beats France in instant classic to earn third place at 2026 FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Bukayo Saka's hat trick and Kylian Mbappe's Golden Boot surge fueled a record-breaking World Cup bronze final between England and France in Miami.",
-      "timestamp": "2026-07-20T05:24:45.562530Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxnews.com/sports/england-wins-thriller-ages-france-claim-third-2026-fifa-world-cup"
-        }
-      ]
-    },
-    {
-      "title": "Mbappe overtakes Messi to become WC\u2019s leading goal-scorer",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "MIAMI: France captain Kylian Mbappe created history by overtaking Lionel Messi to become the highest goalscorer in FIFA World Cup history. The French star scored twice in the second half, with his second goal coming while 24 minutes remained, during France\u2019s \u2026",
-      "timestamp": "2026-07-20T05:24:45.562569Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.khabarhub.com/2026/19/559236/"
-        }
-      ]
-    },
-    {
-      "title": "England beat France 6-4 to claim World Cup bronze",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "MIAMI: England secured the bronze medal in the FIFA World Cup 2026 after defeating France 6-4 in a breathtaking, record-breaking 10-goal thriller at the Miami Stadium. Notably, the defeat also spoiled Didier Deschamps\u2019 farewell, bringing the legendary coach\u2019s\u2026",
-      "timestamp": "2026-07-20T05:24:45.562625Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.khabarhub.com/2026/19/559232/"
-        }
-      ]
-    },
-    {
-      "title": "Spain vs. Argentina odds, prediction, time: 2026 World Cup final picks by expert on 27-18 roll",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "SportsLine's Jon Eimer reveals his Argentina vs. Spain best bets in the FIFA World Cup 2026 final on Sunday",
-      "timestamp": "2026-07-20T05:24:45.562744Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/betting/news/spain-argentina-odds-prediction-time-2026-world-cup-final-picks/"
-        }
-      ]
-    },
-    {
-      "title": "Michael Olise outshines England with four chances created in World Cup third-place playoff",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Michael Olise created four chances against England at the 2026 World Cup third-place playoff, leading all players in the match and the tournament in\nThe post Michael Olise outshines England with four chances created in World Cup third-place playoff appeared f\u2026",
-      "timestamp": "2026-07-20T05:24:45.562860Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/michael-olise-chances-created-england-world-cup/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Madrid World Cup Spotlight: Mbappe finishes his WC in style with brace against England",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/madrid-world-cup-spotlight-mbappe-finishes-his-wc-in-style-with-brace-against-england/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "How long is halftime at the World Cup final? Projected show length and more to know in 2026",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/how-long-world-cup-final-halftime-show-length-2026/288d59ba2d32347beb8f453c"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "Zohran Mamdani reacts to Lionel Messi and Lamine Yamal\u2019s famous bathing picture ahead of World Cup final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/zohran-mamdani-reacts-to-lionel-messi-and-lamine-yamals-famous-bathing-picture-ahead-of-world-cup-final/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Watch FIFA World Cup: Argentina, Spain make preparations ahead of final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/video/2026/7/19/video-world-cup-2026-highlights"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Burna Boy, Madonna, Justin Bieber, others perform at World Cup final halftime show tonight",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/burna-boy-madonna-justin-bieber-others-perform-at-world-cup-final-halftime-show-tonight/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "Spain star says he will reluctantly shake US President Donald Trump's hand at World Cup final: 'I don't want to go to prison'",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15988383/Spain-US-President-Donald-Trump-World-Cup.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "Argentina vs Spain today at MetLife Stadium for World Cup title",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/19/argentina-vs-spain-world-cup-final-metlife-stadium/90942752007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "Where is the next World Cup? See hosts for 2030 and 2034",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/19/next-world-cup-hosts-2030-2034/90940826007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Is this the most controversial World Cup yet?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/news/world/world-cup-controversies-fifa-9.7275352"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "World Cup recap: Six key moments before Argentina-Spain final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/?p=2194201"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "World Cup final ticket prices hit $60,000 as Spain faces Argentina",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/world-cup-final-ticket-prices-hit-60000-as-spain-faces-argentina/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "The biggest takeaways from the 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/biggest-takeaways-2026-world-cup-073903482.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Erling Haaland and Zlatan Ibrahimovic are stunned by Lionel Messi\u2019s 2026 World Cup run",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/erling-haaland-and-zlatan-ibrahimovic-are-stunned-by-lionel-messis-2026-world-cup-run/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Real Madrid make history at 2026 FIFA World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/real-madrid-make-history-at-2026-fifa-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Heavy metal vs. an orchestra: What to expect from the World Cup final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cnn.com/2026/07/19/sport/world-cup-final-preview"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "Yamal Meets Messi: Spain vs Argentina World Cup 2026 Final Preview",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.football-espana.net/2026/07/19/spain-argentina-world-cup-final-preview-lineups"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "Was World Cup a boon or bust for New York, USA? It\u2019s complicated",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/19/sports/was-world-cup-a-boon-or-bust-for-new-york-usa-its-complicated/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "FIFA World Cup 2026 Final live streaming: When and where to watch Spain vs Argentina in India",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-final-live-streaming-where-and-where-to-watch-argentina-vs-france-free-in-indaia-tv-channel-india/articleshow/132491077.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Spain vs Argentina FIFA World Cup final: Team news, prediction and lineups",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-fifa-world-cup-final-messi-yamal-prediction-time-lineups-team-news"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "England beat France 6-4 in World Cup third-place classic, players share post-match huddle",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cryptobriefing.com/england-france-world-cup-third-place-huddle/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Spain predicted starting lineup vs. Argentina today: World Cup starting XI",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/19/spain-lineup-today-world-cup-vs-argentina-final/90970869007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "Lionel Messi net worth 2026: Inside the fortune of Argentina's football legend",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/lionel-messi-net-worth-2026-salary-businesses-car-collection-endorsements-luxury-lifestyle/articleshow/132491005.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "How to watch Argentina vs Spain: Live stream the 2026 FIFA World Cup final match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/sports/how-watch-argentina-vs-spain-live-stream-2026-fifa-world-cup-final-match"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Is the World Cup \u2018rigged\u2019 for Argentina? Inside six moments that debunk FIFA bias narrative",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/world-cup-rigged-argentina-moments-fifa-bias-narrative/e9f989f7f88481223eebc495"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "Who is in the World Cup halftime show? Full details and list of known performers for 2026 final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/world-cup-halftime-show-details-performers-2026-final/ecafd0b6389b49c2764d1094"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "The FIFA World Cup Halftime Show Breaks A Longstanding Tradition",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/hannahabraham/2026/07/19/the-fifa-world-cup-halftime-show-breaks-a-longstanding-tradition/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Spain vs Argentina \u2013 Past meetings and head-to-head record",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thefootballfaithful.com/spain-vs-argentina-past-meetings-and-head-to-head-record/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "FIFA 2026 World Cup final: How much prize money the winner and runner-up gets",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/fifa-2026-world-cup-final-how-much-money-will-and-win/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Molina, De Paul Decisions Loom as Scaloni Shapes Argentina\u2019s World Cup Final XI",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.juvefc.com/argentina-world-cup-final-lineup-scaloni/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Spain FIFA World Cup records: Titles, finals, wins, goals and historic milestones",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/spain-fifa-world-cup-records-titles-finals-wins-goals-and-historic-milestones/articleshow/132490608.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026 Prize Money: How much winner and runner-up will get after Argentina vs Spain final, check complete prize breakdown of the top four teams",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-prize-money-how-much-winner-and-runner-up-will-get-after-argentina-vs-spain-final-check-complete-prize-breakdown-of-the-top-four-teams/articleshow/132490530.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026 Top Scorers List: Mbapp\u00e9\u2019s 10-goal lead puts him on top, but Messi has one last shot at his first Golden Boot",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-top-scorers-list-golden-boot-race-mbappe-messi-argentina-spain-bellingham-haaland-kane/articleshow/132490497.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "How many times has Argentina reached the FIFA World Cup final? Complete history of the South American nation's journey",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/how-many-times-has-argentina-reached-fifa-world-cup-final-history-record-lionel-messi-diego-maradonas/articleshow/132490306.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "FIFA World Cup 2026: Everything you need to know before the final \u2014 format, tickets, halftime show, host cities, prize money, controversies and more",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-everything-you-need-to-know-before-the-final-format-tickets-halftime-show-host-cities-prize-money-controversies-and-more/articleshow/132490418.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Roman Reigns reveals his pick for 2026 FIFA World Cup winner between Argentina and Spain",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/roman-reigns-reveals-his-pick-for-2026-fifa-world-cup-winner-between-argentina-and-spain/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026 Golden Ball Could Go to Spanish Star",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5728f293-55b2-4cce-82e7-d654a7c58766"
+        }
+      ]
+    },
     {
       "date": "Jul 20",
       "loc": "Global",
@@ -744,21 +1452,6 @@
     {
       "date": "Jul 20",
       "loc": "Global",
-      "event": "Argentina predicted lineup and team news vs Spain",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thefootballfaithful.com/argentina-predicted-lineup-and-team-news-vs-spain/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
       "event": "Spain vs Argentina \u2013 Match preview and team news",
       "type": "News",
       "confidence": "Confirmed",
@@ -768,6 +1461,21 @@
         {
           "label": "Source",
           "url": "https://thefootballfaithful.com/spain-vs-argentina-match-preview-and-team-news/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Argentina predicted lineup and team news vs Spain",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thefootballfaithful.com/argentina-predicted-lineup-and-team-news-vs-spain/"
         }
       ]
     },
@@ -815,367 +1523,7 @@
           "url": "https://economictimes.indiatimes.com/news/new-updates/top-scorer-in-fifa-world-cup-2026-check-who-now-leads-the-current-and-all-time-world-cup-scoring-list/articleshow/132489440.cms"
         }
       ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Argentina vs Spain Predictions, Odds & Best Bets for the Sunday, July 19 World Cup Match",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.covers.com/world-cup/argentina-vs-spain-prediction-picks-odds-sunday-7-19-2026"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Miami",
-      "event": "Fifa 2026: England, having defeated France, will be third.",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.gossiplankanews.com/2026/07/fifa-2026-england-having-defeated.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "England player ratings vs France: Saka steals the show as Three Lions finish third",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_77aa7903-bf83-457d-ab9a-0724a4dcbd91"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "FIFA World Cup Golden Boot 2026: Third-place playoff reshapes race as Lionel Messi falls behind",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-golden-boot-2026-third-place-playoff-reshapes-race-as-lionel-messi-falls-behind/articleshow/132489059.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Who won FIFA World Cup 2026 France vs England match? Third-place playoff delivers 10-goal World Cup classic",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/who-won-fifa-world-cup-2026-france-vs-england-match-third-place-playoff-delivers-10-goal-world-cup-classic/articleshow/132489030.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "How The 2026 World Cup Has Forever Changed Soccer In The U.S.",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/clementelisi/2026/07/18/how-the-2026-world-cup-has-forever-changed-soccer-in-the-us/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Folks watch the World Cup 3rd place match at the FIFA fan zone in Scranton",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.wnep.com/article/news/local/lackawanna-county/folks-watch-world-cup-3rd-place-match-fifa-fan-zone-scranton-lackawanna-county/523-9f40bec5-0882-4594-a8ae-9d65f009d9a6"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "FIFA World Cup Triggers a Global Anti-Piracy Crackdown",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://torrentfreak.com/fifa-world-cup-triggers-a-global-anti-piracy-crackdown/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "New York / New Jersey",
-      "event": "WATCH: Countdown to 2026 FIFA World Cup Final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://abcnews.com/video/134884586/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "FIFA toasts World Cup triumph as tournament draws to close",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-toasts-world-cup-triumph-as-tournament-draws-to-close/articleshow/132488915.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": " After making history, Mbapp\u00e9 throws in the towel v Messi",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/after-making-history-mbappe-throws-in-the-towel-v-messi-43157009"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Saka Shines as England Crushes France for Third Place",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://easysportz.com/2026/07/saka-shines-as-england-crushes-france-for-third-place/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Yankees-Dodgers postponed just miles from World Cup final stadium on eve of Spain vs Argentina",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/yankees-dodgers-postponed-just-miles-from-world-cup-final-stadium-on-eve-of-spain-vs-argentina/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "New York / New Jersey",
-      "event": "Spain vs. Argentina live stream: How to watch FIFA World Cup final, odds, prediction, pick, lineups",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/soccer/news/spain-argentina-world-cup-2026-preview-predictions-watch/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026: England survive France fightback and secure third place in World Cup goalfest",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-england-survive-france-fightback-and-secure-third-place-in-world-cup-goalfest/articleshow/132488816.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "New York / New Jersey",
-      "event": "How much are World Cup final tickets 2026? Here are the most expensive, cheapest seats for MetLife Stadium",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/how-much-are-world-cup-final-tickets-2026/b70ccf9167aeac53d731b412"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Report: Rodrigo De Paul expected to return to Lionel Messi\u2019s Argentina starting XI for 2026 World Cup final against Spain",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/report-rodrigo-de-paul-expected-to-return-to-lionel-messis-argentina-starting-xi-for-2026-world-cup-final-against-spain/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026 3rd Place Play Off France Vs England 1080p HDTV H264-DARKSPORT",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://post.rlsbb.cc/fifa-world-cup-2026-3rd-place-play-off-france-vs-england-1080p-hdtv-h264-darksport/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "FIFA World Cup winner\u2019s ring explained: Design, estimated price, and who can buy it",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/fifa-world-cup-winners-ring-explained-design-estimated-price-and-who-can-buy-it/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "England beats France in instant classic to earn third place at 2026 FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxnews.com/sports/england-wins-thriller-ages-france-claim-third-2026-fifa-world-cup"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Mbappe overtakes Messi to become WC\u2019s leading goal-scorer",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.khabarhub.com/2026/19/559236/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "England beat France 6-4 to claim World Cup bronze",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.khabarhub.com/2026/19/559232/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Spain vs. Argentina odds, prediction, time: 2026 World Cup final picks by expert on 27-18 roll",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbssports.com/betting/news/spain-argentina-odds-prediction-time-2026-world-cup-final-picks/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Michael Olise outshines England with four chances created in World Cup third-place playoff",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/michael-olise-chances-created-england-world-cup/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-20T05:24:45.563012Z"
+  "lastUpdated": "2026-07-20T08:31:15.432651Z"
 }
