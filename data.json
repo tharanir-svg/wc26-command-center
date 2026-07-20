@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 31
+    "p3": 37
   },
   "watchlist": [
     {
@@ -131,12 +131,222 @@
   ],
   "risks": [
     {
+      "title": "WATCH: Countdown to 2026 FIFA World Cup Final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "In less than 24 hours, New Jersey's MetLife Stadium will host Spain and Argentina for the 2026 FIFA World Cup Final. It's the first match between the two countries in 60 years.",
+      "timestamp": "2026-07-20T01:18:44.056077Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://abcnews.com/video/134884586/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA toasts World Cup triumph as tournament draws to close",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup concluded as a triumph, overcoming initial concerns about high prices and geopolitical tensions. Thrilling football and a strong feel-good factor captivated fans across the United States, Mexico, and Canada. Despite fears, the expanded 48-t\u2026",
+      "timestamp": "2026-07-20T01:18:44.056165Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-toasts-world-cup-triumph-as-tournament-draws-to-close/articleshow/132488915.cms"
+        }
+      ]
+    },
+    {
+      "title": " After making history, Mbapp\u00e9 throws in the towel v Messi",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "In a completely crazy match, France lost to England 6-4 this Saturday (18) and had to settle for fourth place at the 2026 FIFA World Cup.+\u00a0 At least it was fun! The internet reacts to the madness...",
+      "timestamp": "2026-07-20T01:18:44.056198Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/after-making-history-mbappe-throws-in-the-towel-v-messi-43157009"
+        }
+      ]
+    },
+    {
+      "title": "Saka Shines as England Crushes France for Third Place",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Bukayo Saka earns a 9/10 rating after leading England to a thrilling 6-4 victory over France to secure third place at the 2026 World Cup.",
+      "timestamp": "2026-07-20T01:18:44.056224Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://easysportz.com/2026/07/saka-shines-as-england-crushes-france-for-third-place/"
+        }
+      ]
+    },
+    {
+      "title": "Yankees-Dodgers postponed just miles from World Cup final stadium on eve of Spain vs Argentina",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Weather conditions have had a significant impact on another major sporting event just hours before Sunday\u2019s FIFA World Cup 2026 final. Spain take on Argentina in East Rutherford, New Jersey in the biggest game soccer has to offer.",
+      "timestamp": "2026-07-20T01:18:44.056257Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/yankees-dodgers-postponed-just-miles-from-world-cup-final-stadium-on-eve-of-spain-vs-argentina/"
+        }
+      ]
+    },
+    {
+      "title": "Spain vs. Argentina live stream: How to watch FIFA World Cup final, odds, prediction, pick, lineups",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup final will take place on Sunday at MetLife Stadium with the biggest prize on the line",
+      "timestamp": "2026-07-20T01:18:44.056287Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/spain-argentina-world-cup-2026-preview-predictions-watch/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026: England survive France fightback and secure third place in World Cup goalfest",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "England achieved third place for the first time after a 6-4 win over France. Bukayo Saka scored a hat-trick in this high-scoring playoff match. Kylian Mbappe netted twice, setting new World Cup scoring records. The ten goals set a new record for a third-place\u2026",
+      "timestamp": "2026-07-20T01:18:44.056351Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-england-survive-france-fightback-and-secure-third-place-in-world-cup-goalfest/articleshow/132488816.cms"
+        }
+      ]
+    },
+    {
+      "title": "How much are World Cup final tickets 2026? Here are the most expensive, cheapest seats for MetLife Stadium",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The Sporting News looks at the price point for 2026 World Cup final tickets.",
+      "timestamp": "2026-07-20T01:18:44.056402Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/how-much-are-world-cup-final-tickets-2026/b70ccf9167aeac53d731b412"
+        }
+      ]
+    },
+    {
+      "title": "Report: Rodrigo De Paul expected to return to Lionel Messi\u2019s Argentina starting XI for 2026 World Cup final against Spain",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina face Spain in the 2026 World Cup final, and Rodrigo De Paul could return to the starting lineup alongside Lionel Messi. Lionel Messi will chase his second title when Argentina face Spain in the 2026 World Cup final on Sunday at New York New Jersey S\u2026",
+      "timestamp": "2026-07-20T01:18:44.056444Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/report-rodrigo-de-paul-expected-to-return-to-lionel-messis-argentina-starting-xi-for-2026-world-cup-final-against-spain/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026 3rd Place Play Off France Vs England 1080p HDTV H264-DARKSPORT",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Links: HOMEPAGE\u00a0\u2013 TV.comFIFA.World.Cup.2026.3rd.Place.Play.Off.France.Vs.England.1080p.HDTV.H264-DARKSPORTMKV | AC3 / dolby digital | 7.54GBNFO \u2013 Subtitles \u2013 Torrent \u2013 NiTROFLARE \u2013 RAPiDGATORSingle File RAR: RAPiDGATOR BackupFIFA.World.Cup.2026.Quarter.Final.\u2026",
+      "timestamp": "2026-07-20T01:18:44.056473Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://post.rlsbb.cc/fifa-world-cup-2026-3rd-place-play-off-france-vs-england-1080p-hdtv-h264-darksport/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup winner\u2019s ring explained: Design, estimated price, and who can buy it",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "A tradition may emerge as this is the first time that the winners get a ring. In the final match of the 2026 World Cup, the main award is the trophy every player dreams of lifting, but the winner of the match between Spain and Argentina should also receive a \u2026",
+      "timestamp": "2026-07-20T01:18:44.056551Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/fifa-world-cup-winners-ring-explained-design-estimated-price-and-who-can-buy-it/"
+        }
+      ]
+    },
+    {
+      "title": "England beats France in instant classic to earn third place at 2026 FIFA World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Bukayo Saka's hat trick and Kylian Mbappe's Golden Boot surge fueled a record-breaking World Cup bronze final between England and France in Miami.",
+      "timestamp": "2026-07-20T01:18:44.056583Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/sports/england-wins-thriller-ages-france-claim-third-2026-fifa-world-cup"
+        }
+      ]
+    },
+    {
+      "title": "Mbappe overtakes Messi to become WC\u2019s leading goal-scorer",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "MIAMI: France captain Kylian Mbappe created history by overtaking Lionel Messi to become the highest goalscorer in FIFA World Cup history. The French star scored twice in the second half, with his second goal coming while 24 minutes remained, during France\u2019s \u2026",
+      "timestamp": "2026-07-20T01:18:44.056622Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://english.khabarhub.com/2026/19/559236/"
+        }
+      ]
+    },
+    {
+      "title": "England beat France 6-4 to claim World Cup bronze",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "MIAMI: England secured the bronze medal in the FIFA World Cup 2026 after defeating France 6-4 in a breathtaking, record-breaking 10-goal thriller at the Miami Stadium. Notably, the defeat also spoiled Didier Deschamps\u2019 farewell, bringing the legendary coach\u2019s\u2026",
+      "timestamp": "2026-07-20T01:18:44.056675Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://english.khabarhub.com/2026/19/559232/"
+        }
+      ]
+    },
+    {
+      "title": "Spain vs. Argentina odds, prediction, time: 2026 World Cup final picks by expert on 27-18 roll",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "SportsLine's Jon Eimer reveals his Argentina vs. Spain best bets in the FIFA World Cup 2026 final on Sunday",
+      "timestamp": "2026-07-20T01:18:44.056751Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/betting/news/spain-argentina-odds-prediction-time-2026-world-cup-final-picks/"
+        }
+      ]
+    },
+    {
       "title": "Michael Olise outshines England with four chances created in World Cup third-place playoff",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Michael Olise created four chances against England at the 2026 World Cup third-place playoff, leading all players in the match and the tournament in\nThe post Michael Olise outshines England with four chances created in World Cup third-place playoff appeared f\u2026",
-      "timestamp": "2026-07-19T23:43:02.453518Z",
+      "timestamp": "2026-07-20T01:18:44.056830Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Declan Rice, Ezri Konsa and Jude Bellingham also scored goals in England\u2019s 6-4 victory in Florida on July 18",
-      "timestamp": "2026-07-19T23:43:02.453646Z",
+      "timestamp": "2026-07-20T01:18:44.056918Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Wildfires in Canada have taken affect in the United States. Will the FIFA World Cup between Spain and Argentina in New York be compromised?",
-      "timestamp": "2026-07-19T23:43:02.453670Z",
+      "timestamp": "2026-07-20T01:18:44.056937Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England beat France 6-4 in the 2026 FIFA World Cup third place play-off at the Miami Stadium on Saturday evening.Declan Rice gave England the lead inside the third minute. He intercepted Desire Doue\ufffd\ufffd...",
-      "timestamp": "2026-07-19T23:43:02.453735Z",
+      "timestamp": "2026-07-20T01:18:44.056997Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Polymarket vs Kalshi: Which Trading Platform to Use for the 2026 World Cup Final?",
-      "timestamp": "2026-07-19T23:43:02.453753Z",
+      "timestamp": "2026-07-20T01:18:44.057015Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England star Harry Kane did not play in the World Cup third-place match against France on Saturday, July 18 at Hard Rock Stadium.",
-      "timestamp": "2026-07-19T23:43:02.453792Z",
+      "timestamp": "2026-07-20T01:18:44.057051Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In Miami (USA), England beat France 6-4 this Saturday (18) and claimed third place at the 2026 FIFA World Cup.Highlights coming up shortly! Watch all the goals by clicking here!The match, which even r...",
-      "timestamp": "2026-07-19T23:43:02.453833Z",
+      "timestamp": "2026-07-20T01:18:44.057093Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Bukayo Saka scored a hat-trick as England beat France 5-3 in the World Cup 2026 third-place match, joining Geoff Hurst in the history books.\nThe post England defeats France 5-3 in World Cup thriller as Saka joins Geoff Hurst in history books appeared first on\u2026",
-      "timestamp": "2026-07-19T23:43:02.453897Z",
+      "timestamp": "2026-07-20T01:18:44.057133Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France's Kylian Mbapp\u00e9 has passed Lionel Messi for the most World Cup goals all-time in the second half vs. England at Hard Rock Stadium.",
-      "timestamp": "2026-07-19T23:43:02.454020Z",
+      "timestamp": "2026-07-20T01:18:44.057248Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France's Kylian Mbapp\u00e9 has passed Lionel Messi for the most World Cup goals all-time in the second half vs. England at Hard Rock Stadium.",
-      "timestamp": "2026-07-19T23:43:02.454039Z",
+      "timestamp": "2026-07-20T01:18:44.057264Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England assistant coach Anthony Berry tells BBC Sport how proud he is of his squad as they lead France 4-0 at half-time in the 2026 World Cup third-place play-off at the Miami Stadium.",
-      "timestamp": "2026-07-19T23:43:02.454164Z",
+      "timestamp": "2026-07-20T01:18:44.057387Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "As La Albiceleste prepare to face Spain at New Jersey's MetLife Stadium in Sunday's showpiece event, thousands of fans swarmed upon the Big Apple - despite flash floods in the city.",
-      "timestamp": "2026-07-19T23:43:02.454187Z",
+      "timestamp": "2026-07-20T01:18:44.057408Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's what's next for Ivory Coast's stars after their 2026 World Cup journey concluded.",
-      "timestamp": "2026-07-19T23:43:02.454206Z",
+      "timestamp": "2026-07-20T01:18:44.057426Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France star Kylian Mbappe has found the back of the net against England during the World Cup third-place match at Hard Rock Stadium in Miami Gardens.",
-      "timestamp": "2026-07-19T23:43:02.454236Z",
+      "timestamp": "2026-07-20T01:18:44.057455Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +542,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Both countries are one win away from soccer immortality. Here's everything you need to know before the biggest match of the 2026 World Cup.",
-      "timestamp": "2026-07-19T23:43:02.454268Z",
+      "timestamp": "2026-07-20T01:18:44.057487Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +556,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The pop singer, 32, initially came on stage wearing a NWO shirt but soon shed the garment to flaunt his chiseled and tattooed torso.",
-      "timestamp": "2026-07-19T23:43:02.454383Z",
+      "timestamp": "2026-07-20T01:18:44.057669Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +570,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Our CBS Sports staff predicts Sunday's huge final between Spain and Argentina",
-      "timestamp": "2026-07-19T23:43:02.454405Z",
+      "timestamp": "2026-07-20T01:18:44.057708Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +584,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament.",
-      "timestamp": "2026-07-19T23:43:02.454427Z",
+      "timestamp": "2026-07-20T01:18:44.057738Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +598,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "New York City and surrounding areas have been hit with severe thunderstorms ahead of the World Cup final. On Saturday, a flood watch was put in place as the city was hit with torrential rain.",
-      "timestamp": "2026-07-19T23:43:02.454468Z",
+      "timestamp": "2026-07-20T01:18:44.057800Z",
       "links": [
         {
           "label": "Source",
@@ -402,7 +612,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament.",
-      "timestamp": "2026-07-19T23:43:02.454487Z",
+      "timestamp": "2026-07-20T01:18:44.057830Z",
       "links": [
         {
           "label": "Source",
@@ -416,7 +626,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "England's Bukayo Saka scored against France during the World Cup third-place match at Hard Rock Stadium in Miami Gardens.",
-      "timestamp": "2026-07-19T23:43:02.454506Z",
+      "timestamp": "2026-07-20T01:18:44.057849Z",
       "links": [
         {
           "label": "Source",
@@ -430,144 +640,243 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Even the field for the World Cup final is for sale. FIFA, accused of charging high prices for this year's tournament in the United States, is selling the grass that will be used for the July 19 final at MetLife Stadium in New Jersey at $450 per piece , report\u2026",
-      "timestamp": "2026-07-19T23:43:02.454546Z",
+      "timestamp": "2026-07-20T01:18:44.057890Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.newser.com/story/393044/fifa-hawking-pieces-of-world-cup-final-field-for-450.html"
         }
       ]
-    },
-    {
-      "title": "Ezri Konsa scores World Cup goal for England vs. France in Miami",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England's Ezri Konsa has scored a header against France during the World Cup third-place match at Hard Rock Stadium in Miami Gardens.",
-      "timestamp": "2026-07-19T23:43:02.454599Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/07/18/ezri-konsa-world-cup-goal-today-header-england-france-miami/90968693007/"
-        }
-      ]
-    },
-    {
-      "title": "Why isn\u2019t Dayot Upamecano starting for France against England at the 2026 World Cup?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "France face England in a crucial 2026 World Cup match in search of third place, where Dayot Upamecano will begin the match on the bench. France face England in the third-place match of the 2026 World Cup at Miami Stadium, and Dayot Upamecano has been left out\u2026",
-      "timestamp": "2026-07-19T23:43:02.454669Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/why-isnt-dayot-upamecano-starting-for-france-against-england-at-the-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "Declan Rice scores early World Cup goal vs. France in Miami",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England's Declan Rice has found the back of the net against France during the World Cup third-place match at Hard Rock Stadium in Miami Gardens.",
-      "timestamp": "2026-07-19T23:43:02.454731Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/07/18/declan-rice-world-cup-goal-england-france-miami/90961558007/"
-        }
-      ]
-    },
-    {
-      "title": "Why isn\u2019t Jules Kounde starting for France against England at the 2026 World Cup?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "France face England in a crucial 2026 World Cup third-place match looking for the bronze, where Jules Kounde will begin the match on the bench. Jules Kounde won\u2019t be part of France\u2019s starting lineup for today\u2019s third-place match against England at Miami Stadi\u2026",
-      "timestamp": "2026-07-19T23:43:02.454817Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/why-isnt-jules-kounde-starting-for-france-against-england-at-the-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "Saka starts for England vs France after sitting out semi-final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Bukayo Saka has been handed a surprise start for England in the FIFA World Cup 2026 third-place play-off against France after not featuring at all in the semi-final defeat to Argentina.The Arsenal win...",
-      "timestamp": "2026-07-19T23:43:02.454865Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_92e138a8-015d-4fd0-a4c7-f193a55251e2"
-        }
-      ]
-    },
-    {
-      "title": "Why isn\u2019t Jordan Pickford starting for England against France at the 2026 World Cup?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "England face France in search of third place at the 2026 World Cup, where Jordan Pickford will begin the match on the bench for the first time during the tournament. England will look to win the 2026 World Cup third-place game against France at Miami Stadium,\u2026",
-      "timestamp": "2026-07-19T23:43:02.454899Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/why-isnt-jordan-pickford-starting-for-england-against-france-at-the-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "Biggest controversies of the 2026 World Cup, from FIFA policies to Folarin Balogun's red card",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup has been one filled with both excitement and controversy.",
-      "timestamp": "2026-07-19T23:43:02.455080Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/biggest-controversies-of-the-2026-world-cup-from-fifa-policies-to-folarin-baloguns-red-card-200859432.html"
-        }
-      ]
-    },
-    {
-      "title": "Who Has The Most To Gain (Or Lose) From The 2026 World Cup Final?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi and Lamine Yamal can both make history in the 2026 FIFA World Cup final, but they're not the only ones whose legacies stand to benefit from the match \u2014 far from it.",
-      "timestamp": "2026-07-19T23:43:02.455131Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/who-has-most-gain-or-lose-from-2026-world-cup-final"
-        }
-      ]
-    },
-    {
-      "title": "Why isn\u2019t Jude Bellingham starting for England against France at the 2026 World Cup?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Jude Bellingham is not starting for England against France in the 2026 FIFA World Cup third-place playoff because Thomas Tuchel has opted to rotate his squad following a demanding tournament rather than due to injury or disciplinary reasons. With England and \u2026",
-      "timestamp": "2026-07-19T23:43:02.455203Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/why-isnt-jude-bellingham-starting-for-england-against-france-at-the-2026-world-cup/"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "WATCH: Countdown to 2026 FIFA World Cup Final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://abcnews.com/video/134884586/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "FIFA toasts World Cup triumph as tournament draws to close",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-toasts-world-cup-triumph-as-tournament-draws-to-close/articleshow/132488915.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": " After making history, Mbapp\u00e9 throws in the towel v Messi",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/after-making-history-mbappe-throws-in-the-towel-v-messi-43157009"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Saka Shines as England Crushes France for Third Place",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://easysportz.com/2026/07/saka-shines-as-england-crushes-france-for-third-place/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Yankees-Dodgers postponed just miles from World Cup final stadium on eve of Spain vs Argentina",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/yankees-dodgers-postponed-just-miles-from-world-cup-final-stadium-on-eve-of-spain-vs-argentina/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "Spain vs. Argentina live stream: How to watch FIFA World Cup final, odds, prediction, pick, lineups",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/soccer/news/spain-argentina-world-cup-2026-preview-predictions-watch/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026: England survive France fightback and secure third place in World Cup goalfest",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-england-survive-france-fightback-and-secure-third-place-in-world-cup-goalfest/articleshow/132488816.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "How much are World Cup final tickets 2026? Here are the most expensive, cheapest seats for MetLife Stadium",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/how-much-are-world-cup-final-tickets-2026/b70ccf9167aeac53d731b412"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Report: Rodrigo De Paul expected to return to Lionel Messi\u2019s Argentina starting XI for 2026 World Cup final against Spain",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/report-rodrigo-de-paul-expected-to-return-to-lionel-messis-argentina-starting-xi-for-2026-world-cup-final-against-spain/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026 3rd Place Play Off France Vs England 1080p HDTV H264-DARKSPORT",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://post.rlsbb.cc/fifa-world-cup-2026-3rd-place-play-off-france-vs-england-1080p-hdtv-h264-darksport/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "FIFA World Cup winner\u2019s ring explained: Design, estimated price, and who can buy it",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/fifa-world-cup-winners-ring-explained-design-estimated-price-and-who-can-buy-it/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "England beats France in instant classic to earn third place at 2026 FIFA World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/sports/england-wins-thriller-ages-france-claim-third-2026-fifa-world-cup"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Mbappe overtakes Messi to become WC\u2019s leading goal-scorer",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://english.khabarhub.com/2026/19/559236/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "England beat France 6-4 to claim World Cup bronze",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://english.khabarhub.com/2026/19/559232/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Spain vs. Argentina odds, prediction, time: 2026 World Cup final picks by expert on 27-18 roll",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbssports.com/betting/news/spain-argentina-odds-prediction-time-2026-world-cup-final-picks/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
       "loc": "Global",
       "event": "Michael Olise outshines England with four chances created in World Cup third-place playoff",
       "type": "News",
@@ -582,7 +891,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "Global",
       "event": "England\u2019s Bukayo Saka Scores Hat Trick in Win Over France for 3rd Place Finish at 2026 World Cup",
       "type": "News",
@@ -597,7 +906,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "Global",
       "event": "Will air quality in New York affect the FIFA World Cup final?",
       "type": "News",
@@ -612,7 +921,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "Global",
       "event": "France 4-6 England: Saka outshines record-breaking Mbappe in thrilling third-place play-off",
       "type": "News",
@@ -627,7 +936,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "Global",
       "event": "Polymarket vs Kalshi: Which Trading Platform to Use for the 2026 World Cup Final",
       "type": "News",
@@ -642,7 +951,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "Miami",
       "event": "Harry Kane doesn't play in wild World Cup third-place match vs. France",
       "type": "News",
@@ -657,7 +966,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "Global",
       "event": " In a mad match, England beat France to claim 3rd place in the Cup",
       "type": "News",
@@ -672,7 +981,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "Global",
       "event": "England defeats France 5-3 in World Cup thriller as Saka joins Geoff Hurst in history books",
       "type": "News",
@@ -687,7 +996,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "Miami",
       "event": "Kylian Mbapp\u00e9 passes Lionel Messi for World Cup all-time goals lead",
       "type": "News",
@@ -702,7 +1011,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "Miami",
       "event": "Kylian Mbapp\u00e9 passes Lionel Messi for World Cup all-time goals lead",
       "type": "News",
@@ -717,7 +1026,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "Global",
       "event": "Emotional Barry praises 'heartbroken' England players",
       "type": "News",
@@ -732,7 +1041,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "New York / New Jersey",
       "event": "Argentina fans spark wild World Cup scenes in New York as thousands take over Times Square - despite flash floods",
       "type": "News",
@@ -747,7 +1056,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "Global",
       "event": "Where To Find Ivory Coast's Stars After The 2026 World Cup",
       "type": "News",
@@ -762,7 +1071,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "Miami",
       "event": "Kylian Mbappe scores goal vs. England, leads Messi for Golden Boot",
       "type": "News",
@@ -777,7 +1086,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "Global",
       "event": "Spain vs. Argentina: A Guide To The 2026 World Cup Final",
       "type": "News",
@@ -792,7 +1101,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "Global",
       "event": "Justin Bieber bares muscled shirtless physique onstage ONE DAY before he plays FIFA World Cup final with Madonna and Shakira",
       "type": "News",
@@ -807,7 +1116,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "Global",
       "event": "2026 World Cup final predictions, expert picks: Will Lionel Messi and Argentina crack Spain's elite defense?",
       "type": "News",
@@ -822,7 +1131,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "Global",
       "event": "Hydration breaks not popular and Fifa will review - Wenger",
       "type": "News",
@@ -837,7 +1146,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "Global",
       "event": "FIFA World Cup final weather report as torrential rain floods streets of New York",
       "type": "News",
@@ -852,7 +1161,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "Global",
       "event": "Fifa to review 'unpopular' hydration breaks - Wenger",
       "type": "News",
@@ -867,7 +1176,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "Miami",
       "event": "Bukayo Saka scores World Cup goal for England vs. France in Miami",
       "type": "News",
@@ -882,7 +1191,7 @@
       ]
     },
     {
-      "date": "Jul 19",
+      "date": "Jul 20",
       "loc": "New York / New Jersey",
       "event": "FIFA Hawking Pieces of World Cup Final Field for $450",
       "type": "News",
@@ -895,142 +1204,7 @@
           "url": "https://www.newser.com/story/393044/fifa-hawking-pieces-of-world-cup-final-field-for-450.html"
         }
       ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Miami",
-      "event": "Ezri Konsa scores World Cup goal for England vs. France in Miami",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/07/18/ezri-konsa-world-cup-goal-today-header-england-france-miami/90968693007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "Why isn\u2019t Dayot Upamecano starting for France against England at the 2026 World Cup?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/why-isnt-dayot-upamecano-starting-for-france-against-england-at-the-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Miami",
-      "event": "Declan Rice scores early World Cup goal vs. France in Miami",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/07/18/declan-rice-world-cup-goal-england-france-miami/90961558007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "Why isn\u2019t Jules Kounde starting for France against England at the 2026 World Cup?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/why-isnt-jules-kounde-starting-for-france-against-england-at-the-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "Saka starts for England vs France after sitting out semi-final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_92e138a8-015d-4fd0-a4c7-f193a55251e2"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "Why isn\u2019t Jordan Pickford starting for England against France at the 2026 World Cup?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/why-isnt-jordan-pickford-starting-for-england-against-france-at-the-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "Biggest controversies of the 2026 World Cup, from FIFA policies to Folarin Balogun's red card",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/biggest-controversies-of-the-2026-world-cup-from-fifa-policies-to-folarin-baloguns-red-card-200859432.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "Who Has The Most To Gain (Or Lose) From The 2026 World Cup Final?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/who-has-most-gain-or-lose-from-2026-world-cup-final"
-        }
-      ]
-    },
-    {
-      "date": "Jul 19",
-      "loc": "Global",
-      "event": "Why isn\u2019t Jude Bellingham starting for England against France at the 2026 World Cup?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/why-isnt-jude-bellingham-starting-for-england-against-france-at-the-2026-world-cup/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-19T23:43:02.455389Z"
+  "lastUpdated": "2026-07-20T01:18:44.058005Z"
 }
