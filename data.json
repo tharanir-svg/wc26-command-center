@@ -5,8 +5,8 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 3,
-    "p2": 3,
+    "p1": 1,
+    "p2": 0,
     "p3": 38
   },
   "watchlist": [
@@ -131,12 +131,362 @@
   ],
   "risks": [
     {
+      "title": "Soccer Fans Couldn't Let Trump Escape Boos During The 2026 World Cup Final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The record-breaking tournament was still inflicted with several scandals, courtesy of the U.S. president\u2019s policies.",
+      "timestamp": "2026-07-20T21:54:56.679413Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.huffpost.com/entry/soccer-fans-trump-booed-2026-world-cup-final_n_6a5d3244e4b0ab7565177bf7"
+        }
+      ]
+    },
+    {
+      "title": "When and where is the next World Cup as 2026 edition comes to an end",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "For many fans who just watched the 2026 World Cup final, this is a sad time. The tournament that has captivated the world for the last five weeks will be missed.",
+      "timestamp": "2026-07-20T21:54:56.679491Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/when-and-where-is-the-next-world-cup-as-2026-edition-comes-to-an-end/"
+        }
+      ]
+    },
+    {
+      "title": "Watch Madonna, the Muppets, and More Perform at 2026 World Cup Final Halftime",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 11-minute spectacle included performances by Shakira, Justin Bieber, BTS, Burna Boy, and Coldplay\u2019s Chris Martin",
+      "timestamp": "2026-07-20T21:54:56.679574Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://pitchfork.com/story/watch-madonna-the-muppets-and-more-perform-at-2026-world-cup-final-halftime/"
+        }
+      ]
+    },
+    {
+      "title": "Didier Deschamps on France exit and impact of \u2018stifling\u2019 atmosphere after disappointing World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Didier Deschamps has opened up on what drove him to leave his position as the head coach of the French national team after 14 years in charge, during which he reached two FIFA World Cup Finals",
+      "timestamp": "2026-07-20T21:54:56.679617Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/deschamps-france-exit-world-cup-1945680"
+        }
+      ]
+    },
+    {
+      "title": "BREAKING: Spain beat Argentina 1-0 to win 2026 FIFA World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain defeats Argentina 1-0 in extra time to win the 2026 FIFA World Cup. Ferran Torres scores the decisive goal, securing Spain\u2019s second World Cup title.\n\nRead More: https://punchng.com/breaking-spain-beat-argentina-1-0-to-win-2026-fifa-world-cup/",
+      "timestamp": "2026-07-20T21:54:56.679658Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/breaking-spain-beat-argentina-1-0-to-win-2026-fifa-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "Total record-breaking attendance numbers revealed for 2026 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup broke the record for attendance back in group play. FIFA released the total numbers from the tournament during the final on Sunday.",
+      "timestamp": "2026-07-20T21:54:56.679680Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/19/total-attendance-2026-world-cup-united-states-canada-mexico/90976518007/"
+        }
+      ]
+    },
+    {
+      "title": "Spain\u2019s World Cup goal disallowed after Merino foul on Otamendi changes the game",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain's 2026 World Cup goal was disallowed after Mikel Merino fouled Nicols Otamendi, reigniting debates over officiating in high-stakes knockout football.\nThe post Spain\u2019s World Cup goal disallowed after Merino foul on Otamendi changes the game appeared firs\u2026",
+      "timestamp": "2026-07-20T21:54:56.679713Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cryptobriefing.com/spain-goal-disallowed-merino-foul-otamendi-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "Wayne Rooney on FIFA World Cup final halftime show: \u2018I thought it was crap\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup final on Sunday afternoon at MetLife Stadium in East Rutherford, New Jersey, featured the first-ever halftime show in the tournament\u2019s history. After Spain and Argentina played a scoreless first half in the World Cup final, a star-stud\u2026",
+      "timestamp": "2026-07-20T21:54:56.679751Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://awfulannouncing.com/soccer/wayne-rooney-fifa-world-cup-halftime-show-was-crap.html"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup Halftime Show Breakdown And Easter Eggs",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The World Cup Final Halftime Show was performed by BTS, Shakira, Madonna, Justin Bieber and more. We broke down the performance with Easter Eggs shown!",
+      "timestamp": "2026-07-20T21:54:56.679771Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/laurasirikul/2026/07/19/fifa-world-cup-halftime-show-breakdown-and-easter-eggs/"
+        }
+      ]
+    },
+    {
+      "title": "Watch: BTS Performs At 1st-Ever FIFA World Cup Halftime Show",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "BTS lit up the historic FIFA World Cup 2026 halftime show like \u201cDynamite\u201d! On July 19 local time, BTS co-headlined the first-ever World Cup halftime show alongside Shakira, Justin Bieber, and Madonna at MetLife Stadium. Not long after Madonna opened the show \u2026",
+      "timestamp": "2026-07-20T21:54:56.679808Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.soompi.com/article/1855829wpp/watch-bts-performs-at-1st-ever-fifa-world-cup-halftime-show"
+        }
+      ]
+    },
+    {
+      "title": "The FIFA World Cup: Private Jet Pollution Spikes",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "As fans gather for the FIFA World Cup final match, pitting Spain against defending champion Argentina, New York City has been engulfed in a shroud of wildfire smoke. At the same time, thousands of wealthy fans are arriving in luxury private jets, the most car\u2026",
+      "timestamp": "2026-07-20T21:54:56.679871Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.commondreams.org/opinion/fifa-world-cup-private-jet"
+        }
+      ]
+    },
+    {
+      "title": "Argentina, Spain head to extra time",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina and Spain are locked in a tight battle in their 2026 FIFA World Cup final clash in New Jersey. Spain looked more convincing throughout the encounter, yet the reigning champions are holding o...",
+      "timestamp": "2026-07-20T21:54:56.679918Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/697f46b1e75470c8"
+        }
+      ]
+    },
+    {
+      "title": "Tom Cruise Delivers a Unifying Opening Speech for the Final Game of the 2026 FIFA World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Tom Cruise Delivers a Unifying Opening Speech for the Final Game of the 2026 FIFA World Cupredstate.com",
+      "timestamp": "2026-07-20T21:54:56.679937Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://redstate.com/jenniferoo/2026/07/19/tom-cruise-delivers-a-unifying-opening-speech-for-the-final-game-of-the-2026-fifa-world-cup-n2204507"
+        }
+      ]
+    },
+    {
+      "title": "How Vancouver crowd reacted to Donald Trump appearing on coverage of World Cup final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Donald Trump watched on as Spain and Argentina faced off at the 2026 World Cup final in North America. The United States President was spotted alongside FIFA President Gianni Infantino to watch the action.",
+      "timestamp": "2026-07-20T21:54:56.680002Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/how-vancouver-crowd-reacted-to-donald-trump-appearing-on-coverage-of-world-cup-final/"
+        }
+      ]
+    },
+    {
+      "title": "Ian Wright hits out at 'ridiculous and poor' World Cup final pitch at the MetLife Stadium - and that was BEFORE extravagant half-time show featuring Justin Bieber and Shakira",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The pitch in New Jersey has come in for criticism throughout this summer's tournament, and once again appeared dry and patchy as Spain took on Argentina on Sunday night.",
+      "timestamp": "2026-07-20T21:54:56.680026Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15989167/Ian-Wright-hits-ridiculous-poor-World-Cup-final-pitch-MetLife-Stadium-extravagant-half-time-featuring-Justin-Bieber-Shakira.html"
+        }
+      ]
+    },
+    {
+      "title": "BTS, Justin Bieber & More Perform at 2026 World Cup Halftime Show",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The inaugural World Cup halftime performance was smooth like butter.\u00a0\nThat\u2019s because\u00a0BTS,\u00a0Justin Bieber,\u00a0Shakira and\u00a0Madonna were there to take center stage. Indeed, the co-headliners brought...",
+      "timestamp": "2026-07-20T21:54:56.680076Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.eonline.com/news/1433750/justin-bieber-bts-shakira-perform-at-world-cup-2026-halftime-show"
+        }
+      ]
+    },
+    {
+      "title": "Wayne Rooney savages controversial World Cup final halftime show and says 'the best part was when it ended' while Liam Gallagher says it was like a 'bad trip'",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Wayne Rooney led an army of British fans and celebrities savaging the controversial World Cup final halftime show at the MetLife Stadium in New Jersey\u00a0on Sunday night.",
+      "timestamp": "2026-07-20T21:54:56.680107Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/tvshowbiz/article-15989155/Wayne-Rooney-savages-controversial-World-Cup-final-halftime-British-fans.html"
+        }
+      ]
+    },
+    {
+      "title": "Coldplay's 'We Dance' Closes 2026 World Cup Halftime Show",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "What was the last song performed during the 2026 FIFA World Cup Halftime Show? It was the live premiere of \"We Dance,\" an original song by Coldplay.",
+      "timestamp": "2026-07-20T21:54:56.680126Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.billboard.com/music/music-news/world-cup-halftime-final-song-we-dance-coldplay-muppets-1236297643/"
+        }
+      ]
+    },
+    {
+      "title": "Joe Burrow attends FIFA World Cup final during New York City visit",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Bengals starting quarterback Joe Burrow attended the FIFA World Cup final match between Argentina and Spain in East Rutherford, New Jersey.",
+      "timestamp": "2026-07-20T21:54:56.680166Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cincinnati.com/story/sports/nfl/bengals/2026/07/19/joe-burrow-attends-fifa-world-cup-final/90976253007/"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Cup Halftime Show Recap: Shakira, Madonna, Bieber & BTS",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Recap the 2026 World Cup final halftime show with Shakira, Madonna, BTS, Justin Bieber, Burna Boy, Gustavo Dudamel and more.",
+      "timestamp": "2026-07-20T21:54:56.680186Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.billboard.com/lists/2026-world-cup-halftime-show-shakira-madonna-bieber-bts/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup commentator goes viral after making embarrassing on-air mistake trying to identify A-lister",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The cringeworthy moment occurred during Sunday's showdown between Spain and Argentina at MetLife Stadium - and was quickly picked up on by viewers watching the coverage at home.",
+      "timestamp": "2026-07-20T21:54:56.680226Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15989157/world-cup-guy-mowbray-pharrell-williams-mistake-metlife.html"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Cup Halftime Show: The Muppets, Ted Lasso, and more",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Madonna, BTS, Shakira, and Justin Bieber had some tricks up their sleeves...",
+      "timestamp": "2026-07-20T21:54:56.680243Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://pagesix.com/2026/07/19/photos/2026-world-cup-halftime-show-the-muppets-ted-lasso-and-more/"
+        }
+      ]
+    },
+    {
+      "title": "First World Cup halftime show draws mixed reactions for Shakira, Justin Bieber, BTS, Madonna performances",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Madonna, BTS, Justin Bieber, Shakira, and Burna Boy all headlined the first-ever FIFA World Cup Final halftime show, curated by Chris Martin",
+      "timestamp": "2026-07-20T21:54:56.680293Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/outkick-sports/first-world-cup-halftime-show-draws-mixed-reactions-shakira-justin-bieber-bts-madonna-performances"
+        }
+      ]
+    },
+    {
+      "title": "2026 FIFA World Cup unmissable moments in photos",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Follow along for all of the best moments of the 2026 FIFA World Cup final between Spain and Argentina and its debut halftime show",
+      "timestamp": "2026-07-20T21:54:56.680354Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hellomagazine.com/us/913678/2026-fifa-world-cup-final-photo-updates/"
+        }
+      ]
+    },
+    {
+      "title": "Kylie Jenner and Timoth\u00e9e Chalamet kiss for the cameras during World Cup Final 2026 date",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The couple attended the star-studded game at MetLife Stadium in East Rutherford, New Jersey, Sunday.",
+      "timestamp": "2026-07-20T21:54:56.680428Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://pagesix.com/2026/07/19/celebrity-news/kylie-jenner-and-timothee-chalamet-kiss-for-the-cameras-during-world-cup-final-2026-date/"
+        }
+      ]
+    },
+    {
       "title": "2026 World Cup Halftime Show full video & highlights",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Re-live the first-ever 2026 FIFA World Cup Halftime Show with performances from Justin Bieber, Madonna, Shakira and Burna Boy, and BTS.",
-      "timestamp": "2026-07-20T20:56:37.877008Z",
+      "timestamp": "2026-07-20T21:54:56.680543Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "BTS brought their explosive energy to the 2026 FIFA World Cup final halftime show on Sunday for a dynamic performance of their smash hit \"Dynamite.\"",
-      "timestamp": "2026-07-20T20:56:37.877151Z",
+      "timestamp": "2026-07-20T21:54:56.680646Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "How was the first FIFA World Cup halftime show perceived by fans? Here's a snippet of reactions to it from those on social media.",
-      "timestamp": "2026-07-20T20:56:37.877203Z",
+      "timestamp": "2026-07-20T21:54:56.680690Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +528,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "There were no goals in the 2026 FIFA World Cup final clash between Argentina and Spain at half-time, with La Roja showing a more convincing attacking game, but being unable to score.Argentina's centre...",
-      "timestamp": "2026-07-20T20:56:37.877225Z",
+      "timestamp": "2026-07-20T21:54:56.680711Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +542,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Justin Bieber, Madonna, BTS and Shakira deliver flawless World Cup 2026 final halftime performancepagesix.com",
-      "timestamp": "2026-07-20T20:56:37.877257Z",
+      "timestamp": "2026-07-20T21:54:56.680740Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +556,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In a colorful, historic halftime World Cup show, KPop sensations BTS stormed the stage, bringing a classic track to more than 80,000 fans in a packed Metlife Stadium.",
-      "timestamp": "2026-07-20T20:56:37.877276Z",
+      "timestamp": "2026-07-20T21:54:56.680757Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +570,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's a look at who made special appearances at MetLife Stadium during the halftime show.",
-      "timestamp": "2026-07-20T20:56:37.877296Z",
+      "timestamp": "2026-07-20T21:54:56.680773Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +584,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Madonna, BTS, Justin Bieber and Shakira all got two minutes or less of screen time each in the FIFA World Cup Final's very crowded halftime show.",
-      "timestamp": "2026-07-20T20:56:37.877345Z",
+      "timestamp": "2026-07-20T21:54:56.680817Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +598,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The first-ever FIFA World Cup Final halftime show featured Madonna, Shakira, BTS, Justin Bieber and his guitar, the Muppets, and so much more\nThe 2026 FIFA Halftime Show Was a Spectacular, Chaotic Mess\nPaolo Ragusa and Alex Young",
-      "timestamp": "2026-07-20T20:56:37.877372Z",
+      "timestamp": "2026-07-20T21:54:56.680839Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +612,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Who was the least-expected performer at the FIFA World Cup Final Halftime Show: Ted Lasso or Miss Piggy? Other, more understandable acts included BTS, Justin Bieber, and Coldplay.",
-      "timestamp": "2026-07-20T20:56:37.877397Z",
+      "timestamp": "2026-07-20T21:54:56.680862Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +626,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup delivered unforgettable drama, but its biggest talking points came from VAR reviews, controversial red cards, overturned goals and disputed penalties. Here are the 10 moments that sparked worldwide debate.",
-      "timestamp": "2026-07-20T20:56:37.877429Z",
+      "timestamp": "2026-07-20T21:54:56.680890Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +640,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Links: HOMEPAGE\u00a0\u2013 TV.comFIFA.World.Cup.2026.Final.Halftime.Show.1080p.HDTV.H264-DARKFLiXMKV | AC3 / dolby digital | 652MBNFO - Subtitles \u2013 Torrent \u2013 NiTROFLARE \u2013 RAPiDGATORSingle File RAR: RAPiDGATOR Backup",
-      "timestamp": "2026-07-20T20:56:37.877456Z",
+      "timestamp": "2026-07-20T21:54:56.680916Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +654,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The halftime show for the 2026 FIFA World Cup final featured a star-studded lineup to celebrate the end of the soccer tournament. Although the score at halftime for the match between Spain and Argentina was 0-0, things were more exciting on the pitch when Mad\u2026",
-      "timestamp": "2026-07-20T20:56:37.877505Z",
+      "timestamp": "2026-07-20T21:54:56.680961Z",
       "links": [
         {
           "label": "Source",
@@ -318,436 +668,391 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Nigerian Afrobeats star Burna Boy and Colombian singer Shakira delivered a live performance of Dai Dai, the official song of the 2026 FIFA World Cup, during the tournament's historic first-ever half-time show at the final between Argentina and Spain on Sunday\u2026",
-      "timestamp": "2026-07-20T20:56:37.877630Z",
+      "timestamp": "2026-07-20T21:54:56.681104Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.vanguardngr.com/2026/07/video-burna-boy-shakira-perform-dai-dai-at-world-cup-half-time-show/"
         }
       ]
-    },
-    {
-      "title": "2026 World Cup Halftime Show setlist, full list of songs performed",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Justin Bieber, Madonna, Shakira and Burna Boy, and BTS performed some of their biggest hits during the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-20T20:56:37.877719Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/2026-fifa-world-cup-halftime-show-setlist-full-list-songs-performed/"
-        }
-      ]
-    },
-    {
-      "title": "When Is The Next World Cup?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "What to know about the next women's and men's FIFA World Cups.",
-      "timestamp": "2026-07-20T20:56:37.877734Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/when-next-world-cup"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi Reflects on Taking \u2018Crazy\u2019 Photo With Baby Lamine Yamal: \u2018That\u2019s Life, Right?\u2019",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentinian soccer legend Lionel Messi and Spanish football star Lamine Yamal are currently facing off in the FIFA World Cup 2026 Final in East Rutherford, New Jersey \u2014 and a photo taken of the pair 19 years ago is going viral. Back in 2007, Yamal\u2019s parents w\u2026",
-      "timestamp": "2026-07-20T20:56:37.877769Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://globemagazine.com/lionel-messi-reflects-on-taking-crazy-photo-with-baby-lamine-yamal-thats-life-right/"
-        }
-      ]
-    },
-    {
-      "title": "Video: Ronaldo and Ronaldinho chauffeur Madonna in 2026 World Cup Final show",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Former Serie A players Ronaldo and Ronaldinho, the latter back in Italian football when signing for Ravenna, drove Madonna onto the pitch for the 2026 World Cup Final half-time show.",
-      "timestamp": "2026-07-20T20:56:37.877822Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://football-italia.net/ronaldo-ronaldinho-madonna-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup final halftime show: Madonna, 67, steals the show as she unites with soccer legends at stadium",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Madonna and Justin Bieber stormed the stage as they headlined the controversial first-ever FIFA halftime show during the 2026 World Cup Final on Sunday.",
-      "timestamp": "2026-07-20T20:56:37.877848Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15989089/World-Cup-final-halftime-madonna-justin-bieber-reaction.html"
-        }
-      ]
-    },
-    {
-      "title": "How to Watch the 2026 FIFA World Cup Final Live Without Cable (Even for Free)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The World Cup is wrapping up today with Spain vs. Argentina in the big finale. Who will be crowned the ultimate champion? And who will take home the Golden Boot? Here's how to tune in live.\nHow to watch for free: Today's World Cup final will air for free on g\u2026",
-      "timestamp": "2026-07-20T20:56:37.877923Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/161984/how-to-watch-2026-fifa-world-cup-final-live-for-free-today"
-        }
-      ]
-    },
-    {
-      "title": "Tom Cruise and Half of Hollywood Lit Up the 2026 World Cup Final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup has smashed ratings records in the U.S. and around the world, owing to its unique mix of star power \u2014 Lionel Messi, Cristiano Ronaldo and Neymar performing in perhaps their final World Cup matches, joined by younger stars Kylian Mbappe\u2026",
-      "timestamp": "2026-07-20T20:56:37.877967Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://variety.com/2026/sports/news/tom-cruise-2026-world-cup-final-hollywood-jason-sudeikis-justin-bieber-1236816132/"
-        }
-      ]
-    },
-    {
-      "title": "No goals at half-time in Argentina, Spain final clash",
-      "risk": "high",
-      "severityText": "P1 CRITICAL",
-      "status": "VERIFIED",
-      "description": "There were no goals in the 2026 FIFA World Cup final clash between Argentina and Spain at halftime, with La Roja showing a more convincing attacking game, but being unable to score.Argentina's centre-...",
-      "timestamp": "2026-07-20T20:56:37.877989Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/bcf937fb4859a8c0"
-        }
-      ]
-    },
-    {
-      "title": "How to Watch the Spain vs. Argentina FIFA World Cup Final Live for Free",
-      "risk": "high",
-      "severityText": "P1 CRITICAL",
-      "status": "VERIFIED",
-      "description": "Spain are the tournament's best defensive side, while Argentina are the most attacking. This battle is one for the ages, and here's how you can watch it live for free using a VPN.\nHow to watch for free: Today's World Cup final will air for free on global chan\u2026",
-      "timestamp": "2026-07-20T20:56:37.878087Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/166220/how-to-watch-spain-vs-argentina-fifa-world-cup-final-live-for-free-today"
-        }
-      ]
-    },
-    {
-      "title": "World Cup fans reveal the VERY specific reason they can't enjoy blockbuster final showdown between Spain and Argentina",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Furious soccer fans rushed to social media to reveal the reason they couldn't fully enjoy Sunday's World Cup final showdown between Spain and Argentina at MetLife Stadium.",
-      "timestamp": "2026-07-20T20:56:37.878110Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15989091/spain-argentina-world-cup-final-metlife.html"
-        }
-      ]
-    },
-    {
-      "title": "VIDEO: IShowSpeed performs \u2018Champions\u2019 at World Cup final closing ceremony",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Watch IShowSpeed perform his hit song \u2018Champions\u2019 live at the 2026 FIFA World Cup final closing ceremony in New York. A major career milestone for the stre\n\nRead More: https://punchng.com/video-ishowspeed-performs-champions-at-world-cup-final-closing-ceremony/",
-      "timestamp": "2026-07-20T20:56:37.878142Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/video-ishowspeed-performs-champions-at-world-cup-final-closing-ceremony/"
-        }
-      ]
-    },
-    {
-      "title": "\u2018Wow\u2019 \u2013 Fans react to Jennifer Hudson\u2019s USA national anthem performance at World Cup final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Pre-match preparations for the 2026 World Cup final in New Jersey were full of pomp and ceremony, as one might expect. The World Cup final is a showpiece event as it is.",
-      "timestamp": "2026-07-20T20:56:37.878172Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/wow-fans-react-to-jennifer-hudsons-usa-national-anthem-performance-at-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "title": "Brooklyn Beckham watches the World Cup final from his sofa at home as his entire family support from the MetLife Stadium - after savage Door Dash ad",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Brooklyn Beckham watched the World Cup final from his sofa at home on Sunday - while his entire family once again reunited at the MetLife Stadium to watch the match.",
-      "timestamp": "2026-07-20T20:56:37.878209Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/tvshowbiz/article-15989111/Brooklyn-Beckham-watches-World-Cup-final-sofa-family-support-MetLife-Stadium-savage-Door-Dash-ad.html"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi Becomes Second-Ever Player To Appear In 3 Men's World Cup Finals",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi made FIFA World Cup history by simply stepping on the pitch on Sunday at New York New Jersey Stadium.",
-      "timestamp": "2026-07-20T20:56:37.878241Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/lionel-messi-becomes-second-ever-player-appear-3-mens-world-cup-finals"
-        }
-      ]
-    },
-    {
-      "title": "Zlatan Ibrahimovi\u0107's 'King Of The Jungle' Has A New No. 1 Ahead Of World Cup Final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Zlatan Ibrahimovi\u0107 gave his 2026 World Cup final King Of The Jungle rankings, and there's a new player on top.",
-      "timestamp": "2026-07-20T20:56:37.878271Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/zlatan-ibrahimovics-king-jungle-messi-yamal-mbappe"
-        }
-      ]
-    },
-    {
-      "title": "Soccer lover Barron Trump makes rare appearance next to his father as he towers over stadium of packed World Cup final fans",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "President Donald Trump's youngest son, Barron, was spotted alongside his parents at MetLife Stadium in East Rutherford, New Jersey, just before halftime of the final game of the World Cup tournament between Spain and Argentina.",
-      "timestamp": "2026-07-20T20:56:37.878310Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15985875/barron-trump-soccer-lover-world-cup.html"
-        }
-      ]
-    },
-    {
-      "title": "Soccer lover Barron Trump makes rare appearance next to his father as he towers over stadium of packed World Cup final fans",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "President Donald Trump's youngest son, Barron, was spotted alongside his parents at MetLife Stadium in East Rutherford, New Jersey, just before halftime of the final game of the World Cup tournament between Spain and Argentina.",
-      "timestamp": "2026-07-20T20:56:37.878325Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15985875/barron-trump-soccer-lover-world-cup.html"
-        }
-      ]
-    },
-    {
-      "title": "2026 World Cup Final: Argentina vs Spain - Live Thread",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "**2026 World Cup Final: Argentina vs Spain \u2013 Preview & Key Notes** Defending champions **Argentina** face off against **Spain** today (July 19) in the 2026 FIFA World Cup Final at MetLife Stadium in New Jersey (3:00 PM ET kickoff). ### Quick Breakdown: - **Ar\u2026",
-      "timestamp": "2026-07-20T20:56:37.878349Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://freerepublic.com/focus/f-news/4388589/posts"
-        }
-      ]
-    },
-    {
-      "title": "Trump visit causes logistical delays ahead of World Cup final",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "EAST RUTHERFORD, New Jersey: Fans, media members and employees faced lengthy lines to enter New York New Jersey Stadium ahead of Sunday's (Jul 19) FIFA World Cup final between Spain and Argentina, which was ex",
-      "timestamp": "2026-07-20T20:56:37.878384Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.channelnewsasia.com/world/trump-visit-causes-logistical-delays-ahead-world-cup-final-6264056"
-        }
-      ]
-    },
-    {
-      "title": "Trump\u2019s World Cup final appearance causes hours-long delays and puts $TRUMP coin in the spotlight",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "Trump's World Cup final attendance caused hours-long security delays at MetLife Stadium while $TRUMP meme coin promotions offered VIP access to top holders.\nThe post Trump\u2019s World Cup final appearance causes hours-long delays and puts $TRUMP coin in the spotl\u2026",
-      "timestamp": "2026-07-20T20:56:37.878417Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/trump-world-cup-delays-trump-coin/"
-        }
-      ]
-    },
-    {
-      "title": "Messi, Spain divide fan interest at 2026 World Cup final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Fans from many nations supported Lionel Messi in the 2026 FIFA World Cup final on July 19 at MetLife Stadium. But not all cheered for Argentina.",
-      "timestamp": "2026-07-20T20:56:37.878463Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/19/spain-fans-argentina-world-cup-final-metlife-stadium-nj/90968626007/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026 Final In Photos: Closing Ceremony, Halftime Show, Donald Trump & More",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup final is here, with Spain and Argentina the last two teams standing in the soccer tournament. For the grand finale, the closing ceremony featured Jennifer Hudson performing the U.S. National Anthem at the New York/New Jersey Stadium in\u2026",
-      "timestamp": "2026-07-20T20:56:37.878495Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://deadline.com/gallery/fifa-world-cup-2026-final-photos-halftime-show-donald-trump/"
-        }
-      ]
-    },
-    {
-      "title": "Spain striker says if he\u2019ll shake USA President Donald Trump\u2019s hand at World Cup final",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup kicked off on Sunday, July 19, capping off an entertaining summer of soccer across North America. This year\u2019s final was held at the New York New Jersey Stadium and saw two of the world\u2019s elite, Spain and Argentina, facing off.",
-      "timestamp": "2026-07-20T20:56:37.878524Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/spain-striker-says-if-hell-shake-usa-president-donald-trumps-hand-at-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026: Why companies spend big on the tournament",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The expanded 2026 FIFA World Cup, featuring 48 teams and 104 matches across the United States, Canada and Mexico, is expected to deliver a significant economic boost. The tournament serves a combined host market of over 500 million people and is projected to \u2026",
-      "timestamp": "2026-07-20T20:56:37.878581Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-why-companies-spend-big-on-the-tournament/articleshow/132501157.cms"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026 Halftime Show: USMNT Great Sides with BBC",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "USMNT great Brad Friedel agrees with a major decision the BBC made regarding the broadcast of the FIFA World Cup 2026 Halftime Show. The post FIFA World Cup 2026 Halftime Show: USMNT Great Sides with BBC appeared first on HEAVY.",
-      "timestamp": "2026-07-20T20:56:37.878629Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://heavy.com/sports/soccer/fifa-world-cup-2026-halftime-show-usmnt-great-sides-with-bbc/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2030 marks 100 years. Spain, Morocco, Portugal to host",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA World Cup 2030 is slated to begin June 8, 2030, with centenary ceremonies and opening matches.",
-      "timestamp": "2026-07-20T20:56:37.878730Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/07/19/fifa-world-cup-2030-set-to-commence-in-spain-morocco-and-portugal/90974810007/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2030 marks 100 years. Spain, Morocco, Portugal to host",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA World Cup 2030 is slated to begin June 8, 2030, with centenary ceremonies and opening matches.",
-      "timestamp": "2026-07-20T20:56:37.878743Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/07/19/fifa-world-cup-2030-set-to-commence-in-spain-morocco-and-portugal/90974810007/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup final show slammed as \u2018lip-syncing contest\u2019 after IShowSpeed and Post Malone\u2019s performances",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "IShowSpeed performed his song \u2018World Cup (Champions)\u2019 to kick off the final match of the 2026 World Cup",
-      "timestamp": "2026-07-20T20:56:37.878796Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.the-independent.com/arts-entertainment/music/news/world-cup-final-speed-post-malone-lip-syncing-b3017769.html"
-        }
-      ]
-    },
-    {
-      "title": "Trump arrives at stadium for World Cup final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "US President Donald Trump arrived on Sunday for the World Cup final at the MetLife Stadium near New York where Argentina will take on Spain at the climax of the 48-team tournament.\nThe post Trump arrives at stadium for World Cup final appeared first on Vangua\u2026",
-      "timestamp": "2026-07-20T20:56:37.878838Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/trump-arrives-at-stadium-for-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "title": "Inside Trump's packed MetLife suite for World Cup final: FIFA boss and Spain's prime minister cozy up to US president and family",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "President Donald Trump and his wife, Melania, joined the crowd of about 80,000 spectators on Sunday afternoon to watch the 2026 World Cup final between Spain and Argentina.",
-      "timestamp": "2026-07-20T20:56:37.878866Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15989071/president-donald-trump-fifa-world-cup-final-metlife-stadium.html"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Soccer Fans Couldn't Let Trump Escape Boos During The 2026 World Cup Final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.huffpost.com/entry/soccer-fans-trump-booed-2026-world-cup-final_n_6a5d3244e4b0ab7565177bf7"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "When and where is the next World Cup as 2026 edition comes to an end",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/when-and-where-is-the-next-world-cup-as-2026-edition-comes-to-an-end/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Watch Madonna, the Muppets, and More Perform at 2026 World Cup Final Halftime",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://pitchfork.com/story/watch-madonna-the-muppets-and-more-perform-at-2026-world-cup-final-halftime/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Didier Deschamps on France exit and impact of \u2018stifling\u2019 atmosphere after disappointing World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/deschamps-france-exit-world-cup-1945680"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "BREAKING: Spain beat Argentina 1-0 to win 2026 FIFA World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/breaking-spain-beat-argentina-1-0-to-win-2026-fifa-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Total record-breaking attendance numbers revealed for 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/19/total-attendance-2026-world-cup-united-states-canada-mexico/90976518007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Spain\u2019s World Cup goal disallowed after Merino foul on Otamendi changes the game",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cryptobriefing.com/spain-goal-disallowed-merino-foul-otamendi-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "Wayne Rooney on FIFA World Cup final halftime show: \u2018I thought it was crap\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://awfulannouncing.com/soccer/wayne-rooney-fifa-world-cup-halftime-show-was-crap.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "FIFA World Cup Halftime Show Breakdown And Easter Eggs",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/laurasirikul/2026/07/19/fifa-world-cup-halftime-show-breakdown-and-easter-eggs/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "Watch: BTS Performs At 1st-Ever FIFA World Cup Halftime Show",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.soompi.com/article/1855829wpp/watch-bts-performs-at-1st-ever-fifa-world-cup-halftime-show"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "The FIFA World Cup: Private Jet Pollution Spikes",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.commondreams.org/opinion/fifa-world-cup-private-jet"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Argentina, Spain head to extra time",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/697f46b1e75470c8"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Tom Cruise Delivers a Unifying Opening Speech for the Final Game of the 2026 FIFA World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://redstate.com/jenniferoo/2026/07/19/tom-cruise-delivers-a-unifying-opening-speech-for-the-final-game-of-the-2026-fifa-world-cup-n2204507"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Vancouver",
+      "event": "How Vancouver crowd reacted to Donald Trump appearing on coverage of World Cup final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/how-vancouver-crowd-reacted-to-donald-trump-appearing-on-coverage-of-world-cup-final/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "Ian Wright hits out at 'ridiculous and poor' World Cup final pitch at the MetLife Stadium - and that was BEFORE extravagant half-time show featuring Justin Bieber and Shakira",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15989167/Ian-Wright-hits-ridiculous-poor-World-Cup-final-pitch-MetLife-Stadium-extravagant-half-time-featuring-Justin-Bieber-Shakira.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "BTS, Justin Bieber & More Perform at 2026 World Cup Halftime Show",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.eonline.com/news/1433750/justin-bieber-bts-shakira-perform-at-world-cup-2026-halftime-show"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "Wayne Rooney savages controversial World Cup final halftime show and says 'the best part was when it ended' while Liam Gallagher says it was like a 'bad trip'",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/tvshowbiz/article-15989155/Wayne-Rooney-savages-controversial-World-Cup-final-halftime-British-fans.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Coldplay's 'We Dance' Closes 2026 World Cup Halftime Show",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.billboard.com/music/music-news/world-cup-halftime-final-song-we-dance-coldplay-muppets-1236297643/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "Joe Burrow attends FIFA World Cup final during New York City visit",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cincinnati.com/story/sports/nfl/bengals/2026/07/19/joe-burrow-attends-fifa-world-cup-final/90976253007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "2026 World Cup Halftime Show Recap: Shakira, Madonna, Bieber & BTS",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.billboard.com/lists/2026-world-cup-halftime-show-shakira-madonna-bieber-bts/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "World Cup commentator goes viral after making embarrassing on-air mistake trying to identify A-lister",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15989157/world-cup-guy-mowbray-pharrell-williams-mistake-metlife.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "2026 World Cup Halftime Show: The Muppets, Ted Lasso, and more",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://pagesix.com/2026/07/19/photos/2026-world-cup-halftime-show-the-muppets-ted-lasso-and-more/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "First World Cup halftime show draws mixed reactions for Shakira, Justin Bieber, BTS, Madonna performances",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/outkick-sports/first-world-cup-halftime-show-draws-mixed-reactions-shakira-justin-bieber-bts-madonna-performances"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "Global",
+      "event": "2026 FIFA World Cup unmissable moments in photos",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hellomagazine.com/us/913678/2026-fifa-world-cup-final-photo-updates/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 20",
+      "loc": "New York / New Jersey",
+      "event": "Kylie Jenner and Timoth\u00e9e Chalamet kiss for the cameras during World Cup Final 2026 date",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://pagesix.com/2026/07/19/celebrity-news/kylie-jenner-and-timothee-chalamet-kiss-for-the-cameras-during-world-cup-final-2026-date/"
+        }
+      ]
+    },
     {
       "date": "Jul 20",
       "loc": "Global",
@@ -957,457 +1262,7 @@
           "url": "https://www.vanguardngr.com/2026/07/video-burna-boy-shakira-perform-dai-dai-at-world-cup-half-time-show/"
         }
       ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "2026 World Cup Halftime Show setlist, full list of songs performed",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/2026-fifa-world-cup-halftime-show-setlist-full-list-songs-performed/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "When Is The Next World Cup?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/when-next-world-cup"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Lionel Messi Reflects on Taking \u2018Crazy\u2019 Photo With Baby Lamine Yamal: \u2018That\u2019s Life, Right?\u2019",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://globemagazine.com/lionel-messi-reflects-on-taking-crazy-photo-with-baby-lamine-yamal-thats-life-right/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Video: Ronaldo and Ronaldinho chauffeur Madonna in 2026 World Cup Final show",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://football-italia.net/ronaldo-ronaldinho-madonna-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "World Cup final halftime show: Madonna, 67, steals the show as she unites with soccer legends at stadium",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15989089/World-Cup-final-halftime-madonna-justin-bieber-reaction.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "How to Watch the 2026 FIFA World Cup Final Live Without Cable (Even for Free)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/161984/how-to-watch-2026-fifa-world-cup-final-live-for-free-today"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Tom Cruise and Half of Hollywood Lit Up the 2026 World Cup Final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://variety.com/2026/sports/news/tom-cruise-2026-world-cup-final-hollywood-jason-sudeikis-justin-bieber-1236816132/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "No goals at half-time in Argentina, Spain final clash",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "high",
-      "impact": "P1 CRITICAL",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/bcf937fb4859a8c0"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "How to Watch the Spain vs. Argentina FIFA World Cup Final Live for Free",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "high",
-      "impact": "P1 CRITICAL",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/166220/how-to-watch-spain-vs-argentina-fifa-world-cup-final-live-for-free-today"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "New York / New Jersey",
-      "event": "World Cup fans reveal the VERY specific reason they can't enjoy blockbuster final showdown between Spain and Argentina",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15989091/spain-argentina-world-cup-final-metlife.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "VIDEO: IShowSpeed performs \u2018Champions\u2019 at World Cup final closing ceremony",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/video-ishowspeed-performs-champions-at-world-cup-final-closing-ceremony/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "\u2018Wow\u2019 \u2013 Fans react to Jennifer Hudson\u2019s USA national anthem performance at World Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/wow-fans-react-to-jennifer-hudsons-usa-national-anthem-performance-at-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "New York / New Jersey",
-      "event": "Brooklyn Beckham watches the World Cup final from his sofa at home as his entire family support from the MetLife Stadium - after savage Door Dash ad",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/tvshowbiz/article-15989111/Brooklyn-Beckham-watches-World-Cup-final-sofa-family-support-MetLife-Stadium-savage-Door-Dash-ad.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Lionel Messi Becomes Second-Ever Player To Appear In 3 Men's World Cup Finals",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/lionel-messi-becomes-second-ever-player-appear-3-mens-world-cup-finals"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Zlatan Ibrahimovi\u0107's 'King Of The Jungle' Has A New No. 1 Ahead Of World Cup Final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/zlatan-ibrahimovics-king-jungle-messi-yamal-mbappe"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "New York / New Jersey",
-      "event": "Soccer lover Barron Trump makes rare appearance next to his father as he towers over stadium of packed World Cup final fans",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15985875/barron-trump-soccer-lover-world-cup.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "New York / New Jersey",
-      "event": "Soccer lover Barron Trump makes rare appearance next to his father as he towers over stadium of packed World Cup final fans",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15985875/barron-trump-soccer-lover-world-cup.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "New York / New Jersey",
-      "event": "2026 World Cup Final: Argentina vs Spain - Live Thread",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://freerepublic.com/focus/f-news/4388589/posts"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Trump visit causes logistical delays ahead of World Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.channelnewsasia.com/world/trump-visit-causes-logistical-delays-ahead-world-cup-final-6264056"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "New York / New Jersey",
-      "event": "Trump\u2019s World Cup final appearance causes hours-long delays and puts $TRUMP coin in the spotlight",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/trump-world-cup-delays-trump-coin/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "New York / New Jersey",
-      "event": "Messi, Spain divide fan interest at 2026 World Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/19/spain-fans-argentina-world-cup-final-metlife-stadium-nj/90968626007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026 Final In Photos: Closing Ceremony, Halftime Show, Donald Trump & More",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://deadline.com/gallery/fifa-world-cup-2026-final-photos-halftime-show-donald-trump/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Spain striker says if he\u2019ll shake USA President Donald Trump\u2019s hand at World Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/spain-striker-says-if-hell-shake-usa-president-donald-trumps-hand-at-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026: Why companies spend big on the tournament",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-why-companies-spend-big-on-the-tournament/articleshow/132501157.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026 Halftime Show: USMNT Great Sides with BBC",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://heavy.com/sports/soccer/fifa-world-cup-2026-halftime-show-usmnt-great-sides-with-bbc/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "FIFA World Cup 2030 marks 100 years. Spain, Morocco, Portugal to host",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/07/19/fifa-world-cup-2030-set-to-commence-in-spain-morocco-and-portugal/90974810007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "FIFA World Cup 2030 marks 100 years. Spain, Morocco, Portugal to host",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.palmbeachpost.com/story/sports/soccer/world-cup/2026/07/19/fifa-world-cup-2030-set-to-commence-in-spain-morocco-and-portugal/90974810007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "World Cup final show slammed as \u2018lip-syncing contest\u2019 after IShowSpeed and Post Malone\u2019s performances",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.the-independent.com/arts-entertainment/music/news/world-cup-final-speed-post-malone-lip-syncing-b3017769.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "New York / New Jersey",
-      "event": "Trump arrives at stadium for World Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/trump-arrives-at-stadium-for-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "New York / New Jersey",
-      "event": "Inside Trump's packed MetLife suite for World Cup final: FIFA boss and Spain's prime minister cozy up to US president and family",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15989071/president-donald-trump-fifa-world-cup-final-metlife-stadium.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-20T20:56:37.879019Z"
+  "lastUpdated": "2026-07-20T21:54:56.681271Z"
 }
