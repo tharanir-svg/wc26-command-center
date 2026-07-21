@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 0,
-    "p3": 49
+    "p2": 1,
+    "p3": 40
   },
   "watchlist": [
     {
@@ -131,12 +131,460 @@
   ],
   "risks": [
     {
+      "title": "Patrick Mahomes and Wife Brittany Drop Intimate Snap From FIFA World Cup Final Days After Sitting in Different Rows",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup has been an absolute celebration across the hosting countries. Even with the relative lack of popularity of soccer in the US, fans from across the world have come together to make it a true spectacle.",
+      "timestamp": "2026-07-21T01:15:37.198089Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.profootballnetwork.com/patrick-mahomes-brittany-intimate-snap-fifa-world-cup-final/?utm_medium=rss&amp;utm_source=nordot"
+        }
+      ]
+    },
+    {
+      "title": "World Cup review: American makeover leaves soccer facing a battle for its soul",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "NEW YORK, July 19 : The 2026 World Cup may ultimately be remembered less for the identity of its winner than for the question it left hanging over the game: how much of soccer\u2019s American makeover will survive once the tournament leaves North America?From mand\u2026",
+      "timestamp": "2026-07-21T01:15:37.198146Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.channelnewsasia.com/sport/world-cup-review-american-makeover-leaves-soccer-facing-battle-its-soul-6264461"
+        }
+      ]
+    },
+    {
+      "title": "Blake Lively Attends World Cup Final After Justin Baldoni Legal Settlement",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Blake Lively is not letting her latest legal battle with Justin Baldoni get in the way of a good time. The Gossip Girl alum, 38, attended the 2026 World Cup final in New Jersey\u2019s MetLife Stadium with three of her friends on Sunday, July 19, sharing a glimpse \u2026",
+      "timestamp": "2026-07-21T01:15:37.198193Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usmagazine.com/celebrity-news/news/blake-lively-attends-world-cup-final-after-baldoni-settlement/"
+        }
+      ]
+    },
+    {
+      "title": "Winning the World Cup is the final jewel in the crown of a Manchester City midfielder",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "Spain have taken out the 2026 FIFA World Cup final as they beat Argentina 1-0 in extra time to win the World Cup for the second time in their history. Former Manchester City striker Ferran Torres scor...",
+      "timestamp": "2026-07-21T01:15:37.198232Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://esteemedkompany.com/2026/07/20/winning-the-world-cup-is-the-final-jewel-in-the-crown-of-a-manchester-city-midfielder/"
+        }
+      ]
+    },
+    {
+      "title": "\u2018Not deserving at all\u2019 \u2013 Fans left fuming after Rodri wins World Cup Golden Ball ahead of Lionel Messi",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Rodri has been awarded the most illustrious FIFA World Cup award for leading Spain. For the second time in their history, Spain have been crowned the FIFA World Cup champions after beating Argentina 1-0 in the finals.",
+      "timestamp": "2026-07-21T01:15:37.198297Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/not-deserving-at-all-fans-left-fuming-after-rodri-wins-world-cup-golden-ball-ahead-of-lionel-messi/"
+        }
+      ]
+    },
+    {
+      "title": "When is the next World Cup? Looking ahead to 2030 after Spain lifts trophy",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain won the 2026 World Cup, and will now have the opportunity to defend its title on home soil in four years.",
+      "timestamp": "2026-07-21T01:15:37.198428Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/19/when-is-next-world-cup-2030-spain-morocco-portugal/90977532007/"
+        }
+      ]
+    },
+    {
+      "title": "Trump after Spain's win: No tension with anybody",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "United States President Donald Trump congratulated Spain on winning the 2026 FIFA World Cup, stating that he \"spoke to a lot of people,\" adding he has no \"tension with anybody.\"\"Spain played better, r...",
+      "timestamp": "2026-07-21T01:15:37.198450Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/70035f9ad8f87402"
+        }
+      ]
+    },
+    {
+      "title": "Trump's cringe World Cup cameo was a fitting finale to a tournament of excess, greed and FIFA boss Gianni Infantino's twisted dreams",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "DANIEL MATTEWS AT METLIFE STADIUM: At nearly 7pm local time, at long last - Spain captain Rodri thrust the World Cup trophy toward the setting sun. Nearly four hours after the final kicked off.",
+      "timestamp": "2026-07-21T01:15:37.198505Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15989281/trump-gianni-infantino-world-cup-final-new-jersey.html"
+        }
+      ]
+    },
+    {
+      "title": "Trump, Bieber and Shakira - a World Cup final like never before",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars.",
+      "timestamp": "2026-07-21T01:15:37.198531Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.com/sport/football/articles/c4gjx7nvk4go?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
+        }
+      ]
+    },
+    {
+      "title": "Fox may have already lost its World Cup breakout star in Zlatan Ibrahimovi\u0107",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Zlatan Ibrahimovi\u0107 appeared to bid farewell to Fox Sports after the 2026 FIFA World Cup final, suggesting his time in the network\u2019s studio was a one-tournament experiment. \u201cYou made it easy for me. I hope, America, you enjoyed it as much as I did, and this is\u2026",
+      "timestamp": "2026-07-21T01:15:37.198595Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bb43705b-333c-43eb-b83d-8d570f02c59b"
+        }
+      ]
+    },
+    {
+      "title": "Storybook ending eludes Lionel Messi at what could be his final World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "NEW YORK \u2014 The storybook ending eluded Lionel Messi. Soccer\u2019s biggest superstar, still playing at an otherworldly level at age 39, sat on the grass at MetLife Stadium, his thousand-yard stare saying more than words ever could. Spain, in well-earned exuberance\u2026",
+      "timestamp": "2026-07-21T01:15:37.198640Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.nydailynews.com/2026/07/19/lionel-messi-world-cup-spain-argentina/"
+        }
+      ]
+    },
+    {
+      "title": "'Drake Curse' Continues As Canadian Rapper Placed A $1.5 Million Bet On Argentina",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Drake's $1.5 million bet on Argentina to beat Spain in 90 minutes in the 2026 World Cup final might have cursed Argentina and Lionel Messi.",
+      "timestamp": "2026-07-21T01:15:37.198664Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/drake-curse-continues-canadian-rapper-placed-1-5-million-bet-argentina"
+        }
+      ]
+    },
+    {
+      "title": "Argentina World Cup run ends with wild brawl after whistle vs Spain",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina had a disgraceful exit at the 2026 FIFA World Cup, sparking a brawl after its loss to Spain.",
+      "timestamp": "2026-07-21T01:15:37.198682Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thebiglead.com/argentina-spain-fifa-world-cup-brawl-video/"
+        }
+      ]
+    },
+    {
+      "title": "2026 FIFA World Cup Awards: Spain's Rodri, Cubars\u00ed, Unai Sim\u00f3n; France's Mbapp\u00e9",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Following Spain's 1-0 victory over Argentina in the World Cup final, FIFA presented its individual awards for the 2026 World Cup.",
+      "timestamp": "2026-07-21T01:15:37.198710Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/2026-fifa-world-cup-every-individual-award-winner"
+        }
+      ]
+    },
+    {
+      "title": "Lamine Yamal Dedicated His First World Cup Goal to His Girlfriend, Seville Influencer In\u00e9s Garc\u00eda, Weeks Before Spain Beat Argentina Tonight to Win the Whole Thing",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "\u201cI dedicate the goal to my mother, my girlfriend, to my friends and everyone back at home in Matar\u00f3.\u201d \u2014 Lamine Yamal Spain won its second World Cup tonight, beating Argentina 1-0 after extra time at MetLife Stadium.",
+      "timestamp": "2026-07-21T01:15:37.198743Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thoughtcatalog.com/january-nelson/2026/07/lamine-yamal-dedicated-his-first-world-cup-goal-to-his-girlfriend-seville-influencer-ines-garcia-weeks-before-spain-beat-argentina-tonight-to-win-the-whole-thing/"
+        }
+      ]
+    },
+    {
+      "title": "Spain vs Argentina Extra Time Results Today: FIFA World Cup Final Live Score, Updates, Stats",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup Final between the Spain national football team and the Argentina national football team remained level at 0-0 after 90 minutes at New York New Jersey Stadium, setting up a dramatic finish to the biggest match in world football.The Spai\u2026",
+      "timestamp": "2026-07-21T01:15:37.198773Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://heavy.com/sports/soccer/world-cup/spain-vs-argentina-extra-time-results-today-fifa-world-cup-final-live-score-updates-stats/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026 final fever drives record sales, packed bars and late-night rush across India",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "As football fever grips the nation, sportswear and snack sales soar to new heights. Anticipating a wave of fans for the final match, many bars and restaurants extend their hours into the night. Business owners report record-breaking demands for football gear \u2026",
+      "timestamp": "2026-07-21T01:15:37.198806Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/india/fifa-world-cup-2026-final-fever-drives-record-sales-packed-bars-and-late-night-rush-across-india/articleshow/132500881.cms"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026 final fever drives record sales, packed bars and late-night rush across India",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "As football fever grips the nation, sportswear and snack sales soar to new heights. Anticipating a wave of fans for the final match, many bars and restaurants extend their hours into the night. Business owners report record-breaking demands for football gear \u2026",
+      "timestamp": "2026-07-21T01:15:37.198829Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/india/fifa-world-cup-2026-final-fever-drives-record-sales-packed-bars-and-late-night-rush-across-india/articleshow/132500986.cms"
+        }
+      ]
+    },
+    {
+      "title": "Spain Edge Argentina After Extra Time To Win Second World Cup Title",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain defeated defending champions Argentina 1-0 after extra time to win the 2026 FIFA World Cup, securing their second world title at MetLife Stadium in East Rutherford, New Jersey. Luis de la Fuente\u2019s side dominated much of the final but were repeatedly fru\u2026",
+      "timestamp": "2026-07-21T01:15:37.198887Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thechronicle.com.gh/spain-edge-argentina-after-extra-time-to-win-second-world-cup-title/"
+        }
+      ]
+    },
+    {
+      "title": "Spain's youth movement dethrones aging Argentina in thrilling World Cup final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Ferran Torres scores in the 106th minute as Spain defeats Lionel Messi and defending champion Argentina to cap an exciting FIFA World Cup in North America.",
+      "timestamp": "2026-07-21T01:15:37.198909Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/spains-youth-movement-dethrones-aging-002422763.html"
+        }
+      ]
+    },
+    {
+      "title": "Shakira Takes the Barefoot Trend Literally During World Cup Halftime Show \u2014\u00a0She\u2019s Been Performing Shoeless for\u00a0Decades",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Shakira made history on Sunday as a co-headliner for FIFA\u2019s first-ever World Cup Final halftime show at MetLife Stadium in East Rutherford, New Jersey.",
+      "timestamp": "2026-07-21T01:15:37.198955Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://wwd.com/footwear-news/shoe-trends/shakira-dances-barefoot-world-cup-halftime-show-1239073966/"
+        }
+      ]
+    },
+    {
+      "title": "Lamine Yamal Embraces Lionel Messi After Spain Beats Argentina In World Cup Final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Barcelona past and present stars embraced after the 2026 World Cup final, which saw Spain beat Argentina.",
+      "timestamp": "2026-07-21T01:15:37.199032Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/lionel-messi-lamine-yamal-share-moment-after-spain-beats-argentina"
+        }
+      ]
+    },
+    {
+      "title": "Rodri, Yamal, Mbapp\u00e9, Messi? Who'll be the world's best? Vote ",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain were crowned champions of the 2026 FIFA World Cup this Sunday (19) after beating Argentina 1-0 in extra time in New Jersey (USA).Before Rodri & Co. lifted the long-dreamed-of trophy for the seco...",
+      "timestamp": "2026-07-21T01:15:37.199086Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/rodri-yamal-mbappe-messi-wholl-be-the-worlds-best-vote-43160364"
+        }
+      ]
+    },
+    {
+      "title": "Spain deserved to win World Cup: Argentina's Scaloni",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina coach Lionel Scaloni admitted Spain were the better team following his team's 1-0 extra-time defeat in the 2026 World Cup final on Sunday.Substitute Ferran Torres scored in the second period of extra-time as Spain finally broke down 10-man Argentina\u2026",
+      "timestamp": "2026-07-21T01:15:37.199131Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/spain-deserved-win-world-cup-000304424.html"
+        }
+      ]
+    },
+    {
+      "title": "Spain scores late to defeat Argentina in World Cup Final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup has come to an unforgettable finish, with Spain defeating Argentina 1-0 in extra time to capture the championship. We break down everything from an incredible final, including Ferran Torres\u2019 match-winning goal, Spain\u2019s dominant defensi\u2026",
+      "timestamp": "2026-07-21T01:15:37.199159Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/video/spain-scores-late-to-defeat-argentina-in-world-cup-final/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026 Final Spain Vs Argentina UNCUT 1080p HDTV H264-DARKSPORT",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Links: HOMEPAGE\u00a0\u2013 TV.comFIFA.World.Cup.2026.Final.Spain.Vs.Argentina.UNCUT.1080p.HDTV.H264-DARKSPORTMKV | AC3 / dolby digital | 14.6GBNFO - Subtitles \u2013 Torrent \u2013 NiTROFLARE \u2013 RAPiDGATORSingle File RAR: RAPiDGATOR Backup",
+      "timestamp": "2026-07-21T01:15:37.199253Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://post.rlsbb.cc/fifa-world-cup-2026-final-spain-vs-argentina-uncut-1080p-hdtv-h264-darksport/"
+        }
+      ]
+    },
+    {
+      "title": "Pia Miller parties at World Cup Final with husband Patrick, Matt Damon and wife Luciana Barroso in in a six-figure private box - as Nova radio host Lauren Phillips misses work to join them",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "She has been celebrating the World Cup 2026 ever since it started in the US last month.",
+      "timestamp": "2026-07-21T01:15:37.199296Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/tvshowbiz/article-15989303/pia-whitesell-world-cup-2026-matt-damon-argentina.html"
+        }
+      ]
+    },
+    {
+      "title": "Spain\u2019s World Cup victory a perfect birthday gift, says Peter Obi",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Peter Obi, NDC presidential candidate, hails Spain\u2019s 2026 World Cup victory as a \u2018perfect birthday gift,\u2019 emphasizing youth, competence, and excellence.\n\nRead More: https://punchng.com/spains-world-cup-victory-a-perfect-birthday-gift-says-peter-obi/",
+      "timestamp": "2026-07-21T01:15:37.199346Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/spains-world-cup-victory-a-perfect-birthday-gift-says-peter-obi/"
+        }
+      ]
+    },
+    {
+      "title": "Kylie Jenner, Timoth\u00e9e Chalamet Enjoy PDA-Filled Outing at World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Kylie Jenner and Timoth\u00e9e Chalamet are proving they're sole-mates.\nIndeed, the couple showed off some PDA while attending the 2026 FIFA World Cup final match between Argentina and Spain at New...",
+      "timestamp": "2026-07-21T01:15:37.199399Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.eonline.com/news/1434141/kylie-jenner-timothee-chalamet-show-pda-at-world-cup-2026-final"
+        }
+      ]
+    },
+    {
+      "title": "Is Messi Retiring After the 2026 World Cup? Lionel Messi's Uncertain Future Revealed",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Is Messi Retiring After the 2026 World Cup? It\u2019s the question dominating football conversation since Argentina\u2019s 1-0 extra-time loss to Spain in Sunday\u2019s final, and so far, Lionel Messi himself has offered no clear answer. At 39, the Argentine icon has given \u2026",
+      "timestamp": "2026-07-21T01:15:37.199446Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.stadiumrant.com/is-messi-retiring-after-the-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "Soccer fans disappointed after Ferran Torres wins World Cup final MOTM award over Emiliano Martinez",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup has ended with Spain defeating Argentina in the final game of the tournament. It would be an understatement to say that it was a one-sided game as Spain utterly obliterated the defending World Cup champions.",
+      "timestamp": "2026-07-21T01:15:37.199478Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/soccer-fans-disappointed-after-ferran-torres-wins-world-cup-final-motm-award-over-emiliano-martinez/"
+        }
+      ]
+    },
+    {
+      "title": "\u2018Argentina needed to lose\u2019: Spanish fans in Toronto excited to see team take home FIFA World Cup 2026 title",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Toronto soccer fans gathered one last time Sunday to cheer on their favourite team and celebrate the FIFA World Cup 2026 winner: Spain.",
+      "timestamp": "2026-07-21T01:15:37.199544Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/news/canada/toronto/spanish-fans-toronto-excitement-world-cup-ends-9.7276073"
+        }
+      ]
+    },
+    {
       "title": "Lionel Scaloni casts doubt over Argentina future after 2026 World Cup final defeat, leaves press conference in tears",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Scaloni cast doubt over his future as Argentina's head coach following a heartbreaking 2026 World Cup final defeat against Spain, abruptly leaving the post-match press conference in tears. Lionel Scaloni has guided the Argentine national team to yet an\u2026",
-      "timestamp": "2026-07-20T23:43:39.348693Z",
+      "timestamp": "2026-07-21T01:15:37.199605Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +598,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "History has a funny way of repeating itself, but this felt entirely new. At the New York New Jersey Stadium, La Roja didn\u2019t just win the World Cup; they colonised the sport. By adding the global cro...",
-      "timestamp": "2026-07-20T23:43:39.348741Z",
+      "timestamp": "2026-07-21T01:15:37.199634Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +612,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A brief brawl erupted at the final whistle of the World Cup final after Spain's 1-0 victory over Argentina, sparked by Argentina's Leandro Paredes shoving Spain's Gavi, leading to intervention from Argentina coach Lionel Scaloni.",
-      "timestamp": "2026-07-20T23:43:39.348778Z",
+      "timestamp": "2026-07-21T01:15:37.199672Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +626,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina\u2019s dream of a fourth World Cup title came crashing down this Sunday (19).In addition to winning the 2026 FIFA World Cup title with a 1-0 victory in extra time, Spain outclassed the \u201cherma...",
-      "timestamp": "2026-07-20T23:43:39.348858Z",
+      "timestamp": "2026-07-21T01:15:37.199811Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +640,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain midfielder Rodri has won the 2026 FIFA World Cup Golden Ball winner for the tournament's top player.",
-      "timestamp": "2026-07-20T23:43:39.348891Z",
+      "timestamp": "2026-07-21T01:15:37.199873Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +654,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The final between Argentina and Spain at MetLife Stadium on Sunday arrived amid a feverish escalation of sports as a cultural behemoth. Then came the globe-spanning, headspinning medley of a halftime show.",
-      "timestamp": "2026-07-20T23:43:39.348913Z",
+      "timestamp": "2026-07-21T01:15:37.199923Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +668,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "For the second time ever, Spain has won the men\u2019s FIFA World Cup. Spain held off Lionel Messi and Argentina 1-0 in the 2206 FIFA World Cup final on Sunday afternoon at MetLife Stadium in East Rutherford, New Jersey. The game\u2019s only goal came when Spain\u2019s Ferr\u2026",
-      "timestamp": "2026-07-20T23:43:39.348932Z",
+      "timestamp": "2026-07-21T01:15:37.199949Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +682,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Justin Bieber performed at the FIFA World Cup 2026 Final wearing TK on Sunday at New York New Jersey Stadium.",
-      "timestamp": "2026-07-20T23:43:39.348965Z",
+      "timestamp": "2026-07-21T01:15:37.199992Z",
       "links": [
         {
           "label": "Source",
@@ -248,578 +696,498 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain's 2026 World Cup run sparks surging fan token trades on Socios.com and prediction market activity on Polymarket as over a million fans await a victory\nThe post Spain\u2019s World Cup triumph sends fan tokens surging as a million fans prepare for victory para\u2026",
-      "timestamp": "2026-07-20T23:43:39.349007Z",
+      "timestamp": "2026-07-21T01:15:37.200045Z",
       "links": [
         {
           "label": "Source",
           "url": "https://cryptobriefing.com/spain-world-cup-fan-tokens-surge/"
         }
       ]
-    },
-    {
-      "title": "World Cup 2026 final assist stats: Olise breaks a 56-year-old record, Messi rewrites history again",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Michael Olise broke Pel's 56-year assist record at World Cup 2026 with 7 assists. Here's what the final stats mean for fan token markets.\nThe post World Cup 2026 final assist stats: Olise breaks a 56-year-old record, Messi rewrites history again appeared firs\u2026",
-      "timestamp": "2026-07-20T23:43:39.349032Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/world-cup-2026-most-assists-olise-messi-record/"
-        }
-      ]
-    },
-    {
-      "title": "FULL LIST: Mbapp\u00e9 leads Messi, others in 2026 World Cup top scorers chart",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "See the full list of 2026 World Cup top scorers! Kylian Mbapp\u00e9 leads with 10 goals, ahead of Lionel Messi, Jude Bellingham, and Erling Haaland.\n\nRead More: https://punchng.com/full-list-mbappe-leads-messi-others-in-2026-world-cup-top-scorers-chart/",
-      "timestamp": "2026-07-20T23:43:39.349069Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/full-list-mbappe-leads-messi-others-in-2026-world-cup-top-scorers-chart/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup: Rodri wins golden ball, cements status among football greats",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Rodri wins the 2026 FIFA World Cup Golden Ball, cementing his status among football\u2019s all-time greats. Discover his incredible career achievements.\n\nRead More: https://punchng.com/world-cup-rodri-wins-golden-ball-cements-status-among-football-greats/",
-      "timestamp": "2026-07-20T23:43:39.349090Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/world-cup-rodri-wins-golden-ball-cements-status-among-football-greats/"
-        }
-      ]
-    },
-    {
-      "title": "Donald Trump curse theory re-emerges after USA president\u2019s World Cup final prediction",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain have won the 2026 World Cup after beating Lionel Messi\u2019s Argentina in extra time. It is the first time the European outfit have won the tournament since 2010, while Messi may now be ending his international career with just one World Cup, given he will \u2026",
-      "timestamp": "2026-07-20T23:43:39.349114Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/donald-trump-curse-theory-re-emerges-after-usa-presidents-world-cup-final-prediction/"
-        }
-      ]
-    },
-    {
-      "title": "Who Were The Soccer Icons Shown During The World Cup Halftime Show?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "While the FIFA World Cup may have its global viewers, many tuned into the the historic Halftime Show, which featured several former and current footballers. Who are they?",
-      "timestamp": "2026-07-20T23:43:39.349134Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/laurasirikul/2026/07/19/who-were-the-soccer-icons-shown-during-the-world-cup-halftime-show/"
-        }
-      ]
-    },
-    {
-      "title": "Luis de La Fuente leads from the front, Thomas Tuchel and England left to rue missed chance and Rodri rules the roost: IAN LADYMAN on Spain's World Cup glory",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "After the all the drama of the two semi-finals, the showpiece game of the 2026 World Cup couldn't live up to the hype but at least it had the right winner.",
-      "timestamp": "2026-07-20T23:43:39.349153Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15988509/Luis-La-Fuente-leads-Thomas-Tuchel-England-left-rue-missed-chance-Rodri-rules-roost-IAN-LADYMAN-Spains-World-Cup-glory.html"
-        }
-      ]
-    },
-    {
-      "title": "Lamine Yamal becomes first under-20 player to win Euro, World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lamine Yamal makes history as the first under-20 player to win both the UEFA European Championship and the FIFA World Cup. Discover his meteoric rise.\n\nRead More: https://punchng.com/lamine-yamal-becomes-first-under-20-player-to-win-euro-world-cup/",
-      "timestamp": "2026-07-20T23:43:39.349196Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/lamine-yamal-becomes-first-under-20-player-to-win-euro-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi Gets 6/10 | Argentine Players Rated After Losing To Spain In The FIFA World Cup 2026 Final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Agony. Pure, unadulterated agony in New York in the FIFA World Cup 2026 final.Luis de la Fuente has guided Spain to the absolute summit of world football, leaving Argentina broken, bloodied, and utter...",
-      "timestamp": "2026-07-20T23:43:39.349225Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://the4thofficial.net/2026/07/lionel-messi-gets-6-10-argentine-players-rated-after-losing-to-spain-in-the-fifa-world-cup-2026-final/"
-        }
-      ]
-    },
-    {
-      "title": "Why Rodri won 2026 World Cup Golden Ball over Lionel Messi, Kylian Mbappe",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Sporting News takes a look at the winner of the Golden Ball at this year's World Cup,",
-      "timestamp": "2026-07-20T23:43:39.349259Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/who-won-world-cup-golden-ball-2026-rodri-lionel-messi/69db5e02a2ae5c5ba0db699a"
-        }
-      ]
-    },
-    {
-      "title": "Dominant Spain beat Argentina to win World Cup after extra time",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium.",
-      "timestamp": "2026-07-20T23:43:39.349283Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bbc.co.uk/sport/football/videos/clyvgx9e00do"
-        }
-      ]
-    },
-    {
-      "title": "Donald Trump refuses to leave World Cup trophy ceremony as Spain celebrate",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "U.S. President Donald Trump refused to leave the podium as Spain lifted the FIFA World Cup trophy, with Gianni Infantino forced to jog across the stage to intervene",
-      "timestamp": "2026-07-20T23:43:39.349298Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/trump-spain-world-cup-trophy-1945852"
-        }
-      ]
-    },
-    {
-      "title": "Spain, Argentina Break Out Into Brawl After 2026 FIFA World Cup Final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Tensions flared at the end of Spain\u2019s 1-0 victory over Argentina in the 2026 FIFA World Cup, with things getting particularly tense between Leandro Paredes and multiple Spanish players.",
-      "timestamp": "2026-07-20T23:43:39.349317Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/spain-argentina-break-out-brawl-after-2026-fifa-world-cup-final"
-        }
-      ]
-    },
-    {
-      "title": "49ers star calls out NFL owners again at FIFA World Cup Final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "One San Francisco 49ers player is using the World Cup playing surface rules to call out the NFL and advocate for changes.",
-      "timestamp": "2026-07-20T23:43:39.349330Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2026/07/19/world-cup-final-george-kittle-tweet-grass-fields-nfl/90977350007/"
-        }
-      ]
-    },
-    {
-      "title": "Spain vs. Argentina: The Best Facts From The 2026 World Cup Final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup final made history, with Spain ultimately reigning supreme. Here's what we mean.",
-      "timestamp": "2026-07-20T23:43:39.349342Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/spain-vs-argentina-best-facts-from-2026-world-cup-final"
-        }
-      ]
-    },
-    {
-      "title": "A bird\u2019s-eye view as Donald Trump arrives for the World Cup final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Donald Trump arrived at the 2026 FIFA World Cup final between Spain and Argentina aboard Marine One.",
-      "timestamp": "2026-07-20T23:43:39.349357Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/aje-onl-nf_trump-arrives-in-helicopter-for-the-world-cup-final-190726"
-        }
-      ]
-    },
-    {
-      "title": "Spain deserved to win World Cup, says Argentina coach after World Cup defeat",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina coach Lionel Scaloni admits Spain deserved their 2026 World Cup final victory, praising his team\u2019s effort despite the defeat.\n\nRead More: https://punchng.com/spain-deserved-to-win-world-cup-says-argentina-coach-after-world-cup-defeat/",
-      "timestamp": "2026-07-20T23:43:39.349389Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/spain-deserved-to-win-world-cup-says-argentina-coach-after-world-cup-defeat/"
-        }
-      ]
-    },
-    {
-      "title": "A look at the most exciting moments from the 2026 FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "A photo gallery of highlights from World Cup 2026.",
-      "timestamp": "2026-07-20T23:43:39.349434Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nbcnews.com/sports/soccer/2026-world-cup-photos-rcna588080"
-        }
-      ]
-    },
-    {
-      "title": "A look at the most exciting moments from the 2026 FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "A photo gallery of highlights from World Cup 2026.",
-      "timestamp": "2026-07-20T23:43:39.349445Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nbcnews.com/sports/soccer/look-exciting-moments-2026-fifa-world-cup-rcna588080"
-        }
-      ]
-    },
-    {
-      "title": "2030 World Cup Odds: Spain Favored To Repeat",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Can Spain repeat? Check out the opening odds for the 2030 FIFA World Cup.",
-      "timestamp": "2026-07-20T23:43:39.349456Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/2030-world-cup-title-odds"
-        }
-      ]
-    },
-    {
-      "title": "Full list of 2026 FIFA World Cup award winners",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "See the full list of 2026 FIFA World Cup award winners, including Spain\u2019s historic victory, Golden Ball, Golden Boot, and Golden Glove recipients.\n\nRead More: https://punchng.com/full-list-of-2026-fifa-world-cup-award-winners/",
-      "timestamp": "2026-07-20T23:43:39.349489Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/full-list-of-2026-fifa-world-cup-award-winners/"
-        }
-      ]
-    },
-    {
-      "title": "Spain win the World Cup, beat Argentina 1-0 in extra time on Ferran Torres\u2019 goal",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain dominated throughout before Ferran Torres struck in extra time to beat 10-man Argentina 1-0, becoming the first nation to simultaneously hold both the men\u2019s and women\u2019s FIFA World Cup titles",
-      "timestamp": "2026-07-20T23:43:39.349563Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thehindubusinessline.com/news/sports/spain-win-the-world-cup-beat-argentina-1-0-in-extra-time-on-ferran-torres-goal/article71242956.ece"
-        }
-      ]
-    },
-    {
-      "title": "FIFA sets record $871M payout for 2026 World Cup teams as prediction markets explode",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA approved a record $871M prize pool for the 2026 World Cup. Meanwhile, prediction markets Kalshi and Polymarket processed over $50B in June trading\nThe post FIFA sets record $871M payout for 2026 World Cup teams as prediction markets explode appeared firs\u2026",
-      "timestamp": "2026-07-20T23:43:39.349584Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/fifa-record-871m-world-cup-prediction-markets/"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi In Tears As Spain Celebrates World Final Triumph Over Argentina",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi was overcome with emotion as Spain celebrated its win over Argentina in the 2026 FIFA World Cup final on Sunday at New York New Jersey Stadium.",
-      "timestamp": "2026-07-20T23:43:39.349606Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/lionel-messi-tears-spain-celebrates-world-win-over-argentina"
-        }
-      ]
-    },
-    {
-      "title": "Spain's Pau Cubars\u00ed Wins 2026 World Cup Young Player Award",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain's Pau Cubars\u00ed has won the 2026 FIFA World Cup Young Player Award, given to the tournament's top player under the age of 21.",
-      "timestamp": "2026-07-20T23:43:39.349625Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/world-cup-pau-cubarsi-spain-young-player-award"
-        }
-      ]
-    },
-    {
-      "title": "Lamine Yamal consoles Lionel Messi after FIFA WC Final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain's 19-year-old star Lamine Yamal hugged a dejected Lionel Messi after Spain won the 2026 FIFA World Cup final.",
-      "timestamp": "2026-07-20T23:43:39.349638Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/pix-lamine-yamal-consoles-lionel-messi-after-2026-fifa-wc-final/20260720.htm"
-        }
-      ]
-    },
-    {
-      "title": "Argentina, Spain and their stars Lionel Messi and Lamine Yamal meet in World Cup final - NPR",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina, Spain and their stars Lionel Messi and Lamine Yamal meet in World Cup finalNPR Spain edge Argentina after extra time to win 2nd World Cup titleESPN Spain beats Argentina to win 2026 FIFA World Cup behind Ferran Torres' extra-time goalFox News Argen\u2026",
-      "timestamp": "2026-07-20T23:43:39.349710Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184512764"
-        }
-      ]
-    },
-    {
-      "title": "Did Donald Trump get booed at World Cup? Here's the video from 2026 final to decide for yourself",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Donald Trump, along with leaders of the other host nations, made his way onto the field at MetLife Stadium after Spain's World Cup win.",
-      "timestamp": "2026-07-20T23:43:39.349771Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/donald-trump-booed-world-cup-video-final/122486b73dd16bf974e9361e"
-        }
-      ]
-    },
-    {
-      "title": "England Soccer Legend Delivers Harsh Verdict on World Cup Halftime Show",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup final offered fans a chance to watch young star Lamine Yamal and Spain clash against the reigning champions, Argentina, led by soccer great Lionel Messi, at MetLife Stadium in New York/New Jersey.\nThis year's final also featured the fi\u2026",
-      "timestamp": "2026-07-20T23:43:39.349817Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/c355d3c64e7074ad"
-        }
-      ]
-    },
-    {
-      "title": "President Donald Trump presents World Cup trophy to Spain",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "President Donald Trump presented the World Cup trophy to Spain on Sunday at MetLife Stadium in East Rutherford.",
-      "timestamp": "2026-07-20T23:43:39.349841Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/19/president-trump-presents-world-cup-trophy-to-spain-in-new-jersey/90976623007/"
-        }
-      ]
-    },
-    {
-      "title": "Luis de la Fuente explains why Spain couldn\u2019t finish off Argentina earlier in World Cup final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Following a tight 1-0 victory, head coach Luis de la Fuente explained why Spain was unable to put the game away earlier against Argentina. Luis de la Fuente has guided Spain through a historic 2026 World Cup run to claim the nation\u2019s second global title follo\u2026",
-      "timestamp": "2026-07-20T23:43:39.349895Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/luis-de-la-fuente-explains-why-spain-couldnt-finish-off-argentina-earlier-in-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi returns to Inter Miami, how to buy 2026 Inter Miami MLS tickets",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi was the best player at the 2026 World Cup. You can see the GOAT play live with Inter Miami. Here's everything you need to know",
-      "timestamp": "2026-07-20T23:43:39.349928Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/19/how-to-buy-inter-miami-soccer-tickets-mls-schedule/90975574007/"
-        }
-      ]
-    },
-    {
-      "title": "2026 FIFA World Cup awards: Full list of winners",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The curtain came down on the 2026 FIFA World Cup on Sunday with Spain crowned world champions after a hard-fought 1-0 victory over Argentina in the final at New York New Jersey Stadium.\nThe post 2026 FIFA World Cup awards: Full list of winners appeared first \u2026",
-      "timestamp": "2026-07-20T23:43:39.349965Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/2026-fifa-world-cup-awards-full-list-of-winners/"
-        }
-      ]
-    },
-    {
-      "title": "Keith Duggan: Spain win out through imperious collective football craft and near-impregnable defence",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "World Cup 2026 final was a football match carrying an unbearable weight of expectation",
-      "timestamp": "2026-07-20T23:43:39.349980Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.irishtimes.com/sport/soccer/2026/07/19/spain-beat-argentina-through-imperious-collective-football-craft-and-near-impregnable-defence/"
-        }
-      ]
-    },
-    {
-      "title": "France's Kylian Mbapp\u00e9 Wins Golden Boot As World Cup's Top Goalscorer",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Kylian Mbapp\u00e9 didn't make the 2026 FIFA World Cup final, but he won't be going home empty-handed.",
-      "timestamp": "2026-07-20T23:43:39.349993Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/frances-kylian-mbappe-wins-golden-boot-world-cups-top-goalscorer"
-        }
-      ]
-    },
-    {
-      "title": "Spain World Cup 2026 Winners Champions Merch, T-Shirt: Buy Online",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain wins the 2026 World Cup after defeating Argentina. Here's where to buy official Spain World Cup champions T-shirts, hoodies and jerseys online.",
-      "timestamp": "2026-07-20T23:43:39.350007Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.billboard.com/culture/product-recommendations/spain-world-cup-2026-winners-champions-merch-t-shirts-buy-1236297822/"
-        }
-      ]
-    },
-    {
-      "title": "Spain Goalkeeper Unai Sim\u00f3n Wins Golden Glove After Historic World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain goalkeeper Unai Sim\u00f3n has been awarded the 2026 FIFA World Cup Golden Glove for his historic World Cup.",
-      "timestamp": "2026-07-20T23:43:39.350062Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/spain-goalkeeper-unai-simon-wins-golden-glove-after-historic-world-cup"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026: Spain ends Argentina's reign, wins second title",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Ferran Torres side-footed in an extra-time dagger to beat Argentina, leading the Spaniards to their second title Sunday in the 2026 World Cup Final.",
-      "timestamp": "2026-07-20T23:43:39.350083Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.upi.com/Sports_News/Soccer/2026/07/19/latam-world-cup-Spain-beats-Argentina-final/8231784484222/"
-        }
-      ]
-    },
-    {
-      "title": "2026 World Cup Final Winner: Spain Beats Argentina",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "2026 World Cup Final Winner: Spain Beats Argentinahollywoodreporter.com",
-      "timestamp": "2026-07-20T23:43:39.350098Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.hollywoodreporter.com/news/general-news/2026-world-cup-winner-spain-defeats-argentina-1236651842/"
-        }
-      ]
-    },
-    {
-      "title": "Feeling glum, Messi? Social media erupt over Argentina's runner-up",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain beat Argentina 1-0 in extra time this Sunday (19) and were crowned champions of the 2026 FIFA World Cup.La Furia\u2019s second world title (2010 and 2026) sparked celebrations across social media.P...",
-      "timestamp": "2026-07-20T23:43:39.350139Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/feeling-sad-messi-social-media-erupt-over-argentina-runners-up-43160140"
-        }
-      ]
-    },
-    {
-      "title": "George Kittle blasts the NFL and makes desperate plea for league to make huge change in post from World Cup final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup proved at least one thing in the eyes of NFL players: Real grass is within their reach. Now George Kittle is calling on the NFL to take care of the issue.",
-      "timestamp": "2026-07-20T23:43:39.350160Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/nfl/article-15989279/George-Kittle-NFL-desperate-World-Cup-final.html"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Jul 20",
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Patrick Mahomes and Wife Brittany Drop Intimate Snap From FIFA World Cup Final Days After Sitting in Different Rows",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.profootballnetwork.com/patrick-mahomes-brittany-intimate-snap-fifa-world-cup-final/?utm_medium=rss&amp;utm_source=nordot"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "World Cup review: American makeover leaves soccer facing a battle for its soul",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.channelnewsasia.com/sport/world-cup-review-american-makeover-leaves-soccer-facing-battle-its-soul-6264461"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "New York / New Jersey",
+      "event": "Blake Lively Attends World Cup Final After Justin Baldoni Legal Settlement",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usmagazine.com/celebrity-news/news/blake-lively-attends-world-cup-final-after-baldoni-settlement/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Winning the World Cup is the final jewel in the crown of a Manchester City midfielder",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://esteemedkompany.com/2026/07/20/winning-the-world-cup-is-the-final-jewel-in-the-crown-of-a-manchester-city-midfielder/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "\u2018Not deserving at all\u2019 \u2013 Fans left fuming after Rodri wins World Cup Golden Ball ahead of Lionel Messi",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/not-deserving-at-all-fans-left-fuming-after-rodri-wins-world-cup-golden-ball-ahead-of-lionel-messi/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "When is the next World Cup? Looking ahead to 2030 after Spain lifts trophy",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/19/when-is-next-world-cup-2030-spain-morocco-portugal/90977532007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Trump after Spain's win: No tension with anybody",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/70035f9ad8f87402"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "New York / New Jersey",
+      "event": "Trump's cringe World Cup cameo was a fitting finale to a tournament of excess, greed and FIFA boss Gianni Infantino's twisted dreams",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-15989281/trump-gianni-infantino-world-cup-final-new-jersey.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Trump, Bieber and Shakira - a World Cup final like never before",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.com/sport/football/articles/c4gjx7nvk4go?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Fox may have already lost its World Cup breakout star in Zlatan Ibrahimovi\u0107",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bb43705b-333c-43eb-b83d-8d570f02c59b"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "New York / New Jersey",
+      "event": "Storybook ending eludes Lionel Messi at what could be his final World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.nydailynews.com/2026/07/19/lionel-messi-world-cup-spain-argentina/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "'Drake Curse' Continues As Canadian Rapper Placed A $1.5 Million Bet On Argentina",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/drake-curse-continues-canadian-rapper-placed-1-5-million-bet-argentina"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Argentina World Cup run ends with wild brawl after whistle vs Spain",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thebiglead.com/argentina-spain-fifa-world-cup-brawl-video/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "2026 FIFA World Cup Awards: Spain's Rodri, Cubars\u00ed, Unai Sim\u00f3n; France's Mbapp\u00e9",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/2026-fifa-world-cup-every-individual-award-winner"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "New York / New Jersey",
+      "event": "Lamine Yamal Dedicated His First World Cup Goal to His Girlfriend, Seville Influencer In\u00e9s Garc\u00eda, Weeks Before Spain Beat Argentina Tonight to Win the Whole Thing",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thoughtcatalog.com/january-nelson/2026/07/lamine-yamal-dedicated-his-first-world-cup-goal-to-his-girlfriend-seville-influencer-ines-garcia-weeks-before-spain-beat-argentina-tonight-to-win-the-whole-thing/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Spain vs Argentina Extra Time Results Today: FIFA World Cup Final Live Score, Updates, Stats",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://heavy.com/sports/soccer/world-cup/spain-vs-argentina-extra-time-results-today-fifa-world-cup-final-live-score-updates-stats/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026 final fever drives record sales, packed bars and late-night rush across India",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/india/fifa-world-cup-2026-final-fever-drives-record-sales-packed-bars-and-late-night-rush-across-india/articleshow/132500881.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026 final fever drives record sales, packed bars and late-night rush across India",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/india/fifa-world-cup-2026-final-fever-drives-record-sales-packed-bars-and-late-night-rush-across-india/articleshow/132500986.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "New York / New Jersey",
+      "event": "Spain Edge Argentina After Extra Time To Win Second World Cup Title",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thechronicle.com.gh/spain-edge-argentina-after-extra-time-to-win-second-world-cup-title/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Spain's youth movement dethrones aging Argentina in thrilling World Cup final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/spains-youth-movement-dethrones-aging-002422763.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "New York / New Jersey",
+      "event": "Shakira Takes the Barefoot Trend Literally During World Cup Halftime Show \u2014\u00a0She\u2019s Been Performing Shoeless for\u00a0Decades",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://wwd.com/footwear-news/shoe-trends/shakira-dances-barefoot-world-cup-halftime-show-1239073966/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Lamine Yamal Embraces Lionel Messi After Spain Beats Argentina In World Cup Final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/lionel-messi-lamine-yamal-share-moment-after-spain-beats-argentina"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Rodri, Yamal, Mbapp\u00e9, Messi? Who'll be the world's best? Vote ",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/rodri-yamal-mbappe-messi-wholl-be-the-worlds-best-vote-43160364"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Spain deserved to win World Cup: Argentina's Scaloni",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/spain-deserved-win-world-cup-000304424.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Spain scores late to defeat Argentina in World Cup Final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/video/spain-scores-late-to-defeat-argentina-in-world-cup-final/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026 Final Spain Vs Argentina UNCUT 1080p HDTV H264-DARKSPORT",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://post.rlsbb.cc/fifa-world-cup-2026-final-spain-vs-argentina-uncut-1080p-hdtv-h264-darksport/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Pia Miller parties at World Cup Final with husband Patrick, Matt Damon and wife Luciana Barroso in in a six-figure private box - as Nova radio host Lauren Phillips misses work to join them",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/tvshowbiz/article-15989303/pia-whitesell-world-cup-2026-matt-damon-argentina.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Spain\u2019s World Cup victory a perfect birthday gift, says Peter Obi",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/spains-world-cup-victory-a-perfect-birthday-gift-says-peter-obi/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Kylie Jenner, Timoth\u00e9e Chalamet Enjoy PDA-Filled Outing at World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.eonline.com/news/1434141/kylie-jenner-timothee-chalamet-show-pda-at-world-cup-2026-final"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Is Messi Retiring After the 2026 World Cup? Lionel Messi's Uncertain Future Revealed",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.stadiumrant.com/is-messi-retiring-after-the-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Soccer fans disappointed after Ferran Torres wins World Cup final MOTM award over Emiliano Martinez",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/soccer-fans-disappointed-after-ferran-torres-wins-world-cup-final-motm-award-over-emiliano-martinez/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "\u2018Argentina needed to lose\u2019: Spanish fans in Toronto excited to see team take home FIFA World Cup 2026 title",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/news/canada/toronto/spanish-fans-toronto-excitement-world-cup-ends-9.7276073"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
       "loc": "Global",
       "event": "Lionel Scaloni casts doubt over Argentina future after 2026 World Cup final defeat, leaves press conference in tears",
       "type": "News",
@@ -834,7 +1202,7 @@
       ]
     },
     {
-      "date": "Jul 20",
+      "date": "Jul 21",
       "loc": "Global",
       "event": "Ferran Torres Gets 9/10 | Spanish Players Rated After FIFA World Cup 2026 Win Against Argentina",
       "type": "News",
@@ -849,7 +1217,7 @@
       ]
     },
     {
-      "date": "Jul 20",
+      "date": "Jul 21",
       "loc": "Global",
       "event": "Paredes-Gavi centre of brawl after FIFA World Cup Final",
       "type": "News",
@@ -864,7 +1232,7 @@
       ]
     },
     {
-      "date": "Jul 20",
+      "date": "Jul 21",
       "loc": "Global",
       "event": " World Cup ends with Paredes lashing out at Gavi; watch",
       "type": "News",
@@ -879,7 +1247,7 @@
       ]
     },
     {
-      "date": "Jul 20",
+      "date": "Jul 21",
       "loc": "Global",
       "event": "Spain's Rodri Wins Golden Ball Award For FIFA World Cup's Best Player",
       "type": "News",
@@ -894,7 +1262,7 @@
       ]
     },
     {
-      "date": "Jul 20",
+      "date": "Jul 21",
       "loc": "New York / New Jersey",
       "event": "Justin Bieber, Madonna, and Shakira Made FIFA\u2019s First-Ever World Cup Halftime Show a True Spectacle",
       "type": "News",
@@ -909,7 +1277,7 @@
       ]
     },
     {
-      "date": "Jul 20",
+      "date": "Jul 21",
       "loc": "New York / New Jersey",
       "event": "Listen: Fox, Telemundo, La 1 calls of Spain winning the World Cup",
       "type": "News",
@@ -924,7 +1292,7 @@
       ]
     },
     {
-      "date": "Jul 20",
+      "date": "Jul 21",
       "loc": "Global",
       "event": "Justin Bieber Takes a Spin in Unreleased Skylrk Sneakers for World Cup Halftime\u00a0Performance",
       "type": "News",
@@ -939,7 +1307,7 @@
       ]
     },
     {
-      "date": "Jul 20",
+      "date": "Jul 21",
       "loc": "Global",
       "event": "Spain\u2019s World Cup triumph sends fan tokens surging as a million fans prepare for victory parade",
       "type": "News",
@@ -952,607 +1320,7 @@
           "url": "https://cryptobriefing.com/spain-world-cup-fan-tokens-surge/"
         }
       ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "World Cup 2026 final assist stats: Olise breaks a 56-year-old record, Messi rewrites history again",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/world-cup-2026-most-assists-olise-messi-record/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "FULL LIST: Mbapp\u00e9 leads Messi, others in 2026 World Cup top scorers chart",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/full-list-mbappe-leads-messi-others-in-2026-world-cup-top-scorers-chart/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "World Cup: Rodri wins golden ball, cements status among football greats",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/world-cup-rodri-wins-golden-ball-cements-status-among-football-greats/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Donald Trump curse theory re-emerges after USA president\u2019s World Cup final prediction",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/donald-trump-curse-theory-re-emerges-after-usa-presidents-world-cup-final-prediction/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Who Were The Soccer Icons Shown During The World Cup Halftime Show?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/laurasirikul/2026/07/19/who-were-the-soccer-icons-shown-during-the-world-cup-halftime-show/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Luis de La Fuente leads from the front, Thomas Tuchel and England left to rue missed chance and Rodri rules the roost: IAN LADYMAN on Spain's World Cup glory",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15988509/Luis-La-Fuente-leads-Thomas-Tuchel-England-left-rue-missed-chance-Rodri-rules-roost-IAN-LADYMAN-Spains-World-Cup-glory.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Lamine Yamal becomes first under-20 player to win Euro, World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/lamine-yamal-becomes-first-under-20-player-to-win-euro-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Lionel Messi Gets 6/10 | Argentine Players Rated After Losing To Spain In The FIFA World Cup 2026 Final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://the4thofficial.net/2026/07/lionel-messi-gets-6-10-argentine-players-rated-after-losing-to-spain-in-the-fifa-world-cup-2026-final/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Why Rodri won 2026 World Cup Golden Ball over Lionel Messi, Kylian Mbappe",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/who-won-world-cup-golden-ball-2026-rodri-lionel-messi/69db5e02a2ae5c5ba0db699a"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Dominant Spain beat Argentina to win World Cup after extra time",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bbc.co.uk/sport/football/videos/clyvgx9e00do"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Donald Trump refuses to leave World Cup trophy ceremony as Spain celebrate",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/trump-spain-world-cup-trophy-1945852"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Spain, Argentina Break Out Into Brawl After 2026 FIFA World Cup Final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/spain-argentina-break-out-brawl-after-2026-fifa-world-cup-final"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "49ers star calls out NFL owners again at FIFA World Cup Final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2026/07/19/world-cup-final-george-kittle-tweet-grass-fields-nfl/90977350007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Spain vs. Argentina: The Best Facts From The 2026 World Cup Final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/spain-vs-argentina-best-facts-from-2026-world-cup-final"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "A bird\u2019s-eye view as Donald Trump arrives for the World Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/aje-onl-nf_trump-arrives-in-helicopter-for-the-world-cup-final-190726"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Spain deserved to win World Cup, says Argentina coach after World Cup defeat",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/spain-deserved-to-win-world-cup-says-argentina-coach-after-world-cup-defeat/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "A look at the most exciting moments from the 2026 FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nbcnews.com/sports/soccer/2026-world-cup-photos-rcna588080"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "A look at the most exciting moments from the 2026 FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nbcnews.com/sports/soccer/look-exciting-moments-2026-fifa-world-cup-rcna588080"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "2030 World Cup Odds: Spain Favored To Repeat",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/2030-world-cup-title-odds"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Full list of 2026 FIFA World Cup award winners",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/full-list-of-2026-fifa-world-cup-award-winners/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Spain win the World Cup, beat Argentina 1-0 in extra time on Ferran Torres\u2019 goal",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thehindubusinessline.com/news/sports/spain-win-the-world-cup-beat-argentina-1-0-in-extra-time-on-ferran-torres-goal/article71242956.ece"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "FIFA sets record $871M payout for 2026 World Cup teams as prediction markets explode",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/fifa-record-871m-world-cup-prediction-markets/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Lionel Messi In Tears As Spain Celebrates World Final Triumph Over Argentina",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/lionel-messi-tears-spain-celebrates-world-win-over-argentina"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Spain's Pau Cubars\u00ed Wins 2026 World Cup Young Player Award",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/world-cup-pau-cubarsi-spain-young-player-award"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Lamine Yamal consoles Lionel Messi after FIFA WC Final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/pix-lamine-yamal-consoles-lionel-messi-after-2026-fifa-wc-final/20260720.htm"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Argentina, Spain and their stars Lionel Messi and Lamine Yamal meet in World Cup final - NPR",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184512764"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "New York / New Jersey",
-      "event": "Did Donald Trump get booed at World Cup? Here's the video from 2026 final to decide for yourself",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/donald-trump-booed-world-cup-video-final/122486b73dd16bf974e9361e"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "New York / New Jersey",
-      "event": "England Soccer Legend Delivers Harsh Verdict on World Cup Halftime Show",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/c355d3c64e7074ad"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "New York / New Jersey",
-      "event": "President Donald Trump presents World Cup trophy to Spain",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.northjersey.com/story/sports/mls/worldcup/2026/07/19/president-trump-presents-world-cup-trophy-to-spain-in-new-jersey/90976623007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Luis de la Fuente explains why Spain couldn\u2019t finish off Argentina earlier in World Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/luis-de-la-fuente-explains-why-spain-couldnt-finish-off-argentina-earlier-in-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Lionel Messi returns to Inter Miami, how to buy 2026 Inter Miami MLS tickets",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/19/how-to-buy-inter-miami-soccer-tickets-mls-schedule/90975574007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "2026 FIFA World Cup awards: Full list of winners",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/2026-fifa-world-cup-awards-full-list-of-winners/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Keith Duggan: Spain win out through imperious collective football craft and near-impregnable defence",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.irishtimes.com/sport/soccer/2026/07/19/spain-beat-argentina-through-imperious-collective-football-craft-and-near-impregnable-defence/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "France's Kylian Mbapp\u00e9 Wins Golden Boot As World Cup's Top Goalscorer",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/frances-kylian-mbappe-wins-golden-boot-world-cups-top-goalscorer"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Spain World Cup 2026 Winners Champions Merch, T-Shirt: Buy Online",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.billboard.com/culture/product-recommendations/spain-world-cup-2026-winners-champions-merch-t-shirts-buy-1236297822/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Spain Goalkeeper Unai Sim\u00f3n Wins Golden Glove After Historic World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/spain-goalkeeper-unai-simon-wins-golden-glove-after-historic-world-cup"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "World Cup 2026: Spain ends Argentina's reign, wins second title",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.upi.com/Sports_News/Soccer/2026/07/19/latam-world-cup-Spain-beats-Argentina-final/8231784484222/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "2026 World Cup Final Winner: Spain Beats Argentina",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.hollywoodreporter.com/news/general-news/2026-world-cup-winner-spain-defeats-argentina-1236651842/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "Feeling glum, Messi? Social media erupt over Argentina's runner-up",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/feeling-sad-messi-social-media-erupt-over-argentina-runners-up-43160140"
-        }
-      ]
-    },
-    {
-      "date": "Jul 20",
-      "loc": "Global",
-      "event": "George Kittle blasts the NFL and makes desperate plea for league to make huge change in post from World Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/nfl/article-15989279/George-Kittle-NFL-desperate-World-Cup-final.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-20T23:43:39.350269Z"
+  "lastUpdated": "2026-07-21T01:15:37.200157Z"
 }
