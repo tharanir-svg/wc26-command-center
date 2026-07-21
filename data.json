@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 1,
-    "p3": 25
+    "p2": 0,
+    "p3": 27
   },
   "watchlist": [
     {
@@ -131,12 +131,292 @@
   ],
   "risks": [
     {
+      "title": "Celebrities showed up to the World Cup final in style. From a $500,000 watch to designer shades, here's what they wore",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Kevin Hart and Shakira at the 2026 World Cup final.\nAlex Pantling - FIFA/Getty Images\nThe 2026 FIFA World Cup concluded on Sunday in New Jersey, with Spain defeating Argentina.\nCelebrities, CEOs, and other A-listers were in the audience wearing luxury accesso\u2026",
+      "timestamp": "2026-07-21T16:11:19.519800Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/99c0c58dec18df1c"
+        }
+      ]
+    },
+    {
+      "title": "Italy\u2019s 37-Game Record Falls as Spain Win 2026 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain shattered Italy\u2019s record of 37 consecutive competitive matches without defeat by beating Argentina 1-0 in extra time in the FIFA World Cup 2026 final at MetLife Stadium in New Jersey on July 1...",
+      "timestamp": "2026-07-21T16:11:19.519875Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.juvefc.com/italy-unbeaten-record-spain-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "Sofia and Leonor of Spain Coordinated Their National Style at the World Cup Final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain has won the 2026 FIFA World Cup, and, of course, Princess Sofia and Crown Princess Leonor once again dressed for the occasion.",
+      "timestamp": "2026-07-21T16:11:19.519926Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.teenvogue.com/story/sofia-and-leonor-princesses-of-spain-2026-fifa-world-cup-final-style"
+        }
+      ]
+    },
+    {
+      "title": "FULL LIST: Messi\u2019s major final defeats rise to 13 after World Cup loss to Spain",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lionel Messi\u2019s major final defeats now total 13 after Argentina\u2019s 2026 World Cup loss to Spain. Explore the full list of his club and international final l\n\nRead More: https://punchng.com/full-list-messis-major-final-defeats-rise-to-13-after-world-cup-loss-to\u2026",
+      "timestamp": "2026-07-21T16:11:19.519981Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/full-list-messis-major-final-defeats-rise-to-13-after-world-cup-loss-to-spain/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup Final Ratings Skyrocket Across Europe, Despite England and France Losses",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup once again demonstrated the value of home-team interest to broadcasters, with television audiences across Europe skyrocketing when national teams were still alive in the tournament before declining after their elimination. Yet, fans st\u2026",
+      "timestamp": "2026-07-21T16:11:19.520061Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://variety.com/2026/tv/global/world-cup-ratings-show-final-big-draw-home-teams-beaten-1236816547/"
+        }
+      ]
+    },
+    {
+      "title": "The big stories \u2014 and best photos \u2014 from the 2026 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Forty-eight teams, 104 matches, 39 days. Here's a look back at some of the main storylines from the FIFA World Cup 2026 \u2014 as illustrated by some of the tournament's best photos.",
+      "timestamp": "2026-07-21T16:11:19.520258Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/news/world/world-cup-photos-9.7276199"
+        }
+      ]
+    },
+    {
+      "title": "Jennifer Hudson Sings Her Heart Out in Ala\u00efa\u2019s Le C\u0153ur Shoes at the 2026 FIFA World Cup\u00a0Final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The EGOT winner sang the U.S. National Anthem ahead of the match in a custom Thom Browne look paired with Ala\u00efa's Le C\u0153ur slingback shoes.",
+      "timestamp": "2026-07-21T16:11:19.520385Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://wwd.com/footwear-news/shoe-trends/jennifer-hudson-alaia-white-shoes-2026-fifa-world-cup-final-1239074245/"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Cup Shatters Attendance Record",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup, which concluded on Sunday with Spain\u2019s 1-0 win over Argentina was in many ways a tournament of superlatives. It was the first World Cup to be hosted by three countries; it had the most nations participating and hence most matches play\u2026",
+      "timestamp": "2026-07-21T16:11:19.520427Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/6c4928569d26007d"
+        }
+      ]
+    },
+    {
+      "title": "Donald Trump Booed at World Cup Final Before Presenting Spain With Trophy",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "President Donald Trump was met with boos from parts of the crowd during the 2026 FIFA World Cup final before joining the medal and trophy ... Read More",
+      "timestamp": "2026-07-21T16:11:19.520448Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://wealthofgeeks.com/donald-trump-booed-at-world-cup-final-before-presenting-spain-with-trophy/"
+        }
+      ]
+    },
+    {
+      "title": "Gallery: Rodri\u2019s FIFA World Cup triumph in pictures \u2013 World Cup trophy, Golden Ball, ring and more",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Rodri lifted the FIFA World Cup trophy with Spain after their extra-time victory in the finalThe Man City midfielder was awarded the Golden Ball as the tournament\u2019s best playerSpain\u2019s triumph comp...",
+      "timestamp": "2026-07-21T16:11:19.520474Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cityxtra.co.uk/50047/gallery-rodris-fifa-world-cup-triumph-in-pictures-world-cup-trophy-golden-ball-ring-and-more/"
+        }
+      ]
+    },
+    {
+      "title": "Lamine Yamal\u2019s Girlfriend Poses With World Cup Trophy",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lamine Yamal and his girlfriend, Ines Garcia Santos, celebrated on the field after Spain won the 2026 FIFA World Cup",
+      "timestamp": "2026-07-21T16:11:19.520496Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usmagazine.com/sports/news/lamine-yamals-girlfriend-poses-with-world-cup-trophy/"
+        }
+      ]
+    },
+    {
+      "title": "The symbolism behind Shakira\u2019s World Cup 2026 performance outfit",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The Colombian superstar's custom Roberto Cavalli look was 16 years in the making.",
+      "timestamp": "2026-07-21T16:11:19.520520Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://pagesix.com/2026/07/20/style/shakira-world-cup-2026-halftime-outfit-the-symbolism-behind-the-look/"
+        }
+      ]
+    },
+    {
+      "title": "Lamine Yamal hugs overjoyed 3-year-old brother in wholesome World Cup moment",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The duo stole the spotlight after La Roja beat Argentina 1-0 in the FIFA World Cup Final.",
+      "timestamp": "2026-07-21T16:11:19.520543Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/20/sports/lamine-yamal-hugs-3-year-old-brother-in-wholesome-world-cup-moment/"
+        }
+      ]
+    },
+    {
+      "title": "Honor Robot Phone makes an unexpected appearance at the World Cup final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "In last night's FIFA World Cup 2026 final, Spain beat Argentina 1-0 to win the tournament. After the match, during the on-field celebrations, an unlikely device was spotted in the hands of one of the players - the upcoming Honor Robot Phone.\n\nThis is rumored \u2026",
+      "timestamp": "2026-07-21T16:11:19.520597Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.gsmarena.com/honor_robot_phone_makes_an_unexpected_appearance_at_the_world_cup_final-news-73794.php"
+        }
+      ]
+    },
+    {
+      "title": "Why Las Vegas\u2019 $2 billion Allegiant Stadium was ruled out of hosting the FIFA World Cup final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup final between Spain and Argentina took place at MetLife Stadium in New Jersey on Sunday. The stadium, which belongs to the New York Giants and the New York Jets, is often criticised by NFL and now soccer fans.",
+      "timestamp": "2026-07-21T16:11:19.520683Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/why-las-vegas-2-billion-allegiant-stadium-was-ruled-out-of-hosting-the-fifa-world-cup-final/"
+        }
+      ]
+    },
+    {
+      "title": "Argentina Player Received Red Card for What He Did After World Cup Final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "After Spain defeated Argentina 1-0 to win the 2026 FIFA World Cup, tempers flared on the field between players, with a post-match brawl erupting and one player being issued a red card.\nOnce the final whistle blew, some of the players soaked up a massive win, \u2026",
+      "timestamp": "2026-07-21T16:11:19.520730Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/be1adea5e4d3fb3c"
+        }
+      ]
+    },
+    {
+      "title": "BTS's World Cup Jerseys Featured a Numerical Easter Egg Honoring Their History",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "It\u2019s only natural for BTS to feature in a lineup full of international powerhouses. Watch BTS perform at the 2026 World Cup final.",
+      "timestamp": "2026-07-21T16:11:19.520759Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.teenvogue.com/story/bts-world-cup-jerseys-easter-egg-honoring-their-history"
+        }
+      ]
+    },
+    {
+      "title": "Every 2026 World Cup Ad Ranked",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "See every FIFA World Cup ad ranked by effectiveness according to EDO\u2019s TV Outcomes Score.",
+      "timestamp": "2026-07-21T16:11:19.520778Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.adweek.com/creativity/top-world-cup-ads-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Spain end their 16-year drought by winning the 2026 World Cup and breaking four major records",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Although they weren't considered top contenders, Spain managed to defeat Argentina, ending a 16-year drought by winning the 2026 World Cup. With this victory, they broke four records in the tournament. Spain established as the best team of the 2026 FIFA World\u2026",
+      "timestamp": "2026-07-21T16:11:19.520818Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/spain-end-their-16-year-drought-by-winning-the-2026-world-cup-and-breaking-four-major-records/"
+        }
+      ]
+    },
+    {
+      "title": "Drake loses $1.5m world cup bet as Spain beat Argentina",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Canadian rapper Drake loses a $1.5 million bet after Argentina\u2019s defeat to Spain in the 2026 FIFA World Cup final, fueling the \u2018Drake curse\u2019 theory.\n\nRead More: https://punchng.com/drake-loses-1-5m-world-cup-bet-as-spain-beat-argentina/",
+      "timestamp": "2026-07-21T16:11:19.521059Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/?p=2195076"
+        }
+      ]
+    },
+    {
       "title": "FIFA reveals prize money for Spain, Argentina, other countries after 2026 World Cup [Full list]",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain's victory over Argentina in the 2026 FIFA World Cup final not only secured football's biggest prize but also earned\nThe post FIFA reveals prize money for Spain, Argentina, other countries after 2026 World Cup [Full list] appeared first on Vanguard News.",
-      "timestamp": "2026-07-21T14:51:41.904813Z",
+      "timestamp": "2026-07-21T16:11:19.521141Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup 2026 has come to a conclusion after Spain narrowly beat Argentina in the final on Sunday.\u00a0The first ever final between the reigning South American and European champions was decide...",
-      "timestamp": "2026-07-21T14:51:41.904887Z",
+      "timestamp": "2026-07-21T16:11:19.521190Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "It was Didier Deschamps who was the first at this World Cup to criticise the quality of the pitch at the MetLife Stadium, which hosted France\u2019s opening match of the tournament against Senegal. As th...",
-      "timestamp": "2026-07-21T14:51:41.904939Z",
+      "timestamp": "2026-07-21T16:11:19.521240Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Apple Sports was updated today with support for additional soccer leagues in Asia and Europe, plus the ability to see formations across most soccer leagues. The update arrives just one day after the 2026 FIFA World Cup final between Argentina and Spain.\n\n\n\n\n\n\u2026",
-      "timestamp": "2026-07-21T14:51:41.904974Z",
+      "timestamp": "2026-07-21T16:11:19.521270Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Madonna wore a custom Saint Laurent look including for the FIFA World Cup 2026 Final halftime performance at New York New Jersey Stadium on Sunday.",
-      "timestamp": "2026-07-21T14:51:41.904999Z",
+      "timestamp": "2026-07-21T16:11:19.521316Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The singer was among the list of performers and high-profile stars at the 2026 FIFA World Cup final, where she performed during the halftime show.",
-      "timestamp": "2026-07-21T14:51:41.905104Z",
+      "timestamp": "2026-07-21T16:11:19.521441Z",
       "links": [
         {
           "label": "Source",
@@ -220,282 +500,316 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Watch the video as Spain\u2019s World Cup-winning squad receives a hero\u2019s welcome in Madrid after their triumph over Argentina in the 2026 FIFA World Cup final.\n\nRead More: https://punchng.com/video-spain-return-home-to-heroes-welcome-after-world-cup-triumph/",
-      "timestamp": "2026-07-21T14:51:41.905136Z",
+      "timestamp": "2026-07-21T16:11:19.521490Z",
       "links": [
         {
           "label": "Source",
           "url": "https://punchng.com/video-spain-return-home-to-heroes-welcome-after-world-cup-triumph/"
         }
       ]
-    },
-    {
-      "title": "Why the USA will likely host the 2038 World Cup after President Donald Trump\u2019s request",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "U. S. President Donald Trump has made it clear that he wants the United States to host another FIFA World Cup as soon as possible.",
-      "timestamp": "2026-07-21T14:51:41.905183Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/why-the-usa-will-likely-host-the-2038-world-cup-after-president-donald-trump-request/"
-        }
-      ]
-    },
-    {
-      "title": "Goals, technology and hydration breaks: How the biggest World Cup in history will be remembered - AP News",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Goals, technology and hydration breaks: How the biggest World Cup in history will be rememberedAP News How the 2026 FIFA World Cup inspired and incensedESPN Goal-fest finishes top, but how low is the final in our rankings of all 104 2026 World Cup games?The N\u2026",
-      "timestamp": "2026-07-21T14:51:41.905351Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184522834"
-        }
-      ]
-    },
-    {
-      "title": "Rodri Hernandez enters exclusive club with Zinedine Zidane and more legends after winning the 2026 World Cup with Spain",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Amid widespread doubts about his physical condition, Rodri Hern\u00e1ndez was named MVP of the 2026 World Cup, leading Spain to victory. Following this, he joined Zinedine Zidane and more legends on an exclusive list of players who have won four major trophies. Af\u2026",
-      "timestamp": "2026-07-21T14:51:41.905412Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/rodri-hernandez-enters-exclusive-club-with-zinedine-zidane-and-more-legends-after-winning-the-2026-world-cup-with-spain/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026 Team of the Tournament: Messi headlines star-studded line-up",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Discover who makes our World Cup 2026 Team of the Tournament.",
-      "timestamp": "2026-07-21T14:51:41.905526Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.101greatgoals.com/football/world-cup-news/world-cup-2026-team-of-the-tournament-messi-bellingham-rodri/"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi makes major admission on Spain\u2019s dominance in World Cup Final after worst-ever record",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi couldn\u2019t hide the simple truth about Argentina\u2019s performance in the 2026 FIFA World Cup final against Spain. Spain walked away as deserving 1-0 ...",
-      "timestamp": "2026-07-21T14:51:41.905696Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/lionel-messi-makes-major-admission-on-spains-dominance-in-world-cup-final-after-worst-ever-record/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA Is Selling Pieces of the World Cup Field for $450. Not Everyone\u2019s Thrilled",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "From record concession sales to cut up pieces of turf as souvenirs, the 2026 World Cup found plenty of ways to cash in.",
-      "timestamp": "2026-07-21T14:51:41.905775Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.entrepreneur.com/business-news/fifa-is-selling-pieces-of-the-world-cup-field-for-450-not-everyones-thrilled"
-        }
-      ]
-    },
-    {
-      "title": "Map Shows 2030 World Cup Stadium Locations Across 6 Countries",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2030 World Cup will have what FIFA has described as a \u201cunique global footprint,\u201d with matches across three continents and six countries.\nFIFA confirmed that Morocco, Portugal and Spain will co-host the main tournament, while Argentina, Paraguay and Urugua\u2026",
-      "timestamp": "2026-07-21T14:51:41.905809Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/468015a132e1c07b"
-        }
-      ]
-    },
-    {
-      "title": "Justin Bieber FIFA World Cup Performance Confuses Fans",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Reading Time: 3 minutesEven as fans celebrated the game's results, they were scratching their heads over Justin Bieber's performance.\nJustin Bieber FIFA World Cup Performance Confuses Fans was originally published on The Hollywood Gossip.",
-      "timestamp": "2026-07-21T14:51:41.905844Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thehollywoodgossip.com/2026/07/justin-bieber-world-cup-halftime-show-reaction/"
-        }
-      ]
-    },
-    {
-      "title": "Lamine Yamal\u2019s girlfriend, Spain WAGs celebrate World Cup win in heartwarming photos",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Spain national team shared some sweet moments with their significant others while celebrating a 1-0 win over Argentina in the FIFA World Cup Final on Sunday.",
-      "timestamp": "2026-07-21T14:51:41.905891Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/20/sports/lamine-yamals-girlfriend-spain-wags-celebrate-world-cup-win-in-heartwarming-photos/"
-        }
-      ]
-    },
-    {
-      "title": "Spain Appears To Have Had An Unfair Advantage Over Argentina In FIFA World Cup Final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "It may have taken Spain 106 minutes and a red card for Enzo Fernandez to finally score in its 1-0 victory over Argentina\u00a0in the\u00a02026 FIFA World Cup Final, but the game was never that close. A quick look at the underlying numbers shows that Spain was absolutel\u2026",
-      "timestamp": "2026-07-21T14:51:41.905990Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://brobible.com/sports/article/spain-unfair-advantage-argentina-fifa-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "title": "Gallery: City at the 2026 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup is over, but it\u2019s been another where Manchester City players were once again front and centre. Men's Team Rodri: I\u2019m lost for words! None more so than our brilliant midfiel...",
-      "timestamp": "2026-07-21T14:51:41.906028Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.mancity.com/news/mens/manchester-city-world-cup-2026-gallery-63920149"
-        }
-      ]
-    },
-    {
-      "title": "Uefa president Aleksander Ceferin boycotts World Cup final in protest against Fifa",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "Fifa has come under heavy scrutiny during the 2026 World Cup, with the debacle surrounding Folarin Balogun just one aspect of Uefa\u2019s discontent",
-      "timestamp": "2026-07-21T14:51:41.906052Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0117411a-d112-4dbd-97ab-27b22faa784c"
-        }
-      ]
-    },
-    {
-      "title": "Trump and Infantino booed at World Cup trophy ceremony as politics and sport collide on global stage",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Trump and FIFA's Infantino were booed at the 2026 World Cup trophy ceremony. Here's why the incident matters for global markets and investor sentiment.\nThe post Trump and Infantino booed at World Cup trophy ceremony as politics and sport collide on global sta\u2026",
-      "timestamp": "2026-07-21T14:51:41.906141Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/trump-infantino-booed-world-cup-ceremony/"
-        }
-      ]
-    },
-    {
-      "title": "Spain wins 2026 World Cup as post-match brawl overshadows historic final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain beat Argentina 1-0 in the 2026 World Cup final as Ferran Torres scored in extra time. Post-match brawl and Buenos Aires unrest followed the result.\nThe post Spain wins 2026 World Cup as post-match brawl overshadows historic final appeared first on Crypt\u2026",
-      "timestamp": "2026-07-21T14:51:41.906186Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/spain-defeats-argentina-world-cup-final-chaos/"
-        }
-      ]
-    },
-    {
-      "title": "'The Era of Red, Blue & Gold!': IPL champions RCB shares unique congratulatory message for FIFA World Cup winners Spain",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "With Spain lifting the FIFA World Cup yesterday, current and back-to-back IPL champions, RCB shared a unique congratulating message for the world champions.",
-      "timestamp": "2026-07-21T14:51:41.906231Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cricketnews.com/en/cricket/news/rcb-congratulatory-message-fifa-world-cup-winners-spain/52622d07873327652ffed821"
-        }
-      ]
-    },
-    {
-      "title": "Avalanche powers FIFA World Cup ticketing as over 80,000 fans attend watch parties",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA's Avalanche-powered blockchain ticketing system served over 80,000 fans at World Cup watch parties, generating $25M in secondary-market volume.\nThe post Avalanche powers FIFA World Cup ticketing as over 80,000 fans attend watch parties appeared first on \u2026",
-      "timestamp": "2026-07-21T14:51:41.906298Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/avalanche-fifa-world-cup-ticketing-watch-parties/"
-        }
-      ]
-    },
-    {
-      "title": "George Kittle, Breece Hall join chorus of NFL players calling for grass over turf",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "George Kittle used his attendance at the 2026 World Cup final to advocate for the NFL adopting grass playing surfaces over synthetic turf.",
-      "timestamp": "2026-07-21T14:51:41.906406Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/nfl/2026/07/20/george-kittle-breece-hall-nfl-grass-turf/90979919007/"
-        }
-      ]
-    },
-    {
-      "title": "It Took The Whole World Cup But There Is Finally Video Of World Cup Fans Crossing NJ Highways To Get To MetLife",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "As soon as the American host cities of the 2026 World Cup were announced, people began wondering how the infamously car-centric infrastructure that surrounds MetLife Stadium would handle the influx of carless tourists, particularly when the final rolled aroun\u2026",
-      "timestamp": "2026-07-21T14:51:41.906535Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://brobible.com/sports/article/argentina-fans-crossing-highways-metlife-staidum-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "title": "\u201cMy \u20a65m gone, I\u2019ll never bet again,\u201d Destiny Etiko laments after World Cup Final loss",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Nollywood actress Destiny Etiko has revealed that she lost \u20a65 million after placing a bet on the 2026 FIFA World Cup final, saying the experience has convinced her to stay away from gambling.\nThe post \u201cMy \u20a65m gone, I\u2019ll never bet again,\u201d Destiny Etiko laments\u2026",
-      "timestamp": "2026-07-21T14:51:41.906613Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/my-\u20a65m-gone-ill-never-bet-again-destiny-etiko-laments-after-world-cup-final-loss/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Celebrities showed up to the World Cup final in style. From a $500,000 watch to designer shades, here's what they wore",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/99c0c58dec18df1c"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "New York / New Jersey",
+      "event": "Italy\u2019s 37-Game Record Falls as Spain Win 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.juvefc.com/italy-unbeaten-record-spain-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Los Angeles",
+      "event": "Sofia and Leonor of Spain Coordinated Their National Style at the World Cup Final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.teenvogue.com/story/sofia-and-leonor-princesses-of-spain-2026-fifa-world-cup-final-style"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "FULL LIST: Messi\u2019s major final defeats rise to 13 after World Cup loss to Spain",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/full-list-messis-major-final-defeats-rise-to-13-after-world-cup-loss-to-spain/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "San Francisco Bay Area",
+      "event": "World Cup Final Ratings Skyrocket Across Europe, Despite England and France Losses",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://variety.com/2026/tv/global/world-cup-ratings-show-final-big-draw-home-teams-beaten-1236816547/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "The big stories \u2014 and best photos \u2014 from the 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/news/world/world-cup-photos-9.7276199"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Jennifer Hudson Sings Her Heart Out in Ala\u00efa\u2019s Le C\u0153ur Shoes at the 2026 FIFA World Cup\u00a0Final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://wwd.com/footwear-news/shoe-trends/jennifer-hudson-alaia-white-shoes-2026-fifa-world-cup-final-1239074245/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "2026 World Cup Shatters Attendance Record",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/6c4928569d26007d"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Donald Trump Booed at World Cup Final Before Presenting Spain With Trophy",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://wealthofgeeks.com/donald-trump-booed-at-world-cup-final-before-presenting-spain-with-trophy/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Gallery: Rodri\u2019s FIFA World Cup triumph in pictures \u2013 World Cup trophy, Golden Ball, ring and more",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cityxtra.co.uk/50047/gallery-rodris-fifa-world-cup-triumph-in-pictures-world-cup-trophy-golden-ball-ring-and-more/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Lamine Yamal\u2019s Girlfriend Poses With World Cup Trophy",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usmagazine.com/sports/news/lamine-yamals-girlfriend-poses-with-world-cup-trophy/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "The symbolism behind Shakira\u2019s World Cup 2026 performance outfit",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://pagesix.com/2026/07/20/style/shakira-world-cup-2026-halftime-outfit-the-symbolism-behind-the-look/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Lamine Yamal hugs overjoyed 3-year-old brother in wholesome World Cup moment",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/07/20/sports/lamine-yamal-hugs-3-year-old-brother-in-wholesome-world-cup-moment/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Honor Robot Phone makes an unexpected appearance at the World Cup final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.gsmarena.com/honor_robot_phone_makes_an_unexpected_appearance_at_the_world_cup_final-news-73794.php"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "New York / New Jersey",
+      "event": "Why Las Vegas\u2019 $2 billion Allegiant Stadium was ruled out of hosting the FIFA World Cup final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/why-las-vegas-2-billion-allegiant-stadium-was-ruled-out-of-hosting-the-fifa-world-cup-final/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Argentina Player Received Red Card for What He Did After World Cup Final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/be1adea5e4d3fb3c"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "BTS's World Cup Jerseys Featured a Numerical Easter Egg Honoring Their History",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.teenvogue.com/story/bts-world-cup-jerseys-easter-egg-honoring-their-history"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Every 2026 World Cup Ad Ranked",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.adweek.com/creativity/top-world-cup-ads-2026/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Spain end their 16-year drought by winning the 2026 World Cup and breaking four major records",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/spain-end-their-16-year-drought-by-winning-the-2026-world-cup-and-breaking-four-major-records/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Drake loses $1.5m world cup bet as Spain beat Argentina",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/?p=2195076"
+        }
+      ]
+    },
     {
       "date": "Jul 21",
       "loc": "Global",
@@ -600,292 +914,7 @@
           "url": "https://punchng.com/video-spain-return-home-to-heroes-welcome-after-world-cup-triumph/"
         }
       ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Why the USA will likely host the 2038 World Cup after President Donald Trump\u2019s request",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/why-the-usa-will-likely-host-the-2038-world-cup-after-president-donald-trump-request/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Goals, technology and hydration breaks: How the biggest World Cup in history will be remembered - AP News",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184522834"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Rodri Hernandez enters exclusive club with Zinedine Zidane and more legends after winning the 2026 World Cup with Spain",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/rodri-hernandez-enters-exclusive-club-with-zinedine-zidane-and-more-legends-after-winning-the-2026-world-cup-with-spain/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "World Cup 2026 Team of the Tournament: Messi headlines star-studded line-up",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.101greatgoals.com/football/world-cup-news/world-cup-2026-team-of-the-tournament-messi-bellingham-rodri/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Lionel Messi makes major admission on Spain\u2019s dominance in World Cup Final after worst-ever record",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/lionel-messi-makes-major-admission-on-spains-dominance-in-world-cup-final-after-worst-ever-record/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "FIFA Is Selling Pieces of the World Cup Field for $450. Not Everyone\u2019s Thrilled",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.entrepreneur.com/business-news/fifa-is-selling-pieces-of-the-world-cup-field-for-450-not-everyones-thrilled"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Map Shows 2030 World Cup Stadium Locations Across 6 Countries",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/468015a132e1c07b"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Justin Bieber FIFA World Cup Performance Confuses Fans",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thehollywoodgossip.com/2026/07/justin-bieber-world-cup-halftime-show-reaction/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Lamine Yamal\u2019s girlfriend, Spain WAGs celebrate World Cup win in heartwarming photos",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/20/sports/lamine-yamals-girlfriend-spain-wags-celebrate-world-cup-win-in-heartwarming-photos/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Spain Appears To Have Had An Unfair Advantage Over Argentina In FIFA World Cup Final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://brobible.com/sports/article/spain-unfair-advantage-argentina-fifa-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Gallery: City at the 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.mancity.com/news/mens/manchester-city-world-cup-2026-gallery-63920149"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Uefa president Aleksander Ceferin boycotts World Cup final in protest against Fifa",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0117411a-d112-4dbd-97ab-27b22faa784c"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Trump and Infantino booed at World Cup trophy ceremony as politics and sport collide on global stage",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/trump-infantino-booed-world-cup-ceremony/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Spain wins 2026 World Cup as post-match brawl overshadows historic final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/spain-defeats-argentina-world-cup-final-chaos/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "'The Era of Red, Blue & Gold!': IPL champions RCB shares unique congratulatory message for FIFA World Cup winners Spain",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cricketnews.com/en/cricket/news/rcb-congratulatory-message-fifa-world-cup-winners-spain/52622d07873327652ffed821"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Avalanche powers FIFA World Cup ticketing as over 80,000 fans attend watch parties",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/avalanche-fifa-world-cup-ticketing-watch-parties/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "George Kittle, Breece Hall join chorus of NFL players calling for grass over turf",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/nfl/2026/07/20/george-kittle-breece-hall-nfl-grass-turf/90979919007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "New York / New Jersey",
-      "event": "It Took The Whole World Cup But There Is Finally Video Of World Cup Fans Crossing NJ Highways To Get To MetLife",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://brobible.com/sports/article/argentina-fans-crossing-highways-metlife-staidum-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "\u201cMy \u20a65m gone, I\u2019ll never bet again,\u201d Destiny Etiko laments after World Cup Final loss",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/my-\u20a65m-gone-ill-never-bet-again-destiny-etiko-laments-after-world-cup-final-loss/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-21T14:51:41.906889Z"
+  "lastUpdated": "2026-07-21T16:11:19.521646Z"
 }
