@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 0,
-    "p2": 5,
-    "p3": 36
+    "p1": 2,
+    "p2": 2,
+    "p3": 33
   },
   "watchlist": [
     {
@@ -131,576 +131,520 @@
   ],
   "risks": [
     {
-      "title": "Knicks star Josh Hart makes a surprising U-turn after Argentina\u2019s embarrassing World Cup defeat",
+      "title": "From Sponsor to Co\u2011creator: How Coca\u2011Cola Crafted \"Our FIFA World Cup\" for Chinese Fans",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup in the US has led to an insane growth in the popularity of soccer. New York Knicks star Josh Hart is among the many athletes who were invested in the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-21T07:24:40.351787Z",
+      "description": "SHANGHAI, July 20, 2026 /PRNewswire/ -- As the 2026 FIFA World Cup drew to a close, the Chinese national team was absent from the pitch, but the passion of Chinese fans remained strong. Facing this reality, Coca\u2011Cola launched the \"This Moment Toast to our FIF\u2026",
+      "timestamp": "2026-07-21T10:10:05.303033Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_940ed29f-4240-4416-9abe-057ce2b7d65f"
+          "url": "https://www.prnewswire.com/news-releases/from-sponsor-to-cocreator-how-cocacola-crafted-our-fifa-world-cup-for-chinese-fans-302829508.html"
         }
       ]
     },
     {
-      "title": "Spain Star Says He\u2019ll Shake Donald Trump\u2019s Hand to Stay Out of \u2018Prison\u2019",
+      "title": "FBI boss Kash Patel details how agency and partners secured record-shattering FIFA World Cup",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "In a Fox News Digital exclusive, FBI Director Kash Patel details the massive World Cup security operation, including 700 drone takedowns and no significant attacks.",
+      "timestamp": "2026-07-21T10:10:05.303074Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/politics/fbi-boss-kash-patel-details-how-agency-partners-secured-record-shattering-fifa-world-cup"
+        }
+      ]
+    },
+    {
+      "title": "Why Is FIFA Set To Earn A Record $9 Billion From The World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain defeated Argentina 1-0 after extra time to win the 2026 FIFA World Cup, but the tournament's biggest winner may be FIFA itself. According to CNBC, world football's governing body expects to generate more than $9 billion in revenue from the expanded comp\u2026",
+      "timestamp": "2026-07-21T10:10:05.303158Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/be1067d1b38b99a7"
+        }
+      ]
+    },
+    {
+      "title": "Spain's World Cup party turns tragic, 13-YO boy dies",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "A 13-year-old boy was killed and two others injured in Ciudad Rodrigo, Spain, when a fountain collapsed during celebrations for Spain's FIFA World Cup 2026 victory. The tragic incident cast a shadow over nationwide festivities after Spain secured its second W\u2026",
+      "timestamp": "2026-07-21T10:10:05.303212Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/spains-world-cup-party-turns-tragic-13-yo-boy-dies/20260720.htm"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Cup: What remains after football's biggest show?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "A worthy world champion, a call from the US president, security concerns and a few pleasant surprises. The 2026 World Cup is over. So what will we remember about global football's biggest World Cup ever?",
+      "timestamp": "2026-07-21T10:10:05.303296Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dw.com/en/taking-stock-of-2026-world-cup-footballs-biggest-show-yet/a-78032847"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Cup: What remains after football's biggest show?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "A worthy world champion, a call from the US president, security concerns, and a few pleasant surprises. The 2026 World Cup is over\u2014but what will we remember about the biggest World Cup so far?",
+      "timestamp": "2026-07-21T10:10:05.303325Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dw.com/en/2026-world-cup-what-remains-after-footballs-biggest-show/a-78032847"
+        }
+      ]
+    },
+    {
+      "title": "\u2018I Never Want It to End\u2019: The Surprise Economic Boost for World Cup Host Cities",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "As fears of a bust fizzled, venues including Philadelphia and Kansas City see increases in tourism.",
+      "timestamp": "2026-07-21T10:10:05.303350Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/bb81e913513976e8"
+        }
+      ]
+    },
+    {
+      "title": "FIFAs golden goose and the billions behind the beautiful game",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup generated record revenue, becoming football's biggest financial event. FIFA's revenue cycle reached fifteen billion dollars, nearly doubling previous earnings. Football development received the largest share of FIFA's substantial globa\u2026",
+      "timestamp": "2026-07-21T10:10:05.303432Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-record-revenue-prize-money-and-economic-impact-unveiled/articleshow/132509187.cms"
+        }
+      ]
+    },
+    {
+      "title": "Iran congratulates 'friendly' Spain on World Cup title",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Iranian President Masoud Pezeshkian celebrated Spain's victory in the final of the 2026 FIFA World Cup, describing the European nation as a \"friendly\" country.\"I congratulate the people and government...",
+      "timestamp": "2026-07-21T10:10:05.303526Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/dd8e63e6af34e1ca"
+        }
+      ]
+    },
+    {
+      "title": "\u201cThey started barking with him\u201d: Fans drop hilarious reactions as IShowSpeed posts special backstage picture with BTS at FIFA World Cup 2026 final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Popular streamer IShowSpeed enjoyed one of the biggest moments of the FIFA World Cup final after watching BTS perform during the halftime show. The viral streamer later met the K-pop group backstage. The internet personality became a trending topic as videos \u2026",
+      "timestamp": "2026-07-21T10:10:05.303566Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/world/us-streamers/they-started-barking-with-him-fans-drop-hilarious-reactions-as-ishowspeed-posts-special-backstage-picture-with-bts-at-fifa-world-cup-2026-final/articleshow/132510894.cms"
+        }
+      ]
+    },
+    {
+      "title": "Watch FIFA World Cup: Spain outclass Argentina to become world champions",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+      "timestamp": "2026-07-21T10:10:05.303615Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/video/2026/7/20/video-world-cup-2026-highlights"
+        }
+      ]
+    },
+    {
+      "title": "Top feel-good moments to remember now that the 2026 World Cup is over",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "From Lamine Yamal\u2019s younger brother stealing the spotlight to Vozinha being reunited with his mother.",
+      "timestamp": "2026-07-21T10:10:05.303652Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/news/2026/7/20/top-feel-good-moments-to-remember-now-that-the-2026-world-cup-is-over"
+        }
+      ]
+    },
+    {
+      "title": "9 World Cup Finals Decided In Extra Time",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup final joined an exclusive list after Spain edged Argentina 1-0 in extra time. This is the ninth time a Cup final went beyond the stipulated 90 minutes,",
+      "timestamp": "2026-07-21T10:10:05.303707Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/9-world-cup-finals-decided-in-extra-time-sports-listicle/20260720.htm"
+        }
+      ]
+    },
+    {
+      "title": "Watch: 15 Rioters Arrested in Argentina After World Cup Loss",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "Argentine law enforcement officials arrested at least 15 individuals in Buenos Aires late Sunday night after riots broke out following Argentina's defeat at the FIFA World Cup final.\nThe post Watch: 15 Rioters Arrested in Argentina After World Cup Loss appear\u2026",
+      "timestamp": "2026-07-21T10:10:05.303756Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.breitbart.com/latin-america/2026/07/20/watch-15-rioters-arrested-in-argentina-after-world-cup-loss/"
+        }
+      ]
+    },
+    {
+      "title": "ANDREW GIULIANI: How President Trump\u2019s World Cup vision showed America at its very best",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The White House Task Force on the 2026 FIFA World Cup deployed $625 million in security funding and $500 million in counter-drone technology.",
+      "timestamp": "2026-07-21T10:10:05.303833Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/opinion/andrew-giuliani-president-trumps-world-cup-vision-showed-america-very-best"
+        }
+      ]
+    },
+    {
+      "title": "Vozinha's tears, Vikings, and Spain's success: The images that defined the 2026 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup is now consigned to the history books but the images and memories of the tournament will last.From Vozinha's tears, toSpain's supremacy, here are some of the images that defined the...",
+      "timestamp": "2026-07-21T10:10:05.303857Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.footballmuse.com/features/vozinhas-tears-vikings-and-spains-success-the-images-that-defined-the-2026-world-cup"
+        }
+      ]
+    },
+    {
+      "title": "Torres Strikes in Extra Time as Spain Conquer the World Again",
       "risk": "medium",
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
-      "description": "Spanish soccer star Borja Iglesias says he will shake hands with Donald Trump, just to avoid prison. The striker made the comment ahead of the FIFA World Cup final match that ended with Spain\u2019s victory. Borja Iglesias jokes about Donald Trump handshake Spanis\u2026",
-      "timestamp": "2026-07-21T07:24:40.351867Z",
+      "description": "Spain are world champions for the second time after Ferran Torres scored the only goal of the 2026 World Cup final in the 106th minute, defeating Argentina 1-0 at MetLife Stadium in East Rutherford on...",
+      "timestamp": "2026-07-21T10:10:05.303877Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://www.realitytea.com/2026/07/20/world-cup-spain-borja-iglesias-donald-trump-handshake-condition/"
+          "url": "https://www.football-espana.net/2026/07/20/spain-2026-world-cup-winners-torres-argentina"
         }
       ]
     },
     {
-      "title": "Spain Star Says He\u2019ll Shake Donald Trump\u2019s Hand to Stay Out of \u2018Prison\u2019",
+      "title": "Spanish coach Luis de la Fuente hilariously reminds fans of Marc Cucurella\u2019s unique tattoo promise following Spain\u2019s FIFA World Cup 2026 triumph",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain defender Marc Cucurella is expected to fulfil a unique promise after Spain defeated Argentina 1-0 in the FIFA World Cup final. Before the title clash, the left-back had jokingly said he would get a tattoo of head coach Luis de la Fuente\u2019s face if Spain \u2026",
+      "timestamp": "2026-07-21T10:10:05.303962Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/spanish-coach-luis-de-la-fuente-hilariously-reminds-fans-of-marc-cucurellas-unique-tattoo-promise-following-spains-fifa-world-cup-2026-triumph/articleshow/132510862.cms"
+        }
+      ]
+    },
+    {
+      "title": "\u2018Una go qualify?\u2019 \u2013 Fans troll Super Eagles after \u2018See you in 2030\u2019 message to Spain",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Nigerian football fans have criticised the Super Eagles after the team's official X account congratulated Spain on winning the 2026 FIFA World Cup while declaring, \"See you in 2030.\"\nThe post \u2018Una go qualify?\u2019 \u2013 Fans troll Super Eagles after \u2018See you in 2030\u2019\u2026",
+      "timestamp": "2026-07-21T10:10:05.304066Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/una-go-qualify-fans-troll-super-eagles-after-see-you-in-2030-message-to-spain/"
+        }
+      ]
+    },
+    {
+      "title": "Teyana Taylor Sansho Scott_BFA.jpg",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Teyana Taylor attended the Tequila Don Julio 1942 Port of Champions x Tao Group Hospitality after party ahead of the FIFA World Cup 2026\u2122 Final.",
+      "timestamp": "2026-07-21T10:10:05.304147Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://extratv.com/photos/image_jpg_20260720_0772cc496ddb4de69862a8da71a0ddbe/"
+        }
+      ]
+    },
+    {
+      "title": "'This goal belongs to Spain': Torres' historic strike",
       "risk": "medium",
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
-      "description": "Spanish soccer star Borja Iglesias says he will shake hands with Donald Trump, just to avoid prison. The striker made the comment ahead of the FIFA World Cup final match that ended with Spain\u2019s victory. Borja Iglesias jokes about Donald Trump handshake Spanis\u2026",
-      "timestamp": "2026-07-21T07:24:40.351898Z",
+      "description": "Spain forward Ferran Torres dedicated his World Cup-winning goal to the entire nation after his extra-time strike secured a 1-0 victory over Argentina in the FIFA World Cup 2026 final. The 26-year-old's solitary goal of the tournament proved decisive, ending \u2026",
+      "timestamp": "2026-07-21T10:10:05.304172Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://www.mandatory.com/news/1814423-world-cup-spain-borja-iglesias-donald-trump-handshake-condition"
+          "url": "https://www.rediff.com/sports/report/this-goal-belongs-to-spain-torres-historic-strike-fifa-world-cup/20260720.htm"
         }
       ]
     },
     {
-      "title": "Enraged, defeated Argentina turned the Football World Cup final into a 'brawl'.",
+      "title": "UFC broadcast partner shades former champs, World Cup final with a single social media post",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "Spain managed to win the World Cup title by defeating current champions Argentina 1-0 in extra time in the final match of the 2026 FIFA World Cup football tournament held at MetLife Stadium in New Jersey. Argentina had to play with 10 players for most of the \u2026",
-      "timestamp": "2026-07-21T07:24:40.352000Z",
+      "description": "Paramount+ poked fun at the 2026 FIFA World Cup final by comparing it to one of the most lackluster fights in the history of the Ultimate Fighting Championship.",
+      "timestamp": "2026-07-21T10:10:05.304203Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://english.gossiplankanews.com/2026/07/enraged-defeated-argentina-turned.html"
+          "url": "https://www.sherdog.com/news/news/UFC-broadcast-partner-shades-former-champs-World-Cup-final-with-a-single-social-media-post-201987"
         }
       ]
     },
     {
-      "title": "Enzo Fern\u00e1ndez sees red as Spain beat Argentina to win the 2026 World Cup",
+      "title": "Argentina finish second at the World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "Spain beat Argentina, 1-0 in extra-time",
-      "timestamp": "2026-07-21T07:24:40.352023Z",
+      "description": "It was a bitter end in New York for Argentina and Lautaro Mart\u00ednez as Spain won the 2026 FIFA World Cup final thanks to Ferran Torres\u2019 goal early in the second half of extra time. El Toro did not f...",
+      "timestamp": "2026-07-21T10:10:05.304227Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/170313/enzo-fernandez-sees-red-as-spain-beat-argentina-to-win-the-2026-world-cup"
+          "url": "https://www.inter.it/en/news/world-cup-final-2026-spain-argentina-lautaro"
         }
       ]
     },
     {
-      "title": "Ten takeaways from the 2026 World Cup",
+      "title": "Argentina\u2019s Cristian Romero Appears to Ignore Donald Trump Handshake at World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "NEW YORK, July 20 : The World Cup wrapped up on Sunday, with Spain crowned champions after beating Argentina 1-0 after extra time in the final in front of a capacity crowd at New York New Jersey stadium. Here are some takeaways from the tournament, which was \u2026",
-      "timestamp": "2026-07-21T07:24:40.352080Z",
+      "description": "Argentina defender Cristian Romero appeared to deliberately avoid shaking hands with Donald Trump during the medal ceremony at the 2026 World Cup final. The incident happened after Argentina\u2019s 1-0 extra-time defeat to Spain at MetLife Stadium in New Jersey, w\u2026",
+      "timestamp": "2026-07-21T10:10:05.304253Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://www.channelnewsasia.com/sport/ten-takeaways-2026-world-cup-6265151"
+          "url": "https://www.realitytea.com/2026/07/20/donald-trump-handshake-cristian-romero-snub-world-cup/"
         }
       ]
     },
     {
-      "title": "Donald Trump\u2019s Awkward World Cup Cameo Gets a Blunt Hot-Mic Review",
+      "title": "10 Takeaways From 2026 FIFA World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "Donald Trump\u2019s stage appearance at the 2026 World Cup final turned uncomfortable when an SBS commentator\u2019s hot-mic remark exposed what many viewers were posting. The president walked onto the pitch at MetLife Stadium in New Jersey to present the trophy, only \u2026",
-      "timestamp": "2026-07-21T07:24:40.352166Z",
+      "description": "The 10 takeaways from the FIFA World Cup, which was co-hosted by the United States, Canada and Mexico.",
+      "timestamp": "2026-07-21T10:10:05.304270Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://www.mandatory.com/news/1814436-donald-trump-world-cup-spain-trophy-hot-mic-review"
+          "url": "https://www.rediff.com/sports/report/more-matches-more-goals-10-takeaways-from-2026-fifa-world-cup-spain-argentina/20260720.htm"
         }
       ]
     },
     {
-      "title": "Minister cites World Cup screenings as boost for local economies",
+      "title": "Argentina\u2019s Cristian Romero Appears to Ignore Donald Trump Handshake at World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "Minister of Micro, Small, and Medium Enterprises (MSME) Maman Abdurrahman confirmed that public screenings of the 2026 FIFA World Cup across Indonesia had ...",
-      "timestamp": "2026-07-21T07:24:40.352192Z",
+      "description": "Argentina defender Cristian Romero appeared to deliberately avoid shaking hands with Donald Trump during the medal ceremony at the 2026 World Cup final. The incident happened after Argentina\u2019s 1-0 extra-time defeat to Spain at MetLife Stadium in New Jersey, w\u2026",
+      "timestamp": "2026-07-21T10:10:05.304330Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://en.antaranews.com/news/423276/minister-cites-world-cup-screenings-as-boost-for-local-economies"
+          "url": "https://www.mandatory.com/news/1814465-donald-trump-handshake-cristian-romero-snub-world-cup"
         }
       ]
     },
     {
-      "title": "How Much Is The 2026 World Cup Win Worth To Spain?",
+      "title": "Real Madrid new signing Cucurella gets emotional after Spain win World Cup: \u2018It\u2019s not easy to get here\u2019",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "Spain clinched their second World Cup title with a 1-0 victory over Argentina, securing a record $50 million prize from FIFA, in addition to sponsorships.",
-      "timestamp": "2026-07-21T07:24:40.352239Z",
+      "description": "Real Madrid new signing Marc Cucurella was one of Spain\u2019s standout performers during the 2026 FIFA World Cup, playing a key role in the team\u2019s triumph with consistently impressive displays at left...",
+      "timestamp": "2026-07-21T10:10:05.304358Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://www.forbes.com/sites/samleveridge/2026/07/20/how-much-is-the-2026-world-cup-win-worth-to-spain/"
+          "url": "https://madriduniversal.com/real-madrid-new-signing-cucurella-gets-emotional-after-spain-win-world-cup-its-not-easy-to-get-here/"
         }
       ]
     },
     {
-      "title": "Hassan to Celtic is now apparently close to happening",
+      "title": "Neil Warnock delivers verdict on Tuchel\u2019s use of Kobbie Mainoo",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "Haissem Hassan to Celtic is apparently close to happening\u2026Haissem Hassan of Egypt competes for the ball against Julian Alvarez and Nicolas Tagliafico of Argentina during the FIFA World Cup 2026 Roun...",
-      "timestamp": "2026-07-21T07:24:40.352283Z",
+      "description": "Manchester United midfielder Kobbie Mainoo endured a disappointing 2026 FIFA World Cup as England finished third. The youngster failed to play a single minute, spending his entire time across the Atla...",
+      "timestamp": "2026-07-21T10:10:05.304471Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://celticshorts.com/2026/07/hassan-to-celtic-is-now-apparently-close-to-happening/"
+          "url": "https://thepeoplesperson.com/2026/07/20/neil-warnock-delivers-verdict-on-tuchels-use-of-kobbie-mainoo-312970/"
         }
       ]
     },
     {
-      "title": "Tom Cruise\u2019s World Cup Speech Draws Mixed Reactions, Roy Keane\u2019s Response Says It All",
+      "title": "A-List Stars Pack New Jersey Stadium for 2026 World Cup Final, From the Beckhams to Beyonce and Trump",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "Tom Cruise grabbed attention before the FIFA World Cup 2026 final with an inspirational opening speech. While the Hollywood star praised football and unity, his appearance received mixed reactions online. Even Manchester United legend Roy Keane summed up many\u2026",
-      "timestamp": "2026-07-21T07:24:40.352358Z",
+      "description": "The World Cup final at MetLife Stadium featured a historic halftime show and a star-studded audience, including celebrities, athletes, and political leaders, highlighting the event's global cultural impact.",
+      "timestamp": "2026-07-21T10:10:05.304519Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_45513266-5510-4d04-b24d-97b417f3dba0"
+          "url": "https://www.ibtimes.com.au/star-studded-world-cup-final-celebrities-leaders-1872640"
         }
       ]
     },
     {
-      "title": "Liam Gallagher Reacts to FIFA World Cup Halftime Show",
+      "title": "Fernandez sent off as Argentina lose World Cup final",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "Oasis frontman Liam Gallagher had a blunt review of FIFA\u2019s first World Cup final halftime show.",
-      "timestamp": "2026-07-21T07:24:40.352406Z",
+      "description": "Enzo Fernandez's 2026 World Cup ended in misery as the Chelsea midfielder was sent off in Argentina's final defeat to Spain. The 25-year-old had already been booked for showing dissent towards referee Slavko Vincic when he made a poor challenge on Pau Cubarsi\u2026",
+      "timestamp": "2026-07-21T10:10:05.304577Z",
       "links": [
         {
           "label": "Source",
-          "url": "http://www.billboard.com/music/music-news/liam-gallagher-fifa-world-cup-halftime-show-1236297975/"
+          "url": "https://www.bbc.com/sport/football/articles/cr7knppdyd1o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
         }
       ]
     },
     {
-      "title": "Bitter Argentina players turn their backs to Spain's World Cup trophy lift after violence marred winners' celebrations",
+      "title": "Rodri named best player at 2026 World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "The 2026 runners-up collected their silver medals from FIFA supremo Gianni Infantino and US President Donald Trump on the stage at the MetLife Stadium before the winners' trophy lift.",
-      "timestamp": "2026-07-21T07:24:40.352431Z",
+      "description": "Manchester City and Spain midfielder Rodri was named best player at the 2026 World Cup. The 30-year-old was a key figure in Spain's run to a second men's World Cup title and beat Argetina's Lionel Messi - the second-best player - to the Golden Ball.",
+      "timestamp": "2026-07-21T10:10:05.304628Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15989745/Bitter-Argentina-players-turn-backs-Spains-World-Cup-trophy-lift-violence-marred-winners-celebrations.html"
+          "url": "https://www.bbc.com/sport/football/articles/clyevp6107zo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
         }
       ]
     },
     {
-      "title": "rStream and Gillette Stadium Partner to Bring AI Robotics to Stadium Waste",
+      "title": "Barcelona once again at the heart of Spain\u2019s FIFA World Cup triumph",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "New on-site AI-powered sorting system helps advance waste diversion, operational efficiency, and sustainability after matches and concerts.  rStream's...",
-      "timestamp": "2026-07-21T07:24:40.352472Z",
+      "description": "FC Barcelona\u2019s influence on the Spanish national team was once again undeniable as eight Bar\u00e7a players helped Spain lift the 2026 FIFA World Cup, echoing the club\u2019s iconic contribution to the cou...",
+      "timestamp": "2026-07-21T10:10:05.304654Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://www.globenewswire.com/news-release/2026/07/20/3329441/0/en/rStream-and-Gillette-Stadium-Partner-to-Bring-AI-Robotics-to-Stadium-Waste.html"
+          "url": "https://barcauniversal.com/barcelona-once-again-at-the-heart-of-spains-fifa-world-cup-triumph/"
         }
       ]
     },
     {
-      "title": "Mohanlal@FIFA World Cup Final: 'Thank You, Football'",
+      "title": "Dave Portnoy calls out \u2018brutal call\u2019 from referee in World Cup final",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup Final saw a galaxy of stars on the field and off it.",
-      "timestamp": "2026-07-21T07:24:40.352505Z",
+      "description": "Dave Portnoy snaps at a controversial call in favor of Argentina during the 2026 FIFA World Cup final. Argentina and Spain were inseparable after 90 minutes during their 2026 FIFA World Cup clash at the MetLife Stadium.",
+      "timestamp": "2026-07-21T10:10:05.304739Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://www.rediff.com/movies/report/mohanlal-at-fifa-world-cup-final-thank-you-football/20260720.htm"
+          "url": "https://www.hitc.com/dave-portnoy-calls-out-brutal-call-from-referee-in-world-cup-final/"
         }
       ]
     },
     {
-      "title": "The Architecture of the FIFA World Cup: Looking Back at 2026 and Ahead to 2030",
+      "title": "(VIDEO) Trump Hails World Cup as a Major Global Success, Says Spain Fully Deserved Its Victory Over Argentina",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "The conclusion of the FIFA World Cup 2026 marks the end of the tournament's largest edition to date. Hosted across Canada, Mexico, and the United States, the competition expanded to 48 national teams and brought together sixteen host cities distributed across\u2026",
-      "timestamp": "2026-07-21T07:24:40.352546Z",
+      "description": "President Trump praised the 2026 FIFA World Cup as a success for the U.S., highlighting Spain's victory and diplomatic efforts amid logistical challenges and political tensions.",
+      "timestamp": "2026-07-21T10:10:05.304774Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://www.archdaily.com/1181248/the-architecture-of-the-fifa-world-cup-looking-back-at-2026-and-ahead-to-2030"
+          "url": "https://www.ibtimes.com.au/trump-hails-2026-fifa-world-cup-triumph-1872636"
         }
       ]
     },
     {
-      "title": "Robot Phone appears in the hands of FIFA World Cup 2026 winner",
+      "title": "'Thank you, India, once again': Argentina envoy thanks Indian fans after runners-up finish at FIFA World Cup 2026",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup is over after Spain defeated Argentina in a match that some may describe as somewhat tedious at times. The after show party may have been much more exciting for tech fans in particular where Honors yet unreleased Robot Phone made its a\u2026",
-      "timestamp": "2026-07-21T07:24:40.352578Z",
+      "description": "Argentina's Ambassador expressed gratitude to Indian football fans for their support.  The Argentine team finished runners-up in the FIFA World Cup 2026 final.  Spain secured a 1-0 victory after extra time in the championship match.  Ferran Torres scored the \u2026",
+      "timestamp": "2026-07-21T10:10:05.304825Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://www.notebookcheck.net/Robot-Phone-appears-in-the-hands-of-FIFA-World-Cup-2026-winner.1346963.0.html"
+          "url": "https://economictimes.indiatimes.com/news/sports/football/thank-you-india-argentinas-ambassador-celebrates-support-after-fifa-world-cup-2026-runners-up-finish/articleshow/132509445.cms"
         }
       ]
     },
     {
-      "title": "FIFA World Cup 2026 Ends with Passing of the Torch",
+      "title": "FULL list: World Cup all-time leading scorers",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "The FIFA World Cup 2026 ended with a great final match, culminating with a passing of the torch moment at its conclusion. The post FIFA World Cup 2026 Ends with Passing of the Torch appeared first on HEAVY.",
-      "timestamp": "2026-07-21T07:24:40.352599Z",
+      "description": "France captain Kylian Mbapp\u00e9 has become the FIFA World Cup's all-time leading scorer after ending the 2026 tournament with 22 goals.\nThe post FULL list: World Cup all-time leading scorers appeared first on Vanguard News.",
+      "timestamp": "2026-07-21T10:10:05.304894Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://heavy.com/sports/soccer/fifa-world-cup-2026-ends-with-passing-of-the-torch/"
+          "url": "https://www.vanguardngr.com/2026/07/full-list-world-cup-all-time-leading-scorers/"
         }
       ]
     },
     {
-      "title": "Spain Proved Defense Wins Championships, Even At The World Cup",
+      "title": "Kylian Mbappe makes history by winning the Golden Boot at the 2026 FIFA World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "There will be many articles following the conclusion of the 2026 FIFA World Cup that focus on Spain\u2019s defense, and for good reason.",
-      "timestamp": "2026-07-21T07:24:40.352624Z",
+      "description": "Real Madrid superstar and France captain Kylian Mbappe has made World Cup history by winning the Golden Boot for the second time in his career.After finishing as runner-up with France in Qatar 2022 an...",
+      "timestamp": "2026-07-21T10:10:05.304930Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/world-cup-spain-argentina-defense-wins-championships"
-        }
-      ]
-    },
-    {
-      "title": "The case for Pau Cubarsi to win the Ballon d\u2019Or \u2013 explained in statistics",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain added a second star to its badge after a nail-biting 1-0 win over Argentina in the final of the 2026 FIFA World Cup.It was a well-deserved accolade for La Roja, who had by far been the best team...",
-      "timestamp": "2026-07-21T07:24:40.352650Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/the-case-for-pau-cubarsi-to-win-the-ballon-dor-explained-in-statistics/"
-        }
-      ]
-    },
-    {
-      "title": "Spain end Messi era as Trump\u2019s awkward stunt overshadows Yamal\u2019s coronation",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Another FIFA World Cup has entered the history books, bringing to a close one footballing era and marking the beginning of another.Four years after Argentina\u2019s iconic win in Qatar, Spain returned to...",
-      "timestamp": "2026-07-21T07:24:40.352677Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://footballtoday.com/2026/07/20/world-cup-2026-argentina-spain-messi-yamal/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup final show slammed as \u2018lip-syncing contest\u2019 after IShowSpeed and Post Malone\u2019s performances",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "IShowSpeed performed his song \u2018World Cup (Champions)\u2019 to kick off the final match of the 2026 World Cup",
-      "timestamp": "2026-07-21T07:24:40.352768Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.the-independent.com/arts-entertainment/music/news/ishowspeed-post-malone-lip-syncing-world-cup-final-2026-b3017911.html"
-        }
-      ]
-    },
-    {
-      "title": "Spain fans celebrate World Cup win at parties across Southern California",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Fans gathered to watch the World Cup final at watch parties across Southern California on Sunday, including an official FIFA fan zone in Downtown Burbank.",
-      "timestamp": "2026-07-21T07:24:40.352810Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://abc7.com/post/spain-fans-celebrate-world-cup-win-parties-southern-california/19541747/"
-        }
-      ]
-    },
-    {
-      "title": "2026 FIFA World Cup Team of the Tournament: Messi, Mbappe and Rodri make Best XI",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain were crowned 2026 FIFA World Cup champions after beating Argentina in Sunday\u2019s final.Read on as we look at the Team of the tournament.Unai Simon: He won the Golden Glove award and recorded the...",
-      "timestamp": "2026-07-21T07:24:40.352880Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://footballtoday.com/2026/07/20/2026-fifa-world-cup-team-of-the-tournament-messi-mbappe-and-rodri-make-best-xi/"
-        }
-      ]
-    },
-    {
-      "title": "Man City 2026 World Cup Watch: Rodri and Spain crowned world champions after extra-time victory",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "Rodri and Spain were crowned champions of the world after a narrow extra-time victory over Lionel Messi and Argentina in the 2026 FIFA World Cup final on Sunday.A Ferran Torres strike in the 106th min...",
-      "timestamp": "2026-07-21T07:24:40.352950Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cityxtra.co.uk/50035/man-city-2026-world-cup-watch-rodri-and-spain-crowned-world-champions-after-extra-time-victory/"
-        }
-      ]
-    },
-    {
-      "title": "Spain become first nation to hold men\u2019s, women\u2019s World Cup titles simultaneously",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain becomes the first nation to simultaneously hold both the men\u2019s and women\u2019s FIFA World Cup titles, marking a historic achievement in football.\n\nRead More: https://punchng.com/spain-become-first-nation-to-hold-mens-womens-world-cup-titles-simultaneously/",
-      "timestamp": "2026-07-21T07:24:40.353048Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/spain-become-first-nation-to-hold-mens-womens-world-cup-titles-simultaneously/"
-        }
-      ]
-    },
-    {
-      "title": "49ers\u2019 George Kittle Sends Pleading Message to NFL During World Cup Final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "San Francisco 49ers star tight end George Kittle attended the World Cup final between Spain and Argentina at MetLife Stadium in East Rutherford, New Jersey.MetLife Stadium, home of the New York Giants and New York Jets, uses artificial turf during the NFL sea\u2026",
-      "timestamp": "2026-07-21T07:24:40.353077Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://heavy.com/sports/nfl/san-francisco-49ers/george-kittle-nfl-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "US recorded zero major security incidents during World Cup \u2013 FBI",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "The FBI Director announced zero major security incidents during the 2026 FIFA World Cup in the US, praising coordinated efforts for the historic event.\n\nRead More: https://punchng.com/us-recorded-zero-major-security-incidents-during-world-cup-fbi/",
-      "timestamp": "2026-07-21T07:24:40.353135Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/us-recorded-zero-major-security-incidents-during-world-cup-fbi/"
-        }
-      ]
-    },
-    {
-      "title": "Donald Trump\u2019s awkward FIFA World Cup trophy moment, stays on podium during Spain\u2019s celebration, Gianni Infantino steps in; watch video",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain secured their second World Cup title after defeating Argentina 1-0 in extra time. Donald Trump attended the FIFA World Cup 2026 final match and trophy ceremony. He stood with the Spanish players on the podium during their victory celebrations. Trump als\u2026",
-      "timestamp": "2026-07-21T07:24:40.353210Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/donald-trumps-awkward-fifa-world-cup-trophy-moment-stays-on-podium-during-spains-celebration-gianni-infantino-steps-in-watch-video/articleshow/132506347.cms"
-        }
-      ]
-    },
-    {
-      "title": "SBS host suffers hot mic moment at FIFA World Cup final celebration after Donald Trump refused to leave Spain's side during iconic trophy lift",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Spanish football team had just beaten Argentina 1-0 in extra time and were celebrating the momentous win on stage as Trump stood nearby.",
-      "timestamp": "2026-07-21T07:24:40.353237Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15989711/SBS-host-hot-mic-FIFA-World-Cup-trophy-lift-Spain.html"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026: The best goals, best players, best teams, best matches",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The enduring brilliance of Lionel Messi, Donald Trump\u2019s shocking intervention, and Ireland\u2019s adoption of Cape Verde marked an engrossing World Cup",
-      "timestamp": "2026-07-21T07:24:40.353300Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.irishtimes.com/sport/soccer/2026/07/20/world-cup-2026-highs-and-lows-our-writers-have-their-say-on-the-tournament/"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi broke down in tears after potential last World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi became emotional following Argentina\u2019s FIFA World Cup final loss on Sunday. The soccer legend is 39-years-old and may have played his last World Cup game. Fans inside New York New Jersey Stadium gave him a standing ovation that\u2026",
-      "timestamp": "2026-07-21T07:24:40.353374Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/lionel-messi-broke-down-tears-after-potential-last-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "Hero, zero from World Cup final: Argentina made brutal history in regulation",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Hero, zero and more from Spain's win over Argentina in the World Cup final Sunday at MetLife Stadium.",
-      "timestamp": "2026-07-21T07:24:40.353402Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/20/sports/hero-zero-from-world-cup-final-argentina-made-brutal-history/"
-        }
-      ]
-    },
-    {
-      "title": "Many feared a US World Cup under Trump would be a disaster. Its legacy will prove\u00a0otherwise",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup has been a raging success, judging by the numbers, the atmosphere and the absence of any major security incident. It\u2019s ironic, then, that officials from the powerful European nations are pushing for FIFA President Gianni Infantino\u2019s re\u2026",
-      "timestamp": "2026-07-21T07:24:40.353431Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.khabarhub.com/2026/20/559420/"
-        }
-      ]
-    },
-    {
-      "title": "Quote of the day by Spanish footballer Ferran Torres: \u2018The goal was for 47 million people; it wasn't just\u2026\u2019 \u2013 A powerful reminder that true victories belong to everyone who believes",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Ferran Torres scored the winning goal in the 2026 FIFA World Cup final. He dedicated this significant achievement to the entire Spanish nation. Torres stated the goal was for 47 million people, not just himself. His words highlight the shared nature of sporti\u2026",
-      "timestamp": "2026-07-21T07:24:40.353485Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/international/australia/quote-of-the-day-by-spanish-footballer-ferran-torres-the-goal-was-for-47-million-people-it-wasnt-just-a-powerful-reminder-that-true-victories-belong-to-everyone-who-believes/articleshow/132506081.cms"
-        }
-      ]
-    },
-    {
-      "title": "Jung Ho Yeon Becomes First Korean Actress To Participate In Official Event At FIFA World Cup Final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Top model-turned-actress Jung Ho Yeon made a surprise appearance on the stage of the 2026 FIFA World Cup final! At the World Cup final on July 19 (local time), before kickoff, Jung Ho Yeon entered the field for the Trophy Trunk ceremony alongside world-renown\u2026",
-      "timestamp": "2026-07-21T07:24:40.353519Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.soompi.com/article/1855962wpp/jung-ho-yeon-becomes-first-korean-actress-to-participate-in-official-event-at-fifa-world-cup-final"
-        }
-      ]
-    },
-    {
-      "title": "Ballon d'Or Race Wide Open as Yamal, Kane, Mbappe, Rodri, Dembele and Messi Vie for Soccer's Top Prize",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Following the 2026 World Cup, attention shifts to the Ballon d'Or, with standout performances from Lamine Yamal, Harry Kane, and Kylian Mbappe challenging Lionel Messi's dominance.",
-      "timestamp": "2026-07-21T07:24:40.353541Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ibtimes.com.au/ballon-dor-2026-new-era-soccer-greats-1872611"
-        }
-      ]
-    },
-    {
-      "title": "(VIDEO) BTS Lights Up First-Ever FIFA World Cup Final Halftime Show With Reworked Dynamite, Sparks Global Buzz",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "BTS delivered a historic performance at the 2026 FIFA World Cup final, marking the first-ever halftime show in the tournament's history, curated by Coldplay's Chris Martin and produced by Global Citizen.",
-      "timestamp": "2026-07-21T07:24:40.353577Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ibtimes.com.au/bts-world-cup-final-halftime-show-1872610"
-        }
-      ]
-    },
-    {
-      "title": "Argentina Fans Continue Support in Droves Following Heartbreaking End to FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina just had its worst outing against Spain in the 2026 FIFA World Cup final. Losing 1-0, and that too without a single shot on target, means Argentina was outskilled by Spain.",
-      "timestamp": "2026-07-21T07:24:40.353639Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.essentiallysports.com/us-sports-soccer-news-argentina-fans-continue-support-in-droves-following-heartbreaking-end-to-fifa-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "(VIDEO) World Cup Final Debuts First Halftime Show With Shakira, Madonna, BTS and Bieber, Draws Mixed Reviews",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup final featured a historic halftime show curated by Coldplay's Chris Martin, sparking mixed reactions over its American-style entertainment in a traditionally sport-focused event.",
-      "timestamp": "2026-07-21T07:24:40.353716Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ibtimes.com.au/2026-fifa-world-cup-final-halftime-show-1872608"
-        }
-      ]
-    },
-    {
-      "title": "IShowSpeed meets BTS at FIFA World Cup final, celebrates with hugs and a backflip",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The American streamer was livestreaming his experience at the World Cup final when he was told BTS were nearby, leading to an excited backstage meeting complete with hugs, jumps for joy, a backflip and a group photo.",
-      "timestamp": "2026-07-21T07:24:40.353778Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cnalifestyle.channelnewsasia.com/entertainment/ishowspeed-meets-bts-fifa-world-cup-final-586211"
+          "url": "https://madriduniversal.com/kylian-mbappe-makes-history-by-winning-the-golden-boot-at-the-2026-fifa-world-cup/"
         }
       ]
     }
@@ -709,7 +653,7 @@
     {
       "date": "Jul 21",
       "loc": "Global",
-      "event": "Knicks star Josh Hart makes a surprising U-turn after Argentina\u2019s embarrassing World Cup defeat",
+      "event": "From Sponsor to Co\u2011creator: How Coca\u2011Cola Crafted \"Our FIFA World Cup\" for Chinese Fans",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
@@ -717,14 +661,239 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_940ed29f-4240-4416-9abe-057ce2b7d65f"
+          "url": "https://www.prnewswire.com/news-releases/from-sponsor-to-cocreator-how-cocacola-crafted-our-fifa-world-cup-for-chinese-fans-302829508.html"
         }
       ]
     },
     {
       "date": "Jul 21",
       "loc": "Global",
-      "event": "Spain Star Says He\u2019ll Shake Donald Trump\u2019s Hand to Stay Out of \u2018Prison\u2019",
+      "event": "FBI boss Kash Patel details how agency and partners secured record-shattering FIFA World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/politics/fbi-boss-kash-patel-details-how-agency-partners-secured-record-shattering-fifa-world-cup"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Why Is FIFA Set To Earn A Record $9 Billion From The World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/be1067d1b38b99a7"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Spain's World Cup party turns tragic, 13-YO boy dies",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/spains-world-cup-party-turns-tragic-13-yo-boy-dies/20260720.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "2026 World Cup: What remains after football's biggest show?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dw.com/en/taking-stock-of-2026-world-cup-footballs-biggest-show-yet/a-78032847"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "2026 World Cup: What remains after football's biggest show?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dw.com/en/2026-world-cup-what-remains-after-footballs-biggest-show/a-78032847"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Kansas City",
+      "event": "\u2018I Never Want It to End\u2019: The Surprise Economic Boost for World Cup Host Cities",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/bb81e913513976e8"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "FIFAs golden goose and the billions behind the beautiful game",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-2026-record-revenue-prize-money-and-economic-impact-unveiled/articleshow/132509187.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Iran congratulates 'friendly' Spain on World Cup title",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/dd8e63e6af34e1ca"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "\u201cThey started barking with him\u201d: Fans drop hilarious reactions as IShowSpeed posts special backstage picture with BTS at FIFA World Cup 2026 final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/world/us-streamers/they-started-barking-with-him-fans-drop-hilarious-reactions-as-ishowspeed-posts-special-backstage-picture-with-bts-at-fifa-world-cup-2026-final/articleshow/132510894.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Watch FIFA World Cup: Spain outclass Argentina to become world champions",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/video/2026/7/20/video-world-cup-2026-highlights"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Top feel-good moments to remember now that the 2026 World Cup is over",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/news/2026/7/20/top-feel-good-moments-to-remember-now-that-the-2026-world-cup-is-over"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "9 World Cup Finals Decided In Extra Time",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/9-world-cup-finals-decided-in-extra-time-sports-listicle/20260720.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Watch: 15 Rioters Arrested in Argentina After World Cup Loss",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.breitbart.com/latin-america/2026/07/20/watch-15-rioters-arrested-in-argentina-after-world-cup-loss/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "ANDREW GIULIANI: How President Trump\u2019s World Cup vision showed America at its very best",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/opinion/andrew-giuliani-president-trumps-world-cup-vision-showed-america-very-best"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Vozinha's tears, Vikings, and Spain's success: The images that defined the 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.footballmuse.com/features/vozinhas-tears-vikings-and-spains-success-the-images-that-defined-the-2026-world-cup"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "New York / New Jersey",
+      "event": "Torres Strikes in Extra Time as Spain Conquer the World Again",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "medium",
@@ -732,14 +901,59 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://www.realitytea.com/2026/07/20/world-cup-spain-borja-iglesias-donald-trump-handshake-condition/"
+          "url": "https://www.football-espana.net/2026/07/20/spain-2026-world-cup-winners-torres-argentina"
         }
       ]
     },
     {
       "date": "Jul 21",
       "loc": "Global",
-      "event": "Spain Star Says He\u2019ll Shake Donald Trump\u2019s Hand to Stay Out of \u2018Prison\u2019",
+      "event": "Spanish coach Luis de la Fuente hilariously reminds fans of Marc Cucurella\u2019s unique tattoo promise following Spain\u2019s FIFA World Cup 2026 triumph",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/spanish-coach-luis-de-la-fuente-hilariously-reminds-fans-of-marc-cucurellas-unique-tattoo-promise-following-spains-fifa-world-cup-2026-triumph/articleshow/132510862.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "\u2018Una go qualify?\u2019 \u2013 Fans troll Super Eagles after \u2018See you in 2030\u2019 message to Spain",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/una-go-qualify-fans-troll-super-eagles-after-see-you-in-2030-message-to-spain/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Teyana Taylor Sansho Scott_BFA.jpg",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://extratv.com/photos/image_jpg_20260720_0772cc496ddb4de69862a8da71a0ddbe/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "'This goal belongs to Spain': Torres' historic strike",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "medium",
@@ -747,14 +961,44 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://www.mandatory.com/news/1814423-world-cup-spain-borja-iglesias-donald-trump-handshake-condition"
+          "url": "https://www.rediff.com/sports/report/this-goal-belongs-to-spain-torres-historic-strike-fifa-world-cup/20260720.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "UFC broadcast partner shades former champs, World Cup final with a single social media post",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sherdog.com/news/news/UFC-broadcast-partner-shades-former-champs-World-Cup-final-with-a-single-social-media-post-201987"
+        }
+      ]
+    },
+    {
+      "date": "Jul 21",
+      "loc": "Global",
+      "event": "Argentina finish second at the World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.inter.it/en/news/world-cup-final-2026-spain-argentina-lautaro"
         }
       ]
     },
     {
       "date": "Jul 21",
       "loc": "New York / New Jersey",
-      "event": "Enraged, defeated Argentina turned the Football World Cup final into a 'brawl'.",
+      "event": "Argentina\u2019s Cristian Romero Appears to Ignore Donald Trump Handshake at World Cup",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
@@ -762,14 +1006,14 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://english.gossiplankanews.com/2026/07/enraged-defeated-argentina-turned.html"
+          "url": "https://www.realitytea.com/2026/07/20/donald-trump-handshake-cristian-romero-snub-world-cup/"
         }
       ]
     },
     {
       "date": "Jul 21",
       "loc": "Global",
-      "event": "Enzo Fern\u00e1ndez sees red as Spain beat Argentina to win the 2026 World Cup",
+      "event": "10 Takeaways From 2026 FIFA World Cup",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
@@ -777,29 +1021,14 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/170313/enzo-fernandez-sees-red-as-spain-beat-argentina-to-win-the-2026-world-cup"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Ten takeaways from the 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.channelnewsasia.com/sport/ten-takeaways-2026-world-cup-6265151"
+          "url": "https://www.rediff.com/sports/report/more-matches-more-goals-10-takeaways-from-2026-fifa-world-cup-spain-argentina/20260720.htm"
         }
       ]
     },
     {
       "date": "Jul 21",
       "loc": "New York / New Jersey",
-      "event": "Donald Trump\u2019s Awkward World Cup Cameo Gets a Blunt Hot-Mic Review",
+      "event": "Argentina\u2019s Cristian Romero Appears to Ignore Donald Trump Handshake at World Cup",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
@@ -807,14 +1036,14 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://www.mandatory.com/news/1814436-donald-trump-world-cup-spain-trophy-hot-mic-review"
+          "url": "https://www.mandatory.com/news/1814465-donald-trump-handshake-cristian-romero-snub-world-cup"
         }
       ]
     },
     {
       "date": "Jul 21",
       "loc": "Global",
-      "event": "Minister cites World Cup screenings as boost for local economies",
+      "event": "Real Madrid new signing Cucurella gets emotional after Spain win World Cup: \u2018It\u2019s not easy to get here\u2019",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
@@ -822,14 +1051,14 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://en.antaranews.com/news/423276/minister-cites-world-cup-screenings-as-boost-for-local-economies"
+          "url": "https://madriduniversal.com/real-madrid-new-signing-cucurella-gets-emotional-after-spain-win-world-cup-its-not-easy-to-get-here/"
         }
       ]
     },
     {
       "date": "Jul 21",
       "loc": "Global",
-      "event": "How Much Is The 2026 World Cup Win Worth To Spain?",
+      "event": "Neil Warnock delivers verdict on Tuchel\u2019s use of Kobbie Mainoo",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
@@ -837,59 +1066,14 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://www.forbes.com/sites/samleveridge/2026/07/20/how-much-is-the-2026-world-cup-win-worth-to-spain/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Hassan to Celtic is now apparently close to happening",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://celticshorts.com/2026/07/hassan-to-celtic-is-now-apparently-close-to-happening/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Tom Cruise\u2019s World Cup Speech Draws Mixed Reactions, Roy Keane\u2019s Response Says It All",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_45513266-5510-4d04-b24d-97b417f3dba0"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Liam Gallagher Reacts to FIFA World Cup Halftime Show",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.billboard.com/music/music-news/liam-gallagher-fifa-world-cup-halftime-show-1236297975/"
+          "url": "https://thepeoplesperson.com/2026/07/20/neil-warnock-delivers-verdict-on-tuchels-use-of-kobbie-mainoo-312970/"
         }
       ]
     },
     {
       "date": "Jul 21",
       "loc": "New York / New Jersey",
-      "event": "Bitter Argentina players turn their backs to Spain's World Cup trophy lift after violence marred winners' celebrations",
+      "event": "A-List Stars Pack New Jersey Stadium for 2026 World Cup Final, From the Beckhams to Beyonce and Trump",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
@@ -897,29 +1081,14 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15989745/Bitter-Argentina-players-turn-backs-Spains-World-Cup-trophy-lift-violence-marred-winners-celebrations.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Boston",
-      "event": "rStream and Gillette Stadium Partner to Bring AI Robotics to Stadium Waste",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.globenewswire.com/news-release/2026/07/20/3329441/0/en/rStream-and-Gillette-Stadium-Partner-to-Bring-AI-Robotics-to-Stadium-Waste.html"
+          "url": "https://www.ibtimes.com.au/star-studded-world-cup-final-celebrities-leaders-1872640"
         }
       ]
     },
     {
       "date": "Jul 21",
       "loc": "Global",
-      "event": "Mohanlal@FIFA World Cup Final: 'Thank You, Football'",
+      "event": "Fernandez sent off as Argentina lose World Cup final",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
@@ -927,14 +1096,14 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://www.rediff.com/movies/report/mohanlal-at-fifa-world-cup-final-thank-you-football/20260720.htm"
+          "url": "https://www.bbc.com/sport/football/articles/cr7knppdyd1o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
         }
       ]
     },
     {
       "date": "Jul 21",
       "loc": "Global",
-      "event": "The Architecture of the FIFA World Cup: Looking Back at 2026 and Ahead to 2030",
+      "event": "Rodri named best player at 2026 World Cup",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
@@ -942,14 +1111,14 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://www.archdaily.com/1181248/the-architecture-of-the-fifa-world-cup-looking-back-at-2026-and-ahead-to-2030"
+          "url": "https://www.bbc.com/sport/football/articles/clyevp6107zo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
         }
       ]
     },
     {
       "date": "Jul 21",
       "loc": "Global",
-      "event": "Robot Phone appears in the hands of FIFA World Cup 2026 winner",
+      "event": "Barcelona once again at the heart of Spain\u2019s FIFA World Cup triumph",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
@@ -957,149 +1126,14 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://www.notebookcheck.net/Robot-Phone-appears-in-the-hands-of-FIFA-World-Cup-2026-winner.1346963.0.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026 Ends with Passing of the Torch",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://heavy.com/sports/soccer/fifa-world-cup-2026-ends-with-passing-of-the-torch/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Spain Proved Defense Wins Championships, Even At The World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/world-cup-spain-argentina-defense-wins-championships"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "The case for Pau Cubarsi to win the Ballon d\u2019Or \u2013 explained in statistics",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/the-case-for-pau-cubarsi-to-win-the-ballon-dor-explained-in-statistics/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Spain end Messi era as Trump\u2019s awkward stunt overshadows Yamal\u2019s coronation",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://footballtoday.com/2026/07/20/world-cup-2026-argentina-spain-messi-yamal/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "World Cup final show slammed as \u2018lip-syncing contest\u2019 after IShowSpeed and Post Malone\u2019s performances",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.the-independent.com/arts-entertainment/music/news/ishowspeed-post-malone-lip-syncing-world-cup-final-2026-b3017911.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Spain fans celebrate World Cup win at parties across Southern California",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://abc7.com/post/spain-fans-celebrate-world-cup-win-parties-southern-california/19541747/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "2026 FIFA World Cup Team of the Tournament: Messi, Mbappe and Rodri make Best XI",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://footballtoday.com/2026/07/20/2026-fifa-world-cup-team-of-the-tournament-messi-mbappe-and-rodri-make-best-xi/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Man City 2026 World Cup Watch: Rodri and Spain crowned world champions after extra-time victory",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cityxtra.co.uk/50035/man-city-2026-world-cup-watch-rodri-and-spain-crowned-world-champions-after-extra-time-victory/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Spain become first nation to hold men\u2019s, women\u2019s World Cup titles simultaneously",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/spain-become-first-nation-to-hold-mens-womens-world-cup-titles-simultaneously/"
+          "url": "https://barcauniversal.com/barcelona-once-again-at-the-heart-of-spains-fifa-world-cup-triumph/"
         }
       ]
     },
     {
       "date": "Jul 21",
       "loc": "New York / New Jersey",
-      "event": "49ers\u2019 George Kittle Sends Pleading Message to NFL During World Cup Final",
+      "event": "Dave Portnoy calls out \u2018brutal call\u2019 from referee in World Cup final",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
@@ -1107,29 +1141,14 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://heavy.com/sports/nfl/san-francisco-49ers/george-kittle-nfl-world-cup/"
+          "url": "https://www.hitc.com/dave-portnoy-calls-out-brutal-call-from-referee-in-world-cup-final/"
         }
       ]
     },
     {
       "date": "Jul 21",
       "loc": "Global",
-      "event": "US recorded zero major security incidents during World Cup \u2013 FBI",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/us-recorded-zero-major-security-incidents-during-world-cup-fbi/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Donald Trump\u2019s awkward FIFA World Cup trophy moment, stays on podium during Spain\u2019s celebration, Gianni Infantino steps in; watch video",
+      "event": "(VIDEO) Trump Hails World Cup as a Major Global Success, Says Spain Fully Deserved Its Victory Over Argentina",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
@@ -1137,14 +1156,14 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/donald-trumps-awkward-fifa-world-cup-trophy-moment-stays-on-podium-during-spains-celebration-gianni-infantino-steps-in-watch-video/articleshow/132506347.cms"
+          "url": "https://www.ibtimes.com.au/trump-hails-2026-fifa-world-cup-triumph-1872636"
         }
       ]
     },
     {
       "date": "Jul 21",
       "loc": "Global",
-      "event": "SBS host suffers hot mic moment at FIFA World Cup final celebration after Donald Trump refused to leave Spain's side during iconic trophy lift",
+      "event": "'Thank you, India, once again': Argentina envoy thanks Indian fans after runners-up finish at FIFA World Cup 2026",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
@@ -1152,14 +1171,14 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15989711/SBS-host-hot-mic-FIFA-World-Cup-trophy-lift-Spain.html"
+          "url": "https://economictimes.indiatimes.com/news/sports/football/thank-you-india-argentinas-ambassador-celebrates-support-after-fifa-world-cup-2026-runners-up-finish/articleshow/132509445.cms"
         }
       ]
     },
     {
       "date": "Jul 21",
       "loc": "Global",
-      "event": "World Cup 2026: The best goals, best players, best teams, best matches",
+      "event": "FULL list: World Cup all-time leading scorers",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
@@ -1167,14 +1186,14 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://www.irishtimes.com/sport/soccer/2026/07/20/world-cup-2026-highs-and-lows-our-writers-have-their-say-on-the-tournament/"
+          "url": "https://www.vanguardngr.com/2026/07/full-list-world-cup-all-time-leading-scorers/"
         }
       ]
     },
     {
       "date": "Jul 21",
       "loc": "Global",
-      "event": "Lionel Messi broke down in tears after potential last World Cup",
+      "event": "Kylian Mbappe makes history by winning the Golden Boot at the 2026 FIFA World Cup",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
@@ -1182,145 +1201,10 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://www.thebiglead.com/lionel-messi-broke-down-tears-after-potential-last-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "New York / New Jersey",
-      "event": "Hero, zero from World Cup final: Argentina made brutal history in regulation",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/07/20/sports/hero-zero-from-world-cup-final-argentina-made-brutal-history/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Many feared a US World Cup under Trump would be a disaster. Its legacy will prove\u00a0otherwise",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://english.khabarhub.com/2026/20/559420/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Quote of the day by Spanish footballer Ferran Torres: \u2018The goal was for 47 million people; it wasn't just\u2026\u2019 \u2013 A powerful reminder that true victories belong to everyone who believes",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/international/australia/quote-of-the-day-by-spanish-footballer-ferran-torres-the-goal-was-for-47-million-people-it-wasnt-just-a-powerful-reminder-that-true-victories-belong-to-everyone-who-believes/articleshow/132506081.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Jung Ho Yeon Becomes First Korean Actress To Participate In Official Event At FIFA World Cup Final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.soompi.com/article/1855962wpp/jung-ho-yeon-becomes-first-korean-actress-to-participate-in-official-event-at-fifa-world-cup-final"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Ballon d'Or Race Wide Open as Yamal, Kane, Mbappe, Rodri, Dembele and Messi Vie for Soccer's Top Prize",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ibtimes.com.au/ballon-dor-2026-new-era-soccer-greats-1872611"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "(VIDEO) BTS Lights Up First-Ever FIFA World Cup Final Halftime Show With Reworked Dynamite, Sparks Global Buzz",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ibtimes.com.au/bts-world-cup-final-halftime-show-1872610"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Argentina Fans Continue Support in Droves Following Heartbreaking End to FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.essentiallysports.com/us-sports-soccer-news-argentina-fans-continue-support-in-droves-following-heartbreaking-end-to-fifa-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "(VIDEO) World Cup Final Debuts First Halftime Show With Shakira, Madonna, BTS and Bieber, Draws Mixed Reviews",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ibtimes.com.au/2026-fifa-world-cup-final-halftime-show-1872608"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "IShowSpeed meets BTS at FIFA World Cup final, celebrates with hugs and a backflip",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cnalifestyle.channelnewsasia.com/entertainment/ishowspeed-meets-bts-fifa-world-cup-final-586211"
+          "url": "https://madriduniversal.com/kylian-mbappe-makes-history-by-winning-the-golden-boot-at-the-2026-fifa-world-cup/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-21T07:24:40.354008Z"
+  "lastUpdated": "2026-07-21T10:10:05.305071Z"
 }
