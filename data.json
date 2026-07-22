@@ -5,7 +5,7 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 0,
+    "p1": 1,
     "p2": 1,
     "p3": 39
   },
@@ -131,12 +131,124 @@
   ],
   "risks": [
     {
+      "title": "Post-Match Clash In World Cup Final Triggers FIFA Probe",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA has launched an investigation into Argentina following post-match incidents that occurred after the team's defeat to Spain in the FIFA World Cup final at MetLife Stadium in New Jersey. \nAccording to the report, Spain secured a 1-0 victory after substitut\u2026",
+      "timestamp": "2026-07-22T01:14:03.578344Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/bf2df8dad857b43d"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Messi Legacy Debate: What The 2026 World Cup Final Means For The GOAT Argument",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The Lionel Messi legacy has been built over nearly two decades of unprecedented success, and the 2026 World Cup final added one last defining chapter. Messi has now done something no other player in history has managed. He won the World Cup\u2019s Golden Ball twic\u2026",
+      "timestamp": "2026-07-22T01:14:03.578413Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.stadiumrant.com/lionel-messi-legacy-debate-what-the-2026-world/"
+        }
+      ]
+    },
+    {
+      "title": "Kylie Jenner\u2019s Daughter Stormi Photobombs Tom Brady\u2019s Pic With Son",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "Tom Brady might have to call interference on an adorable photobomber.\nThe seven-time Super Bowl champ shared a selfie with his and ex Bridget Moynahan\u2019s son Jack, 18, at the 2026 World Cup Final,...",
+      "timestamp": "2026-07-22T01:14:03.578495Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.eonline.com/news/1434172/world-cup-kylie-jenners-daughter-stormi-photobombs-tom-brady-son-jack"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Messi Speaks Out After Argentina Loses World Cup: \u2018The Pain Is Immense\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lionel Messi reflected on his 2026 World Cup journey, including Argentina\u2019s wins and loss against Spain.",
+      "timestamp": "2026-07-22T01:14:03.578536Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.today.com/news/sports/lionel-messi-speaks-out-argentina-loses-world-cup-rcna588457"
+        }
+      ]
+    },
+    {
+      "title": "2026 FIFA World Cup Final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Overview 2026 FIFA World Cup Final was the final championship football match between Spain and Argentina of the 2026 FIFA World Cup. The match was played a",
+      "timestamp": "2026-07-22T01:14:03.578559Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://knowyourmeme.com/memes/events/2026-fifa-world-cup-final"
+        }
+      ]
+    },
+    {
+      "title": "Shakira faces backlash after backing Lionel Messi and Argentina over Spain despite her two Spanish sons",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Shakira sparked debate after telling RTVE that she wanted Lionel Messi and Argentina to win the 2026 FIFA World Cup final, even though her sons supported Spain. After Spain\u2019s victory, she also praised Argentina on Instagram. Her comments led to strong reactio\u2026",
+      "timestamp": "2026-07-22T01:14:03.578642Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/international-sports/shakira-faces-backlash-after-backing-lionel-messi-and-argentina-over-spain-despite-her-two-spanish-sons/articleshow/132526105.cms"
+        }
+      ]
+    },
+    {
+      "title": "Were Trump and FIFA President Infantino booed at World Cup trophy presentation?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The crowd at the 2026 World Cup Final booed when U.S. President Donald Trump and FIFA President Gianni Infantino walked onto the pitch to present the tournament's trophy to Spain.",
+      "timestamp": "2026-07-22T01:14:03.578668Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.snopes.com//fact-check/trump-infantino-booed-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "Argentina faces potential sanctions as FIFA opens disciplinary review into World Cup final clash with Spain",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Following the incidents in the 2026 World Cup final between Argentina and Spain players, FIFA has opened a disciplinary review with players from the Albiceleste facing potential sanctions. The 2026 World Cup final at MetLife Stadium ended with Spain claiming \u2026",
+      "timestamp": "2026-07-22T01:14:03.578746Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/argentina-faces-potential-sanctions-as-fifa-opens-disciplinary-review-into-world-cup-final-clash-with-spain/"
+        }
+      ]
+    },
+    {
       "title": "Ballon d\u2019Or power rankings: Rodri, Messi, Harry Kane among favorites to win soccer's MVP after 2026 World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 Ballon d'Or field is wide open, and there are some heavy hitters in the mix to bring home the trophy.",
-      "timestamp": "2026-07-21T23:44:45.347471Z",
+      "timestamp": "2026-07-22T01:14:03.578772Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain won the 2026 World Cup thanks to an extra time goal from Ferran Torres. The Barcelona winger also made headlines at the championship parade with his outfit choice. Spain wasted no time in beginning their World Cup victory celebrations, as their champion\u2026",
-      "timestamp": "2026-07-21T23:44:45.347558Z",
+      "timestamp": "2026-07-22T01:14:03.578828Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "UEFA president Aleksander Ceferin decided not to attend the FIFA World Cup final between Spain and Argentina on Sunday. Thousands of famous people were spotted in the stands at MetLife Stadium, including Jay-Z, Beyonce, Drake, Kylie Jenner and David Beckham.",
-      "timestamp": "2026-07-21T23:44:45.347598Z",
+      "timestamp": "2026-07-22T01:14:03.578860Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain captain Rodri has opened up on his emotional journey from a devastating knee injury to lifting the 2026 World Cup trophy in North America.",
-      "timestamp": "2026-07-21T23:44:45.347632Z",
+      "timestamp": "2026-07-22T01:14:03.578888Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Burna Boy granted fans an all-access pass to his World Cup halftime performance, and Billboard had a front-row seat.",
-      "timestamp": "2026-07-21T23:44:45.347672Z",
+      "timestamp": "2026-07-22T01:14:03.578924Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Shop deals on clothing, party supplies, toys, and more in this FIFA clearance sale.\u00a0 Choose pickup or spend $35 to avoid shipping charges.\u00a0 We've pictured the U.S. Soccer Men's Performance Shirt for $4.99 ($20 off). Shop Now at Walgreens",
-      "timestamp": "2026-07-21T23:44:45.347699Z",
+      "timestamp": "2026-07-22T01:14:03.578949Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Sean Duffy taunts left-wing critics after record-shattering public transit numbers moved millions of FIFA World Cup fans across U.S. host cities.",
-      "timestamp": "2026-07-21T23:44:45.347797Z",
+      "timestamp": "2026-07-22T01:14:03.579037Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The U.S. Men\u2019s National Team moved up slightly in the first FIFA Rankings following the 2026 World Cup. Mauricio Pochettino\u2019s squad jumped up one spot to No. 16 in July\u2019s rankings, FIFA announced Monday. The Americans dropped to No. 17 following friendlies ag\u2026",
-      "timestamp": "2026-07-21T23:44:45.347828Z",
+      "timestamp": "2026-07-22T01:14:03.579067Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup saw an expansion from 32 to 48 national teams and the next edition looks set to see the field expanded once again. CONMEBOL President Alejandro Dominguez stated on Monday via social media that the 2030 edition of the tournament will fe\u2026",
-      "timestamp": "2026-07-21T23:44:45.347857Z",
+      "timestamp": "2026-07-22T01:14:03.579098Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Wayne Rooney delivered a blunt review of the first FIFA World Cup final halftime show after Madonna, BTS, Justin Bieber and Shakira took over the ... Read More",
-      "timestamp": "2026-07-21T23:44:45.347885Z",
+      "timestamp": "2026-07-22T01:14:03.579129Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi, Kylian Mbappe, and Erling Haaland are three of the twelve nominees in contention to claim the 2026 World Cup Goal of the Tournament. The 2026 World Cup belonged to the game\u2019s biggest icons, with marquee superstars delivering unforgettable perfor\u2026",
-      "timestamp": "2026-07-21T23:44:45.347968Z",
+      "timestamp": "2026-07-22T01:14:03.579213Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The queen of World Cup Soccer once again graced us with another performance, and I was SATView Entire Post \u203a",
-      "timestamp": "2026-07-21T23:44:45.348035Z",
+      "timestamp": "2026-07-22T01:14:03.579283Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After a month filled with all sorts of soccer discourse, the 2026 FIFA World Cup has reached its conclusion. It's time for a new topic to define our weekly rankings, but what will that trend be? The #1 channel in the Global Sub Top 50 gives us some clues as t\u2026",
-      "timestamp": "2026-07-21T23:44:45.348075Z",
+      "timestamp": "2026-07-22T01:14:03.579320Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "While the 2026 FIFA World Cup led to a modest lift in consumer spending, economists say those gains aren\u2019t likely to provide a sustained boost to the Canadian economy that many policymakers had hoped for.\nTaken together, governments pooled more than $1-billio\u2026",
-      "timestamp": "2026-07-21T23:44:45.348104Z",
+      "timestamp": "2026-07-22T01:14:03.579351Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain won, Argentina thrilled, and Erling Haaland won hearts. From a crazy third-place game to 'Country Roads', these are the moments we'll remember.",
-      "timestamp": "2026-07-21T23:44:45.348158Z",
+      "timestamp": "2026-07-22T01:14:03.579404Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Last Sunday (19), Spain were crowned two-time world champions after beating Argentina 1-0 in the 2026 FIFA World Cup final.The next World Cup will only take place in 2030, with Portugal, Spain, and Mo...",
-      "timestamp": "2026-07-21T23:44:45.348285Z",
+      "timestamp": "2026-07-22T01:14:03.579523Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Rihanna and A$AP Rocky were spotted leaving the FIFA World Cup final in New Jersey. He wore Louis Vuitton sneakers, while she wore beige suede boots.",
-      "timestamp": "2026-07-21T23:44:45.348323Z",
+      "timestamp": "2026-07-22T01:14:03.579546Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "President Donald Trump declared the 2026 FIFA World Cup the 'most spectacular,' despite various controversies, including his own involvement in a questionable disciplinary U-turn",
-      "timestamp": "2026-07-21T23:44:45.348357Z",
+      "timestamp": "2026-07-22T01:14:03.579592Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup won over America and proved the planet wrongYahoo Sports How the 2026 FIFA World Cup inspired and incensedESPN Our 5 Favorite 2026 World Cup Moments, From Argentina Comebacks To USA ChemistryFOX Sports The World Cup is over, long live the W\u2026",
-      "timestamp": "2026-07-21T23:44:45.348385Z",
+      "timestamp": "2026-07-22T01:14:03.579623Z",
       "links": [
         {
           "label": "Source",
@@ -402,7 +514,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Adrian Sousa from Rabona TV delivers the ultimate tactical post-mortem on the 2026 World Cup Final as Spain smothers Argentina 1-0 in extra time. The global stage has its definitive king, and the European masters have officially achieved absolute football imm\u2026",
-      "timestamp": "2026-07-21T23:44:45.348431Z",
+      "timestamp": "2026-07-22T01:14:03.579665Z",
       "links": [
         {
           "label": "Source",
@@ -416,7 +528,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup has only just finished, and Donald Trump already wants the tournament to return to the United States. The 2030 (Spain, Portugal and Morocco) and 2034 (Saudi Arabia) World Cup host nations have already been decided.",
-      "timestamp": "2026-07-21T23:44:45.348457Z",
+      "timestamp": "2026-07-22T01:14:03.579692Z",
       "links": [
         {
           "label": "Source",
@@ -430,7 +542,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "NEW YORK \u2014 The World Cup is finished, but NFL players hope grass fields are not. After football venues including the Giants and Jets\u2019 MetLife Stadium swapped out synthetic turf for natural grass for the global soccer tournament, big-name players including Bre\u2026",
-      "timestamp": "2026-07-21T23:44:45.348486Z",
+      "timestamp": "2026-07-22T01:14:03.579720Z",
       "links": [
         {
           "label": "Source",
@@ -444,7 +556,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FOX Sports analyst Alexi Lalas picked his World Cup Best XI after Spain beat Argentina to win the 2026 title.",
-      "timestamp": "2026-07-21T23:44:45.348509Z",
+      "timestamp": "2026-07-22T01:14:03.579744Z",
       "links": [
         {
           "label": "Source",
@@ -458,7 +570,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Adrian Sousa from Rabona TV breaks down the maddest match of the 2026 World Cup\u2014a 6-4 third-place thriller where England took bronze and Kylian Mbapp\u00e9 made history. If the 2026 World Cup third-place playoff is traditionally viewed as a quiet consolation match\u2026",
-      "timestamp": "2026-07-21T23:44:45.348540Z",
+      "timestamp": "2026-07-22T01:14:03.579776Z",
       "links": [
         {
           "label": "Source",
@@ -472,7 +584,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "According to the New York/New Jersey Host Committee, fans spent $1.2 billion in June in alone, generating a total economic impact of $2.1 billion.",
-      "timestamp": "2026-07-21T23:44:45.348610Z",
+      "timestamp": "2026-07-22T01:14:03.579842Z",
       "links": [
         {
           "label": "Source",
@@ -486,7 +598,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After the Spanish men's national football team toppled Argentina to win the 2026 FIFA World Cup, social media users shared an image purporting to show star Lamine Yamal draped in a Palestinian flag during the post-match celebrations. While the teenage phenom \u2026",
-      "timestamp": "2026-07-21T23:44:45.348679Z",
+      "timestamp": "2026-07-22T01:14:03.579909Z",
       "links": [
         {
           "label": "Source",
@@ -500,7 +612,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA Ranking has had its first update after the 2026 World Cup, with Lamine Yamal's Spain climbing to the No. 1 spot, while Lionel Messi's Argentina and Cristiano Ronaldo's Portugal suffering drops. The 2026 World Cup has come to a close with Spain crowne\u2026",
-      "timestamp": "2026-07-21T23:44:45.348726Z",
+      "timestamp": "2026-07-22T01:14:03.579954Z",
       "links": [
         {
           "label": "Source",
@@ -514,7 +626,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After more than a month of football across the United States, Mexico and Canada, the 2026 World Cup has finally reached its conclusion, with Spain defeating Argentina to become world champions for the second time. This World Cup was about more than the usual \u2026",
-      "timestamp": "2026-07-21T23:44:45.348777Z",
+      "timestamp": "2026-07-22T01:14:03.580003Z",
       "links": [
         {
           "label": "Source",
@@ -528,7 +640,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Robbie Williams is speaking out after a mysterious white substance was seen falling out of his mouth and onto his mic during an interview ahead of his 2026 FIFA World Cup Final performance. \u201cJust like to apologize for the object that fell onto the microphone \u2026",
-      "timestamp": "2026-07-21T23:44:45.348807Z",
+      "timestamp": "2026-07-22T01:14:03.580031Z",
       "links": [
         {
           "label": "Source",
@@ -542,7 +654,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain's World Cup victory was sports glory at its brightest for soccer fans across the globe. But FIFA's greed and pandering to a president left behind a bad aftertaste.",
-      "timestamp": "2026-07-21T23:44:45.348851Z",
+      "timestamp": "2026-07-22T01:14:03.580097Z",
       "links": [
         {
           "label": "Source",
@@ -556,7 +668,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA will investigate scuffles between Argentina and Spain players and coaches after the 2026 World Cup Final, the soccer governing body said Monday.",
-      "timestamp": "2026-07-21T23:44:45.348930Z",
+      "timestamp": "2026-07-22T01:14:03.580189Z",
       "links": [
         {
           "label": "Source",
@@ -570,7 +682,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "It was a great tournament. But the malign influence of Donald Trump and Gianni Infantino was inescapable.",
-      "timestamp": "2026-07-21T23:44:45.348979Z",
+      "timestamp": "2026-07-22T01:14:03.580262Z",
       "links": [
         {
           "label": "Source",
@@ -584,116 +696,138 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Our favorite and most unforgettable moments from the 2026 World Cup, from dazzling comebacks to shining stars.",
-      "timestamp": "2026-07-21T23:44:45.349015Z",
+      "timestamp": "2026-07-22T01:14:03.580315Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.foxsports.com/stories/soccer/world-cup-messi-bellingham-haaland-usa-cape-verde"
         }
       ]
-    },
-    {
-      "title": "FIFA President Infantino spent over 100 hours in the air during the 2026 World Cup amid pledge to reduce carbon emissions",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Flight logs show the FIFA President utilized a private jet gifted by World Cup sponsor Qatar Airways to travel to 21 different airports throughout the tournament.",
-      "timestamp": "2026-07-21T23:44:45.349105Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://fortune.com/2026/07/20/fifa-president-infantino-100-hours-private-jet-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "Ranking 14 best moments from 2026 World Cup, from Messi's opening hat trick to Scotland's Boston takeover",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here are the best moments that this year's tournament shared with the world.",
-      "timestamp": "2026-07-21T23:44:45.349151Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/ranking-best-moments-2026-world-cup/0709178a1e470af5b46b68d4"
-        }
-      ]
-    },
-    {
-      "title": "Here are five of the most memorable World Cup moments",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The most memorable moments of the 2026 FIFA World Cup didn't necessarily happen on the field. Here's our 5 favorite moments.",
-      "timestamp": "2026-07-21T23:44:45.349215Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.oklahoman.com/story/sports/soccer/2026/07/20/5-memorable-world-cup-moments-from-viking-row-to-cape-verde-cinderella-story/90984102007/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup Fates and Futures",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "In the days leading up to the World Cup 2026 final, amid all of the controversies etc, one of the loveliest storylines was about That Photo. The one from almost 19 years ago where a baby Lamine Yamal, with his mother Sheila, was being bathed by a young Lionel\u2026",
-      "timestamp": "2026-07-21T23:44:45.349244Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.laineygossip.com/this-is-why-we-cant-get-enough-of-world-cup-champion-lamine-yamals-little-brother-keyne/"
-        }
-      ]
-    },
-    {
-      "title": "10 things that wowed us at the 2026 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The United States, Mexico, and Canada co-hosted the nearly six-week tournament. NPR's team of journalists who covered the World Cup reflects on the experience.",
-      "timestamp": "2026-07-21T23:44:45.349335Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.npr.org/2026/07/20/nx-s1-5892511/2026-world-cup-fifa-spain-argentina-tournament"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi opens up on \u2018immense pain\u2019 of World Cup final defeat",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi has admitted that it will \u201ctake time\u201d to get over the \u201cimmense pain\u201d of losing Sunday\u2019s FIFA World Cup 2026 final to Spain with Argentina.\u00a0Ferran Torres netted the only goal of...",
-      "timestamp": "2026-07-21T23:44:45.349416Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thefootballfaithful.com/lionel-messi-world-cup-final-defeat/"
-        }
-      ]
-    },
-    {
-      "title": "Fans Flocked to World Cup Host Cities\u2014Causing 80 Percent of the Tournament\u2019s Emissions",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The latest estimates reveal that the majority of greenhouse gas emissions from large-scale events such as the FIFA World Cup stem from spectators traveling to host cities.",
-      "timestamp": "2026-07-21T23:44:45.349528Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.wired.com/story/new-research-estimates-most-emissions-came-from-fan-travel/"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
+      "loc": "New York / New Jersey",
+      "event": "Post-Match Clash In World Cup Final Triggers FIFA Probe",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/bf2df8dad857b43d"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "Lionel Messi Legacy Debate: What The 2026 World Cup Final Means For The GOAT Argument",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.stadiumrant.com/lionel-messi-legacy-debate-what-the-2026-world/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "Kylie Jenner\u2019s Daughter Stormi Photobombs Tom Brady\u2019s Pic With Son",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.eonline.com/news/1434172/world-cup-kylie-jenners-daughter-stormi-photobombs-tom-brady-son-jack"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "Lionel Messi Speaks Out After Argentina Loses World Cup: \u2018The Pain Is Immense\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.today.com/news/sports/lionel-messi-speaks-out-argentina-loses-world-cup-rcna588457"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "2026 FIFA World Cup Final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://knowyourmeme.com/memes/events/2026-fifa-world-cup-final"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "Shakira faces backlash after backing Lionel Messi and Argentina over Spain despite her two Spanish sons",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/international-sports/shakira-faces-backlash-after-backing-lionel-messi-and-argentina-over-spain-despite-her-two-spanish-sons/articleshow/132526105.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "Were Trump and FIFA President Infantino booed at World Cup trophy presentation?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.snopes.com//fact-check/trump-infantino-booed-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "New York / New Jersey",
+      "event": "Argentina faces potential sanctions as FIFA opens disciplinary review into World Cup final clash with Spain",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/argentina-faces-potential-sanctions-as-fifa-opens-disciplinary-review-into-world-cup-final-clash-with-spain/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
       "loc": "Global",
       "event": "Ballon d\u2019Or power rankings: Rodri, Messi, Harry Kane among favorites to win soccer's MVP after 2026 World Cup",
       "type": "News",
@@ -708,7 +842,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "World Cup Final Game-Winning Goal Scorer Ferran Torres Wore Hat Referencing Donald Trump During Spain\u2019s Championship Parade",
       "type": "News",
@@ -723,7 +857,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "New York / New Jersey",
       "event": "Why UEFA president Aleksander Ceferin boycotted the FIFA World Cup final",
       "type": "News",
@@ -738,7 +872,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "Spain's Rodri 'Shocked' After Winning World Cup Golden Ball Award",
       "type": "News",
@@ -753,7 +887,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "Burna Boy Takes Us Inside 2026 World Cup Halftime in Video Diary",
       "type": "News",
@@ -768,7 +902,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "Walgreens FIFA World Cup 2026 Clearance: 80% off + free shipping w/ $35",
       "type": "News",
@@ -783,7 +917,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "Trump admin taunts left for \u2018praying\u2019 for World Cup disaster as DOT touts record numbers",
       "type": "News",
@@ -798,7 +932,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "USMNT jumps to No. 16 in post-World Cup FIFA rankings",
       "type": "News",
@@ -813,7 +947,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "CONMEBOL president Dominguez states 2030 World Cup expansion to 64 teams",
       "type": "News",
@@ -828,7 +962,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "Wayne Rooney Calls World Cup Halftime Show \u2018Crap\u2019 After 27-Minute Break",
       "type": "News",
@@ -843,7 +977,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "Lionel Messi, Kylian Mbappe, Erling Haaland among nominees for 2026 World Cup Goal of the Tournament",
       "type": "News",
@@ -858,7 +992,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "Just 32 Tweets About Shakira Performing At The 2026 FIFA World Cup Final, Because She's Basically World Cup Royalty At This Point",
       "type": "News",
@@ -873,7 +1007,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "Top 50 Most Subscribed YouTube Channels Worldwide \u2022 Week Of 07/19/2026",
       "type": "News",
@@ -888,7 +1022,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "Economic benefits of Canada\u2019s World Cup hosting gig were muted, data show",
       "type": "News",
@@ -903,7 +1037,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "The 2026 World Cup in 26 unforgettable moments",
       "type": "News",
@@ -918,7 +1052,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": " Football calendar in Brazil and worldwide after the 2026 World Cup",
       "type": "News",
@@ -933,7 +1067,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "Rihanna Puts a Twist on Casual Summer Style With Suede Boots at the 2026 FIFA World Cup\u00a0Final",
       "type": "News",
@@ -948,7 +1082,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "Donald Trump hails 2026 FIFA World Cup as 'most spectacular' despite controversies",
       "type": "News",
@@ -963,7 +1097,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "The 2026 World Cup won over America and proved the planet wrong - Yahoo Sports",
       "type": "News",
@@ -978,7 +1112,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "Spain Conquers the World: Ferran Torres Extra-Time Strike Shatters Argentina\u2019s Back-to-Back Dream",
       "type": "News",
@@ -993,7 +1127,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "Three new US cities that should host the 2038 World Cup as Donald Trump pushes FIFA for USA return",
       "type": "News",
@@ -1008,7 +1142,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "New York / New Jersey",
       "event": "Jets, Giants players among those urging NFL to keep grass fields after World Cup",
       "type": "News",
@@ -1023,7 +1157,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "Alexi Lalas\u2019 Best XI From The Epic 2026 World Cup",
       "type": "News",
@@ -1038,7 +1172,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "10-Goal Absolute Chaos: England Outlasts France as Mbapp\u00e9 Breaks All-Time World Cup Record",
       "type": "News",
@@ -1053,7 +1187,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Kansas City",
       "event": "World Cup hands US economy $20B boost \u2014 with host cities like Kansas City, Philly cashing in big, BofA says",
       "type": "News",
@@ -1068,7 +1202,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "Image of Yamal with Palestinian flag after World Cup is AI-generated",
       "type": "News",
@@ -1083,7 +1217,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "FIFA Ranking update after 2026 World Cup: Lamine Yamal\u2019s Spain climbs to No. 1, Messi\u2019s Argentina and Ronaldo\u2019s Portugal drop",
       "type": "News",
@@ -1098,7 +1232,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "Dan the Scout\u2019s 2026 World Cup Team of the Tournament \u2013 Who\u2019s in Yours?",
       "type": "News",
@@ -1113,7 +1247,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "Robbie Williams Breaks Silence on White Substance Seen During World Cup Final",
       "type": "News",
@@ -1128,7 +1262,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "2026 World Cup ended as awkwardly as it began, but was a huge success nevertheless",
       "type": "News",
@@ -1143,7 +1277,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "FIFA to investigate Argentina after World Cup final clashes",
       "type": "News",
@@ -1158,7 +1292,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "The 2026 World Cup Was a Cynical Triumph",
       "type": "News",
@@ -1173,7 +1307,7 @@
       ]
     },
     {
-      "date": "Jul 21",
+      "date": "Jul 22",
       "loc": "Global",
       "event": "Our 5 Favorite 2026 World Cup Moments, From Argentina Comebacks To USA Chemistry",
       "type": "News",
@@ -1186,112 +1320,7 @@
           "url": "https://www.foxsports.com/stories/soccer/world-cup-messi-bellingham-haaland-usa-cape-verde"
         }
       ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "FIFA President Infantino spent over 100 hours in the air during the 2026 World Cup amid pledge to reduce carbon emissions",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://fortune.com/2026/07/20/fifa-president-infantino-100-hours-private-jet-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Ranking 14 best moments from 2026 World Cup, from Messi's opening hat trick to Scotland's Boston takeover",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/ranking-best-moments-2026-world-cup/0709178a1e470af5b46b68d4"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Here are five of the most memorable World Cup moments",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.oklahoman.com/story/sports/soccer/2026/07/20/5-memorable-world-cup-moments-from-viking-row-to-cape-verde-cinderella-story/90984102007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "World Cup Fates and Futures",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.laineygossip.com/this-is-why-we-cant-get-enough-of-world-cup-champion-lamine-yamals-little-brother-keyne/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "10 things that wowed us at the 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.npr.org/2026/07/20/nx-s1-5892511/2026-world-cup-fifa-spain-argentina-tournament"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Lionel Messi opens up on \u2018immense pain\u2019 of World Cup final defeat",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thefootballfaithful.com/lionel-messi-world-cup-final-defeat/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 21",
-      "loc": "Global",
-      "event": "Fans Flocked to World Cup Host Cities\u2014Causing 80 Percent of the Tournament\u2019s Emissions",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.wired.com/story/new-research-estimates-most-emissions-came-from-fan-travel/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-21T23:44:45.349657Z"
+  "lastUpdated": "2026-07-22T01:14:03.580569Z"
 }
