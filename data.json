@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 1,
-    "p3": 26
+    "p3": 20
   },
   "watchlist": [
     {
@@ -131,12 +131,138 @@
   ],
   "risks": [
     {
+      "title": "What made the 2026 FIFA World Cup so special?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Whether you call it football or soccer, in the past month we all spoke in one language and that is the FIFA World Cup.",
+      "timestamp": "2026-07-22T17:58:47.079792Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bavarianfootballworks.com/fifa-world-cup/233970/what-made-the-2026-fifa-world-cup-so-special-usa-canada-mexico-spain"
+        }
+      ]
+    },
+    {
+      "title": "\u201cGood, not great\u201d: World Cup hype falls short for South Florida hospitality industry",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "South Florida\u2019s hospitality industry expected the FIFA World Cup to score a major win for business, but for many operators, the tournament fell short of the anticipated economic windfall during the region\u2019s slow season. Hotel executives and restaurant operato\u2026",
+      "timestamp": "2026-07-22T17:58:47.079845Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://therealdeal.com/miami/2026/07/21/world-cup-in-miami-had-minimal-impact-on-hotels-restaurants/"
+        }
+      ]
+    },
+    {
+      "title": "You can own a piece of MetLife turf from the 2026 World Cup final\u2014here's how much it'll cost you",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The grass from soccer's biggest match is now being turned into collectibles, but the souvenir has sparked a political fight in New Jersey",
+      "timestamp": "2026-07-22T17:58:47.079870Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.timeout.com/newyork/news/you-can-own-a-piece-of-metlife-turf-from-the-2026-world-cup-finalheres-how-much-itll-cost-you-072126"
+        }
+      ]
+    },
+    {
+      "title": "Leandro Paredes receives unexpected FIFA punishment update after heated 2026 World Cup final moment vs Spain",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The chaotic scenes that followed the final whistle created one of the tournament\u2019s biggest talking points, leaving questions over whether Argentina players would face serious consequences. Leandro Paredes found himself at the center of controversy after Argen\u2026",
+      "timestamp": "2026-07-22T17:58:47.079948Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/leandro-paredes-receives-unexpected-fifa-punishment-update-after-heated-2026-world-cup-final-moment-vs-spain/"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Messi\u2019s international future decided as Argentina reportedly makes retirement wish clear after emotional 2026 World Cup ending",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "After an emotional ending to the 2026 World Cup, the question surrounding Messi\u2019s international career has become one of soccer\u2019s biggest stories, with the next decision from the Argentina icon carrying enormous weight. The final chapter of Lionel Messi\u2019s Wor\u2026",
+      "timestamp": "2026-07-22T17:58:47.079985Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/lionel-messis-international-future-decided-as-argentina-reportedly-makes-retirement-wish-clear-after-emotional-2026-world-cup-ending/"
+        }
+      ]
+    },
+    {
+      "title": "Barcelona\u2019s Pau Cubarsi makes history as the youngest centre-back to win the World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Many talented stars came to the fore as Spain secured the 2026 FIFA World Cup, thus adding two stars to their badge.While much of the focus is on Rodri and Lamine Yamal, both of whom have emerged as B...",
+      "timestamp": "2026-07-22T17:58:47.080013Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelonas-pau-cubarsi-makes-history-as-the-youngest-centre-back-to-win-the-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup referee Anthony Taylor retires after 20 years and more than 800 matches in charge",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "English referee Anthony Taylor, who officiated at the 2026 World Cup, announced his retirement on Tuesday. The 47-year-old Taylor refereed more than 800 matches in the English Premier League, domestic cups, European club competitions and major internationals.\u2026",
+      "timestamp": "2026-07-22T17:58:47.080128Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/world-cup-referee-anthony-taylor-164618643.html"
+        }
+      ]
+    },
+    {
+      "title": "The Legacy of the 2026 FIFA World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain lifted the trophy, Lionel Messi\u2019s era reached its closing chapter, and FIFA walked away richer than ever. From record-breaking attendance and soaring television audiences to unprecedented tick...",
+      "timestamp": "2026-07-22T17:58:47.080173Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://urbanpitch.com/the-legacy-of-the-2026-fifa-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "Enzo Fern\u00e1ndez addresses Argentina fans in statement after World Cup Final red card",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Enzo Fern\u00e1ndez was sent off in the FIFA World Cup Final as Argentina lost to Spain, and the Chelsea midfielder has now broken his silence with a heartfelt statement on social media",
+      "timestamp": "2026-07-22T17:58:47.080264Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/fernandez-argentina-statement-world-cup-1948923"
+        }
+      ]
+    },
+    {
       "title": "Los Angeles Orthopedic Surgeon Dr. Reza Jazayeri Presents Advanced ACL Surgery and Return-to-Sport Strategies at Cedars-Sinai Soccer Medicine Conference Ahead of the 2026 FIFA World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Double board-certified orthopedic surgeon Dr. Reza Jazayeri presented \"Blueprint for Optimizing Surgical Success\" during the knee session at Soccer Medicine Updates and New Innovations: World Cup 2026 in Carson, California. His talk focused on optimizing ACL \u2026",
-      "timestamp": "2026-07-22T16:10:42.565725Z",
+      "timestamp": "2026-07-22T17:58:47.080325Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Didier Deschamps has left his post as France manager with the record of most FIFA World Cup matches.\u00a0The former Juventus captain spent 14 years in charge of Les Bleus, his crowning glory being the te...",
-      "timestamp": "2026-07-22T16:10:42.565854Z",
+      "timestamp": "2026-07-22T17:58:47.080417Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "According to reports, Spain and Argentina could face off in November for the Finalissima, following the Europeans' victory in the 2026 World Cup final. Just days after Spain defeated Argentina 1-0 in extra time to win the 2026 World Cup, courtesy of a Ferran \u2026",
-      "timestamp": "2026-07-22T16:10:42.565894Z",
+      "timestamp": "2026-07-22T17:58:47.080449Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Taylor also enjoyed an illustrious international career after spending 14 years on FIFA's international referees list. He officiated at the 2022 and 2026 FIFA World Cups, UEFA Euro 2020 and Euro 2024, as well as the 2022 and 2025 FIFA Club World Cups.\nThe pos\u2026",
-      "timestamp": "2026-07-22T16:10:42.565968Z",
+      "timestamp": "2026-07-22T17:58:47.080520Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup.",
-      "timestamp": "2026-07-22T16:10:42.565989Z",
+      "timestamp": "2026-07-22T17:58:47.080540Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +332,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "United States President Donald Trump stated on Tuesday that he is very satisfied with how the 2026 FIFA World Cup went, adding that there were \"no protests\" in the country during the event.\"It was the...",
-      "timestamp": "2026-07-22T16:10:42.566024Z",
+      "timestamp": "2026-07-22T17:58:47.080573Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Donald Trump has expressed his desire for the United States to host another FIFA World Cup as soon as possible. The Donald Trump Wants America To Host Another World Cup \u2018Immediately\u2019 first appeared on The Blast",
-      "timestamp": "2026-07-22T16:10:42.566111Z",
+      "timestamp": "2026-07-22T17:58:47.080655Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The World Cup may be over, but our quest to fix soccer goes on. From on-field rules and VAR to expanding the field, here's some solutions.",
-      "timestamp": "2026-07-22T16:10:42.566172Z",
+      "timestamp": "2026-07-22T17:58:47.080691Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The record-breaking Final reached its dramatic peak with 51,685,000 viewers watching from 5:45 to 6:00 PM ET as Spain secured a 1-0 victory in extra time over Argentina.",
-      "timestamp": "2026-07-22T16:10:42.566240Z",
+      "timestamp": "2026-07-22T17:58:47.080753Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Topps is turning the viral photo of Lionel Messi holding a baby Lamine Yamal into an exclusive 1-of-1 Stadium Club Chrome trading card following the 2026 World Cup final.",
-      "timestamp": "2026-07-22T16:10:42.566296Z",
+      "timestamp": "2026-07-22T17:58:47.080844Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Thousands of fans gathered in Central Park to watch the 2026 FIFA World Cup final dressed in Spanish and Argentinian soccer gear.",
-      "timestamp": "2026-07-22T16:10:42.566318Z",
+      "timestamp": "2026-07-22T17:58:47.080905Z",
       "links": [
         {
           "label": "Source",
@@ -290,226 +416,151 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "\"The longest World Cup has come to an end \u2013 with the right champions. But on the way to the final whistle, the tournament had lost its credibility,\" Blatter wrote.\nThe post \u2018Right champions, but 2026 World Cup lost credibility\u2019 \u2014 Ex-FIFA president Blatter app\u2026",
-      "timestamp": "2026-07-22T16:10:42.566386Z",
+      "timestamp": "2026-07-22T17:58:47.081010Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.vanguardngr.com/2026/07/right-champions-but-2026-world-cup-lost-credibility-ex-fifa-president-blatter/"
         }
       ]
-    },
-    {
-      "title": "Updated FIFA world rankings after 2026 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here's a look at the updated top 20 of the FIFA world rankings after the 2026 World Cup.",
-      "timestamp": "2026-07-22T16:10:42.566496Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/updated-fifa-world-rankings-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "You can get Messi\u2019s Argentina jersey for 40% off (and other World Cup memorabilia on sale)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Messi\u2019s Argentina Away Jersey is 40% off. You can also get up to 50% FIFA World Cup jerseys, collectibles and more.",
-      "timestamp": "2026-07-22T16:10:42.566728Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nbcnews.com/select/shopping/messi-argentina-jersey-deal-of-the-day-2026-rcna588451"
-        }
-      ]
-    },
-    {
-      "title": "How PSG players fared at the 2026 World Cup?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup ended on Sunday with Spain defeating title holders Argentina at East Rutherford\u2019s MetLife Stadium. Spain midfielder Fabian Ruiz (30) became the fifth player of the 21st century to...",
-      "timestamp": "2026-07-22T16:10:42.566851Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.getfootballnewsfrance.com/2026/how-psg-players-fared-at-the-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "FULL LIST: Top 16 Ballon d\u2019Or contenders after 2026 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Discover the top 16 Ballon d\u2019Or contenders after the 2026 World Cup, with Harry Kane leading the race. See who else made the list!\n\nRead More: https://punchng.com/full-list-top-16-ballon-dor-contenders-after-2026-world-cup/",
-      "timestamp": "2026-07-22T16:10:42.566881Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/full-list-top-16-ballon-dor-contenders-after-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "Impulse AI Model Called Spain to Win the World Cup. The Betting Markets Had France as the Favorite.",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The agent-built forecast ranked Spain No. 1 before the tournament began and kept Spain on top while betting markets priced France as the runaway favorite. SAN FRANCISCO, July 21, 2026 /PRNewswire/ -- Impulse AI's autonomous agent built a 2026 FIFA World Cup f\u2026",
-      "timestamp": "2026-07-22T16:10:42.566967Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.prnewswire.com/news-releases/impulse-ai-model-called-spain-to-win-the-world-cup-the-betting-markets-had-france-as-the-favorite-302830430.html"
-        }
-      ]
-    },
-    {
-      "title": "Prince Harry Blames One Key Factor for England\u2019s World Cup Heartbreak",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Following England\u2019s shock exit from the 2026 FIFA World Cup at the hands of Argentina, Prince Harry has shared his two cents on why the Three Lions fell short on football\u2019s biggest stage once again. In a recent interview, the Duke of Sussex opened up about En\u2026",
-      "timestamp": "2026-07-22T16:10:42.567038Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.mandatory.com/news/1815479-prince-harry-england-world-cup-loss"
-        }
-      ]
-    },
-    {
-      "title": "The Fight Over The 2030 FIFA World Cup Has Already Started",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "A major controversy is brewing over a proposal to expand the 2030 tournament from 48 to 64 teams, a one-time increase for its centennial edition.",
-      "timestamp": "2026-07-22T16:10:42.567058Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/clementelisi/2026/07/21/the-fight-over-the-2030-fifa-world-cup-has-already-started/"
-        }
-      ]
-    },
-    {
-      "title": "\u2018Don\u2019t Come Up and Shake My Hand\u2019 \u2013 Andy Roddick Shares His Theory on Carlos Alcaraz\u2019s Wrist Guard",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "When Carlos Alcaraz was frequently shown on screen during the 2026 FIFA World Cup final, there were two noticeable things: his fresh new haircut and, more concerning, a protective wrap still lingering on his wrist. Former pro and Hall of Famer Andy Roddick re\u2026",
-      "timestamp": "2026-07-22T16:10:42.567109Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.profootballnetwork.com/tennis/carlos-alcaraz-world-cup-wrist-brace-july-21-2026/?utm_medium=rss&amp;utm_source=nordot"
-        }
-      ]
-    },
-    {
-      "title": "How the 2026 World Cup affected Internet traffic",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "We analyzed global HTTP traffic to explore how kickoff times, streaming habits, and hydration breaks reshaped online activity worldwide. From late-night traffic surges to halftime browsing spikes, here is how the world connected during the global tournament.",
-      "timestamp": "2026-07-22T16:10:42.567133Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://blog.cloudflare.com/2026-world-cup-internet-traffic/"
-        }
-      ]
-    },
-    {
-      "title": "Mullin reveals DHS brought down nearly 2,000 drones during World Cup security efforts",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Markwayne Mullin says Homeland Security intercepted nearly 2,000 drones during the FIFA World Cup, some before operators could even leave their cars.",
-      "timestamp": "2026-07-22T16:10:42.567187Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxnews.com/media/mullin-reveals-dhs-brought-down-nearly-2000-drones-world-cup-security-efforts"
-        }
-      ]
-    },
-    {
-      "title": "Captify Data Reveals Which Brands Won the Search Contest in the FIFA World Cup 2026",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Following\u00a0the\u00a0FIFA World Cup Final, Captify, the leader in Search Intelligence, has revealed new analysis showing the brands that won \u2013 and lost \u2013 consumers' attention during the tournament.\u00a0\nDrawing from billions of real-time search signals across the open w\u2026",
-      "timestamp": "2026-07-22T16:10:42.567226Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.exchangewire.com/blog/2026/07/21/captify-data-reveals-which-brands-won-the-search-contest-in-the-fifa-world-cup-2026/"
-        }
-      ]
-    },
-    {
-      "title": "Mexico\u2019s Azteca stadium beats New York and Dallas, sets highest attendance average at FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "With the FIFA World Cup now over, the numbers are in, and they show just how successful the tournament has been in terms of attendance. Fans from all over the globe descended upon the United States, Canada, and Mexico to support their favourite teams at the F\u2026",
-      "timestamp": "2026-07-22T16:10:42.567335Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/mexicos-azteca-stadium-beats-new-york-and-dallas-sets-highest-attendance-average-at-fifa-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "What Spain's Victory Means: Jules Boykoff on the World Cup, FIFA, Trump, \"Collectivity\" & More",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA Men\u2019s World Cup has concluded, with Spain defeating Argentina to claim the coveted title. Spain\u2019s national team players accepted the championship trophy at New Jersey\u2019s MetLife Stadium alongside FIFA President Gianni Infantino and his close ally\u2026",
-      "timestamp": "2026-07-22T16:10:42.567377Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.democracynow.org/2026/7/21/fifa_world_cup_2026_jules_boykoff"
-        }
-      ]
-    },
-    {
-      "title": "Polymarket Traders Lost Over $37M During World Cup 2026 \u2014 66.7% of Participants Ended in the Red",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "We break down how prediction markets fared during the 2026 FIFA World Cup. Here are the hottest numbers. Spain defeated Argentina 1-0 in the World...\nThe post Polymarket Traders Lost Over $37M During World Cup 2026 \u2014 66.7% of Participants Ended in the Red app\u2026",
-      "timestamp": "2026-07-22T16:10:42.567453Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://bitcoinfoundation.org/news/prediction-markets/prediction-markets-fifa/"
-        }
-      ]
-    },
-    {
-      "title": "Tom Cruise \u201cHumiliated\u201d After World Cup Speech Is Mocked Online!",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Tom Cruise reportedly expected cheers after his World Cup final speech. Instead, embarrassed when viewers mocked the carefully planned appearance online. The Mission: Impossible star, 64, addressed fans before Spain faced Argentina in the 2026 FIFA World Cup \u2026",
-      "timestamp": "2026-07-22T16:10:42.567514Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://mediatakeout.com/tom-cruise-humiliated-after-world-cup-speech-is-mocked-online/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "What made the 2026 FIFA World Cup so special?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bavarianfootballworks.com/fifa-world-cup/233970/what-made-the-2026-fifa-world-cup-so-special-usa-canada-mexico-spain"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "\u201cGood, not great\u201d: World Cup hype falls short for South Florida hospitality industry",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://therealdeal.com/miami/2026/07/21/world-cup-in-miami-had-minimal-impact-on-hotels-restaurants/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "New York / New Jersey",
+      "event": "You can own a piece of MetLife turf from the 2026 World Cup final\u2014here's how much it'll cost you",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.timeout.com/newyork/news/you-can-own-a-piece-of-metlife-turf-from-the-2026-world-cup-finalheres-how-much-itll-cost-you-072126"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "Leandro Paredes receives unexpected FIFA punishment update after heated 2026 World Cup final moment vs Spain",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/leandro-paredes-receives-unexpected-fifa-punishment-update-after-heated-2026-world-cup-final-moment-vs-spain/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "Lionel Messi\u2019s international future decided as Argentina reportedly makes retirement wish clear after emotional 2026 World Cup ending",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/lionel-messis-international-future-decided-as-argentina-reportedly-makes-retirement-wish-clear-after-emotional-2026-world-cup-ending/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "Barcelona\u2019s Pau Cubarsi makes history as the youngest centre-back to win the World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelonas-pau-cubarsi-makes-history-as-the-youngest-centre-back-to-win-the-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "World Cup referee Anthony Taylor retires after 20 years and more than 800 matches in charge",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/world-cup-referee-anthony-taylor-164618643.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "San Francisco Bay Area",
+      "event": "The Legacy of the 2026 FIFA World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://urbanpitch.com/the-legacy-of-the-2026-fifa-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "Enzo Fern\u00e1ndez addresses Argentina fans in statement after World Cup Final red card",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/fernandez-argentina-statement-world-cup-1948923"
+        }
+      ]
+    },
     {
       "date": "Jul 22",
       "loc": "Global",
@@ -689,232 +740,7 @@
           "url": "https://www.vanguardngr.com/2026/07/right-champions-but-2026-world-cup-lost-credibility-ex-fifa-president-blatter/"
         }
       ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "Updated FIFA world rankings after 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/updated-fifa-world-rankings-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "You can get Messi\u2019s Argentina jersey for 40% off (and other World Cup memorabilia on sale)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nbcnews.com/select/shopping/messi-argentina-jersey-deal-of-the-day-2026-rcna588451"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "New York / New Jersey",
-      "event": "How PSG players fared at the 2026 World Cup?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.getfootballnewsfrance.com/2026/how-psg-players-fared-at-the-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "FULL LIST: Top 16 Ballon d\u2019Or contenders after 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/full-list-top-16-ballon-dor-contenders-after-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "Impulse AI Model Called Spain to Win the World Cup. The Betting Markets Had France as the Favorite.",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.prnewswire.com/news-releases/impulse-ai-model-called-spain-to-win-the-world-cup-the-betting-markets-had-france-as-the-favorite-302830430.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "Prince Harry Blames One Key Factor for England\u2019s World Cup Heartbreak",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.mandatory.com/news/1815479-prince-harry-england-world-cup-loss"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "The Fight Over The 2030 FIFA World Cup Has Already Started",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/clementelisi/2026/07/21/the-fight-over-the-2030-fifa-world-cup-has-already-started/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "\u2018Don\u2019t Come Up and Shake My Hand\u2019 \u2013 Andy Roddick Shares His Theory on Carlos Alcaraz\u2019s Wrist Guard",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.profootballnetwork.com/tennis/carlos-alcaraz-world-cup-wrist-brace-july-21-2026/?utm_medium=rss&amp;utm_source=nordot"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "How the 2026 World Cup affected Internet traffic",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://blog.cloudflare.com/2026-world-cup-internet-traffic/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "Mullin reveals DHS brought down nearly 2,000 drones during World Cup security efforts",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxnews.com/media/mullin-reveals-dhs-brought-down-nearly-2000-drones-world-cup-security-efforts"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "Captify Data Reveals Which Brands Won the Search Contest in the FIFA World Cup 2026",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.exchangewire.com/blog/2026/07/21/captify-data-reveals-which-brands-won-the-search-contest-in-the-fifa-world-cup-2026/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Mexico City",
-      "event": "Mexico\u2019s Azteca stadium beats New York and Dallas, sets highest attendance average at FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/mexicos-azteca-stadium-beats-new-york-and-dallas-sets-highest-attendance-average-at-fifa-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "New York / New Jersey",
-      "event": "What Spain's Victory Means: Jules Boykoff on the World Cup, FIFA, Trump, \"Collectivity\" & More",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.democracynow.org/2026/7/21/fifa_world_cup_2026_jules_boykoff"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "Polymarket Traders Lost Over $37M During World Cup 2026 \u2014 66.7% of Participants Ended in the Red",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://bitcoinfoundation.org/news/prediction-markets/prediction-markets-fifa/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "Tom Cruise \u201cHumiliated\u201d After World Cup Speech Is Mocked Online!",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://mediatakeout.com/tom-cruise-humiliated-after-world-cup-speech-is-mocked-online/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-22T16:10:42.567686Z"
+  "lastUpdated": "2026-07-22T17:58:47.081167Z"
 }
