@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 0,
-    "p3": 27
+    "p2": 1,
+    "p3": 26
   },
   "watchlist": [
     {
@@ -131,12 +131,180 @@
   ],
   "risks": [
     {
+      "title": "Los Angeles Orthopedic Surgeon Dr. Reza Jazayeri Presents Advanced ACL Surgery and Return-to-Sport Strategies at Cedars-Sinai Soccer Medicine Conference Ahead of the 2026 FIFA World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Double board-certified orthopedic surgeon Dr. Reza Jazayeri presented \"Blueprint for Optimizing Surgical Success\" during the knee session at Soccer Medicine Updates and New Innovations: World Cup 2026 in Carson, California. His talk focused on optimizing ACL \u2026",
+      "timestamp": "2026-07-22T16:10:42.565725Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/los-angeles-orthopedic-surgeon-dr-reza-jazayeri-presents-advanced-acl-surgery-and-return-to-sport-strategies-at-cedars-sinai-soccer-medicine-conference-ahead-of-the-2026-fifa-world-cup-302830570.html"
+        }
+      ]
+    },
+    {
+      "title": "The managers with the most World Cup matches ever",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Didier Deschamps has left his post as France manager with the record of most FIFA World Cup matches.\u00a0The former Juventus captain spent 14 years in charge of Les Bleus, his crowning glory being the te...",
+      "timestamp": "2026-07-22T16:10:42.565854Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thefootballfaithful.com/fifa-world-cup-managers-most-matches/"
+        }
+      ]
+    },
+    {
+      "title": "Report: Yamal\u2019s Spain and Messi\u2019s Argentina set for November Finalissima in a 2026 World Cup final rematch",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "According to reports, Spain and Argentina could face off in November for the Finalissima, following the Europeans' victory in the 2026 World Cup final. Just days after Spain defeated Argentina 1-0 in extra time to win the 2026 World Cup, courtesy of a Ferran \u2026",
+      "timestamp": "2026-07-22T16:10:42.565894Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/report-yamals-spain-and-messis-argentina-set-for-november-finalissima-in-a-2026-world-cup-final-rematch/"
+        }
+      ]
+    },
+    {
+      "title": "England referee Anthony Taylor announces retirement",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Taylor also enjoyed an illustrious international career after spending 14 years on FIFA's international referees list. He officiated at the 2022 and 2026 FIFA World Cups, UEFA Euro 2020 and Euro 2024, as well as the 2022 and 2025 FIFA Club World Cups.\nThe pos\u2026",
+      "timestamp": "2026-07-22T16:10:42.565968Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/england-referee-anthony-taylor-announces-retirement/"
+        }
+      ]
+    },
+    {
+      "title": "The defining moments of the 2026 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup.",
+      "timestamp": "2026-07-22T16:10:42.565989Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cdrv06y1pdlo"
+        }
+      ]
+    },
+    {
+      "title": "Trump: There were no protests during World Cup",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "United States President Donald Trump stated on Tuesday that he is very satisfied with how the 2026 FIFA World Cup went, adding that there were \"no protests\" in the country during the event.\"It was the...",
+      "timestamp": "2026-07-22T16:10:42.566024Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/3bbec6069dd5e48c"
+        }
+      ]
+    },
+    {
+      "title": "Donald Trump Wants America To Host Another World Cup \u2018Immediately\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Donald Trump has expressed his desire for the United States to host another FIFA World Cup as soon as possible. The Donald Trump Wants America To Host Another World Cup \u2018Immediately\u2019 first appeared on The Blast",
+      "timestamp": "2026-07-22T16:10:42.566111Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://theblast.com/821850/donald-trump-america-host-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "The 2026 World Cup Is Over. Here's How To Make It Even Better Next Time.",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The World Cup may be over, but our quest to fix soccer goes on. From on-field rules and VAR to expanding the field, here's some solutions.",
+      "timestamp": "2026-07-22T16:10:42.566172Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://reason.com/2026/07/21/the-2026-world-cup-is-over-heres-how-to-make-it-even-better-next-time/"
+        }
+      ]
+    },
+    {
+      "title": "FOX Sports' Presentation of FIFA World Cup 2026 Final Etches Place in Record Books as Most-Watched Soccer Telecast in U.S. History With 38,937,000 Viewers",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The record-breaking Final reached its dramatic peak with 51,685,000 viewers watching from 5:45 to 6:00 PM ET as Spain secured a 1-0 victory in extra time over Argentina.",
+      "timestamp": "2026-07-22T16:10:42.566240Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.thefutoncritic.com/ratings/2026/07/21/fox-sports-presentation-of-fifa-world-cup-2026-final-etches-place-in-record-books-as-most-watched-soccer-telecast-in-us-history-with-38937000-viewers-917224/20260721fox01/"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Messi holding baby Lamine Yamal card could be the most emotional 1-of-1 ever made",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Topps is turning the viral photo of Lionel Messi holding a baby Lamine Yamal into an exclusive 1-of-1 Stadium Club Chrome trading card following the 2026 World Cup final.",
+      "timestamp": "2026-07-22T16:10:42.566296Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/culture/trending/news/topps-lionel-messi-lamine-yamal-trading-card/5805f0644142663fe3e39675"
+        }
+      ]
+    },
+    {
+      "title": "They Are Wearing: 2026 FIFA World Cup Watching in Central\u00a0Park",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Thousands of fans gathered in Central Park to watch the 2026 FIFA World Cup final dressed in Spanish and Argentinian soccer gear.",
+      "timestamp": "2026-07-22T16:10:42.566318Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://wwd.com/fashion-news/street-style/taw-2026-fifa-world-cup-central-park-1239076858/"
+        }
+      ]
+    },
+    {
+      "title": "\u2018Right champions, but 2026 World Cup lost credibility\u2019 \u2014 Ex-FIFA president Blatter",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "\"The longest World Cup has come to an end \u2013 with the right champions. But on the way to the final whistle, the tournament had lost its credibility,\" Blatter wrote.\nThe post \u2018Right champions, but 2026 World Cup lost credibility\u2019 \u2014 Ex-FIFA president Blatter app\u2026",
+      "timestamp": "2026-07-22T16:10:42.566386Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/right-champions-but-2026-world-cup-lost-credibility-ex-fifa-president-blatter/"
+        }
+      ]
+    },
+    {
       "title": "Updated FIFA world rankings after 2026 World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's a look at the updated top 20 of the FIFA world rankings after the 2026 World Cup.",
-      "timestamp": "2026-07-22T14:50:56.299182Z",
+      "timestamp": "2026-07-22T16:10:42.566496Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Messi\u2019s Argentina Away Jersey is 40% off. You can also get up to 50% FIFA World Cup jerseys, collectibles and more.",
-      "timestamp": "2026-07-22T14:50:56.299441Z",
+      "timestamp": "2026-07-22T16:10:42.566728Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup ended on Sunday with Spain defeating title holders Argentina at East Rutherford\u2019s MetLife Stadium. Spain midfielder Fabian Ruiz (30) became the fifth player of the 21st century to...",
-      "timestamp": "2026-07-22T14:50:56.299589Z",
+      "timestamp": "2026-07-22T16:10:42.566851Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Discover the top 16 Ballon d\u2019Or contenders after the 2026 World Cup, with Harry Kane leading the race. See who else made the list!\n\nRead More: https://punchng.com/full-list-top-16-ballon-dor-contenders-after-2026-world-cup/",
-      "timestamp": "2026-07-22T14:50:56.299621Z",
+      "timestamp": "2026-07-22T16:10:42.566881Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The agent-built forecast ranked Spain No. 1 before the tournament began and kept Spain on top while betting markets priced France as the runaway favorite. SAN FRANCISCO, July 21, 2026 /PRNewswire/ -- Impulse AI's autonomous agent built a 2026 FIFA World Cup f\u2026",
-      "timestamp": "2026-07-22T14:50:56.299706Z",
+      "timestamp": "2026-07-22T16:10:42.566967Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Following England\u2019s shock exit from the 2026 FIFA World Cup at the hands of Argentina, Prince Harry has shared his two cents on why the Three Lions fell short on football\u2019s biggest stage once again. In a recent interview, the Duke of Sussex opened up about En\u2026",
-      "timestamp": "2026-07-22T14:50:56.299782Z",
+      "timestamp": "2026-07-22T16:10:42.567038Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A major controversy is brewing over a proposal to expand the 2030 tournament from 48 to 64 teams, a one-time increase for its centennial edition.",
-      "timestamp": "2026-07-22T14:50:56.299803Z",
+      "timestamp": "2026-07-22T16:10:42.567058Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "When Carlos Alcaraz was frequently shown on screen during the 2026 FIFA World Cup final, there were two noticeable things: his fresh new haircut and, more concerning, a protective wrap still lingering on his wrist. Former pro and Hall of Famer Andy Roddick re\u2026",
-      "timestamp": "2026-07-22T14:50:56.299855Z",
+      "timestamp": "2026-07-22T16:10:42.567109Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "We analyzed global HTTP traffic to explore how kickoff times, streaming habits, and hydration breaks reshaped online activity worldwide. From late-night traffic surges to halftime browsing spikes, here is how the world connected during the global tournament.",
-      "timestamp": "2026-07-22T14:50:56.299879Z",
+      "timestamp": "2026-07-22T16:10:42.567133Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Markwayne Mullin says Homeland Security intercepted nearly 2,000 drones during the FIFA World Cup, some before operators could even leave their cars.",
-      "timestamp": "2026-07-22T14:50:56.299916Z",
+      "timestamp": "2026-07-22T16:10:42.567187Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Following\u00a0the\u00a0FIFA World Cup Final, Captify, the leader in Search Intelligence, has revealed new analysis showing the brands that won \u2013 and lost \u2013 consumers' attention during the tournament.\u00a0\nDrawing from billions of real-time search signals across the open w\u2026",
-      "timestamp": "2026-07-22T14:50:56.299955Z",
+      "timestamp": "2026-07-22T16:10:42.567226Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With the FIFA World Cup now over, the numbers are in, and they show just how successful the tournament has been in terms of attendance. Fans from all over the globe descended upon the United States, Canada, and Mexico to support their favourite teams at the F\u2026",
-      "timestamp": "2026-07-22T14:50:56.300033Z",
+      "timestamp": "2026-07-22T16:10:42.567335Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA Men\u2019s World Cup has concluded, with Spain defeating Argentina to claim the coveted title. Spain\u2019s national team players accepted the championship trophy at New Jersey\u2019s MetLife Stadium alongside FIFA President Gianni Infantino and his close ally\u2026",
-      "timestamp": "2026-07-22T14:50:56.300061Z",
+      "timestamp": "2026-07-22T16:10:42.567377Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "We break down how prediction markets fared during the 2026 FIFA World Cup. Here are the hottest numbers. Spain defeated Argentina 1-0 in the World...\nThe post Polymarket Traders Lost Over $37M During World Cup 2026 \u2014 66.7% of Participants Ended in the Red app\u2026",
-      "timestamp": "2026-07-22T14:50:56.300108Z",
+      "timestamp": "2026-07-22T16:10:42.567453Z",
       "links": [
         {
           "label": "Source",
@@ -332,184 +500,196 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Tom Cruise reportedly expected cheers after his World Cup final speech. Instead, embarrassed when viewers mocked the carefully planned appearance online. The Mission: Impossible star, 64, addressed fans before Spain faced Argentina in the 2026 FIFA World Cup \u2026",
-      "timestamp": "2026-07-22T14:50:56.300148Z",
+      "timestamp": "2026-07-22T16:10:42.567514Z",
       "links": [
         {
           "label": "Source",
           "url": "https://mediatakeout.com/tom-cruise-humiliated-after-world-cup-speech-is-mocked-online/"
         }
       ]
-    },
-    {
-      "title": "10 clubs paid the most by FIFA for releasing players to the 2026 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Manchester City have emerged as the biggest beneficiaries of FIFA's Club Benefits Programme for the 2026 FIFA World Cup, receiving an estimated $4.4 million for releasing players to the tournament.\nThe post 10 clubs paid the most by FIFA for releasing players\u2026",
-      "timestamp": "2026-07-22T14:50:56.300194Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/10-clubs-paid-the-most-by-fifa-for-releasing-players-to-the-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "BBC Sport earns praise for World Cup closing montage",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "After Spain came away with a 1-0 victory over Argentina to conclude the 2026 FIFA World Cup on Sunday, BBC Sport closed out its coverage with a World Cup montage that soccer fans loved. The montage featured many great sights and sounds from this year\u2019s World \u2026",
-      "timestamp": "2026-07-22T14:50:56.300295Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/bbc-sport-praised-world-cup-montage.html"
-        }
-      ]
-    },
-    {
-      "title": "Topps turning iconic photo of Messi and baby Yamal into a trading card",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Topps is turning the famous image of Argentina\u2019s Lionel Messi holding Spain\u2019s Lamine Yamal into a trading card, in honor of the 2026 World Cup.",
-      "timestamp": "2026-07-22T14:50:56.300329Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/21/lionel-messi-lamine-yamal-photo-topps-card/90992288007/"
-        }
-      ]
-    },
-    {
-      "title": "CSTS Debuts PremierX\u2122 Globally with High-Impact FIFA World Cup Final Celebrations in New York and Hong Kong",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Premium entertainment brand maps out aggressive international expansion following a successful launch wrapping up the FIFA World Cup 2026. NEW YORK and HONG KONG, July 21, 2026 /PRNewswire/ -- CSTS Enterprises, an integrated media, entertainment, sports, and \u2026",
-      "timestamp": "2026-07-22T14:50:56.300439Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.prnewswire.com/news-releases/csts-debuts-premierx-globally-with-high-impact-fifa-world-cup-final-celebrations-in-new-york-and-hong-kong-302830771.html"
-        }
-      ]
-    },
-    {
-      "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The U.S. Justice Department has seized more than 1,000 websites and blocked 1,970 domains used to stream FIFA World Cup 2026 matches without authorization. [...]",
-      "timestamp": "2026-07-22T14:50:56.300531Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/"
-        }
-      ]
-    },
-    {
-      "title": "Jon Stewart's mind blown as he spots bizarre man behind Trump: 'Who in the world?'",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Comedian Jon Stewart flagged a bizarre detail Monday night in a video of President Donald Trump captured shortly after the FIFA World Cup final, one that prompted the late night talk show host to float an outlandish theory.Recorded Sunday evening, the video s\u2026",
-      "timestamp": "2026-07-22T14:50:56.300621Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rawstory.com/trump-2677250513/"
-        }
-      ]
-    },
-    {
-      "title": "What the 2026 World Cup is revealing about the future of product identification",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup is the most compressed supply chain stress test in history.",
-      "timestamp": "2026-07-22T14:50:56.300653Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/pro/what-the-2026-world-cup-is-revealing-about-the-future-of-product-identification"
-        }
-      ]
-    },
-    {
-      "title": "10 players, coaches who broke records at World Cup 2026",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "From Lionel Messi, who made history as the player with most victories, to Kylian Mbappe becoming the competition's all-time leading scorer, while Didier Deschamps and Dick Advocaat also set coaching milestones, the tournament produced some of the most remarka\u2026",
-      "timestamp": "2026-07-22T14:50:56.300733Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/10-players-coaches-who-broke-records-at-world-cup-2026/"
-        }
-      ]
-    },
-    {
-      "title": "Winning the Summer: Gorenje Extends the FIFA World Cup 2026\u2122 High with Ultimate Cooling",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "As the Official Cooling Sponsor, Gorenje highlights high-performance refrigerators, air conditioners and ice makers to deliver comfort and freshness in even the most demanding climates. DUBAI, UAE, July 21, 2026 /PRNewswire/ -- The FIFA World Cup 2026\u2122 has re\u2026",
-      "timestamp": "2026-07-22T14:50:56.300805Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.prnewswire.com/news-releases/winning-the-summer-gorenje-extends-the-fifa-world-cup-2026-high-with-ultimate-cooling-302830726.html"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup: Who scored the most goals, assists, saves and yellow cards?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA\u2019s biggest global showpiece saw 1,039 players from 48 nations play across 16 venues and score 308 goals.",
-      "timestamp": "2026-07-22T14:50:56.300847Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/21/who-scored-the-most-goals-kept-clean-sheets-made-assists-fifa-world-cup-yellow-cards-saves"
-        }
-      ]
-    },
-    {
-      "title": "Megyn Kelly Praises Shakira for \u2018Not Showing Us Her Vagina\u2019 at World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Shakira recently received an unusual compliment from Megyn Kelly for her 2026 FIFA World Cup final halftime show performance. The Colombian singer-songwriter performed \u201cDai Dai\u201d with Burna Boy and the Ghetto Kids. Madonna, BTS, Justin Bieber, and Coldplay als\u2026",
-      "timestamp": "2026-07-22T14:50:56.300894Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.comingsoon.net/tv/news/2165083-megyn-kelly-shakira-vagina-comment-bts-slams-madonna"
-        }
-      ]
-    },
-    {
-      "title": "Real Madrid\u2019s pursuit of Rodri could reshape transfer market economics and tokenized fan engagement",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Real Madrid reconsidering Rodri signing after 2026 World Cup success carries implications for fan tokens, the Chiliz ecosystem, and tokenized\nThe post Real Madrid\u2019s pursuit of Rodri could reshape transfer market economics and tokenized fan engagement appeared\u2026",
-      "timestamp": "2026-07-22T14:50:56.300962Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/real-madrid-rodri-transfer-crypto-fan-tokens/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "Los Angeles Orthopedic Surgeon Dr. Reza Jazayeri Presents Advanced ACL Surgery and Return-to-Sport Strategies at Cedars-Sinai Soccer Medicine Conference Ahead of the 2026 FIFA World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/los-angeles-orthopedic-surgeon-dr-reza-jazayeri-presents-advanced-acl-surgery-and-return-to-sport-strategies-at-cedars-sinai-soccer-medicine-conference-ahead-of-the-2026-fifa-world-cup-302830570.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "The managers with the most World Cup matches ever",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thefootballfaithful.com/fifa-world-cup-managers-most-matches/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "Report: Yamal\u2019s Spain and Messi\u2019s Argentina set for November Finalissima in a 2026 World Cup final rematch",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/report-yamals-spain-and-messis-argentina-set-for-november-finalissima-in-a-2026-world-cup-final-rematch/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "England referee Anthony Taylor announces retirement",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/england-referee-anthony-taylor-announces-retirement/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "The defining moments of the 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cdrv06y1pdlo"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "Trump: There were no protests during World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/3bbec6069dd5e48c"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "Donald Trump Wants America To Host Another World Cup \u2018Immediately\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://theblast.com/821850/donald-trump-america-host-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "The 2026 World Cup Is Over. Here's How To Make It Even Better Next Time.",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://reason.com/2026/07/21/the-2026-world-cup-is-over-heres-how-to-make-it-even-better-next-time/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "FOX Sports' Presentation of FIFA World Cup 2026 Final Etches Place in Record Books as Most-Watched Soccer Telecast in U.S. History With 38,937,000 Viewers",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.thefutoncritic.com/ratings/2026/07/21/fox-sports-presentation-of-fifa-world-cup-2026-final-etches-place-in-record-books-as-most-watched-soccer-telecast-in-us-history-with-38937000-viewers-917224/20260721fox01/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "Lionel Messi holding baby Lamine Yamal card could be the most emotional 1-of-1 ever made",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/culture/trending/news/topps-lionel-messi-lamine-yamal-trading-card/5805f0644142663fe3e39675"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "They Are Wearing: 2026 FIFA World Cup Watching in Central\u00a0Park",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://wwd.com/fashion-news/street-style/taw-2026-fifa-world-cup-central-park-1239076858/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "\u2018Right champions, but 2026 World Cup lost credibility\u2019 \u2014 Ex-FIFA president Blatter",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/right-champions-but-2026-world-cup-lost-credibility-ex-fifa-president-blatter/"
+        }
+      ]
+    },
     {
       "date": "Jul 22",
       "loc": "Global",
@@ -734,187 +914,7 @@
           "url": "https://mediatakeout.com/tom-cruise-humiliated-after-world-cup-speech-is-mocked-online/"
         }
       ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "10 clubs paid the most by FIFA for releasing players to the 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/10-clubs-paid-the-most-by-fifa-for-releasing-players-to-the-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "BBC Sport earns praise for World Cup closing montage",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/bbc-sport-praised-world-cup-montage.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "Topps turning iconic photo of Messi and baby Yamal into a trading card",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/21/lionel-messi-lamine-yamal-photo-topps-card/90992288007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "CSTS Debuts PremierX\u2122 Globally with High-Impact FIFA World Cup Final Celebrations in New York and Hong Kong",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.prnewswire.com/news-releases/csts-debuts-premierx-globally-with-high-impact-fifa-world-cup-final-celebrations-in-new-york-and-hong-kong-302830771.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "Jon Stewart's mind blown as he spots bizarre man behind Trump: 'Who in the world?'",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rawstory.com/trump-2677250513/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "What the 2026 World Cup is revealing about the future of product identification",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/pro/what-the-2026-world-cup-is-revealing-about-the-future-of-product-identification"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "10 players, coaches who broke records at World Cup 2026",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/10-players-coaches-who-broke-records-at-world-cup-2026/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "Winning the Summer: Gorenje Extends the FIFA World Cup 2026\u2122 High with Ultimate Cooling",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.prnewswire.com/news-releases/winning-the-summer-gorenje-extends-the-fifa-world-cup-2026-high-with-ultimate-cooling-302830726.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "FIFA World Cup: Who scored the most goals, assists, saves and yellow cards?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/7/21/who-scored-the-most-goals-kept-clean-sheets-made-assists-fifa-world-cup-yellow-cards-saves"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "Megyn Kelly Praises Shakira for \u2018Not Showing Us Her Vagina\u2019 at World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.comingsoon.net/tv/news/2165083-megyn-kelly-shakira-vagina-comment-bts-slams-madonna"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "Real Madrid\u2019s pursuit of Rodri could reshape transfer market economics and tokenized fan engagement",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/real-madrid-rodri-transfer-crypto-fan-tokens/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-22T14:50:56.301122Z"
+  "lastUpdated": "2026-07-22T16:10:42.567686Z"
 }
