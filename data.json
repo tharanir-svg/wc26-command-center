@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 14
+    "p3": 11
   },
   "watchlist": [
     {
@@ -131,12 +131,54 @@
   ],
   "risks": [
     {
+      "title": "Bell and Rogers Say the World Cup Broke Records on Their Wireless Networks",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Bell and Rogers have both released numbers today on how their networks held up during the FIFA World Cup. Rogers says it carried 510 TB of wireless data across the 13 matches held in Toronto and Vancouver, along with surrounding watch parties and fan zones. T\u2026",
+      "timestamp": "2026-07-22T21:53:44.474639Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.iphoneincanada.ca/2026/07/21/bell-and-rogers-say-the-world-cup-broke-records-on-their-networks/"
+        }
+      ]
+    },
+    {
+      "title": "Argentina vs. Spain \u2014 Who do you have in the FIFA World Cup Final?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina will defend its World Cup title against Spain on Sunday.",
+      "timestamp": "2026-07-22T21:53:44.474751Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.themanual.com/culture/argentina-vs-spain-who-do-you-have-in-the-fifa-world-cup-final/"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Scaloni breaks silence on Argentina\u2019s Falklands banner as FIFA launches investigation",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina national team boss Lionel Scaloni has spoken out on the controversy surrounding his team after players displayed a Falklands-related banner after their FIFA World Cup semifinal win against England",
+      "timestamp": "2026-07-22T21:53:44.474810Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/lionel-scaloni-argentina-falklands-banner-1949389"
+        }
+      ]
+    },
+    {
       "title": "Images depicting Yamal with keffiyeh at World Cup are AI-generated",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Images spreading online after the Spanish men's national football team won the 2026 FIFA World Cup final purport to show star forward Lamine Yamal holding and praying over a Palestinian keffiyeh on the pitch. But while the 19-year-old phenom previously waved \u2026",
-      "timestamp": "2026-07-22T20:51:01.069804Z",
+      "timestamp": "2026-07-22T21:53:44.475110Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This massive Texas shipyard could eventually cover 4,400 acres and build autonomous vessels longer than football fields",
-      "timestamp": "2026-07-22T20:51:01.069904Z",
+      "timestamp": "2026-07-22T21:53:44.475190Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With the 2026 FIFA World Cup wrapped up, Bell shared details on how its wireless network held up during the event, including the insane amount of data people used. Bell said that during the 13 matches hosted in Canada (six in Toronto and seven in Vancouver), \u2026",
-      "timestamp": "2026-07-22T20:51:01.070038Z",
+      "timestamp": "2026-07-22T21:53:44.475327Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Real Madrid had ten players from last season\u2019s squad called up for the 2026 FIFA World Cup with the highest representation going to France and Brazil who had two players apiece.The club also made th...",
-      "timestamp": "2026-07-22T20:51:01.070115Z",
+      "timestamp": "2026-07-22T21:53:44.475404Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Watch IShowSpeed playing football in New York with JasonTheWeen, Marlon, Zias, Brittany Isenhour, Freda Ayisi and Sean Garnier.",
-      "timestamp": "2026-07-22T20:51:01.070158Z",
+      "timestamp": "2026-07-22T21:53:44.475451Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Los Angeles-based, Canadian dancer Enola Bedard talks to Billboard about her experience dancing with Shakira at the 2026 World Cup halftime show.",
-      "timestamp": "2026-07-22T20:51:01.070179Z",
+      "timestamp": "2026-07-22T21:53:44.475472Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Making a FIFA World Cup squad is a dream for every footballer. But for some players at the 2026 tournament, that dream ended without a single minute of action on the pitch.\nThe post 10 big-name players who never played a minute at 2026 FIFA World Cup appeared\u2026",
-      "timestamp": "2026-07-22T20:51:01.070208Z",
+      "timestamp": "2026-07-22T21:53:44.475501Z",
       "links": [
         {
           "label": "Source",
@@ -234,100 +276,61 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Former Colorado star Travis Hunter attended the 2026 World Cup final but left disappointed with Argentina's loss.",
-      "timestamp": "2026-07-22T20:51:01.070257Z",
+      "timestamp": "2026-07-22T21:53:44.475548Z",
       "links": [
         {
           "label": "Source",
           "url": "https://coloradobuffaloeswire.usatoday.com/story/sports/college/buffaloes/football/2026/07/21/travis-hunter-lionel-messi-2026-world-cup-final/90996860007/"
         }
       ]
-    },
-    {
-      "title": "What made the 2026 FIFA World Cup so special?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Whether you call it football or soccer, in the past month we all spoke in one language and that is the FIFA World Cup.",
-      "timestamp": "2026-07-22T20:51:01.070866Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bavarianfootballworks.com/fifa-world-cup/233970/what-made-the-2026-fifa-world-cup-so-special-usa-canada-mexico-spain"
-        }
-      ]
-    },
-    {
-      "title": "\u201cGood, not great\u201d: World Cup hype falls short for South Florida hospitality industry",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "South Florida\u2019s hospitality industry expected the FIFA World Cup to score a major win for business, but for many operators, the tournament fell short of the anticipated economic windfall during the region\u2019s slow season. Hotel executives and restaurant operato\u2026",
-      "timestamp": "2026-07-22T20:51:01.070900Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://therealdeal.com/miami/2026/07/21/world-cup-in-miami-had-minimal-impact-on-hotels-restaurants/"
-        }
-      ]
-    },
-    {
-      "title": "You can own a piece of MetLife turf from the 2026 World Cup final\u2014here's how much it'll cost you",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The grass from soccer's biggest match is now being turned into collectibles, but the souvenir has sparked a political fight in New Jersey",
-      "timestamp": "2026-07-22T20:51:01.070921Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.timeout.com/newyork/news/you-can-own-a-piece-of-metlife-turf-from-the-2026-world-cup-finalheres-how-much-itll-cost-you-072126"
-        }
-      ]
-    },
-    {
-      "title": "Leandro Paredes receives unexpected FIFA punishment update after heated 2026 World Cup final moment vs Spain",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The chaotic scenes that followed the final whistle created one of the tournament\u2019s biggest talking points, leaving questions over whether Argentina players would face serious consequences. Leandro Paredes found himself at the center of controversy after Argen\u2026",
-      "timestamp": "2026-07-22T20:51:01.070999Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/leandro-paredes-receives-unexpected-fifa-punishment-update-after-heated-2026-world-cup-final-moment-vs-spain/"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi\u2019s international future decided as Argentina reportedly makes retirement wish clear after emotional 2026 World Cup ending",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "After an emotional ending to the 2026 World Cup, the question surrounding Messi\u2019s international career has become one of soccer\u2019s biggest stories, with the next decision from the Argentina icon carrying enormous weight. The final chapter of Lionel Messi\u2019s Wor\u2026",
-      "timestamp": "2026-07-22T20:51:01.071056Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/lionel-messis-international-future-decided-as-argentina-reportedly-makes-retirement-wish-clear-after-emotional-2026-world-cup-ending/"
-        }
-      ]
-    },
-    {
-      "title": "Barcelona\u2019s Pau Cubarsi makes history as the youngest centre-back to win the World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Many talented stars came to the fore as Spain secured the 2026 FIFA World Cup, thus adding two stars to their badge.While much of the focus is on Rodri and Lamine Yamal, both of whom have emerged as B...",
-      "timestamp": "2026-07-22T20:51:01.071100Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelonas-pau-cubarsi-makes-history-as-the-youngest-centre-back-to-win-the-world-cup/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 22",
+      "loc": "Vancouver",
+      "event": "Bell and Rogers Say the World Cup Broke Records on Their Wireless Networks",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.iphoneincanada.ca/2026/07/21/bell-and-rogers-say-the-world-cup-broke-records-on-their-networks/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "Argentina vs. Spain \u2014 Who do you have in the FIFA World Cup Final?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.themanual.com/culture/argentina-vs-spain-who-do-you-have-in-the-fifa-world-cup-final/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 22",
+      "loc": "Global",
+      "event": "Lionel Scaloni breaks silence on Argentina\u2019s Falklands banner as FIFA launches investigation",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/lionel-scaloni-argentina-falklands-banner-1949389"
+        }
+      ]
+    },
     {
       "date": "Jul 22",
       "loc": "Global",
@@ -447,97 +450,7 @@
           "url": "https://coloradobuffaloeswire.usatoday.com/story/sports/college/buffaloes/football/2026/07/21/travis-hunter-lionel-messi-2026-world-cup-final/90996860007/"
         }
       ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "What made the 2026 FIFA World Cup so special?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.bavarianfootballworks.com/fifa-world-cup/233970/what-made-the-2026-fifa-world-cup-so-special-usa-canada-mexico-spain"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "\u201cGood, not great\u201d: World Cup hype falls short for South Florida hospitality industry",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://therealdeal.com/miami/2026/07/21/world-cup-in-miami-had-minimal-impact-on-hotels-restaurants/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "New York / New Jersey",
-      "event": "You can own a piece of MetLife turf from the 2026 World Cup final\u2014here's how much it'll cost you",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.timeout.com/newyork/news/you-can-own-a-piece-of-metlife-turf-from-the-2026-world-cup-finalheres-how-much-itll-cost-you-072126"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "Leandro Paredes receives unexpected FIFA punishment update after heated 2026 World Cup final moment vs Spain",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/leandro-paredes-receives-unexpected-fifa-punishment-update-after-heated-2026-world-cup-final-moment-vs-spain/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "Lionel Messi\u2019s international future decided as Argentina reportedly makes retirement wish clear after emotional 2026 World Cup ending",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/lionel-messis-international-future-decided-as-argentina-reportedly-makes-retirement-wish-clear-after-emotional-2026-world-cup-ending/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 22",
-      "loc": "Global",
-      "event": "Barcelona\u2019s Pau Cubarsi makes history as the youngest centre-back to win the World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelonas-pau-cubarsi-makes-history-as-the-youngest-centre-back-to-win-the-world-cup/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-22T20:51:01.071296Z"
+  "lastUpdated": "2026-07-22T21:53:44.476281Z"
 }
