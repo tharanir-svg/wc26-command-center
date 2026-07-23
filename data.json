@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 0,
+    "p1": 1,
     "p2": 0,
-    "p3": 21
+    "p3": 19
   },
   "watchlist": [
     {
@@ -131,12 +131,68 @@
   ],
   "risks": [
     {
+      "title": "Moments That Defined 2026 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "From Lionel Messi and Cristiano Ronaldo to Cape Verde's fairytale run, VAR controversies and unforgettable fan moments, relive the memories that made the 2026 FIFA World Cup the biggest and most dramatic tournament in history.",
+      "timestamp": "2026-07-23T04:59:49.071107Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/moments-that-defined-2026-world-cup/20260722.htm"
+        }
+      ]
+    },
+    {
+      "title": "Spain's World Cup Hero Rocks 'Make Spain Great Again' Hat",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain are the world champions again. Ferran Torres came off the bench and smashed home the only goal of the 2026 World Cup final in the 106th minute against Argentina. The next day, as the open-top bus rolled through Madrid and nearly two million Spaniards pa\u2026",
+      "timestamp": "2026-07-23T04:59:49.071165Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://freerepublic.com/focus/f-chat/4388884/posts"
+        }
+      ]
+    },
+    {
+      "title": "TOI's XI: The stars who lit up the FIFA World Cup 2026",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "Spain's triumphant campaign featured outstanding performances from key players. Pedro Porro and Pau Cubarsi anchored the defense with impressive discipline and attacking flair. Unai Simon provided crucial saves and commanded the backline effectively throughou\u2026",
+      "timestamp": "2026-07-23T04:59:49.071255Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/tois-xi-the-stars-who-lit-up-the-fifa-world-cup-2026/articleshow/132550180.cms"
+        }
+      ]
+    },
+    {
+      "title": "Fact Check: Fireworks Were NOT Blue After FIFA World Cup Final -- Real Footage With Altered Colors",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Did the fireworks at the World Cup finals have blue smoke, suggesting that the game had been rigged for Argentina, but Spain upset those plans? No, that's not true: The fireworks smoke was white during the closing ceremony. The footage...",
+      "timestamp": "2026-07-23T04:59:49.071397Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://leadstories.com/hoax-alert/2026/07/fact-check-fireworks-were-not-blue-after-fifa-world-cup-final-real-footage-with-altered-colors.html"
+        }
+      ]
+    },
+    {
       "title": "Rebecca Lowe details how helicopter ride nearly derailed entire Fox World Cup broadcast",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Those who tuned in for Fox\u2019s four-hour World Cup final pregame show on Sunday witnessed Rebecca Lowe and the rest of the network\u2019s studio crew travel by land, air, and sea to make it from Brooklyn Bridge Park to MetLife Stadium in time for kickoff. What viewe\u2026",
-      "timestamp": "2026-07-23T01:21:32.607685Z",
+      "timestamp": "2026-07-23T04:59:49.071452Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup final drew over 60 million US viewers, shattering records while prediction markets like Polymarket saw surging activity.\nThe post World Cup final draws over 60 million viewers in North America, and prediction markets were ready appeare\u2026",
-      "timestamp": "2026-07-23T01:21:32.607746Z",
+      "timestamp": "2026-07-23T04:59:49.071503Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup has come to an end, and World Soccer Talk is elaborating the Best XI of the tournament in North America. The 2026 World Cup has officially drawn to a close, with Spain capturing its second global title in a 1-0 extra-time thriller over Lion\u2026",
-      "timestamp": "2026-07-23T01:21:32.607799Z",
+      "timestamp": "2026-07-23T04:59:49.071568Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The two worked together over the years to help organize the 2026 FIFA World Cup in the United States, with Infantino even renting space in Trump Tower in New York City to serve as offices for FIFA.",
-      "timestamp": "2026-07-23T01:21:32.607821Z",
+      "timestamp": "2026-07-23T04:59:49.071595Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "INDIANAPOLIS, Indiana \u2014\u00a0The 2026 FIFA World Cup opened a years-long run of major international sporting events in the United States, which provided officials with visa and security experience and federal partnerships to build on for the 2028 Summer Olympics, \u2026",
-      "timestamp": "2026-07-23T01:21:32.607925Z",
+      "timestamp": "2026-07-23T04:59:49.071744Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup final between Spain and Argentina recorded 46 fouls, the tournament's highest, raising questions about officiating and sports\nThe post World Cup final\u2019s 46 fouls highlight the growing collision between sports physicality and fair play stand\u2026",
-      "timestamp": "2026-07-23T01:21:32.607993Z",
+      "timestamp": "2026-07-23T04:59:49.071831Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain\u2019s victory over Argentina at Sunday\u2019s FIFA World Cup 2026 final broke the record books in the United States \u2014 averaging 38,937,000 viewers watch on Fox, making it the most-watched soccer telecast in U.S. TV history and most-watched FIFA World Cup final e\u2026",
-      "timestamp": "2026-07-23T01:21:32.608018Z",
+      "timestamp": "2026-07-23T04:59:49.071862Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The International Federation of Football History and Statistics (IFFHS) contradicts FIFA, naming Lionel Messi as the winner of its own award for the best player of the 2026 World Cup. Lionel Messi finished the 2026 World Cup as the tournament\u2019s second-highest\u2026",
-      "timestamp": "2026-07-23T01:21:32.608055Z",
+      "timestamp": "2026-07-23T04:59:49.071909Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "From BTS to Son Heung-min to EJAE, here's a recap of Korean cultural moments from the World Cup\u2014including one of the biggest public outcries in Korean soccer history.",
-      "timestamp": "2026-07-23T01:21:32.608122Z",
+      "timestamp": "2026-07-23T04:59:49.071999Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Who were big hitters at the 2026 World Cup and which players flopped?",
-      "timestamp": "2026-07-23T01:21:32.608139Z",
+      "timestamp": "2026-07-23T04:59:49.072020Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Bell and Rogers have both released numbers today on how their networks held up during the FIFA World Cup. Rogers says it carried 510 TB of wireless data across the 13 matches held in Toronto and Vancouver, along with surrounding watch parties and fan zones. T\u2026",
-      "timestamp": "2026-07-23T01:21:32.608218Z",
+      "timestamp": "2026-07-23T04:59:49.072128Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina will defend its World Cup title against Spain on Sunday.",
-      "timestamp": "2026-07-23T01:21:32.608277Z",
+      "timestamp": "2026-07-23T04:59:49.072203Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina national team boss Lionel Scaloni has spoken out on the controversy surrounding his team after players displayed a Falklands-related banner after their FIFA World Cup semifinal win against England",
-      "timestamp": "2026-07-23T01:21:32.608315Z",
+      "timestamp": "2026-07-23T04:59:49.072258Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Images spreading online after the Spanish men's national football team won the 2026 FIFA World Cup final purport to show star forward Lamine Yamal holding and praying over a Palestinian keffiyeh on the pitch. But while the 19-year-old phenom previously waved \u2026",
-      "timestamp": "2026-07-23T01:21:32.608532Z",
+      "timestamp": "2026-07-23T04:59:49.072537Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This massive Texas shipyard could eventually cover 4,400 acres and build autonomous vessels longer than football fields",
-      "timestamp": "2026-07-23T01:21:32.608577Z",
+      "timestamp": "2026-07-23T04:59:49.072638Z",
       "links": [
         {
           "label": "Source",
@@ -346,86 +402,76 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With the 2026 FIFA World Cup wrapped up, Bell shared details on how its wireless network held up during the event, including the insane amount of data people used. Bell said that during the 13 matches hosted in Canada (six in Toronto and seven in Vancouver), \u2026",
-      "timestamp": "2026-07-23T01:21:32.608686Z",
+      "timestamp": "2026-07-23T04:59:49.072863Z",
       "links": [
         {
           "label": "Source",
           "url": "https://mobilesyrup.com/2026/07/21/bell-touts-record-smashing-performance-following-world-cup-finale/"
         }
       ]
-    },
-    {
-      "title": "Ranking all Real Madrid players at the 2026 FIFA World Cup from worst to best",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Real Madrid had ten players from last season\u2019s squad called up for the 2026 FIFA World Cup with the highest representation going to France and Brazil who had two players apiece.The club also made th...",
-      "timestamp": "2026-07-23T01:21:32.608744Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_20165758-7e3f-4261-9e6f-ed5bdc3ca775"
-        }
-      ]
-    },
-    {
-      "title": "IShowSpeed plays football in World Cup 2026 video as Cristiano Ronaldo fan faces JasonTheWeen, Marlon, Sean Garnier, Zias, Brittany Isenhour and Freda Ayisi: \u2018Shout out to FIFA\u2019",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Watch IShowSpeed playing football in New York with JasonTheWeen, Marlon, Zias, Brittany Isenhour, Freda Ayisi and Sean Garnier.",
-      "timestamp": "2026-07-23T01:21:32.608796Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.101greatgoals.com/football/world-cup-news/ishowspeed-football-video-cristiano-ronaldo-jasontheween-marlon-brittany-isenhour-sean-garnier-freda-ayisi-zias/"
-        }
-      ]
-    },
-    {
-      "title": "Viral Dancer Enola Bedard Talks Joining Shakira at 2026 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Los Angeles-based, Canadian dancer Enola Bedard talks to Billboard about her experience dancing with Shakira at the 2026 World Cup halftime show.",
-      "timestamp": "2026-07-23T01:21:32.608816Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.billboard.com/music/latin/dancer-enola-bedard-shakira-2026-fifa-world-cup-interview-1236299814/"
-        }
-      ]
-    },
-    {
-      "title": "10 big-name players who never played a minute at 2026 FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Making a FIFA World Cup squad is a dream for every footballer. But for some players at the 2026 tournament, that dream ended without a single minute of action on the pitch.\nThe post 10 big-name players who never played a minute at 2026 FIFA World Cup appeared\u2026",
-      "timestamp": "2026-07-23T01:21:32.608837Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/10-big-name-players-who-never-played-a-minute-at-2026-fifa-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "Travis Hunter supports Lionel Messi, Argentina at 2026 World Cup final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Former Colorado star Travis Hunter attended the 2026 World Cup final but left disappointed with Argentina's loss.",
-      "timestamp": "2026-07-23T01:21:32.608882Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://coloradobuffaloeswire.usatoday.com/story/sports/college/buffaloes/football/2026/07/21/travis-hunter-lionel-messi-2026-world-cup-final/90996860007/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 23",
+      "loc": "Global",
+      "event": "Moments That Defined 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/moments-that-defined-2026-world-cup/20260722.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 23",
+      "loc": "Global",
+      "event": "Spain's World Cup Hero Rocks 'Make Spain Great Again' Hat",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://freerepublic.com/focus/f-chat/4388884/posts"
+        }
+      ]
+    },
+    {
+      "date": "Jul 23",
+      "loc": "Global",
+      "event": "TOI's XI: The stars who lit up the FIFA World Cup 2026",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/tois-xi-the-stars-who-lit-up-the-fifa-world-cup-2026/articleshow/132550180.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 23",
+      "loc": "Global",
+      "event": "Fact Check: Fireworks Were NOT Blue After FIFA World Cup Final -- Real Footage With Altered Colors",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://leadstories.com/hoax-alert/2026/07/fact-check-fireworks-were-not-blue-after-fifa-world-cup-final-real-footage-with-altered-colors.html"
+        }
+      ]
+    },
     {
       "date": "Jul 23",
       "loc": "New York / New Jersey",
@@ -665,82 +711,7 @@
           "url": "https://mobilesyrup.com/2026/07/21/bell-touts-record-smashing-performance-following-world-cup-finale/"
         }
       ]
-    },
-    {
-      "date": "Jul 23",
-      "loc": "Global",
-      "event": "Ranking all Real Madrid players at the 2026 FIFA World Cup from worst to best",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_20165758-7e3f-4261-9e6f-ed5bdc3ca775"
-        }
-      ]
-    },
-    {
-      "date": "Jul 23",
-      "loc": "Global",
-      "event": "IShowSpeed plays football in World Cup 2026 video as Cristiano Ronaldo fan faces JasonTheWeen, Marlon, Sean Garnier, Zias, Brittany Isenhour and Freda Ayisi: \u2018Shout out to FIFA\u2019",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.101greatgoals.com/football/world-cup-news/ishowspeed-football-video-cristiano-ronaldo-jasontheween-marlon-brittany-isenhour-sean-garnier-freda-ayisi-zias/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 23",
-      "loc": "Global",
-      "event": "Viral Dancer Enola Bedard Talks Joining Shakira at 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.billboard.com/music/latin/dancer-enola-bedard-shakira-2026-fifa-world-cup-interview-1236299814/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 23",
-      "loc": "Global",
-      "event": "10 big-name players who never played a minute at 2026 FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/10-big-name-players-who-never-played-a-minute-at-2026-fifa-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 23",
-      "loc": "Global",
-      "event": "Travis Hunter supports Lionel Messi, Argentina at 2026 World Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://coloradobuffaloeswire.usatoday.com/story/sports/college/buffaloes/football/2026/07/21/travis-hunter-lionel-messi-2026-world-cup-final/90996860007/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-23T01:21:32.609082Z"
+  "lastUpdated": "2026-07-23T04:59:49.073065Z"
 }
