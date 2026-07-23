@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 1,
     "p2": 0,
-    "p3": 23
+    "p3": 22
   },
   "watchlist": [
     {
@@ -131,12 +131,110 @@
   ],
   "risks": [
     {
+      "title": "FOX reports massive, record-shattering ratings for 2026 FIFA World Cup Final between Spain and Argentina",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup final between Spain and Argentina drew 38.937 million viewers, shattering the English-language soccer broadcast record.",
+      "timestamp": "2026-07-23T10:08:17.036759Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/sports/fox-reports-massive-record-shattering-ratings-2026-fifa-world-cup-final-spain-argentina"
+        }
+      ]
+    },
+    {
+      "title": "The White House react to Ferran Torres wearing \u2018Make Spain Great Again\u2019 cap at World Cup celebrations",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain were crowned the 2026 World Cup champions over the weekend, with forward Ferran Torres opting to celebrate in an interesting way. The final, which took place at MetLife Stadium, saw both Spain and Argentina fail to score in 90 minutes of action.",
+      "timestamp": "2026-07-23T10:08:17.036895Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1ed00444-f9c1-493e-905c-05b6d1b62101"
+        }
+      ]
+    },
+    {
+      "title": "Mexico goalkeeper Guillermo Ochoa retires after 22-year career",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 41-year-old, who played in six FIFA World Cups, announces he will retire from both club and country.",
+      "timestamp": "2026-07-23T10:08:17.036951Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/22/mexico-goalkeeper-guillermo-ochoa-retires-after-22-year-career"
+        }
+      ]
+    },
+    {
+      "title": "Fans react to Kylian Mbappe\u2019s Cristiano Ronaldo-style FC 27 announcement after World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Real Madrid superstar Kylian Mbappe makes a major announcement just days after World Cup exit. Kylian Mbappe and France were eliminated from the 2026 FIFA World Cup by the eventual champions, Spain, in the semifinals of the tournament.",
+      "timestamp": "2026-07-23T10:08:17.036982Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/fans-react-to-kylian-mbappes-cristiano-ronaldo-style-fc-27-announcement-after-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "Donald Trump ready to endorse Gianni Infantino for the role of secretary-general of the United Nations",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Donald Trump and Gianni Infantino struck up a close bond during the 2026 World Cup and the US president wants the FIFA chief to take on a more significant role",
+      "timestamp": "2026-07-23T10:08:17.037006Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.101greatgoals.com/football/world-cup-news/donald-trump-ready-to-endorse-gianni-infantino-for-the-role-of-secretary-general-of-the-united-nations/"
+        }
+      ]
+    },
+    {
+      "title": "Arjun Bijlani on Argentina\u2019s FIFA World Cup 2026 final defeat: As a Messi fan, I was heartbroken",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina\u2019s defeat to Spain in the FIFA World Cup 2026 final left Arjun Bijlani heartbroken, while his son Ayaan celebrated Spain\u2019s victory, making for an emotional evening at home. A lifelong Lionel Messi fan, the actor reflects on the thrilling extra-time f\u2026",
+      "timestamp": "2026-07-23T10:08:17.037175Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/tv/news/hindi/arjun-bijlani-on-argentinas-fifa-world-cup-2026-final-defeat-as-a-messi-fan-i-was-heartbroken/articleshow/132554224.cms"
+        }
+      ]
+    },
+    {
+      "title": "Who Was World Cup 2026's Best Player? Vote!",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Nine football superstars, one ultimate honour-vote for the player you believe delivered the most memorable performance at the FIFA World Cup 2026.",
+      "timestamp": "2026-07-23T10:08:17.037260Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/the-best-player-at-world-cup-2026-is-vote/20260722.htm"
+        }
+      ]
+    },
+    {
       "title": "Lionel Messi and his insane list of FIFA World Cup records",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi will leave behind an incredible legacy after playing what was very likely his last ever match in the FIFA World Cup.\u00a0The Argentina captain was not able to lead the national team to glory...",
-      "timestamp": "2026-07-23T07:32:06.810320Z",
+      "timestamp": "2026-07-23T10:08:17.037372Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Cristiano Ronaldo may not have completed his dream of winning the FIFA World Cup this summer, but he did at least come away with three new records in North America.\u00a0The Portugal star\u2019s opening goal...",
-      "timestamp": "2026-07-23T07:32:06.810383Z",
+      "timestamp": "2026-07-23T10:08:17.037400Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentine superstar Lionel Messi's legacy is secure despite a gut-wrenching defeat at the FIFA World Cup 2026 Final. The post Messi Legacy Secure Despite FIFA World Cup 2026 Defeat appeared first on HEAVY.",
-      "timestamp": "2026-07-23T07:32:06.810523Z",
+      "timestamp": "2026-07-23T10:08:17.037544Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Did soccer player Lamine Yamal show a keffiyeh during one of the Spain games at the 2026 FIFA World Cup? No, that's not true: The rumor was based on a digitally altered image taken during a match between Spain and...",
-      "timestamp": "2026-07-23T07:32:06.810545Z",
+      "timestamp": "2026-07-23T10:08:17.037567Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "OPINION: Despite controversies, thrilling football made this World Cup unforgettable.",
-      "timestamp": "2026-07-23T07:32:06.810560Z",
+      "timestamp": "2026-07-23T10:08:17.037583Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain and Barcelona midfielder Gavi has addressed one of the biggest talking points from the 2026 FIFA World Cup final, sharing his thoughts on the heated confrontation with Argentina\u2019s Leandro Pare...",
-      "timestamp": "2026-07-23T07:32:06.810585Z",
+      "timestamp": "2026-07-23T10:08:17.037612Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "As the FIFA World Cup concludes, we give you a curated list of the most impressive Hindi and English shows from 2026 to fill the OTT void.",
-      "timestamp": "2026-07-23T07:32:06.810639Z",
+      "timestamp": "2026-07-23T10:08:17.037672Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "From Lionel Messi and Cristiano Ronaldo to Cape Verde's fairytale run, VAR controversies and unforgettable fan moments, relive the memories that made the 2026 FIFA World Cup the biggest and most dramatic tournament in history.",
-      "timestamp": "2026-07-23T07:32:06.810778Z",
+      "timestamp": "2026-07-23T10:08:17.037830Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain are the world champions again. Ferran Torres came off the bench and smashed home the only goal of the 2026 World Cup final in the 106th minute against Argentina. The next day, as the open-top bus rolled through Madrid and nearly two million Spaniards pa\u2026",
-      "timestamp": "2026-07-23T07:32:06.810803Z",
+      "timestamp": "2026-07-23T10:08:17.037859Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +360,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "Spain's triumphant campaign featured outstanding performances from key players. Pedro Porro and Pau Cubarsi anchored the defense with impressive discipline and attacking flair. Unai Simon provided crucial saves and commanded the backline effectively throughou\u2026",
-      "timestamp": "2026-07-23T07:32:06.810867Z",
+      "timestamp": "2026-07-23T10:08:17.037938Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Did the fireworks at the World Cup finals have blue smoke, suggesting that the game had been rigged for Argentina, but Spain upset those plans? No, that's not true: The fireworks smoke was white during the closing ceremony. The footage...",
-      "timestamp": "2026-07-23T07:32:06.810985Z",
+      "timestamp": "2026-07-23T10:08:17.038075Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Those who tuned in for Fox\u2019s four-hour World Cup final pregame show on Sunday witnessed Rebecca Lowe and the rest of the network\u2019s studio crew travel by land, air, and sea to make it from Brooklyn Bridge Park to MetLife Stadium in time for kickoff. What viewe\u2026",
-      "timestamp": "2026-07-23T07:32:06.811029Z",
+      "timestamp": "2026-07-23T10:08:17.038129Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup final drew over 60 million US viewers, shattering records while prediction markets like Polymarket saw surging activity.\nThe post World Cup final draws over 60 million viewers in North America, and prediction markets were ready appeare\u2026",
-      "timestamp": "2026-07-23T07:32:06.811068Z",
+      "timestamp": "2026-07-23T10:08:17.038190Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup has come to an end, and World Soccer Talk is elaborating the Best XI of the tournament in North America. The 2026 World Cup has officially drawn to a close, with Spain capturing its second global title in a 1-0 extra-time thriller over Lion\u2026",
-      "timestamp": "2026-07-23T07:32:06.811116Z",
+      "timestamp": "2026-07-23T10:08:17.038249Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The two worked together over the years to help organize the 2026 FIFA World Cup in the United States, with Infantino even renting space in Trump Tower in New York City to serve as offices for FIFA.",
-      "timestamp": "2026-07-23T07:32:06.811138Z",
+      "timestamp": "2026-07-23T10:08:17.038277Z",
       "links": [
         {
           "label": "Source",
@@ -346,128 +444,121 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "INDIANAPOLIS, Indiana \u2014\u00a0The 2026 FIFA World Cup opened a years-long run of major international sporting events in the United States, which provided officials with visa and security experience and federal partnerships to build on for the 2028 Summer Olympics, \u2026",
-      "timestamp": "2026-07-23T07:32:06.811243Z",
+      "timestamp": "2026-07-23T10:08:17.038488Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.breitbart.com/sports/2026/07/21/exclusive-andrew-giuliani-world-cup-was-just-the-start-of-americas-golden-age-of-sports/"
         }
       ]
-    },
-    {
-      "title": "World Cup final\u2019s 46 fouls highlight the growing collision between sports physicality and fair play standards",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup final between Spain and Argentina recorded 46 fouls, the tournament's highest, raising questions about officiating and sports\nThe post World Cup final\u2019s 46 fouls highlight the growing collision between sports physicality and fair play stand\u2026",
-      "timestamp": "2026-07-23T07:32:06.811316Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/world-cup-final-46-fouls-record/"
-        }
-      ]
-    },
-    {
-      "title": "Spain\u2019s World Cup Win Breaks Ratings Records, Scores as Most-Watched Soccer Telecast in U.S. TV History",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain\u2019s victory over Argentina at Sunday\u2019s FIFA World Cup 2026 final broke the record books in the United States \u2014 averaging 38,937,000 viewers watch on Fox, making it the most-watched soccer telecast in U.S. TV history and most-watched FIFA World Cup final e\u2026",
-      "timestamp": "2026-07-23T07:32:06.811341Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://variety.com/2026/tv/news/world-cup-final-ratings-most-watched-soccer-game-history-1236817692/"
-        }
-      ]
-    },
-    {
-      "title": "IFFHS contradicts FIFA, names Lionel Messi as the best player of the 2026 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The International Federation of Football History and Statistics (IFFHS) contradicts FIFA, naming Lionel Messi as the winner of its own award for the best player of the 2026 World Cup. Lionel Messi finished the 2026 World Cup as the tournament\u2019s second-highest\u2026",
-      "timestamp": "2026-07-23T07:32:06.811380Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/iffhs-contradicts-fifa-names-lionel-messi-as-the-best-player-of-the-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "2026 World Cup: BTS, Son, EJAE And Other Top Korean Cultural Moments",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "From BTS to Son Heung-min to EJAE, here's a recap of Korean cultural moments from the World Cup\u2014including one of the biggest public outcries in Korean soccer history.",
-      "timestamp": "2026-07-23T07:32:06.811463Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/reginakim/2026/07/21/2026-world-cup-bts-son-ejae-and-other-top-korean-cultural-moments/"
-        }
-      ]
-    },
-    {
-      "title": "2026 World Cup: Rating the 5 biggest achievers and underperformers at this summer\u2019s tournament",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Who were big hitters at the 2026 World Cup and which players flopped?",
-      "timestamp": "2026-07-23T07:32:06.811480Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.101greatgoals.com/football/world-cup-news/2026-world-cup-rating-5-biggest-achievers-underperformers/"
-        }
-      ]
-    },
-    {
-      "title": "Bell and Rogers Say the World Cup Broke Records on Their Wireless Networks",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Bell and Rogers have both released numbers today on how their networks held up during the FIFA World Cup. Rogers says it carried 510 TB of wireless data across the 13 matches held in Toronto and Vancouver, along with surrounding watch parties and fan zones. T\u2026",
-      "timestamp": "2026-07-23T07:32:06.811596Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.iphoneincanada.ca/2026/07/21/bell-and-rogers-say-the-world-cup-broke-records-on-their-networks/"
-        }
-      ]
-    },
-    {
-      "title": "Argentina vs. Spain \u2014 Who do you have in the FIFA World Cup Final?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina will defend its World Cup title against Spain on Sunday.",
-      "timestamp": "2026-07-23T07:32:06.811672Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.themanual.com/culture/argentina-vs-spain-who-do-you-have-in-the-fifa-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Scaloni breaks silence on Argentina\u2019s Falklands banner as FIFA launches investigation",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina national team boss Lionel Scaloni has spoken out on the controversy surrounding his team after players displayed a Falklands-related banner after their FIFA World Cup semifinal win against England",
-      "timestamp": "2026-07-23T07:32:06.811725Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/lionel-scaloni-argentina-falklands-banner-1949389"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 23",
+      "loc": "Global",
+      "event": "FOX reports massive, record-shattering ratings for 2026 FIFA World Cup Final between Spain and Argentina",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/sports/fox-reports-massive-record-shattering-ratings-2026-fifa-world-cup-final-spain-argentina"
+        }
+      ]
+    },
+    {
+      "date": "Jul 23",
+      "loc": "New York / New Jersey",
+      "event": "The White House react to Ferran Torres wearing \u2018Make Spain Great Again\u2019 cap at World Cup celebrations",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1ed00444-f9c1-493e-905c-05b6d1b62101"
+        }
+      ]
+    },
+    {
+      "date": "Jul 23",
+      "loc": "Global",
+      "event": "Mexico goalkeeper Guillermo Ochoa retires after 22-year career",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/22/mexico-goalkeeper-guillermo-ochoa-retires-after-22-year-career"
+        }
+      ]
+    },
+    {
+      "date": "Jul 23",
+      "loc": "Global",
+      "event": "Fans react to Kylian Mbappe\u2019s Cristiano Ronaldo-style FC 27 announcement after World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/fans-react-to-kylian-mbappes-cristiano-ronaldo-style-fc-27-announcement-after-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 23",
+      "loc": "Global",
+      "event": "Donald Trump ready to endorse Gianni Infantino for the role of secretary-general of the United Nations",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.101greatgoals.com/football/world-cup-news/donald-trump-ready-to-endorse-gianni-infantino-for-the-role-of-secretary-general-of-the-united-nations/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 23",
+      "loc": "Global",
+      "event": "Arjun Bijlani on Argentina\u2019s FIFA World Cup 2026 final defeat: As a Messi fan, I was heartbroken",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/tv/news/hindi/arjun-bijlani-on-argentinas-fifa-world-cup-2026-final-defeat-as-a-messi-fan-i-was-heartbroken/articleshow/132554224.cms"
+        }
+      ]
+    },
+    {
+      "date": "Jul 23",
+      "loc": "Global",
+      "event": "Who Was World Cup 2026's Best Player? Vote!",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/the-best-player-at-world-cup-2026-is-vote/20260722.htm"
+        }
+      ]
+    },
     {
       "date": "Jul 23",
       "loc": "Global",
@@ -707,127 +798,7 @@
           "url": "https://www.breitbart.com/sports/2026/07/21/exclusive-andrew-giuliani-world-cup-was-just-the-start-of-americas-golden-age-of-sports/"
         }
       ]
-    },
-    {
-      "date": "Jul 23",
-      "loc": "Global",
-      "event": "World Cup final\u2019s 46 fouls highlight the growing collision between sports physicality and fair play standards",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/world-cup-final-46-fouls-record/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 23",
-      "loc": "Global",
-      "event": "Spain\u2019s World Cup Win Breaks Ratings Records, Scores as Most-Watched Soccer Telecast in U.S. TV History",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://variety.com/2026/tv/news/world-cup-final-ratings-most-watched-soccer-game-history-1236817692/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 23",
-      "loc": "Global",
-      "event": "IFFHS contradicts FIFA, names Lionel Messi as the best player of the 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/iffhs-contradicts-fifa-names-lionel-messi-as-the-best-player-of-the-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 23",
-      "loc": "Global",
-      "event": "2026 World Cup: BTS, Son, EJAE And Other Top Korean Cultural Moments",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/reginakim/2026/07/21/2026-world-cup-bts-son-ejae-and-other-top-korean-cultural-moments/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 23",
-      "loc": "Global",
-      "event": "2026 World Cup: Rating the 5 biggest achievers and underperformers at this summer\u2019s tournament",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.101greatgoals.com/football/world-cup-news/2026-world-cup-rating-5-biggest-achievers-underperformers/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 23",
-      "loc": "Vancouver",
-      "event": "Bell and Rogers Say the World Cup Broke Records on Their Wireless Networks",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.iphoneincanada.ca/2026/07/21/bell-and-rogers-say-the-world-cup-broke-records-on-their-networks/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 23",
-      "loc": "Global",
-      "event": "Argentina vs. Spain \u2014 Who do you have in the FIFA World Cup Final?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.themanual.com/culture/argentina-vs-spain-who-do-you-have-in-the-fifa-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 23",
-      "loc": "Global",
-      "event": "Lionel Scaloni breaks silence on Argentina\u2019s Falklands banner as FIFA launches investigation",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/lionel-scaloni-argentina-falklands-banner-1949389"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-23T07:32:06.811925Z"
+  "lastUpdated": "2026-07-23T10:08:17.038657Z"
 }
