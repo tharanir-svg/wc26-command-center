@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 1,
-    "p2": 1,
-    "p3": 23
+    "p2": 0,
+    "p3": 22
   },
   "watchlist": [
     {
@@ -131,12 +131,180 @@
   ],
   "risks": [
     {
+      "title": "The World Cup's dirty little secret: FIFA's president wasn't the only culprit to wind up in crosshairs over his gas-guzzling private jet travel\u2026see the worst offenders",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Roughly 92,000 private jets flew in and out of host cities this World Cup to match the annual emissions of more than 34,000 cars.",
+      "timestamp": "2026-07-24T18:08:01.035516Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/news/article-15996721/World-Cup-FIFA-private-jet-polluters.html"
+        }
+      ]
+    },
+    {
+      "title": "World Cup set TV viewing records in U.S., but Minnesota was a straggler",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The FIFA World Cup set viewership records in the U.S. this summer, but the Twin Cities lagged behind top markets. Spain\u2019s 1-0 win over Argentina in Sunday\u2019s final in New Jersey reached a total of nearly 39 million viewers on FOX, making it the most-watched En\u2026",
+      "timestamp": "2026-07-24T18:08:01.035674Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.twincities.com/2026/07/23/world-cup-set-tv-viewing-records-in-u-s-but-minnesota-was-a-straggler/"
+        }
+      ]
+    },
+    {
+      "title": "Half a million World Cup fans came to Atlanta stadium. What they bought",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Mercedes-Benz Stadium hosted more than half a million fans during the World Cup, and they took advantage of the cheap stadium prices.",
+      "timestamp": "2026-07-24T18:08:01.035699Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/news/state/georgia/atlanta/2026/07/23/how-much-food-drinks-did-fans-buy-at-atlanta-stadium-during-world-cup/91020502007/"
+        }
+      ]
+    },
+    {
+      "title": "Spain outlasts Argentina to win FIFA World Cup and cap sensational tournament",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "Spain's relentless attack finally paid off in extra time to dispatch defending world champ Argentina.",
+      "timestamp": "2026-07-24T18:08:01.035726Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.themanual.com/culture/argentina-spain-wins-2026-fifa-world-cup-but-futbol-are-the-real-winners/"
+        }
+      ]
+    },
+    {
+      "title": "Messi Nod",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Messi Nod is a series of memes based on a video of footballer Lionel Messi nodding and saying what looks like, \"Okay,\" or, \"Good,\" to another player during a match between Argentina and England in the 2026 FIFA World Cup semifinals.\nThe match was played on Ju\u2026",
+      "timestamp": "2026-07-24T18:08:01.035863Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://knowyourmeme.com/memes/messi-nod"
+        }
+      ]
+    },
+    {
+      "title": "Bruce Buffer Wants the NFL to Let Him Open the Super Bowl",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Bruce Buffer has announced UFC title fights at the White House and introduced teams before the 2026 World Cup final, but one major sporting assignment ... Read More",
+      "timestamp": "2026-07-24T18:08:01.035973Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://wealthofgeeks.com/bruce-buffer-wants-the-nfl-to-let-him-open-the-super-bowl/"
+        }
+      ]
+    },
+    {
+      "title": "Kylian Mbapp\u00e9 matches Eusebio\u2019s 60-year-old scoring record that Lionel Messi and Cristiano Ronaldo never reached",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Despite failing to win the 2026 World Cup, Kylian Mbapp\u00e9 has come under heavy criticism from fans. However, he equaled a scoring record set by Eus\u00e9bio that had stood for 60 years and was never matched by Lionel Messi or Cristiano Ronaldo. \nKylian Mbapp\u00e9 has m\u2026",
+      "timestamp": "2026-07-24T18:08:01.036087Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/kylian-mbappe-matches-eusebios-60-year-old-scoring-record-that-lionel-messi-and-cristiano-ronaldo-never-reached/"
+        }
+      ]
+    },
+    {
+      "title": "Fake image spreads of Palestinian flag on Spain World Cup parade bus",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "An estimated two million people turned up to cheer the Spanish men's national football team's 2026 FIFA World Cup victory as the squad paraded through the streets of Madrid, but an image of star Lamine Yamal and teammates Gavi and Yeremy Pino celebrating with\u2026",
+      "timestamp": "2026-07-24T18:08:01.036139Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/fake-image-spreads-palestinian-flag-155434420.html"
+        }
+      ]
+    },
+    {
+      "title": "Integrity Of World Cup Under Scrutiny Over Potential Betting Irregularities, Match Manipulation",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The integrity of the 2026 FIFA World Cup is under scrutiny over potential betting irregularities and match manipulation. The Group of Copenhagen, an independent international advisory body dedicated to detecting, sanctioning, and preventing the manipulation o\u2026",
+      "timestamp": "2026-07-24T18:08:01.036205Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://brobible.com/sports/article/world-cup-betting-irregularities-match-manipulation/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup 2026 Greatest Pop Stars Podcast: Shakira, Oasis, BTS & More",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "This 'Greatest Pop Stars' podcast episode looks at the pop stars who impacted the 2026 World Cup, including Shakira, Oasis, BTS and Justin Bieber.",
+      "timestamp": "2026-07-24T18:08:01.036365Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.billboard.com/music/pop/world-cup-2026-greatest-pop-stars-podcast-oasis-shakira-bts-1236301312/"
+        }
+      ]
+    },
+    {
+      "title": "What the 2026 World Cup Means for Canadian Cities, Businesses, and Fans",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Explore the multifaceted impact of the 2026 World Cup on Canadian host cities, local businesses, and passionate fans, including economic costs and benefits\n\nRead More: https://punchng.com/what-the-2026-world-cup-means-for-canadian-cities-businesses-and-fans/",
+      "timestamp": "2026-07-24T18:08:01.036391Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/what-the-2026-world-cup-means-for-canadian-cities-businesses-and-fans/"
+        }
+      ]
+    },
+    {
+      "title": "Saquon Barkley sees 'no reason why' NFL must keep turf fields after FIFA World Cup required grass surfaces",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Saquon Barkley said NFL stadiums installing grass for the World Cup set a precedent, arguing there's no reason NFL players can't have the same surface.",
+      "timestamp": "2026-07-24T18:08:01.036412Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/sports/saquon-barkley-sees-no-reason-why-nfl-must-keep-turf-fields-after-fifa-world-cup-required-grass-surfaces"
+        }
+      ]
+    },
+    {
       "title": "Rapid Relief Team Supports New Jersey Law Enforcement During Historic FIFA World Cup Matches",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "160 RRT volunteers donate 1,526 hours to serve NJ law enforcement during eight matches in one of the region's largest-ever police operations Served 9,200 meals, distributed 2,000 Frontline Support Packs, and provided thousands of coffees, cold drinks, and ref\u2026",
-      "timestamp": "2026-07-24T14:30:30.947727Z",
+      "timestamp": "2026-07-24T18:08:01.036501Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina joined Germany in holding one of the least desirable records in FIFA World Cup history after suffering a heartbreaking 1-0 defeat to Spain in the 2026 FIFA World Cup Final.The narrow loss de...",
-      "timestamp": "2026-07-24T14:30:30.947782Z",
+      "timestamp": "2026-07-24T18:08:01.036533Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026\u00a0FIFA\u00a0World Cup was designed to enter history as the largest celebration of international football ever staged.\n\nTo read this article in the following languages, click the Translate Website button below the author\u2019s name.\n\n\n\n\nHebrew, \u0420\u0443\u0441\u0441\u043a\u0438\u0439, Farsi, \u0639\u2026",
-      "timestamp": "2026-07-24T14:30:30.947812Z",
+      "timestamp": "2026-07-24T18:08:01.036563Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Despite spending hundreds of millions of dollars of public money to stage the tournament, host cities receive little direct revenue from the World Cup.",
-      "timestamp": "2026-07-24T14:30:30.947987Z",
+      "timestamp": "2026-07-24T18:08:01.036760Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "CAF President Patrice Motsepe states the 2026 FIFA World Cup felt incomplete without Nigeria and Cameroon, highlighting their importance to African footbal\n\nRead More: https://punchng.com/world-cup-without-nigeria-cameroon-incomplete-caf-president/",
-      "timestamp": "2026-07-24T14:30:30.948058Z",
+      "timestamp": "2026-07-24T18:08:01.036860Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spanish midfielders Gavi and Fabian Ruiz have received an unusual hometown tribute after helping Spain win the 2026 FIFA World Cup, with the pair rewarded with tomatoes equivalent to their body weight.\nThe post Why Spain\u2019s World Cup heroes were gifted tomatoe\u2026",
-      "timestamp": "2026-07-24T14:30:30.948083Z",
+      "timestamp": "2026-07-24T18:08:01.036890Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "From creator ecosystems and guerrilla marketing to unexpected viral standouts, this year's FIFA Wold Cup tournament delivered a masterclass in retail marketing.",
-      "timestamp": "2026-07-24T14:30:30.948100Z",
+      "timestamp": "2026-07-24T18:08:01.036916Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Samuel L. Jackson's viral criticism of Argentina's racism at the 2026 World Cup is rattling fan token markets as Black Americans reject the team.\nThe post Argentina\u2019s racism controversy hits fan tokens as Black Americans rally against the team appeared first \u2026",
-      "timestamp": "2026-07-24T14:30:30.948156Z",
+      "timestamp": "2026-07-24T18:08:01.036978Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Manuel Neuer, Neymar, Riyad Mahrez, and other football legends retired from international football after the 2026 World Cup, ending illustrious careers.\n\nRead More: https://punchng.com/neuer-neymar-others-who-retired-from-international-football-after-2026-wor\u2026",
-      "timestamp": "2026-07-24T14:30:30.948182Z",
+      "timestamp": "2026-07-24T18:08:01.037008Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Getty Images captured over 2.6 million images at the 2026 World Cup. We got the backstory on some of our favorites.",
-      "timestamp": "2026-07-24T14:30:30.948213Z",
+      "timestamp": "2026-07-24T18:08:01.037045Z",
       "links": [
         {
           "label": "Source",
@@ -276,212 +444,196 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Group of Copenhagen has raised seven notices about possible match manipulation from potential betting irregularities in the 2026 FIFA World Cup, including the overturning of Folarin Balogun\u2019s one-game suspension. Balogun was expected to be suspended for t\u2026",
-      "timestamp": "2026-07-24T14:30:30.948291Z",
+      "timestamp": "2026-07-24T18:08:01.037183Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.hitc.com/potential-world-cup-betting-scandal-emerges-over-folarin-baloguns-red-card-and-other-irregularities/"
         }
       ]
-    },
-    {
-      "title": "While the world was watching Spain and Argentina, South-East Asia is getting ready for something else",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "As the world focuses on the FIFA World Cup, Southeast Asia prepares for the vibrant ASEAN Championship, celebrating 30 years of football passion.",
-      "timestamp": "2026-07-24T14:30:30.948476Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thehindubusinessline.com/news/sports/while-the-world-was-watching-spain-and-argentina-south-east-asia-is-getting-ready-for-something-else/article71257526.ece"
-        }
-      ]
-    },
-    {
-      "title": "Petition to replay Copa final takes off in , tops 80,000 signatures",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The outcome of the 2026 FIFA World Cup is still causing a stir off the pitch... in Argentina!A petition on the signature-gathering site change.org already has more than 80,000 signatures, \u201cdemanding...",
-      "timestamp": "2026-07-24T14:30:30.948556Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f7b3ddc2-8d4f-4340-a40e-3bda982a3ed9"
-        }
-      ]
-    },
-    {
-      "title": "Lewandowski congratulates Barcelona stars after Spain\u2019s World Cup triumph: \u2018Very happy for them\u2019",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "Ex-Barcelona striker Robert Lewandowski has congratulated his former teammates following Spain\u2019s 2026 FIFA World Cup victory, saying he is delighted to see so many young players from the club achiev...",
-      "timestamp": "2026-07-24T14:30:30.948589Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/lewandowski-congratulates-barcelona-stars-after-spains-world-cup-triumph-very-happy-for-them/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup let USA, Mexico and Canada show their best. What will its legacy be?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup was not perfect for the three host nations, but all were able to show their distinct culture - and project hope for the future of soccer.",
-      "timestamp": "2026-07-24T14:30:30.948609Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/23/2026-world-cup-legacy-united-states-mexico-canada/91013310007/"
-        }
-      ]
-    },
-    {
-      "title": "The World Cup Story (Almost) No One Told",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup will be remembered in part for bringing the term hydration break into the global football lexicon. For the first time in the Cup\u2019s 96-year history, matches were interrupted midway through each half so players could hydrate and rest. Many fa\u2026",
-      "timestamp": "2026-07-24T14:30:30.948655Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://newrepublic.com/article/213329/world-cup-hydration-breaks-telemundo"
-        }
-      ]
-    },
-    {
-      "title": "FULL LIST: EPL fans name 2026 World Cup best XI",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "See the full list of players selected by EPL fans for the 2026 World Cup Best XI, featuring top Premier League stars like Rodri, Haaland, and Saka.\n\nRead More: https://punchng.com/full-list-epl-fans-name-2026-world-cup-best-xi/",
-      "timestamp": "2026-07-24T14:30:30.948707Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/full-list-epl-fans-name-2026-world-cup-best-xi/"
-        }
-      ]
-    },
-    {
-      "title": "Geopolitical interference takes center stage during the World Cup",
-      "risk": "high",
-      "severityText": "P1 CRITICAL",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup is the largest sporting event ever staged. This makes for an unprecedented attack surface for threat actors.",
-      "timestamp": "2026-07-24T14:30:30.948796Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/pro/geopolitical-interference-takes-center-stage-during-the-world-cup"
-        }
-      ]
-    },
-    {
-      "title": "Cricket's next generation of superstars ready to follow in Lamine Yamal's footsteps with 2027 ODI WC on the horizon",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The recently concluded FIFA 2026 World Cup in North America confirmed a generational talent in football. Now all eyes have turned to 2027 and whether cricket's next generation of superstars will follow suit, says The Cricket News' Arya Shah.",
-      "timestamp": "2026-07-24T14:30:30.948818Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cricketnews.com/en/cricket/news/odi-world-cup-2027-cricket-next-generation-superstars-lamine-yamal/af5c292b7ba6980784bd6d58"
-        }
-      ]
-    },
-    {
-      "title": "Why Gavi and Fabian Ruiz received over 300 pounds of tomatoes after Spain won World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spanish stars Gavi and Fabian Ruiz received an unexpected gift after winning the 2026 FIFA World Cup. Defeating Argentina in the 2026 World Cup final has made every member of Spain\u2019s soccer team a legend for fans.",
-      "timestamp": "2026-07-24T14:30:30.948855Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/why-gavi-and-fabian-ruiz-received-over-300-pounds-of-tomatoes-after-spain-won-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "FULL LIST: Africa\u2019s top 10 best players at 2026 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Discover the full list of Africa\u2019s top 10 best players at the 2026 World Cup, featuring standout performances from across the continent.\n\nRead More: https://punchng.com/full-list-africas-top-10-best-players-at-2026-world-cup/",
-      "timestamp": "2026-07-24T14:30:30.948893Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/full-list-africas-top-10-best-players-at-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "Report: Shakira, BTS and Other Artists Didn't Get Paid Based on Talent Fee at World Cup Final Halftime Show",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The FIFA World Cup 2026 introduced a Super Bowl-style halftime show featuring global stars like Shakira and BTS but the performers were reportedly not paid traditional fees.",
-      "timestamp": "2026-07-24T14:30:30.948955Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ibtimes.co.uk/fifa-world-cup-2026-historic-halftime-show-1810227"
-        }
-      ]
-    },
-    {
-      "title": "Fans accuse Donald Trump of lying about his height after World Cup moment with Spain\u2019s Rodri",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "World Cup fans are making fun of US President Donald Trump. The 2026 FIFA World Cup concluded with Spain being crowned as the champions of the world for the second time in the tournament\u2019s history.",
-      "timestamp": "2026-07-24T14:30:30.949055Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/fans-accuse-donald-trump-of-lying-about-his-height-after-world-cup-moment-with-spains-rodri/"
-        }
-      ]
-    },
-    {
-      "title": "Spain lifted the World Cup, but the IRS still gets a cut of its $50 million pay day as players, coaches and refs all face complex U.S. \u201cjock taxes\u201d",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain\u2019s victory over Argentina in the 2026 FIFA World Cup final not only secured the country\u2019s first men\u2019s World Cup title in more than a decade\u2014it also came with a $50 million prize from FIFA. While the trophy now sits in Madrid, a portion of the prize money\u2026",
-      "timestamp": "2026-07-24T14:30:30.949105Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/b6fd20e586a2a13c"
-        }
-      ]
-    },
-    {
-      "title": "Spain lifted the World Cup, but the IRS still gets a cut of its $50 million pay day as players, coaches and refs all face complex U.S. \u201cjock taxes\u201d",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain may have won the 2026 FIFA World Cup, but for many players the celebration comes with an unexpected opponent.",
-      "timestamp": "2026-07-24T14:30:30.949254Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://fortune.com/2026/07/23/spain-fifa-world-cup-irs-50-million-jock-taxes/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "The World Cup's dirty little secret: FIFA's president wasn't the only culprit to wind up in crosshairs over his gas-guzzling private jet travel\u2026see the worst offenders",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/news/article-15996721/World-Cup-FIFA-private-jet-polluters.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "World Cup set TV viewing records in U.S., but Minnesota was a straggler",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.twincities.com/2026/07/23/world-cup-set-tv-viewing-records-in-u-s-but-minnesota-was-a-straggler/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Atlanta",
+      "event": "Half a million World Cup fans came to Atlanta stadium. What they bought",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/news/state/georgia/atlanta/2026/07/23/how-much-food-drinks-did-fans-buy-at-atlanta-stadium-during-world-cup/91020502007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "Spain outlasts Argentina to win FIFA World Cup and cap sensational tournament",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.themanual.com/culture/argentina-spain-wins-2026-fifa-world-cup-but-futbol-are-the-real-winners/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "Messi Nod",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://knowyourmeme.com/memes/messi-nod"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "Bruce Buffer Wants the NFL to Let Him Open the Super Bowl",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://wealthofgeeks.com/bruce-buffer-wants-the-nfl-to-let-him-open-the-super-bowl/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "Kylian Mbapp\u00e9 matches Eusebio\u2019s 60-year-old scoring record that Lionel Messi and Cristiano Ronaldo never reached",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/kylian-mbappe-matches-eusebios-60-year-old-scoring-record-that-lionel-messi-and-cristiano-ronaldo-never-reached/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "Fake image spreads of Palestinian flag on Spain World Cup parade bus",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/fake-image-spreads-palestinian-flag-155434420.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "Integrity Of World Cup Under Scrutiny Over Potential Betting Irregularities, Match Manipulation",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://brobible.com/sports/article/world-cup-betting-irregularities-match-manipulation/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "World Cup 2026 Greatest Pop Stars Podcast: Shakira, Oasis, BTS & More",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.billboard.com/music/pop/world-cup-2026-greatest-pop-stars-podcast-oasis-shakira-bts-1236301312/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "What the 2026 World Cup Means for Canadian Cities, Businesses, and Fans",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/what-the-2026-world-cup-means-for-canadian-cities-businesses-and-fans/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "Saquon Barkley sees 'no reason why' NFL must keep turf fields after FIFA World Cup required grass surfaces",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/sports/saquon-barkley-sees-no-reason-why-nfl-must-keep-turf-fields-after-fifa-world-cup-required-grass-surfaces"
+        }
+      ]
+    },
     {
       "date": "Jul 24",
       "loc": "Global",
@@ -646,217 +798,7 @@
           "url": "https://www.hitc.com/potential-world-cup-betting-scandal-emerges-over-folarin-baloguns-red-card-and-other-irregularities/"
         }
       ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "While the world was watching Spain and Argentina, South-East Asia is getting ready for something else",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thehindubusinessline.com/news/sports/while-the-world-was-watching-spain-and-argentina-south-east-asia-is-getting-ready-for-something-else/article71257526.ece"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Petition to replay Copa final takes off in , tops 80,000 signatures",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f7b3ddc2-8d4f-4340-a40e-3bda982a3ed9"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Lewandowski congratulates Barcelona stars after Spain\u2019s World Cup triumph: \u2018Very happy for them\u2019",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/lewandowski-congratulates-barcelona-stars-after-spains-world-cup-triumph-very-happy-for-them/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "World Cup let USA, Mexico and Canada show their best. What will its legacy be?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/23/2026-world-cup-legacy-united-states-mexico-canada/91013310007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "The World Cup Story (Almost) No One Told",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://newrepublic.com/article/213329/world-cup-hydration-breaks-telemundo"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "FULL LIST: EPL fans name 2026 World Cup best XI",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/full-list-epl-fans-name-2026-world-cup-best-xi/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Geopolitical interference takes center stage during the World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "high",
-      "impact": "P1 CRITICAL",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/pro/geopolitical-interference-takes-center-stage-during-the-world-cup"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Cricket's next generation of superstars ready to follow in Lamine Yamal's footsteps with 2027 ODI WC on the horizon",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cricketnews.com/en/cricket/news/odi-world-cup-2027-cricket-next-generation-superstars-lamine-yamal/af5c292b7ba6980784bd6d58"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Why Gavi and Fabian Ruiz received over 300 pounds of tomatoes after Spain won World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/why-gavi-and-fabian-ruiz-received-over-300-pounds-of-tomatoes-after-spain-won-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "FULL LIST: Africa\u2019s top 10 best players at 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/full-list-africas-top-10-best-players-at-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Report: Shakira, BTS and Other Artists Didn't Get Paid Based on Talent Fee at World Cup Final Halftime Show",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.ibtimes.co.uk/fifa-world-cup-2026-historic-halftime-show-1810227"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Fans accuse Donald Trump of lying about his height after World Cup moment with Spain\u2019s Rodri",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/fans-accuse-donald-trump-of-lying-about-his-height-after-world-cup-moment-with-spains-rodri/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Spain lifted the World Cup, but the IRS still gets a cut of its $50 million pay day as players, coaches and refs all face complex U.S. \u201cjock taxes\u201d",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/b6fd20e586a2a13c"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Spain lifted the World Cup, but the IRS still gets a cut of its $50 million pay day as players, coaches and refs all face complex U.S. \u201cjock taxes\u201d",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://fortune.com/2026/07/23/spain-fifa-world-cup-irs-50-million-jock-taxes/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-24T14:30:30.949388Z"
+  "lastUpdated": "2026-07-24T18:08:01.037367Z"
 }
