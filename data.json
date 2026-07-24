@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 1,
     "p2": 0,
-    "p3": 22
+    "p3": 17
   },
   "watchlist": [
     {
@@ -131,12 +131,96 @@
   ],
   "risks": [
     {
+      "title": "5 Weeks, 48 Teams, One Summer to Remember \u2013 The 2026 World Cup Through My Eyes",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "By Louis Smith.The 2026 World Cup has come to an end, with Spain becoming champions. Prior to the start of the tournament, I set out to write my first, first-person piece on my memories and experience...",
+      "timestamp": "2026-07-24T20:07:34.962719Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldfootballindex.com/2026/07/5-weeks-48-teams-one-summer-to-remember-the-2026-world-cup-through-my-eyes/"
+        }
+      ]
+    },
+    {
+      "title": "Megan Rapinoe blames Trump for halting USMNT World Cup momentum",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Megan Rapinoe said the U.S. men's national team had a good vibe at the 2026 World Cup \u2014 until U.S. President Donald Trump got involved.",
+      "timestamp": "2026-07-24T20:07:34.962880Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/23/megan-rapinoe-trump-balogun-usa-red-card-world-cup/91026201007/"
+        }
+      ]
+    },
+    {
+      "title": "Prediction market Kalshi scores big with $27-billion FIFA World Cup windfall",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Prediction market startup Kalshi scored well during the 2026 FIFA World Cup, netting roughly double its projected user traffic and trading volume as fans scrambled to turn their soccer savvy into profits.\nKalshi recorded US$27-billion in trading volume and sa\u2026",
+      "timestamp": "2026-07-24T20:07:34.962943Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/5790a2b14a235e6e"
+        }
+      ]
+    },
+    {
+      "title": "Shakira shares backstage photo with BTS, surprises fans with Korean greeting",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Shakira delighted fans by sharing backstage photo with BTS after their performances during the halftime show at 2026 FIFA World Cup final.",
+      "timestamp": "2026-07-24T20:07:34.963117Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bolnews.com/entertainment/k-pop/shakira-shares-backstage-photo-with-bts-surprises-fans-with-korean-greeting/"
+        }
+      ]
+    },
+    {
+      "title": "Select Walgreens Stores: FIFA World Cup 2026 Merch $1 (In-Store Only)",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Select Walgreens Stores (link for reference only) have FIFA World Cup 2026 Merch on clearance for $1 (In-Store Only).\r\n\r\nThanks to Deal Hunter Eragorn for posting this deal.\r\n \r\n Note: Availability/pr",
+      "timestamp": "2026-07-24T20:07:34.963176Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slickdeals.net/f/19800204-select-walgreens-stores-fifa-world-cup-2026-merch-1-in-store-only"
+        }
+      ]
+    },
+    {
+      "title": "USMNT's Sebastian Berhalter reportedly close to transfer to Middlesbrough from Vancouver",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Berhalter played in all five matches for the USMNT at the 2026 World Cup.",
+      "timestamp": "2026-07-24T20:07:34.963274Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/usmnts-sebastian-berhalter-reportedly-close-to-transfer-to-middlesbrough-from-vancouver-182213723.html"
+        }
+      ]
+    },
+    {
       "title": "The World Cup's dirty little secret: FIFA's president wasn't the only culprit to wind up in crosshairs over his gas-guzzling private jet travel\u2026see the worst offenders",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Roughly 92,000 private jets flew in and out of host cities this World Cup to match the annual emissions of more than 34,000 cars.",
-      "timestamp": "2026-07-24T18:08:01.035516Z",
+      "timestamp": "2026-07-24T20:07:34.963412Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup set viewership records in the U.S. this summer, but the Twin Cities lagged behind top markets. Spain\u2019s 1-0 win over Argentina in Sunday\u2019s final in New Jersey reached a total of nearly 39 million viewers on FOX, making it the most-watched En\u2026",
-      "timestamp": "2026-07-24T18:08:01.035674Z",
+      "timestamp": "2026-07-24T20:07:34.963540Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mercedes-Benz Stadium hosted more than half a million fans during the World Cup, and they took advantage of the cheap stadium prices.",
-      "timestamp": "2026-07-24T18:08:01.035699Z",
+      "timestamp": "2026-07-24T20:07:34.963582Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +262,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "Spain's relentless attack finally paid off in extra time to dispatch defending world champ Argentina.",
-      "timestamp": "2026-07-24T18:08:01.035726Z",
+      "timestamp": "2026-07-24T20:07:34.963609Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Messi Nod is a series of memes based on a video of footballer Lionel Messi nodding and saying what looks like, \"Okay,\" or, \"Good,\" to another player during a match between Argentina and England in the 2026 FIFA World Cup semifinals.\nThe match was played on Ju\u2026",
-      "timestamp": "2026-07-24T18:08:01.035863Z",
+      "timestamp": "2026-07-24T20:07:34.963727Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Bruce Buffer has announced UFC title fights at the White House and introduced teams before the 2026 World Cup final, but one major sporting assignment ... Read More",
-      "timestamp": "2026-07-24T18:08:01.035973Z",
+      "timestamp": "2026-07-24T20:07:34.963822Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Despite failing to win the 2026 World Cup, Kylian Mbapp\u00e9 has come under heavy criticism from fans. However, he equaled a scoring record set by Eus\u00e9bio that had stood for 60 years and was never matched by Lionel Messi or Cristiano Ronaldo. \nKylian Mbapp\u00e9 has m\u2026",
-      "timestamp": "2026-07-24T18:08:01.036087Z",
+      "timestamp": "2026-07-24T20:07:34.963929Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "An estimated two million people turned up to cheer the Spanish men's national football team's 2026 FIFA World Cup victory as the squad paraded through the streets of Madrid, but an image of star Lamine Yamal and teammates Gavi and Yeremy Pino celebrating with\u2026",
-      "timestamp": "2026-07-24T18:08:01.036139Z",
+      "timestamp": "2026-07-24T20:07:34.963982Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The integrity of the 2026 FIFA World Cup is under scrutiny over potential betting irregularities and match manipulation. The Group of Copenhagen, an independent international advisory body dedicated to detecting, sanctioning, and preventing the manipulation o\u2026",
-      "timestamp": "2026-07-24T18:08:01.036205Z",
+      "timestamp": "2026-07-24T20:07:34.964047Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This 'Greatest Pop Stars' podcast episode looks at the pop stars who impacted the 2026 World Cup, including Shakira, Oasis, BTS and Justin Bieber.",
-      "timestamp": "2026-07-24T18:08:01.036365Z",
+      "timestamp": "2026-07-24T20:07:34.964207Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Explore the multifaceted impact of the 2026 World Cup on Canadian host cities, local businesses, and passionate fans, including economic costs and benefits\n\nRead More: https://punchng.com/what-the-2026-world-cup-means-for-canadian-cities-businesses-and-fans/",
-      "timestamp": "2026-07-24T18:08:01.036391Z",
+      "timestamp": "2026-07-24T20:07:34.964261Z",
       "links": [
         {
           "label": "Source",
@@ -290,170 +374,106 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Saquon Barkley said NFL stadiums installing grass for the World Cup set a precedent, arguing there's no reason NFL players can't have the same surface.",
-      "timestamp": "2026-07-24T18:08:01.036412Z",
+      "timestamp": "2026-07-24T20:07:34.964285Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.foxnews.com/sports/saquon-barkley-sees-no-reason-why-nfl-must-keep-turf-fields-after-fifa-world-cup-required-grass-surfaces"
         }
       ]
-    },
-    {
-      "title": "Rapid Relief Team Supports New Jersey Law Enforcement During Historic FIFA World Cup Matches",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "160 RRT volunteers donate 1,526 hours to serve NJ law enforcement during eight matches in one of the region's largest-ever police operations Served 9,200 meals, distributed 2,000 Frontline Support Packs, and provided thousands of coffees, cold drinks, and ref\u2026",
-      "timestamp": "2026-07-24T18:08:01.036501Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.prnewswire.com/news-releases/rapid-relief-team-supports-new-jersey-law-enforcement-during-historic-fifa-world-cup-matches-302833412.html"
-        }
-      ]
-    },
-    {
-      "title": "Argentina Equal Unwanted Germany Record With World Cup Final Defeat To Spain",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina joined Germany in holding one of the least desirable records in FIFA World Cup history after suffering a heartbreaking 1-0 defeat to Spain in the 2026 FIFA World Cup Final.The narrow loss de...",
-      "timestamp": "2026-07-24T18:08:01.036533Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldfootballindex.com/2026/07/argentina-equal-unwanted-germany-record-with-world-cup-final-defeat-to-spain/"
-        }
-      ]
-    },
-    {
-      "title": "Football in the Background: What the 2026 World Cup Will Really Be Remembered for",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026\u00a0FIFA\u00a0World Cup was designed to enter history as the largest celebration of international football ever staged.\n\nTo read this article in the following languages, click the Translate Website button below the author\u2019s name.\n\n\n\n\nHebrew, \u0420\u0443\u0441\u0441\u043a\u0438\u0439, Farsi, \u0639\u2026",
-      "timestamp": "2026-07-24T18:08:01.036563Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.globalresearch.ca/football-2026-world-cup-remembered-for/5934282"
-        }
-      ]
-    },
-    {
-      "title": "Now that the World Cup is over, can host cities turn their investment into a lasting social\u00a0impact?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Despite spending hundreds of millions of dollars of public money to stage the tournament, host cities receive little direct revenue from the World Cup.",
-      "timestamp": "2026-07-24T18:08:01.036760Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.dallasobserver.com/news/can-world-cup-host-cities-turn-their-investment-into-lasting-impact-40697967/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup without Nigeria, Cameroon incomplete \u2014 CAF president",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "CAF President Patrice Motsepe states the 2026 FIFA World Cup felt incomplete without Nigeria and Cameroon, highlighting their importance to African footbal\n\nRead More: https://punchng.com/world-cup-without-nigeria-cameroon-incomplete-caf-president/",
-      "timestamp": "2026-07-24T18:08:01.036860Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/world-cup-without-nigeria-cameroon-incomplete-caf-president/"
-        }
-      ]
-    },
-    {
-      "title": "Why Spain\u2019s World Cup heroes were gifted tomatoes",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spanish midfielders Gavi and Fabian Ruiz have received an unusual hometown tribute after helping Spain win the 2026 FIFA World Cup, with the pair rewarded with tomatoes equivalent to their body weight.\nThe post Why Spain\u2019s World Cup heroes were gifted tomatoe\u2026",
-      "timestamp": "2026-07-24T18:08:01.036890Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/why-spains-world-cup-heroes-were-gifted-tomatoes/"
-        }
-      ]
-    },
-    {
-      "title": "6 Retail Marketing Lessons From The FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "From creator ecosystems and guerrilla marketing to unexpected viral standouts, this year's FIFA Wold Cup tournament delivered a masterclass in retail marketing.",
-      "timestamp": "2026-07-24T18:08:01.036916Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/shelleykohan/2026/07/23/6-retail-marketing-lessons-from-the-fifa-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "Argentina\u2019s racism controversy hits fan tokens as Black Americans rally against the team",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Samuel L. Jackson's viral criticism of Argentina's racism at the 2026 World Cup is rattling fan token markets as Black Americans reject the team.\nThe post Argentina\u2019s racism controversy hits fan tokens as Black Americans rally against the team appeared first \u2026",
-      "timestamp": "2026-07-24T18:08:01.036978Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/argentina-racism-fan-tokens-black-americans/"
-        }
-      ]
-    },
-    {
-      "title": "Neuer, Neymar, others who retired from international football after 2026 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Manuel Neuer, Neymar, Riyad Mahrez, and other football legends retired from international football after the 2026 World Cup, ending illustrious careers.\n\nRead More: https://punchng.com/neuer-neymar-others-who-retired-from-international-football-after-2026-wor\u2026",
-      "timestamp": "2026-07-24T18:08:01.037008Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/neuer-neymar-others-who-retired-from-international-football-after-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "\u00a0Y! Sports AM: Behind the Lens",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Getty Images captured over 2.6 million images at the 2026 World Cup. We got the backstory on some of our favorites.",
-      "timestamp": "2026-07-24T18:08:01.037045Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/y-sports-am-behind-lens-122735097.html"
-        }
-      ]
-    },
-    {
-      "title": "Potential World Cup betting scandal emerges over Folarin Balogun\u2019s red card and other irregularities",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Group of Copenhagen has raised seven notices about possible match manipulation from potential betting irregularities in the 2026 FIFA World Cup, including the overturning of Folarin Balogun\u2019s one-game suspension. Balogun was expected to be suspended for t\u2026",
-      "timestamp": "2026-07-24T18:08:01.037183Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/potential-world-cup-betting-scandal-emerges-over-folarin-baloguns-red-card-and-other-irregularities/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "5 Weeks, 48 Teams, One Summer to Remember \u2013 The 2026 World Cup Through My Eyes",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldfootballindex.com/2026/07/5-weeks-48-teams-one-summer-to-remember-the-2026-world-cup-through-my-eyes/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "Megan Rapinoe blames Trump for halting USMNT World Cup momentum",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/23/megan-rapinoe-trump-balogun-usa-red-card-world-cup/91026201007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "Prediction market Kalshi scores big with $27-billion FIFA World Cup windfall",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/5790a2b14a235e6e"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "Shakira shares backstage photo with BTS, surprises fans with Korean greeting",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bolnews.com/entertainment/k-pop/shakira-shares-backstage-photo-with-bts-surprises-fans-with-korean-greeting/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "Select Walgreens Stores: FIFA World Cup 2026 Merch $1 (In-Store Only)",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slickdeals.net/f/19800204-select-walgreens-stores-fifa-world-cup-2026-merch-1-in-store-only"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Vancouver",
+      "event": "USMNT's Sebastian Berhalter reportedly close to transfer to Middlesbrough from Vancouver",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/usmnts-sebastian-berhalter-reportedly-close-to-transfer-to-middlesbrough-from-vancouver-182213723.html"
+        }
+      ]
+    },
     {
       "date": "Jul 24",
       "loc": "Global",
@@ -633,172 +653,7 @@
           "url": "https://www.foxnews.com/sports/saquon-barkley-sees-no-reason-why-nfl-must-keep-turf-fields-after-fifa-world-cup-required-grass-surfaces"
         }
       ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Rapid Relief Team Supports New Jersey Law Enforcement During Historic FIFA World Cup Matches",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.prnewswire.com/news-releases/rapid-relief-team-supports-new-jersey-law-enforcement-during-historic-fifa-world-cup-matches-302833412.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Argentina Equal Unwanted Germany Record With World Cup Final Defeat To Spain",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldfootballindex.com/2026/07/argentina-equal-unwanted-germany-record-with-world-cup-final-defeat-to-spain/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Football in the Background: What the 2026 World Cup Will Really Be Remembered for",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.globalresearch.ca/football-2026-world-cup-remembered-for/5934282"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Now that the World Cup is over, can host cities turn their investment into a lasting social\u00a0impact?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.dallasobserver.com/news/can-world-cup-host-cities-turn-their-investment-into-lasting-impact-40697967/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "World Cup without Nigeria, Cameroon incomplete \u2014 CAF president",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/world-cup-without-nigeria-cameroon-incomplete-caf-president/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Why Spain\u2019s World Cup heroes were gifted tomatoes",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/why-spains-world-cup-heroes-were-gifted-tomatoes/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "6 Retail Marketing Lessons From The FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/shelleykohan/2026/07/23/6-retail-marketing-lessons-from-the-fifa-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Argentina\u2019s racism controversy hits fan tokens as Black Americans rally against the team",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cryptobriefing.com/argentina-racism-fan-tokens-black-americans/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Neuer, Neymar, others who retired from international football after 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/neuer-neymar-others-who-retired-from-international-football-after-2026-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "\u00a0Y! Sports AM: Behind the Lens",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/y-sports-am-behind-lens-122735097.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Potential World Cup betting scandal emerges over Folarin Balogun\u2019s red card and other irregularities",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/potential-world-cup-betting-scandal-emerges-over-folarin-baloguns-red-card-and-other-irregularities/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-24T18:08:01.037367Z"
+  "lastUpdated": "2026-07-24T20:07:34.964505Z"
 }
