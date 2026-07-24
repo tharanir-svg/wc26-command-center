@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 0,
-    "p2": 1,
-    "p3": 24
+    "p1": 1,
+    "p2": 0,
+    "p3": 23
   },
   "watchlist": [
     {
@@ -131,12 +131,138 @@
   ],
   "risks": [
     {
+      "title": "The World Cup Story (Almost) No One Told",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup will be remembered in part for bringing the term hydration break into the global football lexicon. For the first time in the Cup\u2019s 96-year history, matches were interrupted midway through each half so players could hydrate and rest. Many fa\u2026",
+      "timestamp": "2026-07-24T10:02:52.412328Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://newrepublic.com/article/213329/world-cup-hydration-breaks-telemundo"
+        }
+      ]
+    },
+    {
+      "title": "FULL LIST: EPL fans name 2026 World Cup best XI",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "See the full list of players selected by EPL fans for the 2026 World Cup Best XI, featuring top Premier League stars like Rodri, Haaland, and Saka.\n\nRead More: https://punchng.com/full-list-epl-fans-name-2026-world-cup-best-xi/",
+      "timestamp": "2026-07-24T10:02:52.412430Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/full-list-epl-fans-name-2026-world-cup-best-xi/"
+        }
+      ]
+    },
+    {
+      "title": "Geopolitical interference takes center stage during the World Cup",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup is the largest sporting event ever staged. This makes for an unprecedented attack surface for threat actors.",
+      "timestamp": "2026-07-24T10:02:52.412550Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/pro/geopolitical-interference-takes-center-stage-during-the-world-cup"
+        }
+      ]
+    },
+    {
+      "title": "Cricket's next generation of superstars ready to follow in Lamine Yamal's footsteps with 2027 ODI WC on the horizon",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The recently concluded FIFA 2026 World Cup in North America confirmed a generational talent in football. Now all eyes have turned to 2027 and whether cricket's next generation of superstars will follow suit, says The Cricket News' Arya Shah.",
+      "timestamp": "2026-07-24T10:02:52.412580Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cricketnews.com/en/cricket/news/odi-world-cup-2027-cricket-next-generation-superstars-lamine-yamal/af5c292b7ba6980784bd6d58"
+        }
+      ]
+    },
+    {
+      "title": "Why Gavi and Fabian Ruiz received over 300 pounds of tomatoes after Spain won World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spanish stars Gavi and Fabian Ruiz received an unexpected gift after winning the 2026 FIFA World Cup. Defeating Argentina in the 2026 World Cup final has made every member of Spain\u2019s soccer team a legend for fans.",
+      "timestamp": "2026-07-24T10:02:52.412630Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/why-gavi-and-fabian-ruiz-received-over-300-pounds-of-tomatoes-after-spain-won-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "FULL LIST: Africa\u2019s top 10 best players at 2026 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Discover the full list of Africa\u2019s top 10 best players at the 2026 World Cup, featuring standout performances from across the continent.\n\nRead More: https://punchng.com/full-list-africas-top-10-best-players-at-2026-world-cup/",
+      "timestamp": "2026-07-24T10:02:52.412682Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/full-list-africas-top-10-best-players-at-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "Report: Shakira, BTS and Other Artists Didn't Get Paid Based on Talent Fee at World Cup Final Halftime Show",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The FIFA World Cup 2026 introduced a Super Bowl-style halftime show featuring global stars like Shakira and BTS but the performers were reportedly not paid traditional fees.",
+      "timestamp": "2026-07-24T10:02:52.412765Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ibtimes.co.uk/fifa-world-cup-2026-historic-halftime-show-1810227"
+        }
+      ]
+    },
+    {
+      "title": "Fans accuse Donald Trump of lying about his height after World Cup moment with Spain\u2019s Rodri",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "World Cup fans are making fun of US President Donald Trump. The 2026 FIFA World Cup concluded with Spain being crowned as the champions of the world for the second time in the tournament\u2019s history.",
+      "timestamp": "2026-07-24T10:02:52.412886Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/fans-accuse-donald-trump-of-lying-about-his-height-after-world-cup-moment-with-spains-rodri/"
+        }
+      ]
+    },
+    {
+      "title": "Spain lifted the World Cup, but the IRS still gets a cut of its $50 million pay day as players, coaches and refs all face complex U.S. \u201cjock taxes\u201d",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain\u2019s victory over Argentina in the 2026 FIFA World Cup final not only secured the country\u2019s first men\u2019s World Cup title in more than a decade\u2014it also came with a $50 million prize from FIFA. While the trophy now sits in Madrid, a portion of the prize money\u2026",
+      "timestamp": "2026-07-24T10:02:52.412942Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/b6fd20e586a2a13c"
+        }
+      ]
+    },
+    {
       "title": "Spain lifted the World Cup, but the IRS still gets a cut of its $50 million pay day as players, coaches and refs all face complex U.S. \u201cjock taxes\u201d",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain may have won the 2026 FIFA World Cup, but for many players the celebration comes with an unexpected opponent.",
-      "timestamp": "2026-07-24T07:24:36.794160Z",
+      "timestamp": "2026-07-24T10:02:52.413092Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup is now done and dusted, and football fans are fully focused on the upcoming 2026/27 season.Without further ado, read on as we look at all the key dates across the major Europea...",
-      "timestamp": "2026-07-24T07:24:36.794311Z",
+      "timestamp": "2026-07-24T10:02:52.413192Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA unveil official World Cup 2026 Team of the TournamentYahoo Sports Ranking the top 50 players at the 2026 World Cup: The final list - The AthleticThe New York Times 2026 World Cup Best XI: Who joins Mbappe, Messi & Haaland on the top team?NBC Sports FIFA \u2026",
-      "timestamp": "2026-07-24T07:24:36.794554Z",
+      "timestamp": "2026-07-24T10:02:52.413428Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup is over, and the impact of content creators (and how brands and platforms leveraged them) is clear. For perhaps the first time in the tournament\u2019s history, creators were given unprecedented access to games, players, and other FIFA-rela\u2026",
-      "timestamp": "2026-07-24T07:24:36.794587Z",
+      "timestamp": "2026-07-24T10:02:52.413459Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup buzz was all about creators; we look at the numbers breaking down their impact at the global tournament.",
-      "timestamp": "2026-07-24T07:24:36.794663Z",
+      "timestamp": "2026-07-24T10:02:52.413529Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After 104 FIFA World Cup matches in 39 days, it\u2019s only natural to feel like something\u2019s been missing since the Final on July 19 with Spain beating Argentina 1-0.",
-      "timestamp": "2026-07-24T07:24:36.794737Z",
+      "timestamp": "2026-07-24T10:02:52.413600Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Fox Sports CEO Eric Shanks had an unwanted take on the FIFA World Cup hydration breaks. For the first time in its history, the 2026 FIFA World Cup featured two hydration breaks, each in one half.",
-      "timestamp": "2026-07-24T07:24:36.794766Z",
+      "timestamp": "2026-07-24T10:02:52.413628Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup came to an end on Sunday with Spain reclaiming the title. They won a gritty matchup against Argentina with a 1-0 victory after extra time, and the physicality in the contest led to the early departure of Manchester United defender Lisa\u2026",
-      "timestamp": "2026-07-24T07:24:36.794829Z",
+      "timestamp": "2026-07-24T10:02:52.413694Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Amazon offers the SanDisk FIFA World Cup 2026 Edition 128GB USB-C Flash Drive for $22.99.\u00a0 That's a $10 low and its best price.\u00a0 64GB is also available for its best price ($18.99).\u00a0 Shipping is free for Prime members. Buy Now at Amazon",
-      "timestamp": "2026-07-24T07:24:36.794860Z",
+      "timestamp": "2026-07-24T10:02:52.413724Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Amazon offers the SanDisk FIFA World Cup 2026 Edition 128GB USB-C Flash Drive for $22.99.\u00a0 That's a $10 low and its best price.\u00a0 64GB is also available for its best price ($18.99).\u00a0 Shipping is free for Prime members. Buy Now at Amazon",
-      "timestamp": "2026-07-24T07:24:36.794878Z",
+      "timestamp": "2026-07-24T10:02:52.413743Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Now that the 2026 FIFA World Cup has concluded, the future of USMNT head coach Mauricio Pochettino is now up in the air. If the esteemed coach leaves U.S. Soccer, who could replace him?",
-      "timestamp": "2026-07-24T07:24:36.794926Z",
+      "timestamp": "2026-07-24T10:02:52.413793Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Amazon [amazon.com] has Sandisk 128GB USB-C Flash Drive (FIFA World Cup 2026 Edition) for $22.99. Shipping is free w/ Prime or on $35+.Black [amazon.com]\nRed [amazon.com]\n\nProduct Description from Ama",
-      "timestamp": "2026-07-24T07:24:36.794955Z",
+      "timestamp": "2026-07-24T10:02:52.413818Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Premier League is hoping to capitalize on 2026 World Cup momentum with a United States activation featuring all 20 clubs and Ed Sheeran.",
-      "timestamp": "2026-07-24T07:24:36.795005Z",
+      "timestamp": "2026-07-24T10:02:52.413870Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Despite being announced on Wednesday, Casemiro won't be able to take part in Inter Miami's clash against the Chicago Fire. \nCasemiro has officially completed his move to Inter Miami following the 2026 World Cup, arriving on a free transfer after his contract \u2026",
-      "timestamp": "2026-07-24T07:24:36.795124Z",
+      "timestamp": "2026-07-24T10:02:52.413988Z",
       "links": [
         {
           "label": "Source",
@@ -332,156 +458,151 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "As CBC Sports senior contributor Morgan Campbell writes, organizers witness record viewership during the 2026 FIFA World Cup, and it all adds up to money \u2014 and new precedents set.",
-      "timestamp": "2026-07-24T07:24:36.795208Z",
+      "timestamp": "2026-07-24T10:02:52.414070Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.cbc.ca/sports/soccer/worldcup/opinion-morgan-campbell-2026-fifa-world-cup-review-9.7279761"
         }
       ]
-    },
-    {
-      "title": "The 2026 FIFA World Cup Mega-Ritual",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "A look at the intense symbolism and \"coincidences\" that occured at the 2026 FIFA World Cup. It was more than sport, it was a mega-ritual.\nThe post The 2026 FIFA World Cup Mega-Ritual first appeared on Vigilant Citizen.",
-      "timestamp": "2026-07-24T07:24:36.795401Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://vigilantcitizen.com/vigilantreport/the-2026-fifa-world-cup-mega-ritual/"
-        }
-      ]
-    },
-    {
-      "title": "2026 FIFA World Cup Best XI, Team of the Tournament unveiled: Full list of players",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA releases its annual Team of the Tournament for the 2026 FIFA World Cup.",
-      "timestamp": "2026-07-24T07:24:36.795498Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/2026-fifa-world-cup-best-xi-team-of-the-tournament-unveiled-full-list-of-players/"
-        }
-      ]
-    },
-    {
-      "title": "Liverpool's Alexis Mac Allister breaks silence after Argentina's World Cup Final controversy",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Argentina's players were widely condemned for turning their backs on Spain's FIFA World Cup trophy lift after losing the final in extra time, with Liverpool midfielder Alexis Mac Allister having now broken his silence on the controversy",
-      "timestamp": "2026-07-24T07:24:36.795576Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/mac-allister-argentina-world-cup-1951022"
-        }
-      ]
-    },
-    {
-      "title": "When is Lionel Messi back for Inter Miami? Projected MLS return date after World Cup 2026 break",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi came agonizingly close to a second World Cup title, but fell just short as Argentina lost to Spain in the 2026 FIFA World Cup final on July 19, and now it's time to rest up for the stretch run of the MLS season.",
-      "timestamp": "2026-07-24T07:24:36.795618Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/when-lionel-messi-back-inter-miami-mls-return-date-world-cup/bd0501cb821673ee60c1d990"
-        }
-      ]
-    },
-    {
-      "title": "Only ONE England player makes FIFA's 2026 World Cup team of the tournament as fans choose Man United star in defence - and cult hero gets the nod",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA have only selected one England player in their World Cup team of the tournament.",
-      "timestamp": "2026-07-24T07:24:36.795640Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15997291/ONE-England-player-FIFA-World-Cup-team-tournament.html"
-        }
-      ]
-    },
-    {
-      "title": "Cristiano Ronaldo still makes soccer world talk for one reason despite falling short of World Cup dream, says Luis Nani",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "While critics pointed to his reduced mobility at the age of 41, Nani offered a different perspective, reminding supporters why Ronaldo remains one of soccer's defining figures. Cristiano Ronaldo may have seen his dream of winning the FIFA World Cup come to an\u2026",
-      "timestamp": "2026-07-24T07:24:36.795737Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-still-makes-soccer-world-talk-for-one-reason-despite-falling-short-of-world-cup-dream-says-luis-nani/"
-        }
-      ]
-    },
-    {
-      "title": "Fan Favourite Vozinha Headlines FIFA World Cup Dream XI",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "Cape Verde goalkeeper Vozinha and Norway striker Erling Haaland have been named in the fan-voted FIFA World Cup dream team, with both rewarded for standout performances during unexpected runs by their teams.",
-      "timestamp": "2026-07-24T07:24:36.795779Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/fifa-world-cup-2026-vozinhas-heroics-rewarded-with-dream-xi-berth/20260723.htm"
-        }
-      ]
-    },
-    {
-      "title": "Cape Verde\u2019s Vozinha makes list as FIFA unveils World Cup 2026 Best XI",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA has unveiled its official 2026 FIFA World Cup Team of the Tournament, with newly crowned champions Spain providing the highest number of players in the star-studded XI.\nThe post Cape Verde\u2019s Vozinha makes list as FIFA unveils World Cup 2026 Best XI appea\u2026",
-      "timestamp": "2026-07-24T07:24:36.795893Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/cape-verdes-vozinha-makes-list-as-fifa-unveils-world-cup-2026-best-xi/"
-        }
-      ]
-    },
-    {
-      "title": "Rogers customers used hundreds of terabytes of data during Word Cup games",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Rogers has shared the results of its network performance and experience during the recently completed 2026 FIFA World Cup. According to the carrier, attendees used 510TB of data at the stadiums and at surrounding events like watch parties and fan zones across\u2026",
-      "timestamp": "2026-07-24T07:24:36.796011Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://mobilesyrup.com/2026/07/22/rogers-customers-used-hundreds-of-terabytes-of-data-during-word-cup-games/"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026 Turns Sport Into a Community Stage",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain and Argentina will meet in the 2026 World Cup final on July 19 in East Rutherford, but by now the tournament has already seeped into places far from that stadium. With 16 host cities across Canada, Mexico, and the United States, the expanded 48-team for\u2026",
-      "timestamp": "2026-07-24T07:24:36.796069Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nativenewsonline.net/advertise/branded-voices/world-cup-2026-turns-sport-into-a-community-stage/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "The World Cup Story (Almost) No One Told",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://newrepublic.com/article/213329/world-cup-hydration-breaks-telemundo"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "FULL LIST: EPL fans name 2026 World Cup best XI",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/full-list-epl-fans-name-2026-world-cup-best-xi/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "Geopolitical interference takes center stage during the World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/pro/geopolitical-interference-takes-center-stage-during-the-world-cup"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "Cricket's next generation of superstars ready to follow in Lamine Yamal's footsteps with 2027 ODI WC on the horizon",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cricketnews.com/en/cricket/news/odi-world-cup-2027-cricket-next-generation-superstars-lamine-yamal/af5c292b7ba6980784bd6d58"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "Why Gavi and Fabian Ruiz received over 300 pounds of tomatoes after Spain won World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/why-gavi-and-fabian-ruiz-received-over-300-pounds-of-tomatoes-after-spain-won-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "FULL LIST: Africa\u2019s top 10 best players at 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/full-list-africas-top-10-best-players-at-2026-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "Report: Shakira, BTS and Other Artists Didn't Get Paid Based on Talent Fee at World Cup Final Halftime Show",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ibtimes.co.uk/fifa-world-cup-2026-historic-halftime-show-1810227"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "Fans accuse Donald Trump of lying about his height after World Cup moment with Spain\u2019s Rodri",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/fans-accuse-donald-trump-of-lying-about-his-height-after-world-cup-moment-with-spains-rodri/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "Spain lifted the World Cup, but the IRS still gets a cut of its $50 million pay day as players, coaches and refs all face complex U.S. \u201cjock taxes\u201d",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/b6fd20e586a2a13c"
+        }
+      ]
+    },
     {
       "date": "Jul 24",
       "loc": "Global",
@@ -706,157 +827,7 @@
           "url": "https://www.cbc.ca/sports/soccer/worldcup/opinion-morgan-campbell-2026-fifa-world-cup-review-9.7279761"
         }
       ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "The 2026 FIFA World Cup Mega-Ritual",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://vigilantcitizen.com/vigilantreport/the-2026-fifa-world-cup-mega-ritual/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "2026 FIFA World Cup Best XI, Team of the Tournament unveiled: Full list of players",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/2026-fifa-world-cup-best-xi-team-of-the-tournament-unveiled-full-list-of-players/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Liverpool's Alexis Mac Allister breaks silence after Argentina's World Cup Final controversy",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/mac-allister-argentina-world-cup-1951022"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "When is Lionel Messi back for Inter Miami? Projected MLS return date after World Cup 2026 break",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/when-lionel-messi-back-inter-miami-mls-return-date-world-cup/bd0501cb821673ee60c1d990"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Only ONE England player makes FIFA's 2026 World Cup team of the tournament as fans choose Man United star in defence - and cult hero gets the nod",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-15997291/ONE-England-player-FIFA-World-Cup-team-tournament.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Cristiano Ronaldo still makes soccer world talk for one reason despite falling short of World Cup dream, says Luis Nani",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-still-makes-soccer-world-talk-for-one-reason-despite-falling-short-of-world-cup-dream-says-luis-nani/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Fan Favourite Vozinha Headlines FIFA World Cup Dream XI",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/fifa-world-cup-2026-vozinhas-heroics-rewarded-with-dream-xi-berth/20260723.htm"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Cape Verde\u2019s Vozinha makes list as FIFA unveils World Cup 2026 Best XI",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/cape-verdes-vozinha-makes-list-as-fifa-unveils-world-cup-2026-best-xi/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Rogers customers used hundreds of terabytes of data during Word Cup games",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://mobilesyrup.com/2026/07/22/rogers-customers-used-hundreds-of-terabytes-of-data-during-word-cup-games/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "World Cup 2026 Turns Sport Into a Community Stage",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nativenewsonline.net/advertise/branded-voices/world-cup-2026-turns-sport-into-a-community-stage/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-24T07:24:36.796243Z"
+  "lastUpdated": "2026-07-24T10:02:52.414468Z"
 }
