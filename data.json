@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 1,
-    "p2": 0,
-    "p3": 23
+    "p2": 1,
+    "p3": 24
   },
   "watchlist": [
     {
@@ -131,12 +131,82 @@
   ],
   "risks": [
     {
+      "title": "Potential World Cup betting scandal emerges over Folarin Balogun\u2019s red card and other irregularities",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The Group of Copenhagen has raised seven notices about possible match manipulation from potential betting irregularities in the 2026 FIFA World Cup, including the overturning of Folarin Balogun\u2019s one-game suspension. Balogun was expected to be suspended for t\u2026",
+      "timestamp": "2026-07-24T12:09:45.586546Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/potential-world-cup-betting-scandal-emerges-over-folarin-baloguns-red-card-and-other-irregularities/"
+        }
+      ]
+    },
+    {
+      "title": "While the world was watching Spain and Argentina, South-East Asia is getting ready for something else",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "As the world focuses on the FIFA World Cup, Southeast Asia prepares for the vibrant ASEAN Championship, celebrating 30 years of football passion.",
+      "timestamp": "2026-07-24T12:09:45.586740Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thehindubusinessline.com/news/sports/while-the-world-was-watching-spain-and-argentina-south-east-asia-is-getting-ready-for-something-else/article71257526.ece"
+        }
+      ]
+    },
+    {
+      "title": "Petition to replay Copa final takes off in , tops 80,000 signatures",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The outcome of the 2026 FIFA World Cup is still causing a stir off the pitch... in Argentina!A petition on the signature-gathering site change.org already has more than 80,000 signatures, \u201cdemanding...",
+      "timestamp": "2026-07-24T12:09:45.586817Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f7b3ddc2-8d4f-4340-a40e-3bda982a3ed9"
+        }
+      ]
+    },
+    {
+      "title": "Lewandowski congratulates Barcelona stars after Spain\u2019s World Cup triumph: \u2018Very happy for them\u2019",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "Ex-Barcelona striker Robert Lewandowski has congratulated his former teammates following Spain\u2019s 2026 FIFA World Cup victory, saying he is delighted to see so many young players from the club achiev...",
+      "timestamp": "2026-07-24T12:09:45.586847Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/lewandowski-congratulates-barcelona-stars-after-spains-world-cup-triumph-very-happy-for-them/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup let USA, Mexico and Canada show their best. What will its legacy be?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup was not perfect for the three host nations, but all were able to show their distinct culture - and project hope for the future of soccer.",
+      "timestamp": "2026-07-24T12:09:45.586865Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/23/2026-world-cup-legacy-united-states-mexico-canada/91013310007/"
+        }
+      ]
+    },
+    {
       "title": "The World Cup Story (Almost) No One Told",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup will be remembered in part for bringing the term hydration break into the global football lexicon. For the first time in the Cup\u2019s 96-year history, matches were interrupted midway through each half so players could hydrate and rest. Many fa\u2026",
-      "timestamp": "2026-07-24T10:02:52.412328Z",
+      "timestamp": "2026-07-24T12:09:45.586908Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "See the full list of players selected by EPL fans for the 2026 World Cup Best XI, featuring top Premier League stars like Rodri, Haaland, and Saka.\n\nRead More: https://punchng.com/full-list-epl-fans-name-2026-world-cup-best-xi/",
-      "timestamp": "2026-07-24T10:02:52.412430Z",
+      "timestamp": "2026-07-24T12:09:45.586954Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +234,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup is the largest sporting event ever staged. This makes for an unprecedented attack surface for threat actors.",
-      "timestamp": "2026-07-24T10:02:52.412550Z",
+      "timestamp": "2026-07-24T12:09:45.587034Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The recently concluded FIFA 2026 World Cup in North America confirmed a generational talent in football. Now all eyes have turned to 2027 and whether cricket's next generation of superstars will follow suit, says The Cricket News' Arya Shah.",
-      "timestamp": "2026-07-24T10:02:52.412580Z",
+      "timestamp": "2026-07-24T12:09:45.587056Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spanish stars Gavi and Fabian Ruiz received an unexpected gift after winning the 2026 FIFA World Cup. Defeating Argentina in the 2026 World Cup final has made every member of Spain\u2019s soccer team a legend for fans.",
-      "timestamp": "2026-07-24T10:02:52.412630Z",
+      "timestamp": "2026-07-24T12:09:45.587092Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Discover the full list of Africa\u2019s top 10 best players at the 2026 World Cup, featuring standout performances from across the continent.\n\nRead More: https://punchng.com/full-list-africas-top-10-best-players-at-2026-world-cup/",
-      "timestamp": "2026-07-24T10:02:52.412682Z",
+      "timestamp": "2026-07-24T12:09:45.587127Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup 2026 introduced a Super Bowl-style halftime show featuring global stars like Shakira and BTS but the performers were reportedly not paid traditional fees.",
-      "timestamp": "2026-07-24T10:02:52.412765Z",
+      "timestamp": "2026-07-24T12:09:45.587185Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "World Cup fans are making fun of US President Donald Trump. The 2026 FIFA World Cup concluded with Spain being crowned as the champions of the world for the second time in the tournament\u2019s history.",
-      "timestamp": "2026-07-24T10:02:52.412886Z",
+      "timestamp": "2026-07-24T12:09:45.587275Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain\u2019s victory over Argentina in the 2026 FIFA World Cup final not only secured the country\u2019s first men\u2019s World Cup title in more than a decade\u2014it also came with a $50 million prize from FIFA. While the trophy now sits in Madrid, a portion of the prize money\u2026",
-      "timestamp": "2026-07-24T10:02:52.412942Z",
+      "timestamp": "2026-07-24T12:09:45.587314Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain may have won the 2026 FIFA World Cup, but for many players the celebration comes with an unexpected opponent.",
-      "timestamp": "2026-07-24T10:02:52.413092Z",
+      "timestamp": "2026-07-24T12:09:45.587410Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup is now done and dusted, and football fans are fully focused on the upcoming 2026/27 season.Without further ado, read on as we look at all the key dates across the major Europea...",
-      "timestamp": "2026-07-24T10:02:52.413192Z",
+      "timestamp": "2026-07-24T12:09:45.587490Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA unveil official World Cup 2026 Team of the TournamentYahoo Sports Ranking the top 50 players at the 2026 World Cup: The final list - The AthleticThe New York Times 2026 World Cup Best XI: Who joins Mbappe, Messi & Haaland on the top team?NBC Sports FIFA \u2026",
-      "timestamp": "2026-07-24T10:02:52.413428Z",
+      "timestamp": "2026-07-24T12:09:45.587660Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup is over, and the impact of content creators (and how brands and platforms leveraged them) is clear. For perhaps the first time in the tournament\u2019s history, creators were given unprecedented access to games, players, and other FIFA-rela\u2026",
-      "timestamp": "2026-07-24T10:02:52.413459Z",
+      "timestamp": "2026-07-24T12:09:45.587682Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup buzz was all about creators; we look at the numbers breaking down their impact at the global tournament.",
-      "timestamp": "2026-07-24T10:02:52.413529Z",
+      "timestamp": "2026-07-24T12:09:45.587731Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After 104 FIFA World Cup matches in 39 days, it\u2019s only natural to feel like something\u2019s been missing since the Final on July 19 with Spain beating Argentina 1-0.",
-      "timestamp": "2026-07-24T10:02:52.413600Z",
+      "timestamp": "2026-07-24T12:09:45.587782Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Fox Sports CEO Eric Shanks had an unwanted take on the FIFA World Cup hydration breaks. For the first time in its history, the 2026 FIFA World Cup featured two hydration breaks, each in one half.",
-      "timestamp": "2026-07-24T10:02:52.413628Z",
+      "timestamp": "2026-07-24T12:09:45.587800Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup came to an end on Sunday with Spain reclaiming the title. They won a gritty matchup against Argentina with a 1-0 victory after extra time, and the physicality in the contest led to the early departure of Manchester United defender Lisa\u2026",
-      "timestamp": "2026-07-24T10:02:52.413694Z",
+      "timestamp": "2026-07-24T12:09:45.587878Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Amazon offers the SanDisk FIFA World Cup 2026 Edition 128GB USB-C Flash Drive for $22.99.\u00a0 That's a $10 low and its best price.\u00a0 64GB is also available for its best price ($18.99).\u00a0 Shipping is free for Prime members. Buy Now at Amazon",
-      "timestamp": "2026-07-24T10:02:52.413724Z",
+      "timestamp": "2026-07-24T12:09:45.587901Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Amazon offers the SanDisk FIFA World Cup 2026 Edition 128GB USB-C Flash Drive for $22.99.\u00a0 That's a $10 low and its best price.\u00a0 64GB is also available for its best price ($18.99).\u00a0 Shipping is free for Prime members. Buy Now at Amazon",
-      "timestamp": "2026-07-24T10:02:52.413743Z",
+      "timestamp": "2026-07-24T12:09:45.587919Z",
       "links": [
         {
           "label": "Source",
@@ -402,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Now that the 2026 FIFA World Cup has concluded, the future of USMNT head coach Mauricio Pochettino is now up in the air. If the esteemed coach leaves U.S. Soccer, who could replace him?",
-      "timestamp": "2026-07-24T10:02:52.413793Z",
+      "timestamp": "2026-07-24T12:09:45.587958Z",
       "links": [
         {
           "label": "Source",
@@ -416,58 +486,91 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Amazon [amazon.com] has Sandisk 128GB USB-C Flash Drive (FIFA World Cup 2026 Edition) for $22.99. Shipping is free w/ Prime or on $35+.Black [amazon.com]\nRed [amazon.com]\n\nProduct Description from Ama",
-      "timestamp": "2026-07-24T10:02:52.413818Z",
+      "timestamp": "2026-07-24T12:09:45.587978Z",
       "links": [
         {
           "label": "Source",
           "url": "https://slickdeals.net/f/19797555-sandisk-128gb-usb-c-flash-drive-fifa-world-cup-2026-edition-22-99-free-shipping-w-prime-or-on-35"
         }
       ]
-    },
-    {
-      "title": "Premier League to bring all 20 clubs to U.S. in activation after 2026 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Premier League is hoping to capitalize on 2026 World Cup momentum with a United States activation featuring all 20 clubs and Ed Sheeran.",
-      "timestamp": "2026-07-24T10:02:52.413870Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/epl/2026/07/22/premier-league-announces-coast-to-coast-activation-all-20-clubs/91014446007/"
-        }
-      ]
-    },
-    {
-      "title": "Why is Casemiro unavailable for Inter Miami vs Chicago Fire despite being announced?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Despite being announced on Wednesday, Casemiro won't be able to take part in Inter Miami's clash against the Chicago Fire. \nCasemiro has officially completed his move to Inter Miami following the 2026 World Cup, arriving on a free transfer after his contract \u2026",
-      "timestamp": "2026-07-24T10:02:52.413988Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/why-is-casemiro-unavailable-for-inter-miami-vs-chicago-fire-despite-being-announced/"
-        }
-      ]
-    },
-    {
-      "title": "The 2026 FIFA World Cup proved that drama sells \u2014 no matter the source of the subplot",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "As CBC Sports senior contributor Morgan Campbell writes, organizers witness record viewership during the 2026 FIFA World Cup, and it all adds up to money \u2014 and new precedents set.",
-      "timestamp": "2026-07-24T10:02:52.414070Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbc.ca/sports/soccer/worldcup/opinion-morgan-campbell-2026-fifa-world-cup-review-9.7279761"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "Potential World Cup betting scandal emerges over Folarin Balogun\u2019s red card and other irregularities",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/potential-world-cup-betting-scandal-emerges-over-folarin-baloguns-red-card-and-other-irregularities/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "While the world was watching Spain and Argentina, South-East Asia is getting ready for something else",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thehindubusinessline.com/news/sports/while-the-world-was-watching-spain-and-argentina-south-east-asia-is-getting-ready-for-something-else/article71257526.ece"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "Petition to replay Copa final takes off in , tops 80,000 signatures",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f7b3ddc2-8d4f-4340-a40e-3bda982a3ed9"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "Lewandowski congratulates Barcelona stars after Spain\u2019s World Cup triumph: \u2018Very happy for them\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/lewandowski-congratulates-barcelona-stars-after-spains-world-cup-triumph-very-happy-for-them/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 24",
+      "loc": "Global",
+      "event": "World Cup let USA, Mexico and Canada show their best. What will its legacy be?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/23/2026-world-cup-legacy-united-states-mexico-canada/91013310007/"
+        }
+      ]
+    },
     {
       "date": "Jul 24",
       "loc": "Global",
@@ -782,52 +885,7 @@
           "url": "https://slickdeals.net/f/19797555-sandisk-128gb-usb-c-flash-drive-fifa-world-cup-2026-edition-22-99-free-shipping-w-prime-or-on-35"
         }
       ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Premier League to bring all 20 clubs to U.S. in activation after 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/epl/2026/07/22/premier-league-announces-coast-to-coast-activation-all-20-clubs/91014446007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Why is Casemiro unavailable for Inter Miami vs Chicago Fire despite being announced?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/why-is-casemiro-unavailable-for-inter-miami-vs-chicago-fire-despite-being-announced/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "The 2026 FIFA World Cup proved that drama sells \u2014 no matter the source of the subplot",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbc.ca/sports/soccer/worldcup/opinion-morgan-campbell-2026-fifa-world-cup-review-9.7279761"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-24T10:02:52.414468Z"
+  "lastUpdated": "2026-07-24T12:09:45.588103Z"
 }
