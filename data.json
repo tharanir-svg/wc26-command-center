@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 19
+    "p3": 18
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "The World Cup was meant to be carbon-neutral. FIFA hasn\u2019t released the figures, so we built a computer model to check",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The bid committee for the 2026 World Cup aimed for a carbon neutral event. Green groups predicted an environmental disaster. Who was right?",
+      "timestamp": "2026-07-25T04:51:44.672825Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://theconversation.com/the-world-cup-was-meant-to-be-carbon-neutral-fifa-hasnt-released-the-figures-so-we-built-a-computer-model-to-check-283580"
+        }
+      ]
+    },
+    {
+      "title": "Sports associations like Fifa must pay taxes\u2014their tournaments are clearly big business for them",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "There is no reason why sports bodies like Fifa and BCCI should not pay all their taxes. They derive enormous financial benefits from infrastructure built mostly with the money of taxpayers. And Fifa\u2019s 2026 World Cup is set to smash revenue records.",
+      "timestamp": "2026-07-25T04:51:44.673074Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.livemint.com/opinion/online-views/sports-associations-fifa-taxes-tournaments-big-business-bcci-financial-benefits-football-world-cup-11784817744086.html"
+        }
+      ]
+    },
+    {
       "title": "World Cup: Has Africa come of age?",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Explore Africa\u2019s unprecedented performance at the FIFA World Cup 2026. Did the continent finally come of age, or do recurring weaknesses still hold African\n\nRead More: https://punchng.com/world-cup-has-africa-come-of-age/",
-      "timestamp": "2026-07-25T01:18:33.992067Z",
+      "timestamp": "2026-07-25T04:51:44.673473Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The NYPD launched a massive human trafficking crackdown during the FIFA World Cup \u2014 busting nearly 90 creeps and rescuing dozens of survivors, including a child being sex trafficked from a hotel room. A slew of operations before and during the 39-day internat\u2026",
-      "timestamp": "2026-07-25T01:18:33.992156Z",
+      "timestamp": "2026-07-25T04:51:44.673541Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Any brand watching the next mega\u2011event after this FIFA World Cup should assume there\u2019s a second economy circling the core spectacle and design for it on purpose.",
-      "timestamp": "2026-07-25T01:18:33.992185Z",
+      "timestamp": "2026-07-25T04:51:44.673569Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi has been awarded the IFFHS Best Player title for his performances at the 2026 FIFA World Cup, following Argentina's controversial 1-0 defeat to Spain",
-      "timestamp": "2026-07-25T01:18:33.992248Z",
+      "timestamp": "2026-07-25T04:51:44.673618Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Now that the FIFA World Cup is over, Fox has released data showing which cities in the United States were most interested in the tournament. Kansas City leads the way. Fox released the top-15 local markets based on average household ratings and share for its \u2026",
-      "timestamp": "2026-07-25T01:18:33.992280Z",
+      "timestamp": "2026-07-25T04:51:44.673651Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The World Cup is over, and this was a special edition not only from a sports perspective \u2013 but also for reasons that may continue to impact brands for years to come.",
-      "timestamp": "2026-07-25T01:18:33.992369Z",
+      "timestamp": "2026-07-25T04:51:44.673737Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain boss Luis de la Fuente has spoken out on Argentina's post-FIFA World Cup Final antics, labeling their behavior as 'intolerable and unacceptable,' with an investigation already underway",
-      "timestamp": "2026-07-25T01:18:33.992424Z",
+      "timestamp": "2026-07-25T04:51:44.673791Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "While many supporters expected the legendary captain to step away after another unforgettable tournament, fresh reports suggest the story may not be over yet, with a new plan beginning to emerge behind the scenes. \nLionel Messi\u2019s future with the Argentina nat\u2026",
-      "timestamp": "2026-07-25T01:18:33.992460Z",
+      "timestamp": "2026-07-25T04:51:44.673828Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "While Spain celebrated a dramatic victory over Argentina, a brief exchange between two Barcelona-linked stars captured the attention of supporters around the world and quickly became one of the defining images of the tournament. \nThe 2026 FIFA World Cup final\u2026",
-      "timestamp": "2026-07-25T01:18:33.992642Z",
+      "timestamp": "2026-07-25T04:51:44.674051Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Athletic Club star and FIFA World Cup champion Nico Williams's agent has opened up on his client's future, with the Spanish international having previously been targeted by Arsenal",
-      "timestamp": "2026-07-25T01:18:33.992765Z",
+      "timestamp": "2026-07-25T04:51:44.674183Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Three days after the 2026 FIFA World Cup\u00a0concluded,\u00a0Alphabet\u00a0reported its quarterly earnings, and that particular sporting event helped\u00a0YouTube\u00a0achieve significant growth. The video platform saw its ad revenue rise 13% year-over-year\u00a0to reach\u00a0$11 billion.\nOve\u2026",
-      "timestamp": "2026-07-25T01:18:33.992864Z",
+      "timestamp": "2026-07-25T04:51:44.674291Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup was the first to feature 48 national teams, jointly hosted by the United States, Mexico, and Canada. The final took place on July 19 at New York New Jersey Stadium in East Rutherford. Before a crowd of approximately 80,000 people, Spain def\u2026",
-      "timestamp": "2026-07-25T01:18:33.992893Z",
+      "timestamp": "2026-07-25T04:51:44.674323Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By Louis Smith.The 2026 World Cup has come to an end, with Spain becoming champions. Prior to the start of the tournament, I set out to write my first, first-person piece on my memories and experience...",
-      "timestamp": "2026-07-25T01:18:33.992943Z",
+      "timestamp": "2026-07-25T04:51:44.674378Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Megan Rapinoe said the U.S. men's national team had a good vibe at the 2026 World Cup \u2014 until U.S. President Donald Trump got involved.",
-      "timestamp": "2026-07-25T01:18:33.993068Z",
+      "timestamp": "2026-07-25T04:51:44.674520Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Prediction market startup Kalshi scored well during the 2026 FIFA World Cup, netting roughly double its projected user traffic and trading volume as fans scrambled to turn their soccer savvy into profits.\nKalshi recorded US$27-billion in trading volume and sa\u2026",
-      "timestamp": "2026-07-25T01:18:33.993124Z",
+      "timestamp": "2026-07-25T04:51:44.674584Z",
       "links": [
         {
           "label": "Source",
@@ -346,58 +374,46 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Shakira delighted fans by sharing backstage photo with BTS after their performances during the halftime show at 2026 FIFA World Cup final.",
-      "timestamp": "2026-07-25T01:18:33.993304Z",
+      "timestamp": "2026-07-25T04:51:44.674859Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.bolnews.com/entertainment/k-pop/shakira-shares-backstage-photo-with-bts-surprises-fans-with-korean-greeting/"
         }
       ]
-    },
-    {
-      "title": "Select Walgreens Stores: FIFA World Cup 2026 Merch $1 (In-Store Only)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Select Walgreens Stores (link for reference only) have FIFA World Cup 2026 Merch on clearance for $1 (In-Store Only).\r\n\r\nThanks to Deal Hunter Eragorn for posting this deal.\r\n \r\n Note: Availability/pr",
-      "timestamp": "2026-07-25T01:18:33.993369Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slickdeals.net/f/19800204-select-walgreens-stores-fifa-world-cup-2026-merch-1-in-store-only"
-        }
-      ]
-    },
-    {
-      "title": "USMNT's Sebastian Berhalter reportedly close to transfer to Middlesbrough from Vancouver",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Berhalter played in all five matches for the USMNT at the 2026 World Cup.",
-      "timestamp": "2026-07-25T01:18:33.993464Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/usmnts-sebastian-berhalter-reportedly-close-to-transfer-to-middlesbrough-from-vancouver-182213723.html"
-        }
-      ]
-    },
-    {
-      "title": "The World Cup's dirty little secret: FIFA's president wasn't the only culprit to wind up in crosshairs over his gas-guzzling private jet travel\u2026see the worst offenders",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Roughly 92,000 private jets flew in and out of host cities this World Cup to match the annual emissions of more than 34,000 cars.",
-      "timestamp": "2026-07-25T01:18:33.993685Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/news/article-15996721/World-Cup-FIFA-private-jet-polluters.html"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 25",
+      "loc": "Global",
+      "event": "The World Cup was meant to be carbon-neutral. FIFA hasn\u2019t released the figures, so we built a computer model to check",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://theconversation.com/the-world-cup-was-meant-to-be-carbon-neutral-fifa-hasnt-released-the-figures-so-we-built-a-computer-model-to-check-283580"
+        }
+      ]
+    },
+    {
+      "date": "Jul 25",
+      "loc": "Global",
+      "event": "Sports associations like Fifa must pay taxes\u2014their tournaments are clearly big business for them",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.livemint.com/opinion/online-views/sports-associations-fifa-taxes-tournaments-big-business-bcci-financial-benefits-football-world-cup-11784817744086.html"
+        }
+      ]
+    },
     {
       "date": "Jul 25",
       "loc": "Global",
@@ -637,52 +653,7 @@
           "url": "https://www.bolnews.com/entertainment/k-pop/shakira-shares-backstage-photo-with-bts-surprises-fans-with-korean-greeting/"
         }
       ]
-    },
-    {
-      "date": "Jul 25",
-      "loc": "Global",
-      "event": "Select Walgreens Stores: FIFA World Cup 2026 Merch $1 (In-Store Only)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slickdeals.net/f/19800204-select-walgreens-stores-fifa-world-cup-2026-merch-1-in-store-only"
-        }
-      ]
-    },
-    {
-      "date": "Jul 25",
-      "loc": "Vancouver",
-      "event": "USMNT's Sebastian Berhalter reportedly close to transfer to Middlesbrough from Vancouver",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/soccer/article/usmnts-sebastian-berhalter-reportedly-close-to-transfer-to-middlesbrough-from-vancouver-182213723.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 25",
-      "loc": "Global",
-      "event": "The World Cup's dirty little secret: FIFA's president wasn't the only culprit to wind up in crosshairs over his gas-guzzling private jet travel\u2026see the worst offenders",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/news/article-15996721/World-Cup-FIFA-private-jet-polluters.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-25T01:18:33.993940Z"
+  "lastUpdated": "2026-07-25T04:51:44.675076Z"
 }
