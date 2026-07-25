@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 14
+    "p3": 11
   },
   "watchlist": [
     {
@@ -131,12 +131,54 @@
   ],
   "risks": [
     {
+      "title": "Summer transfer window 2026: Dumfries, Lewandowski and Ramos headline the under-the-radar moves",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup in North America inevitably dominated the headlines in the football universe this summer.Several high-profile transfers also garnered plenty of interest, particularly in the Pr...",
+      "timestamp": "2026-07-25T14:23:55.810770Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/07/24/summer-transfer-window-2026-dumfries-lewandowski-and-ramos-headline-the-under-the-radar-moves/"
+        }
+      ]
+    },
+    {
+      "title": "DHS diverts anti-China funds to FIFA World Cup security, reshuffling federal cybersecurity priorities",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "DHS redirected anti-China funds to FIFA World Cup 2026 security, reshuffling over $1B in federal spending with implications for cybersecurity and\nThe post DHS diverts anti-China funds to FIFA World Cup security, reshuffling federal cybersecurity priorities ap\u2026",
+      "timestamp": "2026-07-25T14:23:55.810824Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cryptobriefing.com/dhs-diverts-anti-china-funds-world-cup-security/"
+        }
+      ]
+    },
+    {
+      "title": "Spain\u2019s De la Fuente slams Argentina\u2019s World Cup conduct as \u2018unacceptable\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "While Argentina faced criticism through World Cup 2026, post-final altercations are now being investigated.",
+      "timestamp": "2026-07-25T14:23:55.810851Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/24/spains-de-la-fuente-slams-argentinas-world-cup-conduct-as-unacceptable"
+        }
+      ]
+    },
+    {
       "title": "Only Lionel Messi and three legends stand above 2022 World Cup winner Nicolas Otamendi after emotional Argentina retirement",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The veteran defender confirmed his decision after Argentina's heartbreaking defeat to Spain in the 2026 FIFA World Cup final, closing one of the most successful chapters in the history of the national team while leaving behind a legacy matched by only a selec\u2026",
-      "timestamp": "2026-07-25T12:02:11.540707Z",
+      "timestamp": "2026-07-25T14:23:55.810968Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina midfielder Leandro Paredes said Spain were the better team in the 2026 FIFA World Cup final and deserved to lift the trophy after their 1-0 victory.",
-      "timestamp": "2026-07-25T12:02:11.540801Z",
+      "timestamp": "2026-07-25T14:23:55.811034Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain head coach Luis de la Fuente has strongly condemned the post-match clashes that marred the FIFA World Cup 2026 final, calling the behaviour of Argentina's players 'unacceptable' after his side lifted the trophy with a dramatic extra-time victory.",
-      "timestamp": "2026-07-25T12:02:11.540829Z",
+      "timestamp": "2026-07-25T14:23:55.811059Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After an extended hiatus during the 2026 FIFA World Cup, Major League Soccer is back!So, in case you need a quick refresher, here are the clubs you should look out for as the 2026 MLS season gets back...",
-      "timestamp": "2026-07-25T12:02:11.541078Z",
+      "timestamp": "2026-07-25T14:23:55.811298Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With the 2026 World Cup in the rear-view mirror, federations now begin building towards 2030. Few face a greater task than Germany, who find themselves in a historic rut, hiring Jurgen Klopp to change the trajectory.",
-      "timestamp": "2026-07-25T12:02:11.541118Z",
+      "timestamp": "2026-07-25T14:23:55.811340Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After Spain defeated Argentina in the 2026 FIFA World Cup final, social media users fuelled speculation about alleged FIFA favouritism with a video that appeared to show blue fireworks set off at the end of the tournament, and that it was proof that the body \u2026",
-      "timestamp": "2026-07-25T12:02:11.541196Z",
+      "timestamp": "2026-07-25T14:23:55.811411Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The bid committee for the 2026 World Cup aimed for a carbon neutral event. Green groups predicted an environmental disaster. Who was right?",
-      "timestamp": "2026-07-25T12:02:11.541542Z",
+      "timestamp": "2026-07-25T14:23:55.811755Z",
       "links": [
         {
           "label": "Source",
@@ -234,100 +276,61 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "There is no reason why sports bodies like Fifa and BCCI should not pay all their taxes. They derive enormous financial benefits from infrastructure built mostly with the money of taxpayers. And Fifa\u2019s 2026 World Cup is set to smash revenue records.",
-      "timestamp": "2026-07-25T12:02:11.541706Z",
+      "timestamp": "2026-07-25T14:23:55.811918Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.livemint.com/opinion/online-views/sports-associations-fifa-taxes-tournaments-big-business-bcci-financial-benefits-football-world-cup-11784817744086.html"
         }
       ]
-    },
-    {
-      "title": "World Cup: Has Africa come of age?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Explore Africa\u2019s unprecedented performance at the FIFA World Cup 2026. Did the continent finally come of age, or do recurring weaknesses still hold African\n\nRead More: https://punchng.com/world-cup-has-africa-come-of-age/",
-      "timestamp": "2026-07-25T12:02:11.542107Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/world-cup-has-africa-come-of-age/"
-        }
-      ]
-    },
-    {
-      "title": "NYPD busts 90 creeps, rescues dozens of survivors during World Cup human trafficking crackdown",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The NYPD launched a massive human trafficking crackdown during the FIFA World Cup \u2014 busting nearly 90 creeps and rescuing dozens of survivors, including a child being sex trafficked from a hotel room. A slew of operations before and during the 39-day internat\u2026",
-      "timestamp": "2026-07-25T12:02:11.542211Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://freerepublic.com/focus/f-chat/4389132/posts"
-        }
-      ]
-    },
-    {
-      "title": "The World Cup\u2019s Secret To Success Was Everything You Didn\u2019t See",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Any brand watching the next mega\u2011event after this FIFA World Cup should assume there\u2019s a second economy circling the core spectacle and design for it on purpose.",
-      "timestamp": "2026-07-25T12:02:11.542257Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/lilianraji/2026/07/23/the-world-cups-secret-to-success-was-everything-you-didnt-see/"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi wins award days after controversial FIFA World Cup Final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi has been awarded the IFFHS Best Player title for his performances at the 2026 FIFA World Cup, following Argentina's controversial 1-0 defeat to Spain",
-      "timestamp": "2026-07-25T12:02:11.542319Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/lionel-messi-award-world-cup-1952603"
-        }
-      ]
-    },
-    {
-      "title": "Fox reveals the U.S. cities that watched the World Cup the most",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Now that the FIFA World Cup is over, Fox has released data showing which cities in the United States were most interested in the tournament. Kansas City leads the way. Fox released the top-15 local markets based on average household ratings and share for its \u2026",
-      "timestamp": "2026-07-25T12:02:11.542361Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/fox-sports-reveals-us-cities-watched-world-cup-most.html"
-        }
-      ]
-    },
-    {
-      "title": "4 World Cup 2026 Lessons That Reshape How Brands Reach American Audiences",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The World Cup is over, and this was a special edition not only from a sports perspective \u2013 but also for reasons that may continue to impact brands for years to come.",
-      "timestamp": "2026-07-25T12:02:11.542440Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/isaacmizrahi/2026/07/23/four-lessons-from-the-2026-world-cup-that-will-reshape-how-brands-reach-american-audiences/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 25",
+      "loc": "Global",
+      "event": "Summer transfer window 2026: Dumfries, Lewandowski and Ramos headline the under-the-radar moves",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/07/24/summer-transfer-window-2026-dumfries-lewandowski-and-ramos-headline-the-under-the-radar-moves/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 25",
+      "loc": "Global",
+      "event": "DHS diverts anti-China funds to FIFA World Cup security, reshuffling federal cybersecurity priorities",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cryptobriefing.com/dhs-diverts-anti-china-funds-world-cup-security/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 25",
+      "loc": "Global",
+      "event": "Spain\u2019s De la Fuente slams Argentina\u2019s World Cup conduct as \u2018unacceptable\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/24/spains-de-la-fuente-slams-argentinas-world-cup-conduct-as-unacceptable"
+        }
+      ]
+    },
     {
       "date": "Jul 25",
       "loc": "Global",
@@ -447,97 +450,7 @@
           "url": "https://www.livemint.com/opinion/online-views/sports-associations-fifa-taxes-tournaments-big-business-bcci-financial-benefits-football-world-cup-11784817744086.html"
         }
       ]
-    },
-    {
-      "date": "Jul 25",
-      "loc": "Global",
-      "event": "World Cup: Has Africa come of age?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/world-cup-has-africa-come-of-age/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 25",
-      "loc": "Global",
-      "event": "NYPD busts 90 creeps, rescues dozens of survivors during World Cup human trafficking crackdown",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://freerepublic.com/focus/f-chat/4389132/posts"
-        }
-      ]
-    },
-    {
-      "date": "Jul 25",
-      "loc": "Global",
-      "event": "The World Cup\u2019s Secret To Success Was Everything You Didn\u2019t See",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/lilianraji/2026/07/23/the-world-cups-secret-to-success-was-everything-you-didnt-see/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 25",
-      "loc": "Global",
-      "event": "Lionel Messi wins award days after controversial FIFA World Cup Final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/lionel-messi-award-world-cup-1952603"
-        }
-      ]
-    },
-    {
-      "date": "Jul 25",
-      "loc": "Kansas City",
-      "event": "Fox reveals the U.S. cities that watched the World Cup the most",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/fox-sports-reveals-us-cities-watched-world-cup-most.html"
-        }
-      ]
-    },
-    {
-      "date": "Jul 25",
-      "loc": "Global",
-      "event": "4 World Cup 2026 Lessons That Reshape How Brands Reach American Audiences",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/isaacmizrahi/2026/07/23/four-lessons-from-the-2026-world-cup-that-will-reshape-how-brands-reach-american-audiences/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-25T12:02:11.542580Z"
+  "lastUpdated": "2026-07-25T14:23:55.812428Z"
 }
