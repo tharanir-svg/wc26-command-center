@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 1,
+    "p1": 0,
     "p2": 0,
-    "p3": 20
+    "p3": 19
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "World Cup: Has Africa come of age?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Explore Africa\u2019s unprecedented performance at the FIFA World Cup 2026. Did the continent finally come of age, or do recurring weaknesses still hold African\n\nRead More: https://punchng.com/world-cup-has-africa-come-of-age/",
+      "timestamp": "2026-07-25T01:18:33.992067Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/world-cup-has-africa-come-of-age/"
+        }
+      ]
+    },
+    {
       "title": "NYPD busts 90 creeps, rescues dozens of survivors during World Cup human trafficking crackdown",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The NYPD launched a massive human trafficking crackdown during the FIFA World Cup \u2014 busting nearly 90 creeps and rescuing dozens of survivors, including a child being sex trafficked from a hotel room. A slew of operations before and during the 39-day internat\u2026",
-      "timestamp": "2026-07-24T23:51:06.564909Z",
+      "timestamp": "2026-07-25T01:18:33.992156Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Any brand watching the next mega\u2011event after this FIFA World Cup should assume there\u2019s a second economy circling the core spectacle and design for it on purpose.",
-      "timestamp": "2026-07-24T23:51:06.564963Z",
+      "timestamp": "2026-07-25T01:18:33.992185Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi has been awarded the IFFHS Best Player title for his performances at the 2026 FIFA World Cup, following Argentina's controversial 1-0 defeat to Spain",
-      "timestamp": "2026-07-24T23:51:06.565009Z",
+      "timestamp": "2026-07-25T01:18:33.992248Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Now that the FIFA World Cup is over, Fox has released data showing which cities in the United States were most interested in the tournament. Kansas City leads the way. Fox released the top-15 local markets based on average household ratings and share for its \u2026",
-      "timestamp": "2026-07-24T23:51:06.565046Z",
+      "timestamp": "2026-07-25T01:18:33.992280Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The World Cup is over, and this was a special edition not only from a sports perspective \u2013 but also for reasons that may continue to impact brands for years to come.",
-      "timestamp": "2026-07-24T23:51:06.565129Z",
+      "timestamp": "2026-07-25T01:18:33.992369Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain boss Luis de la Fuente has spoken out on Argentina's post-FIFA World Cup Final antics, labeling their behavior as 'intolerable and unacceptable,' with an investigation already underway",
-      "timestamp": "2026-07-24T23:51:06.565181Z",
+      "timestamp": "2026-07-25T01:18:33.992424Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "While many supporters expected the legendary captain to step away after another unforgettable tournament, fresh reports suggest the story may not be over yet, with a new plan beginning to emerge behind the scenes. \nLionel Messi\u2019s future with the Argentina nat\u2026",
-      "timestamp": "2026-07-24T23:51:06.565216Z",
+      "timestamp": "2026-07-25T01:18:33.992460Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "While Spain celebrated a dramatic victory over Argentina, a brief exchange between two Barcelona-linked stars captured the attention of supporters around the world and quickly became one of the defining images of the tournament. \nThe 2026 FIFA World Cup final\u2026",
-      "timestamp": "2026-07-24T23:51:06.565396Z",
+      "timestamp": "2026-07-25T01:18:33.992642Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Athletic Club star and FIFA World Cup champion Nico Williams's agent has opened up on his client's future, with the Spanish international having previously been targeted by Arsenal",
-      "timestamp": "2026-07-24T23:51:06.565518Z",
+      "timestamp": "2026-07-25T01:18:33.992765Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Three days after the 2026 FIFA World Cup\u00a0concluded,\u00a0Alphabet\u00a0reported its quarterly earnings, and that particular sporting event helped\u00a0YouTube\u00a0achieve significant growth. The video platform saw its ad revenue rise 13% year-over-year\u00a0to reach\u00a0$11 billion.\nOve\u2026",
-      "timestamp": "2026-07-24T23:51:06.565622Z",
+      "timestamp": "2026-07-25T01:18:33.992864Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup was the first to feature 48 national teams, jointly hosted by the United States, Mexico, and Canada. The final took place on July 19 at New York New Jersey Stadium in East Rutherford. Before a crowd of approximately 80,000 people, Spain def\u2026",
-      "timestamp": "2026-07-24T23:51:06.565652Z",
+      "timestamp": "2026-07-25T01:18:33.992893Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By Louis Smith.The 2026 World Cup has come to an end, with Spain becoming champions. Prior to the start of the tournament, I set out to write my first, first-person piece on my memories and experience...",
-      "timestamp": "2026-07-24T23:51:06.565703Z",
+      "timestamp": "2026-07-25T01:18:33.992943Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Megan Rapinoe said the U.S. men's national team had a good vibe at the 2026 World Cup \u2014 until U.S. President Donald Trump got involved.",
-      "timestamp": "2026-07-24T23:51:06.565829Z",
+      "timestamp": "2026-07-25T01:18:33.993068Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Prediction market startup Kalshi scored well during the 2026 FIFA World Cup, netting roughly double its projected user traffic and trading volume as fans scrambled to turn their soccer savvy into profits.\nKalshi recorded US$27-billion in trading volume and sa\u2026",
-      "timestamp": "2026-07-24T23:51:06.565902Z",
+      "timestamp": "2026-07-25T01:18:33.993124Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Shakira delighted fans by sharing backstage photo with BTS after their performances during the halftime show at 2026 FIFA World Cup final.",
-      "timestamp": "2026-07-24T23:51:06.566076Z",
+      "timestamp": "2026-07-25T01:18:33.993304Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Select Walgreens Stores (link for reference only) have FIFA World Cup 2026 Merch on clearance for $1 (In-Store Only).\r\n\r\nThanks to Deal Hunter Eragorn for posting this deal.\r\n \r\n Note: Availability/pr",
-      "timestamp": "2026-07-24T23:51:06.566133Z",
+      "timestamp": "2026-07-25T01:18:33.993369Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Berhalter played in all five matches for the USMNT at the 2026 World Cup.",
-      "timestamp": "2026-07-24T23:51:06.566235Z",
+      "timestamp": "2026-07-25T01:18:33.993464Z",
       "links": [
         {
           "label": "Source",
@@ -374,60 +388,33 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Roughly 92,000 private jets flew in and out of host cities this World Cup to match the annual emissions of more than 34,000 cars.",
-      "timestamp": "2026-07-24T23:51:06.566373Z",
+      "timestamp": "2026-07-25T01:18:33.993685Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.dailymail.com/news/article-15996721/World-Cup-FIFA-private-jet-polluters.html"
         }
       ]
-    },
-    {
-      "title": "World Cup set TV viewing records in U.S., but Minnesota was a straggler",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The FIFA World Cup set viewership records in the U.S. this summer, but the Twin Cities lagged behind top markets. Spain\u2019s 1-0 win over Argentina in Sunday\u2019s final in New Jersey reached a total of nearly 39 million viewers on FOX, making it the most-watched En\u2026",
-      "timestamp": "2026-07-24T23:51:06.566567Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.twincities.com/2026/07/23/world-cup-set-tv-viewing-records-in-u-s-but-minnesota-was-a-straggler/"
-        }
-      ]
-    },
-    {
-      "title": "Half a million World Cup fans came to Atlanta stadium. What they bought",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Mercedes-Benz Stadium hosted more than half a million fans during the World Cup, and they took advantage of the cheap stadium prices.",
-      "timestamp": "2026-07-24T23:51:06.566615Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/news/state/georgia/atlanta/2026/07/23/how-much-food-drinks-did-fans-buy-at-atlanta-stadium-during-world-cup/91020502007/"
-        }
-      ]
-    },
-    {
-      "title": "Spain outlasts Argentina to win FIFA World Cup and cap sensational tournament",
-      "risk": "high",
-      "severityText": "P1 CRITICAL",
-      "status": "VERIFIED",
-      "description": "Spain's relentless attack finally paid off in extra time to dispatch defending world champ Argentina.",
-      "timestamp": "2026-07-24T23:51:06.566662Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.themanual.com/culture/argentina-spain-wins-2026-fifa-world-cup-but-futbol-are-the-real-winners/"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Jul 24",
+      "date": "Jul 25",
+      "loc": "Global",
+      "event": "World Cup: Has Africa come of age?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/world-cup-has-africa-come-of-age/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 25",
       "loc": "Global",
       "event": "NYPD busts 90 creeps, rescues dozens of survivors during World Cup human trafficking crackdown",
       "type": "News",
@@ -442,7 +429,7 @@
       ]
     },
     {
-      "date": "Jul 24",
+      "date": "Jul 25",
       "loc": "Global",
       "event": "The World Cup\u2019s Secret To Success Was Everything You Didn\u2019t See",
       "type": "News",
@@ -457,7 +444,7 @@
       ]
     },
     {
-      "date": "Jul 24",
+      "date": "Jul 25",
       "loc": "Global",
       "event": "Lionel Messi wins award days after controversial FIFA World Cup Final",
       "type": "News",
@@ -472,7 +459,7 @@
       ]
     },
     {
-      "date": "Jul 24",
+      "date": "Jul 25",
       "loc": "Kansas City",
       "event": "Fox reveals the U.S. cities that watched the World Cup the most",
       "type": "News",
@@ -487,7 +474,7 @@
       ]
     },
     {
-      "date": "Jul 24",
+      "date": "Jul 25",
       "loc": "Global",
       "event": "4 World Cup 2026 Lessons That Reshape How Brands Reach American Audiences",
       "type": "News",
@@ -502,7 +489,7 @@
       ]
     },
     {
-      "date": "Jul 24",
+      "date": "Jul 25",
       "loc": "Global",
       "event": "Luis de la Fuente labels Argentina\u2019s post-World Cup Final antics \u2018intolerable and unacceptable\u2019",
       "type": "News",
@@ -517,7 +504,7 @@
       ]
     },
     {
-      "date": "Jul 24",
+      "date": "Jul 25",
       "loc": "Global",
       "event": "Lionel Messi isn\u2019t done with Argentina just yet despite 2026 World Cup heartbreak as new plan comes to light",
       "type": "News",
@@ -532,7 +519,7 @@
       ]
     },
     {
-      "date": "Jul 24",
+      "date": "Jul 25",
       "loc": "Global",
       "event": "Lionel Messi\u2019s touching message left Lamine Yamal with treasured memory beyond 2026 World Cup trophy",
       "type": "News",
@@ -547,7 +534,7 @@
       ]
     },
     {
-      "date": "Jul 24",
+      "date": "Jul 25",
       "loc": "Global",
       "event": "Nico Williams' agent coy on summer transfer as Arsenal and Liverpool eye Yan Diomande",
       "type": "News",
@@ -562,7 +549,7 @@
       ]
     },
     {
-      "date": "Jul 24",
+      "date": "Jul 25",
       "loc": "Global",
       "event": "Paced by live sports, YouTube ad revenue rises 13% year-over-year",
       "type": "News",
@@ -577,7 +564,7 @@
       ]
     },
     {
-      "date": "Jul 24",
+      "date": "Jul 25",
       "loc": "Global",
       "event": "Was the 2026 World Cup Final a Passing-of-the-Torch Ritual?",
       "type": "News",
@@ -592,7 +579,7 @@
       ]
     },
     {
-      "date": "Jul 24",
+      "date": "Jul 25",
       "loc": "Global",
       "event": "5 Weeks, 48 Teams, One Summer to Remember \u2013 The 2026 World Cup Through My Eyes",
       "type": "News",
@@ -607,7 +594,7 @@
       ]
     },
     {
-      "date": "Jul 24",
+      "date": "Jul 25",
       "loc": "Global",
       "event": "Megan Rapinoe blames Trump for halting USMNT World Cup momentum",
       "type": "News",
@@ -622,7 +609,7 @@
       ]
     },
     {
-      "date": "Jul 24",
+      "date": "Jul 25",
       "loc": "Global",
       "event": "Prediction market Kalshi scores big with $27-billion FIFA World Cup windfall",
       "type": "News",
@@ -637,7 +624,7 @@
       ]
     },
     {
-      "date": "Jul 24",
+      "date": "Jul 25",
       "loc": "Global",
       "event": "Shakira shares backstage photo with BTS, surprises fans with Korean greeting",
       "type": "News",
@@ -652,7 +639,7 @@
       ]
     },
     {
-      "date": "Jul 24",
+      "date": "Jul 25",
       "loc": "Global",
       "event": "Select Walgreens Stores: FIFA World Cup 2026 Merch $1 (In-Store Only)",
       "type": "News",
@@ -667,7 +654,7 @@
       ]
     },
     {
-      "date": "Jul 24",
+      "date": "Jul 25",
       "loc": "Vancouver",
       "event": "USMNT's Sebastian Berhalter reportedly close to transfer to Middlesbrough from Vancouver",
       "type": "News",
@@ -682,7 +669,7 @@
       ]
     },
     {
-      "date": "Jul 24",
+      "date": "Jul 25",
       "loc": "Global",
       "event": "The World Cup's dirty little secret: FIFA's president wasn't the only culprit to wind up in crosshairs over his gas-guzzling private jet travel\u2026see the worst offenders",
       "type": "News",
@@ -695,52 +682,7 @@
           "url": "https://www.dailymail.com/news/article-15996721/World-Cup-FIFA-private-jet-polluters.html"
         }
       ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "World Cup set TV viewing records in U.S., but Minnesota was a straggler",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.twincities.com/2026/07/23/world-cup-set-tv-viewing-records-in-u-s-but-minnesota-was-a-straggler/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Atlanta",
-      "event": "Half a million World Cup fans came to Atlanta stadium. What they bought",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/news/state/georgia/atlanta/2026/07/23/how-much-food-drinks-did-fans-buy-at-atlanta-stadium-during-world-cup/91020502007/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 24",
-      "loc": "Global",
-      "event": "Spain outlasts Argentina to win FIFA World Cup and cap sensational tournament",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "high",
-      "impact": "P1 CRITICAL",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.themanual.com/culture/argentina-spain-wins-2026-fifa-world-cup-but-futbol-are-the-real-winners/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-24T23:51:06.566977Z"
+  "lastUpdated": "2026-07-25T01:18:33.993940Z"
 }
