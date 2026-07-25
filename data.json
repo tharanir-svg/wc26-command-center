@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 11
+    "p3": 13
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "Date set for Super Bowl LXII in Atlanta in 2028",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Super Bowl LXII will take place on Feb. 13, 2028, Mercedes-Benz Stadium officials confirmed on their social accounts.",
+      "timestamp": "2026-07-25T16:40:55.795546Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/date-set-super-bowl-lxii-160936866.html"
+        }
+      ]
+    },
+    {
+      "title": "Record-breaking World Cup has advertisers cheering",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Yospace, the trusted leader in Dynamic Ad Insertion (DAI), stitched 11.57 billion one-to-one addressable advertisements into live video streams during the 2026 FIFA World Cup. This equates to 297 million advertisements per day during the 39-day tournament",
+      "timestamp": "2026-07-25T16:40:55.795614Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.streamingmedia.com/PressRelease/Record-breaking-World-Cup-has-advertisers-cheering_57831.aspx"
+        }
+      ]
+    },
+    {
       "title": "5 Questions for\u2026 Brian Kilmeade on Fox & Friends\u2019 25th Anniversary",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The news presenter also gave insight into the 2026 World Cup.",
-      "timestamp": "2026-07-25T15:52:56.736025Z",
+      "timestamp": "2026-07-25T16:40:55.795871Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup in North America inevitably dominated the headlines in the football universe this summer.Several high-profile transfers also garnered plenty of interest, particularly in the Pr...",
-      "timestamp": "2026-07-25T15:52:56.736357Z",
+      "timestamp": "2026-07-25T16:40:55.796166Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "DHS redirected anti-China funds to FIFA World Cup 2026 security, reshuffling over $1B in federal spending with implications for cybersecurity and\nThe post DHS diverts anti-China funds to FIFA World Cup security, reshuffling federal cybersecurity priorities ap\u2026",
-      "timestamp": "2026-07-25T15:52:56.736395Z",
+      "timestamp": "2026-07-25T16:40:55.796203Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "While Argentina faced criticism through World Cup 2026, post-final altercations are now being investigated.",
-      "timestamp": "2026-07-25T15:52:56.736421Z",
+      "timestamp": "2026-07-25T16:40:55.796227Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The veteran defender confirmed his decision after Argentina's heartbreaking defeat to Spain in the 2026 FIFA World Cup final, closing one of the most successful chapters in the history of the national team while leaving behind a legacy matched by only a selec\u2026",
-      "timestamp": "2026-07-25T15:52:56.736543Z",
+      "timestamp": "2026-07-25T16:40:55.796339Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina midfielder Leandro Paredes said Spain were the better team in the 2026 FIFA World Cup final and deserved to lift the trophy after their 1-0 victory.",
-      "timestamp": "2026-07-25T15:52:56.736614Z",
+      "timestamp": "2026-07-25T16:40:55.796405Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain head coach Luis de la Fuente has strongly condemned the post-match clashes that marred the FIFA World Cup 2026 final, calling the behaviour of Argentina's players 'unacceptable' after his side lifted the trophy with a dramatic extra-time victory.",
-      "timestamp": "2026-07-25T15:52:56.736640Z",
+      "timestamp": "2026-07-25T16:40:55.796430Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After an extended hiatus during the 2026 FIFA World Cup, Major League Soccer is back!So, in case you need a quick refresher, here are the clubs you should look out for as the 2026 MLS season gets back...",
-      "timestamp": "2026-07-25T15:52:56.736882Z",
+      "timestamp": "2026-07-25T16:40:55.796655Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With the 2026 World Cup in the rear-view mirror, federations now begin building towards 2030. Few face a greater task than Germany, who find themselves in a historic rut, hiring Jurgen Klopp to change the trajectory.",
-      "timestamp": "2026-07-25T15:52:56.736930Z",
+      "timestamp": "2026-07-25T16:40:55.796700Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After Spain defeated Argentina in the 2026 FIFA World Cup final, social media users fuelled speculation about alleged FIFA favouritism with a video that appeared to show blue fireworks set off at the end of the tournament, and that it was proof that the body \u2026",
-      "timestamp": "2026-07-25T15:52:56.737019Z",
+      "timestamp": "2026-07-25T16:40:55.796772Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The bid committee for the 2026 World Cup aimed for a carbon neutral event. Green groups predicted an environmental disaster. Who was right?",
-      "timestamp": "2026-07-25T15:52:56.737450Z",
+      "timestamp": "2026-07-25T16:40:55.797156Z",
       "links": [
         {
           "label": "Source",
@@ -286,6 +314,36 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 25",
+      "loc": "Atlanta",
+      "event": "Date set for Super Bowl LXII in Atlanta in 2028",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/date-set-super-bowl-lxii-160936866.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 25",
+      "loc": "Global",
+      "event": "Record-breaking World Cup has advertisers cheering",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.streamingmedia.com/PressRelease/Record-breaking-World-Cup-has-advertisers-cheering_57831.aspx"
+        }
+      ]
+    },
     {
       "date": "Jul 25",
       "loc": "Global",
@@ -452,5 +510,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-25T15:52:56.737786Z"
+  "lastUpdated": "2026-07-25T16:40:55.797355Z"
 }
