@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 5
+    "p3": 1
   },
   "watchlist": [
     {
@@ -131,152 +131,25 @@
   ],
   "risks": [
     {
-      "title": "FIFA World Cup 2026 to Have Lasting Impact in US, Expert",
+      "title": "No active World Cup security issues detected",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "The FIFA World Cup 2026 will have a lasting impact on the US, but only if one major outcome can follow the event. The post FIFA World Cup 2026 to Have Lasting Impact in US, Expert appeared first on HEAVY.",
-      "timestamp": "2026-07-26T18:49:03.715805Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://heavy.com/sports/soccer/fifa-world-cup-2026-to-have-lasting-impact-in-us-expert/"
-        }
-      ]
-    },
-    {
-      "title": "Cristiano Ronaldo, Lionel Messi, and Kylian Mbappe couldn\u2019t stop Spain at 2026 World Cup due to one key factor, reveals Luis de la Fuente",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain coach Luis de la Fuente believes there was one defining element behind his team's remarkable triumph, and it ultimately carried the national team through one of the toughest knockout runs in World Cup history. \nCristiano Ronaldo, Lionel Messi and Kylian\u2026",
-      "timestamp": "2026-07-26T18:49:03.715859Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-lionel-messi-and-kylian-mbappe-couldnt-stop-spain-at-2026-world-cup-due-to-one-key-factor-reveals-luis-de-la-fuente/"
-        }
-      ]
-    },
-    {
-      "title": "David Beckham Surprises Fans for World Cup Final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Verizon and Beckham hooked up 10 fans with golden tickets during the 2026 World Cup Final.",
-      "timestamp": "2026-07-26T18:49:03.715882Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.complex.com/sports/a/ben-felderstein/david-beckham-surprises-fans-pitch-side-access-world-cup-final"
-        }
-      ]
-    },
-    {
-      "title": "World Cup 2026 winner Rodri tells Manchester City he wants Real Madrid switch, and one reason stands out",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Following his starring role in Spain's triumph at the 2026 FIFA World Cup, the 30-year-old has become a top target for Real Madrid, with growing belief that a blockbuster transfer could materialize before the new season begins. \nRodri\u2019s future has emerged as \u2026",
-      "timestamp": "2026-07-26T18:49:03.716116Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/world-cup-2026-winner-rodri-tells-manchester-city-he-wants-real-madrid-switch-and-one-reason-stands-out/"
-        }
-      ]
-    },
-    {
-      "title": "The seven worst decisions on and off the field at the 2026 FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup was a celebration of the most popular sport in the world, but it brought its fair share of controversial moments on and off the field. Everyone agrees that the 48-team edition of the World Cup was more entertaining than many had initia\u2026",
-      "timestamp": "2026-07-26T18:49:03.716240Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2f79afd7-2f31-4b9e-90d3-bf719e5c7db9"
-        }
-      ]
+      "description": "No verified FIFA World Cup 2026 operational, transportation or security disruptions detected.",
+      "timestamp": "2026-07-26T20:01:52.103188Z",
+      "links": []
     }
   ],
   "timeline": [
     {
       "date": "Jul 26",
       "loc": "Global",
-      "event": "FIFA World Cup 2026 to Have Lasting Impact in US, Expert",
-      "type": "News",
+      "event": "Monitoring cycle completed",
+      "type": "System",
       "confidence": "Confirmed",
       "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://heavy.com/sports/soccer/fifa-world-cup-2026-to-have-lasting-impact-in-us-expert/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 26",
-      "loc": "Global",
-      "event": "Cristiano Ronaldo, Lionel Messi, and Kylian Mbappe couldn\u2019t stop Spain at 2026 World Cup due to one key factor, reveals Luis de la Fuente",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-lionel-messi-and-kylian-mbappe-couldnt-stop-spain-at-2026-world-cup-due-to-one-key-factor-reveals-luis-de-la-fuente/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 26",
-      "loc": "Global",
-      "event": "David Beckham Surprises Fans for World Cup Final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.complex.com/sports/a/ben-felderstein/david-beckham-surprises-fans-pitch-side-access-world-cup-final"
-        }
-      ]
-    },
-    {
-      "date": "Jul 26",
-      "loc": "Global",
-      "event": "World Cup 2026 winner Rodri tells Manchester City he wants Real Madrid switch, and one reason stands out",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/world-cup-2026-winner-rodri-tells-manchester-city-he-wants-real-madrid-switch-and-one-reason-stands-out/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 26",
-      "loc": "Global",
-      "event": "The seven worst decisions on and off the field at the 2026 FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2f79afd7-2f31-4b9e-90d3-bf719e5c7db9"
-        }
-      ]
+      "impact": "P3 ADVISORY"
     }
   ],
-  "lastUpdated": "2026-07-26T18:49:03.716507Z"
+  "lastUpdated": "2026-07-26T20:01:52.103368Z"
 }
