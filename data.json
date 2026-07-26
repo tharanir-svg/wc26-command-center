@@ -131,25 +131,36 @@
   ],
   "risks": [
     {
-      "title": "No active World Cup security issues detected",
+      "title": "Kylian Mbappe breaks incredible 2026 World Cup speed record as Erling Haaland falls behind unlikely rivals",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "No verified FIFA World Cup 2026 operational, transportation or security disruptions detected.",
-      "timestamp": "2026-07-26T21:44:40.817409Z",
-      "links": []
+      "description": "While the France captain finished as the competition's top scorer, he also reached another milestone that underlined his extraordinary athletic ability, leaving several elite players, including Erling Haaland, behind in the process. \nKylian Mbappe once again \u2026",
+      "timestamp": "2026-07-26T22:45:38.987174Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/kylian-mbappe-breaks-incredible-2026-world-cup-speed-record-as-erling-haaland-falls-behind-unlikely-rivals/"
+        }
+      ]
     }
   ],
   "timeline": [
     {
       "date": "Jul 26",
       "loc": "Global",
-      "event": "Monitoring cycle completed",
-      "type": "System",
+      "event": "Kylian Mbappe breaks incredible 2026 World Cup speed record as Erling Haaland falls behind unlikely rivals",
+      "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
-      "impact": "P3 ADVISORY"
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/kylian-mbappe-breaks-incredible-2026-world-cup-speed-record-as-erling-haaland-falls-behind-unlikely-rivals/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-07-26T21:44:40.817624Z"
+  "lastUpdated": "2026-07-26T22:45:38.988725Z"
 }
