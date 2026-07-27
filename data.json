@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 1
+    "p3": 2
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Sports Commission defends N6.44bn World Cup qualifiers budget",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The National Sports Commission defends its N6.44bn 2026 World Cup qualifiers budget, clarifying the allocation despite Nigeria\u2019s failure to qualify.\n\nRead More: https://punchng.com/sports-commission-defends-n6-44bn-world-cup-qualifiers-budget/",
+      "timestamp": "2026-07-27T01:25:35.374746Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/sports-commission-defends-n6-44bn-world-cup-qualifiers-budget/"
+        }
+      ]
+    },
+    {
       "title": "Kylian Mbappe breaks incredible 2026 World Cup speed record as Erling Haaland falls behind unlikely rivals",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "While the France captain finished as the competition's top scorer, he also reached another milestone that underlined his extraordinary athletic ability, leaving several elite players, including Erling Haaland, behind in the process. \nKylian Mbappe once again \u2026",
-      "timestamp": "2026-07-26T23:47:31.565726Z",
+      "timestamp": "2026-07-27T01:25:35.374996Z",
       "links": [
         {
           "label": "Source",
@@ -147,7 +161,22 @@
   ],
   "timeline": [
     {
-      "date": "Jul 26",
+      "date": "Jul 27",
+      "loc": "Global",
+      "event": "Sports Commission defends N6.44bn World Cup qualifiers budget",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/sports-commission-defends-n6-44bn-world-cup-qualifiers-budget/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 27",
       "loc": "Global",
       "event": "Kylian Mbappe breaks incredible 2026 World Cup speed record as Erling Haaland falls behind unlikely rivals",
       "type": "News",
@@ -162,5 +191,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-26T23:47:31.567389Z"
+  "lastUpdated": "2026-07-27T01:25:35.376594Z"
 }
