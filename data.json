@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 2
+    "p3": 5
   },
   "watchlist": [
     {
@@ -131,12 +131,54 @@
   ],
   "risks": [
     {
+      "title": "Barcelona offered the chance to sign Spain World Cup winner but club not interested \u2013 here\u2019s why",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "A key reason for Spain\u2019s success in the 2026 FIFA World Cup was their defensive solidity, with the team conceding just one goal in the entire tournament.Most of the credit should go to the central d...",
+      "timestamp": "2026-07-27T09:00:57.041361Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelona-offered-the-chance-to-sign-spain-world-cup-winner-but-club-not-interested-heres-why/"
+        }
+      ]
+    },
+    {
+      "title": "Why I chose Burna Boy for World Cup anthem \u2014 Shakira",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Shakira explains why she chose Burna Boy for the 2026 FIFA World Cup anthem, \u201cDai Dai,\u201d citing his masculine voice and the song\u2019s Afrobeat sound.\n\nRead More: https://punchng.com/why-i-chose-burna-boy-for-world-cup-anthem-shakira/",
+      "timestamp": "2026-07-27T09:00:57.041491Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/why-i-chose-burna-boy-for-world-cup-anthem-shakira/"
+        }
+      ]
+    },
+    {
+      "title": "Barcelona ready to renew the contract of Spanish World Cup star at all costs \u2013 report",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Ferran Torres is currently enjoying an extended vacation after helping Spain win the 2026 FIFA World Cup. He is not expected to return to Ciutat Esportiva until August 10.But his future has remained t...",
+      "timestamp": "2026-07-27T09:00:57.041570Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelona-ready-to-renew-the-contract-of-spanish-world-cup-star-at-all-costs-report/"
+        }
+      ]
+    },
+    {
       "title": "Sports Commission defends N6.44bn World Cup qualifiers budget",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The National Sports Commission defends its N6.44bn 2026 World Cup qualifiers budget, clarifying the allocation despite Nigeria\u2019s failure to qualify.\n\nRead More: https://punchng.com/sports-commission-defends-n6-44bn-world-cup-qualifiers-budget/",
-      "timestamp": "2026-07-27T05:34:10.877914Z",
+      "timestamp": "2026-07-27T09:00:57.041931Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "While the France captain finished as the competition's top scorer, he also reached another milestone that underlined his extraordinary athletic ability, leaving several elite players, including Erling Haaland, behind in the process. \nKylian Mbappe once again \u2026",
-      "timestamp": "2026-07-27T05:34:10.878152Z",
+      "timestamp": "2026-07-27T09:00:57.042234Z",
       "links": [
         {
           "label": "Source",
@@ -160,6 +202,51 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 27",
+      "loc": "Global",
+      "event": "Barcelona offered the chance to sign Spain World Cup winner but club not interested \u2013 here\u2019s why",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelona-offered-the-chance-to-sign-spain-world-cup-winner-but-club-not-interested-heres-why/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 27",
+      "loc": "Global",
+      "event": "Why I chose Burna Boy for World Cup anthem \u2014 Shakira",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/why-i-chose-burna-boy-for-world-cup-anthem-shakira/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 27",
+      "loc": "Global",
+      "event": "Barcelona ready to renew the contract of Spanish World Cup star at all costs \u2013 report",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelona-ready-to-renew-the-contract-of-spanish-world-cup-star-at-all-costs-report/"
+        }
+      ]
+    },
     {
       "date": "Jul 27",
       "loc": "Global",
@@ -191,5 +278,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-27T05:34:10.879428Z"
+  "lastUpdated": "2026-07-27T09:00:57.043879Z"
 }
