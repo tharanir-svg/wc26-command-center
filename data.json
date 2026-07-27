@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 5
+    "p3": 7
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "The 2026 World Cup didn't just cause global celebrations when Argentina lost \u2014 it might also have altered global web traffic and online behavior around the world",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 World Cup's biggest moment online wasn't the final - Cloudflare says what time you woke up to watch dictated browsing habits significantly.",
+      "timestamp": "2026-07-27T15:33:46.070363Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/pro/the-2026-world-cup-didnt-just-cause-global-celebrations-when-argentina-lost-it-might-also-have-altered-global-web-traffic-and-online-behavior-around-the-world"
+        }
+      ]
+    },
+    {
+      "title": "\u2018I\u2019m obsessed\u2019 \u2013 Shakira on why she chose Burna Boy for World Cup song",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Colombian pop superstar Shakira has opened up about her decision to collaborate with Grammy-winning Nigerian singer Burna Boy on the official song for the 2026 FIFA World Cup, saying she was determined to have him feature on the track.\nThe post \u2018I\u2019m obsessed\u2019\u2026",
+      "timestamp": "2026-07-27T15:33:46.070554Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/im-obsessed-shakira-on-why-she-chose-burna-boy-for-world-cup-song/"
+        }
+      ]
+    },
+    {
       "title": "Barcelona offered the chance to sign Spain World Cup winner but club not interested \u2013 here\u2019s why",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A key reason for Spain\u2019s success in the 2026 FIFA World Cup was their defensive solidity, with the team conceding just one goal in the entire tournament.Most of the credit should go to the central d...",
-      "timestamp": "2026-07-27T12:46:37.221846Z",
+      "timestamp": "2026-07-27T15:33:46.071001Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Shakira explains why she chose Burna Boy for the 2026 FIFA World Cup anthem, \u201cDai Dai,\u201d citing his masculine voice and the song\u2019s Afrobeat sound.\n\nRead More: https://punchng.com/why-i-chose-burna-boy-for-world-cup-anthem-shakira/",
-      "timestamp": "2026-07-27T12:46:37.221914Z",
+      "timestamp": "2026-07-27T15:33:46.071042Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ferran Torres is currently enjoying an extended vacation after helping Spain win the 2026 FIFA World Cup. He is not expected to return to Ciutat Esportiva until August 10.But his future has remained t...",
-      "timestamp": "2026-07-27T12:46:37.221956Z",
+      "timestamp": "2026-07-27T15:33:46.071080Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The National Sports Commission defends its N6.44bn 2026 World Cup qualifiers budget, clarifying the allocation despite Nigeria\u2019s failure to qualify.\n\nRead More: https://punchng.com/sports-commission-defends-n6-44bn-world-cup-qualifiers-budget/",
-      "timestamp": "2026-07-27T12:46:37.222207Z",
+      "timestamp": "2026-07-27T15:33:46.071308Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "While the France captain finished as the competition's top scorer, he also reached another milestone that underlined his extraordinary athletic ability, leaving several elite players, including Erling Haaland, behind in the process. \nKylian Mbappe once again \u2026",
-      "timestamp": "2026-07-27T12:46:37.222401Z",
+      "timestamp": "2026-07-27T15:33:46.071516Z",
       "links": [
         {
           "label": "Source",
@@ -202,6 +230,36 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 27",
+      "loc": "Global",
+      "event": "The 2026 World Cup didn't just cause global celebrations when Argentina lost \u2014 it might also have altered global web traffic and online behavior around the world",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/pro/the-2026-world-cup-didnt-just-cause-global-celebrations-when-argentina-lost-it-might-also-have-altered-global-web-traffic-and-online-behavior-around-the-world"
+        }
+      ]
+    },
+    {
+      "date": "Jul 27",
+      "loc": "Global",
+      "event": "\u2018I\u2019m obsessed\u2019 \u2013 Shakira on why she chose Burna Boy for World Cup song",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/07/im-obsessed-shakira-on-why-she-chose-burna-boy-for-world-cup-song/"
+        }
+      ]
+    },
     {
       "date": "Jul 27",
       "loc": "Global",
@@ -278,5 +336,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-27T12:46:37.223307Z"
+  "lastUpdated": "2026-07-27T15:33:46.072208Z"
 }
