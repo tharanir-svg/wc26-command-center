@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 0,
-    "p3": 10
+    "p2": 2,
+    "p3": 12
   },
   "watchlist": [
     {
@@ -131,12 +131,96 @@
   ],
   "risks": [
     {
+      "title": "FIFA president Gianni Infantino delivers blunt message amid huge criticism: \u2018They missed out on everything\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Despite the 2026 World Cup ending a few days ago, FIFA President Gianni Infantino has faced heavy criticism over numerous decisions. In response, he has decided to deliver a strong statement, defending the organization. \nOver the last few years, FIFA Presiden\u2026",
+      "timestamp": "2026-07-28T15:56:14.074402Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/fifa-president-gianni-infantino-delivers-blunt-message-amid-huge-criticism-they-missed-out-on-everything/"
+        }
+      ]
+    },
+    {
+      "title": "What's going on with Andrea Pirlo? How Russian betting ties have caused chaos in Italy's search for new coach",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Italy have fumbled their first attempt in moving towards the 2030 FIFA World Cup cycle as they search for new leadership at the top of their football federation.",
+      "timestamp": "2026-07-28T15:56:14.074490Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/andrea-pirlo-russian-betting-chaos-italy-search-new-coach/680fc71a51a26aa3b166ee40"
+        }
+      ]
+    },
+    {
+      "title": "What the World Cup Could Have Been",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The travel industry bet billions that the 2026 World Cup would bring throngs of international travellers to North America. Instead, it got lower hotel occupancy, price spikes, and fewer travelers. It\u2019s a warning the United States shouldn\u2019t ignore twice.",
+      "timestamp": "2026-07-28T15:56:14.074632Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://skift.com/2026/07/27/what-the-world-cup-could-have-been/"
+        }
+      ]
+    },
+    {
+      "title": " FIFA reveals the best goal of the 2026 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA announced this Monday that the goal scored by full-back Sidny Lopes Cabral of Cabo against Argentina was voted the best goal of the 2026 FIFA World Cup.The goal, scored in the round of 32, beat t...",
+      "timestamp": "2026-07-28T15:56:14.074703Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/fifa-reveals-the-best-goal-of-the-2026-world-cup-43192758"
+        }
+      ]
+    },
+    {
+      "title": " Sidny Lopes Cabral wins FIFA World Cup Goal of the Tournament award",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "Cape Verde's Sidny Lopes Cabral has been crowned the winner of the FIFA World Cup 2026 Goal of the Tournament award after his sensational strike against Argentina topped the public voteThe midfielder'...",
+      "timestamp": "2026-07-28T15:56:14.074738Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/sidny-lopes-cabral-wins-fifa-world-cup-goal-of-the-tournament-award-43192746"
+        }
+      ]
+    },
+    {
+      "title": " Official: Cape Verde scored the best goal of the World Cup",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "Sidny Lopes Cabral\u2019s stunning right-footed strike for the Cape Verde national team against Argentina has officially been chosen as the Hyundai Goal of the Tournament at the FIFA World Cup 2026. The ...",
+      "timestamp": "2026-07-28T15:56:14.074766Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/official-cape-verde-scored-the-best-goal-of-the-world-cup-43192722"
+        }
+      ]
+    },
+    {
       "title": "FIFA's Infantino aims at World Cup critics for 'spreading hate'",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA president Gianni Infantino took aim at critics of the 2026 World Cup, accusing them of \"spreading hate and false rumors\" in a long statement.",
-      "timestamp": "2026-07-28T13:23:26.280325Z",
+      "timestamp": "2026-07-28T15:56:14.074996Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kylian Mbappe has admitted France's failure to win the FIFA World Cup 2026 will \"hurt for a while\", despite finishing as the tournament's top scorer and becoming the competition's all-time leading goalscorer.",
-      "timestamp": "2026-07-28T13:23:26.280376Z",
+      "timestamp": "2026-07-28T15:56:14.075029Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lisandro Martinez rejects \u2018anti-Argentina\u2019 criticism following the team\u2019s controversial 2026 World Cup campaign, insisting there\u2019s no real reason for the h\n\nRead More: https://punchng.com/martinez-slams-anti-argentina-criticism-after-2026-world-cup/",
-      "timestamp": "2026-07-28T13:23:26.280405Z",
+      "timestamp": "2026-07-28T15:56:14.075066Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup is over, and we bring our attention back to Major League Soccer as we kick off the second half of the season. Here are some of the stars and breakout candidates who could shape the ...",
-      "timestamp": "2026-07-28T13:23:26.280724Z",
+      "timestamp": "2026-07-28T15:56:14.075479Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After an impressive campaign at the FIFA World Cup, Yan Diomande will reportedly join world\u2019s richest football club.",
-      "timestamp": "2026-07-28T13:23:26.280797Z",
+      "timestamp": "2026-07-28T15:56:14.075584Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Gianni Infantino has taken aim at FIFA's critics with a lengthy rant that highlighted the positives of the 2026 World Cup",
-      "timestamp": "2026-07-28T13:23:26.280820Z",
+      "timestamp": "2026-07-28T15:56:14.075612Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Banglalink's digital entertainment platform recorded 2 billion live watch minutes and 20 million monthly active users during the 39-day tournament, as premium sports streaming reaches new heights in Bangladesh",
-      "timestamp": "2026-07-28T13:23:26.280919Z",
+      "timestamp": "2026-07-28T15:56:14.075732Z",
       "links": [
         {
           "label": "Source",
@@ -234,44 +318,106 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA President Gianni Infantino has shared a strongly-worded message against critics of the 2026 FIFA World Cup. Infantino and FIFA have come under heavy criticism over the controversies that plagued the 2026 FIFA World Cup, such as visa issues, outside force\u2026",
-      "timestamp": "2026-07-28T13:23:26.281076Z",
+      "timestamp": "2026-07-28T15:56:14.075909Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.hitc.com/fifa-president-gianni-infantino-lashes-out-at-critics-planting-seeds-of-hate-after-2026-world-cup/"
         }
       ]
-    },
-    {
-      "title": "BTS\u2019s \u201cARIRANG\u201d Re-Enters Top 10 Of Billboard 200 After FIFA World Cup Performance",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "After their halftime show performance at the FIFA World Cup, BTS is back in the top 10 of the Billboard 200! On July 26 local time, Billboard announced that BTS\u2019s latest album \u201cARIRANG\u201d had re-entered the top 10 of its Top 200 Albums chart, which ranks the mo\u2026",
-      "timestamp": "2026-07-28T13:23:26.281317Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.soompi.com/article/1857615wpp/btss-arirang-re-enters-top-10-of-billboard-200-after-fifa-world-cup-performance"
-        }
-      ]
-    },
-    {
-      "title": "The U.S. Open Cup could be America\u2019s best chance to build on the World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup was an unprecedented viewership success in the United States, and many wonder how leagues in the U.S. can build on that momentum. But the U.S. Open Cup may be best suited to carry domestic soccer into the mainstream. The Lamar Hunt U.S\u2026",
-      "timestamp": "2026-07-28T13:23:26.281356Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/us-open-cup-americas-build-world-cup.html"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 28",
+      "loc": "Global",
+      "event": "FIFA president Gianni Infantino delivers blunt message amid huge criticism: \u2018They missed out on everything\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/fifa-president-gianni-infantino-delivers-blunt-message-amid-huge-criticism-they-missed-out-on-everything/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 28",
+      "loc": "Global",
+      "event": "What's going on with Andrea Pirlo? How Russian betting ties have caused chaos in Italy's search for new coach",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/andrea-pirlo-russian-betting-chaos-italy-search-new-coach/680fc71a51a26aa3b166ee40"
+        }
+      ]
+    },
+    {
+      "date": "Jul 28",
+      "loc": "Global",
+      "event": "What the World Cup Could Have Been",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://skift.com/2026/07/27/what-the-world-cup-could-have-been/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 28",
+      "loc": "Global",
+      "event": " FIFA reveals the best goal of the 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/fifa-reveals-the-best-goal-of-the-2026-world-cup-43192758"
+        }
+      ]
+    },
+    {
+      "date": "Jul 28",
+      "loc": "Global",
+      "event": " Sidny Lopes Cabral wins FIFA World Cup Goal of the Tournament award",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/sidny-lopes-cabral-wins-fifa-world-cup-goal-of-the-tournament-award-43192746"
+        }
+      ]
+    },
+    {
+      "date": "Jul 28",
+      "loc": "Global",
+      "event": " Official: Cape Verde scored the best goal of the World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/official-cape-verde-scored-the-best-goal-of-the-world-cup-43192722"
+        }
+      ]
+    },
     {
       "date": "Jul 28",
       "loc": "Global",
@@ -391,37 +537,7 @@
           "url": "https://www.hitc.com/fifa-president-gianni-infantino-lashes-out-at-critics-planting-seeds-of-hate-after-2026-world-cup/"
         }
       ]
-    },
-    {
-      "date": "Jul 28",
-      "loc": "Global",
-      "event": "BTS\u2019s \u201cARIRANG\u201d Re-Enters Top 10 Of Billboard 200 After FIFA World Cup Performance",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.soompi.com/article/1857615wpp/btss-arirang-re-enters-top-10-of-billboard-200-after-fifa-world-cup-performance"
-        }
-      ]
-    },
-    {
-      "date": "Jul 28",
-      "loc": "Global",
-      "event": "The U.S. Open Cup could be America\u2019s best chance to build on the World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/us-open-cup-americas-build-world-cup.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-28T13:23:26.281728Z"
+  "lastUpdated": "2026-07-28T15:56:14.076318Z"
 }
