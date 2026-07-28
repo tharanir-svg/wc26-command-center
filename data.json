@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 12
+    "p3": 10
   },
   "watchlist": [
     {
@@ -131,12 +131,54 @@
   ],
   "risks": [
     {
+      "title": "FIFA's Infantino aims at World Cup critics for 'spreading hate'",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA president Gianni Infantino took aim at critics of the 2026 World Cup, accusing them of \"spreading hate and false rumors\" in a long statement.",
+      "timestamp": "2026-07-28T13:23:26.280325Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.upi.com/Sports_News/Soccer/2026/07/27/FIFA-Gianni-Infantino-World-Cup-statement-hate/9811785151328/"
+        }
+      ]
+    },
+    {
+      "title": "Golden Boot Cannot Replace World Cup Trophy: Mbappe",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Kylian Mbappe has admitted France's failure to win the FIFA World Cup 2026 will \"hurt for a while\", despite finishing as the tournament's top scorer and becoming the competition's all-time leading goalscorer.",
+      "timestamp": "2026-07-28T13:23:26.280376Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/mbappe-says-world-cup-exit-will-hurt-despite-record-breaking-campaign/20260727.htm"
+        }
+      ]
+    },
+    {
+      "title": "Martinez slams \u2018anti-Argentina\u2019 criticism after 2026 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lisandro Martinez rejects \u2018anti-Argentina\u2019 criticism following the team\u2019s controversial 2026 World Cup campaign, insisting there\u2019s no real reason for the h\n\nRead More: https://punchng.com/martinez-slams-anti-argentina-criticism-after-2026-world-cup/",
+      "timestamp": "2026-07-28T13:23:26.280405Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/martinez-slams-anti-argentina-criticism-after-2026-world-cup/"
+        }
+      ]
+    },
+    {
       "title": "9\ufe0f\u20e3 players to watch as the 2026 MLS Season returns",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup is over, and we bring our attention back to Major League Soccer as we kick off the second half of the season. Here are some of the stars and breakout candidates who could shape the ...",
-      "timestamp": "2026-07-28T11:06:43.327971Z",
+      "timestamp": "2026-07-28T13:23:26.280724Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After an impressive campaign at the FIFA World Cup, Yan Diomande will reportedly join world\u2019s richest football club.",
-      "timestamp": "2026-07-28T11:06:43.328097Z",
+      "timestamp": "2026-07-28T13:23:26.280797Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Gianni Infantino has taken aim at FIFA's critics with a lengthy rant that highlighted the positives of the 2026 World Cup",
-      "timestamp": "2026-07-28T11:06:43.328128Z",
+      "timestamp": "2026-07-28T13:23:26.280820Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Banglalink's digital entertainment platform recorded 2 billion live watch minutes and 20 million monthly active users during the 39-day tournament, as premium sports streaming reaches new heights in Bangladesh",
-      "timestamp": "2026-07-28T11:06:43.328250Z",
+      "timestamp": "2026-07-28T13:23:26.280919Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA President Gianni Infantino has shared a strongly-worded message against critics of the 2026 FIFA World Cup. Infantino and FIFA have come under heavy criticism over the controversies that plagued the 2026 FIFA World Cup, such as visa issues, outside force\u2026",
-      "timestamp": "2026-07-28T11:06:43.328435Z",
+      "timestamp": "2026-07-28T13:23:26.281076Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After their halftime show performance at the FIFA World Cup, BTS is back in the top 10 of the Billboard 200! On July 26 local time, Billboard announced that BTS\u2019s latest album \u201cARIRANG\u201d had re-entered the top 10 of its Top 200 Albums chart, which ranks the mo\u2026",
-      "timestamp": "2026-07-28T11:06:43.328747Z",
+      "timestamp": "2026-07-28T13:23:26.281317Z",
       "links": [
         {
           "label": "Source",
@@ -220,86 +262,61 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup was an unprecedented viewership success in the United States, and many wonder how leagues in the U.S. can build on that momentum. But the U.S. Open Cup may be best suited to carry domestic soccer into the mainstream. The Lamar Hunt U.S\u2026",
-      "timestamp": "2026-07-28T11:06:43.328802Z",
+      "timestamp": "2026-07-28T13:23:26.281356Z",
       "links": [
         {
           "label": "Source",
           "url": "https://awfulannouncing.com/soccer/us-open-cup-americas-build-world-cup.html"
         }
       ]
-    },
-    {
-      "title": "Real Madrid star welcomes Mark van Bommel but leaves Belgium future undecided: \u201cIt depends\u201d",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Real Madrid star Thibaut Courtois suffered a cruel end to his 2026 FIFA World Cup, having to come off against Spain in the quarter-finals after suffering an injury.After the game, he admitted that he ...",
-      "timestamp": "2026-07-28T11:06:43.329138Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://madriduniversal.com/real-madrid-star-welcomes-mark-van-bommel-but-leaves-belgium-future-undecided-it-depends/"
-        }
-      ]
-    },
-    {
-      "title": "Barcelona star sets sights on Champions League glory after World Cup triumph \u2013 \u201cWin everything\u201d",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FC Barcelona had eight representatives in the Spain squad that lifted the 2026 FIFA World Cup by beating Argentina in the final.Among the many Bar\u00e7a stars on show for La Roja, Dani Olmo arguably had ...",
-      "timestamp": "2026-07-28T11:06:43.329192Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelona-star-sets-sights-on-champions-league-glory-after-world-cup-triumph-win-everything/"
-        }
-      ]
-    },
-    {
-      "title": "What Is Enzo Fernandez\u2019s Future At Chelsea?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Enzo Fernandez has been linked with a departure from Chelsea after impressing for Argentina at the 2026 World Cup.",
-      "timestamp": "2026-07-28T11:06:43.329347Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/grahamruthven/2026/07/26/what-is-enzo-fernandezs-future-at-chelsea/"
-        }
-      ]
-    },
-    {
-      "title": "The 2026 World Cup didn't just cause global celebrations when Argentina lost \u2014 it might also have altered global web traffic and online behavior around the world",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup's biggest moment online wasn't the final - Cloudflare says what time you woke up to watch dictated browsing habits significantly.",
-      "timestamp": "2026-07-28T11:06:43.329474Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/pro/the-2026-world-cup-didnt-just-cause-global-celebrations-when-argentina-lost-it-might-also-have-altered-global-web-traffic-and-online-behavior-around-the-world"
-        }
-      ]
-    },
-    {
-      "title": "\u2018I\u2019m obsessed\u2019 \u2013 Shakira on why she chose Burna Boy for World Cup song",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Colombian pop superstar Shakira has opened up about her decision to collaborate with Grammy-winning Nigerian singer Burna Boy on the official song for the 2026 FIFA World Cup, saying she was determined to have him feature on the track.\nThe post \u2018I\u2019m obsessed\u2019\u2026",
-      "timestamp": "2026-07-28T11:06:43.329643Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/im-obsessed-shakira-on-why-she-chose-burna-boy-for-world-cup-song/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 28",
+      "loc": "Global",
+      "event": "FIFA's Infantino aims at World Cup critics for 'spreading hate'",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.upi.com/Sports_News/Soccer/2026/07/27/FIFA-Gianni-Infantino-World-Cup-statement-hate/9811785151328/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 28",
+      "loc": "Global",
+      "event": "Golden Boot Cannot Replace World Cup Trophy: Mbappe",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/mbappe-says-world-cup-exit-will-hurt-despite-record-breaking-campaign/20260727.htm"
+        }
+      ]
+    },
+    {
+      "date": "Jul 28",
+      "loc": "Global",
+      "event": "Martinez slams \u2018anti-Argentina\u2019 criticism after 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/martinez-slams-anti-argentina-criticism-after-2026-world-cup/"
+        }
+      ]
+    },
     {
       "date": "Jul 28",
       "loc": "Global",
@@ -404,82 +421,7 @@
           "url": "https://awfulannouncing.com/soccer/us-open-cup-americas-build-world-cup.html"
         }
       ]
-    },
-    {
-      "date": "Jul 28",
-      "loc": "Global",
-      "event": "Real Madrid star welcomes Mark van Bommel but leaves Belgium future undecided: \u201cIt depends\u201d",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://madriduniversal.com/real-madrid-star-welcomes-mark-van-bommel-but-leaves-belgium-future-undecided-it-depends/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 28",
-      "loc": "Global",
-      "event": "Barcelona star sets sights on Champions League glory after World Cup triumph \u2013 \u201cWin everything\u201d",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelona-star-sets-sights-on-champions-league-glory-after-world-cup-triumph-win-everything/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 28",
-      "loc": "Global",
-      "event": "What Is Enzo Fernandez\u2019s Future At Chelsea?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/grahamruthven/2026/07/26/what-is-enzo-fernandezs-future-at-chelsea/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 28",
-      "loc": "Global",
-      "event": "The 2026 World Cup didn't just cause global celebrations when Argentina lost \u2014 it might also have altered global web traffic and online behavior around the world",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/pro/the-2026-world-cup-didnt-just-cause-global-celebrations-when-argentina-lost-it-might-also-have-altered-global-web-traffic-and-online-behavior-around-the-world"
-        }
-      ]
-    },
-    {
-      "date": "Jul 28",
-      "loc": "Global",
-      "event": "\u2018I\u2019m obsessed\u2019 \u2013 Shakira on why she chose Burna Boy for World Cup song",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/im-obsessed-shakira-on-why-she-chose-burna-boy-for-world-cup-song/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-28T11:06:43.329805Z"
+  "lastUpdated": "2026-07-28T13:23:26.281728Z"
 }
