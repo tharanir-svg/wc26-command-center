@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 10
+    "p3": 9
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "VEON's Banglalink Demonstrates the Power of Digital Ecosystems with Record FIFA World Cup 2026 Engagement",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Banglalink's digital entertainment platform recorded 2 billion live watch minutes and 20 million monthly active users during the 39-day tournament, as premium sports streaming reaches new heights in Bangladesh",
+      "timestamp": "2026-07-28T08:08:48.488791Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.globenewswire.com/news-release/2026/07/27/3333291/0/en/VEON-s-Banglalink-Demonstrates-the-Power-of-Digital-Ecosystems-with-Record-FIFA-World-Cup-2026-Engagement.html"
+        }
+      ]
+    },
+    {
+      "title": "FIFA President Gianni Infantino lashes out at critics planting \u2018seeds of hate\u2019 after 2026 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA President Gianni Infantino has shared a strongly-worded message against critics of the 2026 FIFA World Cup. Infantino and FIFA have come under heavy criticism over the controversies that plagued the 2026 FIFA World Cup, such as visa issues, outside force\u2026",
+      "timestamp": "2026-07-28T08:08:48.489016Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/fifa-president-gianni-infantino-lashes-out-at-critics-planting-seeds-of-hate-after-2026-world-cup/"
+        }
+      ]
+    },
+    {
       "title": "BTS\u2019s \u201cARIRANG\u201d Re-Enters Top 10 Of Billboard 200 After FIFA World Cup Performance",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After their halftime show performance at the FIFA World Cup, BTS is back in the top 10 of the Billboard 200! On July 26 local time, Billboard announced that BTS\u2019s latest album \u201cARIRANG\u201d had re-entered the top 10 of its Top 200 Albums chart, which ranks the mo\u2026",
-      "timestamp": "2026-07-28T05:35:03.095499Z",
+      "timestamp": "2026-07-28T08:08:48.489323Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup was an unprecedented viewership success in the United States, and many wonder how leagues in the U.S. can build on that momentum. But the U.S. Open Cup may be best suited to carry domestic soccer into the mainstream. The Lamar Hunt U.S\u2026",
-      "timestamp": "2026-07-28T05:35:03.095606Z",
+      "timestamp": "2026-07-28T08:08:48.489371Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Real Madrid star Thibaut Courtois suffered a cruel end to his 2026 FIFA World Cup, having to come off against Spain in the quarter-finals after suffering an injury.After the game, he admitted that he ...",
-      "timestamp": "2026-07-28T05:35:03.096084Z",
+      "timestamp": "2026-07-28T08:08:48.489668Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FC Barcelona had eight representatives in the Spain squad that lifted the 2026 FIFA World Cup by beating Argentina in the final.Among the many Bar\u00e7a stars on show for La Roja, Dani Olmo arguably had ...",
-      "timestamp": "2026-07-28T05:35:03.096178Z",
+      "timestamp": "2026-07-28T08:08:48.489723Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Enzo Fernandez has been linked with a departure from Chelsea after impressing for Argentina at the 2026 World Cup.",
-      "timestamp": "2026-07-28T05:35:03.096424Z",
+      "timestamp": "2026-07-28T08:08:48.489869Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup's biggest moment online wasn't the final - Cloudflare says what time you woke up to watch dictated browsing habits significantly.",
-      "timestamp": "2026-07-28T05:35:03.096609Z",
+      "timestamp": "2026-07-28T08:08:48.489970Z",
       "links": [
         {
           "label": "Source",
@@ -220,58 +248,46 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Colombian pop superstar Shakira has opened up about her decision to collaborate with Grammy-winning Nigerian singer Burna Boy on the official song for the 2026 FIFA World Cup, saying she was determined to have him feature on the track.\nThe post \u2018I\u2019m obsessed\u2019\u2026",
-      "timestamp": "2026-07-28T05:35:03.096806Z",
+      "timestamp": "2026-07-28T08:08:48.490095Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.vanguardngr.com/2026/07/im-obsessed-shakira-on-why-she-chose-burna-boy-for-world-cup-song/"
         }
       ]
-    },
-    {
-      "title": "Barcelona offered the chance to sign Spain World Cup winner but club not interested \u2013 here\u2019s why",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "A key reason for Spain\u2019s success in the 2026 FIFA World Cup was their defensive solidity, with the team conceding just one goal in the entire tournament.Most of the credit should go to the central d...",
-      "timestamp": "2026-07-28T05:35:03.097538Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelona-offered-the-chance-to-sign-spain-world-cup-winner-but-club-not-interested-heres-why/"
-        }
-      ]
-    },
-    {
-      "title": "Why I chose Burna Boy for World Cup anthem \u2014 Shakira",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Shakira explains why she chose Burna Boy for the 2026 FIFA World Cup anthem, \u201cDai Dai,\u201d citing his masculine voice and the song\u2019s Afrobeat sound.\n\nRead More: https://punchng.com/why-i-chose-burna-boy-for-world-cup-anthem-shakira/",
-      "timestamp": "2026-07-28T05:35:03.097614Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/why-i-chose-burna-boy-for-world-cup-anthem-shakira/"
-        }
-      ]
-    },
-    {
-      "title": "Barcelona ready to renew the contract of Spanish World Cup star at all costs \u2013 report",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Ferran Torres is currently enjoying an extended vacation after helping Spain win the 2026 FIFA World Cup. He is not expected to return to Ciutat Esportiva until August 10.But his future has remained t...",
-      "timestamp": "2026-07-28T05:35:03.097681Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelona-ready-to-renew-the-contract-of-spanish-world-cup-star-at-all-costs-report/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 28",
+      "loc": "Global",
+      "event": "VEON's Banglalink Demonstrates the Power of Digital Ecosystems with Record FIFA World Cup 2026 Engagement",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.globenewswire.com/news-release/2026/07/27/3333291/0/en/VEON-s-Banglalink-Demonstrates-the-Power-of-Digital-Ecosystems-with-Record-FIFA-World-Cup-2026-Engagement.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 28",
+      "loc": "Global",
+      "event": "FIFA President Gianni Infantino lashes out at critics planting \u2018seeds of hate\u2019 after 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/fifa-president-gianni-infantino-lashes-out-at-critics-planting-seeds-of-hate-after-2026-world-cup/"
+        }
+      ]
+    },
     {
       "date": "Jul 28",
       "loc": "Global",
@@ -376,52 +392,7 @@
           "url": "https://www.vanguardngr.com/2026/07/im-obsessed-shakira-on-why-she-chose-burna-boy-for-world-cup-song/"
         }
       ]
-    },
-    {
-      "date": "Jul 28",
-      "loc": "Global",
-      "event": "Barcelona offered the chance to sign Spain World Cup winner but club not interested \u2013 here\u2019s why",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelona-offered-the-chance-to-sign-spain-world-cup-winner-but-club-not-interested-heres-why/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 28",
-      "loc": "Global",
-      "event": "Why I chose Burna Boy for World Cup anthem \u2014 Shakira",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/why-i-chose-burna-boy-for-world-cup-anthem-shakira/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 28",
-      "loc": "Global",
-      "event": "Barcelona ready to renew the contract of Spanish World Cup star at all costs \u2013 report",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelona-ready-to-renew-the-contract-of-spanish-world-cup-star-at-all-costs-report/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-28T05:35:03.097997Z"
+  "lastUpdated": "2026-07-28T08:08:48.490680Z"
 }
