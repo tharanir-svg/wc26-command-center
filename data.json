@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 0,
+    "p1": 1,
     "p2": 0,
-    "p3": 18
+    "p3": 23
   },
   "watchlist": [
     {
@@ -131,12 +131,138 @@
   ],
   "risks": [
     {
+      "title": "Human trafficking enforcement during World Cup yields more than 150 arrests in NY and NJ",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "A general view of the FIFA World Cup 2026 Final signage at New York New Jersey Stadium ahead of the FIFA World Cup 2026 Final on July 17, 2026 in New York City.\n \n\nBoth states had undertaken significant preparations ahead of the global tournament, which was e\u2026",
+      "timestamp": "2026-07-29T18:07:12.364827Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://gothamist.com/news/human-trafficking-enforcement-during-world-cup-yields-more-than-150-arrests-in-ny-and-nj"
+        }
+      ]
+    },
+    {
+      "title": "Manchester City confirm 28-man travelling squad for pre-season tour of Hong Kong and South Korea",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Manchester City will travel to east Asia for Enzo Maresca\u2019s first games in charge as managerSome players remain on holiday after a gruelling FIFA World Cup campaign in North AmericaCity face Inter, ...",
+      "timestamp": "2026-07-29T18:07:12.364897Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cityxtra.co.uk/50357/manchester-city-confirm-28-man-travelling-squad-for-pre-season-tour-of-hong-kong-and-south-korea/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA President Gianni Infantino Is Trying To Sell The World Cup To Associates Of Donald Trump To Enrich Himself",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "The\u00a0FIFA World Cup\u00a0is officially up for sale. Yes, you read that right. In a bombshell report from Martyn Zielgler of\u00a0The Times, he reveals that FIFA is in talks to sell off stakes of the legendary World Cup to American venture capital firm Thrive Eternal, wh\u2026",
+      "timestamp": "2026-07-29T18:07:12.364954Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://brobible.com/sports/article/fifa-world-cup-sale-gianni-infantino-donald-trump/"
+        }
+      ]
+    },
+    {
+      "title": "Where To Find Brazil's Stars After The 2026 FIFA World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "What's next for the stars of Brazil after their 2026 World Cup run?",
+      "timestamp": "2026-07-29T18:07:12.364979Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/where-find-stars-brazil-after-2026-fifa-world-cup-exit"
+        }
+      ]
+    },
+    {
+      "title": "Where To Find Paraguay's Stars After The 2026 FIFA World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "So what's next for the players who led Paraguay to the last 16?",
+      "timestamp": "2026-07-29T18:07:12.365023Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/where-find-stars-paraguay-after-2026-fifa-world-cup-exit"
+        }
+      ]
+    },
+    {
+      "title": "Is FIFA selling the World Cup? What to know about Gianni Infantino investment plan UEFA says 'crosses a line'",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup was a sensational financial success for FIFA, and it is set to continue cashing in as Gianni Infantino announced a new pending subsidiary to generate further revenue for the governing body.",
+      "timestamp": "2026-07-29T18:07:12.365044Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/fifa-selling-world-cup-gianni-infantino-investment-plan/fd1e8e710c1895eaba5ce427"
+        }
+      ]
+    },
+    {
+      "title": "Spain's Marc Cucurella keeps promise with tattoo of coach after World Cup win",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain defender Marc Cucurella fulfilled a promise with a new tattoo of national team coach Luis de la Fuente after winning the 2026 World Cup.",
+      "timestamp": "2026-07-29T18:07:12.365060Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/28/marc-cucurella-tattoo-coach-face-world-cup/91077945007/"
+        }
+      ]
+    },
+    {
+      "title": "Where To Find The Stars Of Ghana After The 2026 FIFA World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "So what\u2019s next for the players who led Ghana to the last 32?",
+      "timestamp": "2026-07-29T18:07:12.365075Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/where-find-stars-ghana-after-2026-fifa-world-cup-exit"
+        }
+      ]
+    },
+    {
+      "title": "Where To Find The Stars Of Australia After The 2026 FIFA World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Here's where to find the stars of Australia after their 2026 FIFA World Cup exit.",
+      "timestamp": "2026-07-29T18:07:12.365087Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/where-find-stars-australia-after-2026-fifa-world-cup-exit"
+        }
+      ]
+    },
+    {
       "title": "How To Watch DR Congo's Stars After The 2026 World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's what's next for DR Congo's stars after the 2026 World Cup.",
-      "timestamp": "2026-07-29T17:00:15.568478Z",
+      "timestamp": "2026-07-29T18:07:12.365110Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Goalkeeper Matt Freese admits he's not quite gotten over the United States' abrupt exit from the 2026 World Cup following a 4-1 loss to Belgium in the round of 16. \u201cBig losses in tough moments are things you never really get over because they stay with you fo\u2026",
-      "timestamp": "2026-07-29T17:00:15.568583Z",
+      "timestamp": "2026-07-29T18:07:12.365163Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Rick Ross joins Lior Suchard & Pininfarina on EnSima Miami I, a $593/SF Miami Gardens development near Hard Rock Stadium. Sales open Sept 2026....",
-      "timestamp": "2026-07-29T17:00:15.568663Z",
+      "timestamp": "2026-07-29T18:07:12.365221Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "IFAB admits VAR made a mistake in sending off Switzerland\u2019s Breel Embolo during the 2026 World Cup quarter-final, clarifying protocol misapplication.\n\nRead More: https://punchng.com/ifab-says-var-made-mistake-in-embolos-world-cup-red-card/",
-      "timestamp": "2026-07-29T17:00:15.568739Z",
+      "timestamp": "2026-07-29T18:07:12.365278Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Roberto Mancini has been named as Italy's head coach for a second spell in charge, replacing Gennaro Gattuso, who failed to guide the Azzurri to the 2026 FIFA World Cup",
-      "timestamp": "2026-07-29T17:00:15.568761Z",
+      "timestamp": "2026-07-29T18:07:12.365295Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Coca-Cola's shares rose over 6% after surpassing Q2 expectations, driven by global volume growth and FIFA World Cup marketing, leading to an upward revision of its 2026 financial outlook.",
-      "timestamp": "2026-07-29T17:00:15.568822Z",
+      "timestamp": "2026-07-29T18:07:12.365341Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The International Football Association Board (IFAB) has issued a clarification on the use of the Video Assistant Referee (VAR) following controversial officiating decisions at the 2026 FIFA World Cup.\nThe post World Cup: IFAB admits VAR error after controvers\u2026",
-      "timestamp": "2026-07-29T17:00:15.568855Z",
+      "timestamp": "2026-07-29T18:07:12.365365Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Uber fares peaked 62% above baseline, while the World Cup Final produced the tournament's most expensive rideshare night NEW YORK, July 28, 2026 /PRNewswire/ -- World Cup fans faced significantly higher rideshare prices on match days, particularly for riders \u2026",
-      "timestamp": "2026-07-29T17:00:15.568887Z",
+      "timestamp": "2026-07-29T18:07:12.365407Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spanish soccer star Marc Cucurella\u00a0has followed through on his bold promise to get manager\u00a0Luis De La Fuente\u2019s face tattooed on him if the country won the 2026 FIFA World Cup. Cucurella, who starred as the starting left back for Spain, made the bold promise b\u2026",
-      "timestamp": "2026-07-29T17:00:15.568971Z",
+      "timestamp": "2026-07-29T18:07:12.365446Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India failed to qualify for next year's Asian Cup, making a FIFA World Cup 2030 or 2034 appearance unlikely.",
-      "timestamp": "2026-07-29T17:00:15.568995Z",
+      "timestamp": "2026-07-29T18:07:12.365459Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "June TABC receipts show Dallas bars and restaurants saw a single-digit percentage bump in booze sales during the World Cup.",
-      "timestamp": "2026-07-29T17:00:15.569067Z",
+      "timestamp": "2026-07-29T18:07:12.365517Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup highlights the critical role of goalkeepers, emphasizing defensive prowess as a key factor in tournament success.\nThe post Camilo Vargas and Mike Maignan lead the pack with 4 clean sheets each at the 2026 FIFA World Cup appeared first on Cr\u2026",
-      "timestamp": "2026-07-29T17:00:15.569249Z",
+      "timestamp": "2026-07-29T18:07:12.365694Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "MIAMI, July 28, 2026 /PRNewswire/ -- As the FIFA World Cup 2026 comes to an end, Miami-based Link.Me is emerging as one of the tournament's biggest behind-the-scenes winners. FIFA selected Link.Me as the centralized social destination connecting fans from Ins\u2026",
-      "timestamp": "2026-07-29T17:00:15.569364Z",
+      "timestamp": "2026-07-29T18:07:12.365781Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Cape Verde goalkeeper Vozinha has agreed to join Chilean giants Colo-Colo on an 18-month deal following his breakout performances at the 2026 World Cup, where he helped his country reach the knockout stage for the first time. Reportedly, his new salary has go\u2026",
-      "timestamp": "2026-07-29T17:00:15.569667Z",
+      "timestamp": "2026-07-29T18:07:12.366013Z",
       "links": [
         {
           "label": "Source",
@@ -332,58 +458,151 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Rodri has undergone successful minor surgery on his back, Manchester City have confirmed.The procedure has been undertaken off the back of a hugely successful summer at the FIFA World Cup with Spain, ...",
-      "timestamp": "2026-07-29T17:00:15.569758Z",
+      "timestamp": "2026-07-29T18:07:12.366114Z",
       "links": [
         {
           "label": "Source",
           "url": "https://cityxtra.co.uk/50376/manchester-city-issue-club-statement-on-rodri/"
         }
       ]
-    },
-    {
-      "title": "MLS spends tens of millions in biggest gamble yet after the World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Major League Soccer is aggressively leveraging post-World Cup fever to drive unprecedented long-term growth across North America. The 2026 World Cup smashed expectations across 104 matches in 16 host cities.",
-      "timestamp": "2026-07-29T17:00:15.569815Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/mls-spends-tens-of-millions-in-biggest-gamble-yet-after-the-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "Sound Transit addresses recent post-World Cup service disruptions",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Since smashing ridership records following its blockbuster round-the-clock service during the FIFA World Cup, Link light rail has been plagued by a myriad of disparate service disruptions. Just a few days after the July 9th USA vs. Belgium match, an open hatc\u2026",
-      "timestamp": "2026-07-29T17:00:15.569857Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://seattletransitblog.com/2026/07/28/sound-transit-addresses-recent-post-world-cup-service-disruptions/"
-        }
-      ]
-    },
-    {
-      "title": "Which Players Dominated the 2026 FIFA World Cup?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 FIFA World Cup produced memorable individual performances alongside dramatic knockout matches. While Spain lifted the trophy after defeating Argentina in the final, the tournament also highli...",
-      "timestamp": "2026-07-29T17:00:15.570058Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.playmakerstats.com/news/which-players-dominated-the-2026-fifa-world-cup/1162956"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 29",
+      "loc": "Global",
+      "event": "Human trafficking enforcement during World Cup yields more than 150 arrests in NY and NJ",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://gothamist.com/news/human-trafficking-enforcement-during-world-cup-yields-more-than-150-arrests-in-ny-and-nj"
+        }
+      ]
+    },
+    {
+      "date": "Jul 29",
+      "loc": "Global",
+      "event": "Manchester City confirm 28-man travelling squad for pre-season tour of Hong Kong and South Korea",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cityxtra.co.uk/50357/manchester-city-confirm-28-man-travelling-squad-for-pre-season-tour-of-hong-kong-and-south-korea/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 29",
+      "loc": "Global",
+      "event": "FIFA President Gianni Infantino Is Trying To Sell The World Cup To Associates Of Donald Trump To Enrich Himself",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://brobible.com/sports/article/fifa-world-cup-sale-gianni-infantino-donald-trump/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 29",
+      "loc": "Global",
+      "event": "Where To Find Brazil's Stars After The 2026 FIFA World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/where-find-stars-brazil-after-2026-fifa-world-cup-exit"
+        }
+      ]
+    },
+    {
+      "date": "Jul 29",
+      "loc": "Global",
+      "event": "Where To Find Paraguay's Stars After The 2026 FIFA World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/where-find-stars-paraguay-after-2026-fifa-world-cup-exit"
+        }
+      ]
+    },
+    {
+      "date": "Jul 29",
+      "loc": "Global",
+      "event": "Is FIFA selling the World Cup? What to know about Gianni Infantino investment plan UEFA says 'crosses a line'",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/fifa-selling-world-cup-gianni-infantino-investment-plan/fd1e8e710c1895eaba5ce427"
+        }
+      ]
+    },
+    {
+      "date": "Jul 29",
+      "loc": "Global",
+      "event": "Spain's Marc Cucurella keeps promise with tattoo of coach after World Cup win",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/28/marc-cucurella-tattoo-coach-face-world-cup/91077945007/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 29",
+      "loc": "Global",
+      "event": "Where To Find The Stars Of Ghana After The 2026 FIFA World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/where-find-stars-ghana-after-2026-fifa-world-cup-exit"
+        }
+      ]
+    },
+    {
+      "date": "Jul 29",
+      "loc": "Global",
+      "event": "Where To Find The Stars Of Australia After The 2026 FIFA World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/where-find-stars-australia-after-2026-fifa-world-cup-exit"
+        }
+      ]
+    },
     {
       "date": "Jul 29",
       "loc": "Global",
@@ -608,52 +827,7 @@
           "url": "https://cityxtra.co.uk/50376/manchester-city-issue-club-statement-on-rodri/"
         }
       ]
-    },
-    {
-      "date": "Jul 29",
-      "loc": "Global",
-      "event": "MLS spends tens of millions in biggest gamble yet after the World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/mls-spends-tens-of-millions-in-biggest-gamble-yet-after-the-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 29",
-      "loc": "Global",
-      "event": "Sound Transit addresses recent post-World Cup service disruptions",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://seattletransitblog.com/2026/07/28/sound-transit-addresses-recent-post-world-cup-service-disruptions/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 29",
-      "loc": "Global",
-      "event": "Which Players Dominated the 2026 FIFA World Cup?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.playmakerstats.com/news/which-players-dominated-the-2026-fifa-world-cup/1162956"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-29T17:00:15.570295Z"
+  "lastUpdated": "2026-07-29T18:07:12.366278Z"
 }
