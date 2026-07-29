@@ -5,7 +5,7 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 1,
+    "p1": 2,
     "p2": 0,
     "p3": 23
   },
@@ -131,12 +131,54 @@
   ],
   "risks": [
     {
+      "title": "Liverpool deal for \u00a377m FIFA World Cup-winning forward within reach",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "Big changes are coming to the Liverpool attack during the current transfer window. Mohamed Salah has left the club with an agreement reached to rip up his \u00a3400k per week contract one year early. He c...",
+      "timestamp": "2026-07-29T20:05:15.573206Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/liverpool-transfer-news-athletic-club-nico-williams-ps77m-fifa-world-cup-winning-forward-within-reach/"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Cup MVP Rodrigo Hernandez reportedly turns down PSG move eyeing his arrival to Real Madrid",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Rodrigo Hernandez comes from having an impressive 2026 World Cup, winning the MVP award. After this, he seems determined to leave Manchester City, receiving attention from PSG. However, he has reportedly decided to reject the offer, setting his sights on Real\u2026",
+      "timestamp": "2026-07-29T20:05:15.573374Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/2026-world-cup-mvp-rodrigo-hernandez-reportedly-turns-down-psg-move-eyeing-his-arrival-to-real-madrid/"
+        }
+      ]
+    },
+    {
+      "title": "\u2018This crosses a line\u2019: UEFA responds to FIFA President\u2019s \u2018scheme\u2019 involving \u2018corrupt Trump family\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 FIFA World Cup proved to be a controversial one. The United States joined Canada and Mexico as a host nation for the event, but it was the only country that saw its President, Donald Trump, involve himself in the goings-on on the pitch. By his own ad\u2026",
+      "timestamp": "2026-07-29T20:05:15.573471Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/uefa-responds-to-gianni-infantino-selling-stake-private-investors.html"
+        }
+      ]
+    },
+    {
       "title": "Human trafficking enforcement during World Cup yields more than 150 arrests in NY and NJ",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A general view of the FIFA World Cup 2026 Final signage at New York New Jersey Stadium ahead of the FIFA World Cup 2026 Final on July 17, 2026 in New York City.\n \n\nBoth states had undertaken significant preparations ahead of the global tournament, which was e\u2026",
-      "timestamp": "2026-07-29T18:07:12.364827Z",
+      "timestamp": "2026-07-29T20:05:15.573671Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Manchester City will travel to east Asia for Enzo Maresca\u2019s first games in charge as managerSome players remain on holiday after a gruelling FIFA World Cup campaign in North AmericaCity face Inter, ...",
-      "timestamp": "2026-07-29T18:07:12.364897Z",
+      "timestamp": "2026-07-29T20:05:15.573730Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +206,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "The\u00a0FIFA World Cup\u00a0is officially up for sale. Yes, you read that right. In a bombshell report from Martyn Zielgler of\u00a0The Times, he reveals that FIFA is in talks to sell off stakes of the legendary World Cup to American venture capital firm Thrive Eternal, wh\u2026",
-      "timestamp": "2026-07-29T18:07:12.364954Z",
+      "timestamp": "2026-07-29T20:05:15.573803Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "What's next for the stars of Brazil after their 2026 World Cup run?",
-      "timestamp": "2026-07-29T18:07:12.364979Z",
+      "timestamp": "2026-07-29T20:05:15.573837Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "So what's next for the players who led Paraguay to the last 16?",
-      "timestamp": "2026-07-29T18:07:12.365023Z",
+      "timestamp": "2026-07-29T20:05:15.573898Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup was a sensational financial success for FIFA, and it is set to continue cashing in as Gianni Infantino announced a new pending subsidiary to generate further revenue for the governing body.",
-      "timestamp": "2026-07-29T18:07:12.365044Z",
+      "timestamp": "2026-07-29T20:05:15.573928Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain defender Marc Cucurella fulfilled a promise with a new tattoo of national team coach Luis de la Fuente after winning the 2026 World Cup.",
-      "timestamp": "2026-07-29T18:07:12.365060Z",
+      "timestamp": "2026-07-29T20:05:15.573953Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "So what\u2019s next for the players who led Ghana to the last 32?",
-      "timestamp": "2026-07-29T18:07:12.365075Z",
+      "timestamp": "2026-07-29T20:05:15.573975Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's where to find the stars of Australia after their 2026 FIFA World Cup exit.",
-      "timestamp": "2026-07-29T18:07:12.365087Z",
+      "timestamp": "2026-07-29T20:05:15.573993Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's what's next for DR Congo's stars after the 2026 World Cup.",
-      "timestamp": "2026-07-29T18:07:12.365110Z",
+      "timestamp": "2026-07-29T20:05:15.574026Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Goalkeeper Matt Freese admits he's not quite gotten over the United States' abrupt exit from the 2026 World Cup following a 4-1 loss to Belgium in the round of 16. \u201cBig losses in tough moments are things you never really get over because they stay with you fo\u2026",
-      "timestamp": "2026-07-29T18:07:12.365163Z",
+      "timestamp": "2026-07-29T20:05:15.574102Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Rick Ross joins Lior Suchard & Pininfarina on EnSima Miami I, a $593/SF Miami Gardens development near Hard Rock Stadium. Sales open Sept 2026....",
-      "timestamp": "2026-07-29T18:07:12.365221Z",
+      "timestamp": "2026-07-29T20:05:15.574182Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "IFAB admits VAR made a mistake in sending off Switzerland\u2019s Breel Embolo during the 2026 World Cup quarter-final, clarifying protocol misapplication.\n\nRead More: https://punchng.com/ifab-says-var-made-mistake-in-embolos-world-cup-red-card/",
-      "timestamp": "2026-07-29T18:07:12.365278Z",
+      "timestamp": "2026-07-29T20:05:15.574264Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Roberto Mancini has been named as Italy's head coach for a second spell in charge, replacing Gennaro Gattuso, who failed to guide the Azzurri to the 2026 FIFA World Cup",
-      "timestamp": "2026-07-29T18:07:12.365295Z",
+      "timestamp": "2026-07-29T20:05:15.574289Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Coca-Cola's shares rose over 6% after surpassing Q2 expectations, driven by global volume growth and FIFA World Cup marketing, leading to an upward revision of its 2026 financial outlook.",
-      "timestamp": "2026-07-29T18:07:12.365341Z",
+      "timestamp": "2026-07-29T20:05:15.574358Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The International Football Association Board (IFAB) has issued a clarification on the use of the Video Assistant Referee (VAR) following controversial officiating decisions at the 2026 FIFA World Cup.\nThe post World Cup: IFAB admits VAR error after controvers\u2026",
-      "timestamp": "2026-07-29T18:07:12.365365Z",
+      "timestamp": "2026-07-29T20:05:15.574392Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Uber fares peaked 62% above baseline, while the World Cup Final produced the tournament's most expensive rideshare night NEW YORK, July 28, 2026 /PRNewswire/ -- World Cup fans faced significantly higher rideshare prices on match days, particularly for riders \u2026",
-      "timestamp": "2026-07-29T18:07:12.365407Z",
+      "timestamp": "2026-07-29T20:05:15.574425Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spanish soccer star Marc Cucurella\u00a0has followed through on his bold promise to get manager\u00a0Luis De La Fuente\u2019s face tattooed on him if the country won the 2026 FIFA World Cup. Cucurella, who starred as the starting left back for Spain, made the bold promise b\u2026",
-      "timestamp": "2026-07-29T18:07:12.365446Z",
+      "timestamp": "2026-07-29T20:05:15.574479Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India failed to qualify for next year's Asian Cup, making a FIFA World Cup 2030 or 2034 appearance unlikely.",
-      "timestamp": "2026-07-29T18:07:12.365459Z",
+      "timestamp": "2026-07-29T20:05:15.574497Z",
       "links": [
         {
           "label": "Source",
@@ -402,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "June TABC receipts show Dallas bars and restaurants saw a single-digit percentage bump in booze sales during the World Cup.",
-      "timestamp": "2026-07-29T18:07:12.365517Z",
+      "timestamp": "2026-07-29T20:05:15.574577Z",
       "links": [
         {
           "label": "Source",
@@ -416,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup highlights the critical role of goalkeepers, emphasizing defensive prowess as a key factor in tournament success.\nThe post Camilo Vargas and Mike Maignan lead the pack with 4 clean sheets each at the 2026 FIFA World Cup appeared first on Cr\u2026",
-      "timestamp": "2026-07-29T18:07:12.365694Z",
+      "timestamp": "2026-07-29T20:05:15.574786Z",
       "links": [
         {
           "label": "Source",
@@ -430,44 +472,61 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "MIAMI, July 28, 2026 /PRNewswire/ -- As the FIFA World Cup 2026 comes to an end, Miami-based Link.Me is emerging as one of the tournament's biggest behind-the-scenes winners. FIFA selected Link.Me as the centralized social destination connecting fans from Ins\u2026",
-      "timestamp": "2026-07-29T18:07:12.365781Z",
+      "timestamp": "2026-07-29T20:05:15.574966Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.prnewswire.com/news-releases/as-fifa-world-cup-2026-ends-linkme-the-creator-commerce-operating-system-has-become-one-of-the-biggest-winners-302835848.html"
         }
       ]
-    },
-    {
-      "title": "From $9K to massive paycheck: How the 2026 FIFA World Cup changed Vozinha\u2019s life forever",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Cape Verde goalkeeper Vozinha has agreed to join Chilean giants Colo-Colo on an 18-month deal following his breakout performances at the 2026 World Cup, where he helped his country reach the knockout stage for the first time. Reportedly, his new salary has go\u2026",
-      "timestamp": "2026-07-29T18:07:12.366013Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/international-sports/from-9k-to-massive-paycheck-how-the-2026-fifa-world-cup-changed-vozinhas-life-forever/articleshow/132683506.cms"
-        }
-      ]
-    },
-    {
-      "title": "Manchester City issue club statement on Rodri",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Rodri has undergone successful minor surgery on his back, Manchester City have confirmed.The procedure has been undertaken off the back of a hugely successful summer at the FIFA World Cup with Spain, ...",
-      "timestamp": "2026-07-29T18:07:12.366114Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cityxtra.co.uk/50376/manchester-city-issue-club-statement-on-rodri/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 29",
+      "loc": "Global",
+      "event": "Liverpool deal for \u00a377m FIFA World Cup-winning forward within reach",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/liverpool-transfer-news-athletic-club-nico-williams-ps77m-fifa-world-cup-winning-forward-within-reach/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 29",
+      "loc": "Global",
+      "event": "2026 World Cup MVP Rodrigo Hernandez reportedly turns down PSG move eyeing his arrival to Real Madrid",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/2026-world-cup-mvp-rodrigo-hernandez-reportedly-turns-down-psg-move-eyeing-his-arrival-to-real-madrid/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 29",
+      "loc": "Global",
+      "event": "\u2018This crosses a line\u2019: UEFA responds to FIFA President\u2019s \u2018scheme\u2019 involving \u2018corrupt Trump family\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/uefa-responds-to-gianni-infantino-selling-stake-private-investors.html"
+        }
+      ]
+    },
     {
       "date": "Jul 29",
       "loc": "Global",
@@ -797,37 +856,7 @@
           "url": "https://www.prnewswire.com/news-releases/as-fifa-world-cup-2026-ends-linkme-the-creator-commerce-operating-system-has-become-one-of-the-biggest-winners-302835848.html"
         }
       ]
-    },
-    {
-      "date": "Jul 29",
-      "loc": "Global",
-      "event": "From $9K to massive paycheck: How the 2026 FIFA World Cup changed Vozinha\u2019s life forever",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/international-sports/from-9k-to-massive-paycheck-how-the-2026-fifa-world-cup-changed-vozinhas-life-forever/articleshow/132683506.cms"
-        }
-      ]
-    },
-    {
-      "date": "Jul 29",
-      "loc": "Global",
-      "event": "Manchester City issue club statement on Rodri",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cityxtra.co.uk/50376/manchester-city-issue-club-statement-on-rodri/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-29T18:07:12.366278Z"
+  "lastUpdated": "2026-07-29T20:05:15.575262Z"
 }
