@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 2,
     "p2": 0,
-    "p3": 26
+    "p3": 27
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "Tracking Over 35,000 Fake Sites in the 2026 World Cup Scam Wave",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Between January and June 2026, TrendAI\u2122 tracked more than 35,000 fake sites exploiting the 2026 FIFA World Cup, spanning counterfeit merchandise shops, cloned ticket pages, and bogus free-streaming sites, which together drew roughly 1.48 million visits from J\u2026",
+      "timestamp": "2026-07-30T01:08:54.772232Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.trendmicro.com/en_us/research/26/g/tracking-fake-sites-in-the-2026-world-cup-scam-wave.html"
+        }
+      ]
+    },
+    {
+      "title": "MLS Player Tim Ream Shares How Parenthood Influenced Team Captain Role",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "USMNT player Tim Ream nailed his goal of being a successful team captain thanks to his three kids.\u00a0\nThe Charlotte FC defender\u2014who captained the U.S. team during the FIFA World Cup 2026\u2014scored tips...",
+      "timestamp": "2026-07-30T01:08:54.772307Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.eonline.com/news/1434447/usmnts-tim-ream-shares-how-parenthood-impacted-world-cup-team-captain-role"
+        }
+      ]
+    },
+    {
       "title": "What's Next For USA After 2026 World Cup? Jozy Altidore, Clint Dempsey Weigh In",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "USA legends-turned-World Cup broadcasters Jozy Altidore and Clint Dempsey weigh in on the tournament's legacy.",
-      "timestamp": "2026-07-29T23:49:42.207431Z",
+      "timestamp": "2026-07-30T01:08:54.772354Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The acclaimed Houston personality posted video of herself sitting in a luxury suite at the 72,000-seat NRG Stadium, alongside her parents, at the sporting event.",
-      "timestamp": "2026-07-29T23:49:42.207718Z",
+      "timestamp": "2026-07-30T01:08:54.772541Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain brought the curtain down on an epic World Cup when they held their nerve to beat a physical Argentina side 1-0 at MetLife Stadium on July 19th, and truth be told, the best team won. La Roja didn't concede a single shot on target throughout the two-hour \u2026",
-      "timestamp": "2026-07-29T23:49:42.207901Z",
+      "timestamp": "2026-07-30T01:08:54.772644Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Son Heung-min and Sebastian Berhalter are two of the most prominent names that'll take part of the MLS-Liga MX All-Star Game while having participated in the 2026 World Cup. \nThe annual showcase pitting MLS against Liga MX is right around the corner, set to b\u2026",
-      "timestamp": "2026-07-29T23:49:42.207958Z",
+      "timestamp": "2026-07-30T01:08:54.772681Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Rodri enhanced his reputation with his performances for Spain at the 2026 FIFA World Cup. He led Spain to World Cup glory and his performances during the latter stages of the tournament reminded every...",
-      "timestamp": "2026-07-29T23:49:42.208000Z",
+      "timestamp": "2026-07-30T01:08:54.772708Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +234,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "Big changes are coming to the Liverpool attack during the current transfer window. Mohamed Salah has left the club with an agreement reached to rip up his \u00a3400k per week contract one year early. He c...",
-      "timestamp": "2026-07-29T23:49:42.208219Z",
+      "timestamp": "2026-07-30T01:08:54.772869Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Rodrigo Hernandez comes from having an impressive 2026 World Cup, winning the MVP award. After this, he seems determined to leave Manchester City, receiving attention from PSG. However, he has reportedly decided to reject the offer, setting his sights on Real\u2026",
-      "timestamp": "2026-07-29T23:49:42.208356Z",
+      "timestamp": "2026-07-30T01:08:54.773004Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup proved to be a controversial one. The United States joined Canada and Mexico as a host nation for the event, but it was the only country that saw its President, Donald Trump, involve himself in the goings-on on the pitch. By his own ad\u2026",
-      "timestamp": "2026-07-29T23:49:42.208455Z",
+      "timestamp": "2026-07-30T01:08:54.773098Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A general view of the FIFA World Cup 2026 Final signage at New York New Jersey Stadium ahead of the FIFA World Cup 2026 Final on July 17, 2026 in New York City.\n \n\nBoth states had undertaken significant preparations ahead of the global tournament, which was e\u2026",
-      "timestamp": "2026-07-29T23:49:42.208640Z",
+      "timestamp": "2026-07-30T01:08:54.773295Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Manchester City will travel to east Asia for Enzo Maresca\u2019s first games in charge as managerSome players remain on holiday after a gruelling FIFA World Cup campaign in North AmericaCity face Inter, ...",
-      "timestamp": "2026-07-29T23:49:42.208696Z",
+      "timestamp": "2026-07-30T01:08:54.773352Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +304,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "The\u00a0FIFA World Cup\u00a0is officially up for sale. Yes, you read that right. In a bombshell report from Martyn Zielgler of\u00a0The Times, he reveals that FIFA is in talks to sell off stakes of the legendary World Cup to American venture capital firm Thrive Eternal, wh\u2026",
-      "timestamp": "2026-07-29T23:49:42.208769Z",
+      "timestamp": "2026-07-30T01:08:54.773425Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "What's next for the stars of Brazil after their 2026 World Cup run?",
-      "timestamp": "2026-07-29T23:49:42.208804Z",
+      "timestamp": "2026-07-30T01:08:54.773461Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "So what's next for the players who led Paraguay to the last 16?",
-      "timestamp": "2026-07-29T23:49:42.208868Z",
+      "timestamp": "2026-07-30T01:08:54.773521Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup was a sensational financial success for FIFA, and it is set to continue cashing in as Gianni Infantino announced a new pending subsidiary to generate further revenue for the governing body.",
-      "timestamp": "2026-07-29T23:49:42.208918Z",
+      "timestamp": "2026-07-30T01:08:54.773551Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain defender Marc Cucurella fulfilled a promise with a new tattoo of national team coach Luis de la Fuente after winning the 2026 World Cup.",
-      "timestamp": "2026-07-29T23:49:42.208940Z",
+      "timestamp": "2026-07-30T01:08:54.773576Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "So what\u2019s next for the players who led Ghana to the last 32?",
-      "timestamp": "2026-07-29T23:49:42.208960Z",
+      "timestamp": "2026-07-30T01:08:54.773598Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's where to find the stars of Australia after their 2026 FIFA World Cup exit.",
-      "timestamp": "2026-07-29T23:49:42.208983Z",
+      "timestamp": "2026-07-30T01:08:54.773617Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's what's next for DR Congo's stars after the 2026 World Cup.",
-      "timestamp": "2026-07-29T23:49:42.209015Z",
+      "timestamp": "2026-07-30T01:08:54.773648Z",
       "links": [
         {
           "label": "Source",
@@ -388,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Goalkeeper Matt Freese admits he's not quite gotten over the United States' abrupt exit from the 2026 World Cup following a 4-1 loss to Belgium in the round of 16. \u201cBig losses in tough moments are things you never really get over because they stay with you fo\u2026",
-      "timestamp": "2026-07-29T23:49:42.209087Z",
+      "timestamp": "2026-07-30T01:08:54.773722Z",
       "links": [
         {
           "label": "Source",
@@ -402,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Rick Ross joins Lior Suchard & Pininfarina on EnSima Miami I, a $593/SF Miami Gardens development near Hard Rock Stadium. Sales open Sept 2026....",
-      "timestamp": "2026-07-29T23:49:42.209165Z",
+      "timestamp": "2026-07-30T01:08:54.773806Z",
       "links": [
         {
           "label": "Source",
@@ -416,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "IFAB admits VAR made a mistake in sending off Switzerland\u2019s Breel Embolo during the 2026 World Cup quarter-final, clarifying protocol misapplication.\n\nRead More: https://punchng.com/ifab-says-var-made-mistake-in-embolos-world-cup-red-card/",
-      "timestamp": "2026-07-29T23:49:42.209246Z",
+      "timestamp": "2026-07-30T01:08:54.773886Z",
       "links": [
         {
           "label": "Source",
@@ -430,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Roberto Mancini has been named as Italy's head coach for a second spell in charge, replacing Gennaro Gattuso, who failed to guide the Azzurri to the 2026 FIFA World Cup",
-      "timestamp": "2026-07-29T23:49:42.209268Z",
+      "timestamp": "2026-07-30T01:08:54.773909Z",
       "links": [
         {
           "label": "Source",
@@ -444,7 +472,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Coca-Cola's shares rose over 6% after surpassing Q2 expectations, driven by global volume growth and FIFA World Cup marketing, leading to an upward revision of its 2026 financial outlook.",
-      "timestamp": "2026-07-29T23:49:42.209332Z",
+      "timestamp": "2026-07-30T01:08:54.774020Z",
       "links": [
         {
           "label": "Source",
@@ -458,7 +486,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The International Football Association Board (IFAB) has issued a clarification on the use of the Video Assistant Referee (VAR) following controversial officiating decisions at the 2026 FIFA World Cup.\nThe post World Cup: IFAB admits VAR error after controvers\u2026",
-      "timestamp": "2026-07-29T23:49:42.209366Z",
+      "timestamp": "2026-07-30T01:08:54.774068Z",
       "links": [
         {
           "label": "Source",
@@ -472,7 +500,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Uber fares peaked 62% above baseline, while the World Cup Final produced the tournament's most expensive rideshare night NEW YORK, July 28, 2026 /PRNewswire/ -- World Cup fans faced significantly higher rideshare prices on match days, particularly for riders \u2026",
-      "timestamp": "2026-07-29T23:49:42.209429Z",
+      "timestamp": "2026-07-30T01:08:54.774112Z",
       "links": [
         {
           "label": "Source",
@@ -486,7 +514,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spanish soccer star Marc Cucurella\u00a0has followed through on his bold promise to get manager\u00a0Luis De La Fuente\u2019s face tattooed on him if the country won the 2026 FIFA World Cup. Cucurella, who starred as the starting left back for Spain, made the bold promise b\u2026",
-      "timestamp": "2026-07-29T23:49:42.209496Z",
+      "timestamp": "2026-07-30T01:08:54.774185Z",
       "links": [
         {
           "label": "Source",
@@ -500,32 +528,48 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India failed to qualify for next year's Asian Cup, making a FIFA World Cup 2030 or 2034 appearance unlikely.",
-      "timestamp": "2026-07-29T23:49:42.209521Z",
+      "timestamp": "2026-07-30T01:08:54.774235Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.aljazeera.com/sports/2026/7/28/fifa-world-cup-for-india-football-qualification-is-still-just-a-distant-dream"
         }
       ]
-    },
-    {
-      "title": "6 matches, $8.4M in booze: AT&T Stadium broke its record, but did Dallas profit from FIFA?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "June TABC receipts show Dallas bars and restaurants saw a single-digit percentage bump in booze sales during the World Cup.",
-      "timestamp": "2026-07-29T23:49:42.209617Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.dallasobserver.com/food-drink/world-cup-dallas-alcohol-sales-june-2026-40699740/"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
+      "loc": "Global",
+      "event": "Tracking Over 35,000 Fake Sites in the 2026 World Cup Scam Wave",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.trendmicro.com/en_us/research/26/g/tracking-fake-sites-in-the-2026-world-cup-scam-wave.html"
+        }
+      ]
+    },
+    {
+      "date": "Jul 30",
+      "loc": "Global",
+      "event": "MLS Player Tim Ream Shares How Parenthood Influenced Team Captain Role",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.eonline.com/news/1434447/usmnts-tim-ream-shares-how-parenthood-impacted-world-cup-team-captain-role"
+        }
+      ]
+    },
+    {
+      "date": "Jul 30",
       "loc": "Global",
       "event": "What's Next For USA After 2026 World Cup? Jozy Altidore, Clint Dempsey Weigh In",
       "type": "News",
@@ -540,7 +584,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Houston",
       "event": "Famous TV anchor posted selfies at Bruno Mars concert and World Cup game... now she's in deep trouble",
       "type": "News",
@@ -555,7 +599,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "New York / New Jersey",
       "event": "Three World Cup Stars That Are Still Without a Club",
       "type": "News",
@@ -570,7 +614,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "Son Heung-min, Sebastian Berhalter and more: Which 2026 World Cup players will feature in the MLS-Liga MX All-Star Game?",
       "type": "News",
@@ -585,7 +629,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "An update has emerged on the fitness of a Manchester City mainstay, but his future remains in doubt",
       "type": "News",
@@ -600,7 +644,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "Liverpool deal for \u00a377m FIFA World Cup-winning forward within reach",
       "type": "News",
@@ -615,7 +659,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "2026 World Cup MVP Rodrigo Hernandez reportedly turns down PSG move eyeing his arrival to Real Madrid",
       "type": "News",
@@ -630,7 +674,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "\u2018This crosses a line\u2019: UEFA responds to FIFA President\u2019s \u2018scheme\u2019 involving \u2018corrupt Trump family\u2019",
       "type": "News",
@@ -645,7 +689,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "Human trafficking enforcement during World Cup yields more than 150 arrests in NY and NJ",
       "type": "News",
@@ -660,7 +704,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "Manchester City confirm 28-man travelling squad for pre-season tour of Hong Kong and South Korea",
       "type": "News",
@@ -675,7 +719,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "FIFA President Gianni Infantino Is Trying To Sell The World Cup To Associates Of Donald Trump To Enrich Himself",
       "type": "News",
@@ -690,7 +734,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "Where To Find Brazil's Stars After The 2026 FIFA World Cup",
       "type": "News",
@@ -705,7 +749,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "Where To Find Paraguay's Stars After The 2026 FIFA World Cup",
       "type": "News",
@@ -720,7 +764,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "Is FIFA selling the World Cup? What to know about Gianni Infantino investment plan UEFA says 'crosses a line'",
       "type": "News",
@@ -735,7 +779,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "Spain's Marc Cucurella keeps promise with tattoo of coach after World Cup win",
       "type": "News",
@@ -750,7 +794,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "Where To Find The Stars Of Ghana After The 2026 FIFA World Cup",
       "type": "News",
@@ -765,7 +809,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "Where To Find The Stars Of Australia After The 2026 FIFA World Cup",
       "type": "News",
@@ -780,7 +824,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "How To Watch DR Congo's Stars After The 2026 World Cup",
       "type": "News",
@@ -795,7 +839,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "US goalkeeper Matt Freese says he'll never get over his team's loss to Belgium in the World Cup",
       "type": "News",
@@ -810,7 +854,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Miami",
       "event": "UPDATE -- The Mentalist, The Boss, and the Legendary Italian Design House: Lior Suchard, Rick Ross, and Pininfarina Join Forces on EnSima Miami I",
       "type": "News",
@@ -825,7 +869,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "IFAB says VAR made mistake in Embolo\u2019s World Cup red card",
       "type": "News",
@@ -840,7 +884,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "Roberto Mancini returns as Italy boss with Claudio Ranieri also handed role",
       "type": "News",
@@ -855,7 +899,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "Coca-Cola Shares Surge Over 6% After Beating Q2 Expectations and Raising Full-Year Outlook",
       "type": "News",
@@ -870,7 +914,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "World Cup: IFAB admits VAR error after controversial Embolo red card against Argentina",
       "type": "News",
@@ -885,7 +929,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "New Analysis From Obi Finds World Cup Match Days Sent Rideshare Prices Surging Across Host Cities",
       "type": "News",
@@ -900,7 +944,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "Spain World Cup Star Marc Cucurella Follows Up On Promise To Get Tattoo Of Manager\u2019s Face",
       "type": "News",
@@ -915,7 +959,7 @@
       ]
     },
     {
-      "date": "Jul 29",
+      "date": "Jul 30",
       "loc": "Global",
       "event": "FIFA World Cup: For India, qualification is still just a distant dream",
       "type": "News",
@@ -928,22 +972,7 @@
           "url": "https://www.aljazeera.com/sports/2026/7/28/fifa-world-cup-for-india-football-qualification-is-still-just-a-distant-dream"
         }
       ]
-    },
-    {
-      "date": "Jul 29",
-      "loc": "Dallas",
-      "event": "6 matches, $8.4M in booze: AT&T Stadium broke its record, but did Dallas profit from FIFA?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.dallasobserver.com/food-drink/world-cup-dallas-alcohol-sales-june-2026-40699740/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-29T23:49:42.209776Z"
+  "lastUpdated": "2026-07-30T01:08:54.774404Z"
 }
