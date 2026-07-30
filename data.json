@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 13
+    "p3": 12
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "Seahawks stars advocate for grass surface at Lumen Field",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lumen Field used natural grass during the 2026 FIFA World Cup, but turf is used for Seahawks games.",
+      "timestamp": "2026-07-30T18:06:51.918871Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.fieldgulls.com/seattle-seahawks-news/171209/seahawks-stars-cooper-kupp-leonard-williams-advocate-grass-surface-lumen-field"
+        }
+      ]
+    },
+    {
+      "title": "Argentina face FIFA proceedings over Falklands banner and World Cup final actions",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA is opening disciplinary proceedings against Argentina for their actions during the 2026 World Cup; Argentina's breaches include the use of a banner displaying a message about the Falklands after their win over England.",
+      "timestamp": "2026-07-30T18:06:51.918983Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.skysports.com/football/news/32461/13568194/world-cup-2026-fifa-opens-disciplinary-proceedings-against-argentina-over-several-potential-breaches-including-falklands-banner"
+        }
+      ]
+    },
+    {
       "title": "What\u2019s Next for Lionel Messi?",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The GOAT is now 39. Despite appearing in his third FIFA World Cup final and putting up arguably his best-ever performance at the tournament, it\u2019s clear that the end of an era is approaching. The que...",
-      "timestamp": "2026-07-30T16:21:27.700388Z",
+      "timestamp": "2026-07-30T18:06:51.919036Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "MADRID, July 29, 2026 /PRNewswire/ -- The 2026 FIFA World Cup turned stadiums, airports, host cities and fan zones across US, Canada and Mexico into major testing grounds for telecommunications networks. New GSMA Intelligence research 'World Cup 2026: are ope\u2026",
-      "timestamp": "2026-07-30T16:21:27.700829Z",
+      "timestamp": "2026-07-30T18:06:51.919313Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "MADRID, July 29, 2026 /PRNewswire/ -- The 2026 FIFA World Cup turned stadiums, airports, host cities and fan zones across US, Canada and Mexico into major testing grounds for telecommunications networks. New GSMA Intelligence research 'World Cup 2026: are ope\u2026",
-      "timestamp": "2026-07-30T16:21:27.700866Z",
+      "timestamp": "2026-07-30T18:06:51.919335Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kevin De Bruyne will return to training with Napoli next week after his extended break following the 2026 World Cup, but reports in Italy suggest that an icy",
-      "timestamp": "2026-07-30T16:21:27.700895Z",
+      "timestamp": "2026-07-30T18:06:51.919354Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With the 2026 FIFA World Cup now in the rear view mirror and the U.S. national team is looking into the future of the program.",
-      "timestamp": "2026-07-30T16:21:27.700932Z",
+      "timestamp": "2026-07-30T18:06:51.919382Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The MLS All-Stars face the Liga MX All-Stars for the fifth time today. We'll see big stars like Thomas M\u00fcller, Son Heung-Min, and Petar Musa take the field. Here's how to watch it live.\nToday's the day. After a month of breathtaking FIFA World Cup soccer, thi\u2026",
-      "timestamp": "2026-07-30T16:21:27.700983Z",
+      "timestamp": "2026-07-30T18:06:51.919425Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Weeks after the World Cup, the fallout over racist incidents has sparked a global conversation about Argentina's long history of anti-Blackness and racial erasure.Read more...",
-      "timestamp": "2026-07-30T16:21:27.701152Z",
+      "timestamp": "2026-07-30T18:06:51.919532Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "How the proposed FIFA Forward Enterprise has drawn criticism, including from UEFA and new United Kingdom Prime Minister.",
-      "timestamp": "2026-07-30T16:21:27.701200Z",
+      "timestamp": "2026-07-30T18:06:51.919567Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Brazilian football star Neymar Jr. has officially announced his retirement from international football, ending a 16-year career with the Sele\u00e7\u00e3o following the country's exit from the 2026 FIFA World Cup.\nThe post \u2018My time with Brazil is over\u2019 \u2013 Neymar retires\u2026",
-      "timestamp": "2026-07-30T16:21:27.701316Z",
+      "timestamp": "2026-07-30T18:06:51.919673Z",
       "links": [
         {
           "label": "Source",
@@ -262,58 +290,46 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This past summer\u2019s World Cup sparked a global viewing frenzy, and a lot of us upgraded our screens to keep up with it. As an Official Sponsor of the FIFA World Cup 2026\u2122, Hisense\u2019s U6SF Pro was built for exactly..\nThe post Hisense U6SF Pro review: living with\u2026",
-      "timestamp": "2026-07-30T16:21:27.701445Z",
+      "timestamp": "2026-07-30T18:06:51.919779Z",
       "links": [
         {
           "label": "Source",
           "url": "https://thegadgetflow.com/blog/hisense-u6sf-pro-review/"
         }
       ]
-    },
-    {
-      "title": "Marc Cucurella fulfils insane Luis de la Fuente tattoo promise after Spain won 2026 FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spanish defender Marc Cucurella proves he\u2019s a man of his word after World Cup triumph. Winning the FIFA World Cup is the greatest achievement for any soccer star around the globe.",
-      "timestamp": "2026-07-30T16:21:27.701869Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/marc-cucurella-fulfils-insane-luis-de-la-fuente-tattoo-promise-after-spain-won-2026-fifa-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "W\u2019Cup: iLOTBET hands winner N150m house, rewards others",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "iLOTBET fulfills its promise, awarding a N150m house to a lucky winner and other prizes in its 2026 FIFA World Cup promotion. Learn more about iLOTBET\u2019s co\n\nRead More: https://punchng.com/wcup-ilotbet-hands-winner-n150m-house-rewards-others/",
-      "timestamp": "2026-07-30T16:21:27.702046Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/wcup-ilotbet-hands-winner-n150m-house-rewards-others/"
-        }
-      ]
-    },
-    {
-      "title": "Fifa World Cup: Infantino accused over private investors - Opinion",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "OPINION: Fifa's World Cup is being sold to outside investors.",
-      "timestamp": "2026-07-30T16:21:27.702101Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nzherald.co.nz/sport/football/football-world-cup/fifa-world-cup-infantino-accused-over-private-investors-opinion/DXBEQ7TQJ5AEHPJFWQI56ZZAZA/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 30",
+      "loc": "Seattle",
+      "event": "Seahawks stars advocate for grass surface at Lumen Field",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.fieldgulls.com/seattle-seahawks-news/171209/seahawks-stars-cooper-kupp-leonard-williams-advocate-grass-surface-lumen-field"
+        }
+      ]
+    },
+    {
+      "date": "Jul 30",
+      "loc": "Global",
+      "event": "Argentina face FIFA proceedings over Falklands banner and World Cup final actions",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.skysports.com/football/news/32461/13568194/world-cup-2026-fifa-opens-disciplinary-proceedings-against-argentina-over-several-potential-breaches-including-falklands-banner"
+        }
+      ]
+    },
     {
       "date": "Jul 30",
       "loc": "Global",
@@ -463,52 +479,7 @@
           "url": "https://thegadgetflow.com/blog/hisense-u6sf-pro-review/"
         }
       ]
-    },
-    {
-      "date": "Jul 30",
-      "loc": "Global",
-      "event": "Marc Cucurella fulfils insane Luis de la Fuente tattoo promise after Spain won 2026 FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/marc-cucurella-fulfils-insane-luis-de-la-fuente-tattoo-promise-after-spain-won-2026-fifa-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 30",
-      "loc": "Global",
-      "event": "W\u2019Cup: iLOTBET hands winner N150m house, rewards others",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/wcup-ilotbet-hands-winner-n150m-house-rewards-others/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 30",
-      "loc": "Global",
-      "event": "Fifa World Cup: Infantino accused over private investors - Opinion",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nzherald.co.nz/sport/football/football-world-cup/fifa-world-cup-infantino-accused-over-private-investors-opinion/DXBEQ7TQJ5AEHPJFWQI56ZZAZA/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-30T16:21:27.702304Z"
+  "lastUpdated": "2026-07-30T18:06:51.920181Z"
 }
