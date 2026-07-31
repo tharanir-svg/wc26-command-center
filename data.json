@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 10
+    "p3": 12
   },
   "watchlist": [
     {
@@ -131,12 +131,54 @@
   ],
   "risks": [
     {
+      "title": "New ruling in Kalshi case signals that AG's lawsuit is imminent",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "ALBANY - TV commercials for the prediction market company Kalshi ran throughout this month's FIFA World Cup final match in New Jersey's MetLife Stadium. But a recent court ruling means the company is several steps closer to facing a lawsuit from the New York \u2026",
+      "timestamp": "2026-07-31T22:46:17.966090Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/0b19daf78422e0ec"
+        }
+      ]
+    },
+    {
+      "title": "Anchorage's Obed Vargas Sr. reflects on watching trailblazing son compete in World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Jul. 30\u2014The 2026 FIFA World Cup, which came to a close in mid-July, featured a Mexican men's national team that included Alaska's own Obed Vargas Jr. The memories his family made watching him play on the world's biggest stage for the first time will last them\u2026",
+      "timestamp": "2026-07-31T22:46:17.966153Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.adn.com/sports/2026/07/30/anchorages-obed-vargas-sr-reflects-on-watching-trailblazing-son-compete-in-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "World Cup boycott tracker: Updated list of nations taking action over Gianni Infantino and FIFA's sale plan",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The response to FIFA's plan to sell shares in the FIFA World Cup has been swift and aggressive, as multiple groups and entities around the world call on member nations to take firm action.",
+      "timestamp": "2026-07-31T22:46:17.966184Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/world-cup-boycott-list-nations-action-infantino-fifa-sale/2e060d19780e8a8dc7a593bc"
+        }
+      ]
+    },
+    {
       "title": "2027 ODI World Cup venues confirmed: Full list of 12 stadiums in South Africa, Zimbabwe and Namibia",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "ICC has announced the 12 host venues for the 2027 ODI World Cup in South Africa, Zimbabwe, and Namibia. Check the full list of stadiums and host cities.",
-      "timestamp": "2026-07-31T21:53:38.851385Z",
+      "timestamp": "2026-07-31T22:46:17.966821Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After taking his decision to retire, Slavko Vincic reflected on his performance at the 2026 World Cup and his conversation with Argentina's Lionel Messi. \nSlavko Vincic elected to walk away from officiating after taking center stage for the 2026 World Cup fin\u2026",
-      "timestamp": "2026-07-31T21:53:38.851537Z",
+      "timestamp": "2026-07-31T22:46:17.966947Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India will host five-time FIFA World Cup champions Brazil in a historic international friendly at the Vivekananda Yuba Bharati Krirangan in Kolkata on October 3, the All India Football Federation (AIFF) has announced.\nThe post Brazil to face India for first t\u2026",
-      "timestamp": "2026-07-31T21:53:38.851570Z",
+      "timestamp": "2026-07-31T22:46:17.966977Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The fan doesn\u2019t stop at liking their object, they co-create it in both social and artisanal modes. In soccer we might say: You don\u2019t become a fan when you think \u201csoy hincha de la selecc\u00edon,\u201d but when you sing it. Playing for the national team, for many, is th\u2026",
-      "timestamp": "2026-07-31T21:53:38.851633Z",
+      "timestamp": "2026-07-31T22:46:17.967056Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The province\u2019s World Cup exemptions show that remote work can be accommodated when governments decide it matters.",
-      "timestamp": "2026-07-31T21:53:38.851741Z",
+      "timestamp": "2026-07-31T22:46:17.967167Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Following the 2026 World Cup, Lionel Messi has returned to Inter Miami CF. Here's how to buy tickets to upcoming Inter Miami MLS games.",
-      "timestamp": "2026-07-31T21:53:38.851821Z",
+      "timestamp": "2026-07-31T22:46:17.967227Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Brazilian Football Confederation (CBF) has concluded the first operational phase of the CBF Media Center, a digital asset management (DAM) platform developed with sports tech company Yapoli. The t...",
-      "timestamp": "2026-07-31T21:53:38.852069Z",
+      "timestamp": "2026-07-31T22:46:17.967471Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ancelotti said his immediate priority is building a squad capable of challenging for the 2028 Copa America, rather than waiting until the 2030 FIFA World Cup.\nThe post Ancelotti ends Brazil careers of Casemiro, Danilo after Neymar retirement appeared first on\u2026",
-      "timestamp": "2026-07-31T21:53:38.852295Z",
+      "timestamp": "2026-07-31T22:46:17.967717Z",
       "links": [
         {
           "label": "Source",
@@ -248,30 +290,61 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Following his latest announcement, discussions have emerged over how one of the nation's greatest players could be honored after bringing an extraordinary international career to an end. \nNeymar\u2019s remarkable journey with Brazil may have reached its conclusion\u2026",
-      "timestamp": "2026-07-31T21:53:38.852383Z",
+      "timestamp": "2026-07-31T22:46:17.967773Z",
       "links": [
         {
           "label": "Source",
           "url": "https://worldsoccertalk.com/news/neymars-brazil-legacy-set-for-unforgettable-tribute-after-post-2026-world-cup-international-retirement-announcement/"
         }
       ]
-    },
-    {
-      "title": "What\u2019s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\n\nWhat\u2019s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Contai\u2026",
-      "timestamp": "2026-07-31T21:53:38.852463Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://css-tricks.com/whats-important-16/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 31",
+      "loc": "New York / New Jersey",
+      "event": "New ruling in Kalshi case signals that AG's lawsuit is imminent",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/0b19daf78422e0ec"
+        }
+      ]
+    },
+    {
+      "date": "Jul 31",
+      "loc": "Global",
+      "event": "Anchorage's Obed Vargas Sr. reflects on watching trailblazing son compete in World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.adn.com/sports/2026/07/30/anchorages-obed-vargas-sr-reflects-on-watching-trailblazing-son-compete-in-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 31",
+      "loc": "Global",
+      "event": "World Cup boycott tracker: Updated list of nations taking action over Gianni Infantino and FIFA's sale plan",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/world-cup-boycott-list-nations-action-infantino-fifa-sale/2e060d19780e8a8dc7a593bc"
+        }
+      ]
+    },
     {
       "date": "Jul 31",
       "loc": "Global",
@@ -406,22 +479,7 @@
           "url": "https://worldsoccertalk.com/news/neymars-brazil-legacy-set-for-unforgettable-tribute-after-post-2026-world-cup-international-retirement-announcement/"
         }
       ]
-    },
-    {
-      "date": "Jul 31",
-      "loc": "Global",
-      "event": "What\u2019s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://css-tricks.com/whats-important-16/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-31T21:53:38.852666Z"
+  "lastUpdated": "2026-07-31T22:46:17.967964Z"
 }
