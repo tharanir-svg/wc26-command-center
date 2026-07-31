@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 12
+    "p3": 11
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Andy Reid Breaks Silence on Chiefs\u2019 Controversial Arrowhead Exit With Message to Fans",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Andy Reid shared his thoughts on the Chiefs' planned departure from Arrowhead Stadium and had one message for concerned fans. The post Andy Reid Breaks Silence on Chiefs\u2019 Controversial Arrowhead Exit With Message to Fans appeared first on HEAVY.",
+      "timestamp": "2026-07-31T23:49:07.049209Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://heavy.com/sports/nfl/kansas-city-chiefs/andy-reid-addresses-arrowhead-exit/"
+        }
+      ]
+    },
+    {
       "title": "New ruling in Kalshi case signals that AG's lawsuit is imminent",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "ALBANY - TV commercials for the prediction market company Kalshi ran throughout this month's FIFA World Cup final match in New Jersey's MetLife Stadium. But a recent court ruling means the company is several steps closer to facing a lawsuit from the New York \u2026",
-      "timestamp": "2026-07-31T22:46:17.966090Z",
+      "timestamp": "2026-07-31T23:49:07.049289Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jul. 30\u2014The 2026 FIFA World Cup, which came to a close in mid-July, featured a Mexican men's national team that included Alaska's own Obed Vargas Jr. The memories his family made watching him play on the world's biggest stage for the first time will last them\u2026",
-      "timestamp": "2026-07-31T22:46:17.966153Z",
+      "timestamp": "2026-07-31T23:49:07.049317Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The response to FIFA's plan to sell shares in the FIFA World Cup has been swift and aggressive, as multiple groups and entities around the world call on member nations to take firm action.",
-      "timestamp": "2026-07-31T22:46:17.966184Z",
+      "timestamp": "2026-07-31T23:49:07.049338Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "ICC has announced the 12 host venues for the 2027 ODI World Cup in South Africa, Zimbabwe, and Namibia. Check the full list of stadiums and host cities.",
-      "timestamp": "2026-07-31T22:46:17.966821Z",
+      "timestamp": "2026-07-31T23:49:07.049826Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After taking his decision to retire, Slavko Vincic reflected on his performance at the 2026 World Cup and his conversation with Argentina's Lionel Messi. \nSlavko Vincic elected to walk away from officiating after taking center stage for the 2026 World Cup fin\u2026",
-      "timestamp": "2026-07-31T22:46:17.966947Z",
+      "timestamp": "2026-07-31T23:49:07.049924Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India will host five-time FIFA World Cup champions Brazil in a historic international friendly at the Vivekananda Yuba Bharati Krirangan in Kolkata on October 3, the All India Football Federation (AIFF) has announced.\nThe post Brazil to face India for first t\u2026",
-      "timestamp": "2026-07-31T22:46:17.966977Z",
+      "timestamp": "2026-07-31T23:49:07.049948Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The fan doesn\u2019t stop at liking their object, they co-create it in both social and artisanal modes. In soccer we might say: You don\u2019t become a fan when you think \u201csoy hincha de la selecc\u00edon,\u201d but when you sing it. Playing for the national team, for many, is th\u2026",
-      "timestamp": "2026-07-31T22:46:17.967056Z",
+      "timestamp": "2026-07-31T23:49:07.049996Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The province\u2019s World Cup exemptions show that remote work can be accommodated when governments decide it matters.",
-      "timestamp": "2026-07-31T22:46:17.967167Z",
+      "timestamp": "2026-07-31T23:49:07.050096Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Following the 2026 World Cup, Lionel Messi has returned to Inter Miami CF. Here's how to buy tickets to upcoming Inter Miami MLS games.",
-      "timestamp": "2026-07-31T22:46:17.967227Z",
+      "timestamp": "2026-07-31T23:49:07.050143Z",
       "links": [
         {
           "label": "Source",
@@ -262,44 +276,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Brazilian Football Confederation (CBF) has concluded the first operational phase of the CBF Media Center, a digital asset management (DAM) platform developed with sports tech company Yapoli. The t...",
-      "timestamp": "2026-07-31T22:46:17.967471Z",
+      "timestamp": "2026-07-31T23:49:07.050333Z",
       "links": [
         {
           "label": "Source",
           "url": "https://onefootball.com/en/news/cbf-teams-up-with-yapoli-tests-new-content-platform-at-2026-world-cup-43206921"
         }
       ]
-    },
-    {
-      "title": "Ancelotti ends Brazil careers of Casemiro, Danilo after Neymar retirement",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Ancelotti said his immediate priority is building a squad capable of challenging for the 2028 Copa America, rather than waiting until the 2030 FIFA World Cup.\nThe post Ancelotti ends Brazil careers of Casemiro, Danilo after Neymar retirement appeared first on\u2026",
-      "timestamp": "2026-07-31T22:46:17.967717Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/ancelotti-ends-brazil-careers-of-casemiro-danilo-after-neymar-retirement/"
-        }
-      ]
-    },
-    {
-      "title": "Neymar\u2019s Brazil legacy set for unforgettable tribute after post-2026 World Cup international retirement announcement",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Following his latest announcement, discussions have emerged over how one of the nation's greatest players could be honored after bringing an extraordinary international career to an end. \nNeymar\u2019s remarkable journey with Brazil may have reached its conclusion\u2026",
-      "timestamp": "2026-07-31T22:46:17.967773Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/neymars-brazil-legacy-set-for-unforgettable-tribute-after-post-2026-world-cup-international-retirement-announcement/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 31",
+      "loc": "Global",
+      "event": "Andy Reid Breaks Silence on Chiefs\u2019 Controversial Arrowhead Exit With Message to Fans",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://heavy.com/sports/nfl/kansas-city-chiefs/andy-reid-addresses-arrowhead-exit/"
+        }
+      ]
+    },
     {
       "date": "Jul 31",
       "loc": "New York / New Jersey",
@@ -449,37 +450,7 @@
           "url": "https://onefootball.com/en/news/cbf-teams-up-with-yapoli-tests-new-content-platform-at-2026-world-cup-43206921"
         }
       ]
-    },
-    {
-      "date": "Jul 31",
-      "loc": "Global",
-      "event": "Ancelotti ends Brazil careers of Casemiro, Danilo after Neymar retirement",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/ancelotti-ends-brazil-careers-of-casemiro-danilo-after-neymar-retirement/"
-        }
-      ]
-    },
-    {
-      "date": "Jul 31",
-      "loc": "Global",
-      "event": "Neymar\u2019s Brazil legacy set for unforgettable tribute after post-2026 World Cup international retirement announcement",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/neymars-brazil-legacy-set-for-unforgettable-tribute-after-post-2026-world-cup-international-retirement-announcement/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-31T22:46:17.967964Z"
+  "lastUpdated": "2026-07-31T23:49:07.050618Z"
 }
