@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 10
+    "p3": 12
   },
   "watchlist": [
     {
@@ -131,12 +131,54 @@
   ],
   "risks": [
     {
+      "title": "The Fan Zone",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The fan doesn\u2019t stop at liking their object, they co-create it in both social and artisanal modes. In soccer we might say: You don\u2019t become a fan when you think \u201csoy hincha de la selecc\u00edon,\u201d but when you sing it. Playing for the national team, for many, is th\u2026",
+      "timestamp": "2026-07-31T17:14:17.606477Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.nplusonemag.com/online-only/gooooaaal/the-fan-zone/"
+        }
+      ]
+    },
+    {
+      "title": "Ontario adjusted its return-to-office rules for FIFA World Cup traffic. Why are disability accommodations treated differently?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The province\u2019s World Cup exemptions show that remote work can be accommodated when governments decide it matters.",
+      "timestamp": "2026-07-31T17:14:17.606620Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://theconversation.com/ontario-adjusted-its-return-to-office-rules-for-fifa-world-cup-traffic-why-are-disability-accommodations-treated-differently-287664"
+        }
+      ]
+    },
+    {
+      "title": "Messi returns to Inter Miami CF, see upcoming tickets and how to buy tickets",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Following the 2026 World Cup, Lionel Messi has returned to Inter Miami CF. Here's how to buy tickets to upcoming Inter Miami MLS games.",
+      "timestamp": "2026-07-31T17:14:17.606687Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/shopping/sports/tickets/2026/07/30/how-to-buy-inter-miami-soccer-tickets-lionel-messi-mls-schedule/91105306007/"
+        }
+      ]
+    },
+    {
       "title": "CBF teams up with Yapoli, tests new content platform at 2026 World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Brazilian Football Confederation (CBF) has concluded the first operational phase of the CBF Media Center, a digital asset management (DAM) platform developed with sports tech company Yapoli. The t...",
-      "timestamp": "2026-07-31T15:51:46.668820Z",
+      "timestamp": "2026-07-31T17:14:17.606944Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ancelotti said his immediate priority is building a squad capable of challenging for the 2028 Copa America, rather than waiting until the 2030 FIFA World Cup.\nThe post Ancelotti ends Brazil careers of Casemiro, Danilo after Neymar retirement appeared first on\u2026",
-      "timestamp": "2026-07-31T15:51:46.669063Z",
+      "timestamp": "2026-07-31T17:14:17.607164Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Following his latest announcement, discussions have emerged over how one of the nation's greatest players could be honored after bringing an extraordinary international career to an end. \nNeymar\u2019s remarkable journey with Brazil may have reached its conclusion\u2026",
-      "timestamp": "2026-07-31T15:51:46.669124Z",
+      "timestamp": "2026-07-31T17:14:17.607249Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\n\nWhat\u2019s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Contai\u2026",
-      "timestamp": "2026-07-31T15:51:46.669206Z",
+      "timestamp": "2026-07-31T17:14:17.607349Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Everton are preparing to test Celtic\u2019s resolve with a \u00a310 million offer for Alistair Johnston, according to reports.Alistair Johnston of Canada in action during the FIFA World Cup 2026 Round Of 32 ...",
-      "timestamp": "2026-07-31T15:51:46.669404Z",
+      "timestamp": "2026-07-31T17:14:17.607614Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Sneakers worn by Justin Bieber during his 2026 FIFA World Cup final performance raised nearly $30K for a children's charity, BTS items raked in $300K.",
-      "timestamp": "2026-07-31T15:51:46.669577Z",
+      "timestamp": "2026-07-31T17:14:17.607866Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Anderson has missed games due to injuries twice in his NFL career. Both times, the injuries were suffered at MetLife Stadium.",
-      "timestamp": "2026-07-31T15:51:46.669878Z",
+      "timestamp": "2026-07-31T17:14:17.608316Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina\u2019s President, Javier Milei, has slammed outside forces for spreading an \u2018anti-Argentina\u2019 campaign during the 2026 FIFA World Cup. The 2026 World Cup has had its fair share of controversies, both on and off the field.",
-      "timestamp": "2026-07-31T15:51:46.669919Z",
+      "timestamp": "2026-07-31T17:14:17.608388Z",
       "links": [
         {
           "label": "Source",
@@ -248,30 +290,61 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Tom Brady has spent the summer of 2026 doing something more deliberate than any game plan he ever drew up. From the FIFA World Cup final at MetLife Stadium to an Alaska wilderness week to a Winter Olympics trip in Milan, the 48-year-old retired quarterback ha\u2026",
-      "timestamp": "2026-07-31T15:51:46.669956Z",
+      "timestamp": "2026-07-31T17:14:17.608525Z",
       "links": [
         {
           "label": "Source",
           "url": "https://timesofindia.indiatimes.com/sports/nfl/news/my-three-best-friends-how-tom-brady-is-quietly-rebuilding-his-world-around-jack-ben-and-vivian-after-walking-away-from-the-nfl/articleshow/132732626.cms"
         }
       ]
-    },
-    {
-      "title": "BTS' Jimin's World Cup final halftime shirt fetches $110,000 at US charity auction - The Korea Times",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "A shirt worn by BTS member Jimin during the halftime show of the 2026 FIFA World Cup final sold for $110,000, the highest price achieved at a chari...",
-      "timestamp": "2026-07-31T15:51:46.670224Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.koreatimes.co.kr/entertainment/20260730/bts-jimins-world-cup-final-halftime-shirt-fetches-110000-at-us-charity-auction"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Jul 31",
+      "loc": "Global",
+      "event": "The Fan Zone",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.nplusonemag.com/online-only/gooooaaal/the-fan-zone/"
+        }
+      ]
+    },
+    {
+      "date": "Jul 31",
+      "loc": "Global",
+      "event": "Ontario adjusted its return-to-office rules for FIFA World Cup traffic. Why are disability accommodations treated differently?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://theconversation.com/ontario-adjusted-its-return-to-office-rules-for-fifa-world-cup-traffic-why-are-disability-accommodations-treated-differently-287664"
+        }
+      ]
+    },
+    {
+      "date": "Jul 31",
+      "loc": "Global",
+      "event": "Messi returns to Inter Miami CF, see upcoming tickets and how to buy tickets",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/shopping/sports/tickets/2026/07/30/how-to-buy-inter-miami-soccer-tickets-lionel-messi-mls-schedule/91105306007/"
+        }
+      ]
+    },
     {
       "date": "Jul 31",
       "loc": "Global",
@@ -406,22 +479,7 @@
           "url": "https://timesofindia.indiatimes.com/sports/nfl/news/my-three-best-friends-how-tom-brady-is-quietly-rebuilding-his-world-around-jack-ben-and-vivian-after-walking-away-from-the-nfl/articleshow/132732626.cms"
         }
       ]
-    },
-    {
-      "date": "Jul 31",
-      "loc": "Global",
-      "event": "BTS' Jimin's World Cup final halftime shirt fetches $110,000 at US charity auction - The Korea Times",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.koreatimes.co.kr/entertainment/20260730/bts-jimins-world-cup-final-halftime-shirt-fetches-110000-at-us-charity-auction"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-31T15:51:46.670493Z"
+  "lastUpdated": "2026-07-31T17:14:17.608850Z"
 }
