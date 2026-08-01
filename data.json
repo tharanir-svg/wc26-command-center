@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 1,
-    "p3": 9
+    "p3": 10
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "Everyone hates FIFA\u2019s plan to sell the World Cup to private equity",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "This story appeared in\u00a0Today, Explained,\u00a0a daily newsletter that helps you understand the most compelling news and stories of the day.\u00a0Subscribe here. The 2026 FIFA World Cup wasn\u2019t perfect, but it was still pretty great. Legions of fans got to experience the\u2026",
+      "timestamp": "2026-08-01T21:42:49.380589Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vox.com/today-explained-newsletter/497484/fifa-world-cup-gianni-infantino-private-equity-uefa-boycott"
+        }
+      ]
+    },
+    {
+      "title": "How Ed Sheeran helped me handle World Cup final pressure \u2014 Burna Boy",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Grammy-winning Burna Boy reveals Ed Sheeran\u2019s crucial role in preparing him for the pressure of performing at the 2026 FIFA World Cup final.\n\nRead More: https://punchng.com/how-ed-sheeran-helped-me-handle-world-cup-final-pressure-burna-boy/",
+      "timestamp": "2026-08-01T21:42:49.380691Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/how-ed-sheeran-helped-me-handle-world-cup-final-pressure-burna-boy/"
+        }
+      ]
+    },
+    {
       "title": "\u2018How Ed Sheeran helped me land World Cup Song\u2019 \u2014 Burna Boy",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Grammy-winning Nigerian singer Burna Boy has revealed that British pop star Ed Sheeran played a key role in his feature with Shakira on the official 2026 FIFA World Cup anthem, Dai Dai.\nThe post \u2018How Ed Sheeran helped me land World Cup Song\u2019 \u2014 Burna Boy appea\u2026",
-      "timestamp": "2026-08-01T20:02:20.073551Z",
+      "timestamp": "2026-08-01T21:42:49.380872Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "If you watched the 2026 FIFA World Cup, you probably saw the now-familiar ritual: a goal, a celebration, then a referee touching an earpiece while fans and players wait for the verdict from the video assistant referee, or VAR.\nThat ritual is not unique to soc\u2026",
-      "timestamp": "2026-08-01T20:02:20.073936Z",
+      "timestamp": "2026-08-01T21:42:49.381212Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Carlos Cordeiro resigned as a FIFA senior adviser in protest of the plan to sell stakes in the World Cup to private equity investors, he said Friday.",
-      "timestamp": "2026-08-01T20:02:20.074169Z",
+      "timestamp": "2026-08-01T21:42:49.381442Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA\u2019s president wants to create a $20 billion commercial subsidiary to sell a 20% minority stake in the World Cup and other major tournament revenues to private equity investors.",
-      "timestamp": "2026-08-01T20:02:20.074307Z",
+      "timestamp": "2026-08-01T21:42:49.381574Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A 2-Day Flash Sale is live at Dick's Sporting Goods and it features discounts of up to 75% off on adidas sneakers, running shoes, sweaters, sports gear, and more. Some of the deals include the\u00a0adidas Samba OG shoes for $62.97 and the adidas FIFA World Cup 202\u2026",
-      "timestamp": "2026-08-01T20:02:20.074351Z",
+      "timestamp": "2026-08-01T21:42:49.381617Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Al Jazeera looks at the growing global opposition to FIFA President Gianni Infantino's private investment plan.",
-      "timestamp": "2026-08-01T20:02:20.074518Z",
+      "timestamp": "2026-08-01T21:42:49.381786Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "World Cup bets smash records as prediction markets hit $20 billion in volume\nMarkets ranged from the simple question of who would win the tournament to whether Cristiano Ronaldo would cry when Portugal were eliminated (he did).\n- The 2026 FIFA World Cup saw $\u2026",
-      "timestamp": "2026-08-01T20:02:20.074648Z",
+      "timestamp": "2026-08-01T21:42:49.381895Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "55 European soccer nations have threatened to boycott FIFA World Cup competitions over controversial private investment plans, as reports emerge that Gianni Infantino is losing support to remain as FIFA President",
-      "timestamp": "2026-08-01T20:02:20.074755Z",
+      "timestamp": "2026-08-01T21:42:49.381967Z",
       "links": [
         {
           "label": "Source",
@@ -248,30 +276,46 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup was a rousing success, but it wasn\u2019t perfect. One standout hiccup was the final venue: New York/New Jersey Stadium, aka MetLife, which simply wasn\u2019t up to the standards of ...",
-      "timestamp": "2026-08-01T20:02:20.075009Z",
+      "timestamp": "2026-08-01T21:42:49.382264Z",
       "links": [
         {
           "label": "Source",
           "url": "https://urbanpitch.com/why-metlife-stadium-was-the-worst-possible-choice-to-host-the-2026-world-cup-final/"
         }
       ]
-    },
-    {
-      "title": "Norwegian football chief warns of 'very serious' crisis over FIFA World Cup stake plan",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "OSLO, July 31 : FIFA's proposal to sell a stake in the World Cup has provoked a \"very serious situation\" for the game, Norwegian Football Federation president Lise Klaveness said on Friday.\u201cThis is a very serious situation for Norwegian and international foot\u2026",
-      "timestamp": "2026-08-01T20:02:20.075152Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.channelnewsasia.com/sport/norwegian-football-chief-warns-very-serious-crisis-over-fifa-world-cup-stake-plan-6291011"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 01",
+      "loc": "Global",
+      "event": "Everyone hates FIFA\u2019s plan to sell the World Cup to private equity",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vox.com/today-explained-newsletter/497484/fifa-world-cup-gianni-infantino-private-equity-uefa-boycott"
+        }
+      ]
+    },
+    {
+      "date": "Aug 01",
+      "loc": "Global",
+      "event": "How Ed Sheeran helped me handle World Cup final pressure \u2014 Burna Boy",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/how-ed-sheeran-helped-me-handle-world-cup-final-pressure-burna-boy/"
+        }
+      ]
+    },
     {
       "date": "Aug 01",
       "loc": "Global",
@@ -406,22 +450,7 @@
           "url": "https://urbanpitch.com/why-metlife-stadium-was-the-worst-possible-choice-to-host-the-2026-world-cup-final/"
         }
       ]
-    },
-    {
-      "date": "Aug 01",
-      "loc": "Global",
-      "event": "Norwegian football chief warns of 'very serious' crisis over FIFA World Cup stake plan",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.channelnewsasia.com/sport/norwegian-football-chief-warns-very-serious-crisis-over-fifa-world-cup-stake-plan-6291011"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-01T20:02:20.075411Z"
+  "lastUpdated": "2026-08-01T21:42:49.382392Z"
 }
