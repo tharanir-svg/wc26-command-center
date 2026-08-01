@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 2,
-    "p3": 9
+    "p2": 3,
+    "p3": 11
   },
   "watchlist": [
     {
@@ -131,12 +131,54 @@
   ],
   "risks": [
     {
+      "title": "Gianni Infantino adviser quits over FIFA World Cup stake sale plan",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "Carlos Cordeiro resigned as a FIFA senior adviser in protest of the plan to sell stakes in the World Cup to private equity investors, he said Friday.",
+      "timestamp": "2026-08-01T15:48:29.291496Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.upi.com/Sports_News/Soccer/2026/07/31/switzerland-Gianni-Infantino-advisor-resigns/8361785505944/"
+        }
+      ]
+    },
+    {
+      "title": "Can Infantino Get 106 Votes For FIFA World Cup Plan? Here\u2019s How Members Are Leaning",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA\u2019s president wants to create a $20 billion commercial subsidiary to sell a 20% minority stake in the World Cup and other major tournament revenues to private equity investors.",
+      "timestamp": "2026-08-01T15:48:29.291706Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/maryroeloffs/2026/07/31/can-infantino-get-106-votes-for-fifa-world-cup-plan-heres-how-members-are-leaning/"
+        }
+      ]
+    },
+    {
+      "title": "adidas 2-Day Flash Deals at Dick's Sporting Goods: Up to 75% off + free shipping w/ $49",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "A 2-Day Flash Sale is live at Dick's Sporting Goods and it features discounts of up to 75% off on adidas sneakers, running shoes, sweaters, sports gear, and more. Some of the deals include the\u00a0adidas Samba OG shoes for $62.97 and the adidas FIFA World Cup 202\u2026",
+      "timestamp": "2026-08-01T15:48:29.291765Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dealnews.com/adidas-2-Day-Flash-Deals-at-Dicks-Sporting-Goods-Up-to-75-off-free-shipping-w-49/21952921.html"
+        }
+      ]
+    },
+    {
       "title": "FIFA World Cup plan: Infantino tackles UEFA and global game \u2013 all to know",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Al Jazeera looks at the growing global opposition to FIFA President Gianni Infantino's private investment plan.",
-      "timestamp": "2026-08-01T14:18:02.653655Z",
+      "timestamp": "2026-08-01T15:48:29.291980Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "World Cup bets smash records as prediction markets hit $20 billion in volume\nMarkets ranged from the simple question of who would win the tournament to whether Cristiano Ronaldo would cry when Portugal were eliminated (he did).\n- The 2026 FIFA World Cup saw $\u2026",
-      "timestamp": "2026-08-01T14:18:02.653846Z",
+      "timestamp": "2026-08-01T15:48:29.292126Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "55 European soccer nations have threatened to boycott FIFA World Cup competitions over controversial private investment plans, as reports emerge that Gianni Infantino is losing support to remain as FIFA President",
-      "timestamp": "2026-08-01T14:18:02.653923Z",
+      "timestamp": "2026-08-01T15:48:29.292199Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 FIFA World Cup was a rousing success, but it wasn\u2019t perfect. One standout hiccup was the final venue: New York/New Jersey Stadium, aka MetLife, which simply wasn\u2019t up to the standards of ...",
-      "timestamp": "2026-08-01T14:18:02.654177Z",
+      "timestamp": "2026-08-01T15:48:29.292457Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "OSLO, July 31 : FIFA's proposal to sell a stake in the World Cup has provoked a \"very serious situation\" for the game, Norwegian Football Federation president Lise Klaveness said on Friday.\u201cThis is a very serious situation for Norwegian and international foot\u2026",
-      "timestamp": "2026-08-01T14:18:02.654300Z",
+      "timestamp": "2026-08-01T15:48:29.292576Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +248,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Follow all the latest on FIFA's controversial World Cup plot - with more nations publicly opposing Gianni Infantino's scheme, while his right-hand man has resigned in protest.",
-      "timestamp": "2026-08-01T14:18:02.654455Z",
+      "timestamp": "2026-08-01T15:48:29.292720Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +262,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Follow all the latest on FIFA's controversial World Cup plot - with more nations publicly opposing Gianni Infantino's scheme, while his right-hand man has resigned in protest.",
-      "timestamp": "2026-08-01T14:18:02.654483Z",
+      "timestamp": "2026-08-01T15:48:29.292741Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lamine Yamal's rise to winning the 2026 FIFA World Cup is inseparable from the story of the family that built him. His mother Sheila Ebana was 16 when she gave birth to him. His father Mounir, a Moroccan immigrant, worked construction and street jobs to stay \u2026",
-      "timestamp": "2026-08-01T14:18:02.654543Z",
+      "timestamp": "2026-08-01T15:48:29.292797Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Pressure is growing on FIFA and its president Gianni Infantino following proposals for private investment in World Cups.",
-      "timestamp": "2026-08-01T14:18:02.654656Z",
+      "timestamp": "2026-08-01T15:48:29.292906Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "We break down how the 2026 World Cup influenced activity on prediction market platforms. The event generated record trading volume on Polymarket and Kalshi. The...\nThe post 2026 FIFA World Cup Generated $20B on Prediction Markets Like Polymarket and Kalshi ap\u2026",
-      "timestamp": "2026-08-01T14:18:02.654875Z",
+      "timestamp": "2026-08-01T15:48:29.293112Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Less than two weeks since the conclusion of the FIFA World Cup 2026, soccer is once again front-page news thanks to a new private-investment proposal by FIFA president Gianni Infantino that's triggered significant backlash. Here's what you need to know.",
-      "timestamp": "2026-08-01T14:18:02.655044Z",
+      "timestamp": "2026-08-01T15:48:29.293290Z",
       "links": [
         {
           "label": "Source",
@@ -286,6 +328,51 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 01",
+      "loc": "Global",
+      "event": "Gianni Infantino adviser quits over FIFA World Cup stake sale plan",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.upi.com/Sports_News/Soccer/2026/07/31/switzerland-Gianni-Infantino-advisor-resigns/8361785505944/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 01",
+      "loc": "Global",
+      "event": "Can Infantino Get 106 Votes For FIFA World Cup Plan? Here\u2019s How Members Are Leaning",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/maryroeloffs/2026/07/31/can-infantino-get-106-votes-for-fifa-world-cup-plan-heres-how-members-are-leaning/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 01",
+      "loc": "Global",
+      "event": "adidas 2-Day Flash Deals at Dick's Sporting Goods: Up to 75% off + free shipping w/ $49",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dealnews.com/adidas-2-Day-Flash-Deals-at-Dicks-Sporting-Goods-Up-to-75-off-free-shipping-w-49/21952921.html"
+        }
+      ]
+    },
     {
       "date": "Aug 01",
       "loc": "Global",
@@ -452,5 +539,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-01T14:18:02.655738Z"
+  "lastUpdated": "2026-08-01T15:48:29.293614Z"
 }
