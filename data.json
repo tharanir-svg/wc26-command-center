@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 8
+    "p3": 6
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "2026 FIFA World Cup Generated $20B on Prediction Markets Like Polymarket and Kalshi",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "We break down how the 2026 World Cup influenced activity on prediction market platforms. The event generated record trading volume on Polymarket and Kalshi. The...\nThe post 2026 FIFA World Cup Generated $20B on Prediction Markets Like Polymarket and Kalshi ap\u2026",
+      "timestamp": "2026-08-01T09:46:49.338559Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://bitcoinfoundation.org/news/prediction-markets/fifa-2026-prediction-markets-outcome/"
+        }
+      ]
+    },
+    {
+      "title": "What you need to know about FIFA's private investment plan \u2014 and the backlash",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Less than two weeks since the conclusion of the FIFA World Cup 2026, soccer is once again front-page news thanks to a new private-investment proposal by FIFA president Gianni Infantino that's triggered significant backlash. Here's what you need to know.",
+      "timestamp": "2026-08-01T09:46:49.338740Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/sports/soccer/fifa-soccer-world-cup-uefa-boycott-ffe-private-investment-9.7291605"
+        }
+      ]
+    },
+    {
       "title": "Andy Reid Breaks Silence on Chiefs\u2019 Controversial Arrowhead Exit With Message to Fans",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Andy Reid shared his thoughts on the Chiefs' planned departure from Arrowhead Stadium and had one message for concerned fans. The post Andy Reid Breaks Silence on Chiefs\u2019 Controversial Arrowhead Exit With Message to Fans appeared first on HEAVY.",
-      "timestamp": "2026-08-01T07:55:29.198851Z",
+      "timestamp": "2026-08-01T09:46:49.339391Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "ALBANY - TV commercials for the prediction market company Kalshi ran throughout this month's FIFA World Cup final match in New Jersey's MetLife Stadium. But a recent court ruling means the company is several steps closer to facing a lawsuit from the New York \u2026",
-      "timestamp": "2026-08-01T07:55:29.198935Z",
+      "timestamp": "2026-08-01T09:46:49.339458Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jul. 30\u2014The 2026 FIFA World Cup, which came to a close in mid-July, featured a Mexican men's national team that included Alaska's own Obed Vargas Jr. The memories his family made watching him play on the world's biggest stage for the first time will last them\u2026",
-      "timestamp": "2026-08-01T07:55:29.198968Z",
+      "timestamp": "2026-08-01T09:46:49.339490Z",
       "links": [
         {
           "label": "Source",
@@ -178,72 +206,46 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The response to FIFA's plan to sell shares in the FIFA World Cup has been swift and aggressive, as multiple groups and entities around the world call on member nations to take firm action.",
-      "timestamp": "2026-08-01T07:55:29.198994Z",
+      "timestamp": "2026-08-01T09:46:49.339517Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.sportingnews.com/us/soccer/news/world-cup-boycott-list-nations-action-infantino-fifa-sale/2e060d19780e8a8dc7a593bc"
         }
       ]
-    },
-    {
-      "title": "2027 ODI World Cup venues confirmed: Full list of 12 stadiums in South Africa, Zimbabwe and Namibia",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "ICC has announced the 12 host venues for the 2027 ODI World Cup in South Africa, Zimbabwe, and Namibia. Check the full list of stadiums and host cities.",
-      "timestamp": "2026-08-01T07:55:29.199620Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cricketnews.com/en/cricket/news/2027-odi-world-cup-venues-full-list-12-stadiums-south-africa-zimbabwe-namibia/385465032163c021772c60d4"
-        }
-      ]
-    },
-    {
-      "title": "Slavko Vincic reflects on 2026 World Cup final and conversation with Lionel Messi after retirement",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "After taking his decision to retire, Slavko Vincic reflected on his performance at the 2026 World Cup and his conversation with Argentina's Lionel Messi. \nSlavko Vincic elected to walk away from officiating after taking center stage for the 2026 World Cup fin\u2026",
-      "timestamp": "2026-08-01T07:55:29.199744Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/slavko-vincic-reflects-on-2026-world-cup-final-and-conversation-with-lionel-messi-after-retirement/"
-        }
-      ]
-    },
-    {
-      "title": "Brazil to face India for first time in October 3 friendly",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "India will host five-time FIFA World Cup champions Brazil in a historic international friendly at the Vivekananda Yuba Bharati Krirangan in Kolkata on October 3, the All India Football Federation (AIFF) has announced.\nThe post Brazil to face India for first t\u2026",
-      "timestamp": "2026-08-01T07:55:29.199774Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/brazil-to-face-india-for-first-time-in-october-3-friendly/"
-        }
-      ]
-    },
-    {
-      "title": "The Fan Zone",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The fan doesn\u2019t stop at liking their object, they co-create it in both social and artisanal modes. In soccer we might say: You don\u2019t become a fan when you think \u201csoy hincha de la selecc\u00edon,\u201d but when you sing it. Playing for the national team, for many, is th\u2026",
-      "timestamp": "2026-08-01T07:55:29.199867Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nplusonemag.com/online-only/gooooaaal/the-fan-zone/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 01",
+      "loc": "Global",
+      "event": "2026 FIFA World Cup Generated $20B on Prediction Markets Like Polymarket and Kalshi",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://bitcoinfoundation.org/news/prediction-markets/fifa-2026-prediction-markets-outcome/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 01",
+      "loc": "Global",
+      "event": "What you need to know about FIFA's private investment plan \u2014 and the backlash",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/sports/soccer/fifa-soccer-world-cup-uefa-boycott-ffe-private-investment-9.7291605"
+        }
+      ]
+    },
     {
       "date": "Aug 01",
       "loc": "Global",
@@ -303,67 +305,7 @@
           "url": "https://www.sportingnews.com/us/soccer/news/world-cup-boycott-list-nations-action-infantino-fifa-sale/2e060d19780e8a8dc7a593bc"
         }
       ]
-    },
-    {
-      "date": "Aug 01",
-      "loc": "Global",
-      "event": "2027 ODI World Cup venues confirmed: Full list of 12 stadiums in South Africa, Zimbabwe and Namibia",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cricketnews.com/en/cricket/news/2027-odi-world-cup-venues-full-list-12-stadiums-south-africa-zimbabwe-namibia/385465032163c021772c60d4"
-        }
-      ]
-    },
-    {
-      "date": "Aug 01",
-      "loc": "Global",
-      "event": "Slavko Vincic reflects on 2026 World Cup final and conversation with Lionel Messi after retirement",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/world-cup/slavko-vincic-reflects-on-2026-world-cup-final-and-conversation-with-lionel-messi-after-retirement/"
-        }
-      ]
-    },
-    {
-      "date": "Aug 01",
-      "loc": "Global",
-      "event": "Brazil to face India for first time in October 3 friendly",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/07/brazil-to-face-india-for-first-time-in-october-3-friendly/"
-        }
-      ]
-    },
-    {
-      "date": "Aug 01",
-      "loc": "Global",
-      "event": "The Fan Zone",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nplusonemag.com/online-only/gooooaaal/the-fan-zone/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-01T07:55:29.200090Z"
+  "lastUpdated": "2026-08-01T09:46:49.340356Z"
 }
