@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 0,
-    "p3": 6
+    "p2": 2,
+    "p3": 9
   },
   "watchlist": [
     {
@@ -131,12 +131,82 @@
   ],
   "risks": [
     {
+      "title": "Norwegian football chief warns of 'very serious' crisis over FIFA World Cup stake plan",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "OSLO, July 31 : FIFA's proposal to sell a stake in the World Cup has provoked a \"very serious situation\" for the game, Norwegian Football Federation president Lise Klaveness said on Friday.\u201cThis is a very serious situation for Norwegian and international foot\u2026",
+      "timestamp": "2026-08-01T11:08:08.846315Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.channelnewsasia.com/sport/norwegian-football-chief-warns-very-serious-crisis-over-fifa-world-cup-stake-plan-6291011"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup plot LIVE: Gianni Infantino's controversial plan on the brink of collapse as senior advisor quits and more nations publicly oppose scheme - and more resignations could follow",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "Follow all the latest on FIFA's controversial World Cup plot - with more nations publicly opposing Gianni Infantino's scheme, while his right-hand man has resigned in protest.",
+      "timestamp": "2026-08-01T11:08:08.846454Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-16019339/FIFA-World-Cup-plot-LIVE-Gianni-Infantinos-controversial-plan-brink-collapse-senior-advisor-quits-nations-publicly-oppose-scheme-resignations-follow.html"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup plot LIVE: Gianni Infantino's controversial plan on the brink of collapse as senior advisor quits and more nations publicly oppose scheme - and more resignations could follow",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "Follow all the latest on FIFA's controversial World Cup plot - with more nations publicly opposing Gianni Infantino's scheme, while his right-hand man has resigned in protest.",
+      "timestamp": "2026-08-01T11:08:08.846478Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-16019339/FIFA-World-Cup-plot-LIVE-Gianni-Infantinos-controversial-plan-brink-collapse-senior-advisor-quits-nations-publicly-oppose-scheme-resignations-follow.html"
+        }
+      ]
+    },
+    {
+      "title": "How Lamine Yamal's mother having him at 16 and his father being stabbed three times shaped football's most emotional World Cup story",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lamine Yamal's rise to winning the 2026 FIFA World Cup is inseparable from the story of the family that built him. His mother Sheila Ebana was 16 when she gave birth to him. His father Mounir, a Moroccan immigrant, worked construction and street jobs to stay \u2026",
+      "timestamp": "2026-08-01T11:08:08.846526Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/international-sports/how-lamine-yamals-mother-having-him-at-16-and-his-father-being-stabbed-three-times-shaped-footballs-most-emotional-world-cup-story/articleshow/132762814.cms"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup plan fallout: Infantino\u2019s senior adviser, Cordeiro, resigns",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Pressure is growing on FIFA and its president Gianni Infantino following proposals for private investment in World Cups.",
+      "timestamp": "2026-08-01T11:08:08.846614Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/31/infantinos-senior-adviser-cordeiro-resigns-over-fifa-world-cup-plan"
+        }
+      ]
+    },
+    {
       "title": "2026 FIFA World Cup Generated $20B on Prediction Markets Like Polymarket and Kalshi",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "We break down how the 2026 World Cup influenced activity on prediction market platforms. The event generated record trading volume on Polymarket and Kalshi. The...\nThe post 2026 FIFA World Cup Generated $20B on Prediction Markets Like Polymarket and Kalshi ap\u2026",
-      "timestamp": "2026-08-01T09:46:49.338559Z",
+      "timestamp": "2026-08-01T11:08:08.846776Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Less than two weeks since the conclusion of the FIFA World Cup 2026, soccer is once again front-page news thanks to a new private-investment proposal by FIFA president Gianni Infantino that's triggered significant backlash. Here's what you need to know.",
-      "timestamp": "2026-08-01T09:46:49.338740Z",
+      "timestamp": "2026-08-01T11:08:08.846907Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Andy Reid shared his thoughts on the Chiefs' planned departure from Arrowhead Stadium and had one message for concerned fans. The post Andy Reid Breaks Silence on Chiefs\u2019 Controversial Arrowhead Exit With Message to Fans appeared first on HEAVY.",
-      "timestamp": "2026-08-01T09:46:49.339391Z",
+      "timestamp": "2026-08-01T11:08:08.847499Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "ALBANY - TV commercials for the prediction market company Kalshi ran throughout this month's FIFA World Cup final match in New Jersey's MetLife Stadium. But a recent court ruling means the company is several steps closer to facing a lawsuit from the New York \u2026",
-      "timestamp": "2026-08-01T09:46:49.339458Z",
+      "timestamp": "2026-08-01T11:08:08.847564Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jul. 30\u2014The 2026 FIFA World Cup, which came to a close in mid-July, featured a Mexican men's national team that included Alaska's own Obed Vargas Jr. The memories his family made watching him play on the world's biggest stage for the first time will last them\u2026",
-      "timestamp": "2026-08-01T09:46:49.339490Z",
+      "timestamp": "2026-08-01T11:08:08.847594Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The response to FIFA's plan to sell shares in the FIFA World Cup has been swift and aggressive, as multiple groups and entities around the world call on member nations to take firm action.",
-      "timestamp": "2026-08-01T09:46:49.339517Z",
+      "timestamp": "2026-08-01T11:08:08.847619Z",
       "links": [
         {
           "label": "Source",
@@ -216,6 +286,81 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 01",
+      "loc": "Global",
+      "event": "Norwegian football chief warns of 'very serious' crisis over FIFA World Cup stake plan",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.channelnewsasia.com/sport/norwegian-football-chief-warns-very-serious-crisis-over-fifa-world-cup-stake-plan-6291011"
+        }
+      ]
+    },
+    {
+      "date": "Aug 01",
+      "loc": "Global",
+      "event": "FIFA World Cup plot LIVE: Gianni Infantino's controversial plan on the brink of collapse as senior advisor quits and more nations publicly oppose scheme - and more resignations could follow",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-16019339/FIFA-World-Cup-plot-LIVE-Gianni-Infantinos-controversial-plan-brink-collapse-senior-advisor-quits-nations-publicly-oppose-scheme-resignations-follow.html"
+        }
+      ]
+    },
+    {
+      "date": "Aug 01",
+      "loc": "Global",
+      "event": "FIFA World Cup plot LIVE: Gianni Infantino's controversial plan on the brink of collapse as senior advisor quits and more nations publicly oppose scheme - and more resignations could follow",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-16019339/FIFA-World-Cup-plot-LIVE-Gianni-Infantinos-controversial-plan-brink-collapse-senior-advisor-quits-nations-publicly-oppose-scheme-resignations-follow.html"
+        }
+      ]
+    },
+    {
+      "date": "Aug 01",
+      "loc": "Global",
+      "event": "How Lamine Yamal's mother having him at 16 and his father being stabbed three times shaped football's most emotional World Cup story",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/international-sports/how-lamine-yamals-mother-having-him-at-16-and-his-father-being-stabbed-three-times-shaped-footballs-most-emotional-world-cup-story/articleshow/132762814.cms"
+        }
+      ]
+    },
+    {
+      "date": "Aug 01",
+      "loc": "Global",
+      "event": "FIFA World Cup plan fallout: Infantino\u2019s senior adviser, Cordeiro, resigns",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/7/31/infantinos-senior-adviser-cordeiro-resigns-over-fifa-world-cup-plan"
+        }
+      ]
+    },
     {
       "date": "Aug 01",
       "loc": "Global",
@@ -307,5 +452,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-01T09:46:49.340356Z"
+  "lastUpdated": "2026-08-01T11:08:08.848129Z"
 }
