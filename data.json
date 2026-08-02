@@ -6,7 +6,7 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 1,
+    "p2": 0,
     "p3": 4
   },
   "watchlist": [
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This story appeared in\u00a0Today, Explained,\u00a0a daily newsletter that helps you understand the most compelling news and stories of the day.\u00a0Subscribe here. The 2026 FIFA World Cup wasn\u2019t perfect, but it was still pretty great. Legions of fans got to experience the\u2026",
-      "timestamp": "2026-08-02T09:49:38.701343Z",
+      "timestamp": "2026-08-02T11:08:48.140765Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Grammy-winning Burna Boy reveals Ed Sheeran\u2019s crucial role in preparing him for the pressure of performing at the 2026 FIFA World Cup final.\n\nRead More: https://punchng.com/how-ed-sheeran-helped-me-handle-world-cup-final-pressure-burna-boy/",
-      "timestamp": "2026-08-02T09:49:38.701425Z",
+      "timestamp": "2026-08-02T11:08:48.140858Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Grammy-winning Nigerian singer Burna Boy has revealed that British pop star Ed Sheeran played a key role in his feature with Shakira on the official 2026 FIFA World Cup anthem, Dai Dai.\nThe post \u2018How Ed Sheeran helped me land World Cup Song\u2019 \u2014 Burna Boy appea\u2026",
-      "timestamp": "2026-08-02T09:49:38.701573Z",
+      "timestamp": "2026-08-02T11:08:48.141046Z",
       "links": [
         {
           "label": "Source",
@@ -178,25 +178,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "If you watched the 2026 FIFA World Cup, you probably saw the now-familiar ritual: a goal, a celebration, then a referee touching an earpiece while fans and players wait for the verdict from the video assistant referee, or VAR.\nThat ritual is not unique to soc\u2026",
-      "timestamp": "2026-08-02T09:49:38.701852Z",
+      "timestamp": "2026-08-02T11:08:48.141412Z",
       "links": [
         {
           "label": "Source",
           "url": "https://biztoc.com/x/f31096171cb3fb24"
-        }
-      ]
-    },
-    {
-      "title": "Gianni Infantino adviser quits over FIFA World Cup stake sale plan",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "Carlos Cordeiro resigned as a FIFA senior adviser in protest of the plan to sell stakes in the World Cup to private equity investors, he said Friday.",
-      "timestamp": "2026-08-02T09:49:38.702064Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.upi.com/Sports_News/Soccer/2026/07/31/switzerland-Gianni-Infantino-advisor-resigns/8361785505944/"
         }
       ]
     }
@@ -261,22 +247,7 @@
           "url": "https://biztoc.com/x/f31096171cb3fb24"
         }
       ]
-    },
-    {
-      "date": "Aug 02",
-      "loc": "Global",
-      "event": "Gianni Infantino adviser quits over FIFA World Cup stake sale plan",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.upi.com/Sports_News/Soccer/2026/07/31/switzerland-Gianni-Infantino-advisor-resigns/8361785505944/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-02T09:49:38.702206Z"
+  "lastUpdated": "2026-08-02T11:08:48.141719Z"
 }
