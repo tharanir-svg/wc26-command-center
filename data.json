@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 1,
-    "p3": 5
+    "p3": 4
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This story appeared in\u00a0Today, Explained,\u00a0a daily newsletter that helps you understand the most compelling news and stories of the day.\u00a0Subscribe here. The 2026 FIFA World Cup wasn\u2019t perfect, but it was still pretty great. Legions of fans got to experience the\u2026",
-      "timestamp": "2026-08-02T07:57:25.010627Z",
+      "timestamp": "2026-08-02T09:49:38.701343Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Grammy-winning Burna Boy reveals Ed Sheeran\u2019s crucial role in preparing him for the pressure of performing at the 2026 FIFA World Cup final.\n\nRead More: https://punchng.com/how-ed-sheeran-helped-me-handle-world-cup-final-pressure-burna-boy/",
-      "timestamp": "2026-08-02T07:57:25.010719Z",
+      "timestamp": "2026-08-02T09:49:38.701425Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Grammy-winning Nigerian singer Burna Boy has revealed that British pop star Ed Sheeran played a key role in his feature with Shakira on the official 2026 FIFA World Cup anthem, Dai Dai.\nThe post \u2018How Ed Sheeran helped me land World Cup Song\u2019 \u2014 Burna Boy appea\u2026",
-      "timestamp": "2026-08-02T07:57:25.010885Z",
+      "timestamp": "2026-08-02T09:49:38.701573Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "If you watched the 2026 FIFA World Cup, you probably saw the now-familiar ritual: a goal, a celebration, then a referee touching an earpiece while fans and players wait for the verdict from the video assistant referee, or VAR.\nThat ritual is not unique to soc\u2026",
-      "timestamp": "2026-08-02T07:57:25.011188Z",
+      "timestamp": "2026-08-02T09:49:38.701852Z",
       "links": [
         {
           "label": "Source",
@@ -192,25 +192,11 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Carlos Cordeiro resigned as a FIFA senior adviser in protest of the plan to sell stakes in the World Cup to private equity investors, he said Friday.",
-      "timestamp": "2026-08-02T07:57:25.011438Z",
+      "timestamp": "2026-08-02T09:49:38.702064Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.upi.com/Sports_News/Soccer/2026/07/31/switzerland-Gianni-Infantino-advisor-resigns/8361785505944/"
-        }
-      ]
-    },
-    {
-      "title": "Can Infantino Get 106 Votes For FIFA World Cup Plan? Here\u2019s How Members Are Leaning",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA\u2019s president wants to create a $20 billion commercial subsidiary to sell a 20% minority stake in the World Cup and other major tournament revenues to private equity investors.",
-      "timestamp": "2026-08-02T07:57:25.011593Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/maryroeloffs/2026/07/31/can-infantino-get-106-votes-for-fifa-world-cup-plan-heres-how-members-are-leaning/"
         }
       ]
     }
@@ -290,22 +276,7 @@
           "url": "https://www.upi.com/Sports_News/Soccer/2026/07/31/switzerland-Gianni-Infantino-advisor-resigns/8361785505944/"
         }
       ]
-    },
-    {
-      "date": "Aug 02",
-      "loc": "Global",
-      "event": "Can Infantino Get 106 Votes For FIFA World Cup Plan? Here\u2019s How Members Are Leaning",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/maryroeloffs/2026/07/31/can-infantino-get-106-votes-for-fifa-world-cup-plan-heres-how-members-are-leaning/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-02T07:57:25.011739Z"
+  "lastUpdated": "2026-08-02T09:49:38.702206Z"
 }
