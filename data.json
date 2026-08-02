@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 2
+    "p3": 1
   },
   "watchlist": [
     {
@@ -136,25 +136,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Who is tipped to replace Gianni Infantino after the World Cup investment plan crisis?",
-      "timestamp": "2026-08-02T17:48:25.125473Z",
+      "timestamp": "2026-08-02T18:46:26.033550Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign"
-        }
-      ]
-    },
-    {
-      "title": "Everyone hates FIFA\u2019s plan to sell the World Cup to private equity",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "This story appeared in\u00a0Today, Explained,\u00a0a daily newsletter that helps you understand the most compelling news and stories of the day.\u00a0Subscribe here. The 2026 FIFA World Cup wasn\u2019t perfect, but it was still pretty great. Legions of fans got to experience the\u2026",
-      "timestamp": "2026-08-02T17:48:25.126461Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vox.com/today-explained-newsletter/497484/fifa-world-cup-gianni-infantino-private-equity-uefa-boycott"
         }
       ]
     }
@@ -174,22 +160,7 @@
           "url": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign"
         }
       ]
-    },
-    {
-      "date": "Aug 02",
-      "loc": "Global",
-      "event": "Everyone hates FIFA\u2019s plan to sell the World Cup to private equity",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vox.com/today-explained-newsletter/497484/fifa-world-cup-gianni-infantino-private-equity-uefa-boycott"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-02T17:48:25.126613Z"
+  "lastUpdated": "2026-08-02T18:46:26.034667Z"
 }
