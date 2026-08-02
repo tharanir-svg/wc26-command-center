@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 2
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Who is tipped to replace Gianni Infantino after the World Cup investment plan crisis?",
-      "timestamp": "2026-08-02T16:42:06.897185Z",
+      "timestamp": "2026-08-02T17:48:25.125473Z",
       "links": [
         {
           "label": "Source",
@@ -150,25 +150,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This story appeared in\u00a0Today, Explained,\u00a0a daily newsletter that helps you understand the most compelling news and stories of the day.\u00a0Subscribe here. The 2026 FIFA World Cup wasn\u2019t perfect, but it was still pretty great. Legions of fans got to experience the\u2026",
-      "timestamp": "2026-08-02T16:42:06.898232Z",
+      "timestamp": "2026-08-02T17:48:25.126461Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.vox.com/today-explained-newsletter/497484/fifa-world-cup-gianni-infantino-private-equity-uefa-boycott"
-        }
-      ]
-    },
-    {
-      "title": "How Ed Sheeran helped me handle World Cup final pressure \u2014 Burna Boy",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Grammy-winning Burna Boy reveals Ed Sheeran\u2019s crucial role in preparing him for the pressure of performing at the 2026 FIFA World Cup final.\n\nRead More: https://punchng.com/how-ed-sheeran-helped-me-handle-world-cup-final-pressure-burna-boy/",
-      "timestamp": "2026-08-02T16:42:06.898337Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/how-ed-sheeran-helped-me-handle-world-cup-final-pressure-burna-boy/"
         }
       ]
     }
@@ -203,22 +189,7 @@
           "url": "https://www.vox.com/today-explained-newsletter/497484/fifa-world-cup-gianni-infantino-private-equity-uefa-boycott"
         }
       ]
-    },
-    {
-      "date": "Aug 02",
-      "loc": "Global",
-      "event": "How Ed Sheeran helped me handle World Cup final pressure \u2014 Burna Boy",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/how-ed-sheeran-helped-me-handle-world-cup-final-pressure-burna-boy/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-02T16:42:06.898571Z"
+  "lastUpdated": "2026-08-02T17:48:25.126613Z"
 }
