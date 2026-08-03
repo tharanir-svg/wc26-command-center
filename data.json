@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 9
+    "p3": 12
   },
   "watchlist": [
     {
@@ -131,12 +131,54 @@
   ],
   "risks": [
     {
+      "title": "Jerry Jones reveals permanent AT&T Stadium design change under consideration after World Cup success",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Dallas Cowboys owner Jerry Jones is considering a significant change to the AT&T Stadium ahead of the 2027 NFL season. The Cowboys\u2019 stadium hosted nine matches at the 2026 World Cup this summer, the most of all 16 tournament venues.",
+      "timestamp": "2026-08-03T17:31:39.246688Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/jerry-jones-reveals-permanent-att-stadium-design-change-under-consideration-after-world-cup-success/"
+        }
+      ]
+    },
+    {
+      "title": "\u2018The GOAT\u2019 \u2013 MLS fans all say the same thing after Lionel Messi\u2019s first game since the World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "MLS fans were both surprised and impressed by Lionel Messi\u2019s return to Inter Miami after the 2026 World Cup. Messi led Argentina to the World Cup final at MetLife Stadium a few weeks ago, where they lost 1-0 to Spain in extra time.",
+      "timestamp": "2026-08-03T17:31:39.246784Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/the-goat-mls-fans-all-say-the-same-thing-after-lionel-messis-first-game-since-the-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "I started coughing blood, Doku opens up on World cup health scare",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Manchester City star Jeremy Doku reveals he coughed blood and battled severe chest pain during the 2026 World Cup, calling it one of his toughest career mo\n\nRead More: https://punchng.com/i-started-coughing-blood-doku-opens-up-on-world-cup-health-scare/",
+      "timestamp": "2026-08-03T17:31:39.246810Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/i-started-coughing-blood-doku-opens-up-on-world-cup-health-scare/"
+        }
+      ]
+    },
+    {
       "title": "BTS Return to MetLife Stadium for Full ARIRANG Show: Best Moments",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Two weeks after BTS' World Cup Final Halftime Show performance in MetLife Stadium, BTS gave New Jersey the complete ARIRANG concert with Nas watching.",
-      "timestamp": "2026-08-03T15:33:48.217072Z",
+      "timestamp": "2026-08-03T17:31:39.246859Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Gianni Infantino truly looked the \u201cKing of Soccer,\u201d as U.S. President Donald Trump likes to call him, as the two allies sat together watching the World Cup final less than two weeks ago.\nSure, there were some boos inside MetLife Stadium near New York, when th\u2026",
-      "timestamp": "2026-08-03T15:33:48.217154Z",
+      "timestamp": "2026-08-03T17:31:39.246903Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Sunshine is too often an issue during late-afternoon games.",
-      "timestamp": "2026-08-03T15:33:48.217207Z",
+      "timestamp": "2026-08-03T17:31:39.246935Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In the middle of the global celebration of football, when stadiums are full, screens are glowing, and millions are watching the World Cup, a small Palestinian village near Bethlehem experienced something very different.Battir lost its only football field.For \u2026",
-      "timestamp": "2026-08-03T15:33:48.217271Z",
+      "timestamp": "2026-08-03T17:31:39.246984Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Take a knee. Run out the clock. Admit it\u2019s over. The only thing left for UCLA to do in its runaway disaster of a legal fight with the Rose Bowl is concede defeat and move on. UCLA\u2019s lease with the Rose Bowl runs through the 2043 football season. Commit to sta\u2026",
-      "timestamp": "2026-08-03T15:33:48.217356Z",
+      "timestamp": "2026-08-03T17:31:39.247054Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Like many NFL players, Jets veteran defensive tackle Harrison Phillips noticed the grass field being used at MetLife Stadium for the World Cup.",
-      "timestamp": "2026-08-03T15:33:48.217817Z",
+      "timestamp": "2026-08-03T17:31:39.247424Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Like many NFL players, Jets veteran defensive tackle Harrison Phillips noticed the grass field being used at MetLife Stadium for the World Cup.",
-      "timestamp": "2026-08-03T15:33:48.217840Z",
+      "timestamp": "2026-08-03T17:31:39.247438Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jerry Jones is giving thought to curtains for AT&T Stadium",
-      "timestamp": "2026-08-03T15:33:48.217932Z",
+      "timestamp": "2026-08-03T17:31:39.247514Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup ended two weeks ago, but it still carries some harsh feelings for veteran radio host and comedian Rickey Smiley, particularly due to the controversial behavior of fans supporting Argentina.",
-      "timestamp": "2026-08-03T15:33:48.218121Z",
+      "timestamp": "2026-08-03T17:31:39.247671Z",
       "links": [
         {
           "label": "Source",
@@ -258,6 +300,51 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 03",
+      "loc": "Dallas",
+      "event": "Jerry Jones reveals permanent AT&T Stadium design change under consideration after World Cup success",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/jerry-jones-reveals-permanent-att-stadium-design-change-under-consideration-after-world-cup-success/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 03",
+      "loc": "New York / New Jersey",
+      "event": "\u2018The GOAT\u2019 \u2013 MLS fans all say the same thing after Lionel Messi\u2019s first game since the World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/the-goat-mls-fans-all-say-the-same-thing-after-lionel-messis-first-game-since-the-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 03",
+      "loc": "Global",
+      "event": "I started coughing blood, Doku opens up on World cup health scare",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/i-started-coughing-blood-doku-opens-up-on-world-cup-health-scare/"
+        }
+      ]
+    },
     {
       "date": "Aug 03",
       "loc": "New York / New Jersey",
@@ -394,5 +481,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-03T15:33:48.218882Z"
+  "lastUpdated": "2026-08-03T17:31:39.248206Z"
 }
