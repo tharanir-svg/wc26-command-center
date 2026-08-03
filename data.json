@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 9
   },
   "watchlist": [
     {
@@ -131,12 +131,68 @@
   ],
   "risks": [
     {
+      "title": "BTS Return to MetLife Stadium for Full ARIRANG Show: Best Moments",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Two weeks after BTS' World Cup Final Halftime Show performance in MetLife Stadium, BTS gave New Jersey the complete ARIRANG concert with Nas watching.",
+      "timestamp": "2026-08-03T15:33:48.217072Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.billboard.com/lists/bts-arirang-tour-new-york-metlife-stadium-best-moments/"
+        }
+      ]
+    },
+    {
+      "title": "Infantino\u2019s $20 billion FIFA plan collapses and now he faces a European mutiny over the future of the World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Gianni Infantino truly looked the \u201cKing of Soccer,\u201d as U.S. President Donald Trump likes to call him, as the two allies sat together watching the World Cup final less than two weeks ago.\nSure, there were some boos inside MetLife Stadium near New York, when th\u2026",
+      "timestamp": "2026-08-03T15:33:48.217154Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/f425fa18d8e62621"
+        }
+      ]
+    },
+    {
+      "title": "Jerry Jones will \"think about\" tinting the windows at AT&T Stadium",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Sunshine is too often an issue during late-afternoon games.",
+      "timestamp": "2026-08-03T15:33:48.217207Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-will-think-about-tinting-the-windows-at-at-t-stadium"
+        }
+      ]
+    },
+    {
+      "title": "A FIFA World Cup and a Village's Stolen Dream",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "In the middle of the global celebration of football, when stadiums are full, screens are glowing, and millions are watching the World Cup, a small Palestinian village near Bethlehem experienced something very different.Battir lost its only football field.For \u2026",
+      "timestamp": "2026-08-03T15:33:48.217271Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.commondreams.org/opinion/fifa-and-west-bank"
+        }
+      ]
+    },
+    {
       "title": "With bloom off move to SoFi Stadium, UCLA must commit to Rose Bowl",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Take a knee. Run out the clock. Admit it\u2019s over. The only thing left for UCLA to do in its runaway disaster of a legal fight with the Rose Bowl is concede defeat and move on. UCLA\u2019s lease with the Rose Bowl runs through the 2043 football season. Commit to sta\u2026",
-      "timestamp": "2026-08-03T12:08:40.277461Z",
+      "timestamp": "2026-08-03T15:33:48.217356Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Like many NFL players, Jets veteran defensive tackle Harrison Phillips noticed the grass field being used at MetLife Stadium for the World Cup.",
-      "timestamp": "2026-08-03T12:08:40.278009Z",
+      "timestamp": "2026-08-03T15:33:48.217817Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Like many NFL players, Jets veteran defensive tackle Harrison Phillips noticed the grass field being used at MetLife Stadium for the World Cup.",
-      "timestamp": "2026-08-03T12:08:40.278031Z",
+      "timestamp": "2026-08-03T15:33:48.217840Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jerry Jones is giving thought to curtains for AT&T Stadium",
-      "timestamp": "2026-08-03T12:08:40.278112Z",
+      "timestamp": "2026-08-03T15:33:48.217932Z",
       "links": [
         {
           "label": "Source",
@@ -192,30 +248,76 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup ended two weeks ago, but it still carries some harsh feelings for veteran radio host and comedian Rickey Smiley, particularly due to the controversial behavior of fans supporting Argentina.",
-      "timestamp": "2026-08-03T12:08:40.278289Z",
+      "timestamp": "2026-08-03T15:33:48.218121Z",
       "links": [
         {
           "label": "Source",
           "url": "https://hiphopwired.com/3061038/rickey-smiley-says-argentina-fans-racially-abused-his-son/"
         }
       ]
-    },
-    {
-      "title": "FIFA World Cup crisis: Who could replace Infantino as president?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Who is tipped to replace Gianni Infantino after the World Cup investment plan crisis?",
-      "timestamp": "2026-08-03T12:08:40.279010Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 03",
+      "loc": "New York / New Jersey",
+      "event": "BTS Return to MetLife Stadium for Full ARIRANG Show: Best Moments",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.billboard.com/lists/bts-arirang-tour-new-york-metlife-stadium-best-moments/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 03",
+      "loc": "New York / New Jersey",
+      "event": "Infantino\u2019s $20 billion FIFA plan collapses and now he faces a European mutiny over the future of the World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/f425fa18d8e62621"
+        }
+      ]
+    },
+    {
+      "date": "Aug 03",
+      "loc": "Global",
+      "event": "Jerry Jones will \"think about\" tinting the windows at AT&T Stadium",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-will-think-about-tinting-the-windows-at-at-t-stadium"
+        }
+      ]
+    },
+    {
+      "date": "Aug 03",
+      "loc": "Global",
+      "event": "A FIFA World Cup and a Village's Stolen Dream",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.commondreams.org/opinion/fifa-and-west-bank"
+        }
+      ]
+    },
     {
       "date": "Aug 03",
       "loc": "Los Angeles",
@@ -290,22 +392,7 @@
           "url": "https://hiphopwired.com/3061038/rickey-smiley-says-argentina-fans-racially-abused-his-son/"
         }
       ]
-    },
-    {
-      "date": "Aug 03",
-      "loc": "Global",
-      "event": "FIFA World Cup crisis: Who could replace Infantino as president?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-03T12:08:40.279139Z"
+  "lastUpdated": "2026-08-03T15:33:48.218882Z"
 }
