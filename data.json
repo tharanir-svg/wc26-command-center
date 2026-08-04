@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 1,
+    "p1": 0,
     "p2": 0,
-    "p3": 14
+    "p3": 10
   },
   "watchlist": [
     {
@@ -131,12 +131,82 @@
   ],
   "risks": [
     {
+      "title": "Infantino turns to Trump as pressure mounts over his role",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA President Gianni Infantino reportedly sought support from the administration of United States President Donald Trump after facing growing criticism over the collapse of a controversial plan to sell a stake in the commercial rights to the FIFA World Cup.\n\u2026",
+      "timestamp": "2026-08-04T15:13:04.337595Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/08/infantino-turns-to-trump-as-pressure-mounts-over-his-role/"
+        }
+      ]
+    },
+    {
+      "title": "Jerry Jones Considers Tinting AT&T Stadium Windows to Fix Longtime Sun Glare Problem",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Dallas Cowboys owner Jerry Jones is considering tinting the windows at AT&T Stadium to reduce sun glare, a move that could improve player visibility and maintain the venue's iconic design.",
+      "timestamp": "2026-08-04T15:13:04.337647Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ibtimes.com.au/dallas-cowboys-consider-tinting-att-stadium-windows-1873467"
+        }
+      ]
+    },
+    {
+      "title": "Videographer is Facing One Year in Jail for Flying Drone to Film Church During World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "A professional videographer was arrested by the FBI after flying a drone for two minutes to film a church in Houston, Texas, during the 2026 World Cup, despite no matches being held in the city that day.\n[Read More]",
+      "timestamp": "2026-08-04T15:13:04.337802Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://petapixel.com/2026/08/03/videographer-is-facing-one-year-in-jail-for-flying-drone-to-film-church-during-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "Spanish Soccer Star Ferran Torres Talks World Cup Win",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Soccer star Ferran Torres joins TODAY to talk about Spain\u2019s 2026 FIFA World Cup championship and shares insight into his epic extra-time goal in the final that sealed his team\u2019s victory over Argentina. He also opens up about his mental health journey and gets\u2026",
+      "timestamp": "2026-08-04T15:13:04.337878Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.today.com/video/ferran-torres-talks-world-cup-championship-mental-health-267669061734"
+        }
+      ]
+    },
+    {
+      "title": "Mauricio Pochettino signs new contract with U.S. Soccer through 2030",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Mauricio Pochettino is officially extending his stay with U.S. Soccer. Pochettino has signed a new, four-year deal as head coach of the U.S. Men\u2019s National Team, U.S. Soccer announced Monday. The contract will run through the 2030 FIFA World Cup, which will t\u2026",
+      "timestamp": "2026-08-04T15:13:04.337923Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sbisoccer.com/2026/08/mauricio-pochettino-signs-new-contract-with-u-s-soccer-through-2030"
+        }
+      ]
+    },
+    {
       "title": "How the World Cup became 'a great dry run' for the 2028 L.A. Olympics",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The success of the FIFA World Cup in Southern California provided valuable lessons for LA28 as it continues its preparations for the 2028 Olympic Games.",
-      "timestamp": "2026-08-04T12:50:18.608283Z",
+      "timestamp": "2026-08-04T15:13:04.338026Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The football world continues to digest the aftermath of a dramatic 2026 FIFA World Cup while the summer transfer window accelerates and European competitions edge closer to their new seasons. As of la...",
-      "timestamp": "2026-08-04T12:50:18.608764Z",
+      "timestamp": "2026-08-04T15:13:04.338471Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "What was a major storyline at FIFA World Cup games in Arlington earlier this summer, Cowboys boss Jerry Jones offers more than he ever has in the way of tinting the sunny, yet controversial aesthetic of his stadium.",
-      "timestamp": "2026-08-04T12:50:18.609085Z",
+      "timestamp": "2026-08-04T15:13:04.338790Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jerry Jones considers window tinting to fix the infamous AT&T Stadium sun glare flaw following a successful summer FIFA match test.",
-      "timestamp": "2026-08-04T12:50:18.609253Z",
+      "timestamp": "2026-08-04T15:13:04.338995Z",
       "links": [
         {
           "label": "Source",
@@ -192,156 +262,91 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup final between Spain and Argentina will be remembered for many things in the coming years.Lionel Messi\u2019s farewell to football\u2019s biggest stage. Lamine Yamal announcing himself as ...",
-      "timestamp": "2026-08-04T12:50:18.609321Z",
+      "timestamp": "2026-08-04T15:13:04.339100Z",
       "links": [
         {
           "label": "Source",
           "url": "https://barcauniversal.com/messi-passed-the-torch-what-comes-next-for-lamine-yamal-opinion/"
         }
       ]
-    },
-    {
-      "title": "\u2018I started coughing blood\u2019 \u2014 Doku opens up on World Cup illness before son\u2019s birth",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Belgium winger Jeremy Doku has disclosed that he coughed blood and suffered severe chest pain during the 2026 FIFA World Cup, forcing him to seek emergency medical treatment before eventually leaving the national team camp for the birth of his first child.\nTh\u2026",
-      "timestamp": "2026-08-04T12:50:18.609397Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/08/i-started-coughing-blood-doku-opens-up-on-world-cup-illness-before-sons-birth/"
-        }
-      ]
-    },
-    {
-      "title": "Five lessons for startups from football World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Discover five key lessons for startups from the FIFA World Cup's management strategies to enhance customer experience and adaptability.",
-      "timestamp": "2026-08-04T12:50:18.609417Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/five-lessons-for-startups-from-football-world-cup/article71298957.ece"
-        }
-      ]
-    },
-    {
-      "title": "Inter Miami coach Hoyos explains decision behind Lionel Messi\u2019s quick MLS return after World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Inter Miami head coach Guillermo Hoyos explained how Lionel Messi was able to return to the MLS in less than two weeks from the 2026 World Cup final. \nLionel Messi has officially returned to the pitch for Inter Miami following Argentina\u2019s run to the 2026 Worl\u2026",
-      "timestamp": "2026-08-04T12:50:18.609468Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/inter-miami-coach-hoyos-explains-decision-behind-lionel-messis-quick-mls-return-after-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "How World Cup has Jerry Jones \u2018thinking\u2019 about bombshell Cowboys change",
-      "risk": "high",
-      "severityText": "P1 CRITICAL",
-      "status": "VERIFIED",
-      "description": "Dallas Cowboys owner Jerry Jones says he is considering implementing a change that was used by the FIFA World Cup.",
-      "timestamp": "2026-08-04T12:50:18.609486Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://clutchpoints.com/nfl/dallas-cowboys/cowboys-news-world-cup-jerry-jones-bombshell-change"
-        }
-      ]
-    },
-    {
-      "title": "Jerry Jones reveals permanent AT&T Stadium design change under consideration after World Cup success",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Dallas Cowboys owner Jerry Jones is considering a significant change to the AT&T Stadium ahead of the 2027 NFL season. The Cowboys\u2019 stadium hosted nine matches at the 2026 World Cup this summer, the most of all 16 tournament venues.",
-      "timestamp": "2026-08-04T12:50:18.609582Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/jerry-jones-reveals-permanent-att-stadium-design-change-under-consideration-after-world-cup-success/"
-        }
-      ]
-    },
-    {
-      "title": "\u2018The GOAT\u2019 \u2013 MLS fans all say the same thing after Lionel Messi\u2019s first game since the World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "MLS fans were both surprised and impressed by Lionel Messi\u2019s return to Inter Miami after the 2026 World Cup. Messi led Argentina to the World Cup final at MetLife Stadium a few weeks ago, where they lost 1-0 to Spain in extra time.",
-      "timestamp": "2026-08-04T12:50:18.609666Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/the-goat-mls-fans-all-say-the-same-thing-after-lionel-messis-first-game-since-the-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "I started coughing blood, Doku opens up on World cup health scare",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Manchester City star Jeremy Doku reveals he coughed blood and battled severe chest pain during the 2026 World Cup, calling it one of his toughest career mo\n\nRead More: https://punchng.com/i-started-coughing-blood-doku-opens-up-on-world-cup-health-scare/",
-      "timestamp": "2026-08-04T12:50:18.609710Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/i-started-coughing-blood-doku-opens-up-on-world-cup-health-scare/"
-        }
-      ]
-    },
-    {
-      "title": "BTS Return to MetLife Stadium for Full ARIRANG Show: Best Moments",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Two weeks after BTS' World Cup Final Halftime Show performance in MetLife Stadium, BTS gave New Jersey the complete ARIRANG concert with Nas watching.",
-      "timestamp": "2026-08-04T12:50:18.609816Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.billboard.com/lists/bts-arirang-tour-new-york-metlife-stadium-best-moments/"
-        }
-      ]
-    },
-    {
-      "title": "Infantino\u2019s $20 billion FIFA plan collapses and now he faces a European mutiny over the future of the World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Gianni Infantino truly looked the \u201cKing of Soccer,\u201d as U.S. President Donald Trump likes to call him, as the two allies sat together watching the World Cup final less than two weeks ago.\nSure, there were some boos inside MetLife Stadium near New York, when th\u2026",
-      "timestamp": "2026-08-04T12:50:18.609887Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/f425fa18d8e62621"
-        }
-      ]
-    },
-    {
-      "title": "Jerry Jones will \"think about\" tinting the windows at AT&T Stadium",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Sunshine is too often an issue during late-afternoon games.",
-      "timestamp": "2026-08-04T12:50:18.609929Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-will-think-about-tinting-the-windows-at-at-t-stadium"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 04",
+      "loc": "Global",
+      "event": "Infantino turns to Trump as pressure mounts over his role",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/08/infantino-turns-to-trump-as-pressure-mounts-over-his-role/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 04",
+      "loc": "Dallas",
+      "event": "Jerry Jones Considers Tinting AT&T Stadium Windows to Fix Longtime Sun Glare Problem",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ibtimes.com.au/dallas-cowboys-consider-tinting-att-stadium-windows-1873467"
+        }
+      ]
+    },
+    {
+      "date": "Aug 04",
+      "loc": "Houston",
+      "event": "Videographer is Facing One Year in Jail for Flying Drone to Film Church During World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://petapixel.com/2026/08/03/videographer-is-facing-one-year-in-jail-for-flying-drone-to-film-church-during-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 04",
+      "loc": "Global",
+      "event": "Spanish Soccer Star Ferran Torres Talks World Cup Win",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.today.com/video/ferran-torres-talks-world-cup-championship-mental-health-267669061734"
+        }
+      ]
+    },
+    {
+      "date": "Aug 04",
+      "loc": "Global",
+      "event": "Mauricio Pochettino signs new contract with U.S. Soccer through 2030",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sbisoccer.com/2026/08/mauricio-pochettino-signs-new-contract-with-u-s-soccer-through-2030"
+        }
+      ]
+    },
     {
       "date": "Aug 04",
       "loc": "Global",
@@ -416,157 +421,7 @@
           "url": "https://barcauniversal.com/messi-passed-the-torch-what-comes-next-for-lamine-yamal-opinion/"
         }
       ]
-    },
-    {
-      "date": "Aug 04",
-      "loc": "Global",
-      "event": "\u2018I started coughing blood\u2019 \u2014 Doku opens up on World Cup illness before son\u2019s birth",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/08/i-started-coughing-blood-doku-opens-up-on-world-cup-illness-before-sons-birth/"
-        }
-      ]
-    },
-    {
-      "date": "Aug 04",
-      "loc": "Global",
-      "event": "Five lessons for startups from football World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/five-lessons-for-startups-from-football-world-cup/article71298957.ece"
-        }
-      ]
-    },
-    {
-      "date": "Aug 04",
-      "loc": "Global",
-      "event": "Inter Miami coach Hoyos explains decision behind Lionel Messi\u2019s quick MLS return after World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/inter-miami-coach-hoyos-explains-decision-behind-lionel-messis-quick-mls-return-after-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Aug 04",
-      "loc": "Dallas",
-      "event": "How World Cup has Jerry Jones \u2018thinking\u2019 about bombshell Cowboys change",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "high",
-      "impact": "P1 CRITICAL",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://clutchpoints.com/nfl/dallas-cowboys/cowboys-news-world-cup-jerry-jones-bombshell-change"
-        }
-      ]
-    },
-    {
-      "date": "Aug 04",
-      "loc": "Dallas",
-      "event": "Jerry Jones reveals permanent AT&T Stadium design change under consideration after World Cup success",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/jerry-jones-reveals-permanent-att-stadium-design-change-under-consideration-after-world-cup-success/"
-        }
-      ]
-    },
-    {
-      "date": "Aug 04",
-      "loc": "New York / New Jersey",
-      "event": "\u2018The GOAT\u2019 \u2013 MLS fans all say the same thing after Lionel Messi\u2019s first game since the World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/the-goat-mls-fans-all-say-the-same-thing-after-lionel-messis-first-game-since-the-world-cup/"
-        }
-      ]
-    },
-    {
-      "date": "Aug 04",
-      "loc": "Global",
-      "event": "I started coughing blood, Doku opens up on World cup health scare",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/i-started-coughing-blood-doku-opens-up-on-world-cup-health-scare/"
-        }
-      ]
-    },
-    {
-      "date": "Aug 04",
-      "loc": "New York / New Jersey",
-      "event": "BTS Return to MetLife Stadium for Full ARIRANG Show: Best Moments",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.billboard.com/lists/bts-arirang-tour-new-york-metlife-stadium-best-moments/"
-        }
-      ]
-    },
-    {
-      "date": "Aug 04",
-      "loc": "New York / New Jersey",
-      "event": "Infantino\u2019s $20 billion FIFA plan collapses and now he faces a European mutiny over the future of the World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/f425fa18d8e62621"
-        }
-      ]
-    },
-    {
-      "date": "Aug 04",
-      "loc": "Global",
-      "event": "Jerry Jones will \"think about\" tinting the windows at AT&T Stadium",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-will-think-about-tinting-the-windows-at-at-t-stadium"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-04T12:50:18.610047Z"
+  "lastUpdated": "2026-08-04T15:13:04.339267Z"
 }
