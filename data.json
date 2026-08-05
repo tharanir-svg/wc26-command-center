@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 16
+    "p3": 21
   },
   "watchlist": [
     {
@@ -131,12 +131,124 @@
   ],
   "risks": [
     {
+      "title": "USMNT to face Mexico, Canada among first four post-World Cup matches",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The U.S. men's national team has announced the first four matches it will play after the 2026 World Cup.",
+      "timestamp": "2026-08-05T15:04:59.476317Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/usmnt/2026/08/04/usmnt-vs-mexico-canada-friendlies-september-october/91163332007/"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup drove spending in Toronto, Vancouver",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spending rose nearly 25 per cent in Canada\u2019s host cities during match days of the 2026 FIFA World Cup , according to data from Visa Inc . \n Toronto and Vancouver hosted 13 matches during this year\u2019s World Cup run. Visa said its data reveals the tournament lef\u2026",
+      "timestamp": "2026-08-05T15:04:59.476445Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/a2fc5163cd09c4d0"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup drove spending in Toronto, Vancouver",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spending rose nearly 25 per cent in Canada's host cities during match days of the 2026 FIFA World Cup, according to Visa Inc. Read here now",
+      "timestamp": "2026-08-05T15:04:59.476489Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://financialpost.com/news/economy/fifa-world-cup-drove-spending-toronto-vancouver"
+        }
+      ]
+    },
+    {
+      "title": "Furious World Cup host cities 'chasing FIFA for million-dollar payments' in latest blow for embattled Gianni Infantino",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Four unnamed executives at US host city committees reportedly claim that FIFA 'repeatedly assured' the cities that they would receive the same $1m contribution, despite never making a public statement.",
+      "timestamp": "2026-08-05T15:04:59.476546Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-16027679/fifa-world-cup-host-cities-payments-gianni-infantino.html"
+        }
+      ]
+    },
+    {
+      "title": "World Cup 2026: U.S. host cities reportedly chasing FIFA for millions promised by association",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Gianni Infantino remains under fire for his actions as FIFA president.",
+      "timestamp": "2026-08-05T15:04:59.476630Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-us-host-cities-reportedly-chasing-fifa-for-millions-promised-by-association-134059212.html"
+        }
+      ]
+    },
+    {
+      "title": "Jeju vs Bayern Munich Results Today: Club Friendly Live Score, Updates, Stats",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FC Bayern Munich began their Audi Summer Tour with a preseason friendly against South Korean side Jeju SK FC on Tuesday at the Jeju World Cup Stadium in Seogwipo. The match marked Bayern\u2019s opening fixture of their 2026 Asia tour as FC Bayern Munich continued \u2026",
+      "timestamp": "2026-08-05T15:04:59.476735Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://heavy.com/sports/soccer/jeju-vs-bayern-munich-results-today-club-friendly-live-score-updates-stats/"
+        }
+      ]
+    },
+    {
+      "title": "How to Watch Jeju SK vs Bayern Munich Live Today: Preseason Preview, Stats, Lineup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Jeju SK vs Bayern Munich live today marks the start of Bayern Munich\u2019s 2026 Audi Summer Tour in Asia. The South Korean club hosts the German champions on Tuesday, August 4, at the Jeju World Cup Stadium in Seogwipo.The friendly gives head coach Vincent Kompan\u2026",
+      "timestamp": "2026-08-05T15:04:59.476786Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://heavy.com/sports/soccer/how-to-watch-jeju-sk-vs-bayern-munich-live-today-preseason-preview-stats-lineup/"
+        }
+      ]
+    },
+    {
+      "title": "Polymarket locks down Serie A partnership as prediction market races toward World Cup season",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Polymarket's strategic partnerships enhance its credibility and position it to capitalize on increased soccer interest during the 2026 World Cup.\nThe post Polymarket locks down Serie A partnership as prediction market races toward World Cup season appeared fi\u2026",
+      "timestamp": "2026-08-05T15:04:59.476854Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cryptobriefing.com/polymarket-serie-a-prediction-market-deal/"
+        }
+      ]
+    },
+    {
       "title": "WorldCupBetting.ca Expands Beyond the FIFA World Cup to Become a Comprehensive Betting Resource for Canadians",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Toronto, Canada, Aug. 04, 2026 (GLOBE NEWSWIRE) -- WorldCupBetting.ca, one of Canada\u2019s dedicated football betting resources throughout the FIFA World Cup 2026, today announced a major expansion of its editorial coverage. Building on the trust earned during on\u2026",
-      "timestamp": "2026-08-05T12:29:42.979590Z",
+      "timestamp": "2026-08-05T15:04:59.476929Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Matchday spending in Canada\u2019s host cities increased during the tournament, highlighting the economic impact of FIFA World Cup 2026\u2122 on local businesses. TORONTO, Aug. 04, 2026 (GLOBE NEWSWIRE) \u2014 Following the unforgettable 13 Canadian-hosted matches for FIFA \u2026",
-      "timestamp": "2026-08-05T12:29:42.979653Z",
+      "timestamp": "2026-08-05T15:04:59.476960Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Matchday spending in Canada\u2019s host cities increased during the tournament, highlighting the economic impact of FIFA World Cup 2026\u2122 on local businesses. ...",
-      "timestamp": "2026-08-05T12:29:42.979702Z",
+      "timestamp": "2026-08-05T15:04:59.476996Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Manchester City continue their pre-season duties as they face a combined team of K-League\u2019s best players at the Seoul World Cup Stadium in South Korea on Wednesday.The Enzo Maresca era started in Ho...",
-      "timestamp": "2026-08-05T12:29:42.979805Z",
+      "timestamp": "2026-08-05T15:04:59.477102Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's a recap of the World Cup at MetLife Stadium after 640,000 fans attended matches in East Rutherford.",
-      "timestamp": "2026-08-05T12:29:42.980020Z",
+      "timestamp": "2026-08-05T15:04:59.477300Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Real Madrid have already had a blockbuster summer transfer window so far and are still focused on signing 2026 World Cup winner Rodri from Manchester City.Florentino Perez has gone all out in the tran...",
-      "timestamp": "2026-08-05T12:29:42.980089Z",
+      "timestamp": "2026-08-05T15:04:59.477360Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "During the 2026 FIFA World Cup, Deltatre operated the broadcasting and streaming infrastructure for a number of major rights holders' World Cup platforms worldwide. In this Q&A, Gilles Mas, Chief Operating Officer at Deltatre, discusses the challenges and int\u2026",
-      "timestamp": "2026-08-05T12:29:42.980144Z",
+      "timestamp": "2026-08-05T15:04:59.477410Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ferran Torres sported a \u2018Make Spain Great Again\u2019 cap just a day after being handed his World Cup medal by Donald Trump. Torres and Spain lifted the World Cup at MetLife Stadium after defeating Argentina.",
-      "timestamp": "2026-08-05T12:29:42.980194Z",
+      "timestamp": "2026-08-05T15:04:59.477456Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The sun has long been an issue at AT&T Stadium, but the Dallas Cowboys may no longer be blinded by the light if Jerry Jones changes his tune.",
-      "timestamp": "2026-08-05T12:29:42.980414Z",
+      "timestamp": "2026-08-05T15:04:59.477640Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In this week's Computer Weekly, we go behind the scenes at the technology operations centre for the FIFA World Cup to find out how AI helped make the football even better for fans. And our latest buyer's guide looks at the impact of AI on cyber security. Read\u2026",
-      "timestamp": "2026-08-05T12:29:42.980453Z",
+      "timestamp": "2026-08-05T15:04:59.477669Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After the 2026 World Cup final, the AFA is reportedly plotting Lionel Messi's Argentina homecoming for the upcoming XL international break. \nLionel Messi\u2018s international future remains a subject of intense speculation following Argentina\u2018s agonizing defeat in\u2026",
-      "timestamp": "2026-08-05T12:29:42.980584Z",
+      "timestamp": "2026-08-05T15:04:59.477787Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Leandro Paredes sparked yet another brawl after returning to Boca Juniors from the FIFA World Cup, smashing the ball at an opponent following a foul during a game against Newell's Old Boys",
-      "timestamp": "2026-08-05T12:29:42.980619Z",
+      "timestamp": "2026-08-05T15:04:59.477818Z",
       "links": [
         {
           "label": "Source",
@@ -304,58 +416,136 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The UFC and WWE owner had the UFC White House event and Wrestlemania while its On Location business had the FIFA World Cup in the quarter.",
-      "timestamp": "2026-08-05T12:29:42.980724Z",
+      "timestamp": "2026-08-05T15:04:59.477940Z",
       "links": [
         {
           "label": "Source",
           "url": "http://www.hollywoodreporter.com/business/business-news/ufc-white-house-tko-earnings-q2-2026-1236663152/"
         }
       ]
-    },
-    {
-      "title": "Real Madrid\u2019s Santiago Bernabeu frontrunner to host the 2030 FIFA World Cup final \u2013 report",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Real Madrid have long harboured the dream of hosting the final of the 2030 World Cup at the Santiago Bernabeu.The 2030 edition of the tournament is set to be co-hosted by Spain, Portugal and Morocco, ...",
-      "timestamp": "2026-08-05T12:29:42.980964Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://madriduniversal.com/real-madrids-santiago-bernabeu-frontrunner-to-host-the-2030-fifa-world-cup-final-report/"
-        }
-      ]
-    },
-    {
-      "title": "PSG optimistic about completing deal for Barcelona forward this week \u2013 report",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Currently on an extended break in light of his heroics at the 2026 FIFA World Cup, Ferran Torres has recently made the biggest statement yet, as far as his future is concerned.While he acknowledged hi...",
-      "timestamp": "2026-08-05T12:29:42.981014Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/psg-optimistic-about-completing-deal-for-barcelona-forward-this-week-report/"
-        }
-      ]
-    },
-    {
-      "title": "USMNT rewards Mauricio Pochettino despite 2026 World Cup failure",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The U.S. Soccer men's team is still reeling after its embarrassing World Cup defeat against Belgium.",
-      "timestamp": "2026-08-05T12:29:42.981133Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/usmnt-rewards-mauricio-pochettino-2026-world-cup-failure/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 05",
+      "loc": "Global",
+      "event": "USMNT to face Mexico, Canada among first four post-World Cup matches",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/usmnt/2026/08/04/usmnt-vs-mexico-canada-friendlies-september-october/91163332007/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 05",
+      "loc": "Vancouver",
+      "event": "FIFA World Cup drove spending in Toronto, Vancouver",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/a2fc5163cd09c4d0"
+        }
+      ]
+    },
+    {
+      "date": "Aug 05",
+      "loc": "Vancouver",
+      "event": "FIFA World Cup drove spending in Toronto, Vancouver",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://financialpost.com/news/economy/fifa-world-cup-drove-spending-toronto-vancouver"
+        }
+      ]
+    },
+    {
+      "date": "Aug 05",
+      "loc": "Global",
+      "event": "Furious World Cup host cities 'chasing FIFA for million-dollar payments' in latest blow for embattled Gianni Infantino",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-16027679/fifa-world-cup-host-cities-payments-gianni-infantino.html"
+        }
+      ]
+    },
+    {
+      "date": "Aug 05",
+      "loc": "Global",
+      "event": "World Cup 2026: U.S. host cities reportedly chasing FIFA for millions promised by association",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-us-host-cities-reportedly-chasing-fifa-for-millions-promised-by-association-134059212.html"
+        }
+      ]
+    },
+    {
+      "date": "Aug 05",
+      "loc": "Global",
+      "event": "Jeju vs Bayern Munich Results Today: Club Friendly Live Score, Updates, Stats",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://heavy.com/sports/soccer/jeju-vs-bayern-munich-results-today-club-friendly-live-score-updates-stats/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 05",
+      "loc": "Global",
+      "event": "How to Watch Jeju SK vs Bayern Munich Live Today: Preseason Preview, Stats, Lineup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://heavy.com/sports/soccer/how-to-watch-jeju-sk-vs-bayern-munich-live-today-preseason-preview-stats-lineup/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 05",
+      "loc": "Global",
+      "event": "Polymarket locks down Serie A partnership as prediction market races toward World Cup season",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cryptobriefing.com/polymarket-serie-a-prediction-market-deal/"
+        }
+      ]
+    },
     {
       "date": "Aug 05",
       "loc": "Global",
@@ -550,52 +740,7 @@
           "url": "http://www.hollywoodreporter.com/business/business-news/ufc-white-house-tko-earnings-q2-2026-1236663152/"
         }
       ]
-    },
-    {
-      "date": "Aug 05",
-      "loc": "Global",
-      "event": "Real Madrid\u2019s Santiago Bernabeu frontrunner to host the 2030 FIFA World Cup final \u2013 report",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://madriduniversal.com/real-madrids-santiago-bernabeu-frontrunner-to-host-the-2030-fifa-world-cup-final-report/"
-        }
-      ]
-    },
-    {
-      "date": "Aug 05",
-      "loc": "Global",
-      "event": "PSG optimistic about completing deal for Barcelona forward this week \u2013 report",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/psg-optimistic-about-completing-deal-for-barcelona-forward-this-week-report/"
-        }
-      ]
-    },
-    {
-      "date": "Aug 05",
-      "loc": "Global",
-      "event": "USMNT rewards Mauricio Pochettino despite 2026 World Cup failure",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/usmnt-rewards-mauricio-pochettino-2026-world-cup-failure/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-05T12:29:42.981640Z"
+  "lastUpdated": "2026-08-05T15:04:59.478338Z"
 }
