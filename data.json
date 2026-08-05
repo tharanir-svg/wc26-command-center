@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 23
+    "p3": 25
   },
   "watchlist": [
     {
@@ -131,12 +131,96 @@
   ],
   "risks": [
     {
+      "title": "FIFA President Gianni Infantino faces fresh pressure as US World Cup host cities demand $1m payments",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA President Gianni Infantino was already under pressure from the footballing world for his plan to sell a stake in the World Cup. Infantino is now facing even more scrutiny for failing to fulfil a promise he made to the 2026 World Cup host cities.",
+      "timestamp": "2026-08-05T19:07:40.976622Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/fifa-president-gianni-infantino-faces-fresh-pressure-as-us-world-cup-host-cities-demand-1m-payments/"
+        }
+      ]
+    },
+    {
+      "title": "How Bayern are taking the spirit of Jeju to Hong Kong",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "It was late at night on Jeju and still the air conditioning was whirring in the press room at the World Cup Stadium in Seogwipo. On the podium, Vincent Kompany praised his team following the 2-1 frien...",
+      "timestamp": "2026-08-05T19:07:40.976685Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://fcbayern.com/en/news/2026/08/analysis-jeju-sk-vs.-fc-bayern"
+        }
+      ]
+    },
+    {
+      "title": "Chris Canetti on Houston\u2019s World Cup success: 1M+ fans, Cristiano Ronaldo excitement and US legacy",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "In an exclusive interview with World Soccer Talk, Houston 2026 World Cup Host Committee president Chris Canetti discussed the success after welcoming more than 1 million fans in the city, the excitement around Cristiano Ronaldo, and what will be left as legac\u2026",
+      "timestamp": "2026-08-05T19:07:40.976758Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/chris-canetti-on-houstons-world-cup-success-1m-fans-cristiano-ronaldo-excitement-and-us-legacy/"
+        }
+      ]
+    },
+    {
+      "title": "U.S. cities chase FIFA over millions promised after hosting World Cup games",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Several U.S. cities that hosted matches at the 2026 FIFA World Cup are reportedly seeking millions of dollars they say FIFA promised but has yet to pay.\nThe post U.S. cities chase FIFA over millions promised after hosting World Cup games appeared first on Van\u2026",
+      "timestamp": "2026-08-05T19:07:40.976970Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/08/u-s-cities-chase-fifa-over-millions-promised-after-hosting-world-cup-games/"
+        }
+      ]
+    },
+    {
+      "title": "Spending in Toronto, Vancouver was up on World Cup match days, Visa data suggests",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "New Visa data suggests the FIFA World Cup brought a rise in spending among consumers in Canadian host cities.",
+      "timestamp": "2026-08-05T19:07:40.976991Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/news/canada/toronto/world-cup-visa-spending-9.7295978"
+        }
+      ]
+    },
+    {
+      "title": "Next MLS commissioner Berg targets quality improvement to build on World Cup excitement",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Aug 4 : Major League Soccer's incoming commissioner Larry Berg said improving the quality of play and deepening the league's youth-development pipeline will be central to his agenda as it seeks to build on momentum from the 2026 World Cup.Berg, the Los Angele\u2026",
+      "timestamp": "2026-08-05T19:07:40.977043Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.channelnewsasia.com/sport/next-mls-commissioner-berg-targets-quality-improvement-build-world-cup-excitement-6298736"
+        }
+      ]
+    },
+    {
       "title": "World Cup Host Cities Chase FIFA as It Refuses to Pay Up",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "U.S. President Donald Trump remains silent as American cities are left to foot the bill.",
-      "timestamp": "2026-08-05T17:15:17.367153Z",
+      "timestamp": "2026-08-05T19:07:40.977195Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The\u00a02026 FIFA World Cup has long since come and passed, and while it was a resounding success compared to expectations going in, many cities have reportedly been left holding the bag. According to Adam Crafton of\u00a0The Athletic, 11 U.S. cities are still waiting\u2026",
-      "timestamp": "2026-08-05T17:15:17.367232Z",
+      "timestamp": "2026-08-05T19:07:40.977249Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "As the dust settles from the 2026 FIFA World Cup, and with Mauricio Pochettino signed on for another four years, the USMNT is set to officially being the 2030 cycle in earnest.",
-      "timestamp": "2026-08-05T17:15:17.367291Z",
+      "timestamp": "2026-08-05T19:07:40.977329Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Someone forgot to tell Americans that FIFA is clownishly corrupt.According to four executives at U.S. host city committees, all of whom asked to remain anonymous to protect relationships, FIFA management repeatedly assured the cities they would receive the sa\u2026",
-      "timestamp": "2026-08-05T17:15:17.367359Z",
+      "timestamp": "2026-08-05T19:07:40.977431Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The U.S. men's national team has announced the first four matches it will play after the 2026 World Cup.",
-      "timestamp": "2026-08-05T17:15:17.367422Z",
+      "timestamp": "2026-08-05T19:07:40.977496Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spending rose nearly 25 per cent in Canada\u2019s host cities during match days of the 2026 FIFA World Cup , according to data from Visa Inc . \n Toronto and Vancouver hosted 13 matches during this year\u2019s World Cup run. Visa said its data reveals the tournament lef\u2026",
-      "timestamp": "2026-08-05T17:15:17.367490Z",
+      "timestamp": "2026-08-05T19:07:40.977589Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spending rose nearly 25 per cent in Canada's host cities during match days of the 2026 FIFA World Cup, according to Visa Inc. Read here now",
-      "timestamp": "2026-08-05T17:15:17.367514Z",
+      "timestamp": "2026-08-05T19:07:40.977621Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Four unnamed executives at US host city committees reportedly claim that FIFA 'repeatedly assured' the cities that they would receive the same $1m contribution, despite never making a public statement.",
-      "timestamp": "2026-08-05T17:15:17.367558Z",
+      "timestamp": "2026-08-05T19:07:40.977683Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Gianni Infantino remains under fire for his actions as FIFA president.",
-      "timestamp": "2026-08-05T17:15:17.367620Z",
+      "timestamp": "2026-08-05T19:07:40.977771Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FC Bayern Munich began their Audi Summer Tour with a preseason friendly against South Korean side Jeju SK FC on Tuesday at the Jeju World Cup Stadium in Seogwipo. The match marked Bayern\u2019s opening fixture of their 2026 Asia tour as FC Bayern Munich continued \u2026",
-      "timestamp": "2026-08-05T17:15:17.367694Z",
+      "timestamp": "2026-08-05T19:07:40.977878Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jeju SK vs Bayern Munich live today marks the start of Bayern Munich\u2019s 2026 Audi Summer Tour in Asia. The South Korean club hosts the German champions on Tuesday, August 4, at the Jeju World Cup Stadium in Seogwipo.The friendly gives head coach Vincent Kompan\u2026",
-      "timestamp": "2026-08-05T17:15:17.367731Z",
+      "timestamp": "2026-08-05T19:07:40.977934Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Polymarket's strategic partnerships enhance its credibility and position it to capitalize on increased soccer interest during the 2026 World Cup.\nThe post Polymarket locks down Serie A partnership as prediction market races toward World Cup season appeared fi\u2026",
-      "timestamp": "2026-08-05T17:15:17.367780Z",
+      "timestamp": "2026-08-05T19:07:40.978008Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Toronto, Canada, Aug. 04, 2026 (GLOBE NEWSWIRE) -- WorldCupBetting.ca, one of Canada\u2019s dedicated football betting resources throughout the FIFA World Cup 2026, today announced a major expansion of its editorial coverage. Building on the trust earned during on\u2026",
-      "timestamp": "2026-08-05T17:15:17.367838Z",
+      "timestamp": "2026-08-05T19:07:40.978092Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Matchday spending in Canada\u2019s host cities increased during the tournament, highlighting the economic impact of FIFA World Cup 2026\u2122 on local businesses. TORONTO, Aug. 04, 2026 (GLOBE NEWSWIRE) \u2014 Following the unforgettable 13 Canadian-hosted matches for FIFA \u2026",
-      "timestamp": "2026-08-05T17:15:17.367860Z",
+      "timestamp": "2026-08-05T19:07:40.978123Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Matchday spending in Canada\u2019s host cities increased during the tournament, highlighting the economic impact of FIFA World Cup 2026\u2122 on local businesses. ...",
-      "timestamp": "2026-08-05T17:15:17.367888Z",
+      "timestamp": "2026-08-05T19:07:40.978165Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Manchester City continue their pre-season duties as they face a combined team of K-League\u2019s best players at the Seoul World Cup Stadium in South Korea on Wednesday.The Enzo Maresca era started in Ho...",
-      "timestamp": "2026-08-05T17:15:17.367959Z",
+      "timestamp": "2026-08-05T19:07:40.978261Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +444,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's a recap of the World Cup at MetLife Stadium after 640,000 fans attended matches in East Rutherford.",
-      "timestamp": "2026-08-05T17:15:17.368115Z",
+      "timestamp": "2026-08-05T19:07:40.978559Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +458,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Real Madrid have already had a blockbuster summer transfer window so far and are still focused on signing 2026 World Cup winner Rodri from Manchester City.Florentino Perez has gone all out in the tran...",
-      "timestamp": "2026-08-05T17:15:17.368161Z",
+      "timestamp": "2026-08-05T19:07:40.978646Z",
       "links": [
         {
           "label": "Source",
@@ -388,72 +472,106 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "During the 2026 FIFA World Cup, Deltatre operated the broadcasting and streaming infrastructure for a number of major rights holders' World Cup platforms worldwide. In this Q&A, Gilles Mas, Chief Operating Officer at Deltatre, discusses the challenges and int\u2026",
-      "timestamp": "2026-08-05T17:15:17.368197Z",
+      "timestamp": "2026-08-05T19:07:40.978710Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=175996"
         }
       ]
-    },
-    {
-      "title": "Ferran Torres claims Donald Trump-inspired Make Spain Great Again cap was \u2018not about politics\u2019",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Ferran Torres sported a \u2018Make Spain Great Again\u2019 cap just a day after being handed his World Cup medal by Donald Trump. Torres and Spain lifted the World Cup at MetLife Stadium after defeating Argentina.",
-      "timestamp": "2026-08-05T17:15:17.368230Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/ferran-torres-claims-donald-trump-inspired-make-spain-great-again-cap-was-not-about-politics/"
-        }
-      ]
-    },
-    {
-      "title": "Is Jones finally seeing the light after blinding his Cowboys with it?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The sun has long been an issue at AT&T Stadium, but the Dallas Cowboys may no longer be blinded by the light if Jerry Jones changes his tune.",
-      "timestamp": "2026-08-05T17:15:17.368427Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cowboyswire.usatoday.com/story/sports/nfl/cowboys/2026/08/03/dallas-cowboys-may-no-longer-be-blinded-by-the-light-at-att-stadium-thanks-to-jerry-jones/91155647007/"
-        }
-      ]
-    },
-    {
-      "title": "Computer Weekly \u2013 4 August 2026: How AI kicked in for the 2026 FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "In this week's Computer Weekly, we go behind the scenes at the technology operations centre for the FIFA World Cup to find out how AI helped make the football even better for fans. And our latest buyer's guide looks at the impact of AI on cyber security. Read\u2026",
-      "timestamp": "2026-08-05T17:15:17.368457Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techtarget.com/hub/asset/1785760124_265"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi reportedly set for Argentina homecoming during upcoming XL international break after 2026 World Cup final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "After the 2026 World Cup final, the AFA is reportedly plotting Lionel Messi's Argentina homecoming for the upcoming XL international break. \nLionel Messi\u2018s international future remains a subject of intense speculation following Argentina\u2018s agonizing defeat in\u2026",
-      "timestamp": "2026-08-05T17:15:17.368575Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/lionel-messi-reportedly-set-for-argentina-homecoming-during-upcoming-xl-international-break-after-2026-world-cup-final/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 05",
+      "loc": "Global",
+      "event": "FIFA President Gianni Infantino faces fresh pressure as US World Cup host cities demand $1m payments",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/fifa-president-gianni-infantino-faces-fresh-pressure-as-us-world-cup-host-cities-demand-1m-payments/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 05",
+      "loc": "Global",
+      "event": "How Bayern are taking the spirit of Jeju to Hong Kong",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://fcbayern.com/en/news/2026/08/analysis-jeju-sk-vs.-fc-bayern"
+        }
+      ]
+    },
+    {
+      "date": "Aug 05",
+      "loc": "Houston",
+      "event": "Chris Canetti on Houston\u2019s World Cup success: 1M+ fans, Cristiano Ronaldo excitement and US legacy",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/world-cup/chris-canetti-on-houstons-world-cup-success-1m-fans-cristiano-ronaldo-excitement-and-us-legacy/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 05",
+      "loc": "Global",
+      "event": "U.S. cities chase FIFA over millions promised after hosting World Cup games",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.vanguardngr.com/2026/08/u-s-cities-chase-fifa-over-millions-promised-after-hosting-world-cup-games/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 05",
+      "loc": "Vancouver",
+      "event": "Spending in Toronto, Vancouver was up on World Cup match days, Visa data suggests",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/news/canada/toronto/world-cup-visa-spending-9.7295978"
+        }
+      ]
+    },
+    {
+      "date": "Aug 05",
+      "loc": "Global",
+      "event": "Next MLS commissioner Berg targets quality improvement to build on World Cup excitement",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.channelnewsasia.com/sport/next-mls-commissioner-berg-targets-quality-improvement-build-world-cup-excitement-6298736"
+        }
+      ]
+    },
     {
       "date": "Aug 05",
       "loc": "Global",
@@ -738,67 +856,7 @@
           "url": "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=175996"
         }
       ]
-    },
-    {
-      "date": "Aug 05",
-      "loc": "New York / New Jersey",
-      "event": "Ferran Torres claims Donald Trump-inspired Make Spain Great Again cap was \u2018not about politics\u2019",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/ferran-torres-claims-donald-trump-inspired-make-spain-great-again-cap-was-not-about-politics/"
-        }
-      ]
-    },
-    {
-      "date": "Aug 05",
-      "loc": "Dallas",
-      "event": "Is Jones finally seeing the light after blinding his Cowboys with it?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://cowboyswire.usatoday.com/story/sports/nfl/cowboys/2026/08/03/dallas-cowboys-may-no-longer-be-blinded-by-the-light-at-att-stadium-thanks-to-jerry-jones/91155647007/"
-        }
-      ]
-    },
-    {
-      "date": "Aug 05",
-      "loc": "Global",
-      "event": "Computer Weekly \u2013 4 August 2026: How AI kicked in for the 2026 FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techtarget.com/hub/asset/1785760124_265"
-        }
-      ]
-    },
-    {
-      "date": "Aug 05",
-      "loc": "Global",
-      "event": "Lionel Messi reportedly set for Argentina homecoming during upcoming XL international break after 2026 World Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/lionel-messi-reportedly-set-for-argentina-homecoming-during-upcoming-xl-international-break-after-2026-world-cup-final/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-05T17:15:17.368724Z"
+  "lastUpdated": "2026-08-05T19:07:40.978880Z"
 }
