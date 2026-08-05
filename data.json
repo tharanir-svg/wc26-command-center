@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 21
+    "p3": 23
   },
   "watchlist": [
     {
@@ -131,12 +131,68 @@
   ],
   "risks": [
     {
+      "title": "World Cup Host Cities Chase FIFA as It Refuses to Pay Up",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "U.S. President Donald Trump remains silent as American cities are left to foot the bill.",
+      "timestamp": "2026-08-05T17:15:17.367153Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://newrepublic.com/post/213952/world-cup-host-cities-chase-fifa-refuses-pay"
+        }
+      ]
+    },
+    {
+      "title": "FIFA Reportedly Snubbed U.S. Cities On World Cup Payouts After They Failed To Get Agreement In Writing",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The\u00a02026 FIFA World Cup has long since come and passed, and while it was a resounding success compared to expectations going in, many cities have reportedly been left holding the bag. According to Adam Crafton of\u00a0The Athletic, 11 U.S. cities are still waiting\u2026",
+      "timestamp": "2026-08-05T17:15:17.367232Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://brobible.com/sports/article/fifa-snubbed-us-cities-world-cup-payouts/"
+        }
+      ]
+    },
+    {
+      "title": "USMNT schedule for September, October international break: Four-game slate confirmed for U.S. national team",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "As the dust settles from the 2026 FIFA World Cup, and with Mauricio Pochettino signed on for another four years, the USMNT is set to officially being the 2030 cycle in earnest.",
+      "timestamp": "2026-08-05T17:15:17.367291Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/usmnt-schedule-september-october-us-national-team/0f79fa977ec2b260809bba41"
+        }
+      ]
+    },
+    {
+      "title": "You Fucked Up! You Trusted Us!",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Someone forgot to tell Americans that FIFA is clownishly corrupt.According to four executives at U.S. host city committees, all of whom asked to remain anonymous to protect relationships, FIFA management repeatedly assured the cities they would receive the sa\u2026",
+      "timestamp": "2026-08-05T17:15:17.367359Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.eschatonblog.com/2026/08/you-fucked-up-you-trusted-us.html"
+        }
+      ]
+    },
+    {
       "title": "USMNT to face Mexico, Canada among first four post-World Cup matches",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The U.S. men's national team has announced the first four matches it will play after the 2026 World Cup.",
-      "timestamp": "2026-08-05T15:04:59.476317Z",
+      "timestamp": "2026-08-05T17:15:17.367422Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spending rose nearly 25 per cent in Canada\u2019s host cities during match days of the 2026 FIFA World Cup , according to data from Visa Inc . \n Toronto and Vancouver hosted 13 matches during this year\u2019s World Cup run. Visa said its data reveals the tournament lef\u2026",
-      "timestamp": "2026-08-05T15:04:59.476445Z",
+      "timestamp": "2026-08-05T17:15:17.367490Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spending rose nearly 25 per cent in Canada's host cities during match days of the 2026 FIFA World Cup, according to Visa Inc. Read here now",
-      "timestamp": "2026-08-05T15:04:59.476489Z",
+      "timestamp": "2026-08-05T17:15:17.367514Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Four unnamed executives at US host city committees reportedly claim that FIFA 'repeatedly assured' the cities that they would receive the same $1m contribution, despite never making a public statement.",
-      "timestamp": "2026-08-05T15:04:59.476546Z",
+      "timestamp": "2026-08-05T17:15:17.367558Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Gianni Infantino remains under fire for his actions as FIFA president.",
-      "timestamp": "2026-08-05T15:04:59.476630Z",
+      "timestamp": "2026-08-05T17:15:17.367620Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FC Bayern Munich began their Audi Summer Tour with a preseason friendly against South Korean side Jeju SK FC on Tuesday at the Jeju World Cup Stadium in Seogwipo. The match marked Bayern\u2019s opening fixture of their 2026 Asia tour as FC Bayern Munich continued \u2026",
-      "timestamp": "2026-08-05T15:04:59.476735Z",
+      "timestamp": "2026-08-05T17:15:17.367694Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jeju SK vs Bayern Munich live today marks the start of Bayern Munich\u2019s 2026 Audi Summer Tour in Asia. The South Korean club hosts the German champions on Tuesday, August 4, at the Jeju World Cup Stadium in Seogwipo.The friendly gives head coach Vincent Kompan\u2026",
-      "timestamp": "2026-08-05T15:04:59.476786Z",
+      "timestamp": "2026-08-05T17:15:17.367731Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Polymarket's strategic partnerships enhance its credibility and position it to capitalize on increased soccer interest during the 2026 World Cup.\nThe post Polymarket locks down Serie A partnership as prediction market races toward World Cup season appeared fi\u2026",
-      "timestamp": "2026-08-05T15:04:59.476854Z",
+      "timestamp": "2026-08-05T17:15:17.367780Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Toronto, Canada, Aug. 04, 2026 (GLOBE NEWSWIRE) -- WorldCupBetting.ca, one of Canada\u2019s dedicated football betting resources throughout the FIFA World Cup 2026, today announced a major expansion of its editorial coverage. Building on the trust earned during on\u2026",
-      "timestamp": "2026-08-05T15:04:59.476929Z",
+      "timestamp": "2026-08-05T17:15:17.367838Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Matchday spending in Canada\u2019s host cities increased during the tournament, highlighting the economic impact of FIFA World Cup 2026\u2122 on local businesses. TORONTO, Aug. 04, 2026 (GLOBE NEWSWIRE) \u2014 Following the unforgettable 13 Canadian-hosted matches for FIFA \u2026",
-      "timestamp": "2026-08-05T15:04:59.476960Z",
+      "timestamp": "2026-08-05T17:15:17.367860Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +332,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Matchday spending in Canada\u2019s host cities increased during the tournament, highlighting the economic impact of FIFA World Cup 2026\u2122 on local businesses. ...",
-      "timestamp": "2026-08-05T15:04:59.476996Z",
+      "timestamp": "2026-08-05T17:15:17.367888Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +346,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Manchester City continue their pre-season duties as they face a combined team of K-League\u2019s best players at the Seoul World Cup Stadium in South Korea on Wednesday.The Enzo Maresca era started in Ho...",
-      "timestamp": "2026-08-05T15:04:59.477102Z",
+      "timestamp": "2026-08-05T17:15:17.367959Z",
       "links": [
         {
           "label": "Source",
@@ -304,7 +360,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's a recap of the World Cup at MetLife Stadium after 640,000 fans attended matches in East Rutherford.",
-      "timestamp": "2026-08-05T15:04:59.477300Z",
+      "timestamp": "2026-08-05T17:15:17.368115Z",
       "links": [
         {
           "label": "Source",
@@ -318,7 +374,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Real Madrid have already had a blockbuster summer transfer window so far and are still focused on signing 2026 World Cup winner Rodri from Manchester City.Florentino Perez has gone all out in the tran...",
-      "timestamp": "2026-08-05T15:04:59.477360Z",
+      "timestamp": "2026-08-05T17:15:17.368161Z",
       "links": [
         {
           "label": "Source",
@@ -332,7 +388,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "During the 2026 FIFA World Cup, Deltatre operated the broadcasting and streaming infrastructure for a number of major rights holders' World Cup platforms worldwide. In this Q&A, Gilles Mas, Chief Operating Officer at Deltatre, discusses the challenges and int\u2026",
-      "timestamp": "2026-08-05T15:04:59.477410Z",
+      "timestamp": "2026-08-05T17:15:17.368197Z",
       "links": [
         {
           "label": "Source",
@@ -346,7 +402,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ferran Torres sported a \u2018Make Spain Great Again\u2019 cap just a day after being handed his World Cup medal by Donald Trump. Torres and Spain lifted the World Cup at MetLife Stadium after defeating Argentina.",
-      "timestamp": "2026-08-05T15:04:59.477456Z",
+      "timestamp": "2026-08-05T17:15:17.368230Z",
       "links": [
         {
           "label": "Source",
@@ -360,7 +416,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The sun has long been an issue at AT&T Stadium, but the Dallas Cowboys may no longer be blinded by the light if Jerry Jones changes his tune.",
-      "timestamp": "2026-08-05T15:04:59.477640Z",
+      "timestamp": "2026-08-05T17:15:17.368427Z",
       "links": [
         {
           "label": "Source",
@@ -374,7 +430,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In this week's Computer Weekly, we go behind the scenes at the technology operations centre for the FIFA World Cup to find out how AI helped make the football even better for fans. And our latest buyer's guide looks at the impact of AI on cyber security. Read\u2026",
-      "timestamp": "2026-08-05T15:04:59.477669Z",
+      "timestamp": "2026-08-05T17:15:17.368457Z",
       "links": [
         {
           "label": "Source",
@@ -388,44 +444,76 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After the 2026 World Cup final, the AFA is reportedly plotting Lionel Messi's Argentina homecoming for the upcoming XL international break. \nLionel Messi\u2018s international future remains a subject of intense speculation following Argentina\u2018s agonizing defeat in\u2026",
-      "timestamp": "2026-08-05T15:04:59.477787Z",
+      "timestamp": "2026-08-05T17:15:17.368575Z",
       "links": [
         {
           "label": "Source",
           "url": "https://worldsoccertalk.com/news/lionel-messi-reportedly-set-for-argentina-homecoming-during-upcoming-xl-international-break-after-2026-world-cup-final/"
         }
       ]
-    },
-    {
-      "title": "Leandro Paredes causes brawl during Boca Juniors match after kicking ball at opponent",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Leandro Paredes sparked yet another brawl after returning to Boca Juniors from the FIFA World Cup, smashing the ball at an opponent following a foul during a game against Newell's Old Boys",
-      "timestamp": "2026-08-05T15:04:59.477818Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/leandro-paredes-brawl-boca-juniors-1967192"
-        }
-      ]
-    },
-    {
-      "title": "UFC White House Event Powers TKO Earnings",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The UFC and WWE owner had the UFC White House event and Wrestlemania while its On Location business had the FIFA World Cup in the quarter.",
-      "timestamp": "2026-08-05T15:04:59.477940Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.hollywoodreporter.com/business/business-news/ufc-white-house-tko-earnings-q2-2026-1236663152/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 05",
+      "loc": "Global",
+      "event": "World Cup Host Cities Chase FIFA as It Refuses to Pay Up",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://newrepublic.com/post/213952/world-cup-host-cities-chase-fifa-refuses-pay"
+        }
+      ]
+    },
+    {
+      "date": "Aug 05",
+      "loc": "Global",
+      "event": "FIFA Reportedly Snubbed U.S. Cities On World Cup Payouts After They Failed To Get Agreement In Writing",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://brobible.com/sports/article/fifa-snubbed-us-cities-world-cup-payouts/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 05",
+      "loc": "Global",
+      "event": "USMNT schedule for September, October international break: Four-game slate confirmed for U.S. national team",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/usmnt-schedule-september-october-us-national-team/0f79fa977ec2b260809bba41"
+        }
+      ]
+    },
+    {
+      "date": "Aug 05",
+      "loc": "Global",
+      "event": "You Fucked Up! You Trusted Us!",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.eschatonblog.com/2026/08/you-fucked-up-you-trusted-us.html"
+        }
+      ]
+    },
     {
       "date": "Aug 05",
       "loc": "Global",
@@ -710,37 +798,7 @@
           "url": "https://worldsoccertalk.com/news/lionel-messi-reportedly-set-for-argentina-homecoming-during-upcoming-xl-international-break-after-2026-world-cup-final/"
         }
       ]
-    },
-    {
-      "date": "Aug 05",
-      "loc": "Global",
-      "event": "Leandro Paredes causes brawl during Boca Juniors match after kicking ball at opponent",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/leandro-paredes-brawl-boca-juniors-1967192"
-        }
-      ]
-    },
-    {
-      "date": "Aug 05",
-      "loc": "Global",
-      "event": "UFC White House Event Powers TKO Earnings",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.hollywoodreporter.com/business/business-news/ufc-white-house-tko-earnings-q2-2026-1236663152/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-05T15:04:59.478338Z"
+  "lastUpdated": "2026-08-05T17:15:17.368724Z"
 }
