@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 12
+    "p3": 14
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "Is Jones finally seeing the light after blinding his Cowboys with it?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The sun has long been an issue at AT&T Stadium, but the Dallas Cowboys may no longer be blinded by the light if Jerry Jones changes his tune.",
+      "timestamp": "2026-08-05T01:14:01.521350Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cowboyswire.usatoday.com/story/sports/nfl/cowboys/2026/08/03/dallas-cowboys-may-no-longer-be-blinded-by-the-light-at-att-stadium-thanks-to-jerry-jones/91155647007/"
+        }
+      ]
+    },
+    {
+      "title": "Computer Weekly \u2013 4 August 2026: How AI kicked in for the 2026 FIFA World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "In this week's Computer Weekly, we go behind the scenes at the technology operations centre for the FIFA World Cup to find out how AI helped make the football even better for fans. And our latest buyer's guide looks at the impact of AI on cyber security. Read\u2026",
+      "timestamp": "2026-08-05T01:14:01.521415Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techtarget.com/hub/asset/1785760124_265"
+        }
+      ]
+    },
+    {
       "title": "Lionel Messi reportedly set for Argentina homecoming during upcoming XL international break after 2026 World Cup final",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After the 2026 World Cup final, the AFA is reportedly plotting Lionel Messi's Argentina homecoming for the upcoming XL international break. \nLionel Messi\u2018s international future remains a subject of intense speculation following Argentina\u2018s agonizing defeat in\u2026",
-      "timestamp": "2026-08-04T23:50:40.910966Z",
+      "timestamp": "2026-08-05T01:14:01.521561Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Leandro Paredes sparked yet another brawl after returning to Boca Juniors from the FIFA World Cup, smashing the ball at an opponent following a foul during a game against Newell's Old Boys",
-      "timestamp": "2026-08-04T23:50:40.911016Z",
+      "timestamp": "2026-08-05T01:14:01.521601Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The UFC and WWE owner had the UFC White House event and Wrestlemania while its On Location business had the FIFA World Cup in the quarter.",
-      "timestamp": "2026-08-04T23:50:40.911120Z",
+      "timestamp": "2026-08-05T01:14:01.521708Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Real Madrid have long harboured the dream of hosting the final of the 2030 World Cup at the Santiago Bernabeu.The 2030 edition of the tournament is set to be co-hosted by Spain, Portugal and Morocco, ...",
-      "timestamp": "2026-08-04T23:50:40.911358Z",
+      "timestamp": "2026-08-05T01:14:01.521950Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Currently on an extended break in light of his heroics at the 2026 FIFA World Cup, Ferran Torres has recently made the biggest statement yet, as far as his future is concerned.While he acknowledged hi...",
-      "timestamp": "2026-08-04T23:50:40.911408Z",
+      "timestamp": "2026-08-05T01:14:01.522003Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The U.S. Soccer men's team is still reeling after its embarrassing World Cup defeat against Belgium.",
-      "timestamp": "2026-08-04T23:50:40.911517Z",
+      "timestamp": "2026-08-05T01:14:01.522119Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA President Gianni Infantino reportedly sought support from the administration of United States President Donald Trump after facing growing criticism over the collapse of a controversial plan to sell a stake in the commercial rights to the FIFA World Cup.\n\u2026",
-      "timestamp": "2026-08-04T23:50:40.911843Z",
+      "timestamp": "2026-08-05T01:14:01.522493Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Dallas Cowboys owner Jerry Jones is considering tinting the windows at AT&T Stadium to reduce sun glare, a move that could improve player visibility and maintain the venue's iconic design.",
-      "timestamp": "2026-08-04T23:50:40.911872Z",
+      "timestamp": "2026-08-05T01:14:01.522525Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A professional videographer was arrested by the FBI after flying a drone for two minutes to film a church in Houston, Texas, during the 2026 World Cup, despite no matches being held in the city that day.\n[Read More]",
-      "timestamp": "2026-08-04T23:50:40.912020Z",
+      "timestamp": "2026-08-05T01:14:01.522679Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +290,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Soccer star Ferran Torres joins TODAY to talk about Spain\u2019s 2026 FIFA World Cup championship and shares insight into his epic extra-time goal in the final that sealed his team\u2019s victory over Argentina. He also opens up about his mental health journey and gets\u2026",
-      "timestamp": "2026-08-04T23:50:40.912092Z",
+      "timestamp": "2026-08-05T01:14:01.522756Z",
       "links": [
         {
           "label": "Source",
@@ -276,7 +304,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mauricio Pochettino is officially extending his stay with U.S. Soccer. Pochettino has signed a new, four-year deal as head coach of the U.S. Men\u2019s National Team, U.S. Soccer announced Monday. The contract will run through the 2030 FIFA World Cup, which will t\u2026",
-      "timestamp": "2026-08-04T23:50:40.912133Z",
+      "timestamp": "2026-08-05T01:14:01.522801Z",
       "links": [
         {
           "label": "Source",
@@ -290,7 +318,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The success of the FIFA World Cup in Southern California provided valuable lessons for LA28 as it continues its preparations for the 2028 Olympic Games.",
-      "timestamp": "2026-08-04T23:50:40.912247Z",
+      "timestamp": "2026-08-05T01:14:01.522908Z",
       "links": [
         {
           "label": "Source",
@@ -301,7 +329,37 @@
   ],
   "timeline": [
     {
-      "date": "Aug 04",
+      "date": "Aug 05",
+      "loc": "Dallas",
+      "event": "Is Jones finally seeing the light after blinding his Cowboys with it?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://cowboyswire.usatoday.com/story/sports/nfl/cowboys/2026/08/03/dallas-cowboys-may-no-longer-be-blinded-by-the-light-at-att-stadium-thanks-to-jerry-jones/91155647007/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 05",
+      "loc": "Global",
+      "event": "Computer Weekly \u2013 4 August 2026: How AI kicked in for the 2026 FIFA World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techtarget.com/hub/asset/1785760124_265"
+        }
+      ]
+    },
+    {
+      "date": "Aug 05",
       "loc": "Global",
       "event": "Lionel Messi reportedly set for Argentina homecoming during upcoming XL international break after 2026 World Cup final",
       "type": "News",
@@ -316,7 +374,7 @@
       ]
     },
     {
-      "date": "Aug 04",
+      "date": "Aug 05",
       "loc": "Global",
       "event": "Leandro Paredes causes brawl during Boca Juniors match after kicking ball at opponent",
       "type": "News",
@@ -331,7 +389,7 @@
       ]
     },
     {
-      "date": "Aug 04",
+      "date": "Aug 05",
       "loc": "Global",
       "event": "UFC White House Event Powers TKO Earnings",
       "type": "News",
@@ -346,7 +404,7 @@
       ]
     },
     {
-      "date": "Aug 04",
+      "date": "Aug 05",
       "loc": "Global",
       "event": "Real Madrid\u2019s Santiago Bernabeu frontrunner to host the 2030 FIFA World Cup final \u2013 report",
       "type": "News",
@@ -361,7 +419,7 @@
       ]
     },
     {
-      "date": "Aug 04",
+      "date": "Aug 05",
       "loc": "Global",
       "event": "PSG optimistic about completing deal for Barcelona forward this week \u2013 report",
       "type": "News",
@@ -376,7 +434,7 @@
       ]
     },
     {
-      "date": "Aug 04",
+      "date": "Aug 05",
       "loc": "Global",
       "event": "USMNT rewards Mauricio Pochettino despite 2026 World Cup failure",
       "type": "News",
@@ -391,7 +449,7 @@
       ]
     },
     {
-      "date": "Aug 04",
+      "date": "Aug 05",
       "loc": "Global",
       "event": "Infantino turns to Trump as pressure mounts over his role",
       "type": "News",
@@ -406,7 +464,7 @@
       ]
     },
     {
-      "date": "Aug 04",
+      "date": "Aug 05",
       "loc": "Dallas",
       "event": "Jerry Jones Considers Tinting AT&T Stadium Windows to Fix Longtime Sun Glare Problem",
       "type": "News",
@@ -421,7 +479,7 @@
       ]
     },
     {
-      "date": "Aug 04",
+      "date": "Aug 05",
       "loc": "Houston",
       "event": "Videographer is Facing One Year in Jail for Flying Drone to Film Church During World Cup",
       "type": "News",
@@ -436,7 +494,7 @@
       ]
     },
     {
-      "date": "Aug 04",
+      "date": "Aug 05",
       "loc": "Global",
       "event": "Spanish Soccer Star Ferran Torres Talks World Cup Win",
       "type": "News",
@@ -451,7 +509,7 @@
       ]
     },
     {
-      "date": "Aug 04",
+      "date": "Aug 05",
       "loc": "Global",
       "event": "Mauricio Pochettino signs new contract with U.S. Soccer through 2030",
       "type": "News",
@@ -466,7 +524,7 @@
       ]
     },
     {
-      "date": "Aug 04",
+      "date": "Aug 05",
       "loc": "Global",
       "event": "How the World Cup became 'a great dry run' for the 2028 L.A. Olympics",
       "type": "News",
@@ -481,5 +539,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-04T23:50:40.912681Z"
+  "lastUpdated": "2026-08-05T01:14:01.523351Z"
 }
