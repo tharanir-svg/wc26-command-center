@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "ADWEEK TV Advantage: World Cup Reveals 3 Marketing Lessons to Add a Real Kick",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Samba helps ADWEEK dig into the data behind the trends of the 2026 FIFA World Cup.",
+      "timestamp": "2026-08-08T06:27:55.286142Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.adweek.com/convergent-tv/adweek-tv-advantage-world-cup-reveals-3-marketing-lessons/"
+        }
+      ]
+    },
+    {
       "title": "Meet the city making 70% of world\u2019s footballs, including World Cup ball",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A city in Pakistan has become the unlikely centre of the global football industry, producing an estimated 70 per cent of the world\u2019s footballs, including the official match ball used at the FIFA World Cup.\nThe post Meet the city making 70% of world\u2019s football\u2026",
-      "timestamp": "2026-08-08T05:32:17.809980Z",
+      "timestamp": "2026-08-08T06:27:55.287069Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Argentine Football Association has announced that July 15 will be National Football Teams Day, in part to commemorate the country's recent FIFA World Cup semifinal victory over England",
-      "timestamp": "2026-08-08T05:32:17.810241Z",
+      "timestamp": "2026-08-08T06:27:55.287379Z",
       "links": [
         {
           "label": "Source",
@@ -164,30 +178,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Moving beyond legacy jamming and kinetics, multi-level agency operators deployed EnforceAir as preeminent cyber-takeover system to protect the tournament's land, air, and waterways. RA'ANANA, Israel and MCLEAN, Va., Aug. 6, 2026 /PRNewswire/ \u2013 D-Fend Solution\u2026",
-      "timestamp": "2026-08-08T05:32:17.810504Z",
+      "timestamp": "2026-08-08T06:27:55.287739Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.prnewswire.com/news-releases/d-fend-solutions-enforceair-provided-world-cup-counter-drone-security-across-array-of-host-cities-adopted-by-20-public-safety-agencies-302844972.html"
         }
       ]
-    },
-    {
-      "title": "2026 World Cup Scores for Fox With Major Ad Sales Boost",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Ad sales in Fox's TV segment soared by more than 108% thanks to the global soccer event.",
-      "timestamp": "2026-08-08T05:32:17.810614Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.hollywoodreporter.com/business/business-news/2026-fifa-world-cup-scores-fox-advertising-1236665291/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 08",
+      "loc": "Global",
+      "event": "ADWEEK TV Advantage: World Cup Reveals 3 Marketing Lessons to Add a Real Kick",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.adweek.com/convergent-tv/adweek-tv-advantage-world-cup-reveals-3-marketing-lessons/"
+        }
+      ]
+    },
     {
       "date": "Aug 08",
       "loc": "Global",
@@ -232,22 +247,7 @@
           "url": "https://www.prnewswire.com/news-releases/d-fend-solutions-enforceair-provided-world-cup-counter-drone-security-across-array-of-host-cities-adopted-by-20-public-safety-agencies-302844972.html"
         }
       ]
-    },
-    {
-      "date": "Aug 08",
-      "loc": "Global",
-      "event": "2026 World Cup Scores for Fox With Major Ad Sales Boost",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.hollywoodreporter.com/business/business-news/2026-fifa-world-cup-scores-fox-advertising-1236665291/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-08T05:32:17.810824Z"
+  "lastUpdated": "2026-08-08T06:27:55.288003Z"
 }
