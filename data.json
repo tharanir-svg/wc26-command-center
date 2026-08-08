@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 1,
-    "p3": 5
+    "p3": 4
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Missing the World Cup? Don't worry, there's more competitive football madness as Major League Soccer and Liga MX clubs collide in the 2026 Leagues Cup. Here's how to watch every match.\nThe 2026 World Cup might be over, but that doesn't mean soccer has fallen \u2026",
-      "timestamp": "2026-08-08T20:14:00.637382Z",
+      "timestamp": "2026-08-08T21:16:51.492132Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "England international Ivan Toney faces an assault charge. He is scheduled to appear in court on September 24. The alleged incident occurred at a London nightclub in December 2025. Toney, who plays for Al-Ahli, intends to defend himself. This case follows his \u2026",
-      "timestamp": "2026-08-08T20:14:00.637643Z",
+      "timestamp": "2026-08-08T21:16:51.492406Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Populous transformed 16 venues for the 2026 World Cup and had a special presence in their home city.",
-      "timestamp": "2026-08-08T20:14:00.637720Z",
+      "timestamp": "2026-08-08T21:16:51.492465Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "For the first time since 1998, no Indian umpire or technical official will be present at the FIH Men's Hockey World Cup, a situation that has left former international officials disappointed and calling for a structured pathway to develop and support Indian o\u2026",
-      "timestamp": "2026-08-08T20:14:00.638015Z",
+      "timestamp": "2026-08-08T21:16:51.492789Z",
       "links": [
         {
           "label": "Source",
@@ -192,25 +192,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Udonis Haslem is expanding his business portfolio with an investment in a newly promoted Premier League soccer club. The popularity of soccer has skyrocketed in the US following the conclusion of the 2026 FIFA World Cup.",
-      "timestamp": "2026-08-08T20:14:00.638047Z",
+      "timestamp": "2026-08-08T21:16:51.492845Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.hitc.com/miami-heat-legend-udonis-haslem-proud-to-announce-ownership-stake-in-premier-league-soccer-club/"
-        }
-      ]
-    },
-    {
-      "title": "ADWEEK TV Advantage: World Cup Reveals 3 Marketing Lessons to Add a Real Kick",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Samba helps ADWEEK dig into the data behind the trends of the 2026 FIFA World Cup.",
-      "timestamp": "2026-08-08T20:14:00.638159Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.adweek.com/convergent-tv/adweek-tv-advantage-world-cup-reveals-3-marketing-lessons/"
         }
       ]
     }
@@ -290,22 +276,7 @@
           "url": "https://www.hitc.com/miami-heat-legend-udonis-haslem-proud-to-announce-ownership-stake-in-premier-league-soccer-club/"
         }
       ]
-    },
-    {
-      "date": "Aug 08",
-      "loc": "Global",
-      "event": "ADWEEK TV Advantage: World Cup Reveals 3 Marketing Lessons to Add a Real Kick",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.adweek.com/convergent-tv/adweek-tv-advantage-world-cup-reveals-3-marketing-lessons/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-08T20:14:00.638293Z"
+  "lastUpdated": "2026-08-08T21:16:51.493036Z"
 }
