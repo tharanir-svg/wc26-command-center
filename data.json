@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 0,
-    "p3": 6
+    "p2": 1,
+    "p3": 5
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Ivan Toney assault charge details: England striker\u2019s representative respond as court date is set following FIFA World Cup 2026 appearance",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "England international Ivan Toney faces an assault charge. He is scheduled to appear in court on September 24. The alleged incident occurred at a London nightclub in December 2025. Toney, who plays for Al-Ahli, intends to defend himself. This case follows his \u2026",
+      "timestamp": "2026-08-08T11:16:54.244474Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/ivan-toney-assault-charge-details-england-strikers-representative-respond-as-court-date-is-set-following-fifa-world-cup-2026-appearance/articleshow/133031376.cms"
+        }
+      ]
+    },
+    {
       "title": "How America's greatest stadiums were transformed for World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Populous transformed 16 venues for the 2026 World Cup and had a special presence in their home city.",
-      "timestamp": "2026-08-08T10:17:57.364459Z",
+      "timestamp": "2026-08-08T11:16:54.244555Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "For the first time since 1998, no Indian umpire or technical official will be present at the FIH Men's Hockey World Cup, a situation that has left former international officials disappointed and calling for a structured pathway to develop and support Indian o\u2026",
-      "timestamp": "2026-08-08T10:17:57.364751Z",
+      "timestamp": "2026-08-08T11:16:54.244863Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Udonis Haslem is expanding his business portfolio with an investment in a newly promoted Premier League soccer club. The popularity of soccer has skyrocketed in the US following the conclusion of the 2026 FIFA World Cup.",
-      "timestamp": "2026-08-08T10:17:57.364779Z",
+      "timestamp": "2026-08-08T11:16:54.244896Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Samba helps ADWEEK dig into the data behind the trends of the 2026 FIFA World Cup.",
-      "timestamp": "2026-08-08T10:17:57.364852Z",
+      "timestamp": "2026-08-08T11:16:54.244983Z",
       "links": [
         {
           "label": "Source",
@@ -192,30 +206,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A city in Pakistan has become the unlikely centre of the global football industry, producing an estimated 70 per cent of the world\u2019s footballs, including the official match ball used at the FIFA World Cup.\nThe post Meet the city making 70% of world\u2019s football\u2026",
-      "timestamp": "2026-08-08T10:17:57.365536Z",
+      "timestamp": "2026-08-08T11:16:54.245788Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.vanguardngr.com/2026/08/meet-the-city-making-70-of-worlds-footballs-including-world-cup-ball/"
         }
       ]
-    },
-    {
-      "title": "Argentina declares national holiday to mark World Cup win over England with Falklands Banner plan",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Argentine Football Association has announced that July 15 will be National Football Teams Day, in part to commemorate the country's recent FIFA World Cup semifinal victory over England",
-      "timestamp": "2026-08-08T10:17:57.365809Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/argentina-holiday-england-falklands-banner-1971443"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 08",
+      "loc": "Global",
+      "event": "Ivan Toney assault charge details: England striker\u2019s representative respond as court date is set following FIFA World Cup 2026 appearance",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/ivan-toney-assault-charge-details-england-strikers-representative-respond-as-court-date-is-set-following-fifa-world-cup-2026-appearance/articleshow/133031376.cms"
+        }
+      ]
+    },
     {
       "date": "Aug 08",
       "loc": "Global",
@@ -290,22 +305,7 @@
           "url": "https://www.vanguardngr.com/2026/08/meet-the-city-making-70-of-worlds-footballs-including-world-cup-ball/"
         }
       ]
-    },
-    {
-      "date": "Aug 08",
-      "loc": "Global",
-      "event": "Argentina declares national holiday to mark World Cup win over England with Falklands Banner plan",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/argentina-holiday-england-falklands-banner-1971443"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-08T10:17:57.365949Z"
+  "lastUpdated": "2026-08-08T11:16:54.246236Z"
 }
