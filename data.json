@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 5
+    "p3": 6
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "How America's greatest stadiums were transformed for World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Populous transformed 16 venues for the 2026 World Cup and had a special presence in their home city.",
+      "timestamp": "2026-08-08T10:17:57.364459Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/08/07/world-cup-stadiums-2026-populous/91190180007/"
+        }
+      ]
+    },
+    {
       "title": "Why India Has No Hockey Umpire or Official at 2026 World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "For the first time since 1998, no Indian umpire or technical official will be present at the FIH Men's Hockey World Cup, a situation that has left former international officials disappointed and calling for a structured pathway to develop and support Indian o\u2026",
-      "timestamp": "2026-08-08T09:24:23.693573Z",
+      "timestamp": "2026-08-08T10:17:57.364751Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Udonis Haslem is expanding his business portfolio with an investment in a newly promoted Premier League soccer club. The popularity of soccer has skyrocketed in the US following the conclusion of the 2026 FIFA World Cup.",
-      "timestamp": "2026-08-08T09:24:23.693629Z",
+      "timestamp": "2026-08-08T10:17:57.364779Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Samba helps ADWEEK dig into the data behind the trends of the 2026 FIFA World Cup.",
-      "timestamp": "2026-08-08T09:24:23.693721Z",
+      "timestamp": "2026-08-08T10:17:57.364852Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A city in Pakistan has become the unlikely centre of the global football industry, producing an estimated 70 per cent of the world\u2019s footballs, including the official match ball used at the FIFA World Cup.\nThe post Meet the city making 70% of world\u2019s football\u2026",
-      "timestamp": "2026-08-08T09:24:23.694537Z",
+      "timestamp": "2026-08-08T10:17:57.365536Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Argentine Football Association has announced that July 15 will be National Football Teams Day, in part to commemorate the country's recent FIFA World Cup semifinal victory over England",
-      "timestamp": "2026-08-08T09:24:23.694863Z",
+      "timestamp": "2026-08-08T10:17:57.365809Z",
       "links": [
         {
           "label": "Source",
@@ -202,6 +216,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 08",
+      "loc": "Global",
+      "event": "How America's greatest stadiums were transformed for World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/08/07/world-cup-stadiums-2026-populous/91190180007/"
+        }
+      ]
+    },
     {
       "date": "Aug 08",
       "loc": "Global",
@@ -278,5 +307,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-08T09:24:23.695139Z"
+  "lastUpdated": "2026-08-08T10:17:57.365949Z"
 }
