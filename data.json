@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 4
+    "p3": 5
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "Why India Has No Hockey Umpire or Official at 2026 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "For the first time since 1998, no Indian umpire or technical official will be present at the FIH Men's Hockey World Cup, a situation that has left former international officials disappointed and calling for a structured pathway to develop and support Indian o\u2026",
+      "timestamp": "2026-08-08T07:38:19.999647Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/why-india-has-no-hockey-umpire-or-official-at-2026-world-cup/20260807.htm"
+        }
+      ]
+    },
+    {
+      "title": "Miami Heat legend Udonis Haslem \u2018proud to announce\u2019 ownership stake in Premier League soccer club",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Udonis Haslem is expanding his business portfolio with an investment in a newly promoted Premier League soccer club. The popularity of soccer has skyrocketed in the US following the conclusion of the 2026 FIFA World Cup.",
+      "timestamp": "2026-08-08T07:38:19.999706Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/miami-heat-legend-udonis-haslem-proud-to-announce-ownership-stake-in-premier-league-soccer-club/"
+        }
+      ]
+    },
+    {
       "title": "ADWEEK TV Advantage: World Cup Reveals 3 Marketing Lessons to Add a Real Kick",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Samba helps ADWEEK dig into the data behind the trends of the 2026 FIFA World Cup.",
-      "timestamp": "2026-08-08T06:27:55.286142Z",
+      "timestamp": "2026-08-08T07:38:19.999800Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A city in Pakistan has become the unlikely centre of the global football industry, producing an estimated 70 per cent of the world\u2019s footballs, including the official match ball used at the FIFA World Cup.\nThe post Meet the city making 70% of world\u2019s football\u2026",
-      "timestamp": "2026-08-08T06:27:55.287069Z",
+      "timestamp": "2026-08-08T07:38:20.000608Z",
       "links": [
         {
           "label": "Source",
@@ -164,30 +192,46 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Argentine Football Association has announced that July 15 will be National Football Teams Day, in part to commemorate the country's recent FIFA World Cup semifinal victory over England",
-      "timestamp": "2026-08-08T06:27:55.287379Z",
+      "timestamp": "2026-08-08T07:38:20.000891Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.alloutsoccer.com/news/argentina-holiday-england-falklands-banner-1971443"
         }
       ]
-    },
-    {
-      "title": "D-Fend Solutions' EnforceAir Provided World Cup Counter-Drone Security Across Array of Host Cities, Adopted by 20+ Public Safety Agencies",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Moving beyond legacy jamming and kinetics, multi-level agency operators deployed EnforceAir as preeminent cyber-takeover system to protect the tournament's land, air, and waterways. RA'ANANA, Israel and MCLEAN, Va., Aug. 6, 2026 /PRNewswire/ \u2013 D-Fend Solution\u2026",
-      "timestamp": "2026-08-08T06:27:55.287739Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.prnewswire.com/news-releases/d-fend-solutions-enforceair-provided-world-cup-counter-drone-security-across-array-of-host-cities-adopted-by-20-public-safety-agencies-302844972.html"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 08",
+      "loc": "Global",
+      "event": "Why India Has No Hockey Umpire or Official at 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/why-india-has-no-hockey-umpire-or-official-at-2026-world-cup/20260807.htm"
+        }
+      ]
+    },
+    {
+      "date": "Aug 08",
+      "loc": "Global",
+      "event": "Miami Heat legend Udonis Haslem \u2018proud to announce\u2019 ownership stake in Premier League soccer club",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/miami-heat-legend-udonis-haslem-proud-to-announce-ownership-stake-in-premier-league-soccer-club/"
+        }
+      ]
+    },
     {
       "date": "Aug 08",
       "loc": "Global",
@@ -232,22 +276,7 @@
           "url": "https://www.alloutsoccer.com/news/argentina-holiday-england-falklands-banner-1971443"
         }
       ]
-    },
-    {
-      "date": "Aug 08",
-      "loc": "Global",
-      "event": "D-Fend Solutions' EnforceAir Provided World Cup Counter-Drone Security Across Array of Host Cities, Adopted by 20+ Public Safety Agencies",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.prnewswire.com/news-releases/d-fend-solutions-enforceair-provided-world-cup-counter-drone-security-across-array-of-host-cities-adopted-by-20-public-safety-agencies-302844972.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-08T06:27:55.288003Z"
+  "lastUpdated": "2026-08-08T07:38:20.001351Z"
 }
