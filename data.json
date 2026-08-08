@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "How to Watch the 2026 Leagues Cup Live Without Cable (Even for Free)",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Missing the World Cup? Don't worry, there's more competitive football madness as Major League Soccer and Liga MX clubs collide in the 2026 Leagues Cup. Here's how to watch every match.\nThe 2026 World Cup might be over, but that doesn't mean soccer has fallen \u2026",
+      "timestamp": "2026-08-08T13:36:02.944706Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/166275/how-to-watch-tigres-vs-minnesota-2026-leagues-cup-live-even-for-free"
+        }
+      ]
+    },
+    {
       "title": "Ivan Toney assault charge details: England striker\u2019s representative respond as court date is set following FIFA World Cup 2026 appearance",
       "risk": "medium",
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "England international Ivan Toney faces an assault charge. He is scheduled to appear in court on September 24. The alleged incident occurred at a London nightclub in December 2025. Toney, who plays for Al-Ahli, intends to defend himself. This case follows his \u2026",
-      "timestamp": "2026-08-08T12:18:44.213528Z",
+      "timestamp": "2026-08-08T13:36:02.944999Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Populous transformed 16 venues for the 2026 World Cup and had a special presence in their home city.",
-      "timestamp": "2026-08-08T12:18:44.213629Z",
+      "timestamp": "2026-08-08T13:36:02.945066Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "For the first time since 1998, no Indian umpire or technical official will be present at the FIH Men's Hockey World Cup, a situation that has left former international officials disappointed and calling for a structured pathway to develop and support Indian o\u2026",
-      "timestamp": "2026-08-08T12:18:44.213941Z",
+      "timestamp": "2026-08-08T13:36:02.945413Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Udonis Haslem is expanding his business portfolio with an investment in a newly promoted Premier League soccer club. The popularity of soccer has skyrocketed in the US following the conclusion of the 2026 FIFA World Cup.",
-      "timestamp": "2026-08-08T12:18:44.213974Z",
+      "timestamp": "2026-08-08T13:36:02.945447Z",
       "links": [
         {
           "label": "Source",
@@ -192,30 +206,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Samba helps ADWEEK dig into the data behind the trends of the 2026 FIFA World Cup.",
-      "timestamp": "2026-08-08T12:18:44.214058Z",
+      "timestamp": "2026-08-08T13:36:02.945541Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.adweek.com/convergent-tv/adweek-tv-advantage-world-cup-reveals-3-marketing-lessons/"
         }
       ]
-    },
-    {
-      "title": "Meet the city making 70% of world\u2019s footballs, including World Cup ball",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "A city in Pakistan has become the unlikely centre of the global football industry, producing an estimated 70 per cent of the world\u2019s footballs, including the official match ball used at the FIFA World Cup.\nThe post Meet the city making 70% of world\u2019s football\u2026",
-      "timestamp": "2026-08-08T12:18:44.214859Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/08/meet-the-city-making-70-of-worlds-footballs-including-world-cup-ball/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 08",
+      "loc": "Global",
+      "event": "How to Watch the 2026 Leagues Cup Live Without Cable (Even for Free)",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/166275/how-to-watch-tigres-vs-minnesota-2026-leagues-cup-live-even-for-free"
+        }
+      ]
+    },
     {
       "date": "Aug 08",
       "loc": "Global",
@@ -290,22 +305,7 @@
           "url": "https://www.adweek.com/convergent-tv/adweek-tv-advantage-world-cup-reveals-3-marketing-lessons/"
         }
       ]
-    },
-    {
-      "date": "Aug 08",
-      "loc": "Global",
-      "event": "Meet the city making 70% of world\u2019s footballs, including World Cup ball",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/08/meet-the-city-making-70-of-worlds-footballs-including-world-cup-ball/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-08T12:18:44.215161Z"
+  "lastUpdated": "2026-08-08T13:36:02.946533Z"
 }
