@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 5
+    "p3": 4
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A city in Pakistan has become the unlikely centre of the global football industry, producing an estimated 70 per cent of the world\u2019s footballs, including the official match ball used at the FIFA World Cup.\nThe post Meet the city making 70% of world\u2019s football\u2026",
-      "timestamp": "2026-08-07T23:21:21.816933Z",
+      "timestamp": "2026-08-08T00:38:00.269269Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Argentine Football Association has announced that July 15 will be National Football Teams Day, in part to commemorate the country's recent FIFA World Cup semifinal victory over England",
-      "timestamp": "2026-08-07T23:21:21.817282Z",
+      "timestamp": "2026-08-08T00:38:00.269579Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Moving beyond legacy jamming and kinetics, multi-level agency operators deployed EnforceAir as preeminent cyber-takeover system to protect the tournament's land, air, and waterways. RA'ANANA, Israel and MCLEAN, Va., Aug. 6, 2026 /PRNewswire/ \u2013 D-Fend Solution\u2026",
-      "timestamp": "2026-08-07T23:21:21.817619Z",
+      "timestamp": "2026-08-08T00:38:00.269894Z",
       "links": [
         {
           "label": "Source",
@@ -178,32 +178,18 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ad sales in Fox's TV segment soared by more than 108% thanks to the global soccer event.",
-      "timestamp": "2026-08-07T23:21:21.817721Z",
+      "timestamp": "2026-08-08T00:38:00.269999Z",
       "links": [
         {
           "label": "Source",
           "url": "http://www.hollywoodreporter.com/business/business-news/2026-fifa-world-cup-scores-fox-advertising-1236665291/"
         }
       ]
-    },
-    {
-      "title": "Fox Scores Huge Ad Revenue Boost From 2026 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Tubi\u2019s World Cup streaming resulted in two of the highest traffic days in its history",
-      "timestamp": "2026-08-07T23:21:21.817955Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.adweek.com/media/fox-scores-huge-ad-revenue-boost-from-2026-world-cup/"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Aug 07",
+      "date": "Aug 08",
       "loc": "Global",
       "event": "Meet the city making 70% of world\u2019s footballs, including World Cup ball",
       "type": "News",
@@ -218,7 +204,7 @@
       ]
     },
     {
-      "date": "Aug 07",
+      "date": "Aug 08",
       "loc": "Global",
       "event": "Argentina declares national holiday to mark World Cup win over England with Falklands Banner plan",
       "type": "News",
@@ -233,7 +219,7 @@
       ]
     },
     {
-      "date": "Aug 07",
+      "date": "Aug 08",
       "loc": "Global",
       "event": "D-Fend Solutions' EnforceAir Provided World Cup Counter-Drone Security Across Array of Host Cities, Adopted by 20+ Public Safety Agencies",
       "type": "News",
@@ -248,7 +234,7 @@
       ]
     },
     {
-      "date": "Aug 07",
+      "date": "Aug 08",
       "loc": "Global",
       "event": "2026 World Cup Scores for Fox With Major Ad Sales Boost",
       "type": "News",
@@ -261,22 +247,7 @@
           "url": "http://www.hollywoodreporter.com/business/business-news/2026-fifa-world-cup-scores-fox-advertising-1236665291/"
         }
       ]
-    },
-    {
-      "date": "Aug 07",
-      "loc": "Global",
-      "event": "Fox Scores Huge Ad Revenue Boost From 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.adweek.com/media/fox-scores-huge-ad-revenue-boost-from-2026-world-cup/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-07T23:21:21.818124Z"
+  "lastUpdated": "2026-08-08T00:38:00.270332Z"
 }
