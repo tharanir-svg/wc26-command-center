@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 0,
+    "p1": 1,
     "p2": 1,
-    "p3": 4
+    "p3": 3
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "Kylian Mbapp\u00e9's first Instagram post featuring Ester Exp\u00f3sito leaves fans obsessed with one unexpected detail",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Kylian Mbapp\u00e9 has made his relationship with actress Ester Exp\u00f3sito more public after the 2026 FIFA World Cup by sharing their first photo together on Instagram. While the romantic picture grabbed attention, fans were more amused by another image showing the \u2026",
+      "timestamp": "2026-08-08T23:14:59.945934Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/international-sports/kylian-mbapps-first-instagram-post-featuring-ester-expsito-leaves-fans-obsessed-with-one-unexpected-detail/articleshow/133037896.cms"
+        }
+      ]
+    },
+    {
+      "title": "\"Blow up Messi with four bombs\": Shocking police files uncover alleged suicide bombing plot targeting Lionel Messi",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "A newly revealed police dossier has exposed an alleged suicide bomber plot targeting Lionel Messi during the 2026 FIFA World Cup. Authorities reportedly intercepted multiple terror threats, including one suspect who threatened to detonate explosives inside At\u2026",
+      "timestamp": "2026-08-08T23:14:59.945986Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/international-sports/blow-up-messi-with-four-bombs-shocking-police-files-uncover-alleged-suicide-bombing-plot-targeting-lionel-messi/articleshow/133037672.cms"
+        }
+      ]
+    },
+    {
       "title": "How to Watch the 2026 Leagues Cup Live Without Cable (Even for Free)",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Missing the World Cup? Don't worry, there's more competitive football madness as Major League Soccer and Liga MX clubs collide in the 2026 Leagues Cup. Here's how to watch every match.\nThe 2026 World Cup might be over, but that doesn't mean soccer has fallen \u2026",
-      "timestamp": "2026-08-08T22:14:18.056073Z",
+      "timestamp": "2026-08-08T23:14:59.946854Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "England international Ivan Toney faces an assault charge. He is scheduled to appear in court on September 24. The alleged incident occurred at a London nightclub in December 2025. Toney, who plays for Al-Ahli, intends to defend himself. This case follows his \u2026",
-      "timestamp": "2026-08-08T22:14:18.056299Z",
+      "timestamp": "2026-08-08T23:14:59.947089Z",
       "links": [
         {
           "label": "Source",
@@ -164,44 +192,46 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Populous transformed 16 venues for the 2026 World Cup and had a special presence in their home city.",
-      "timestamp": "2026-08-08T22:14:18.056349Z",
+      "timestamp": "2026-08-08T23:14:59.947161Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/08/07/world-cup-stadiums-2026-populous/91190180007/"
         }
       ]
-    },
-    {
-      "title": "Why India Has No Hockey Umpire or Official at 2026 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "For the first time since 1998, no Indian umpire or technical official will be present at the FIH Men's Hockey World Cup, a situation that has left former international officials disappointed and calling for a structured pathway to develop and support Indian o\u2026",
-      "timestamp": "2026-08-08T22:14:18.056626Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/why-india-has-no-hockey-umpire-or-official-at-2026-world-cup/20260807.htm"
-        }
-      ]
-    },
-    {
-      "title": "Miami Heat legend Udonis Haslem \u2018proud to announce\u2019 ownership stake in Premier League soccer club",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Udonis Haslem is expanding his business portfolio with an investment in a newly promoted Premier League soccer club. The popularity of soccer has skyrocketed in the US following the conclusion of the 2026 FIFA World Cup.",
-      "timestamp": "2026-08-08T22:14:18.056653Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/miami-heat-legend-udonis-haslem-proud-to-announce-ownership-stake-in-premier-league-soccer-club/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 08",
+      "loc": "Global",
+      "event": "Kylian Mbapp\u00e9's first Instagram post featuring Ester Exp\u00f3sito leaves fans obsessed with one unexpected detail",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/international-sports/kylian-mbapps-first-instagram-post-featuring-ester-expsito-leaves-fans-obsessed-with-one-unexpected-detail/articleshow/133037896.cms"
+        }
+      ]
+    },
+    {
+      "date": "Aug 08",
+      "loc": "Global",
+      "event": "\"Blow up Messi with four bombs\": Shocking police files uncover alleged suicide bombing plot targeting Lionel Messi",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/international-sports/blow-up-messi-with-four-bombs-shocking-police-files-uncover-alleged-suicide-bombing-plot-targeting-lionel-messi/articleshow/133037672.cms"
+        }
+      ]
+    },
     {
       "date": "Aug 08",
       "loc": "Global",
@@ -246,37 +276,7 @@
           "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/08/07/world-cup-stadiums-2026-populous/91190180007/"
         }
       ]
-    },
-    {
-      "date": "Aug 08",
-      "loc": "Global",
-      "event": "Why India Has No Hockey Umpire or Official at 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/why-india-has-no-hockey-umpire-or-official-at-2026-world-cup/20260807.htm"
-        }
-      ]
-    },
-    {
-      "date": "Aug 08",
-      "loc": "Global",
-      "event": "Miami Heat legend Udonis Haslem \u2018proud to announce\u2019 ownership stake in Premier League soccer club",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/miami-heat-legend-udonis-haslem-proud-to-announce-ownership-stake-in-premier-league-soccer-club/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-08T22:14:18.056805Z"
+  "lastUpdated": "2026-08-08T23:14:59.947585Z"
 }
