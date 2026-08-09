@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 1,
     "p2": 1,
-    "p3": 3
+    "p3": 4
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Hosts, Banyana renew 2022 final rivalry",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Morocco and South Africa renew their rivalry in the WAFCON quarterfinal, with the winner securing a spot in the 2027 FIFA World Cup. Don\u2019t miss this crucia\n\nRead More: https://punchng.com/hosts-banyana-renew-2022-final-rivalry/",
+      "timestamp": "2026-08-09T02:54:09.143868Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/hosts-banyana-renew-2022-final-rivalry/"
+        }
+      ]
+    },
+    {
       "title": "Kylian Mbapp\u00e9's first Instagram post featuring Ester Exp\u00f3sito leaves fans obsessed with one unexpected detail",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kylian Mbapp\u00e9 has made his relationship with actress Ester Exp\u00f3sito more public after the 2026 FIFA World Cup by sharing their first photo together on Instagram. While the romantic picture grabbed attention, fans were more amused by another image showing the \u2026",
-      "timestamp": "2026-08-09T00:39:58.834943Z",
+      "timestamp": "2026-08-09T02:54:09.143997Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "A newly revealed police dossier has exposed an alleged suicide bomber plot targeting Lionel Messi during the 2026 FIFA World Cup. Authorities reportedly intercepted multiple terror threats, including one suspect who threatened to detonate explosives inside At\u2026",
-      "timestamp": "2026-08-09T00:39:58.834998Z",
+      "timestamp": "2026-08-09T02:54:09.144055Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Missing the World Cup? Don't worry, there's more competitive football madness as Major League Soccer and Liga MX clubs collide in the 2026 Leagues Cup. Here's how to watch every match.\nThe 2026 World Cup might be over, but that doesn't mean soccer has fallen \u2026",
-      "timestamp": "2026-08-09T00:39:58.835901Z",
+      "timestamp": "2026-08-09T02:54:09.145398Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "England international Ivan Toney faces an assault charge. He is scheduled to appear in court on September 24. The alleged incident occurred at a London nightclub in December 2025. Toney, who plays for Al-Ahli, intends to defend himself. This case follows his \u2026",
-      "timestamp": "2026-08-09T00:39:58.836156Z",
+      "timestamp": "2026-08-09T02:54:09.145774Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Populous transformed 16 venues for the 2026 World Cup and had a special presence in their home city.",
-      "timestamp": "2026-08-09T00:39:58.836216Z",
+      "timestamp": "2026-08-09T02:54:09.145876Z",
       "links": [
         {
           "label": "Source",
@@ -202,6 +216,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 09",
+      "loc": "Global",
+      "event": "Hosts, Banyana renew 2022 final rivalry",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/hosts-banyana-renew-2022-final-rivalry/"
+        }
+      ]
+    },
     {
       "date": "Aug 09",
       "loc": "Global",
@@ -278,5 +307,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-09T00:39:58.836601Z"
+  "lastUpdated": "2026-08-09T02:54:09.146353Z"
 }
