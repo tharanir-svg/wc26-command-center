@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 1,
     "p2": 1,
-    "p3": 4
+    "p3": 5
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Leagues Cup bracket, schedule, results for 2026 competition between MLS and Liga MX",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "As North American soccer returns to action following the 2026 FIFA World Cup on home soil, league action pauses briefly as clubs from host nations United States, Canada, and Mexico all come together for a month-long clash.",
+      "timestamp": "2026-08-09T05:37:47.211242Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/leagues-cup-bracket-schedule-results-for-2026-competition-between-mls-and-liga-mx-041800644.html"
+        }
+      ]
+    },
+    {
       "title": "Hosts, Banyana renew 2022 final rivalry",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Morocco and South Africa renew their rivalry in the WAFCON quarterfinal, with the winner securing a spot in the 2027 FIFA World Cup. Don\u2019t miss this crucia\n\nRead More: https://punchng.com/hosts-banyana-renew-2022-final-rivalry/",
-      "timestamp": "2026-08-09T04:06:25.436102Z",
+      "timestamp": "2026-08-09T05:37:47.211356Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kylian Mbapp\u00e9 has made his relationship with actress Ester Exp\u00f3sito more public after the 2026 FIFA World Cup by sharing their first photo together on Instagram. While the romantic picture grabbed attention, fans were more amused by another image showing the \u2026",
-      "timestamp": "2026-08-09T04:06:25.436192Z",
+      "timestamp": "2026-08-09T05:37:47.211423Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "A newly revealed police dossier has exposed an alleged suicide bomber plot targeting Lionel Messi during the 2026 FIFA World Cup. Authorities reportedly intercepted multiple terror threats, including one suspect who threatened to detonate explosives inside At\u2026",
-      "timestamp": "2026-08-09T04:06:25.436224Z",
+      "timestamp": "2026-08-09T05:37:47.211469Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Missing the World Cup? Don't worry, there's more competitive football madness as Major League Soccer and Liga MX clubs collide in the 2026 Leagues Cup. Here's how to watch every match.\nThe 2026 World Cup might be over, but that doesn't mean soccer has fallen \u2026",
-      "timestamp": "2026-08-09T04:06:25.437072Z",
+      "timestamp": "2026-08-09T05:37:47.212367Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "England international Ivan Toney faces an assault charge. He is scheduled to appear in court on September 24. The alleged incident occurred at a London nightclub in December 2025. Toney, who plays for Al-Ahli, intends to defend himself. This case follows his \u2026",
-      "timestamp": "2026-08-09T04:06:25.437304Z",
+      "timestamp": "2026-08-09T05:37:47.212626Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Populous transformed 16 venues for the 2026 World Cup and had a special presence in their home city.",
-      "timestamp": "2026-08-09T04:06:25.437376Z",
+      "timestamp": "2026-08-09T05:37:47.212687Z",
       "links": [
         {
           "label": "Source",
@@ -216,6 +230,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 09",
+      "loc": "Global",
+      "event": "Leagues Cup bracket, schedule, results for 2026 competition between MLS and Liga MX",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/leagues-cup-bracket-schedule-results-for-2026-competition-between-mls-and-liga-mx-041800644.html"
+        }
+      ]
+    },
     {
       "date": "Aug 09",
       "loc": "Global",
@@ -307,5 +336,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-09T04:06:25.437726Z"
+  "lastUpdated": "2026-08-09T05:37:47.212981Z"
 }
