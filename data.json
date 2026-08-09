@@ -6,7 +6,7 @@
   },
   "metrics": {
     "p1": 1,
-    "p2": 1,
+    "p2": 0,
     "p3": 5
   },
   "watchlist": [
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "When does the Premier League start? Kickoff times for opening weekend of 2026/27 campaign",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "With the 2026 FIFA World Cup over and club teams now returning to preseason action, the excitement is building for the start of competitive club action for the 2026/27 season.",
+      "timestamp": "2026-08-09T06:33:00.315445Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/premier-league-start-date-2026/0fcad0a0890863593c99bd1e"
+        }
+      ]
+    },
+    {
       "title": "Leagues Cup bracket, schedule, results for 2026 competition between MLS and Liga MX",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "As North American soccer returns to action following the 2026 FIFA World Cup on home soil, league action pauses briefly as clubs from host nations United States, Canada, and Mexico all come together for a month-long clash.",
-      "timestamp": "2026-08-09T05:37:47.211242Z",
+      "timestamp": "2026-08-09T06:33:00.315620Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Morocco and South Africa renew their rivalry in the WAFCON quarterfinal, with the winner securing a spot in the 2027 FIFA World Cup. Don\u2019t miss this crucia\n\nRead More: https://punchng.com/hosts-banyana-renew-2022-final-rivalry/",
-      "timestamp": "2026-08-09T05:37:47.211356Z",
+      "timestamp": "2026-08-09T06:33:00.315699Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kylian Mbapp\u00e9 has made his relationship with actress Ester Exp\u00f3sito more public after the 2026 FIFA World Cup by sharing their first photo together on Instagram. While the romantic picture grabbed attention, fans were more amused by another image showing the \u2026",
-      "timestamp": "2026-08-09T05:37:47.211423Z",
+      "timestamp": "2026-08-09T06:33:00.315753Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "A newly revealed police dossier has exposed an alleged suicide bomber plot targeting Lionel Messi during the 2026 FIFA World Cup. Authorities reportedly intercepted multiple terror threats, including one suspect who threatened to detonate explosives inside At\u2026",
-      "timestamp": "2026-08-09T05:37:47.211469Z",
+      "timestamp": "2026-08-09T06:33:00.315782Z",
       "links": [
         {
           "label": "Source",
@@ -192,44 +206,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Missing the World Cup? Don't worry, there's more competitive football madness as Major League Soccer and Liga MX clubs collide in the 2026 Leagues Cup. Here's how to watch every match.\nThe 2026 World Cup might be over, but that doesn't mean soccer has fallen \u2026",
-      "timestamp": "2026-08-09T05:37:47.212367Z",
+      "timestamp": "2026-08-09T06:33:00.316636Z",
       "links": [
         {
           "label": "Source",
           "url": "https://uk.pcmag.com/video-streaming-services/166275/how-to-watch-tigres-vs-minnesota-2026-leagues-cup-live-even-for-free"
         }
       ]
-    },
-    {
-      "title": "Ivan Toney assault charge details: England striker\u2019s representative respond as court date is set following FIFA World Cup 2026 appearance",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "England international Ivan Toney faces an assault charge. He is scheduled to appear in court on September 24. The alleged incident occurred at a London nightclub in December 2025. Toney, who plays for Al-Ahli, intends to defend himself. This case follows his \u2026",
-      "timestamp": "2026-08-09T05:37:47.212626Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/ivan-toney-assault-charge-details-england-strikers-representative-respond-as-court-date-is-set-following-fifa-world-cup-2026-appearance/articleshow/133031376.cms"
-        }
-      ]
-    },
-    {
-      "title": "How America's greatest stadiums were transformed for World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Populous transformed 16 venues for the 2026 World Cup and had a special presence in their home city.",
-      "timestamp": "2026-08-09T05:37:47.212687Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/08/07/world-cup-stadiums-2026-populous/91190180007/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 09",
+      "loc": "Global",
+      "event": "When does the Premier League start? Kickoff times for opening weekend of 2026/27 campaign",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/premier-league-start-date-2026/0fcad0a0890863593c99bd1e"
+        }
+      ]
+    },
     {
       "date": "Aug 09",
       "loc": "Global",
@@ -304,37 +305,7 @@
           "url": "https://uk.pcmag.com/video-streaming-services/166275/how-to-watch-tigres-vs-minnesota-2026-leagues-cup-live-even-for-free"
         }
       ]
-    },
-    {
-      "date": "Aug 09",
-      "loc": "Global",
-      "event": "Ivan Toney assault charge details: England striker\u2019s representative respond as court date is set following FIFA World Cup 2026 appearance",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/ivan-toney-assault-charge-details-england-strikers-representative-respond-as-court-date-is-set-following-fifa-world-cup-2026-appearance/articleshow/133031376.cms"
-        }
-      ]
-    },
-    {
-      "date": "Aug 09",
-      "loc": "Global",
-      "event": "How America's greatest stadiums were transformed for World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/08/07/world-cup-stadiums-2026-populous/91190180007/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-09T05:37:47.212981Z"
+  "lastUpdated": "2026-08-09T06:33:00.317020Z"
 }
