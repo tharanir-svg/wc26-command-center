@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 1,
     "p2": 0,
-    "p3": 6
+    "p3": 5
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain\u2019s defensive record in the recently concluded FIFA World Cup was simply unbelievable as they kept seven clean sheets and just conceded one goal in the entire competition.Barcelona\u2019s young Pau...",
-      "timestamp": "2026-08-09T10:19:28.388524Z",
+      "timestamp": "2026-08-09T11:17:07.422355Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With the 2026 FIFA World Cup over and club teams now returning to preseason action, the excitement is building for the start of competitive club action for the 2026/27 season.",
-      "timestamp": "2026-08-09T10:19:28.388828Z",
+      "timestamp": "2026-08-09T11:17:07.422652Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "As North American soccer returns to action following the 2026 FIFA World Cup on home soil, league action pauses briefly as clubs from host nations United States, Canada, and Mexico all come together for a month-long clash.",
-      "timestamp": "2026-08-09T10:19:28.388969Z",
+      "timestamp": "2026-08-09T11:17:07.422790Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Morocco and South Africa renew their rivalry in the WAFCON quarterfinal, with the winner securing a spot in the 2027 FIFA World Cup. Don\u2019t miss this crucia\n\nRead More: https://punchng.com/hosts-banyana-renew-2022-final-rivalry/",
-      "timestamp": "2026-08-09T10:19:28.389043Z",
+      "timestamp": "2026-08-09T11:17:07.422865Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kylian Mbapp\u00e9 has made his relationship with actress Ester Exp\u00f3sito more public after the 2026 FIFA World Cup by sharing their first photo together on Instagram. While the romantic picture grabbed attention, fans were more amused by another image showing the \u2026",
-      "timestamp": "2026-08-09T10:19:28.389097Z",
+      "timestamp": "2026-08-09T11:17:07.422917Z",
       "links": [
         {
           "label": "Source",
@@ -206,25 +206,11 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "A newly revealed police dossier has exposed an alleged suicide bomber plot targeting Lionel Messi during the 2026 FIFA World Cup. Authorities reportedly intercepted multiple terror threats, including one suspect who threatened to detonate explosives inside At\u2026",
-      "timestamp": "2026-08-09T10:19:28.389123Z",
+      "timestamp": "2026-08-09T11:17:07.422943Z",
       "links": [
         {
           "label": "Source",
           "url": "https://timesofindia.indiatimes.com/sports/international-sports/blow-up-messi-with-four-bombs-shocking-police-files-uncover-alleged-suicide-bombing-plot-targeting-lionel-messi/articleshow/133037672.cms"
-        }
-      ]
-    },
-    {
-      "title": "How to Watch the 2026 Leagues Cup Live Without Cable (Even for Free)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Missing the World Cup? Don't worry, there's more competitive football madness as Major League Soccer and Liga MX clubs collide in the 2026 Leagues Cup. Here's how to watch every match.\nThe 2026 World Cup might be over, but that doesn't mean soccer has fallen \u2026",
-      "timestamp": "2026-08-09T10:19:28.390005Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/166275/how-to-watch-tigres-vs-minnesota-2026-leagues-cup-live-even-for-free"
         }
       ]
     }
@@ -319,22 +305,7 @@
           "url": "https://timesofindia.indiatimes.com/sports/international-sports/blow-up-messi-with-four-bombs-shocking-police-files-uncover-alleged-suicide-bombing-plot-targeting-lionel-messi/articleshow/133037672.cms"
         }
       ]
-    },
-    {
-      "date": "Aug 09",
-      "loc": "Global",
-      "event": "How to Watch the 2026 Leagues Cup Live Without Cable (Even for Free)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/166275/how-to-watch-tigres-vs-minnesota-2026-leagues-cup-live-even-for-free"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-09T10:19:28.390182Z"
+  "lastUpdated": "2026-08-09T11:17:07.423991Z"
 }
