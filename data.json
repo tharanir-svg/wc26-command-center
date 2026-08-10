@@ -5,7 +5,7 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 2,
+    "p1": 3,
     "p2": 0,
     "p3": 8
   },
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Patriots Forced Into Major Gillette Stadium Change Before Preseason Opener",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "The New England Patriots are installing new turf at Gillette Stadium after the initial surface failed NFL testing before Thursday\u2019s Colts game.",
+      "timestamp": "2026-08-10T15:45:51.691144Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nesn.com/nfl/news/patriots-forced-major-gillette-stadium-change-preseason-opener/6b6dd0ebe902e071bcae4119"
+        }
+      ]
+    },
+    {
       "title": "Marmoush brace leads City to Atletico win to end pre-season tour",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "City brought our 2026 pre-season Asia Tour to a close with a 3-1 victory over Atletico Madrid at the Seoul World Cup Stadium.Omar Marmoush scored a second-half brace to put us ahead before Rayan Ait-N...",
-      "timestamp": "2026-08-10T14:09:07.257697Z",
+      "timestamp": "2026-08-10T15:45:51.691292Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Manchester City faced Atl\u00e9tico Madrid on Sunday in a high-profile pre-season friendly at the Seoul World Cup Stadium in South Korea. The Manchester City vs Atl\u00e9tico Madrid clash served as the final match of both clubs\u2019 Asia tours before they turned their atte\u2026",
-      "timestamp": "2026-08-10T14:09:07.257874Z",
+      "timestamp": "2026-08-10T15:45:51.691428Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Manchester City will take on Atletico Madrid today at the Seoul World Cup Stadium. Today\u2019s match is the final preseason friendly for Enzo Maresca\u2019s side. There have been plenty of positives to tak...",
-      "timestamp": "2026-08-10T14:09:07.257931Z",
+      "timestamp": "2026-08-10T15:45:51.691479Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ian Rush says reaching Euro 2028 is a must for Wales as they bid to put their 2026 World Cup qualifying heartbreak behind them.",
-      "timestamp": "2026-08-10T14:09:07.258364Z",
+      "timestamp": "2026-08-10T15:45:51.691878Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ian Rush says reaching Euro 2028 is a must for Wales as they bid to put their 2026 World Cup qualifying heartbreak behind them.",
-      "timestamp": "2026-08-10T14:09:07.258382Z",
+      "timestamp": "2026-08-10T15:45:51.691897Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Manchester City wraps up its Asia tour on Sunday against Atl\u00e9tico Madrid at Seoul World Cup Stadium.",
-      "timestamp": "2026-08-10T14:09:07.258557Z",
+      "timestamp": "2026-08-10T15:45:51.692060Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +234,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "One suspect reportedly posted a threat on social media, stating, \u201cI\u2019m going to blow up Messi with four bombs strapped to my body.\u201d\nThe post Messi faced multiple threats during 2026 World Cup \u2014 Report appeared first on Vanguard News.",
-      "timestamp": "2026-08-10T14:09:07.258815Z",
+      "timestamp": "2026-08-10T15:45:51.692305Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +248,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "A police report reveals multiple bomb threats against Lionel Messi during the 2026 FIFA World Cup. Learn about the foiled plots and security efforts.\n\nRead More: https://punchng.com/messi-targeted-in-bomb-threats-during-world-cup-report/",
-      "timestamp": "2026-08-10T14:09:07.258965Z",
+      "timestamp": "2026-08-10T15:45:51.692448Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Chris Brown and Usher didn\u2019t let the rain stop their parade, as they delivered more than 50 songs and brought out some of New York\u2019s favorite legends.",
-      "timestamp": "2026-08-10T14:09:07.258992Z",
+      "timestamp": "2026-08-10T15:45:51.692470Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Erling Haaland catapulted himself onto the world stage when he shone for Norway at the 2026 World Cup in North America. The Manchester City forward became popular in America thanks to his impressive form on the pitch, and the memes that were made about him of\u2026",
-      "timestamp": "2026-08-10T14:09:07.259152Z",
+      "timestamp": "2026-08-10T15:45:51.692606Z",
       "links": [
         {
           "label": "Source",
@@ -272,6 +286,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 10",
+      "loc": "Boston",
+      "event": "Patriots Forced Into Major Gillette Stadium Change Before Preseason Opener",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nesn.com/nfl/news/patriots-forced-major-gillette-stadium-change-preseason-opener/6b6dd0ebe902e071bcae4119"
+        }
+      ]
+    },
     {
       "date": "Aug 10",
       "loc": "Global",
@@ -423,5 +452,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-10T14:09:07.259544Z"
+  "lastUpdated": "2026-08-10T15:45:51.692941Z"
 }
