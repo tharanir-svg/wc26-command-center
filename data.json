@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 2,
     "p2": 0,
-    "p3": 6
+    "p3": 7
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Manchester City have confirmed their starting lineup ahead of their clash with Atletico Madrid",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Manchester City will take on Atletico Madrid today at the Seoul World Cup Stadium. Today\u2019s match is the final preseason friendly for Enzo Maresca\u2019s side. There have been plenty of positives to tak...",
+      "timestamp": "2026-08-10T11:38:36.137972Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://esteemedkompany.com/2026/08/09/manchester-city-have-confirmed-their-starting-lineup-ahead-of-their-clash-with-atletico-madrid/"
+        }
+      ]
+    },
+    {
       "title": "Wales must learn from Bosnia loss in Euros bid - Rush",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ian Rush says reaching Euro 2028 is a must for Wales as they bid to put their 2026 World Cup qualifying heartbreak behind them.",
-      "timestamp": "2026-08-10T10:53:24.467725Z",
+      "timestamp": "2026-08-10T11:38:36.138625Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ian Rush says reaching Euro 2028 is a must for Wales as they bid to put their 2026 World Cup qualifying heartbreak behind them.",
-      "timestamp": "2026-08-10T10:53:24.467771Z",
+      "timestamp": "2026-08-10T11:38:36.138670Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Manchester City wraps up its Asia tour on Sunday against Atl\u00e9tico Madrid at Seoul World Cup Stadium.",
-      "timestamp": "2026-08-10T10:53:24.467945Z",
+      "timestamp": "2026-08-10T11:38:36.138932Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "One suspect reportedly posted a threat on social media, stating, \u201cI\u2019m going to blow up Messi with four bombs strapped to my body.\u201d\nThe post Messi faced multiple threats during 2026 World Cup \u2014 Report appeared first on Vanguard News.",
-      "timestamp": "2026-08-10T10:53:24.468203Z",
+      "timestamp": "2026-08-10T11:38:36.139297Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "A police report reveals multiple bomb threats against Lionel Messi during the 2026 FIFA World Cup. Learn about the foiled plots and security efforts.\n\nRead More: https://punchng.com/messi-targeted-in-bomb-threats-during-world-cup-report/",
-      "timestamp": "2026-08-10T10:53:24.468365Z",
+      "timestamp": "2026-08-10T11:38:36.139513Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Chris Brown and Usher didn\u2019t let the rain stop their parade, as they delivered more than 50 songs and brought out some of New York\u2019s favorite legends.",
-      "timestamp": "2026-08-10T10:53:24.468390Z",
+      "timestamp": "2026-08-10T11:38:36.139555Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Erling Haaland catapulted himself onto the world stage when he shone for Norway at the 2026 World Cup in North America. The Manchester City forward became popular in America thanks to his impressive form on the pitch, and the memes that were made about him of\u2026",
-      "timestamp": "2026-08-10T10:53:24.468536Z",
+      "timestamp": "2026-08-10T11:38:36.139803Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain\u2019s defensive record in the recently concluded FIFA World Cup was simply unbelievable as they kept seven clean sheets and just conceded one goal in the entire competition.Barcelona\u2019s young Pau...",
-      "timestamp": "2026-08-10T10:53:24.468835Z",
+      "timestamp": "2026-08-10T11:38:36.140230Z",
       "links": [
         {
           "label": "Source",
@@ -244,6 +258,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 10",
+      "loc": "Global",
+      "event": "Manchester City have confirmed their starting lineup ahead of their clash with Atletico Madrid",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://esteemedkompany.com/2026/08/09/manchester-city-have-confirmed-their-starting-lineup-ahead-of-their-clash-with-atletico-madrid/"
+        }
+      ]
+    },
     {
       "date": "Aug 10",
       "loc": "Global",
@@ -365,5 +394,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-10T10:53:24.469264Z"
+  "lastUpdated": "2026-08-10T11:38:36.140692Z"
 }
