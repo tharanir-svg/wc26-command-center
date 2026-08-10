@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 2,
     "p2": 0,
-    "p3": 7
+    "p3": 6
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ian Rush says reaching Euro 2028 is a must for Wales as they bid to put their 2026 World Cup qualifying heartbreak behind them.",
-      "timestamp": "2026-08-10T09:02:51.740706Z",
+      "timestamp": "2026-08-10T10:53:24.467725Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ian Rush says reaching Euro 2028 is a must for Wales as they bid to put their 2026 World Cup qualifying heartbreak behind them.",
-      "timestamp": "2026-08-10T09:02:51.740753Z",
+      "timestamp": "2026-08-10T10:53:24.467771Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Manchester City wraps up its Asia tour on Sunday against Atl\u00e9tico Madrid at Seoul World Cup Stadium.",
-      "timestamp": "2026-08-10T09:02:51.740929Z",
+      "timestamp": "2026-08-10T10:53:24.467945Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "One suspect reportedly posted a threat on social media, stating, \u201cI\u2019m going to blow up Messi with four bombs strapped to my body.\u201d\nThe post Messi faced multiple threats during 2026 World Cup \u2014 Report appeared first on Vanguard News.",
-      "timestamp": "2026-08-10T09:02:51.741191Z",
+      "timestamp": "2026-08-10T10:53:24.468203Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +192,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "A police report reveals multiple bomb threats against Lionel Messi during the 2026 FIFA World Cup. Learn about the foiled plots and security efforts.\n\nRead More: https://punchng.com/messi-targeted-in-bomb-threats-during-world-cup-report/",
-      "timestamp": "2026-08-10T09:02:51.741345Z",
+      "timestamp": "2026-08-10T10:53:24.468365Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Chris Brown and Usher didn\u2019t let the rain stop their parade, as they delivered more than 50 songs and brought out some of New York\u2019s favorite legends.",
-      "timestamp": "2026-08-10T09:02:51.741370Z",
+      "timestamp": "2026-08-10T10:53:24.468390Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Erling Haaland catapulted himself onto the world stage when he shone for Norway at the 2026 World Cup in North America. The Manchester City forward became popular in America thanks to his impressive form on the pitch, and the memes that were made about him of\u2026",
-      "timestamp": "2026-08-10T09:02:51.741522Z",
+      "timestamp": "2026-08-10T10:53:24.468536Z",
       "links": [
         {
           "label": "Source",
@@ -234,25 +234,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain\u2019s defensive record in the recently concluded FIFA World Cup was simply unbelievable as they kept seven clean sheets and just conceded one goal in the entire competition.Barcelona\u2019s young Pau...",
-      "timestamp": "2026-08-10T09:02:51.741827Z",
+      "timestamp": "2026-08-10T10:53:24.468835Z",
       "links": [
         {
           "label": "Source",
           "url": "https://barcauniversal.com/fifa-president-showers-praise-on-pau-cubarsi-after-spectacular-world-cup-extraordinary/"
-        }
-      ]
-    },
-    {
-      "title": "When does the Premier League start? Kickoff times for opening weekend of 2026/27 campaign",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "With the 2026 FIFA World Cup over and club teams now returning to preseason action, the excitement is building for the start of competitive club action for the 2026/27 season.",
-      "timestamp": "2026-08-10T09:02:51.742139Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/premier-league-start-date-2026/0fcad0a0890863593c99bd1e"
         }
       ]
     }
@@ -377,22 +363,7 @@
           "url": "https://barcauniversal.com/fifa-president-showers-praise-on-pau-cubarsi-after-spectacular-world-cup-extraordinary/"
         }
       ]
-    },
-    {
-      "date": "Aug 10",
-      "loc": "Global",
-      "event": "When does the Premier League start? Kickoff times for opening weekend of 2026/27 campaign",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/premier-league-start-date-2026/0fcad0a0890863593c99bd1e"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-10T09:02:51.742351Z"
+  "lastUpdated": "2026-08-10T10:53:24.469264Z"
 }
