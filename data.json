@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 3,
+    "p1": 2,
     "p2": 0,
-    "p3": 8
+    "p3": 9
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "Wales must learn from Bosnia loss in Euros bid - Rush",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Ian Rush says reaching Euro 2028 is a must for Wales as they bid to put their 2026 World Cup qualifying heartbreak behind them.",
+      "timestamp": "2026-08-10T05:12:55.446707Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.com/sport/football/articles/cvg71ywlv59o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
+        }
+      ]
+    },
+    {
+      "title": "Wales must learn from Bosnia loss in Euros bid - Rush",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Ian Rush says reaching Euro 2028 is a must for Wales as they bid to put their 2026 World Cup qualifying heartbreak behind them.",
+      "timestamp": "2026-08-10T05:12:55.446774Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvg71ywlv59o"
+        }
+      ]
+    },
+    {
       "title": "Manchester City vs. Atletico Madrid friendly prediction, start time, how to watch",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Manchester City wraps up its Asia tour on Sunday against Atl\u00e9tico Madrid at Seoul World Cup Stadium.",
-      "timestamp": "2026-08-10T03:03:04.830266Z",
+      "timestamp": "2026-08-10T05:12:55.446987Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "One suspect reportedly posted a threat on social media, stating, \u201cI\u2019m going to blow up Messi with four bombs strapped to my body.\u201d\nThe post Messi faced multiple threats during 2026 World Cup \u2014 Report appeared first on Vanguard News.",
-      "timestamp": "2026-08-10T03:03:04.830559Z",
+      "timestamp": "2026-08-10T05:12:55.447297Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "A police report reveals multiple bomb threats against Lionel Messi during the 2026 FIFA World Cup. Learn about the foiled plots and security efforts.\n\nRead More: https://punchng.com/messi-targeted-in-bomb-threats-during-world-cup-report/",
-      "timestamp": "2026-08-10T03:03:04.830718Z",
+      "timestamp": "2026-08-10T05:12:55.447479Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Chris Brown and Usher didn\u2019t let the rain stop their parade, as they delivered more than 50 songs and brought out some of New York\u2019s favorite legends.",
-      "timestamp": "2026-08-10T03:03:04.830743Z",
+      "timestamp": "2026-08-10T05:12:55.447510Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Erling Haaland catapulted himself onto the world stage when he shone for Norway at the 2026 World Cup in North America. The Manchester City forward became popular in America thanks to his impressive form on the pitch, and the memes that were made about him of\u2026",
-      "timestamp": "2026-08-10T03:03:04.830902Z",
+      "timestamp": "2026-08-10T05:12:55.447688Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain\u2019s defensive record in the recently concluded FIFA World Cup was simply unbelievable as they kept seven clean sheets and just conceded one goal in the entire competition.Barcelona\u2019s young Pau...",
-      "timestamp": "2026-08-10T03:03:04.831203Z",
+      "timestamp": "2026-08-10T05:12:55.448049Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With the 2026 FIFA World Cup over and club teams now returning to preseason action, the excitement is building for the start of competitive club action for the 2026/27 season.",
-      "timestamp": "2026-08-10T03:03:04.831489Z",
+      "timestamp": "2026-08-10T05:12:55.448389Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "As North American soccer returns to action following the 2026 FIFA World Cup on home soil, league action pauses briefly as clubs from host nations United States, Canada, and Mexico all come together for a month-long clash.",
-      "timestamp": "2026-08-10T03:03:04.831637Z",
+      "timestamp": "2026-08-10T05:12:55.448565Z",
       "links": [
         {
           "label": "Source",
@@ -248,44 +276,46 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Morocco and South Africa renew their rivalry in the WAFCON quarterfinal, with the winner securing a spot in the 2027 FIFA World Cup. Don\u2019t miss this crucia\n\nRead More: https://punchng.com/hosts-banyana-renew-2022-final-rivalry/",
-      "timestamp": "2026-08-10T03:03:04.831718Z",
+      "timestamp": "2026-08-10T05:12:55.448688Z",
       "links": [
         {
           "label": "Source",
           "url": "https://punchng.com/hosts-banyana-renew-2022-final-rivalry/"
         }
       ]
-    },
-    {
-      "title": "Kylian Mbapp\u00e9's first Instagram post featuring Ester Exp\u00f3sito leaves fans obsessed with one unexpected detail",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Kylian Mbapp\u00e9 has made his relationship with actress Ester Exp\u00f3sito more public after the 2026 FIFA World Cup by sharing their first photo together on Instagram. While the romantic picture grabbed attention, fans were more amused by another image showing the \u2026",
-      "timestamp": "2026-08-10T03:03:04.831776Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/international-sports/kylian-mbapps-first-instagram-post-featuring-ester-expsito-leaves-fans-obsessed-with-one-unexpected-detail/articleshow/133037896.cms"
-        }
-      ]
-    },
-    {
-      "title": "\"Blow up Messi with four bombs\": Shocking police files uncover alleged suicide bombing plot targeting Lionel Messi",
-      "risk": "high",
-      "severityText": "P1 CRITICAL",
-      "status": "VERIFIED",
-      "description": "A newly revealed police dossier has exposed an alleged suicide bomber plot targeting Lionel Messi during the 2026 FIFA World Cup. Authorities reportedly intercepted multiple terror threats, including one suspect who threatened to detonate explosives inside At\u2026",
-      "timestamp": "2026-08-10T03:03:04.831803Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/international-sports/blow-up-messi-with-four-bombs-shocking-police-files-uncover-alleged-suicide-bombing-plot-targeting-lionel-messi/articleshow/133037672.cms"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 10",
+      "loc": "Global",
+      "event": "Wales must learn from Bosnia loss in Euros bid - Rush",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.com/sport/football/articles/cvg71ywlv59o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
+        }
+      ]
+    },
+    {
+      "date": "Aug 10",
+      "loc": "Global",
+      "event": "Wales must learn from Bosnia loss in Euros bid - Rush",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvg71ywlv59o"
+        }
+      ]
+    },
     {
       "date": "Aug 10",
       "loc": "Global",
@@ -420,37 +450,7 @@
           "url": "https://punchng.com/hosts-banyana-renew-2022-final-rivalry/"
         }
       ]
-    },
-    {
-      "date": "Aug 10",
-      "loc": "Global",
-      "event": "Kylian Mbapp\u00e9's first Instagram post featuring Ester Exp\u00f3sito leaves fans obsessed with one unexpected detail",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/international-sports/kylian-mbapps-first-instagram-post-featuring-ester-expsito-leaves-fans-obsessed-with-one-unexpected-detail/articleshow/133037896.cms"
-        }
-      ]
-    },
-    {
-      "date": "Aug 10",
-      "loc": "Global",
-      "event": "\"Blow up Messi with four bombs\": Shocking police files uncover alleged suicide bombing plot targeting Lionel Messi",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "high",
-      "impact": "P1 CRITICAL",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/international-sports/blow-up-messi-with-four-bombs-shocking-police-files-uncover-alleged-suicide-bombing-plot-targeting-lionel-messi/articleshow/133037672.cms"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-10T03:03:04.832112Z"
+  "lastUpdated": "2026-08-10T05:12:55.448882Z"
 }
