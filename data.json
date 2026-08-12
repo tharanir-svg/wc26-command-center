@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 1,
     "p2": 0,
-    "p3": 6
+    "p3": 8
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "\u2018Overpowering stench of corruption\u2019: Donald Trump sparks outrage for supporting Gianni Infantino",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "United States President Donald Trump and FIFA President Gianni Infantino found themselves at the center of controversy throughout the FIFA World Cup. Now, with Infantino potentially facing the loss of his position, Trump has publicly come to his defense. In a\u2026",
+      "timestamp": "2026-08-12T11:36:13.992792Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/donald-trump-sparks-outrage-gianni-infantino-support.html"
+        }
+      ]
+    },
+    {
+      "title": "\u2018Terrible mistake\u2019: Donald Trump issues a warning to soccer community",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "United States President Donald Trump and FIFA President Gianni Infantino found themselves at the center of some controversy together at the FIFA World Cup. Now, as Infantino could be on the verge of losing his position, Trump has spoken out in his defense. In\u2026",
+      "timestamp": "2026-08-12T11:36:13.992855Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/terrible-mistake-donald-trump-issues-a-warning-to-soccer-community.html"
+        }
+      ]
+    },
+    {
       "title": "Banyana ready to fight Falcons for World Cup ticket",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Banyana Banyana are optimistic about their chances against the Super Falcons in the crucial play-off for a 2027 FIFA World Cup ticket. Read more here.\n\nRead More: https://punchng.com/banyana-ready-to-fight-falcons-for-world-cup-ticket/",
-      "timestamp": "2026-08-12T10:47:01.251382Z",
+      "timestamp": "2026-08-12T11:36:13.993326Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi was reportedly the target of multiple serious threats during the 2026 World Cup, including an alleged plot to murder the Argentina star inside a stadium. According to Marca, a large-scale American police report reviewed by the Spanish newspaper d\u2026",
-      "timestamp": "2026-08-12T10:47:01.251512Z",
+      "timestamp": "2026-08-12T11:36:13.993459Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ronald Araujo missed the entire 2026 FIFA World Cup after suffering an injury in training before Uruguay\u2019s opening game.",
-      "timestamp": "2026-08-12T10:47:01.251619Z",
+      "timestamp": "2026-08-12T11:36:13.993577Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +206,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "The New England Patriots spent the last month treating Gillette Stadium like a suburban homeowner who cannot decide what to do with the backyard. They ripped out their old turf for World Cup grass, ripped out the grass for brand-new turf, and now have to rip \u2026",
-      "timestamp": "2026-08-12T10:47:01.251788Z",
+      "timestamp": "2026-08-12T11:36:13.993754Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Higher spending in advertisement in the run-up to FIFA World Cup, muted tax expenses for earlier years played spoilsport",
-      "timestamp": "2026-08-12T10:47:01.251836Z",
+      "timestamp": "2026-08-12T11:36:13.993808Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Tensions haven\u2019t died down between FIFA president Gianni Infantino and the multiple regional confederations across the globe. Infantino has garnered loads of criticism following his unsuccessful attempt to sell stakes of the FIFA World Cup to private ownershi\u2026",
-      "timestamp": "2026-08-12T10:47:01.251873Z",
+      "timestamp": "2026-08-12T11:36:13.993843Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Higher spending in advertisement in the run-up to FIFA World Cup, muted tax expenses for earlier years played spoilsport",
-      "timestamp": "2026-08-12T10:47:01.251968Z",
+      "timestamp": "2026-08-12T11:36:13.993948Z",
       "links": [
         {
           "label": "Source",
@@ -230,6 +258,36 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 12",
+      "loc": "Global",
+      "event": "\u2018Overpowering stench of corruption\u2019: Donald Trump sparks outrage for supporting Gianni Infantino",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/donald-trump-sparks-outrage-gianni-infantino-support.html"
+        }
+      ]
+    },
+    {
+      "date": "Aug 12",
+      "loc": "Global",
+      "event": "\u2018Terrible mistake\u2019: Donald Trump issues a warning to soccer community",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://thecomeback.com/soccer/terrible-mistake-donald-trump-issues-a-warning-to-soccer-community.html"
+        }
+      ]
+    },
     {
       "date": "Aug 12",
       "loc": "Global",
@@ -336,5 +394,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-12T10:47:01.252591Z"
+  "lastUpdated": "2026-08-12T11:36:13.994597Z"
 }
