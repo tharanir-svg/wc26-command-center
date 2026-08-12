@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 1,
     "p2": 0,
-    "p3": 8
+    "p3": 9
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Hockey World Cup 2026: Full match schedule, groups, India vs Pakistan",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Pools, format, match schedule, timings, India vs Pakistan history and more before 2026 FIH Hockey World Cup.",
+      "timestamp": "2026-08-12T12:36:33.254023Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/8/11/hockey-world-cup-2026-full-match-schedule-groups-india-vs-pakistan"
+        }
+      ]
+    },
+    {
       "title": "\u2018Overpowering stench of corruption\u2019: Donald Trump sparks outrage for supporting Gianni Infantino",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "United States President Donald Trump and FIFA President Gianni Infantino found themselves at the center of controversy throughout the FIFA World Cup. Now, with Infantino potentially facing the loss of his position, Trump has publicly come to his defense. In a\u2026",
-      "timestamp": "2026-08-12T11:36:13.992792Z",
+      "timestamp": "2026-08-12T12:36:33.254236Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "United States President Donald Trump and FIFA President Gianni Infantino found themselves at the center of some controversy together at the FIFA World Cup. Now, as Infantino could be on the verge of losing his position, Trump has spoken out in his defense. In\u2026",
-      "timestamp": "2026-08-12T11:36:13.992855Z",
+      "timestamp": "2026-08-12T12:36:33.254274Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Banyana Banyana are optimistic about their chances against the Super Falcons in the crucial play-off for a 2027 FIFA World Cup ticket. Read more here.\n\nRead More: https://punchng.com/banyana-ready-to-fight-falcons-for-world-cup-ticket/",
-      "timestamp": "2026-08-12T11:36:13.993326Z",
+      "timestamp": "2026-08-12T12:36:33.254720Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi was reportedly the target of multiple serious threats during the 2026 World Cup, including an alleged plot to murder the Argentina star inside a stadium. According to Marca, a large-scale American police report reviewed by the Spanish newspaper d\u2026",
-      "timestamp": "2026-08-12T11:36:13.993459Z",
+      "timestamp": "2026-08-12T12:36:33.254836Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ronald Araujo missed the entire 2026 FIFA World Cup after suffering an injury in training before Uruguay\u2019s opening game.",
-      "timestamp": "2026-08-12T11:36:13.993577Z",
+      "timestamp": "2026-08-12T12:36:33.254962Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "The New England Patriots spent the last month treating Gillette Stadium like a suburban homeowner who cannot decide what to do with the backyard. They ripped out their old turf for World Cup grass, ripped out the grass for brand-new turf, and now have to rip \u2026",
-      "timestamp": "2026-08-12T11:36:13.993754Z",
+      "timestamp": "2026-08-12T12:36:33.255127Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Higher spending in advertisement in the run-up to FIFA World Cup, muted tax expenses for earlier years played spoilsport",
-      "timestamp": "2026-08-12T11:36:13.993808Z",
+      "timestamp": "2026-08-12T12:36:33.255178Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Tensions haven\u2019t died down between FIFA president Gianni Infantino and the multiple regional confederations across the globe. Infantino has garnered loads of criticism following his unsuccessful attempt to sell stakes of the FIFA World Cup to private ownershi\u2026",
-      "timestamp": "2026-08-12T11:36:13.993843Z",
+      "timestamp": "2026-08-12T12:36:33.255211Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Higher spending in advertisement in the run-up to FIFA World Cup, muted tax expenses for earlier years played spoilsport",
-      "timestamp": "2026-08-12T11:36:13.993948Z",
+      "timestamp": "2026-08-12T12:36:33.255312Z",
       "links": [
         {
           "label": "Source",
@@ -258,6 +272,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 12",
+      "loc": "Global",
+      "event": "Hockey World Cup 2026: Full match schedule, groups, India vs Pakistan",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/8/11/hockey-world-cup-2026-full-match-schedule-groups-india-vs-pakistan"
+        }
+      ]
+    },
     {
       "date": "Aug 12",
       "loc": "Global",
@@ -394,5 +423,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-12T11:36:13.994597Z"
+  "lastUpdated": "2026-08-12T12:36:33.255775Z"
 }
