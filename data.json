@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 1,
     "p2": 0,
-    "p3": 8
+    "p3": 7
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Banyana Banyana are optimistic about their chances against the Super Falcons in the crucial play-off for a 2027 FIFA World Cup ticket. Read more here.\n\nRead More: https://punchng.com/banyana-ready-to-fight-falcons-for-world-cup-ticket/",
-      "timestamp": "2026-08-12T08:56:12.900865Z",
+      "timestamp": "2026-08-12T09:52:34.546067Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi was reportedly the target of multiple serious threats during the 2026 World Cup, including an alleged plot to murder the Argentina star inside a stadium. According to Marca, a large-scale American police report reviewed by the Spanish newspaper d\u2026",
-      "timestamp": "2026-08-12T08:56:12.901034Z",
+      "timestamp": "2026-08-12T09:52:34.546204Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ronald Araujo missed the entire 2026 FIFA World Cup after suffering an injury in training before Uruguay\u2019s opening game.",
-      "timestamp": "2026-08-12T08:56:12.901186Z",
+      "timestamp": "2026-08-12T09:52:34.546314Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "The New England Patriots spent the last month treating Gillette Stadium like a suburban homeowner who cannot decide what to do with the backyard. They ripped out their old turf for World Cup grass, ripped out the grass for brand-new turf, and now have to rip \u2026",
-      "timestamp": "2026-08-12T08:56:12.901391Z",
+      "timestamp": "2026-08-12T09:52:34.546467Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Higher spending in advertisement in the run-up to FIFA World Cup, muted tax expenses for earlier years played spoilsport",
-      "timestamp": "2026-08-12T08:56:12.901452Z",
+      "timestamp": "2026-08-12T09:52:34.546516Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Tensions haven\u2019t died down between FIFA president Gianni Infantino and the multiple regional confederations across the globe. Infantino has garnered loads of criticism following his unsuccessful attempt to sell stakes of the FIFA World Cup to private ownershi\u2026",
-      "timestamp": "2026-08-12T08:56:12.901495Z",
+      "timestamp": "2026-08-12T09:52:34.546550Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Higher spending in advertisement in the run-up to FIFA World Cup, muted tax expenses for earlier years played spoilsport",
-      "timestamp": "2026-08-12T08:56:12.901621Z",
+      "timestamp": "2026-08-12T09:52:34.546646Z",
       "links": [
         {
           "label": "Source",
@@ -234,25 +234,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Around 50,000 fans watched Manchester City beat Atl\u00e9tico Madrid 3-1 in a pre-season exhibition game at Seoul World Cup Stadium on Sunday, offering a rare example of soccer making headlines for on-field action here during a scandal-hit summer. The big transfer\u2026",
-      "timestamp": "2026-08-12T08:56:12.902418Z",
+      "timestamp": "2026-08-12T09:52:34.547257Z",
       "links": [
         {
           "label": "Source",
           "url": "https://sports.yahoo.com/articles/rare-field-headline-south-korea-011842237.html"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026 Men's White Host City Block Tee (Various) - from $5.10 (3 replies)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Seattle [walmart.com] - $5.10\nPhiladelphia [walmart.com] - $5.11\nSan Francisco [walmart.com] - $5.48\nHouston [walmart.com] - $5.50\nLos Angeles [walmart.com] - $5.74\nNew York / New Jersey [walmart.com]",
-      "timestamp": "2026-08-12T08:56:12.902509Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slickdeals.net/f/19860048-fifa-world-cup-2026-men-s-white-host-city-block-tee-various-from-5-10"
         }
       ]
     }
@@ -377,22 +363,7 @@
           "url": "https://sports.yahoo.com/articles/rare-field-headline-south-korea-011842237.html"
         }
       ]
-    },
-    {
-      "date": "Aug 12",
-      "loc": "Houston",
-      "event": "FIFA World Cup 2026 Men's White Host City Block Tee (Various) - from $5.10 (3 replies)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slickdeals.net/f/19860048-fifa-world-cup-2026-men-s-white-host-city-block-tee-various-from-5-10"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-12T08:56:12.902635Z"
+  "lastUpdated": "2026-08-12T09:52:34.547376Z"
 }
