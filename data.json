@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 1,
+    "p1": 0,
     "p2": 0,
-    "p3": 9
+    "p3": 8
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "How to Watch the 2026 Leagues Cup Live Without Cable (Even for Free)",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Don't miss tonight's soccer madness as Major League Soccer and Liga MX clubs collide in the 2026 Leagues Cup. Here's how to tune in for tonight's games and every match this season.\nThe 2026 World Cup might be over, but that doesn't mean soccer has fallen off \u2026",
+      "timestamp": "2026-08-12T16:42:14.123737Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/166275/how-to-watch-cincinnati-vs-atlas-2026-leagues-cup-live-even-for-free"
+        }
+      ]
+    },
+    {
       "title": "Donald Trump defends Gianni Infantino amid FIFA World Cup stake sale fallout",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA President Gianni Infantino is fighting to keep his job following the 2026 World Cup, and he has now received the backing of his friend, U.S. President Donald Trump",
-      "timestamp": "2026-08-12T15:45:33.463080Z",
+      "timestamp": "2026-08-12T16:42:14.123793Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Pools, format, match schedule, timings, India vs Pakistan history and more before 2026 FIH Hockey World Cup.",
-      "timestamp": "2026-08-12T15:45:33.463469Z",
+      "timestamp": "2026-08-12T16:42:14.124412Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "United States President Donald Trump and FIFA President Gianni Infantino found themselves at the center of controversy throughout the FIFA World Cup. Now, with Infantino potentially facing the loss of his position, Trump has publicly come to his defense. In a\u2026",
-      "timestamp": "2026-08-12T15:45:33.463707Z",
+      "timestamp": "2026-08-12T16:42:14.124586Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "United States President Donald Trump and FIFA President Gianni Infantino found themselves at the center of some controversy together at the FIFA World Cup. Now, as Infantino could be on the verge of losing his position, Trump has spoken out in his defense. In\u2026",
-      "timestamp": "2026-08-12T15:45:33.463730Z",
+      "timestamp": "2026-08-12T16:42:14.124631Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Banyana Banyana are optimistic about their chances against the Super Falcons in the crucial play-off for a 2027 FIFA World Cup ticket. Read more here.\n\nRead More: https://punchng.com/banyana-ready-to-fight-falcons-for-world-cup-ticket/",
-      "timestamp": "2026-08-12T15:45:33.464043Z",
+      "timestamp": "2026-08-12T16:42:14.125086Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi was reportedly the target of multiple serious threats during the 2026 World Cup, including an alleged plot to murder the Argentina star inside a stadium. According to Marca, a large-scale American police report reviewed by the Spanish newspaper d\u2026",
-      "timestamp": "2026-08-12T15:45:33.464129Z",
+      "timestamp": "2026-08-12T16:42:14.125203Z",
       "links": [
         {
           "label": "Source",
@@ -220,58 +234,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ronald Araujo missed the entire 2026 FIFA World Cup after suffering an injury in training before Uruguay\u2019s opening game.",
-      "timestamp": "2026-08-12T15:45:33.464209Z",
+      "timestamp": "2026-08-12T16:42:14.125317Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.daveockop.com/latest-news/ronald-araujo-provides-fitness-update-ahead-of-como-double-header/"
         }
       ]
-    },
-    {
-      "title": "Patriots Ripped Out World Cup Grass And Installed New Turf Only To Tear It Up Again Right Before Preseason Opener",
-      "risk": "high",
-      "severityText": "P1 CRITICAL",
-      "status": "VERIFIED",
-      "description": "The New England Patriots spent the last month treating Gillette Stadium like a suburban homeowner who cannot decide what to do with the backyard. They ripped out their old turf for World Cup grass, ripped out the grass for brand-new turf, and now have to rip \u2026",
-      "timestamp": "2026-08-12T15:45:33.464354Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://brobible.com/sports/article/patriots-reinstalling-turf-after-removing-world-cup-grass/"
-        }
-      ]
-    },
-    {
-      "title": "Zee Entertainment Q1 net nearly halves to \u20b974 crore",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Higher spending in advertisement in the run-up to FIFA World Cup, muted tax expenses for earlier years played spoilsport",
-      "timestamp": "2026-08-12T15:45:33.464397Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thehindubusinessline.com/info-tech/zee-entertainment-q1-net-nearly-halves-to-74-crore/article71328163.ece"
-        }
-      ]
-    },
-    {
-      "title": "Gianni Infantino, FIFA under fire amid criticism in \u2018open letter\u2019 from 3 confederations",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Tensions haven\u2019t died down between FIFA president Gianni Infantino and the multiple regional confederations across the globe. Infantino has garnered loads of criticism following his unsuccessful attempt to sell stakes of the FIFA World Cup to private ownershi\u2026",
-      "timestamp": "2026-08-12T15:45:33.464426Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/gianni-infantino-fifa-under-fire-amid-criticism-open-letter-3-confederations/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 12",
+      "loc": "Global",
+      "event": "How to Watch the 2026 Leagues Cup Live Without Cable (Even for Free)",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/166275/how-to-watch-cincinnati-vs-atlas-2026-leagues-cup-live-even-for-free"
+        }
+      ]
+    },
     {
       "date": "Aug 12",
       "loc": "Global",
@@ -376,52 +363,7 @@
           "url": "https://www.daveockop.com/latest-news/ronald-araujo-provides-fitness-update-ahead-of-como-double-header/"
         }
       ]
-    },
-    {
-      "date": "Aug 12",
-      "loc": "Boston",
-      "event": "Patriots Ripped Out World Cup Grass And Installed New Turf Only To Tear It Up Again Right Before Preseason Opener",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "high",
-      "impact": "P1 CRITICAL",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://brobible.com/sports/article/patriots-reinstalling-turf-after-removing-world-cup-grass/"
-        }
-      ]
-    },
-    {
-      "date": "Aug 12",
-      "loc": "Global",
-      "event": "Zee Entertainment Q1 net nearly halves to \u20b974 crore",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thehindubusinessline.com/info-tech/zee-entertainment-q1-net-nearly-halves-to-74-crore/article71328163.ece"
-        }
-      ]
-    },
-    {
-      "date": "Aug 12",
-      "loc": "Global",
-      "event": "Gianni Infantino, FIFA under fire amid criticism in \u2018open letter\u2019 from 3 confederations",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thebiglead.com/gianni-infantino-fifa-under-fire-amid-criticism-open-letter-3-confederations/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-12T15:45:33.464581Z"
+  "lastUpdated": "2026-08-12T16:42:14.125652Z"
 }
