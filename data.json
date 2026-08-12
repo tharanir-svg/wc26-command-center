@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 8
+    "p3": 7
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "When asked directly whether he\u2019d swap Lumen Field's artificial turf for real grass, the billionaire venture capitalist made it clear he intends to leave groundskeeping decisions to the team's front office. Read More",
-      "timestamp": "2026-08-12T17:46:43.376701Z",
+      "timestamp": "2026-08-12T18:42:29.934131Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Don't miss tonight's soccer madness as Major League Soccer and Liga MX clubs collide in the 2026 Leagues Cup. Here's how to tune in for tonight's games and every match this season.\nThe 2026 World Cup might be over, but that doesn't mean soccer has fallen off \u2026",
-      "timestamp": "2026-08-12T17:46:43.376909Z",
+      "timestamp": "2026-08-12T18:42:29.934267Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA President Gianni Infantino is fighting to keep his job following the 2026 World Cup, and he has now received the backing of his friend, U.S. President Donald Trump",
-      "timestamp": "2026-08-12T17:46:43.377184Z",
+      "timestamp": "2026-08-12T18:42:29.934400Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Pools, format, match schedule, timings, India vs Pakistan history and more before 2026 FIH Hockey World Cup.",
-      "timestamp": "2026-08-12T17:46:43.377903Z",
+      "timestamp": "2026-08-12T18:42:29.934870Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "United States President Donald Trump and FIFA President Gianni Infantino found themselves at the center of controversy throughout the FIFA World Cup. Now, with Infantino potentially facing the loss of his position, Trump has publicly come to his defense. In a\u2026",
-      "timestamp": "2026-08-12T17:46:43.378177Z",
+      "timestamp": "2026-08-12T18:42:29.935028Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "United States President Donald Trump and FIFA President Gianni Infantino found themselves at the center of some controversy together at the FIFA World Cup. Now, as Infantino could be on the verge of losing his position, Trump has spoken out in his defense. In\u2026",
-      "timestamp": "2026-08-12T17:46:43.378234Z",
+      "timestamp": "2026-08-12T18:42:29.935060Z",
       "links": [
         {
           "label": "Source",
@@ -220,25 +220,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Banyana Banyana are optimistic about their chances against the Super Falcons in the crucial play-off for a 2027 FIFA World Cup ticket. Read more here.\n\nRead More: https://punchng.com/banyana-ready-to-fight-falcons-for-world-cup-ticket/",
-      "timestamp": "2026-08-12T17:46:43.378860Z",
+      "timestamp": "2026-08-12T18:42:29.935467Z",
       "links": [
         {
           "label": "Source",
           "url": "https://punchng.com/banyana-ready-to-fight-falcons-for-world-cup-ticket/"
-        }
-      ]
-    },
-    {
-      "title": "Alleged murder plot against Lionel Messi revealed in police report",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi was reportedly the target of multiple serious threats during the 2026 World Cup, including an alleged plot to murder the Argentina star inside a stadium. According to Marca, a large-scale American police report reviewed by the Spanish newspaper d\u2026",
-      "timestamp": "2026-08-12T17:46:43.379084Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/alleged-murder-plot-against-lionel-messi-revealed-in-police-report/"
         }
       ]
     }
@@ -348,22 +334,7 @@
           "url": "https://punchng.com/banyana-ready-to-fight-falcons-for-world-cup-ticket/"
         }
       ]
-    },
-    {
-      "date": "Aug 12",
-      "loc": "Global",
-      "event": "Alleged murder plot against Lionel Messi revealed in police report",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/alleged-murder-plot-against-lionel-messi-revealed-in-police-report/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-12T17:46:43.379404Z"
+  "lastUpdated": "2026-08-12T18:42:29.935730Z"
 }
