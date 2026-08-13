@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 5
+    "p3": 6
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Could the 2031 Women\u2019s World Cup be coming to N.J.? State says it\u2019s open to it",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "New Jersey is open to hosting the 2031 FIFA Women's World Cup at MetLife Stadium, though no formal bid has been made.",
+      "timestamp": "2026-08-13T19:48:19.690579Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.nj.com/news/2026/08/could-the-2031-womens-world-cup-be-coming-to-nj-state-says-its-open-to-it.html"
+        }
+      ]
+    },
+    {
       "title": "De Zerbi: \u2018Tonali a leader at Tottenham, can learn from Argentina at 2026 World Cup\u2019",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Roberto De Zerbi explains why Sandro Tonali can be \u2018a leader\u2019 at his new Tottenham Hotspur project, bringing Italian techniques to the Premier League, and learning from Argentina at the World Cup.",
-      "timestamp": "2026-08-13T18:43:11.822680Z",
+      "timestamp": "2026-08-13T19:48:19.691127Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Last month, fighter jets also intercepted planes attempting to fly near MetLife Stadium, during the World Cup Final.",
-      "timestamp": "2026-08-13T18:43:11.822859Z",
+      "timestamp": "2026-08-13T19:48:19.691291Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Omar Artan is set to return to the big stage on Wednesday evening when he takes charge of the UEFA Super Cup match between PSG and Aston Villa. Artan made headlines earlier this summer when he was due to officiate at the 2026 World Cup, but was denied entry t\u2026",
-      "timestamp": "2026-08-13T18:43:11.823181Z",
+      "timestamp": "2026-08-13T19:48:19.691631Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jules Kounde is the latest of the Barcelona stars to have rejoined training this summer after their stint at the 2026 FIFA World Cup.However, soon after rejoining training, Kounde has been linked with...",
-      "timestamp": "2026-08-13T18:43:11.823492Z",
+      "timestamp": "2026-08-13T19:48:19.692099Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Haissem Hassan has reportedly completed his Celtic medical as the Hoops close in on a \u00a39million deal for the Real Oviedo winger.Haissem Hassan of Egypt controls the ball during the FIFA World Cup 202...",
-      "timestamp": "2026-08-13T18:43:11.823625Z",
+      "timestamp": "2026-08-13T19:48:19.692139Z",
       "links": [
         {
           "label": "Source",
@@ -202,6 +216,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 13",
+      "loc": "New York / New Jersey",
+      "event": "Could the 2031 Women\u2019s World Cup be coming to N.J.? State says it\u2019s open to it",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.nj.com/news/2026/08/could-the-2031-womens-world-cup-be-coming-to-nj-state-says-its-open-to-it.html"
+        }
+      ]
+    },
     {
       "date": "Aug 13",
       "loc": "Global",
@@ -278,5 +307,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-13T18:43:11.824019Z"
+  "lastUpdated": "2026-08-13T19:48:19.692363Z"
 }
