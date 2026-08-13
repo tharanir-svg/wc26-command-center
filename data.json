@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "Arsenal yet to make any concrete advances to sign Barcelona defender despite interest \u2013 Romano",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Jules Kounde is the latest of the Barcelona stars to have rejoined training this summer after their stint at the 2026 FIFA World Cup.However, soon after rejoining training, Kounde has been linked with...",
+      "timestamp": "2026-08-13T07:05:17.710588Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/arsenal-yet-to-make-any-concrete-advances-to-sign-barcelona-defender-despite-interest-romano/"
+        }
+      ]
+    },
+    {
+      "title": "Haissem Hassan completes Celtic medical as \u00a39m transfer moves to final stages",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Haissem Hassan has reportedly completed his Celtic medical as the Hoops close in on a \u00a39million deal for the Real Oviedo winger.Haissem Hassan of Egypt controls the ball during the FIFA World Cup 202...",
+      "timestamp": "2026-08-13T07:05:17.710640Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://celticshorts.com/2026/08/haissem-hassan-completes-celtic-medical-as-9m-transfer-moves-to-final-stages/"
+        }
+      ]
+    },
+    {
       "title": "FIFA World Cup 2026 Men's USA Country Soccer Tee for $4.70 + free shipping",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Walmart offers the FIFA World Cup 2026 Men's USA Country Soccer Tee for $4.70.\u00a0 That's a $12 savings.\u00a0 Choose pickup or spend $35 to avoid the $6.99 shipping charge. Buy Now at Walmart",
-      "timestamp": "2026-08-13T05:24:53.778274Z",
+      "timestamp": "2026-08-13T07:05:17.710943Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "When asked directly whether he\u2019d swap Lumen Field's artificial turf for real grass, the billionaire venture capitalist made it clear he intends to leave groundskeeping decisions to the team's front office. Read More",
-      "timestamp": "2026-08-13T05:24:53.778676Z",
+      "timestamp": "2026-08-13T07:05:17.711539Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Don't miss tonight's soccer madness as Major League Soccer and Liga MX clubs collide in the 2026 Leagues Cup. Here's how to tune in for tonight's games and every match this season.\nThe 2026 World Cup might be over, but that doesn't mean soccer has fallen off \u2026",
-      "timestamp": "2026-08-13T05:24:53.778769Z",
+      "timestamp": "2026-08-13T07:05:17.711645Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA President Gianni Infantino is fighting to keep his job following the 2026 World Cup, and he has now received the backing of his friend, U.S. President Donald Trump",
-      "timestamp": "2026-08-13T05:24:53.778888Z",
+      "timestamp": "2026-08-13T07:05:17.711675Z",
       "links": [
         {
           "label": "Source",
@@ -192,44 +220,46 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Pools, format, match schedule, timings, India vs Pakistan history and more before 2026 FIH Hockey World Cup.",
-      "timestamp": "2026-08-13T05:24:53.779232Z",
+      "timestamp": "2026-08-13T07:05:17.712135Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.aljazeera.com/sports/2026/8/11/hockey-world-cup-2026-full-match-schedule-groups-india-vs-pakistan"
         }
       ]
-    },
-    {
-      "title": "\u2018Overpowering stench of corruption\u2019: Donald Trump sparks outrage for supporting Gianni Infantino",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "United States President Donald Trump and FIFA President Gianni Infantino found themselves at the center of controversy throughout the FIFA World Cup. Now, with Infantino potentially facing the loss of his position, Trump has publicly come to his defense. In a\u2026",
-      "timestamp": "2026-08-13T05:24:53.779384Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/donald-trump-sparks-outrage-gianni-infantino-support.html"
-        }
-      ]
-    },
-    {
-      "title": "\u2018Terrible mistake\u2019: Donald Trump issues a warning to soccer community",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "United States President Donald Trump and FIFA President Gianni Infantino found themselves at the center of some controversy together at the FIFA World Cup. Now, as Infantino could be on the verge of losing his position, Trump has spoken out in his defense. In\u2026",
-      "timestamp": "2026-08-13T05:24:53.779410Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/terrible-mistake-donald-trump-issues-a-warning-to-soccer-community.html"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 13",
+      "loc": "Global",
+      "event": "Arsenal yet to make any concrete advances to sign Barcelona defender despite interest \u2013 Romano",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/arsenal-yet-to-make-any-concrete-advances-to-sign-barcelona-defender-despite-interest-romano/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 13",
+      "loc": "Global",
+      "event": "Haissem Hassan completes Celtic medical as \u00a39m transfer moves to final stages",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://celticshorts.com/2026/08/haissem-hassan-completes-celtic-medical-as-9m-transfer-moves-to-final-stages/"
+        }
+      ]
+    },
     {
       "date": "Aug 13",
       "loc": "Global",
@@ -304,37 +334,7 @@
           "url": "https://www.aljazeera.com/sports/2026/8/11/hockey-world-cup-2026-full-match-schedule-groups-india-vs-pakistan"
         }
       ]
-    },
-    {
-      "date": "Aug 13",
-      "loc": "Global",
-      "event": "\u2018Overpowering stench of corruption\u2019: Donald Trump sparks outrage for supporting Gianni Infantino",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/donald-trump-sparks-outrage-gianni-infantino-support.html"
-        }
-      ]
-    },
-    {
-      "date": "Aug 13",
-      "loc": "Global",
-      "event": "\u2018Terrible mistake\u2019: Donald Trump issues a warning to soccer community",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://thecomeback.com/soccer/terrible-mistake-donald-trump-issues-a-warning-to-soccer-community.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-13T05:24:53.779554Z"
+  "lastUpdated": "2026-08-13T07:05:17.712455Z"
 }
