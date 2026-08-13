@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 7
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Somali referee denied entry to US for FIFA World Cup will officiate UEFA Super Cup tonight",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Omar Artan is set to return to the big stage on Wednesday evening when he takes charge of the UEFA Super Cup match between PSG and Aston Villa. Artan made headlines earlier this summer when he was due to officiate at the 2026 World Cup, but was denied entry t\u2026",
+      "timestamp": "2026-08-13T11:41:27.990870Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/somali-referee-denied-entry-to-us-for-fifa-world-cup-will-officiate-uefa-super-cup-tonight/"
+        }
+      ]
+    },
+    {
       "title": "Arsenal yet to make any concrete advances to sign Barcelona defender despite interest \u2013 Romano",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jules Kounde is the latest of the Barcelona stars to have rejoined training this summer after their stint at the 2026 FIFA World Cup.However, soon after rejoining training, Kounde has been linked with...",
-      "timestamp": "2026-08-13T10:58:09.770970Z",
+      "timestamp": "2026-08-13T11:41:27.991245Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Haissem Hassan has reportedly completed his Celtic medical as the Hoops close in on a \u00a39million deal for the Real Oviedo winger.Haissem Hassan of Egypt controls the ball during the FIFA World Cup 202...",
-      "timestamp": "2026-08-13T10:58:09.771022Z",
+      "timestamp": "2026-08-13T11:41:27.991278Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Walmart offers the FIFA World Cup 2026 Men's USA Country Soccer Tee for $4.70.\u00a0 That's a $12 savings.\u00a0 Choose pickup or spend $35 to avoid the $6.99 shipping charge. Buy Now at Walmart",
-      "timestamp": "2026-08-13T10:58:09.771313Z",
+      "timestamp": "2026-08-13T11:41:27.991658Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "When asked directly whether he\u2019d swap Lumen Field's artificial turf for real grass, the billionaire venture capitalist made it clear he intends to leave groundskeeping decisions to the team's front office. Read More",
-      "timestamp": "2026-08-13T10:58:09.771925Z",
+      "timestamp": "2026-08-13T11:41:27.992159Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Don't miss tonight's soccer madness as Major League Soccer and Liga MX clubs collide in the 2026 Leagues Cup. Here's how to tune in for tonight's games and every match this season.\nThe 2026 World Cup might be over, but that doesn't mean soccer has fallen off \u2026",
-      "timestamp": "2026-08-13T10:58:09.772039Z",
+      "timestamp": "2026-08-13T11:41:27.992268Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA President Gianni Infantino is fighting to keep his job following the 2026 World Cup, and he has now received the backing of his friend, U.S. President Donald Trump",
-      "timestamp": "2026-08-13T10:58:09.772068Z",
+      "timestamp": "2026-08-13T11:41:27.992295Z",
       "links": [
         {
           "label": "Source",
@@ -216,6 +230,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 13",
+      "loc": "Global",
+      "event": "Somali referee denied entry to US for FIFA World Cup will officiate UEFA Super Cup tonight",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/somali-referee-denied-entry-to-us-for-fifa-world-cup-will-officiate-uefa-super-cup-tonight/"
+        }
+      ]
+    },
     {
       "date": "Aug 13",
       "loc": "Global",
@@ -307,5 +336,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-13T10:58:09.772468Z"
+  "lastUpdated": "2026-08-13T11:41:27.992691Z"
 }
