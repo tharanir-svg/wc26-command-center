@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 4
+    "p3": 5
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "FIFA World Cup 2026 Men's Host City Poster Tee for $5 + free shipping w/ $35",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Walmart offers the FIFA World Cup 2026 Men's Host City Poster Tee in Los Angeles for $4.73.\u00a0 Several other cities are available for around $5.\u00a0 Choose pickup or spend $35 to avoid the $6.99 shipping charge. Buy Now at Walmart",
+      "timestamp": "2026-08-13T23:28:01.732203Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dealnews.com/FIFA-World-Cup-2026-Mens-Host-City-Poster-Tee-for-5-free-shipping-w-35/22013343.html"
+        }
+      ]
+    },
+    {
       "title": "Could the 2031 Women\u2019s World Cup be coming to N.J.? State says it\u2019s open to it",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "New Jersey is open to hosting the 2031 FIFA Women's World Cup at MetLife Stadium, though no formal bid has been made.",
-      "timestamp": "2026-08-13T22:27:16.461792Z",
+      "timestamp": "2026-08-13T23:28:01.732589Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Roberto De Zerbi explains why Sandro Tonali can be \u2018a leader\u2019 at his new Tottenham Hotspur project, bringing Italian techniques to the Premier League, and learning from Argentina at the World Cup.",
-      "timestamp": "2026-08-13T22:27:16.462249Z",
+      "timestamp": "2026-08-13T23:28:01.733064Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Last month, fighter jets also intercepted planes attempting to fly near MetLife Stadium, during the World Cup Final.",
-      "timestamp": "2026-08-13T22:27:16.462380Z",
+      "timestamp": "2026-08-13T23:28:01.733309Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Omar Artan is set to return to the big stage on Wednesday evening when he takes charge of the UEFA Super Cup match between PSG and Aston Villa. Artan made headlines earlier this summer when he was due to officiate at the 2026 World Cup, but was denied entry t\u2026",
-      "timestamp": "2026-08-13T22:27:16.462749Z",
+      "timestamp": "2026-08-13T23:28:01.733640Z",
       "links": [
         {
           "label": "Source",
@@ -188,6 +202,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 13",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026 Men's Host City Poster Tee for $5 + free shipping w/ $35",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dealnews.com/FIFA-World-Cup-2026-Mens-Host-City-Poster-Tee-for-5-free-shipping-w-35/22013343.html"
+        }
+      ]
+    },
     {
       "date": "Aug 13",
       "loc": "New York / New Jersey",
@@ -249,5 +278,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-13T22:27:16.463034Z"
+  "lastUpdated": "2026-08-13T23:28:01.733910Z"
 }
