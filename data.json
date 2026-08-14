@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 7
+    "p3": 8
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Ishika Chaudhary's World Cup prep: Visualisation, patience",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "India defender Ishika Chaudhary, set to make her Women's Hockey World Cup debut, believes her team can spring a surprise, drawing parallels with recent FIFA World Cup upsets. She discusses her journey, overcoming setbacks, and the team's strategy to peak at t\u2026",
+      "timestamp": "2026-08-14T14:05:24.020106Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/ishika-chaudharys-world-cup-prep-visualisation-patience-and-focus/20260813.htm"
+        }
+      ]
+    },
+    {
       "title": "adidas 2026 FIFA World Cup Mini+ Soccer Ball for $15 + free shipping w/ $39",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This adidas mini soccer ball is $14.99, down from $22 at Fanatics. It's the best price we could find by $3. Its solid foam core means it never needs to be pumped up, making it a low-maintenance option for practicing footwork or displaying World Cup spirit. Us\u2026",
-      "timestamp": "2026-08-14T12:32:55.180289Z",
+      "timestamp": "2026-08-14T14:05:24.020442Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIH Hockey World Cup 2026 is set to begin on August 15, with India featuring in both the men's and women's tournaments. Here is the complete India schedule, fixtures and squad details for the World Cup.",
-      "timestamp": "2026-08-14T12:32:55.180444Z",
+      "timestamp": "2026-08-14T14:05:24.020535Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Aston Villa are monitoring Bayern Munich defender Kim Min-jae, according to German outlet tz.Villa reportedly made contact with Min-jae during the 2026 FIFA World Cup, but he was focused on his commit...",
-      "timestamp": "2026-08-14T12:32:55.180544Z",
+      "timestamp": "2026-08-14T14:05:24.020683Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Besides Rodri, every Manchester City player who went beyond the quarter-final stage with their nation at the 2026 FIFA World Cup returned to the club for training yesterday. Enzo Maresca finally got t...",
-      "timestamp": "2026-08-14T12:32:55.180711Z",
+      "timestamp": "2026-08-14T14:05:24.020732Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Enzo Maresca has had an opportunity to assess the majority of his Manchester City squad minus the players whose countries progressed to, or past, the quarter-final stage of the 2026 FIFA World Cup. Ma...",
-      "timestamp": "2026-08-14T12:32:55.180931Z",
+      "timestamp": "2026-08-14T14:05:24.020900Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Walmart offers the FIFA World Cup 2026 Men's Host City Poster Tee in Los Angeles for $4.73.\u00a0 Several other cities are available for around $5.\u00a0 Choose pickup or spend $35 to avoid the $6.99 shipping charge. Buy Now at Walmart",
-      "timestamp": "2026-08-14T12:32:55.180959Z",
+      "timestamp": "2026-08-14T14:05:24.020919Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "New Jersey is open to hosting the 2031 FIFA Women's World Cup at MetLife Stadium, though no formal bid has been made.",
-      "timestamp": "2026-08-14T12:32:55.181340Z",
+      "timestamp": "2026-08-14T14:05:24.021197Z",
       "links": [
         {
           "label": "Source",
@@ -230,6 +244,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 14",
+      "loc": "Global",
+      "event": "Ishika Chaudhary's World Cup prep: Visualisation, patience",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/ishika-chaudharys-world-cup-prep-visualisation-patience-and-focus/20260813.htm"
+        }
+      ]
+    },
     {
       "date": "Aug 14",
       "loc": "Global",
@@ -336,5 +365,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-14T12:32:55.181914Z"
+  "lastUpdated": "2026-08-14T14:05:24.021495Z"
 }
