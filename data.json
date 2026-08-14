@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 8
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "When Is The India-Pakistan Hockey World Cup Clash?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The FIH Hockey World Cup 2026 is set to begin on August 15, with India featuring in both the men's and women's tournaments. Here is the complete India schedule, fixtures and squad details for the World Cup.",
+      "timestamp": "2026-08-14T08:53:50.406334Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/hockey-world-cup-2026-india-schedule-fixtures-squads/20260813.htm"
+        }
+      ]
+    },
+    {
+      "title": "Aston Villa monitoring Bayern Munich defender Kim Min-jae",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Aston Villa are monitoring Bayern Munich defender Kim Min-jae, according to German outlet tz.Villa reportedly made contact with Min-jae during the 2026 FIFA World Cup, but he was focused on his commit...",
+      "timestamp": "2026-08-14T08:53:50.406465Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/08/13/aston-villa-monitoring-bayern-munich-defender-min-jae-kim/"
+        }
+      ]
+    },
+    {
       "title": "A key signing for Manchester City has taken his first step with the club",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Besides Rodri, every Manchester City player who went beyond the quarter-final stage with their nation at the 2026 FIFA World Cup returned to the club for training yesterday. Enzo Maresca finally got t...",
-      "timestamp": "2026-08-14T07:01:44.586935Z",
+      "timestamp": "2026-08-14T08:53:50.406646Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Enzo Maresca has had an opportunity to assess the majority of his Manchester City squad minus the players whose countries progressed to, or past, the quarter-final stage of the 2026 FIFA World Cup. Ma...",
-      "timestamp": "2026-08-14T07:01:44.587222Z",
+      "timestamp": "2026-08-14T08:53:50.406896Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Walmart offers the FIFA World Cup 2026 Men's Host City Poster Tee in Los Angeles for $4.73.\u00a0 Several other cities are available for around $5.\u00a0 Choose pickup or spend $35 to avoid the $6.99 shipping charge. Buy Now at Walmart",
-      "timestamp": "2026-08-14T07:01:44.587254Z",
+      "timestamp": "2026-08-14T08:53:50.406926Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "New Jersey is open to hosting the 2031 FIFA Women's World Cup at MetLife Stadium, though no formal bid has been made.",
-      "timestamp": "2026-08-14T07:01:44.587761Z",
+      "timestamp": "2026-08-14T08:53:50.407288Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Roberto De Zerbi explains why Sandro Tonali can be \u2018a leader\u2019 at his new Tottenham Hotspur project, bringing Italian techniques to the Premier League, and learning from Argentina at the World Cup.",
-      "timestamp": "2026-08-14T07:01:44.588261Z",
+      "timestamp": "2026-08-14T08:53:50.407733Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Last month, fighter jets also intercepted planes attempting to fly near MetLife Stadium, during the World Cup Final.",
-      "timestamp": "2026-08-14T07:01:44.588424Z",
+      "timestamp": "2026-08-14T08:53:50.407893Z",
       "links": [
         {
           "label": "Source",
@@ -216,6 +244,36 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 14",
+      "loc": "Global",
+      "event": "When Is The India-Pakistan Hockey World Cup Clash?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/hockey-world-cup-2026-india-schedule-fixtures-squads/20260813.htm"
+        }
+      ]
+    },
+    {
+      "date": "Aug 14",
+      "loc": "Global",
+      "event": "Aston Villa monitoring Bayern Munich defender Kim Min-jae",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/08/13/aston-villa-monitoring-bayern-munich-defender-min-jae-kim/"
+        }
+      ]
+    },
     {
       "date": "Aug 14",
       "loc": "Global",
@@ -307,5 +365,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-14T07:01:44.588874Z"
+  "lastUpdated": "2026-08-14T08:53:50.408276Z"
 }
