@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 8
+    "p3": 6
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Telemundo and Apple TV commentator Alejandro Figueredo reflects on the World Cup, long-term national team building, MLS\u2019s future, and the lessons the United States and Uruguay should learn.\u00a0The las...",
-      "timestamp": "2026-08-15T16:08:15.870802Z",
+      "timestamp": "2026-08-15T17:09:50.667287Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By Charles BoehmJustin Ellis already idolized Antoine Griezmann long before they took the field together for Orlando City; the Lions\u2019 teenage homegrown has admired the 2018 FIFA World Cup winner\u2019s...",
-      "timestamp": "2026-08-15T16:08:15.870876Z",
+      "timestamp": "2026-08-15T17:09:50.667378Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 Hockey World Cup schedule has been released by the FIH. India's men's team will play Wales, England, and Pakistan in their group. India's women's team faces China, South Africa, and England in their pool. Both tournaments will be co-hosted by Belgium\u2026",
-      "timestamp": "2026-08-15T16:08:15.871364Z",
+      "timestamp": "2026-08-15T17:09:50.667896Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA World Cup 2026 Can CoolersUnited States Men's National Soccer Team Logo 12oz Can Cooler, Collapsible [walmart.com] - $0.74\nUnited States Men's National Soccer Team Style Logo 12oz Can",
-      "timestamp": "2026-08-15T16:08:15.871725Z",
+      "timestamp": "2026-08-15T17:09:50.668286Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Torrance Transit is offering Rams and Chargers fans a $4 round trip to SoFi Stadium with free parking during the 2026 NFL season.",
-      "timestamp": "2026-08-15T16:08:15.871802Z",
+      "timestamp": "2026-08-15T17:09:50.668379Z",
       "links": [
         {
           "label": "Source",
@@ -206,39 +206,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain soccer player Ferran Torres scored the winning goal against Argentina to win the 2026 FIFA World Cup. His speed and strength come from his focus on recovery and short, intensive workouts.",
-      "timestamp": "2026-08-15T16:08:15.872112Z",
+      "timestamp": "2026-08-15T17:09:50.668713Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.menshealth.com/fitness/a73424380/ferran-torres-spain-world-cup-workout/"
-        }
-      ]
-    },
-    {
-      "title": "The FIFA World Cup should belong to fans, not super-rich investors",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "An institution that belongs to everyone and to no one is a fragile thing. It survives on a shared conviction that some goods are not for sale and belong to the community.",
-      "timestamp": "2026-08-15T16:08:15.872279Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://theconversation.com/the-fifa-world-cup-should-belong-to-fans-not-super-rich-investors-289600"
-        }
-      ]
-    },
-    {
-      "title": "Omar Artan sends five-word message to Donald Trump after making UEFA Super Cup history",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Omar Artan was denied entry into the United States earlier this summer and missed his chance to referee at the 2026 FIFA World Cup, but the Somalian official made history on Wednesday at the UEFA Super Cup",
-      "timestamp": "2026-08-15T16:08:15.872358Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/omar-artan-donald-trump-message-1981296"
         }
       ]
     }
@@ -333,37 +305,7 @@
           "url": "https://www.menshealth.com/fitness/a73424380/ferran-torres-spain-world-cup-workout/"
         }
       ]
-    },
-    {
-      "date": "Aug 15",
-      "loc": "Global",
-      "event": "The FIFA World Cup should belong to fans, not super-rich investors",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://theconversation.com/the-fifa-world-cup-should-belong-to-fans-not-super-rich-investors-289600"
-        }
-      ]
-    },
-    {
-      "date": "Aug 15",
-      "loc": "Global",
-      "event": "Omar Artan sends five-word message to Donald Trump after making UEFA Super Cup history",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/omar-artan-donald-trump-message-1981296"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-15T16:08:15.872560Z"
+  "lastUpdated": "2026-08-15T17:09:50.668981Z"
 }
