@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 5
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Telemundo and Apple TV commentator Alejandro Figueredo reflects on the World Cup, long-term national team building, MLS\u2019s future, and the lessons the United States and Uruguay should learn.\u00a0The las...",
-      "timestamp": "2026-08-15T17:09:50.667287Z",
+      "timestamp": "2026-08-15T18:09:02.385988Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By Charles BoehmJustin Ellis already idolized Antoine Griezmann long before they took the field together for Orlando City; the Lions\u2019 teenage homegrown has admired the 2018 FIFA World Cup winner\u2019s...",
-      "timestamp": "2026-08-15T17:09:50.667378Z",
+      "timestamp": "2026-08-15T18:09:02.386065Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 Hockey World Cup schedule has been released by the FIH. India's men's team will play Wales, England, and Pakistan in their group. India's women's team faces China, South Africa, and England in their pool. Both tournaments will be co-hosted by Belgium\u2026",
-      "timestamp": "2026-08-15T17:09:50.667896Z",
+      "timestamp": "2026-08-15T18:09:02.386578Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA World Cup 2026 Can CoolersUnited States Men's National Soccer Team Logo 12oz Can Cooler, Collapsible [walmart.com] - $0.74\nUnited States Men's National Soccer Team Style Logo 12oz Can",
-      "timestamp": "2026-08-15T17:09:50.668286Z",
+      "timestamp": "2026-08-15T18:09:02.386985Z",
       "links": [
         {
           "label": "Source",
@@ -192,25 +192,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Torrance Transit is offering Rams and Chargers fans a $4 round trip to SoFi Stadium with free parking during the 2026 NFL season.",
-      "timestamp": "2026-08-15T17:09:50.668379Z",
+      "timestamp": "2026-08-15T18:09:02.387068Z",
       "links": [
         {
           "label": "Source",
           "url": "https://nypost.com/2026/08/13/sports/torrance-offers-4-rides-to-sofi-stadium-for-rams-chargers-games/"
-        }
-      ]
-    },
-    {
-      "title": "How Ferran Torres Built the Power and Speed to Score the Winning World Cup Final Goal",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain soccer player Ferran Torres scored the winning goal against Argentina to win the 2026 FIFA World Cup. His speed and strength come from his focus on recovery and short, intensive workouts.",
-      "timestamp": "2026-08-15T17:09:50.668713Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.menshealth.com/fitness/a73424380/ferran-torres-spain-world-cup-workout/"
         }
       ]
     }
@@ -290,22 +276,7 @@
           "url": "https://nypost.com/2026/08/13/sports/torrance-offers-4-rides-to-sofi-stadium-for-rams-chargers-games/"
         }
       ]
-    },
-    {
-      "date": "Aug 15",
-      "loc": "Global",
-      "event": "How Ferran Torres Built the Power and Speed to Score the Winning World Cup Final Goal",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.menshealth.com/fitness/a73424380/ferran-torres-spain-world-cup-workout/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-15T17:09:50.668981Z"
+  "lastUpdated": "2026-08-15T18:09:02.387537Z"
 }
