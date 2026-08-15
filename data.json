@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "FIH Hockey World Cup 2026 schedule out; India Men to face Pakistan in group stage",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2026 Hockey World Cup schedule has been released by the FIH. India's men's team will play Wales, England, and Pakistan in their group. India's women's team faces China, South Africa, and England in their pool. Both tournaments will be co-hosted by Belgium\u2026",
+      "timestamp": "2026-08-15T08:12:10.773205Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/hockey/fih-hockey-world-cup-2026-schedule-out-india-men-to-face-pakistan-in-group-stage/articleshow/133232746.cms"
+        }
+      ]
+    },
+    {
       "title": "FIFA World Cup 2026 Drinkware Clearance - from $0.74 (Can Coolers, Shot Glasses, Mugs, AND MORE) (2 replies)",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA World Cup 2026 Can CoolersUnited States Men's National Soccer Team Logo 12oz Can Cooler, Collapsible [walmart.com] - $0.74\nUnited States Men's National Soccer Team Style Logo 12oz Can",
-      "timestamp": "2026-08-15T07:19:14.964405Z",
+      "timestamp": "2026-08-15T08:12:10.773724Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Torrance Transit is offering Rams and Chargers fans a $4 round trip to SoFi Stadium with free parking during the 2026 NFL season.",
-      "timestamp": "2026-08-15T07:19:14.964514Z",
+      "timestamp": "2026-08-15T08:12:10.773808Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain soccer player Ferran Torres scored the winning goal against Argentina to win the 2026 FIFA World Cup. His speed and strength come from his focus on recovery and short, intensive workouts.",
-      "timestamp": "2026-08-15T07:19:14.964942Z",
+      "timestamp": "2026-08-15T08:12:10.774089Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "An institution that belongs to everyone and to no one is a fragile thing. It survives on a shared conviction that some goods are not for sale and belong to the community.",
-      "timestamp": "2026-08-15T07:19:14.965078Z",
+      "timestamp": "2026-08-15T08:12:10.774201Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Omar Artan was denied entry into the United States earlier this summer and missed his chance to referee at the 2026 FIFA World Cup, but the Somalian official made history on Wednesday at the UEFA Super Cup",
-      "timestamp": "2026-08-15T07:19:14.965140Z",
+      "timestamp": "2026-08-15T08:12:10.774297Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This officially licensed FIFA World Cup 2026 tee is $4.71, down from $16.98. Opt for pickup to avoid the $6.99 shipping charge (or get free shipping with orders of $35 or more).\r\nBuy Now at Walmart",
-      "timestamp": "2026-08-15T07:19:14.965223Z",
+      "timestamp": "2026-08-15T08:12:10.774380Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This officially licensed FIFA World Cup 2026 tee is $4.71, down from $16.98. Opt for pickup to avoid the $6.99 shipping charge (or get free shipping with orders of $35 or more).\r\nBuy Now at Walmart",
-      "timestamp": "2026-08-15T07:19:14.965239Z",
+      "timestamp": "2026-08-15T08:12:10.774398Z",
       "links": [
         {
           "label": "Source",
@@ -234,30 +248,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India defender Ishika Chaudhary, set to make her Women's Hockey World Cup debut, believes her team can spring a surprise, drawing parallels with recent FIFA World Cup upsets. She discusses her journey, overcoming setbacks, and the team's strategy to peak at t\u2026",
-      "timestamp": "2026-08-15T07:19:14.965413Z",
+      "timestamp": "2026-08-15T08:12:10.774558Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.rediff.com/sports/report/ishika-chaudharys-world-cup-prep-visualisation-patience-and-focus/20260813.htm"
         }
       ]
-    },
-    {
-      "title": "adidas 2026 FIFA World Cup Mini+ Soccer Ball for $15 + free shipping w/ $39",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "This adidas mini soccer ball is $14.99, down from $22 at Fanatics. It's the best price we could find by $3. Its solid foam core means it never needs to be pumped up, making it a low-maintenance option for practicing footwork or displaying World Cup spirit. Us\u2026",
-      "timestamp": "2026-08-15T07:19:14.965869Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/adidas-2026-FIFA-World-Cup-Mini-Soccer-Ball-for-15-free-shipping-w-39/22018532.html"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 15",
+      "loc": "Global",
+      "event": "FIH Hockey World Cup 2026 schedule out; India Men to face Pakistan in group stage",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/hockey/fih-hockey-world-cup-2026-schedule-out-india-men-to-face-pakistan-in-group-stage/articleshow/133232746.cms"
+        }
+      ]
+    },
     {
       "date": "Aug 15",
       "loc": "Global",
@@ -377,22 +392,7 @@
           "url": "https://www.rediff.com/sports/report/ishika-chaudharys-world-cup-prep-visualisation-patience-and-focus/20260813.htm"
         }
       ]
-    },
-    {
-      "date": "Aug 15",
-      "loc": "Global",
-      "event": "adidas 2026 FIFA World Cup Mini+ Soccer Ball for $15 + free shipping w/ $39",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/adidas-2026-FIFA-World-Cup-Mini-Soccer-Ball-for-15-free-shipping-w-39/22018532.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-15T07:19:14.966072Z"
+  "lastUpdated": "2026-08-15T08:12:10.775145Z"
 }
