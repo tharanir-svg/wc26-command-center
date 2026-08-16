@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 7
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Vikings' Jamal Adams becomes latest victim of MetLife Stadium turf",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Minnesota Vikings linebacker Jamal Adams sustained a non-contact knee injury on the MetLife Stadium turf.",
+      "timestamp": "2026-08-16T23:07:19.917380Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/nfl/vikings/2026/08/15/jamal-adams-injury-update-vikings-metlife-turf/91322684007/"
+        }
+      ]
+    },
+    {
       "title": "Why Real Madrid, Barcelona are not playing in LaLiga\u2019s opening weekend",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Real Madrid and Barcelona will not play their opening LaLiga fixtures when the 2026/27 season gets underway on August 15, with both clubs receiving a schedule adjustment following the 2026 FIFA World Cup.\nThe post Why Real Madrid, Barcelona are not playing in\u2026",
-      "timestamp": "2026-08-16T22:07:03.138903Z",
+      "timestamp": "2026-08-16T23:07:19.918149Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India secured a 3-1 victory against Wales in their opening World Cup match. Captain Harmanpreet Singh scored two penalty-corner goals to establish an early lead. India extended their advantage to three goals after the break with another penalty-corner convers\u2026",
-      "timestamp": "2026-08-16T22:07:03.139065Z",
+      "timestamp": "2026-08-16T23:07:19.918310Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "World Athletics' president says political influence in sport must be kept in check with LA Olympics on horizon.",
-      "timestamp": "2026-08-16T22:07:03.139281Z",
+      "timestamp": "2026-08-16T23:07:19.918555Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch FIH Hockey World Cup 2026 live streams online from anywhere \u2013 including for FREE \u2013 with Tom Boon and Xan de Waard set to star.",
-      "timestamp": "2026-08-16T22:07:03.139307Z",
+      "timestamp": "2026-08-16T23:07:19.918583Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India will be among the teams in action on the first day, beginning their campaign against Wales in Pool D.",
-      "timestamp": "2026-08-16T22:07:03.139434Z",
+      "timestamp": "2026-08-16T23:07:19.918708Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Strategic advisor Samuel Hymes looks back at the 2026 World Cup and forward to what could be a pivotal decade of international sporting events in the United States.",
-      "timestamp": "2026-08-16T22:07:03.139617Z",
+      "timestamp": "2026-08-16T23:07:19.918909Z",
       "links": [
         {
           "label": "Source",
@@ -216,6 +230,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 16",
+      "loc": "New York / New Jersey",
+      "event": "Vikings' Jamal Adams becomes latest victim of MetLife Stadium turf",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/nfl/vikings/2026/08/15/jamal-adams-injury-update-vikings-metlife-turf/91322684007/"
+        }
+      ]
+    },
     {
       "date": "Aug 16",
       "loc": "Global",
@@ -307,5 +336,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-16T22:07:03.140025Z"
+  "lastUpdated": "2026-08-16T23:07:19.919302Z"
 }
