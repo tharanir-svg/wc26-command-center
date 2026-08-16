@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 7
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "India beat Wales 3-1 to begin FIH Men's Hockey World Cup 2026 campaign with a win",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "India secured a 3-1 victory against Wales in their opening World Cup match. Captain Harmanpreet Singh scored two penalty-corner goals to establish an early lead. India extended their advantage to three goals after the break with another penalty-corner convers\u2026",
+      "timestamp": "2026-08-16T14:10:24.578774Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/hockey/india-beat-wales-3-1-to-begin-fih-mens-hockey-world-cup-2026-campaign-with-a-win/articleshow/133263534.cms"
+        }
+      ]
+    },
+    {
       "title": "FIFA World Cup and Olympics cited as Coe warns of politicians near sport",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "World Athletics' president says political influence in sport must be kept in check with LA Olympics on horizon.",
-      "timestamp": "2026-08-16T13:21:45.432053Z",
+      "timestamp": "2026-08-16T14:10:24.579019Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch FIH Hockey World Cup 2026 live streams online from anywhere \u2013 including for FREE \u2013 with Tom Boon and Xan de Waard set to star.",
-      "timestamp": "2026-08-16T13:21:45.432101Z",
+      "timestamp": "2026-08-16T14:10:24.579050Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India will be among the teams in action on the first day, beginning their campaign against Wales in Pool D.",
-      "timestamp": "2026-08-16T13:21:45.432222Z",
+      "timestamp": "2026-08-16T14:10:24.579165Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Strategic advisor Samuel Hymes looks back at the 2026 World Cup and forward to what could be a pivotal decade of international sporting events in the United States.",
-      "timestamp": "2026-08-16T13:21:45.432409Z",
+      "timestamp": "2026-08-16T14:10:24.579367Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Telemundo and Apple TV commentator Alejandro Figueredo reflects on the World Cup, long-term national team building, MLS\u2019s future, and the lessons the United States and Uruguay should learn.\u00a0The las...",
-      "timestamp": "2026-08-16T13:21:45.432847Z",
+      "timestamp": "2026-08-16T14:10:24.579796Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By Charles BoehmJustin Ellis already idolized Antoine Griezmann long before they took the field together for Orlando City; the Lions\u2019 teenage homegrown has admired the 2018 FIFA World Cup winner\u2019s...",
-      "timestamp": "2026-08-16T13:21:45.432892Z",
+      "timestamp": "2026-08-16T14:10:24.579840Z",
       "links": [
         {
           "label": "Source",
@@ -216,6 +230,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 16",
+      "loc": "Global",
+      "event": "India beat Wales 3-1 to begin FIH Men's Hockey World Cup 2026 campaign with a win",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/hockey/india-beat-wales-3-1-to-begin-fih-mens-hockey-world-cup-2026-campaign-with-a-win/articleshow/133263534.cms"
+        }
+      ]
+    },
     {
       "date": "Aug 16",
       "loc": "Global",
@@ -307,5 +336,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-16T13:21:45.433498Z"
+  "lastUpdated": "2026-08-16T14:10:24.580370Z"
 }
