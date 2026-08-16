@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "FIH Hockey World Cup 2026 today's matches, live timings (IST), streaming",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "India will be among the teams in action on the first day, beginning their campaign against Wales in Pool D.",
+      "timestamp": "2026-08-16T03:36:31.564214Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.business-standard.com/sports/other-sports-news/fih-hockey-world-cup-2026-today-s-matches-live-timings-ist-streaming-126081200740_1.html"
+        }
+      ]
+    },
+    {
       "title": "World Cup Kicks Off A Pivotal Decade Of World Championships In U.S.",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Strategic advisor Samuel Hymes looks back at the 2026 World Cup and forward to what could be a pivotal decade of international sporting events in the United States.",
-      "timestamp": "2026-08-16T02:12:50.687677Z",
+      "timestamp": "2026-08-16T03:36:31.564441Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Telemundo and Apple TV commentator Alejandro Figueredo reflects on the World Cup, long-term national team building, MLS\u2019s future, and the lessons the United States and Uruguay should learn.\u00a0The las...",
-      "timestamp": "2026-08-16T02:12:50.688194Z",
+      "timestamp": "2026-08-16T03:36:31.564877Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By Charles BoehmJustin Ellis already idolized Antoine Griezmann long before they took the field together for Orlando City; the Lions\u2019 teenage homegrown has admired the 2018 FIFA World Cup winner\u2019s...",
-      "timestamp": "2026-08-16T02:12:50.688243Z",
+      "timestamp": "2026-08-16T03:36:31.564922Z",
       "links": [
         {
           "label": "Source",
@@ -178,30 +192,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 Hockey World Cup schedule has been released by the FIH. India's men's team will play Wales, England, and Pakistan in their group. India's women's team faces China, South Africa, and England in their pool. Both tournaments will be co-hosted by Belgium\u2026",
-      "timestamp": "2026-08-16T02:12:50.688748Z",
+      "timestamp": "2026-08-16T03:36:31.565401Z",
       "links": [
         {
           "label": "Source",
           "url": "https://economictimes.indiatimes.com/news/sports/hockey/fih-hockey-world-cup-2026-schedule-out-india-men-to-face-pakistan-in-group-stage/articleshow/133232746.cms"
         }
       ]
-    },
-    {
-      "title": "FIFA World Cup 2026 Drinkware Clearance - from $0.74 (Can Coolers, Shot Glasses, Mugs, AND MORE) (2 replies)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA World Cup 2026 Can CoolersUnited States Men's National Soccer Team Logo 12oz Can Cooler, Collapsible [walmart.com] - $0.74\nUnited States Men's National Soccer Team Style Logo 12oz Can",
-      "timestamp": "2026-08-16T02:12:50.689223Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slickdeals.net/f/19876923-fifa-world-cup-2026-drinkware-clearance-from-0-74-can-coolers-shot-glasses-mugs-and-more"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 16",
+      "loc": "Global",
+      "event": "FIH Hockey World Cup 2026 today's matches, live timings (IST), streaming",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.business-standard.com/sports/other-sports-news/fih-hockey-world-cup-2026-today-s-matches-live-timings-ist-streaming-126081200740_1.html"
+        }
+      ]
+    },
     {
       "date": "Aug 16",
       "loc": "Global",
@@ -261,22 +276,7 @@
           "url": "https://economictimes.indiatimes.com/news/sports/hockey/fih-hockey-world-cup-2026-schedule-out-india-men-to-face-pakistan-in-group-stage/articleshow/133232746.cms"
         }
       ]
-    },
-    {
-      "date": "Aug 16",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026 Drinkware Clearance - from $0.74 (Can Coolers, Shot Glasses, Mugs, AND MORE) (2 replies)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slickdeals.net/f/19876923-fifa-world-cup-2026-drinkware-clearance-from-0-74-can-coolers-shot-glasses-mugs-and-more"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-16T02:12:50.689402Z"
+  "lastUpdated": "2026-08-16T03:36:31.565891Z"
 }
