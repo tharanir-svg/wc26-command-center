@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 5
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Strategic advisor Samuel Hymes looks back at the 2026 World Cup and forward to what could be a pivotal decade of international sporting events in the United States.",
-      "timestamp": "2026-08-16T00:27:31.793021Z",
+      "timestamp": "2026-08-16T02:12:50.687677Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Telemundo and Apple TV commentator Alejandro Figueredo reflects on the World Cup, long-term national team building, MLS\u2019s future, and the lessons the United States and Uruguay should learn.\u00a0The las...",
-      "timestamp": "2026-08-16T00:27:31.793514Z",
+      "timestamp": "2026-08-16T02:12:50.688194Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By Charles BoehmJustin Ellis already idolized Antoine Griezmann long before they took the field together for Orlando City; the Lions\u2019 teenage homegrown has admired the 2018 FIFA World Cup winner\u2019s...",
-      "timestamp": "2026-08-16T00:27:31.793566Z",
+      "timestamp": "2026-08-16T02:12:50.688243Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 Hockey World Cup schedule has been released by the FIH. India's men's team will play Wales, England, and Pakistan in their group. India's women's team faces China, South Africa, and England in their pool. Both tournaments will be co-hosted by Belgium\u2026",
-      "timestamp": "2026-08-16T00:27:31.794025Z",
+      "timestamp": "2026-08-16T02:12:50.688748Z",
       "links": [
         {
           "label": "Source",
@@ -192,25 +192,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA World Cup 2026 Can CoolersUnited States Men's National Soccer Team Logo 12oz Can Cooler, Collapsible [walmart.com] - $0.74\nUnited States Men's National Soccer Team Style Logo 12oz Can",
-      "timestamp": "2026-08-16T00:27:31.794441Z",
+      "timestamp": "2026-08-16T02:12:50.689223Z",
       "links": [
         {
           "label": "Source",
           "url": "https://slickdeals.net/f/19876923-fifa-world-cup-2026-drinkware-clearance-from-0-74-can-coolers-shot-glasses-mugs-and-more"
-        }
-      ]
-    },
-    {
-      "title": "Rams, Chargers fans can dodge SoFi parking headache for just $4",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Torrance Transit is offering Rams and Chargers fans a $4 round trip to SoFi Stadium with free parking during the 2026 NFL season.",
-      "timestamp": "2026-08-16T00:27:31.794559Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/08/13/sports/torrance-offers-4-rides-to-sofi-stadium-for-rams-chargers-games/"
         }
       ]
     }
@@ -290,22 +276,7 @@
           "url": "https://slickdeals.net/f/19876923-fifa-world-cup-2026-drinkware-clearance-from-0-74-can-coolers-shot-glasses-mugs-and-more"
         }
       ]
-    },
-    {
-      "date": "Aug 16",
-      "loc": "Los Angeles",
-      "event": "Rams, Chargers fans can dodge SoFi parking headache for just $4",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/08/13/sports/torrance-offers-4-rides-to-sofi-stadium-for-rams-chargers-games/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-16T00:27:31.794739Z"
+  "lastUpdated": "2026-08-16T02:12:50.689402Z"
 }
