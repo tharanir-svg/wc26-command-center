@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 7
+    "p3": 6
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "World Athletics' president says political influence in sport must be kept in check with LA Olympics on horizon.",
-      "timestamp": "2026-08-16T12:11:37.049476Z",
+      "timestamp": "2026-08-16T13:21:45.432053Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch FIH Hockey World Cup 2026 live streams online from anywhere \u2013 including for FREE \u2013 with Tom Boon and Xan de Waard set to star.",
-      "timestamp": "2026-08-16T12:11:37.049531Z",
+      "timestamp": "2026-08-16T13:21:45.432101Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India will be among the teams in action on the first day, beginning their campaign against Wales in Pool D.",
-      "timestamp": "2026-08-16T12:11:37.049664Z",
+      "timestamp": "2026-08-16T13:21:45.432222Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Strategic advisor Samuel Hymes looks back at the 2026 World Cup and forward to what could be a pivotal decade of international sporting events in the United States.",
-      "timestamp": "2026-08-16T12:11:37.049870Z",
+      "timestamp": "2026-08-16T13:21:45.432409Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Telemundo and Apple TV commentator Alejandro Figueredo reflects on the World Cup, long-term national team building, MLS\u2019s future, and the lessons the United States and Uruguay should learn.\u00a0The las...",
-      "timestamp": "2026-08-16T12:11:37.050353Z",
+      "timestamp": "2026-08-16T13:21:45.432847Z",
       "links": [
         {
           "label": "Source",
@@ -206,25 +206,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By Charles BoehmJustin Ellis already idolized Antoine Griezmann long before they took the field together for Orlando City; the Lions\u2019 teenage homegrown has admired the 2018 FIFA World Cup winner\u2019s...",
-      "timestamp": "2026-08-16T12:11:37.050399Z",
+      "timestamp": "2026-08-16T13:21:45.432892Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.mlssoccer.com/news/how-antoine-griezmann-has-inspired-orlando-city-teammates"
-        }
-      ]
-    },
-    {
-      "title": "FIH Hockey World Cup 2026 schedule out; India Men to face Pakistan in group stage",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 Hockey World Cup schedule has been released by the FIH. India's men's team will play Wales, England, and Pakistan in their group. India's women's team faces China, South Africa, and England in their pool. Both tournaments will be co-hosted by Belgium\u2026",
-      "timestamp": "2026-08-16T12:11:37.050980Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/hockey/fih-hockey-world-cup-2026-schedule-out-india-men-to-face-pakistan-in-group-stage/articleshow/133232746.cms"
         }
       ]
     }
@@ -319,22 +305,7 @@
           "url": "https://www.mlssoccer.com/news/how-antoine-griezmann-has-inspired-orlando-city-teammates"
         }
       ]
-    },
-    {
-      "date": "Aug 16",
-      "loc": "Global",
-      "event": "FIH Hockey World Cup 2026 schedule out; India Men to face Pakistan in group stage",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/hockey/fih-hockey-world-cup-2026-schedule-out-india-men-to-face-pakistan-in-group-stage/articleshow/133232746.cms"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-16T12:11:37.051142Z"
+  "lastUpdated": "2026-08-16T13:21:45.433498Z"
 }
