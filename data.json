@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 8
+    "p3": 6
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Real Madrid and Barcelona will not play their opening LaLiga fixtures when the 2026/27 season gets underway on August 15, with both clubs receiving a schedule adjustment following the 2026 FIFA World Cup.\nThe post Why Real Madrid, Barcelona are not playing in\u2026",
-      "timestamp": "2026-08-16T16:09:15.229262Z",
+      "timestamp": "2026-08-16T17:08:53.311022Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India secured a 3-1 victory against Wales in their opening World Cup match. Captain Harmanpreet Singh scored two penalty-corner goals to establish an early lead. India extended their advantage to three goals after the break with another penalty-corner convers\u2026",
-      "timestamp": "2026-08-16T16:09:15.229449Z",
+      "timestamp": "2026-08-16T17:08:53.311196Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "World Athletics' president says political influence in sport must be kept in check with LA Olympics on horizon.",
-      "timestamp": "2026-08-16T16:09:15.229708Z",
+      "timestamp": "2026-08-16T17:08:53.311432Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch FIH Hockey World Cup 2026 live streams online from anywhere \u2013 including for FREE \u2013 with Tom Boon and Xan de Waard set to star.",
-      "timestamp": "2026-08-16T16:09:15.229741Z",
+      "timestamp": "2026-08-16T17:08:53.311461Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India will be among the teams in action on the first day, beginning their campaign against Wales in Pool D.",
-      "timestamp": "2026-08-16T16:09:15.229868Z",
+      "timestamp": "2026-08-16T17:08:53.311576Z",
       "links": [
         {
           "label": "Source",
@@ -206,39 +206,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Strategic advisor Samuel Hymes looks back at the 2026 World Cup and forward to what could be a pivotal decade of international sporting events in the United States.",
-      "timestamp": "2026-08-16T16:09:15.230070Z",
+      "timestamp": "2026-08-16T17:08:53.311759Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.forbes.com/sites/michaellewis/2026/08/14/world-cup-kicks-off-a-pivotal-decade-of-world-championships-in-us/"
-        }
-      ]
-    },
-    {
-      "title": "Alejandro Figueredo on the 2026 World Cup, MLS, and What\u2019s Next for Global Soccer",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Telemundo and Apple TV commentator Alejandro Figueredo reflects on the World Cup, long-term national team building, MLS\u2019s future, and the lessons the United States and Uruguay should learn.\u00a0The las...",
-      "timestamp": "2026-08-16T16:09:15.230530Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://urbanpitch.com/alejandro-figueredo-on-the-2026-world-cup-mls-and-whats-next-for-global-soccer/"
-        }
-      ]
-    },
-    {
-      "title": "How Antoine Griezmann has inspired Orlando City teammates",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "By Charles BoehmJustin Ellis already idolized Antoine Griezmann long before they took the field together for Orlando City; the Lions\u2019 teenage homegrown has admired the 2018 FIFA World Cup winner\u2019s...",
-      "timestamp": "2026-08-16T16:09:15.230575Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.mlssoccer.com/news/how-antoine-griezmann-has-inspired-orlando-city-teammates"
         }
       ]
     }
@@ -333,37 +305,7 @@
           "url": "https://www.forbes.com/sites/michaellewis/2026/08/14/world-cup-kicks-off-a-pivotal-decade-of-world-championships-in-us/"
         }
       ]
-    },
-    {
-      "date": "Aug 16",
-      "loc": "Global",
-      "event": "Alejandro Figueredo on the 2026 World Cup, MLS, and What\u2019s Next for Global Soccer",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://urbanpitch.com/alejandro-figueredo-on-the-2026-world-cup-mls-and-whats-next-for-global-soccer/"
-        }
-      ]
-    },
-    {
-      "date": "Aug 16",
-      "loc": "Global",
-      "event": "How Antoine Griezmann has inspired Orlando City teammates",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.mlssoccer.com/news/how-antoine-griezmann-has-inspired-orlando-city-teammates"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-16T16:09:15.231044Z"
+  "lastUpdated": "2026-08-16T17:08:53.312294Z"
 }
