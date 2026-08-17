@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 1,
     "p2": 0,
-    "p3": 7
+    "p3": 6
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In the aftermath of the 2026 FIFA World Cup, the traditional September and October international breaks have been scrapped and combined into one big window.",
-      "timestamp": "2026-08-17T20:11:21.203966Z",
+      "timestamp": "2026-08-17T21:13:22.988144Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "Ronaldo and Portugal were eliminated in the Round of 16 at the 2026 World Cup.",
-      "timestamp": "2026-08-17T20:11:21.204397Z",
+      "timestamp": "2026-08-17T21:13:22.988463Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India's women's hockey team began their World Cup campaign with a hard-fought draw. They took an early lead against China, the Olympic silver medallists. China equalized from a penalty stroke before India regained their advantage. The Chinese team leveled the\u2026",
-      "timestamp": "2026-08-17T20:11:21.204945Z",
+      "timestamp": "2026-08-17T21:13:22.988894Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India vs China Live Score, Women's Hockey World Cup 2026: India will begin their Women\u2019s FIH Hockey World Cup campaign against one of the tournament'",
-      "timestamp": "2026-08-17T20:11:21.205427Z",
+      "timestamp": "2026-08-17T21:13:22.989263Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The day's men's action begins with Australia taking on Ireland at 3 PM IST at the Belfius Hockey Arena.",
-      "timestamp": "2026-08-17T20:11:21.205500Z",
+      "timestamp": "2026-08-17T21:13:22.989322Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Messi's record from the penalty spot is poor by his sky-high standards, including missing twice at the 2026 World Cup.",
-      "timestamp": "2026-08-17T20:11:21.205577Z",
+      "timestamp": "2026-08-17T21:13:22.989381Z",
       "links": [
         {
           "label": "Source",
@@ -220,25 +220,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The day's action features England vs South Africa and China vs India in Pool D, while hosts Belgium will take on New Zealand in a Pool C encounter later in the evening.",
-      "timestamp": "2026-08-17T20:11:21.205605Z",
+      "timestamp": "2026-08-17T21:13:22.989403Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.business-standard.com/sports/other-sports-news/women-s-hockey-world-cup-2026-today-s-matches-timings-live-streaming-126081600218_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Dallas Cowboys Fans Hit With Major Game Day Price Hike After AT&T Stadium Overhaul",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Dallas Cowboys fans could pay significantly more for a family game day at AT&T Stadium following major renovations in 2026. The post Dallas Cowboys Fans Hit With Major Game Day Price Hike After AT&T Stadium Overhaul appeared first on HEAVY.",
-      "timestamp": "2026-08-17T20:11:21.206036Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://heavy.com/sports/nfl/dallas-cowboys/dallas-cowboys-fans-hit-with-major-game-day-price-hike-after-att-stadium-overhaul/"
         }
       ]
     }
@@ -348,22 +334,7 @@
           "url": "https://www.business-standard.com/sports/other-sports-news/women-s-hockey-world-cup-2026-today-s-matches-timings-live-streaming-126081600218_1.html"
         }
       ]
-    },
-    {
-      "date": "Aug 17",
-      "loc": "Dallas",
-      "event": "Dallas Cowboys Fans Hit With Major Game Day Price Hike After AT&T Stadium Overhaul",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://heavy.com/sports/nfl/dallas-cowboys/dallas-cowboys-fans-hit-with-major-game-day-price-hike-after-att-stadium-overhaul/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-17T20:11:21.206230Z"
+  "lastUpdated": "2026-08-17T21:13:22.989879Z"
 }
