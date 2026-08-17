@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 1,
     "p2": 0,
-    "p3": 8
+    "p3": 7
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In the aftermath of the 2026 FIFA World Cup, the traditional September and October international breaks have been scrapped and combined into one big window.",
-      "timestamp": "2026-08-17T19:18:11.797512Z",
+      "timestamp": "2026-08-17T20:11:21.203966Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "Ronaldo and Portugal were eliminated in the Round of 16 at the 2026 World Cup.",
-      "timestamp": "2026-08-17T19:18:11.797792Z",
+      "timestamp": "2026-08-17T20:11:21.204397Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India's women's hockey team began their World Cup campaign with a hard-fought draw. They took an early lead against China, the Olympic silver medallists. China equalized from a penalty stroke before India regained their advantage. The Chinese team leveled the\u2026",
-      "timestamp": "2026-08-17T19:18:11.798157Z",
+      "timestamp": "2026-08-17T20:11:21.204945Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India vs China Live Score, Women's Hockey World Cup 2026: India will begin their Women\u2019s FIH Hockey World Cup campaign against one of the tournament'",
-      "timestamp": "2026-08-17T19:18:11.798453Z",
+      "timestamp": "2026-08-17T20:11:21.205427Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The day's men's action begins with Australia taking on Ireland at 3 PM IST at the Belfius Hockey Arena.",
-      "timestamp": "2026-08-17T19:18:11.798502Z",
+      "timestamp": "2026-08-17T20:11:21.205500Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Messi's record from the penalty spot is poor by his sky-high standards, including missing twice at the 2026 World Cup.",
-      "timestamp": "2026-08-17T19:18:11.798553Z",
+      "timestamp": "2026-08-17T20:11:21.205577Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The day's action features England vs South Africa and China vs India in Pool D, while hosts Belgium will take on New Zealand in a Pool C encounter later in the evening.",
-      "timestamp": "2026-08-17T19:18:11.798571Z",
+      "timestamp": "2026-08-17T20:11:21.205605Z",
       "links": [
         {
           "label": "Source",
@@ -234,25 +234,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Dallas Cowboys fans could pay significantly more for a family game day at AT&T Stadium following major renovations in 2026. The post Dallas Cowboys Fans Hit With Major Game Day Price Hike After AT&T Stadium Overhaul appeared first on HEAVY.",
-      "timestamp": "2026-08-17T19:18:11.798847Z",
+      "timestamp": "2026-08-17T20:11:21.206036Z",
       "links": [
         {
           "label": "Source",
           "url": "https://heavy.com/sports/nfl/dallas-cowboys/dallas-cowboys-fans-hit-with-major-game-day-price-hike-after-att-stadium-overhaul/"
-        }
-      ]
-    },
-    {
-      "title": "Vikings' Jamal Adams becomes latest victim of MetLife Stadium turf",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Minnesota Vikings linebacker Jamal Adams sustained a non-contact knee injury on the MetLife Stadium turf.",
-      "timestamp": "2026-08-17T19:18:11.798907Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/nfl/vikings/2026/08/15/jamal-adams-injury-update-vikings-metlife-turf/91322684007/"
         }
       ]
     }
@@ -377,22 +363,7 @@
           "url": "https://heavy.com/sports/nfl/dallas-cowboys/dallas-cowboys-fans-hit-with-major-game-day-price-hike-after-att-stadium-overhaul/"
         }
       ]
-    },
-    {
-      "date": "Aug 17",
-      "loc": "New York / New Jersey",
-      "event": "Vikings' Jamal Adams becomes latest victim of MetLife Stadium turf",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/nfl/vikings/2026/08/15/jamal-adams-injury-update-vikings-metlife-turf/91322684007/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-17T19:18:11.799038Z"
+  "lastUpdated": "2026-08-17T20:11:21.206230Z"
 }
