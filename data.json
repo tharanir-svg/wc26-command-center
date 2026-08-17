@@ -5,7 +5,7 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 0,
+    "p1": 1,
     "p2": 0,
     "p3": 7
   },
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Cristiano Ronaldo drops retirement bombshell after World Cup heartbreak",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "Ronaldo and Portugal were eliminated in the Round of 16 at the 2026 World Cup.",
+      "timestamp": "2026-08-17T17:14:30.558176Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/08/16/sports/cristiano-ronaldo-drops-retirement-bombshell-after-world-cup-heartbreak/"
+        }
+      ]
+    },
+    {
       "title": "Indian Women hold China to 2-2 draw in their FIH Hockey World Cup 2026 opener",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India's women's hockey team began their World Cup campaign with a hard-fought draw. They took an early lead against China, the Olympic silver medallists. China equalized from a penalty stroke before India regained their advantage. The Chinese team leveled the\u2026",
-      "timestamp": "2026-08-17T16:10:59.232802Z",
+      "timestamp": "2026-08-17T17:14:30.558619Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India vs China Live Score, Women's Hockey World Cup 2026: India will begin their Women\u2019s FIH Hockey World Cup campaign against one of the tournament'",
-      "timestamp": "2026-08-17T16:10:59.233216Z",
+      "timestamp": "2026-08-17T17:14:30.558970Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The day's men's action begins with Australia taking on Ireland at 3 PM IST at the Belfius Hockey Arena.",
-      "timestamp": "2026-08-17T16:10:59.233283Z",
+      "timestamp": "2026-08-17T17:14:30.559029Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Messi's record from the penalty spot is poor by his sky-high standards, including missing twice at the 2026 World Cup.",
-      "timestamp": "2026-08-17T16:10:59.233348Z",
+      "timestamp": "2026-08-17T17:14:30.559100Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The day's action features England vs South Africa and China vs India in Pool D, while hosts Belgium will take on New Zealand in a Pool C encounter later in the evening.",
-      "timestamp": "2026-08-17T16:10:59.233372Z",
+      "timestamp": "2026-08-17T17:14:30.559124Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Dallas Cowboys fans could pay significantly more for a family game day at AT&T Stadium following major renovations in 2026. The post Dallas Cowboys Fans Hit With Major Game Day Price Hike After AT&T Stadium Overhaul appeared first on HEAVY.",
-      "timestamp": "2026-08-17T16:10:59.233674Z",
+      "timestamp": "2026-08-17T17:14:30.559389Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Minnesota Vikings linebacker Jamal Adams sustained a non-contact knee injury on the MetLife Stadium turf.",
-      "timestamp": "2026-08-17T16:10:59.233735Z",
+      "timestamp": "2026-08-17T17:14:30.559449Z",
       "links": [
         {
           "label": "Source",
@@ -230,6 +244,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 17",
+      "loc": "Global",
+      "event": "Cristiano Ronaldo drops retirement bombshell after World Cup heartbreak",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/08/16/sports/cristiano-ronaldo-drops-retirement-bombshell-after-world-cup-heartbreak/"
+        }
+      ]
+    },
     {
       "date": "Aug 17",
       "loc": "Global",
@@ -336,5 +365,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-17T16:10:59.234286Z"
+  "lastUpdated": "2026-08-17T17:14:30.559860Z"
 }
