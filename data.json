@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 1,
     "p2": 0,
-    "p3": 5
+    "p3": 4
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With the revamped tournament format placing greater importance on every league-stage point, the day's results could play a crucial role in shaping qualification scenarios for the next phase.",
-      "timestamp": "2026-08-18T13:33:18.168300Z",
+      "timestamp": "2026-08-18T14:19:26.869347Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India began their campaign with a 3-1 victory over Wales, while England made a strong statement by defeating Pakistan 4-1 in their opening match.",
-      "timestamp": "2026-08-18T13:33:18.168444Z",
+      "timestamp": "2026-08-18T14:19:26.869485Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Walmart offers the FIFA World Cup 2026 Host City & Country Soccer Shot Glass Set in several styles for around $6.\u00a0 That's a $14 savings.\u00a0 Choose pickup or spend $35 to avoid the $6.99 shipping charge. Buy Now at Walmart",
-      "timestamp": "2026-08-18T13:33:18.168573Z",
+      "timestamp": "2026-08-18T14:19:26.869609Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In the aftermath of the 2026 FIFA World Cup, the traditional September and October international breaks have been scrapped and combined into one big window.",
-      "timestamp": "2026-08-18T13:33:18.168696Z",
+      "timestamp": "2026-08-18T14:19:26.869728Z",
       "links": [
         {
           "label": "Source",
@@ -192,25 +192,11 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "Ronaldo and Portugal were eliminated in the Round of 16 at the 2026 World Cup.",
-      "timestamp": "2026-08-18T13:33:18.168978Z",
+      "timestamp": "2026-08-18T14:19:26.870025Z",
       "links": [
         {
           "label": "Source",
           "url": "https://nypost.com/2026/08/16/sports/cristiano-ronaldo-drops-retirement-bombshell-after-world-cup-heartbreak/"
-        }
-      ]
-    },
-    {
-      "title": "Indian Women hold China to 2-2 draw in their FIH Hockey World Cup 2026 opener",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "India's women's hockey team began their World Cup campaign with a hard-fought draw. They took an early lead against China, the Olympic silver medallists. China equalized from a penalty stroke before India regained their advantage. The Chinese team leveled the\u2026",
-      "timestamp": "2026-08-18T13:33:18.169466Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/hockey/indian-women-hold-china-to-2-2-draw-in-their-fih-hockey-world-cup-2026-opener/articleshow/133276339.cms"
         }
       ]
     }
@@ -290,22 +276,7 @@
           "url": "https://nypost.com/2026/08/16/sports/cristiano-ronaldo-drops-retirement-bombshell-after-world-cup-heartbreak/"
         }
       ]
-    },
-    {
-      "date": "Aug 18",
-      "loc": "Global",
-      "event": "Indian Women hold China to 2-2 draw in their FIH Hockey World Cup 2026 opener",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/hockey/indian-women-hold-china-to-2-2-draw-in-their-fih-hockey-world-cup-2026-opener/articleshow/133276339.cms"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-18T13:33:18.169709Z"
+  "lastUpdated": "2026-08-18T14:19:26.870484Z"
 }
