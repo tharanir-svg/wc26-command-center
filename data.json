@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 1,
     "p2": 0,
-    "p3": 6
+    "p3": 7
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "FIFA World Cup 2026 Host City & Country Soccer Shot Glass Set for $6 + free shipping w/ $35",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Walmart offers the FIFA World Cup 2026 Host City & Country Soccer Shot Glass Set in several styles for around $6.\u00a0 That's a $14 savings.\u00a0 Choose pickup or spend $35 to avoid the $6.99 shipping charge. Buy Now at Walmart",
+      "timestamp": "2026-08-18T02:07:09.968350Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dealnews.com/FIFA-World-Cup-2026-Host-City-Country-Soccer-Shot-Glass-Set-for-6-free-shipping-w-35/22039601.html"
+        }
+      ]
+    },
+    {
       "title": "When is the next international break? How September, October dates have changed for 2026",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In the aftermath of the 2026 FIFA World Cup, the traditional September and October international breaks have been scrapped and combined into one big window.",
-      "timestamp": "2026-08-18T00:26:16.421129Z",
+      "timestamp": "2026-08-18T02:07:09.968596Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "Ronaldo and Portugal were eliminated in the Round of 16 at the 2026 World Cup.",
-      "timestamp": "2026-08-18T00:26:16.421476Z",
+      "timestamp": "2026-08-18T02:07:09.969045Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India's women's hockey team began their World Cup campaign with a hard-fought draw. They took an early lead against China, the Olympic silver medallists. China equalized from a penalty stroke before India regained their advantage. The Chinese team leveled the\u2026",
-      "timestamp": "2026-08-18T00:26:16.421936Z",
+      "timestamp": "2026-08-18T02:07:09.969687Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India vs China Live Score, Women's Hockey World Cup 2026: India will begin their Women\u2019s FIH Hockey World Cup campaign against one of the tournament'",
-      "timestamp": "2026-08-18T00:26:16.422319Z",
+      "timestamp": "2026-08-18T02:07:09.970226Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The day's men's action begins with Australia taking on Ireland at 3 PM IST at the Belfius Hockey Arena.",
-      "timestamp": "2026-08-18T00:26:16.422380Z",
+      "timestamp": "2026-08-18T02:07:09.970340Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Messi's record from the penalty spot is poor by his sky-high standards, including missing twice at the 2026 World Cup.",
-      "timestamp": "2026-08-18T00:26:16.422442Z",
+      "timestamp": "2026-08-18T02:07:09.970431Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The day's action features England vs South Africa and China vs India in Pool D, while hosts Belgium will take on New Zealand in a Pool C encounter later in the evening.",
-      "timestamp": "2026-08-18T00:26:16.422465Z",
+      "timestamp": "2026-08-18T02:07:09.970469Z",
       "links": [
         {
           "label": "Source",
@@ -230,6 +244,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 18",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026 Host City & Country Soccer Shot Glass Set for $6 + free shipping w/ $35",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dealnews.com/FIFA-World-Cup-2026-Host-City-Country-Soccer-Shot-Glass-Set-for-6-free-shipping-w-35/22039601.html"
+        }
+      ]
+    },
     {
       "date": "Aug 18",
       "loc": "Global",
@@ -336,5 +365,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-18T00:26:16.422878Z"
+  "lastUpdated": "2026-08-18T02:07:09.970919Z"
 }
