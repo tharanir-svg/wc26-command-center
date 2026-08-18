@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 1,
-    "p3": 4
+    "p3": 3
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026-27 La Liga season has already begun, but none of the Spanish giants Barcelona, Real Madrid, and Atletico Madrid have made their debut yet. \nTop leagues across Europe are already kicking off following the 2026 World Cup, and over the weekend, La Liga \u2026",
-      "timestamp": "2026-08-18T20:08:42.211638Z",
+      "timestamp": "2026-08-18T21:10:57.261130Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "The 2026/27 Premier League season brings new rules aimed at reducing time-wasting, delays and disruption. Players treated for injuries must leave for at least a minute, delayed restarts face five-second limits, and substitutes have 10 seconds to leave. VAR ca\u2026",
-      "timestamp": "2026-08-18T20:08:42.212101Z",
+      "timestamp": "2026-08-18T21:10:57.261749Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With the revamped tournament format placing greater importance on every league-stage point, the day's results could play a crucial role in shaping qualification scenarios for the next phase.",
-      "timestamp": "2026-08-18T20:08:42.212592Z",
+      "timestamp": "2026-08-18T21:10:57.262449Z",
       "links": [
         {
           "label": "Source",
@@ -178,25 +178,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India began their campaign with a 3-1 victory over Wales, while England made a strong statement by defeating Pakistan 4-1 in their opening match.",
-      "timestamp": "2026-08-18T20:08:42.212691Z",
+      "timestamp": "2026-08-18T21:10:57.262616Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.business-standard.com/sports/other-sports-news/hockey-world-cup-2026-august-17-schedule-timings-live-streaming-today-126081700441_1.html"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026 Host City & Country Soccer Shot Glass Set for $6 + free shipping w/ $35",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Walmart offers the FIFA World Cup 2026 Host City & Country Soccer Shot Glass Set in several styles for around $6.\u00a0 That's a $14 savings.\u00a0 Choose pickup or spend $35 to avoid the $6.99 shipping charge. Buy Now at Walmart",
-      "timestamp": "2026-08-18T20:08:42.212844Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/FIFA-World-Cup-2026-Host-City-Country-Soccer-Shot-Glass-Set-for-6-free-shipping-w-35/22039601.html"
         }
       ]
     }
@@ -261,22 +247,7 @@
           "url": "https://www.business-standard.com/sports/other-sports-news/hockey-world-cup-2026-august-17-schedule-timings-live-streaming-today-126081700441_1.html"
         }
       ]
-    },
-    {
-      "date": "Aug 18",
-      "loc": "Global",
-      "event": "FIFA World Cup 2026 Host City & Country Soccer Shot Glass Set for $6 + free shipping w/ $35",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/FIFA-World-Cup-2026-Host-City-Country-Soccer-Shot-Glass-Set-for-6-free-shipping-w-35/22039601.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-18T20:08:42.212981Z"
+  "lastUpdated": "2026-08-18T21:10:57.262778Z"
 }
