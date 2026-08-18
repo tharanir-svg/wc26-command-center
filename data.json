@@ -5,8 +5,8 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 1,
-    "p2": 0,
+    "p1": 0,
+    "p2": 1,
     "p3": 4
   },
   "watchlist": [
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Premier League to adopt major rules seen at 2026 FIFA World Cup: 5-sec countdown, 1-min injury ban and more",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "The 2026/27 Premier League season brings new rules aimed at reducing time-wasting, delays and disruption. Players treated for injuries must leave for at least a minute, delayed restarts face five-second limits, and substitutes have 10 seconds to leave. VAR ca\u2026",
+      "timestamp": "2026-08-18T17:14:31.379731Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/football/premier-league-to-adopt-major-rules-seen-at-2026-fifa-world-cup-5-sec-countdown-1-min-injury-ban-and-more/articleshow/133300335.cms"
+        }
+      ]
+    },
+    {
       "title": "Women's Hockey World Cup 2026 today's matches, timings, live streaming",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With the revamped tournament format placing greater importance on every league-stage point, the day's results could play a crucial role in shaping qualification scenarios for the next phase.",
-      "timestamp": "2026-08-18T16:15:36.244603Z",
+      "timestamp": "2026-08-18T17:14:31.380251Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India began their campaign with a 3-1 victory over Wales, while England made a strong statement by defeating Pakistan 4-1 in their opening match.",
-      "timestamp": "2026-08-18T16:15:36.244766Z",
+      "timestamp": "2026-08-18T17:14:31.380350Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Walmart offers the FIFA World Cup 2026 Host City & Country Soccer Shot Glass Set in several styles for around $6.\u00a0 That's a $14 savings.\u00a0 Choose pickup or spend $35 to avoid the $6.99 shipping charge. Buy Now at Walmart",
-      "timestamp": "2026-08-18T16:15:36.244892Z",
+      "timestamp": "2026-08-18T17:14:31.380454Z",
       "links": [
         {
           "label": "Source",
@@ -178,30 +192,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In the aftermath of the 2026 FIFA World Cup, the traditional September and October international breaks have been scrapped and combined into one big window.",
-      "timestamp": "2026-08-18T16:15:36.245011Z",
+      "timestamp": "2026-08-18T17:14:31.380557Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.sportingnews.com/us/soccer/news/next-international-break-september-october-dates-2026/41c374e1bef2e32a29dd7a55"
         }
       ]
-    },
-    {
-      "title": "Cristiano Ronaldo drops retirement bombshell after World Cup heartbreak",
-      "risk": "high",
-      "severityText": "P1 CRITICAL",
-      "status": "VERIFIED",
-      "description": "Ronaldo and Portugal were eliminated in the Round of 16 at the 2026 World Cup.",
-      "timestamp": "2026-08-18T16:15:36.245295Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/08/16/sports/cristiano-ronaldo-drops-retirement-bombshell-after-world-cup-heartbreak/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 18",
+      "loc": "Global",
+      "event": "Premier League to adopt major rules seen at 2026 FIFA World Cup: 5-sec countdown, 1-min injury ban and more",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/football/premier-league-to-adopt-major-rules-seen-at-2026-fifa-world-cup-5-sec-countdown-1-min-injury-ban-and-more/articleshow/133300335.cms"
+        }
+      ]
+    },
     {
       "date": "Aug 18",
       "loc": "Global",
@@ -261,22 +276,7 @@
           "url": "https://www.sportingnews.com/us/soccer/news/next-international-break-september-october-dates-2026/41c374e1bef2e32a29dd7a55"
         }
       ]
-    },
-    {
-      "date": "Aug 18",
-      "loc": "Global",
-      "event": "Cristiano Ronaldo drops retirement bombshell after World Cup heartbreak",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "high",
-      "impact": "P1 CRITICAL",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/08/16/sports/cristiano-ronaldo-drops-retirement-bombshell-after-world-cup-heartbreak/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-18T16:15:36.245646Z"
+  "lastUpdated": "2026-08-18T17:14:31.380887Z"
 }
