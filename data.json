@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Women's Hockey World Cup 2026 today's matches, timings, live streaming",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "With the revamped tournament format placing greater importance on every league-stage point, the day's results could play a crucial role in shaping qualification scenarios for the next phase.",
+      "timestamp": "2026-08-18T09:18:48.124074Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.business-standard.com/sports/other-sports-news/women-s-hockey-world-cup-2026-today-s-matches-timings-live-streaming-126081700587_1.html"
+        }
+      ]
+    },
+    {
       "title": "Hockey World Cup 2026: August 17 schedule, timings, live streaming today",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India began their campaign with a 3-1 victory over Wales, while England made a strong statement by defeating Pakistan 4-1 in their opening match.",
-      "timestamp": "2026-08-18T08:19:12.098706Z",
+      "timestamp": "2026-08-18T09:18:48.124289Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Walmart offers the FIFA World Cup 2026 Host City & Country Soccer Shot Glass Set in several styles for around $6.\u00a0 That's a $14 savings.\u00a0 Choose pickup or spend $35 to avoid the $6.99 shipping charge. Buy Now at Walmart",
-      "timestamp": "2026-08-18T08:19:12.098965Z",
+      "timestamp": "2026-08-18T09:18:48.124494Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In the aftermath of the 2026 FIFA World Cup, the traditional September and October international breaks have been scrapped and combined into one big window.",
-      "timestamp": "2026-08-18T08:19:12.099159Z",
+      "timestamp": "2026-08-18T09:18:48.124715Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "Ronaldo and Portugal were eliminated in the Round of 16 at the 2026 World Cup.",
-      "timestamp": "2026-08-18T08:19:12.099600Z",
+      "timestamp": "2026-08-18T09:18:48.125121Z",
       "links": [
         {
           "label": "Source",
@@ -192,30 +206,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India's women's hockey team began their World Cup campaign with a hard-fought draw. They took an early lead against China, the Olympic silver medallists. China equalized from a penalty stroke before India regained their advantage. The Chinese team leveled the\u2026",
-      "timestamp": "2026-08-18T08:19:12.100246Z",
+      "timestamp": "2026-08-18T09:18:48.125572Z",
       "links": [
         {
           "label": "Source",
           "url": "https://economictimes.indiatimes.com/news/sports/hockey/indian-women-hold-china-to-2-2-draw-in-their-fih-hockey-world-cup-2026-opener/articleshow/133276339.cms"
         }
       ]
-    },
-    {
-      "title": "Hockey World Cup 2026: India face tough China test in opener",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "India vs China Live Score, Women's Hockey World Cup 2026: India will begin their Women\u2019s FIH Hockey World Cup campaign against one of the tournament'",
-      "timestamp": "2026-08-18T08:19:12.100856Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/hockey/fih-womens-hockey-world-cup-2026-india-vs-china-live-score-pool-d-match-today-schedule-rankings-live-streaming-time-qualifier-points-table-salima-tete-ou-zixia/liveblog/133272717.cms"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 18",
+      "loc": "Global",
+      "event": "Women's Hockey World Cup 2026 today's matches, timings, live streaming",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.business-standard.com/sports/other-sports-news/women-s-hockey-world-cup-2026-today-s-matches-timings-live-streaming-126081700587_1.html"
+        }
+      ]
+    },
     {
       "date": "Aug 18",
       "loc": "Global",
@@ -290,22 +305,7 @@
           "url": "https://economictimes.indiatimes.com/news/sports/hockey/indian-women-hold-china-to-2-2-draw-in-their-fih-hockey-world-cup-2026-opener/articleshow/133276339.cms"
         }
       ]
-    },
-    {
-      "date": "Aug 18",
-      "loc": "Global",
-      "event": "Hockey World Cup 2026: India face tough China test in opener",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/hockey/fih-womens-hockey-world-cup-2026-india-vs-china-live-score-pool-d-match-today-schedule-rankings-live-streaming-time-qualifier-points-table-salima-tete-ou-zixia/liveblog/133272717.cms"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-18T08:19:12.101067Z"
+  "lastUpdated": "2026-08-18T09:18:48.126070Z"
 }
