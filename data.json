@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 5
+    "p3": 6
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Hard Rock Stadium adopts Verkada's security platform",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Verkada's platform will enhance security and operational efficiency across the Miami Dolphins' landmark venue SAN MATEO, Calif., Aug. 18, 2026 /PRNewswire/ -- Verkada, a leader in physical security and operations, today announced that the Miami Dolphins and H\u2026",
+      "timestamp": "2026-08-19T18:13:57.710837Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/hard-rock-stadium-adopts-verkadas-security-platform-302854432.html"
+        }
+      ]
+    },
+    {
       "title": "Burna Boy, Shakira\u2019s \u2018Dai Dai\u2019 tops global chart for fifth week",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Burna Boy and Shakira\u2019s \u201cDai Dai,\u201d the 2026 FIFA World Cup song, continues its reign, topping global charts for a fifth consecutive week.\n\nRead More: https://punchng.com/burna-boy-shakiras-dai-dai-tops-global-chart-for-fifth-week/",
-      "timestamp": "2026-08-19T17:14:34.002262Z",
+      "timestamp": "2026-08-19T18:13:57.711524Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Men in Blazers saw a 500% rise in Spotify podcast streams with the 2026 World Cup, fulfilling Roger Bennett's vision of bringing football to the U.S.",
-      "timestamp": "2026-08-19T17:14:34.002323Z",
+      "timestamp": "2026-08-19T18:13:57.711566Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kevin Lamour had publicly criticised Infantino's proposal last month, saying FIFA staff had been 'deceived' over plan.",
-      "timestamp": "2026-08-19T17:14:34.002517Z",
+      "timestamp": "2026-08-19T18:13:57.711712Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India will look to push their bid for a top-two finish in their pool when they go up against South Africa in their second game of the tournament at 6:30 PM IST",
-      "timestamp": "2026-08-19T17:14:34.002762Z",
+      "timestamp": "2026-08-19T18:13:57.711955Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The live streaming of the Men's Hockey World Cup 2026 August 18 matches will be available on the JioHotstar app and website for Indian fans",
-      "timestamp": "2026-08-19T17:14:34.002843Z",
+      "timestamp": "2026-08-19T18:13:57.712034Z",
       "links": [
         {
           "label": "Source",
@@ -202,6 +216,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 19",
+      "loc": "Miami",
+      "event": "Hard Rock Stadium adopts Verkada's security platform",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/hard-rock-stadium-adopts-verkadas-security-platform-302854432.html"
+        }
+      ]
+    },
     {
       "date": "Aug 19",
       "loc": "Global",
@@ -278,5 +307,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-19T17:14:34.003534Z"
+  "lastUpdated": "2026-08-19T18:13:57.712702Z"
 }
