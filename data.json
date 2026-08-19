@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 1,
-    "p3": 2
+    "p3": 3
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Women's Hockey World Cup 2026 August 18 matches, timings, live streaming",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "India will look to push their bid for a top-two finish in their pool when they go up against South Africa in their second game of the tournament at 6:30 PM IST",
+      "timestamp": "2026-08-19T08:19:55.647656Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.business-standard.com/sports/other-sports-news/women-s-hockey-world-cup-2026-august-18-matches-timings-live-streaming-126081800485_1.html"
+        }
+      ]
+    },
+    {
       "title": "Hockey World Cup 2026: August 18 schedule, timings, live streaming today",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The live streaming of the Men's Hockey World Cup 2026 August 18 matches will be available on the JioHotstar app and website for Indian fans",
-      "timestamp": "2026-08-19T07:27:18.117235Z",
+      "timestamp": "2026-08-19T08:19:55.647778Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026-27 La Liga season has already begun, but none of the Spanish giants Barcelona, Real Madrid, and Atletico Madrid have made their debut yet. \nTop leagues across Europe are already kicking off following the 2026 World Cup, and over the weekend, La Liga \u2026",
-      "timestamp": "2026-08-19T07:27:18.118015Z",
+      "timestamp": "2026-08-19T08:19:55.648408Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "The 2026/27 Premier League season brings new rules aimed at reducing time-wasting, delays and disruption. Players treated for injuries must leave for at least a minute, delayed restarts face five-second limits, and substitutes have 10 seconds to leave. VAR ca\u2026",
-      "timestamp": "2026-08-19T07:27:18.118561Z",
+      "timestamp": "2026-08-19T08:19:55.648959Z",
       "links": [
         {
           "label": "Source",
@@ -174,6 +188,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 19",
+      "loc": "Global",
+      "event": "Women's Hockey World Cup 2026 August 18 matches, timings, live streaming",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.business-standard.com/sports/other-sports-news/women-s-hockey-world-cup-2026-august-18-matches-timings-live-streaming-126081800485_1.html"
+        }
+      ]
+    },
     {
       "date": "Aug 19",
       "loc": "Global",
@@ -220,5 +249,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-19T07:27:18.119142Z"
+  "lastUpdated": "2026-08-19T08:19:55.649532Z"
 }
