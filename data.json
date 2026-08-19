@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 1,
-    "p3": 3
+    "p3": 2
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026-27 La Liga season has already begun, but none of the Spanish giants Barcelona, Real Madrid, and Atletico Madrid have made their debut yet. \nTop leagues across Europe are already kicking off following the 2026 World Cup, and over the weekend, La Liga \u2026",
-      "timestamp": "2026-08-18T23:10:01.356262Z",
+      "timestamp": "2026-08-19T00:26:16.661375Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "The 2026/27 Premier League season brings new rules aimed at reducing time-wasting, delays and disruption. Players treated for injuries must leave for at least a minute, delayed restarts face five-second limits, and substitutes have 10 seconds to leave. VAR ca\u2026",
-      "timestamp": "2026-08-18T23:10:01.356827Z",
+      "timestamp": "2026-08-19T00:26:16.661964Z",
       "links": [
         {
           "label": "Source",
@@ -164,32 +164,18 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With the revamped tournament format placing greater importance on every league-stage point, the day's results could play a crucial role in shaping qualification scenarios for the next phase.",
-      "timestamp": "2026-08-18T23:10:01.357502Z",
+      "timestamp": "2026-08-19T00:26:16.662663Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.business-standard.com/sports/other-sports-news/women-s-hockey-world-cup-2026-today-s-matches-timings-live-streaming-126081700587_1.html"
         }
       ]
-    },
-    {
-      "title": "Hockey World Cup 2026: August 17 schedule, timings, live streaming today",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "India began their campaign with a 3-1 victory over Wales, while England made a strong statement by defeating Pakistan 4-1 in their opening match.",
-      "timestamp": "2026-08-18T23:10:01.357665Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.business-standard.com/sports/other-sports-news/hockey-world-cup-2026-august-17-schedule-timings-live-streaming-today-126081700441_1.html"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Aug 18",
+      "date": "Aug 19",
       "loc": "Global",
       "event": "Why haven\u2019t Barcelona, Real Madrid, and Atletico Madrid debuted in the 2026-27 La Liga season yet?",
       "type": "News",
@@ -204,7 +190,7 @@
       ]
     },
     {
-      "date": "Aug 18",
+      "date": "Aug 19",
       "loc": "Global",
       "event": "Premier League to adopt major rules seen at 2026 FIFA World Cup: 5-sec countdown, 1-min injury ban and more",
       "type": "News",
@@ -219,7 +205,7 @@
       ]
     },
     {
-      "date": "Aug 18",
+      "date": "Aug 19",
       "loc": "Global",
       "event": "Women's Hockey World Cup 2026 today's matches, timings, live streaming",
       "type": "News",
@@ -232,22 +218,7 @@
           "url": "https://www.business-standard.com/sports/other-sports-news/women-s-hockey-world-cup-2026-today-s-matches-timings-live-streaming-126081700587_1.html"
         }
       ]
-    },
-    {
-      "date": "Aug 18",
-      "loc": "Global",
-      "event": "Hockey World Cup 2026: August 17 schedule, timings, live streaming today",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.business-standard.com/sports/other-sports-news/hockey-world-cup-2026-august-17-schedule-timings-live-streaming-today-126081700441_1.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-18T23:10:01.357829Z"
+  "lastUpdated": "2026-08-19T00:26:16.662880Z"
 }
