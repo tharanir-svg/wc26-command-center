@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 1,
-    "p3": 4
+    "p3": 5
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Roger Bennett is a man of the people: Men in Blazers' secret to World Cup success",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Men in Blazers saw a 500% rise in Spotify podcast streams with the 2026 World Cup, fulfilling Roger Bennett's vision of bringing football to the U.S.",
+      "timestamp": "2026-08-19T11:12:20.154143Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/2026/08/18/roger-bennett-speaks-on-men-in-blazers-success-after-2026-world-cup/91314704007/"
+        }
+      ]
+    },
+    {
       "title": "Infantino\u2019s FIFA World Cup fallout: Lamour exits after criticism of plan",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kevin Lamour had publicly criticised Infantino's proposal last month, saying FIFA staff had been 'deceived' over plan.",
-      "timestamp": "2026-08-19T10:14:41.513338Z",
+      "timestamp": "2026-08-19T11:12:20.154321Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India will look to push their bid for a top-two finish in their pool when they go up against South Africa in their second game of the tournament at 6:30 PM IST",
-      "timestamp": "2026-08-19T10:14:41.513595Z",
+      "timestamp": "2026-08-19T11:12:20.154569Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The live streaming of the Men's Hockey World Cup 2026 August 18 matches will be available on the JioHotstar app and website for Indian fans",
-      "timestamp": "2026-08-19T10:14:41.513674Z",
+      "timestamp": "2026-08-19T11:12:20.154652Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026-27 La Liga season has already begun, but none of the Spanish giants Barcelona, Real Madrid, and Atletico Madrid have made their debut yet. \nTop leagues across Europe are already kicking off following the 2026 World Cup, and over the weekend, La Liga \u2026",
-      "timestamp": "2026-08-19T10:14:41.514252Z",
+      "timestamp": "2026-08-19T11:12:20.155293Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "The 2026/27 Premier League season brings new rules aimed at reducing time-wasting, delays and disruption. Players treated for injuries must leave for at least a minute, delayed restarts face five-second limits, and substitutes have 10 seconds to leave. VAR ca\u2026",
-      "timestamp": "2026-08-19T10:14:41.514737Z",
+      "timestamp": "2026-08-19T11:12:20.155864Z",
       "links": [
         {
           "label": "Source",
@@ -202,6 +216,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 19",
+      "loc": "Global",
+      "event": "Roger Bennett is a man of the people: Men in Blazers' secret to World Cup success",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/2026/08/18/roger-bennett-speaks-on-men-in-blazers-success-after-2026-world-cup/91314704007/"
+        }
+      ]
+    },
     {
       "date": "Aug 19",
       "loc": "Global",
@@ -278,5 +307,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-19T10:14:41.515041Z"
+  "lastUpdated": "2026-08-19T11:12:20.156044Z"
 }
