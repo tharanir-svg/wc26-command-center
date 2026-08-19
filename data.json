@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 1,
-    "p3": 5
+    "p2": 0,
+    "p3": 6
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Burna Boy, Shakira\u2019s \u2018Dai Dai\u2019 tops global chart for fifth week",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Burna Boy and Shakira\u2019s \u201cDai Dai,\u201d the 2026 FIFA World Cup song, continues its reign, topping global charts for a fifth consecutive week.\n\nRead More: https://punchng.com/burna-boy-shakiras-dai-dai-tops-global-chart-for-fifth-week/",
+      "timestamp": "2026-08-19T12:16:56.135390Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/burna-boy-shakiras-dai-dai-tops-global-chart-for-fifth-week/"
+        }
+      ]
+    },
+    {
       "title": "Roger Bennett is a man of the people: Men in Blazers' secret to World Cup success",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Men in Blazers saw a 500% rise in Spotify podcast streams with the 2026 World Cup, fulfilling Roger Bennett's vision of bringing football to the U.S.",
-      "timestamp": "2026-08-19T11:12:20.154143Z",
+      "timestamp": "2026-08-19T12:16:56.135445Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kevin Lamour had publicly criticised Infantino's proposal last month, saying FIFA staff had been 'deceived' over plan.",
-      "timestamp": "2026-08-19T11:12:20.154321Z",
+      "timestamp": "2026-08-19T12:16:56.135558Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India will look to push their bid for a top-two finish in their pool when they go up against South Africa in their second game of the tournament at 6:30 PM IST",
-      "timestamp": "2026-08-19T11:12:20.154569Z",
+      "timestamp": "2026-08-19T12:16:56.135748Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The live streaming of the Men's Hockey World Cup 2026 August 18 matches will be available on the JioHotstar app and website for Indian fans",
-      "timestamp": "2026-08-19T11:12:20.154652Z",
+      "timestamp": "2026-08-19T12:16:56.135812Z",
       "links": [
         {
           "label": "Source",
@@ -192,30 +206,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026-27 La Liga season has already begun, but none of the Spanish giants Barcelona, Real Madrid, and Atletico Madrid have made their debut yet. \nTop leagues across Europe are already kicking off following the 2026 World Cup, and over the weekend, La Liga \u2026",
-      "timestamp": "2026-08-19T11:12:20.155293Z",
+      "timestamp": "2026-08-19T12:16:56.136307Z",
       "links": [
         {
           "label": "Source",
           "url": "https://worldsoccertalk.com/news/why-havent-barcelona-real-madrid-and-atletico-madrid-debuted-in-the-2026-27-la-liga-season-yet/"
         }
       ]
-    },
-    {
-      "title": "Premier League to adopt major rules seen at 2026 FIFA World Cup: 5-sec countdown, 1-min injury ban and more",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "The 2026/27 Premier League season brings new rules aimed at reducing time-wasting, delays and disruption. Players treated for injuries must leave for at least a minute, delayed restarts face five-second limits, and substitutes have 10 seconds to leave. VAR ca\u2026",
-      "timestamp": "2026-08-19T11:12:20.155864Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/football/premier-league-to-adopt-major-rules-seen-at-2026-fifa-world-cup-5-sec-countdown-1-min-injury-ban-and-more/articleshow/133300335.cms"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 19",
+      "loc": "Global",
+      "event": "Burna Boy, Shakira\u2019s \u2018Dai Dai\u2019 tops global chart for fifth week",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/burna-boy-shakiras-dai-dai-tops-global-chart-for-fifth-week/"
+        }
+      ]
+    },
     {
       "date": "Aug 19",
       "loc": "Global",
@@ -290,22 +305,7 @@
           "url": "https://worldsoccertalk.com/news/why-havent-barcelona-real-madrid-and-atletico-madrid-debuted-in-the-2026-27-la-liga-season-yet/"
         }
       ]
-    },
-    {
-      "date": "Aug 19",
-      "loc": "Global",
-      "event": "Premier League to adopt major rules seen at 2026 FIFA World Cup: 5-sec countdown, 1-min injury ban and more",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/football/premier-league-to-adopt-major-rules-seen-at-2026-fifa-world-cup-5-sec-countdown-1-min-injury-ban-and-more/articleshow/133300335.cms"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-19T11:12:20.156044Z"
+  "lastUpdated": "2026-08-19T12:16:56.136833Z"
 }
