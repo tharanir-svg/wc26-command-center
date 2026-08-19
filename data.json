@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 5
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Burna Boy and Shakira\u2019s \u201cDai Dai,\u201d the 2026 FIFA World Cup song, continues its reign, topping global charts for a fifth consecutive week.\n\nRead More: https://punchng.com/burna-boy-shakiras-dai-dai-tops-global-chart-for-fifth-week/",
-      "timestamp": "2026-08-19T16:15:13.532028Z",
+      "timestamp": "2026-08-19T17:14:34.002262Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Men in Blazers saw a 500% rise in Spotify podcast streams with the 2026 World Cup, fulfilling Roger Bennett's vision of bringing football to the U.S.",
-      "timestamp": "2026-08-19T16:15:13.532085Z",
+      "timestamp": "2026-08-19T17:14:34.002323Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kevin Lamour had publicly criticised Infantino's proposal last month, saying FIFA staff had been 'deceived' over plan.",
-      "timestamp": "2026-08-19T16:15:13.532230Z",
+      "timestamp": "2026-08-19T17:14:34.002517Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India will look to push their bid for a top-two finish in their pool when they go up against South Africa in their second game of the tournament at 6:30 PM IST",
-      "timestamp": "2026-08-19T16:15:13.532450Z",
+      "timestamp": "2026-08-19T17:14:34.002762Z",
       "links": [
         {
           "label": "Source",
@@ -192,25 +192,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The live streaming of the Men's Hockey World Cup 2026 August 18 matches will be available on the JioHotstar app and website for Indian fans",
-      "timestamp": "2026-08-19T16:15:13.532525Z",
+      "timestamp": "2026-08-19T17:14:34.002843Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.business-standard.com/sports/other-sports-news/hockey-world-cup-2026-august-18-schedule-timings-live-streaming-today-126081800396_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Why haven\u2019t Barcelona, Real Madrid, and Atletico Madrid debuted in the 2026-27 La Liga season yet?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026-27 La Liga season has already begun, but none of the Spanish giants Barcelona, Real Madrid, and Atletico Madrid have made their debut yet. \nTop leagues across Europe are already kicking off following the 2026 World Cup, and over the weekend, La Liga \u2026",
-      "timestamp": "2026-08-19T16:15:13.533078Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/why-havent-barcelona-real-madrid-and-atletico-madrid-debuted-in-the-2026-27-la-liga-season-yet/"
         }
       ]
     }
@@ -290,22 +276,7 @@
           "url": "https://www.business-standard.com/sports/other-sports-news/hockey-world-cup-2026-august-18-schedule-timings-live-streaming-today-126081800396_1.html"
         }
       ]
-    },
-    {
-      "date": "Aug 19",
-      "loc": "Global",
-      "event": "Why haven\u2019t Barcelona, Real Madrid, and Atletico Madrid debuted in the 2026-27 La Liga season yet?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/why-havent-barcelona-real-madrid-and-atletico-madrid-debuted-in-the-2026-27-la-liga-season-yet/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-19T16:15:13.533368Z"
+  "lastUpdated": "2026-08-19T17:14:34.003534Z"
 }
