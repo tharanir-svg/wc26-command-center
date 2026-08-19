@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 7
+    "p3": 8
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Jimmy Fallon Predicts Stunning Twist In MIA Melania Trump Saga",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The first lady has not been seen in public since the FIFA World Cup.",
+      "timestamp": "2026-08-19T22:11:11.584744Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.huffpost.com/entry/jimmy-fallon-has-1-unhinged-theory-about-melania-trumps-whereabouts_n_6a84bcfee4b0ca446019dd66"
+        }
+      ]
+    },
+    {
       "title": "FIFA World Cup 2026 Argentina Trucker Cap for $5 + free shipping w/ $35",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Walmart offers the FIFA World Cup 2026 Argentina Trucker Cap for $4.95.\u00a0 That's a $15 savings.\u00a0 You can grab it in Brazil here for the same price.\u00a0 Choose pickup or spend $35 to avoid the $6.99 shipping charge. Buy Now at Walmart",
-      "timestamp": "2026-08-19T21:13:36.864987Z",
+      "timestamp": "2026-08-19T22:11:11.584968Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Verkada's platform will enhance security and operational efficiency across the Miami Dolphins' landmark venue SAN MATEO, Calif., Aug. 18, 2026 /PRNewswire/ -- Verkada, a leader in physical security and operations, today announced that the Miami Dolphins and H\u2026",
-      "timestamp": "2026-08-19T21:13:36.865099Z",
+      "timestamp": "2026-08-19T22:11:11.585097Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Burna Boy and Shakira\u2019s \u201cDai Dai,\u201d the 2026 FIFA World Cup song, continues its reign, topping global charts for a fifth consecutive week.\n\nRead More: https://punchng.com/burna-boy-shakiras-dai-dai-tops-global-chart-for-fifth-week/",
-      "timestamp": "2026-08-19T21:13:36.865533Z",
+      "timestamp": "2026-08-19T22:11:11.585736Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Men in Blazers saw a 500% rise in Spotify podcast streams with the 2026 World Cup, fulfilling Roger Bennett's vision of bringing football to the U.S.",
-      "timestamp": "2026-08-19T21:13:36.865558Z",
+      "timestamp": "2026-08-19T22:11:11.585785Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kevin Lamour had publicly criticised Infantino's proposal last month, saying FIFA staff had been 'deceived' over plan.",
-      "timestamp": "2026-08-19T21:13:36.865653Z",
+      "timestamp": "2026-08-19T22:11:11.585919Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India will look to push their bid for a top-two finish in their pool when they go up against South Africa in their second game of the tournament at 6:30 PM IST",
-      "timestamp": "2026-08-19T21:13:36.865813Z",
+      "timestamp": "2026-08-19T22:11:11.586159Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The live streaming of the Men's Hockey World Cup 2026 August 18 matches will be available on the JioHotstar app and website for Indian fans",
-      "timestamp": "2026-08-19T21:13:36.865867Z",
+      "timestamp": "2026-08-19T22:11:11.586237Z",
       "links": [
         {
           "label": "Source",
@@ -230,6 +244,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 19",
+      "loc": "Global",
+      "event": "Jimmy Fallon Predicts Stunning Twist In MIA Melania Trump Saga",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.huffpost.com/entry/jimmy-fallon-has-1-unhinged-theory-about-melania-trumps-whereabouts_n_6a84bcfee4b0ca446019dd66"
+        }
+      ]
+    },
     {
       "date": "Aug 19",
       "loc": "Global",
@@ -336,5 +365,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-19T21:13:36.866162Z"
+  "lastUpdated": "2026-08-19T22:11:11.586625Z"
 }
