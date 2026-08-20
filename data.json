@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 8
+    "p3": 7
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Tab Ramos, who appeared in three World Cups, shared his assessment of head coach Mauricio Pochettino, Christian Pulisic, and the USMNT, stating that the team fell short of expectations at the 2026 FIFA World Cup. \nCo-hosting the 2026 FIFA World Cup gave the U\u2026",
-      "timestamp": "2026-08-20T19:21:13.409032Z",
+      "timestamp": "2026-08-20T20:14:02.967315Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In a historic broadcast, the 2026 FIFA World Cup final director will helm the India vs Afghanistan T20I series with football-style live TV production.",
-      "timestamp": "2026-08-20T19:21:13.409179Z",
+      "timestamp": "2026-08-20T20:14:02.967441Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India hold off Pakistan 5-3 to finish second with six points as England top Pool D with nine points from three wins.",
-      "timestamp": "2026-08-20T19:21:13.409233Z",
+      "timestamp": "2026-08-20T20:14:02.967487Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Nigerian football fans significantly contributed to SuperSport\u2019s 19 billion digital views for the FIFA World Cup 2026, showcasing massive engagement.\n\nRead More: https://punchng.com/nigerians-drive-supersports-19-billion-world-cup-digital-views/",
-      "timestamp": "2026-08-20T19:21:13.409691Z",
+      "timestamp": "2026-08-20T20:14:02.967987Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India, which started its campaign with an emphatic 3-1 win over Wales, hit a roadblock against England on Monday, losing 2-4 as the English side confirmed its top-two finish from Pool D",
-      "timestamp": "2026-08-20T19:21:13.409753Z",
+      "timestamp": "2026-08-20T20:14:02.968051Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India and Pakistan have faced each other five times at the Men's Hockey World Cup, with their first encounter coming in the inaugural 1971 edition in Barcelona.",
-      "timestamp": "2026-08-20T19:21:13.409817Z",
+      "timestamp": "2026-08-20T20:14:02.968117Z",
       "links": [
         {
           "label": "Source",
@@ -220,25 +220,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India face Pakistan in a crucial Hockey World Cup Pool D clash on August 19, with the match scheduled for 6.30 PM IST. Indian viewers can watch the game on Star Sports Select 2, Star Sports Select 2 HD and Star Sports Hindi, while the JioStar app and website \u2026",
-      "timestamp": "2026-08-20T19:21:13.409922Z",
+      "timestamp": "2026-08-20T20:14:02.968222Z",
       "links": [
         {
           "label": "Source",
           "url": "https://economictimes.indiatimes.com/news/new-updates/india-vs-pakistan-hockey-world-cup-2026-live-streaming-time-check-when-and-where-to-watch-ind-vs-pak-clash-head-to-head-record-and-squads/articleshow/133340015.cms"
-        }
-      ]
-    },
-    {
-      "title": "Jimmy Fallon Predicts Stunning Twist In MIA Melania Trump Saga",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The first lady has not been seen in public since the FIFA World Cup.",
-      "timestamp": "2026-08-20T19:21:13.410539Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.huffpost.com/entry/jimmy-fallon-has-1-unhinged-theory-about-melania-trumps-whereabouts_n_6a84bcfee4b0ca446019dd66"
         }
       ]
     }
@@ -348,22 +334,7 @@
           "url": "https://economictimes.indiatimes.com/news/new-updates/india-vs-pakistan-hockey-world-cup-2026-live-streaming-time-check-when-and-where-to-watch-ind-vs-pak-clash-head-to-head-record-and-squads/articleshow/133340015.cms"
         }
       ]
-    },
-    {
-      "date": "Aug 20",
-      "loc": "Global",
-      "event": "Jimmy Fallon Predicts Stunning Twist In MIA Melania Trump Saga",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.huffpost.com/entry/jimmy-fallon-has-1-unhinged-theory-about-melania-trumps-whereabouts_n_6a84bcfee4b0ca446019dd66"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-20T19:21:13.410895Z"
+  "lastUpdated": "2026-08-20T20:14:02.969003Z"
 }
