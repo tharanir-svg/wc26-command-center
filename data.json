@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 7
+    "p3": 6
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India and Pakistan have faced each other five times at the Men's Hockey World Cup, with their first encounter coming in the inaugural 1971 edition in Barcelona.",
-      "timestamp": "2026-08-20T09:20:46.262721Z",
+      "timestamp": "2026-08-20T10:16:18.585398Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India face Pakistan in a crucial Hockey World Cup Pool D clash on August 19, with the match scheduled for 6.30 PM IST. Indian viewers can watch the game on Star Sports Select 2, Star Sports Select 2 HD and Star Sports Hindi, while the JioStar app and website \u2026",
-      "timestamp": "2026-08-20T09:20:46.262867Z",
+      "timestamp": "2026-08-20T10:16:18.585528Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The first lady has not been seen in public since the FIFA World Cup.",
-      "timestamp": "2026-08-20T09:20:46.263466Z",
+      "timestamp": "2026-08-20T10:16:18.586087Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Walmart offers the FIFA World Cup 2026 Argentina Trucker Cap for $4.95.\u00a0 That's a $15 savings.\u00a0 You can grab it in Brazil here for the same price.\u00a0 Choose pickup or spend $35 to avoid the $6.99 shipping charge. Buy Now at Walmart",
-      "timestamp": "2026-08-20T09:20:46.263647Z",
+      "timestamp": "2026-08-20T10:16:18.586255Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Verkada's platform will enhance security and operational efficiency across the Miami Dolphins' landmark venue SAN MATEO, Calif., Aug. 18, 2026 /PRNewswire/ -- Verkada, a leader in physical security and operations, today announced that the Miami Dolphins and H\u2026",
-      "timestamp": "2026-08-20T09:20:46.263768Z",
+      "timestamp": "2026-08-20T10:16:18.586367Z",
       "links": [
         {
           "label": "Source",
@@ -206,25 +206,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Burna Boy and Shakira\u2019s \u201cDai Dai,\u201d the 2026 FIFA World Cup song, continues its reign, topping global charts for a fifth consecutive week.\n\nRead More: https://punchng.com/burna-boy-shakiras-dai-dai-tops-global-chart-for-fifth-week/",
-      "timestamp": "2026-08-20T09:20:46.264470Z",
+      "timestamp": "2026-08-20T10:16:18.587034Z",
       "links": [
         {
           "label": "Source",
           "url": "https://punchng.com/burna-boy-shakiras-dai-dai-tops-global-chart-for-fifth-week/"
-        }
-      ]
-    },
-    {
-      "title": "Roger Bennett is a man of the people: Men in Blazers' secret to World Cup success",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Men in Blazers saw a 500% rise in Spotify podcast streams with the 2026 World Cup, fulfilling Roger Bennett's vision of bringing football to the U.S.",
-      "timestamp": "2026-08-20T09:20:46.264524Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/2026/08/18/roger-bennett-speaks-on-men-in-blazers-success-after-2026-world-cup/91314704007/"
         }
       ]
     }
@@ -319,22 +305,7 @@
           "url": "https://punchng.com/burna-boy-shakiras-dai-dai-tops-global-chart-for-fifth-week/"
         }
       ]
-    },
-    {
-      "date": "Aug 20",
-      "loc": "Global",
-      "event": "Roger Bennett is a man of the people: Men in Blazers' secret to World Cup success",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/2026/08/18/roger-bennett-speaks-on-men-in-blazers-success-after-2026-world-cup/91314704007/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-20T09:20:46.264665Z"
+  "lastUpdated": "2026-08-20T10:16:18.587210Z"
 }
