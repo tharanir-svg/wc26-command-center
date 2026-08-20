@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "India vs Pakistan hockey world cup 2026 live streaming time: Check when and where to watch Ind vs Pak clash, head to head record and squads",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "India face Pakistan in a crucial Hockey World Cup Pool D clash on August 19, with the match scheduled for 6.30 PM IST. Indian viewers can watch the game on Star Sports Select 2, Star Sports Select 2 HD and Star Sports Hindi, while the JioStar app and website \u2026",
+      "timestamp": "2026-08-20T07:30:05.384038Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/india-vs-pakistan-hockey-world-cup-2026-live-streaming-time-check-when-and-where-to-watch-ind-vs-pak-clash-head-to-head-record-and-squads/articleshow/133340015.cms"
+        }
+      ]
+    },
+    {
       "title": "Jimmy Fallon Predicts Stunning Twist In MIA Melania Trump Saga",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The first lady has not been seen in public since the FIFA World Cup.",
-      "timestamp": "2026-08-20T06:21:17.081389Z",
+      "timestamp": "2026-08-20T07:30:05.384669Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Walmart offers the FIFA World Cup 2026 Argentina Trucker Cap for $4.95.\u00a0 That's a $15 savings.\u00a0 You can grab it in Brazil here for the same price.\u00a0 Choose pickup or spend $35 to avoid the $6.99 shipping charge. Buy Now at Walmart",
-      "timestamp": "2026-08-20T06:21:17.081554Z",
+      "timestamp": "2026-08-20T07:30:05.384852Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Verkada's platform will enhance security and operational efficiency across the Miami Dolphins' landmark venue SAN MATEO, Calif., Aug. 18, 2026 /PRNewswire/ -- Verkada, a leader in physical security and operations, today announced that the Miami Dolphins and H\u2026",
-      "timestamp": "2026-08-20T06:21:17.081652Z",
+      "timestamp": "2026-08-20T07:30:05.384979Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Burna Boy and Shakira\u2019s \u201cDai Dai,\u201d the 2026 FIFA World Cup song, continues its reign, topping global charts for a fifth consecutive week.\n\nRead More: https://punchng.com/burna-boy-shakiras-dai-dai-tops-global-chart-for-fifth-week/",
-      "timestamp": "2026-08-20T06:21:17.082150Z",
+      "timestamp": "2026-08-20T07:30:05.385653Z",
       "links": [
         {
           "label": "Source",
@@ -192,30 +206,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Men in Blazers saw a 500% rise in Spotify podcast streams with the 2026 World Cup, fulfilling Roger Bennett's vision of bringing football to the U.S.",
-      "timestamp": "2026-08-20T06:21:17.082180Z",
+      "timestamp": "2026-08-20T07:30:05.385704Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.usatoday.com/story/sports/soccer/2026/08/18/roger-bennett-speaks-on-men-in-blazers-success-after-2026-world-cup/91314704007/"
         }
       ]
-    },
-    {
-      "title": "Infantino\u2019s FIFA World Cup fallout: Lamour exits after criticism of plan",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Kevin Lamour had publicly criticised Infantino's proposal last month, saying FIFA staff had been 'deceived' over plan.",
-      "timestamp": "2026-08-20T06:21:17.082316Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/8/18/infantinos-fifa-world-cup-fallout-lamour-exits-after-criticism-of-plan"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 20",
+      "loc": "Global",
+      "event": "India vs Pakistan hockey world cup 2026 live streaming time: Check when and where to watch Ind vs Pak clash, head to head record and squads",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/india-vs-pakistan-hockey-world-cup-2026-live-streaming-time-check-when-and-where-to-watch-ind-vs-pak-clash-head-to-head-record-and-squads/articleshow/133340015.cms"
+        }
+      ]
+    },
     {
       "date": "Aug 20",
       "loc": "Global",
@@ -290,22 +305,7 @@
           "url": "https://www.usatoday.com/story/sports/soccer/2026/08/18/roger-bennett-speaks-on-men-in-blazers-success-after-2026-world-cup/91314704007/"
         }
       ]
-    },
-    {
-      "date": "Aug 20",
-      "loc": "Global",
-      "event": "Infantino\u2019s FIFA World Cup fallout: Lamour exits after criticism of plan",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.aljazeera.com/sports/2026/8/18/infantinos-fifa-world-cup-fallout-lamour-exits-after-criticism-of-plan"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-20T06:21:17.082434Z"
+  "lastUpdated": "2026-08-20T07:30:05.385937Z"
 }
