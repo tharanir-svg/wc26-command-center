@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 7
+    "p3": 9
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "Report: 2026 FIFA World Cup Final director to oversee IND vs AFG T20I series broadcast with football-style production",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "In a historic broadcast, the 2026 FIFA World Cup final director will helm the India vs Afghanistan T20I series with football-style live TV production.",
+      "timestamp": "2026-08-20T16:18:11.567806Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cricketnews.com/en/cricket/news/report-2026-fifa-world-cup-final-ind-vs-afg-t20i-broadcast-production/b3118cd8d61396536d42e02a"
+        }
+      ]
+    },
+    {
+      "title": "India rout Pakistan at Hockey World Cup 2026 to qualify for second round",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "India hold off Pakistan 5-3 to finish second with six points as England top Pool D with nine points from three wins.",
+      "timestamp": "2026-08-20T16:18:11.567901Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/8/19/india-rout-pakistan-at-hockey-world-cup-2026-to-qualify-for-second-round"
+        }
+      ]
+    },
+    {
       "title": "Nigerians drive SuperSport\u2019s 19 billion World Cup digital views",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Nigerian football fans significantly contributed to SuperSport\u2019s 19 billion digital views for the FIFA World Cup 2026, showcasing massive engagement.\n\nRead More: https://punchng.com/nigerians-drive-supersports-19-billion-world-cup-digital-views/",
-      "timestamp": "2026-08-20T15:21:16.099542Z",
+      "timestamp": "2026-08-20T16:18:11.568417Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India, which started its campaign with an emphatic 3-1 win over Wales, hit a roadblock against England on Monday, losing 2-4 as the English side confirmed its top-two finish from Pool D",
-      "timestamp": "2026-08-20T15:21:16.099626Z",
+      "timestamp": "2026-08-20T16:18:11.568482Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India and Pakistan have faced each other five times at the Men's Hockey World Cup, with their first encounter coming in the inaugural 1971 edition in Barcelona.",
-      "timestamp": "2026-08-20T15:21:16.099684Z",
+      "timestamp": "2026-08-20T16:18:11.568542Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India face Pakistan in a crucial Hockey World Cup Pool D clash on August 19, with the match scheduled for 6.30 PM IST. Indian viewers can watch the game on Star Sports Select 2, Star Sports Select 2 HD and Star Sports Hindi, while the JioStar app and website \u2026",
-      "timestamp": "2026-08-20T15:21:16.099766Z",
+      "timestamp": "2026-08-20T16:18:11.568641Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The first lady has not been seen in public since the FIFA World Cup.",
-      "timestamp": "2026-08-20T15:21:16.100224Z",
+      "timestamp": "2026-08-20T16:18:11.569170Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Walmart offers the FIFA World Cup 2026 Argentina Trucker Cap for $4.95.\u00a0 That's a $15 savings.\u00a0 You can grab it in Brazil here for the same price.\u00a0 Choose pickup or spend $35 to avoid the $6.99 shipping charge. Buy Now at Walmart",
-      "timestamp": "2026-08-20T15:21:16.100360Z",
+      "timestamp": "2026-08-20T16:18:11.569380Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Verkada's platform will enhance security and operational efficiency across the Miami Dolphins' landmark venue SAN MATEO, Calif., Aug. 18, 2026 /PRNewswire/ -- Verkada, a leader in physical security and operations, today announced that the Miami Dolphins and H\u2026",
-      "timestamp": "2026-08-20T15:21:16.100457Z",
+      "timestamp": "2026-08-20T16:18:11.569525Z",
       "links": [
         {
           "label": "Source",
@@ -230,6 +258,36 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 20",
+      "loc": "Global",
+      "event": "Report: 2026 FIFA World Cup Final director to oversee IND vs AFG T20I series broadcast with football-style production",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.cricketnews.com/en/cricket/news/report-2026-fifa-world-cup-final-ind-vs-afg-t20i-broadcast-production/b3118cd8d61396536d42e02a"
+        }
+      ]
+    },
+    {
+      "date": "Aug 20",
+      "loc": "Global",
+      "event": "India rout Pakistan at Hockey World Cup 2026 to qualify for second round",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.aljazeera.com/sports/2026/8/19/india-rout-pakistan-at-hockey-world-cup-2026-to-qualify-for-second-round"
+        }
+      ]
+    },
     {
       "date": "Aug 20",
       "loc": "Global",
@@ -336,5 +394,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-20T15:21:16.100803Z"
+  "lastUpdated": "2026-08-20T16:18:11.569788Z"
 }
