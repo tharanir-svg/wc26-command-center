@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 7
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Hockey World Cup 2026: India vs Pakistan head-to-head in WC history",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "India and Pakistan have faced each other five times at the Men's Hockey World Cup, with their first encounter coming in the inaugural 1971 edition in Barcelona.",
+      "timestamp": "2026-08-20T09:20:46.262721Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.business-standard.com/sports/other-sports-news/hockey-world-cup-2026-india-vs-pakistan-head-to-head-in-wc-history-126081900262_1.html"
+        }
+      ]
+    },
+    {
       "title": "India vs Pakistan hockey world cup 2026 live streaming time: Check when and where to watch Ind vs Pak clash, head to head record and squads",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India face Pakistan in a crucial Hockey World Cup Pool D clash on August 19, with the match scheduled for 6.30 PM IST. Indian viewers can watch the game on Star Sports Select 2, Star Sports Select 2 HD and Star Sports Hindi, while the JioStar app and website \u2026",
-      "timestamp": "2026-08-20T08:21:06.254394Z",
+      "timestamp": "2026-08-20T09:20:46.262867Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The first lady has not been seen in public since the FIFA World Cup.",
-      "timestamp": "2026-08-20T08:21:06.254987Z",
+      "timestamp": "2026-08-20T09:20:46.263466Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Walmart offers the FIFA World Cup 2026 Argentina Trucker Cap for $4.95.\u00a0 That's a $15 savings.\u00a0 You can grab it in Brazil here for the same price.\u00a0 Choose pickup or spend $35 to avoid the $6.99 shipping charge. Buy Now at Walmart",
-      "timestamp": "2026-08-20T08:21:06.255157Z",
+      "timestamp": "2026-08-20T09:20:46.263647Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Verkada's platform will enhance security and operational efficiency across the Miami Dolphins' landmark venue SAN MATEO, Calif., Aug. 18, 2026 /PRNewswire/ -- Verkada, a leader in physical security and operations, today announced that the Miami Dolphins and H\u2026",
-      "timestamp": "2026-08-20T08:21:06.255272Z",
+      "timestamp": "2026-08-20T09:20:46.263768Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Burna Boy and Shakira\u2019s \u201cDai Dai,\u201d the 2026 FIFA World Cup song, continues its reign, topping global charts for a fifth consecutive week.\n\nRead More: https://punchng.com/burna-boy-shakiras-dai-dai-tops-global-chart-for-fifth-week/",
-      "timestamp": "2026-08-20T08:21:06.255882Z",
+      "timestamp": "2026-08-20T09:20:46.264470Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Men in Blazers saw a 500% rise in Spotify podcast streams with the 2026 World Cup, fulfilling Roger Bennett's vision of bringing football to the U.S.",
-      "timestamp": "2026-08-20T08:21:06.255943Z",
+      "timestamp": "2026-08-20T09:20:46.264524Z",
       "links": [
         {
           "label": "Source",
@@ -216,6 +230,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 20",
+      "loc": "Global",
+      "event": "Hockey World Cup 2026: India vs Pakistan head-to-head in WC history",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.business-standard.com/sports/other-sports-news/hockey-world-cup-2026-india-vs-pakistan-head-to-head-in-wc-history-126081900262_1.html"
+        }
+      ]
+    },
     {
       "date": "Aug 20",
       "loc": "Global",
@@ -307,5 +336,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-20T08:21:06.256332Z"
+  "lastUpdated": "2026-08-20T09:20:46.264665Z"
 }
