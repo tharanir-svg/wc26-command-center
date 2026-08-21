@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Women's Hockey World Cup 2026 August 20 matches, timings, live streaming",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Apart from India's match against England, China will play South Africa at 1:00 PM IST, while New Zealand will face Spain at 5:30 PM IST. India and England will then meet at 6:30 PM IST.",
+      "timestamp": "2026-08-21T06:21:04.214227Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.business-standard.com/sports/other-sports-news/women-s-hockey-world-cup-2026-august-20-matches-timings-live-streaming-126082000387_1.html"
+        }
+      ]
+    },
+    {
       "title": "Goncalo Ramos gets real on Cristiano Ronaldo\u2019s retirement: \u2018Age doesn\u2019t lie\u2019",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "While Goncalo Ramos acknowledges Cristiano Ronaldo's greatness, he believes the retirement of the Portuguese legend is imminent. \nFollowing a challenging 2026 FIFA World Cup with Portugal, Cristiano Ronaldo has hinted at a potential retirement in the near fut\u2026",
-      "timestamp": "2026-08-21T05:20:13.583722Z",
+      "timestamp": "2026-08-21T06:21:04.214623Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Burna Boy received two nominations for his collaboration with Colombian singer Shakira on the official 2026 FIFA World Cup song, \u201cDai Dai.\u201d\nThe post Burna Boy, Tems earn 2026 MTV VMAs nominations (Full List) appeared first on Vanguard News.",
-      "timestamp": "2026-08-21T05:20:13.583830Z",
+      "timestamp": "2026-08-21T06:21:04.214690Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "An Achilles tendon injury to full-back Khuliso Mudau spoilt a 2-0 victory by Mamelodi Sundowns over Marumo Gallants on Wednesday in the South African Premiership.Mudau was part of the South African team that made history at the 2026 World Cup by reaching the \u2026",
-      "timestamp": "2026-08-21T05:20:13.584053Z",
+      "timestamp": "2026-08-21T06:21:04.214860Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Tab Ramos, who appeared in three World Cups, shared his assessment of head coach Mauricio Pochettino, Christian Pulisic, and the USMNT, stating that the team fell short of expectations at the 2026 FIFA World Cup. \nCo-hosting the 2026 FIFA World Cup gave the U\u2026",
-      "timestamp": "2026-08-21T05:20:13.584451Z",
+      "timestamp": "2026-08-21T06:21:04.215152Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In a historic broadcast, the 2026 FIFA World Cup final director will helm the India vs Afghanistan T20I series with football-style live TV production.",
-      "timestamp": "2026-08-21T05:20:13.584553Z",
+      "timestamp": "2026-08-21T06:21:04.215228Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India hold off Pakistan 5-3 to finish second with six points as England top Pool D with nine points from three wins.",
-      "timestamp": "2026-08-21T05:20:13.584595Z",
+      "timestamp": "2026-08-21T06:21:04.215263Z",
       "links": [
         {
           "label": "Source",
@@ -220,30 +234,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Nigerian football fans significantly contributed to SuperSport\u2019s 19 billion digital views for the FIFA World Cup 2026, showcasing massive engagement.\n\nRead More: https://punchng.com/nigerians-drive-supersports-19-billion-world-cup-digital-views/",
-      "timestamp": "2026-08-21T05:20:13.585120Z",
+      "timestamp": "2026-08-21T06:21:04.215672Z",
       "links": [
         {
           "label": "Source",
           "url": "https://punchng.com/nigerians-drive-supersports-19-billion-world-cup-digital-views/"
         }
       ]
-    },
-    {
-      "title": "Hockey World Cup 2026: How can the new format affect India's semis chances?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "India, which started its campaign with an emphatic 3-1 win over Wales, hit a roadblock against England on Monday, losing 2-4 as the English side confirmed its top-two finish from Pool D",
-      "timestamp": "2026-08-21T05:20:13.585206Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.business-standard.com/sports/other-sports-news/hockey-world-cup-2026-how-can-the-new-format-affect-india-s-semis-chances-126081800869_1.html"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 21",
+      "loc": "Global",
+      "event": "Women's Hockey World Cup 2026 August 20 matches, timings, live streaming",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.business-standard.com/sports/other-sports-news/women-s-hockey-world-cup-2026-august-20-matches-timings-live-streaming-126082000387_1.html"
+        }
+      ]
+    },
     {
       "date": "Aug 21",
       "loc": "Global",
@@ -348,22 +363,7 @@
           "url": "https://punchng.com/nigerians-drive-supersports-19-billion-world-cup-digital-views/"
         }
       ]
-    },
-    {
-      "date": "Aug 21",
-      "loc": "Global",
-      "event": "Hockey World Cup 2026: How can the new format affect India's semis chances?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.business-standard.com/sports/other-sports-news/hockey-world-cup-2026-how-can-the-new-format-affect-india-s-semis-chances-126081800869_1.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-21T05:20:13.585389Z"
+  "lastUpdated": "2026-08-21T06:21:04.215822Z"
 }
