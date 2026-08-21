@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 7
+    "p3": 5
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Buoyed after a stellar campaign back in the Premier League and the honour of representing his country at a FIFA World Cup on home soil, American international Brenden Aaronson\u2019s enjoyable last few m...",
-      "timestamp": "2026-08-21T19:17:13.893487Z",
+      "timestamp": "2026-08-21T20:10:13.625969Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Tens of thousands of visitors streamed into Canada during the 2026 FIFA World Cup in June, Statistics Canada said Thursday. Find out more.",
-      "timestamp": "2026-08-21T19:17:13.893671Z",
+      "timestamp": "2026-08-21T20:10:13.626107Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA has unveiled the full match schedule for the 2027 Women\u2019s World Cup in Brazil, detailing venues and dates for all 64 matches across eight host cities.\n\nRead More: https://punchng.com/fifa-releases-schedule-for-2027-womens-world-cup/",
-      "timestamp": "2026-08-21T19:17:13.893877Z",
+      "timestamp": "2026-08-21T20:10:13.626254Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The iconic Maracan\u00e3 in Rio de Janeiro will host the opening match and the final of the 2027 Women's World Cup after FIFA announced the match schedule on Thursday. Eight host cities are being used for the 32-team tournament from June 24-July 25 and each will h\u2026",
-      "timestamp": "2026-08-21T19:17:13.894211Z",
+      "timestamp": "2026-08-21T20:10:13.626526Z",
       "links": [
         {
           "label": "Source",
@@ -192,39 +192,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Apart from India's match against England, China will play South Africa at 1:00 PM IST, while New Zealand will face Spain at 5:30 PM IST. India and England will then meet at 6:30 PM IST.",
-      "timestamp": "2026-08-21T19:17:13.894847Z",
+      "timestamp": "2026-08-21T20:10:13.626996Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.business-standard.com/sports/other-sports-news/women-s-hockey-world-cup-2026-august-20-matches-timings-live-streaming-126082000387_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Goncalo Ramos gets real on Cristiano Ronaldo\u2019s retirement: \u2018Age doesn\u2019t lie\u2019",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "While Goncalo Ramos acknowledges Cristiano Ronaldo's greatness, he believes the retirement of the Portuguese legend is imminent. \nFollowing a challenging 2026 FIFA World Cup with Portugal, Cristiano Ronaldo has hinted at a potential retirement in the near fut\u2026",
-      "timestamp": "2026-08-21T19:17:13.895417Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/goncalo-ramos-gets-real-on-cristiano-ronaldos-retirement-age-doesnt-lie/"
-        }
-      ]
-    },
-    {
-      "title": "Burna Boy, Tems earn 2026 MTV VMAs nominations (Full List)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Burna Boy received two nominations for his collaboration with Colombian singer Shakira on the official 2026 FIFA World Cup song, \u201cDai Dai.\u201d\nThe post Burna Boy, Tems earn 2026 MTV VMAs nominations (Full List) appeared first on Vanguard News.",
-      "timestamp": "2026-08-21T19:17:13.895559Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/08/burna-boy-tems-earn-2026-mtv-vmas-nominations-full-list/"
         }
       ]
     }
@@ -304,37 +276,7 @@
           "url": "https://www.business-standard.com/sports/other-sports-news/women-s-hockey-world-cup-2026-august-20-matches-timings-live-streaming-126082000387_1.html"
         }
       ]
-    },
-    {
-      "date": "Aug 21",
-      "loc": "Global",
-      "event": "Goncalo Ramos gets real on Cristiano Ronaldo\u2019s retirement: \u2018Age doesn\u2019t lie\u2019",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/goncalo-ramos-gets-real-on-cristiano-ronaldos-retirement-age-doesnt-lie/"
-        }
-      ]
-    },
-    {
-      "date": "Aug 21",
-      "loc": "Global",
-      "event": "Burna Boy, Tems earn 2026 MTV VMAs nominations (Full List)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.vanguardngr.com/2026/08/burna-boy-tems-earn-2026-mtv-vmas-nominations-full-list/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-21T19:17:13.895745Z"
+  "lastUpdated": "2026-08-21T20:10:13.627585Z"
 }
