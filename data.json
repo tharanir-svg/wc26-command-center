@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 4
+    "p3": 5
   },
   "watchlist": [
     {
@@ -131,12 +131,54 @@
   ],
   "risks": [
     {
+      "title": "JUST IN: FIFA bans Argentina\u2019s Paredes for 10 matches, Molina for seven",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FIFA has banned Argentina\u2019s Leandro Paredes for 10 matches and Nahuel Molina for seven following post-match clashes in the 2026 World Cup final. The AFA al\n\nRead More: https://punchng.com/just-in-fifa-bans-argentinas-paredes-for-10-matches-molina-for-seven/",
+      "timestamp": "2026-08-22T15:07:40.553245Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/just-in-fifa-bans-argentinas-paredes-for-10-matches-molina-for-seven/"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Messi\u2019s Argentina receive harsh FIFA punishment following 2026 World Cup incidents",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lionel Messi's Argentina received a harsh sanction from FIFA, following several incidents throughout their campaign at the 2026 World Cup. \nLionel Messi\u2019s Argentina have been hit with a significant sanction from FIFA\u2019s Disciplinary Committee, which announced \u2026",
+      "timestamp": "2026-08-22T15:07:40.553350Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/lionel-messis-argentina-receive-harsh-fifa-punishment-following-2026-world-cup-incidents/"
+        }
+      ]
+    },
+    {
+      "title": "India vs Netherlands Live Score, Hockey World Cup 2026",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "India vs Netherlands Hockey World Cup Live: The Indian women's hockey team face a tough challenge when they take on the Netherlands in their opening",
+      "timestamp": "2026-08-22T15:07:40.553458Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/hockey/fih-womens-hockey-world-cup-2026-india-vs-netherlands-live-score-today-match-live-streaming-highlights-results-latest-news/liveblog/133407173.cms"
+        }
+      ]
+    },
+    {
       "title": "Foxboro police seek option to open parking lots earlier for some Gillette events",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FOXBORO -- It's becoming a trend for fans to show up earlier than in the past for Gillette Stadium events, and it wasn't just for the World Cup games this summer.",
-      "timestamp": "2026-08-22T14:08:31.958999Z",
+      "timestamp": "2026-08-22T15:07:40.553582Z",
       "links": [
         {
           "label": "Source",
@@ -150,44 +192,61 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Buoyed after a stellar campaign back in the Premier League and the honour of representing his country at a FIFA World Cup on home soil, American international Brenden Aaronson\u2019s enjoyable last few m...",
-      "timestamp": "2026-08-22T14:08:31.960334Z",
+      "timestamp": "2026-08-22T15:07:40.554932Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.leedsunited.com/en/news/brenden-aaronson-yorkshire-is-my-second-home-now"
         }
       ]
-    },
-    {
-      "title": "Tens of thousands flooded into Canada for the World Cup, travel data shows",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Tens of thousands of visitors streamed into Canada during the 2026 FIFA World Cup in June, Statistics Canada said Thursday. Find out more.",
-      "timestamp": "2026-08-22T14:08:31.960490Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://financialpost.com/transportation/tens-thousands-flooded-canada-world-cup-travel"
-        }
-      ]
-    },
-    {
-      "title": "FIFA releases schedule for 2027 Women\u2019s World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FIFA has unveiled the full match schedule for the 2027 Women\u2019s World Cup in Brazil, detailing venues and dates for all 64 matches across eight host cities.\n\nRead More: https://punchng.com/fifa-releases-schedule-for-2027-womens-world-cup/",
-      "timestamp": "2026-08-22T14:08:31.960686Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/fifa-releases-schedule-for-2027-womens-world-cup/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 22",
+      "loc": "Global",
+      "event": "JUST IN: FIFA bans Argentina\u2019s Paredes for 10 matches, Molina for seven",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/just-in-fifa-bans-argentinas-paredes-for-10-matches-molina-for-seven/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 22",
+      "loc": "Global",
+      "event": "Lionel Messi\u2019s Argentina receive harsh FIFA punishment following 2026 World Cup incidents",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/lionel-messis-argentina-receive-harsh-fifa-punishment-following-2026-world-cup-incidents/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 22",
+      "loc": "Global",
+      "event": "India vs Netherlands Live Score, Hockey World Cup 2026",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/hockey/fih-womens-hockey-world-cup-2026-india-vs-netherlands-live-score-today-match-live-streaming-highlights-results-latest-news/liveblog/133407173.cms"
+        }
+      ]
+    },
     {
       "date": "Aug 22",
       "loc": "Boston",
@@ -217,37 +276,7 @@
           "url": "https://www.leedsunited.com/en/news/brenden-aaronson-yorkshire-is-my-second-home-now"
         }
       ]
-    },
-    {
-      "date": "Aug 22",
-      "loc": "Global",
-      "event": "Tens of thousands flooded into Canada for the World Cup, travel data shows",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://financialpost.com/transportation/tens-thousands-flooded-canada-world-cup-travel"
-        }
-      ]
-    },
-    {
-      "date": "Aug 22",
-      "loc": "Global",
-      "event": "FIFA releases schedule for 2027 Women\u2019s World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://punchng.com/fifa-releases-schedule-for-2027-womens-world-cup/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-22T14:08:31.960901Z"
+  "lastUpdated": "2026-08-22T15:07:40.555145Z"
 }
