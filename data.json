@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 4
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Foxboro police seek option to open parking lots earlier for some Gillette events",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FOXBORO -- It's becoming a trend for fans to show up earlier than in the past for Gillette Stadium events, and it wasn't just for the World Cup games this summer.",
+      "timestamp": "2026-08-22T14:08:31.958999Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thesunchronicle.com/news/local_news/foxboro-police-seek-option-to-open-parking-lots-earlier-for-some-gillette-events/article_6f2005ae-0f27-400c-b627-ad50beab538d.html"
+        }
+      ]
+    },
+    {
       "title": "Brenden Aaronson: Yorkshire is my second home now",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Buoyed after a stellar campaign back in the Premier League and the honour of representing his country at a FIFA World Cup on home soil, American international Brenden Aaronson\u2019s enjoyable last few m...",
-      "timestamp": "2026-08-22T13:22:13.667237Z",
+      "timestamp": "2026-08-22T14:08:31.960334Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Tens of thousands of visitors streamed into Canada during the 2026 FIFA World Cup in June, Statistics Canada said Thursday. Find out more.",
-      "timestamp": "2026-08-22T13:22:13.667395Z",
+      "timestamp": "2026-08-22T14:08:31.960490Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA has unveiled the full match schedule for the 2027 Women\u2019s World Cup in Brazil, detailing venues and dates for all 64 matches across eight host cities.\n\nRead More: https://punchng.com/fifa-releases-schedule-for-2027-womens-world-cup/",
-      "timestamp": "2026-08-22T13:22:13.667633Z",
+      "timestamp": "2026-08-22T14:08:31.960686Z",
       "links": [
         {
           "label": "Source",
@@ -174,6 +188,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 22",
+      "loc": "Boston",
+      "event": "Foxboro police seek option to open parking lots earlier for some Gillette events",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thesunchronicle.com/news/local_news/foxboro-police-seek-option-to-open-parking-lots-earlier-for-some-gillette-events/article_6f2005ae-0f27-400c-b627-ad50beab538d.html"
+        }
+      ]
+    },
     {
       "date": "Aug 22",
       "loc": "Global",
@@ -220,5 +249,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-22T13:22:13.667874Z"
+  "lastUpdated": "2026-08-22T14:08:31.960901Z"
 }
