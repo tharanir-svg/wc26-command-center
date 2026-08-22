@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 0,
-    "p3": 5
+    "p2": 1,
+    "p3": 6
   },
   "watchlist": [
     {
@@ -131,12 +131,54 @@
   ],
   "risks": [
     {
+      "title": "Ashely Cole names his Premier League breakout star: \u2018I think this is going to be a big year for him\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lewis Hall was notably left out of England\u2019s 2026 World Cup squad.",
+      "timestamp": "2026-08-22T16:08:10.842757Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sbnation.com/soccer/1125633/ashely-cole-interview-premier-league-breakout-star-lewis-hall"
+        }
+      ]
+    },
+    {
+      "title": "FIFA fines Argentina $321K over World Cup misconduct",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "The Argentine Football Association (AFA) has been fined $321,000 over a series of incidents at the 2026 FIFA World Cup, including the use of a sporting event for non-sporting demonstrations, team misc...",
+      "timestamp": "2026-08-22T16:08:10.842822Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/7d53607a6b995591"
+        }
+      ]
+    },
+    {
+      "title": "Broadcast Rights Widen Gap in European Football Finance",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Less than five weeks after Spain beat Argentina in the final of the FIFA World Cup 2026, football is making its not-so-long-awaited comeback. The 2026/27 Premier League season gets under way tonight, with Arsenal facing newly promoted Coventry City, while Fra\u2026",
+      "timestamp": "2026-08-22T16:08:10.843049Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/7b56e451956d0869"
+        }
+      ]
+    },
+    {
       "title": "JUST IN: FIFA bans Argentina\u2019s Paredes for 10 matches, Molina for seven",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA has banned Argentina\u2019s Leandro Paredes for 10 matches and Nahuel Molina for seven following post-match clashes in the 2026 World Cup final. The AFA al\n\nRead More: https://punchng.com/just-in-fifa-bans-argentinas-paredes-for-10-matches-molina-for-seven/",
-      "timestamp": "2026-08-22T15:07:40.553245Z",
+      "timestamp": "2026-08-22T16:08:10.843092Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi's Argentina received a harsh sanction from FIFA, following several incidents throughout their campaign at the 2026 World Cup. \nLionel Messi\u2019s Argentina have been hit with a significant sanction from FIFA\u2019s Disciplinary Committee, which announced \u2026",
-      "timestamp": "2026-08-22T15:07:40.553350Z",
+      "timestamp": "2026-08-22T16:08:10.843192Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India vs Netherlands Hockey World Cup Live: The Indian women's hockey team face a tough challenge when they take on the Netherlands in their opening",
-      "timestamp": "2026-08-22T15:07:40.553458Z",
+      "timestamp": "2026-08-22T16:08:10.843318Z",
       "links": [
         {
           "label": "Source",
@@ -178,30 +220,61 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FOXBORO -- It's becoming a trend for fans to show up earlier than in the past for Gillette Stadium events, and it wasn't just for the World Cup games this summer.",
-      "timestamp": "2026-08-22T15:07:40.553582Z",
+      "timestamp": "2026-08-22T16:08:10.843460Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.thesunchronicle.com/news/local_news/foxboro-police-seek-option-to-open-parking-lots-earlier-for-some-gillette-events/article_6f2005ae-0f27-400c-b627-ad50beab538d.html"
         }
       ]
-    },
-    {
-      "title": "Brenden Aaronson: Yorkshire is my second home now",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Buoyed after a stellar campaign back in the Premier League and the honour of representing his country at a FIFA World Cup on home soil, American international Brenden Aaronson\u2019s enjoyable last few m...",
-      "timestamp": "2026-08-22T15:07:40.554932Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.leedsunited.com/en/news/brenden-aaronson-yorkshire-is-my-second-home-now"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 22",
+      "loc": "Global",
+      "event": "Ashely Cole names his Premier League breakout star: \u2018I think this is going to be a big year for him\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sbnation.com/soccer/1125633/ashely-cole-interview-premier-league-breakout-star-lewis-hall"
+        }
+      ]
+    },
+    {
+      "date": "Aug 22",
+      "loc": "Global",
+      "event": "FIFA fines Argentina $321K over World Cup misconduct",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/7d53607a6b995591"
+        }
+      ]
+    },
+    {
+      "date": "Aug 22",
+      "loc": "Global",
+      "event": "Broadcast Rights Widen Gap in European Football Finance",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://biztoc.com/x/7b56e451956d0869"
+        }
+      ]
+    },
     {
       "date": "Aug 22",
       "loc": "Global",
@@ -261,22 +334,7 @@
           "url": "https://www.thesunchronicle.com/news/local_news/foxboro-police-seek-option-to-open-parking-lots-earlier-for-some-gillette-events/article_6f2005ae-0f27-400c-b627-ad50beab538d.html"
         }
       ]
-    },
-    {
-      "date": "Aug 22",
-      "loc": "Global",
-      "event": "Brenden Aaronson: Yorkshire is my second home now",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.leedsunited.com/en/news/brenden-aaronson-yorkshire-is-my-second-home-now"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-22T15:07:40.555145Z"
+  "lastUpdated": "2026-08-22T16:08:10.844579Z"
 }
