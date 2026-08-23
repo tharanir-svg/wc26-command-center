@@ -6,7 +6,7 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 1,
+    "p2": 0,
     "p3": 7
   },
   "watchlist": [
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Armando Gonz\u00e1lez: The Legacy of a Rojiblanco Story",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Armando \u2018Hormiga\u2019 Gonz\u00e1lez\u2019s story with Chivas began long before his goals at Estadio AKRON. In 2018, at just 15 years old, he joined Guadalajara\u2019s youth academy with the U-15 side, inspired ...",
+      "timestamp": "2026-08-23T18:09:52.434574Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://ncache.chivasdecorazon.com.mx/es/noticias/41313/Armando-Gonzlez-el-legado-de-una-historia-rojiblanca"
+        }
+      ]
+    },
+    {
       "title": "Hockey World Cup 2026: India semifinal qualification scenarios explained",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Both India's men's and women's teams need to win their remaining Phase 2 matches to give themselves the best chance of securing a place in the semifinals of the 2026 Hockey World Cup",
-      "timestamp": "2026-08-23T17:09:34.086439Z",
+      "timestamp": "2026-08-23T18:09:52.434954Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Arsenal v Coventry: I\u2019m already looking forward to the next match By Tony Attwood Argentina midfielder Leandro Paredes has been given a 10-match ban for being part of some clashes he was involved in after the 2026 World Cup final. Such bans are becoming more \u2026",
-      "timestamp": "2026-08-23T17:09:34.086792Z",
+      "timestamp": "2026-08-23T18:09:52.435182Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "It didn't take long for Cristiano Ronaldo to return to his goalscoring ways with Al-Nassr in the Saudi Pro League.",
-      "timestamp": "2026-08-23T17:09:34.087594Z",
+      "timestamp": "2026-08-23T18:09:52.435717Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Premier League is back, with Manchester City hosting AFC Bournemouth in one of the most-anticipated games this weekend. Here's how to tune in live with a VPN or streaming trial.\nAfter the highs of the 2026 FIFA World Cup, soccer returns to the top leagues\u2026",
-      "timestamp": "2026-08-23T17:09:34.087985Z",
+      "timestamp": "2026-08-23T18:09:52.435990Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 2026 World Cup Final, played at MetLife Stadium, ended with a fight between members of the two teams involved.",
-      "timestamp": "2026-08-23T17:09:34.088329Z",
+      "timestamp": "2026-08-23T18:09:52.436228Z",
       "links": [
         {
           "label": "Source",
@@ -206,44 +220,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "AFA president Claudio Tapia responded to the punishment FIFA handed Argentina over the incidents at the 2026 World Cup. \nThe Argentine Football Association (AFA) wasted little time reacting to FIFA\u2019s harsh punishment against Argentina, issuing a statement fro\u2026",
-      "timestamp": "2026-08-23T17:09:34.088438Z",
+      "timestamp": "2026-08-23T18:09:52.436313Z",
       "links": [
         {
           "label": "Source",
           "url": "https://worldsoccertalk.com/news/claudio-tapias-afa-responds-to-fifas-harsh-punishment-against-argentina-with-appeal-plan/"
         }
       ]
-    },
-    {
-      "title": "Ashely Cole names his Premier League breakout star: \u2018I think this is going to be a big year for him\u2019",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lewis Hall was notably left out of England\u2019s 2026 World Cup squad.",
-      "timestamp": "2026-08-23T17:09:34.088573Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sbnation.com/soccer/1125633/ashely-cole-interview-premier-league-breakout-star-lewis-hall"
-        }
-      ]
-    },
-    {
-      "title": "FIFA fines Argentina $321K over World Cup misconduct",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "The Argentine Football Association (AFA) has been fined $321,000 over a series of incidents at the 2026 FIFA World Cup, including the use of a sporting event for non-sporting demonstrations, team misc...",
-      "timestamp": "2026-08-23T17:09:34.088617Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/7d53607a6b995591"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 23",
+      "loc": "Global",
+      "event": "Armando Gonz\u00e1lez: The Legacy of a Rojiblanco Story",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://ncache.chivasdecorazon.com.mx/es/noticias/41313/Armando-Gonzlez-el-legado-de-una-historia-rojiblanca"
+        }
+      ]
+    },
     {
       "date": "Aug 23",
       "loc": "Global",
@@ -333,37 +334,7 @@
           "url": "https://worldsoccertalk.com/news/claudio-tapias-afa-responds-to-fifas-harsh-punishment-against-argentina-with-appeal-plan/"
         }
       ]
-    },
-    {
-      "date": "Aug 23",
-      "loc": "Global",
-      "event": "Ashely Cole names his Premier League breakout star: \u2018I think this is going to be a big year for him\u2019",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sbnation.com/soccer/1125633/ashely-cole-interview-premier-league-breakout-star-lewis-hall"
-        }
-      ]
-    },
-    {
-      "date": "Aug 23",
-      "loc": "Global",
-      "event": "FIFA fines Argentina $321K over World Cup misconduct",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/7d53607a6b995591"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-23T17:09:34.088790Z"
+  "lastUpdated": "2026-08-23T18:09:52.436481Z"
 }
