@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 7
+    "p3": 5
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Armando \u2018Hormiga\u2019 Gonz\u00e1lez\u2019s story with Chivas began long before his goals at Estadio AKRON. In 2018, at just 15 years old, he joined Guadalajara\u2019s youth academy with the U-15 side, inspired ...",
-      "timestamp": "2026-08-23T19:12:13.276619Z",
+      "timestamp": "2026-08-23T20:07:25.800734Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Both India's men's and women's teams need to win their remaining Phase 2 matches to give themselves the best chance of securing a place in the semifinals of the 2026 Hockey World Cup",
-      "timestamp": "2026-08-23T19:12:13.276996Z",
+      "timestamp": "2026-08-23T20:07:25.801031Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Arsenal v Coventry: I\u2019m already looking forward to the next match By Tony Attwood Argentina midfielder Leandro Paredes has been given a 10-match ban for being part of some clashes he was involved in after the 2026 World Cup final. Such bans are becoming more \u2026",
-      "timestamp": "2026-08-23T19:12:13.277225Z",
+      "timestamp": "2026-08-23T20:07:25.801209Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "It didn't take long for Cristiano Ronaldo to return to his goalscoring ways with Al-Nassr in the Saudi Pro League.",
-      "timestamp": "2026-08-23T19:12:13.277777Z",
+      "timestamp": "2026-08-23T20:07:25.801627Z",
       "links": [
         {
           "label": "Source",
@@ -192,39 +192,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Premier League is back, with Manchester City hosting AFC Bournemouth in one of the most-anticipated games this weekend. Here's how to tune in live with a VPN or streaming trial.\nAfter the highs of the 2026 FIFA World Cup, soccer returns to the top leagues\u2026",
-      "timestamp": "2026-08-23T19:12:13.278058Z",
+      "timestamp": "2026-08-23T20:07:25.801830Z",
       "links": [
         {
           "label": "Source",
           "url": "https://uk.pcmag.com/video-streaming-services/166855/how-to-watch-manchester-city-vs-bournemouth-live-for-free"
-        }
-      ]
-    },
-    {
-      "title": "FIFA hands out multiple suspensions to Argentina for World Cup Final post-game fracas",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2026 World Cup Final, played at MetLife Stadium, ended with a fight between members of the two teams involved.",
-      "timestamp": "2026-08-23T19:12:13.278277Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fifa-hands-out-multiple-suspensions-to-argentina-for-world-cup-final-post-game-fracas"
-        }
-      ]
-    },
-    {
-      "title": "Claudio Tapia\u2019s AFA responds to FIFA\u2019s harsh punishment against Argentina with appeal plan",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "AFA president Claudio Tapia responded to the punishment FIFA handed Argentina over the incidents at the 2026 World Cup. \nThe Argentine Football Association (AFA) wasted little time reacting to FIFA\u2019s harsh punishment against Argentina, issuing a statement fro\u2026",
-      "timestamp": "2026-08-23T19:12:13.278355Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/claudio-tapias-afa-responds-to-fifas-harsh-punishment-against-argentina-with-appeal-plan/"
         }
       ]
     }
@@ -304,37 +276,7 @@
           "url": "https://uk.pcmag.com/video-streaming-services/166855/how-to-watch-manchester-city-vs-bournemouth-live-for-free"
         }
       ]
-    },
-    {
-      "date": "Aug 23",
-      "loc": "New York / New Jersey",
-      "event": "FIFA hands out multiple suspensions to Argentina for World Cup Final post-game fracas",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fifa-hands-out-multiple-suspensions-to-argentina-for-world-cup-final-post-game-fracas"
-        }
-      ]
-    },
-    {
-      "date": "Aug 23",
-      "loc": "Global",
-      "event": "Claudio Tapia\u2019s AFA responds to FIFA\u2019s harsh punishment against Argentina with appeal plan",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/claudio-tapias-afa-responds-to-fifas-harsh-punishment-against-argentina-with-appeal-plan/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-23T19:12:13.278536Z"
+  "lastUpdated": "2026-08-23T20:07:25.802136Z"
 }
