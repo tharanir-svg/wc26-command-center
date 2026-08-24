@@ -131,35 +131,50 @@
   ],
   "risks": [
     {
+      "title": "Rojiblanco Stamp on the Mexico U-17 National Team Ahead of the 2026 FIFA World Cup in Qatar!",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The Rojiblanco Academy once again demonstrates its importance in Mexican soccer. This time, three Guadalajara players were called up to the Mexico U-17 National Team to play a pair of matches against ...",
+      "timestamp": "2026-08-24T15:26:08.520216Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://ncache.chivasdecorazon.com.mx/es/noticias/41322/Sello-Rojiblanco-en-el-TRI-Sub-17-rumbo-a-la-Copa-Mundial-de-la-FIFA-Catar-2026"
+        }
+      ]
+    },
+    {
       "title": "Armando Gonz\u00e1lez: The Legacy of a Rojiblanco Story",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Armando \u2018Hormiga\u2019 Gonz\u00e1lez\u2019s story with Chivas began long before his goals at Estadio AKRON. In 2018, at just 15 years old, he joined Guadalajara\u2019s youth academy with the U-15 side, inspired ...",
-      "timestamp": "2026-08-24T14:28:51.447560Z",
+      "timestamp": "2026-08-24T15:26:08.521518Z",
       "links": [
         {
           "label": "Source",
           "url": "https://ncache.chivasdecorazon.com.mx/es/noticias/41313/Armando-Gonzlez-el-legado-de-una-historia-rojiblanca"
         }
       ]
-    },
-    {
-      "title": "Hockey World Cup 2026: India semifinal qualification scenarios explained",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Both India's men's and women's teams need to win their remaining Phase 2 matches to give themselves the best chance of securing a place in the semifinals of the 2026 Hockey World Cup",
-      "timestamp": "2026-08-24T14:28:51.447892Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.business-standard.com/sports/other-sports-news/hockey-world-cup-2026-india-semifinal-qualification-scenarios-explained-126082200383_1.html"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 24",
+      "loc": "Global",
+      "event": "Rojiblanco Stamp on the Mexico U-17 National Team Ahead of the 2026 FIFA World Cup in Qatar!",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://ncache.chivasdecorazon.com.mx/es/noticias/41322/Sello-Rojiblanco-en-el-TRI-Sub-17-rumbo-a-la-Copa-Mundial-de-la-FIFA-Catar-2026"
+        }
+      ]
+    },
     {
       "date": "Aug 24",
       "loc": "Global",
@@ -174,22 +189,7 @@
           "url": "https://ncache.chivasdecorazon.com.mx/es/noticias/41313/Armando-Gonzlez-el-legado-de-una-historia-rojiblanca"
         }
       ]
-    },
-    {
-      "date": "Aug 24",
-      "loc": "Global",
-      "event": "Hockey World Cup 2026: India semifinal qualification scenarios explained",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.business-standard.com/sports/other-sports-news/hockey-world-cup-2026-india-semifinal-qualification-scenarios-explained-126082200383_1.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-24T14:28:51.448163Z"
+  "lastUpdated": "2026-08-24T15:26:08.521963Z"
 }
