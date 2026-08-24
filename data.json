@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 2
+    "p3": 3
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Hockey WC Live: India get huge boost as Netherlands crush China 4-1",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "India Vs Australia Live Score, Hockey World Cup 2026: India\u2019s hopes of reaching the FIH Hockey World Cup 2026 semifinals have suffered a major blow a",
+      "timestamp": "2026-08-24T16:20:10.079742Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/hockey/fih-womens-hockey-world-cup-2026-india-vs-australia-live-score-today-match-live-streaming-highlights-results-latest-news/liveblog/133442473.cms"
+        }
+      ]
+    },
+    {
       "title": "Rojiblanco Stamp on the Mexico U-17 National Team Ahead of the 2026 FIFA World Cup in Qatar!",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Rojiblanco Academy once again demonstrates its importance in Mexican soccer. This time, three Guadalajara players were called up to the Mexico U-17 National Team to play a pair of matches against ...",
-      "timestamp": "2026-08-24T15:26:08.520216Z",
+      "timestamp": "2026-08-24T16:20:10.079823Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Armando \u2018Hormiga\u2019 Gonz\u00e1lez\u2019s story with Chivas began long before his goals at Estadio AKRON. In 2018, at just 15 years old, he joined Guadalajara\u2019s youth academy with the U-15 side, inspired ...",
-      "timestamp": "2026-08-24T15:26:08.521518Z",
+      "timestamp": "2026-08-24T16:20:10.080891Z",
       "links": [
         {
           "label": "Source",
@@ -160,6 +174,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 24",
+      "loc": "Global",
+      "event": "Hockey WC Live: India get huge boost as Netherlands crush China 4-1",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/hockey/fih-womens-hockey-world-cup-2026-india-vs-australia-live-score-today-match-live-streaming-highlights-results-latest-news/liveblog/133442473.cms"
+        }
+      ]
+    },
     {
       "date": "Aug 24",
       "loc": "Global",
@@ -191,5 +220,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-24T15:26:08.521963Z"
+  "lastUpdated": "2026-08-24T16:20:10.081183Z"
 }
