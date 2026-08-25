@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 5
+    "p3": 6
   },
   "watchlist": [
     {
@@ -136,7 +136,21 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "AG.AL claims the $7 million Club Championship title after seven weeks featuring more than 2,000 players, 200 Clubs and 25 tournaments 850 million viewers and 440 million hours watched, up 13% and 26% year-on-year, highlight record-breaking event 175,000 ticke\u2026",
-      "timestamp": "2026-08-24T23:11:22.083765Z",
+      "timestamp": "2026-08-25T00:27:34.699110Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/agal-crowned-esports-world-cup-2026-club-champion-after-landmark-competition-in-paris-302857840.html"
+        }
+      ]
+    },
+    {
+      "title": "AG.AL Crowned Esports World Cup 2026 Club Champion After Landmark Competition in Paris",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "AG.AL claims the $7 million Club Championship title after seven weeks featuring more than 2,000 players, 200 Clubs and 25 tournaments 850 million viewers and 440 million hours watched, up 13% and 26% year-on-year, highlight record-breaking event 175,000 ticke\u2026",
+      "timestamp": "2026-08-25T00:27:34.699210Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Panaji: India are moving towards playing an unprecedented four, possibly even five, games against FIFA World Cup 2026 opponents this year, after the A.",
-      "timestamp": "2026-08-24T23:11:22.083998Z",
+      "timestamp": "2026-08-25T00:27:34.699400Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup could return to North American sooner than expected thanks to the huge success the 2026 edition was. The post FIFA World Cup Could Return to USA Sooner Than Expected appeared first on HEAVY.",
-      "timestamp": "2026-08-24T23:11:22.084245Z",
+      "timestamp": "2026-08-25T00:27:34.699613Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India Vs Australia Live Score, Hockey World Cup 2026: India\u2019s hopes of reaching the FIH Hockey World Cup 2026 semifinals have suffered a major blow a",
-      "timestamp": "2026-08-24T23:11:22.084382Z",
+      "timestamp": "2026-08-25T00:27:34.699734Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Rojiblanco Academy once again demonstrates its importance in Mexican soccer. This time, three Guadalajara players were called up to the Mexico U-17 National Team to play a pair of matches against ...",
-      "timestamp": "2026-08-24T23:11:22.084454Z",
+      "timestamp": "2026-08-25T00:27:34.699797Z",
       "links": [
         {
           "label": "Source",
@@ -203,7 +217,22 @@
   ],
   "timeline": [
     {
-      "date": "Aug 24",
+      "date": "Aug 25",
+      "loc": "Global",
+      "event": "AG.AL Crowned Esports World Cup 2026 Club Champion After Landmark Competition in Paris",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/agal-crowned-esports-world-cup-2026-club-champion-after-landmark-competition-in-paris-302857840.html"
+        }
+      ]
+    },
+    {
+      "date": "Aug 25",
       "loc": "Global",
       "event": "AG.AL Crowned Esports World Cup 2026 Club Champion After Landmark Competition in Paris",
       "type": "News",
@@ -218,7 +247,7 @@
       ]
     },
     {
-      "date": "Aug 24",
+      "date": "Aug 25",
       "loc": "Global",
       "event": "World Cup 2026 lineup: India to face Panama before Brazil clash",
       "type": "News",
@@ -233,7 +262,7 @@
       ]
     },
     {
-      "date": "Aug 24",
+      "date": "Aug 25",
       "loc": "Global",
       "event": "FIFA World Cup Could Return to USA Sooner Than Expected",
       "type": "News",
@@ -248,7 +277,7 @@
       ]
     },
     {
-      "date": "Aug 24",
+      "date": "Aug 25",
       "loc": "Global",
       "event": "Hockey WC Live: India get huge boost as Netherlands crush China 4-1",
       "type": "News",
@@ -263,7 +292,7 @@
       ]
     },
     {
-      "date": "Aug 24",
+      "date": "Aug 25",
       "loc": "Global",
       "event": "Rojiblanco Stamp on the Mexico U-17 National Team Ahead of the 2026 FIFA World Cup in Qatar!",
       "type": "News",
@@ -278,5 +307,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-24T23:11:22.085687Z"
+  "lastUpdated": "2026-08-25T00:27:34.700900Z"
 }
