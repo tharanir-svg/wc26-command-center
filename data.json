@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Rising Market Values of World Cup 2026 Stars Deepen Italy\u2019s Sorrow",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Only three players from Serie A and just one Italian are in the top 50 most valuable players worldwide following a World Cup transfer update.",
+      "timestamp": "2026-08-26T16:06:48.521507Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/title-world-cup-2026-market-value-italy-sorrow/"
+        }
+      ]
+    },
+    {
       "title": "Real Madrid\u2019s summer signing recalls surprise call that sealed his move: \u2018I couldn\u2019t believe it at first\u2019",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Real Madrid did not have a single player called up to the Spain squad when Luis de la Fuente named his roster for the 2026 FIFA World Cup.Yet, when Spain eventually lifted the trophy on 19 July, Los B...",
-      "timestamp": "2026-08-26T14:31:34.997115Z",
+      "timestamp": "2026-08-26T16:06:48.521696Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "At Amazon, get this Dr. Squatch Limited Edition FIFA World Cup 2026 Natural Bar Soap 3-Pack for $12. It's the best price Amazon has charged for this 3-pack. Each bar is made with natural ingredients like coconut oil, shea butter, and kaolin clay through a col\u2026",
-      "timestamp": "2026-08-26T14:31:34.997332Z",
+      "timestamp": "2026-08-26T16:06:48.521898Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Dr. Squatch via Amazon [amazon.com] has *3-Pack 5-Oz Dr. Squatch Golden Glory FIFA World Cup 2026 Limited Edition Men's Bar Soap* on sale for *$12*. Shipping is free w/ Prime or on orders $35+. \n...",
-      "timestamp": "2026-08-26T14:31:34.997363Z",
+      "timestamp": "2026-08-26T16:06:48.521924Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "At the 2026 FIFA World Cup, Thomas M\u00fcller and Mats Hummels worked for Magenta. As has now become known, the pundits are turning into investors. Portuguese top-flight club Estrela da Amadora confirmed...",
-      "timestamp": "2026-08-26T14:31:34.997478Z",
+      "timestamp": "2026-08-26T16:06:48.522022Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Both India's men's and women's teams failed to qualify for the semifinals and will now be playing classification matches",
-      "timestamp": "2026-08-26T14:31:34.997542Z",
+      "timestamp": "2026-08-26T16:06:48.522082Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Aline Pellegrino and Cris Gambar\u00e9 next to the 2027 Women\u2019s World Cup trophy at the 2nd FIFA Women\u2019s World Cup 2027 Host Cities and Stadiums WorkshopCredits: L\u00edvia Villas-Boas/Ag\u00eancia StaffThe C...",
-      "timestamp": "2026-08-26T14:31:34.997889Z",
+      "timestamp": "2026-08-26T16:06:48.522428Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mercedes-Benz Stadium in Atlanta was ranked second best stadium in the United States to catch an NFL game by APWin ahead of the 2026-2027 season.",
-      "timestamp": "2026-08-26T14:31:34.998295Z",
+      "timestamp": "2026-08-26T16:06:48.522890Z",
       "links": [
         {
           "label": "Source",
@@ -234,30 +248,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Major League Soccer and Liga MX clubs collide in the 2026 Leagues Cup. Here's how to watch Monterrey vs. Chicago and Le\u00f3n vs. Salt Lake in the upcoming quarterfinal matches.\nThe 2026 World Cup might be over, but there's plenty of action in the Leagues Cup to \u2026",
-      "timestamp": "2026-08-26T14:31:34.998375Z",
+      "timestamp": "2026-08-26T16:06:48.523008Z",
       "links": [
         {
           "label": "Source",
           "url": "https://uk.pcmag.com/video-streaming-services/166275/how-to-watch-monterrey-vs-chicago-leagues-cup-live-even-for-free-2026"
         }
       ]
-    },
-    {
-      "title": "Hockey WC Live: India need big win vs Argentina to keep semi-final hopes alive",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "India vs Argentina Live Score, Hockey World Cup 2026: India face a must-win final Pool E clash against Argentina at the Wagener Stadium, with their F",
-      "timestamp": "2026-08-26T14:31:34.998686Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/hockey/fih-mens-hockey-world-cup-2026-india-vs-argentina-live-score-today-match-live-streaming-highlights-results-latest-news/liveblog/133464629.cms"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 26",
+      "loc": "Global",
+      "event": "Rising Market Values of World Cup 2026 Stars Deepen Italy\u2019s Sorrow",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/title-world-cup-2026-market-value-italy-sorrow/"
+        }
+      ]
+    },
     {
       "date": "Aug 26",
       "loc": "Global",
@@ -377,22 +392,7 @@
           "url": "https://uk.pcmag.com/video-streaming-services/166275/how-to-watch-monterrey-vs-chicago-leagues-cup-live-even-for-free-2026"
         }
       ]
-    },
-    {
-      "date": "Aug 26",
-      "loc": "Global",
-      "event": "Hockey WC Live: India need big win vs Argentina to keep semi-final hopes alive",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/hockey/fih-mens-hockey-world-cup-2026-india-vs-argentina-live-score-today-match-live-streaming-highlights-results-latest-news/liveblog/133464629.cms"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-26T14:31:34.998840Z"
+  "lastUpdated": "2026-08-26T16:06:48.523260Z"
 }
