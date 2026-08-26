@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 9
+    "p3": 8
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Only three players from Serie A and just one Italian are in the top 50 most valuable players worldwide following a World Cup transfer update.",
-      "timestamp": "2026-08-26T16:06:48.521507Z",
+      "timestamp": "2026-08-26T18:31:05.600988Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Real Madrid did not have a single player called up to the Spain squad when Luis de la Fuente named his roster for the 2026 FIFA World Cup.Yet, when Spain eventually lifted the trophy on 19 July, Los B...",
-      "timestamp": "2026-08-26T16:06:48.521696Z",
+      "timestamp": "2026-08-26T18:31:05.601154Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "At Amazon, get this Dr. Squatch Limited Edition FIFA World Cup 2026 Natural Bar Soap 3-Pack for $12. It's the best price Amazon has charged for this 3-pack. Each bar is made with natural ingredients like coconut oil, shea butter, and kaolin clay through a col\u2026",
-      "timestamp": "2026-08-26T16:06:48.521898Z",
+      "timestamp": "2026-08-26T18:31:05.601351Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Dr. Squatch via Amazon [amazon.com] has *3-Pack 5-Oz Dr. Squatch Golden Glory FIFA World Cup 2026 Limited Edition Men's Bar Soap* on sale for *$12*. Shipping is free w/ Prime or on orders $35+. \n...",
-      "timestamp": "2026-08-26T16:06:48.521924Z",
+      "timestamp": "2026-08-26T18:31:05.601378Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "At the 2026 FIFA World Cup, Thomas M\u00fcller and Mats Hummels worked for Magenta. As has now become known, the pundits are turning into investors. Portuguese top-flight club Estrela da Amadora confirmed...",
-      "timestamp": "2026-08-26T16:06:48.522022Z",
+      "timestamp": "2026-08-26T18:31:05.601475Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Both India's men's and women's teams failed to qualify for the semifinals and will now be playing classification matches",
-      "timestamp": "2026-08-26T16:06:48.522082Z",
+      "timestamp": "2026-08-26T18:31:05.601533Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Aline Pellegrino and Cris Gambar\u00e9 next to the 2027 Women\u2019s World Cup trophy at the 2nd FIFA Women\u2019s World Cup 2027 Host Cities and Stadiums WorkshopCredits: L\u00edvia Villas-Boas/Ag\u00eancia StaffThe C...",
-      "timestamp": "2026-08-26T16:06:48.522428Z",
+      "timestamp": "2026-08-26T18:31:05.601896Z",
       "links": [
         {
           "label": "Source",
@@ -234,25 +234,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mercedes-Benz Stadium in Atlanta was ranked second best stadium in the United States to catch an NFL game by APWin ahead of the 2026-2027 season.",
-      "timestamp": "2026-08-26T16:06:48.522890Z",
+      "timestamp": "2026-08-26T18:31:05.602387Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.usatoday.com/story/news/state/georgia/atlanta/2026/08/24/atlanta-ranked-second-overall-for-best-nfl-stadium-ahead-of-2026-season/91440468007/"
-        }
-      ]
-    },
-    {
-      "title": "How to Watch the 2026 Leagues Cup Live Without Cable (Even for Free)",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Major League Soccer and Liga MX clubs collide in the 2026 Leagues Cup. Here's how to watch Monterrey vs. Chicago and Le\u00f3n vs. Salt Lake in the upcoming quarterfinal matches.\nThe 2026 World Cup might be over, but there's plenty of action in the Leagues Cup to \u2026",
-      "timestamp": "2026-08-26T16:06:48.523008Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/166275/how-to-watch-monterrey-vs-chicago-leagues-cup-live-even-for-free-2026"
         }
       ]
     }
@@ -377,22 +363,7 @@
           "url": "https://www.usatoday.com/story/news/state/georgia/atlanta/2026/08/24/atlanta-ranked-second-overall-for-best-nfl-stadium-ahead-of-2026-season/91440468007/"
         }
       ]
-    },
-    {
-      "date": "Aug 26",
-      "loc": "Monterrey",
-      "event": "How to Watch the 2026 Leagues Cup Live Without Cable (Even for Free)",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://uk.pcmag.com/video-streaming-services/166275/how-to-watch-monterrey-vs-chicago-leagues-cup-live-even-for-free-2026"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-26T16:06:48.523260Z"
+  "lastUpdated": "2026-08-26T18:31:05.602588Z"
 }
