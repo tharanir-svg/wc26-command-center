@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 9
+    "p3": 10
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Barcelona\u2019s World Cup ceremony \u201changs by a thread\u201d after political violence",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FC Barcelona are considering abandoning a ceremony that planned to celebrate seven players\u2019 involvement in Spain\u2019s 2026 FIFA World Cup victory as political tensions continue to rise amongst the cl...",
+      "timestamp": "2026-08-27T02:17:41.526646Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://wp.fromthespot.co.uk/31481/barcelonas-world-cup-ceremony-hangs-by-a-thread-after-political-violence/"
+        }
+      ]
+    },
+    {
       "title": "Three talking points ahead of Real Madrid vs Real Sociedad | La Liga MD2",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Real Madrid\u2019s matchday 1 fixture in La Liga was postponed given the large number of internationals and their late return after the FIFA World Cup, and the team directly played their second match day...",
-      "timestamp": "2026-08-26T21:21:13.178451Z",
+      "timestamp": "2026-08-27T02:17:41.526939Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Angel Di Maria weighed in on FIFA's sanctions against several Argentina players stemming from the chaotic ending of the 2026 World Cup final, calling the punishments excessive. Speaking in the mixed zone following Rosario Central's draw against Talleres at Ar\u2026",
-      "timestamp": "2026-08-26T21:21:13.178542Z",
+      "timestamp": "2026-08-27T02:17:41.527002Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Only three players from Serie A and just one Italian are in the top 50 most valuable players worldwide following a World Cup transfer update.",
-      "timestamp": "2026-08-26T21:21:13.178806Z",
+      "timestamp": "2026-08-27T02:17:41.527227Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Real Madrid did not have a single player called up to the Spain squad when Luis de la Fuente named his roster for the 2026 FIFA World Cup.Yet, when Spain eventually lifted the trophy on 19 July, Los B...",
-      "timestamp": "2026-08-26T21:21:13.178959Z",
+      "timestamp": "2026-08-27T02:17:41.527385Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "At Amazon, get this Dr. Squatch Limited Edition FIFA World Cup 2026 Natural Bar Soap 3-Pack for $12. It's the best price Amazon has charged for this 3-pack. Each bar is made with natural ingredients like coconut oil, shea butter, and kaolin clay through a col\u2026",
-      "timestamp": "2026-08-26T21:21:13.179172Z",
+      "timestamp": "2026-08-27T02:17:41.527580Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Dr. Squatch via Amazon [amazon.com] has *3-Pack 5-Oz Dr. Squatch Golden Glory FIFA World Cup 2026 Limited Edition Men's Bar Soap* on sale for *$12*. Shipping is free w/ Prime or on orders $35+. \n...",
-      "timestamp": "2026-08-26T21:21:13.179198Z",
+      "timestamp": "2026-08-27T02:17:41.527604Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "At the 2026 FIFA World Cup, Thomas M\u00fcller and Mats Hummels worked for Magenta. As has now become known, the pundits are turning into investors. Portuguese top-flight club Estrela da Amadora confirmed...",
-      "timestamp": "2026-08-26T21:21:13.179300Z",
+      "timestamp": "2026-08-27T02:17:41.527697Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Both India's men's and women's teams failed to qualify for the semifinals and will now be playing classification matches",
-      "timestamp": "2026-08-26T21:21:13.179363Z",
+      "timestamp": "2026-08-27T02:17:41.527755Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Aline Pellegrino and Cris Gambar\u00e9 next to the 2027 Women\u2019s World Cup trophy at the 2nd FIFA Women\u2019s World Cup 2027 Host Cities and Stadiums WorkshopCredits: L\u00edvia Villas-Boas/Ag\u00eancia StaffThe C...",
-      "timestamp": "2026-08-26T21:21:13.179741Z",
+      "timestamp": "2026-08-27T02:17:41.528152Z",
       "links": [
         {
           "label": "Source",
@@ -259,7 +273,22 @@
   ],
   "timeline": [
     {
-      "date": "Aug 26",
+      "date": "Aug 27",
+      "loc": "Global",
+      "event": "Barcelona\u2019s World Cup ceremony \u201changs by a thread\u201d after political violence",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://wp.fromthespot.co.uk/31481/barcelonas-world-cup-ceremony-hangs-by-a-thread-after-political-violence/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 27",
       "loc": "Global",
       "event": "Three talking points ahead of Real Madrid vs Real Sociedad | La Liga MD2",
       "type": "News",
@@ -274,7 +303,7 @@
       ]
     },
     {
-      "date": "Aug 26",
+      "date": "Aug 27",
       "loc": "Global",
       "event": "Angel Di Maria on FIFA\u2019s punishment to Argentina players for the 2026 World Cup: \u2018It\u2019s exaggerated\u2019",
       "type": "News",
@@ -289,7 +318,7 @@
       ]
     },
     {
-      "date": "Aug 26",
+      "date": "Aug 27",
       "loc": "Global",
       "event": "Rising Market Values of World Cup 2026 Stars Deepen Italy\u2019s Sorrow",
       "type": "News",
@@ -304,7 +333,7 @@
       ]
     },
     {
-      "date": "Aug 26",
+      "date": "Aug 27",
       "loc": "Global",
       "event": "Real Madrid\u2019s summer signing recalls surprise call that sealed his move: \u2018I couldn\u2019t believe it at first\u2019",
       "type": "News",
@@ -319,7 +348,7 @@
       ]
     },
     {
-      "date": "Aug 26",
+      "date": "Aug 27",
       "loc": "Global",
       "event": "Dr. Squatch Limited Edition FIFA World Cup 2026 Natural Bar Soap 3-Pack for $12 + free shipping w/ Prime",
       "type": "News",
@@ -334,7 +363,7 @@
       ]
     },
     {
-      "date": "Aug 26",
+      "date": "Aug 27",
       "loc": "Global",
       "event": "3-Pack 5-Oz Dr. Squatch Golden Glory FIFA World Cup 2026 Men's Bar Soap $12",
       "type": "News",
@@ -349,7 +378,7 @@
       ]
     },
     {
-      "date": "Aug 26",
+      "date": "Aug 27",
       "loc": "Global",
       "event": "Hummels & M\u00fcller become investors, buy into top-flight club",
       "type": "News",
@@ -364,7 +393,7 @@
       ]
     },
     {
-      "date": "Aug 26",
+      "date": "Aug 27",
       "loc": "Global",
       "event": "Hockey World Cup 2026: When will India play their classification matches",
       "type": "News",
@@ -379,7 +408,7 @@
       ]
     },
     {
-      "date": "Aug 26",
+      "date": "Aug 27",
       "loc": "Global",
       "event": "Rio hosts 2nd workshop for 2027 FIFA Women\u2019s World Cup hosts",
       "type": "News",
@@ -394,5 +423,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-26T21:21:13.180249Z"
+  "lastUpdated": "2026-08-27T02:17:41.528444Z"
 }
