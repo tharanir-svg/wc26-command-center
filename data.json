@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 9
+    "p3": 6
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "How much are last-minute tickets to see BTS at SoFi Stadium?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The Bangtan Boys have four shows at the Rams and Chargers' home from Sept. 1-6.",
+      "timestamp": "2026-08-27T23:15:54.284126Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/08/26/ticket-sales/get-discounted-tickets-to-see-bts-arirang-tour-concerts-at-sofi-stadium/"
+        }
+      ]
+    },
+    {
+      "title": "USA TODAY showers praise on Seahawks' Lumen Field in stadium ranking",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "There's no place like home.. and for the Seahawks, USA TODAY agrees!",
+      "timestamp": "2026-08-27T23:15:54.284358Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://seahawkswire.usatoday.com/story/sports/nfl/seahawks/2026/08/26/lumen-field-claims-top-spot-in-usa-todays-nfl-stadium-ranking/91475634007/"
+        }
+      ]
+    },
+    {
       "title": "New York metro area touts $3.5 billion impact from World Cup, silent on full costs from transit overruns and hosting FIFA",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "On July 19, 80,663 packed MetLife Stadium to watch Argentina and Spain fight for the World Cup. And they weren\u2019t alone: tens of thousands more filled bars and watch parties across New York and New Jersey, from a 50,000-person free viewing on Central Park\u2019s Gr\u2026",
-      "timestamp": "2026-08-27T13:10:32.598018Z",
+      "timestamp": "2026-08-27T23:15:54.284676Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FC Barcelona are considering abandoning a ceremony that planned to celebrate seven players\u2019 involvement in Spain\u2019s 2026 FIFA World Cup victory as political tensions continue to rise amongst the cl...",
-      "timestamp": "2026-08-27T13:10:32.598426Z",
+      "timestamp": "2026-08-27T23:15:54.285192Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Real Madrid\u2019s matchday 1 fixture in La Liga was postponed given the large number of internationals and their late return after the FIFA World Cup, and the team directly played their second match day...",
-      "timestamp": "2026-08-27T13:10:32.598637Z",
+      "timestamp": "2026-08-27T23:15:54.285484Z",
       "links": [
         {
           "label": "Source",
@@ -178,86 +206,46 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Angel Di Maria weighed in on FIFA's sanctions against several Argentina players stemming from the chaotic ending of the 2026 World Cup final, calling the punishments excessive. Speaking in the mixed zone following Rosario Central's draw against Talleres at Ar\u2026",
-      "timestamp": "2026-08-27T13:10:32.598697Z",
+      "timestamp": "2026-08-27T23:15:54.285551Z",
       "links": [
         {
           "label": "Source",
           "url": "https://worldsoccertalk.com/news/angel-di-maria-on-fifas-punishment-to-argentina-players-for-the-2026-world-cup-its-exaggerated/"
         }
       ]
-    },
-    {
-      "title": "Rising Market Values of World Cup 2026 Stars Deepen Italy\u2019s Sorrow",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Only three players from Serie A and just one Italian are in the top 50 most valuable players worldwide following a World Cup transfer update.",
-      "timestamp": "2026-08-27T13:10:32.598883Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://football-italia.net/title-world-cup-2026-market-value-italy-sorrow/"
-        }
-      ]
-    },
-    {
-      "title": "Real Madrid\u2019s summer signing recalls surprise call that sealed his move: \u2018I couldn\u2019t believe it at first\u2019",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Real Madrid did not have a single player called up to the Spain squad when Luis de la Fuente named his roster for the 2026 FIFA World Cup.Yet, when Spain eventually lifted the trophy on 19 July, Los B...",
-      "timestamp": "2026-08-27T13:10:32.598991Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://madriduniversal.com/real-madrids-summer-signing-recalls-surprise-call-that-sealed-his-move-i-couldnt-believe-it-at-first/"
-        }
-      ]
-    },
-    {
-      "title": "Dr. Squatch Limited Edition FIFA World Cup 2026 Natural Bar Soap 3-Pack for $12 + free shipping w/ Prime",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "At Amazon, get this Dr. Squatch Limited Edition FIFA World Cup 2026 Natural Bar Soap 3-Pack for $12. It's the best price Amazon has charged for this 3-pack. Each bar is made with natural ingredients like coconut oil, shea butter, and kaolin clay through a col\u2026",
-      "timestamp": "2026-08-27T13:10:32.599145Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/Dr-Squatch-Limited-Edition-FIFA-World-Cup-2026-Natural-Bar-Soap-3-Pack-for-12-free-shipping-w-Prime/22093435.html"
-        }
-      ]
-    },
-    {
-      "title": "3-Pack 5-Oz Dr. Squatch Golden Glory FIFA World Cup 2026 Men's Bar Soap $12",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Dr. Squatch via Amazon [amazon.com] has *3-Pack 5-Oz Dr. Squatch Golden Glory FIFA World Cup 2026 Limited Edition Men's Bar Soap* on sale for *$12*. Shipping is free w/ Prime or on orders $35+. \n...",
-      "timestamp": "2026-08-27T13:10:32.599196Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slickdeals.net/f/19918227-3-pack-5-oz-dr-squatch-golden-glory-fifa-world-cup-2026-limited-edition-men-s-bar-soap-12-free-shipping-w-prime-or-on-35"
-        }
-      ]
-    },
-    {
-      "title": "Hummels & M\u00fcller become investors, buy into top-flight club",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "At the 2026 FIFA World Cup, Thomas M\u00fcller and Mats Hummels worked for Magenta. As has now become known, the pundits are turning into investors. Portuguese top-flight club Estrela da Amadora confirmed...",
-      "timestamp": "2026-08-27T13:10:32.599282Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/hummels-mueller-become-investors-buy-into-top-flight-club-43335034"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 27",
+      "loc": "Los Angeles",
+      "event": "How much are last-minute tickets to see BTS at SoFi Stadium?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://nypost.com/2026/08/26/ticket-sales/get-discounted-tickets-to-see-bts-arirang-tour-concerts-at-sofi-stadium/"
+        }
+      ]
+    },
+    {
+      "date": "Aug 27",
+      "loc": "Seattle",
+      "event": "USA TODAY showers praise on Seahawks' Lumen Field in stadium ranking",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://seahawkswire.usatoday.com/story/sports/nfl/seahawks/2026/08/26/lumen-field-claims-top-spot-in-usa-todays-nfl-stadium-ranking/91475634007/"
+        }
+      ]
+    },
     {
       "date": "Aug 27",
       "loc": "New York / New Jersey",
@@ -317,82 +305,7 @@
           "url": "https://worldsoccertalk.com/news/angel-di-maria-on-fifas-punishment-to-argentina-players-for-the-2026-world-cup-its-exaggerated/"
         }
       ]
-    },
-    {
-      "date": "Aug 27",
-      "loc": "Global",
-      "event": "Rising Market Values of World Cup 2026 Stars Deepen Italy\u2019s Sorrow",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://football-italia.net/title-world-cup-2026-market-value-italy-sorrow/"
-        }
-      ]
-    },
-    {
-      "date": "Aug 27",
-      "loc": "Global",
-      "event": "Real Madrid\u2019s summer signing recalls surprise call that sealed his move: \u2018I couldn\u2019t believe it at first\u2019",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://madriduniversal.com/real-madrids-summer-signing-recalls-surprise-call-that-sealed-his-move-i-couldnt-believe-it-at-first/"
-        }
-      ]
-    },
-    {
-      "date": "Aug 27",
-      "loc": "Global",
-      "event": "Dr. Squatch Limited Edition FIFA World Cup 2026 Natural Bar Soap 3-Pack for $12 + free shipping w/ Prime",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/Dr-Squatch-Limited-Edition-FIFA-World-Cup-2026-Natural-Bar-Soap-3-Pack-for-12-free-shipping-w-Prime/22093435.html"
-        }
-      ]
-    },
-    {
-      "date": "Aug 27",
-      "loc": "Global",
-      "event": "3-Pack 5-Oz Dr. Squatch Golden Glory FIFA World Cup 2026 Men's Bar Soap $12",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slickdeals.net/f/19918227-3-pack-5-oz-dr-squatch-golden-glory-fifa-world-cup-2026-limited-edition-men-s-bar-soap-12-free-shipping-w-prime-or-on-35"
-        }
-      ]
-    },
-    {
-      "date": "Aug 27",
-      "loc": "Global",
-      "event": "Hummels & M\u00fcller become investors, buy into top-flight club",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/hummels-mueller-become-investors-buy-into-top-flight-club-43335034"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-27T13:10:32.599429Z"
+  "lastUpdated": "2026-08-27T23:15:54.285960Z"
 }
