@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 8
+    "p3": 10
   },
   "watchlist": [
     {
@@ -131,12 +131,68 @@
   ],
   "risks": [
     {
+      "title": "India beat Germany 3-1 to secure fifth place at FIH Women's Hockey World Cup 2026",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The Indian women's hockey team produced a stunning second-half comeback to defeat Germany 3-1 and secure fifth place at the FIH Women's Hockey World Cup 2026 at the Wagener Stadium in Amstelveen on Thursday.",
+      "timestamp": "2026-08-28T19:38:38.000154Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/hockey/india-beat-germany-3-1-to-secure-fifth-place-at-fih-womens-hockey-world-cup-2026/articleshow/133572955.cms"
+        }
+      ]
+    },
+    {
+      "title": "India vs Germany Hockey WC Live: Marijne\u2019s side look to end campaign on high",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "India vs Germany Live Score, Hockey World Cup 2026: India may have missed out on a place in the Women\u2019s Hockey World Cup semifinals, but their campai",
+      "timestamp": "2026-08-28T19:38:38.000621Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/hockey/fih-womens-hockey-world-cup-2026-india-vs-germany-live-score-today-match-live-streaming-highlights-results-latest-news/liveblog/133568557.cms"
+        }
+      ]
+    },
+    {
+      "title": "\u2018Raucous and Loud\u2019: Lumen Field named No. 1 stadium in the NFL",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The reigning Super Bowl champion Seahawks now have another title to their name, as USA Today ranked Lumen Field the No. 1 stadium in the NFL out of 30 stadiums.",
+      "timestamp": "2026-08-28T19:38:38.000726Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/raucous-loud-lumen-field-named-103111357.html"
+        }
+      ]
+    },
+    {
+      "title": "Bengaluru To Host India-Panama Football Match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The Indian senior men's football team will play an international friendly against Panama at the Sree Kanteerava Stadium in Bengaluru on September 26. This match against a FIFA World Cup-playing nation will be a significant test for the Blue Tigers, marking th\u2026",
+      "timestamp": "2026-08-28T19:38:38.000762Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/bengaluru-to-host-india-panama-mens-football-friendly/20260827.htm"
+        }
+      ]
+    },
+    {
       "title": "Where to watch Cowboys stadium volleyball: Schedule, times, channels, streaming for Spikes Under the Lights at AT&T",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's everything you need to know about Spikes Under the Lights at AT&T Stadium, including TV channel and live stream for each match.",
-      "timestamp": "2026-08-28T07:11:36.319493Z",
+      "timestamp": "2026-08-28T19:38:38.001042Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The global sporting event generated $1.9 billion in direct spending on lodging, restaurants, bars, shopping and transportation in the states",
-      "timestamp": "2026-08-28T07:11:36.319554Z",
+      "timestamp": "2026-08-28T19:38:38.001092Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup 2026 generated $3.5 billion in total economic impact across New York and New Jersey, New York Gov. Kathy Hochul said in a Wednesday (Aug. 26) press release.\nCiting a study conducted by Tourism Economics, an Oxford Economics company, Hochul \u2026",
-      "timestamp": "2026-08-28T07:11:36.319676Z",
+      "timestamp": "2026-08-28T19:38:38.001217Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup 2026 generated $3.5 billion in total economic impact across New York and New Jersey, New York Gov. Kathy Hochul said in a Wednesday (Aug. 26) press release. Citing a study conducted by Tourism Economics, an Oxford Economics company, Hochul \u2026",
-      "timestamp": "2026-08-28T07:11:36.319700Z",
+      "timestamp": "2026-08-28T19:38:38.001238Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Bangtan Boys have four shows at the Rams and Chargers' home from Sept. 1-6.",
-      "timestamp": "2026-08-28T07:11:36.319882Z",
+      "timestamp": "2026-08-28T19:38:38.001444Z",
       "links": [
         {
           "label": "Source",
@@ -206,44 +262,76 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "There's no place like home.. and for the Seahawks, USA TODAY agrees!",
-      "timestamp": "2026-08-28T07:11:36.320061Z",
+      "timestamp": "2026-08-28T19:38:38.001638Z",
       "links": [
         {
           "label": "Source",
           "url": "https://seahawkswire.usatoday.com/story/sports/nfl/seahawks/2026/08/26/lumen-field-claims-top-spot-in-usa-todays-nfl-stadium-ranking/91475634007/"
         }
       ]
-    },
-    {
-      "title": "New York metro area touts $3.5 billion impact from World Cup, silent on full costs from transit overruns and hosting FIFA",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "On July 19, 80,663 packed MetLife Stadium to watch Argentina and Spain fight for the World Cup. And they weren\u2019t alone: tens of thousands more filled bars and watch parties across New York and New Jersey, from a 50,000-person free viewing on Central Park\u2019s Gr\u2026",
-      "timestamp": "2026-08-28T07:11:36.320353Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/f1b0f746300d3b16"
-        }
-      ]
-    },
-    {
-      "title": "Barcelona\u2019s World Cup ceremony \u201changs by a thread\u201d after political violence",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FC Barcelona are considering abandoning a ceremony that planned to celebrate seven players\u2019 involvement in Spain\u2019s 2026 FIFA World Cup victory as political tensions continue to rise amongst the cl...",
-      "timestamp": "2026-08-28T07:11:36.320804Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://wp.fromthespot.co.uk/31481/barcelonas-world-cup-ceremony-hangs-by-a-thread-after-political-violence/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 28",
+      "loc": "Global",
+      "event": "India beat Germany 3-1 to secure fifth place at FIH Women's Hockey World Cup 2026",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://economictimes.indiatimes.com/news/sports/hockey/india-beat-germany-3-1-to-secure-fifth-place-at-fih-womens-hockey-world-cup-2026/articleshow/133572955.cms"
+        }
+      ]
+    },
+    {
+      "date": "Aug 28",
+      "loc": "Global",
+      "event": "India vs Germany Hockey WC Live: Marijne\u2019s side look to end campaign on high",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/hockey/fih-womens-hockey-world-cup-2026-india-vs-germany-live-score-today-match-live-streaming-highlights-results-latest-news/liveblog/133568557.cms"
+        }
+      ]
+    },
+    {
+      "date": "Aug 28",
+      "loc": "Seattle",
+      "event": "\u2018Raucous and Loud\u2019: Lumen Field named No. 1 stadium in the NFL",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/raucous-loud-lumen-field-named-103111357.html"
+        }
+      ]
+    },
+    {
+      "date": "Aug 28",
+      "loc": "Global",
+      "event": "Bengaluru To Host India-Panama Football Match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/bengaluru-to-host-india-panama-mens-football-friendly/20260827.htm"
+        }
+      ]
+    },
     {
       "date": "Aug 28",
       "loc": "Global",
@@ -333,37 +421,7 @@
           "url": "https://seahawkswire.usatoday.com/story/sports/nfl/seahawks/2026/08/26/lumen-field-claims-top-spot-in-usa-todays-nfl-stadium-ranking/91475634007/"
         }
       ]
-    },
-    {
-      "date": "Aug 28",
-      "loc": "New York / New Jersey",
-      "event": "New York metro area touts $3.5 billion impact from World Cup, silent on full costs from transit overruns and hosting FIFA",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/f1b0f746300d3b16"
-        }
-      ]
-    },
-    {
-      "date": "Aug 28",
-      "loc": "Global",
-      "event": "Barcelona\u2019s World Cup ceremony \u201changs by a thread\u201d after political violence",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://wp.fromthespot.co.uk/31481/barcelonas-world-cup-ceremony-hangs-by-a-thread-after-political-violence/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-28T07:11:36.321156Z"
+  "lastUpdated": "2026-08-28T19:38:38.001965Z"
 }
