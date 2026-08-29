@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 10
+    "p3": 9
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Indian women's hockey team produced a stunning second-half comeback to defeat Germany 3-1 and secure fifth place at the FIH Women's Hockey World Cup 2026 at the Wagener Stadium in Amstelveen on Thursday.",
-      "timestamp": "2026-08-28T19:38:38.000154Z",
+      "timestamp": "2026-08-29T02:29:13.483268Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India vs Germany Live Score, Hockey World Cup 2026: India may have missed out on a place in the Women\u2019s Hockey World Cup semifinals, but their campai",
-      "timestamp": "2026-08-28T19:38:38.000621Z",
+      "timestamp": "2026-08-29T02:29:13.483705Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The reigning Super Bowl champion Seahawks now have another title to their name, as USA Today ranked Lumen Field the No. 1 stadium in the NFL out of 30 stadiums.",
-      "timestamp": "2026-08-28T19:38:38.000726Z",
+      "timestamp": "2026-08-29T02:29:13.483811Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Indian senior men's football team will play an international friendly against Panama at the Sree Kanteerava Stadium in Bengaluru on September 26. This match against a FIFA World Cup-playing nation will be a significant test for the Blue Tigers, marking th\u2026",
-      "timestamp": "2026-08-28T19:38:38.000762Z",
+      "timestamp": "2026-08-29T02:29:13.483844Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's everything you need to know about Spikes Under the Lights at AT&T Stadium, including TV channel and live stream for each match.",
-      "timestamp": "2026-08-28T19:38:38.001042Z",
+      "timestamp": "2026-08-29T02:29:13.484123Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The global sporting event generated $1.9 billion in direct spending on lodging, restaurants, bars, shopping and transportation in the states",
-      "timestamp": "2026-08-28T19:38:38.001092Z",
+      "timestamp": "2026-08-29T02:29:13.484169Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup 2026 generated $3.5 billion in total economic impact across New York and New Jersey, New York Gov. Kathy Hochul said in a Wednesday (Aug. 26) press release.\nCiting a study conducted by Tourism Economics, an Oxford Economics company, Hochul \u2026",
-      "timestamp": "2026-08-28T19:38:38.001217Z",
+      "timestamp": "2026-08-29T02:29:13.484295Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup 2026 generated $3.5 billion in total economic impact across New York and New Jersey, New York Gov. Kathy Hochul said in a Wednesday (Aug. 26) press release. Citing a study conducted by Tourism Economics, an Oxford Economics company, Hochul \u2026",
-      "timestamp": "2026-08-28T19:38:38.001238Z",
+      "timestamp": "2026-08-29T02:29:13.484319Z",
       "links": [
         {
           "label": "Source",
@@ -248,32 +248,18 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Bangtan Boys have four shows at the Rams and Chargers' home from Sept. 1-6.",
-      "timestamp": "2026-08-28T19:38:38.001444Z",
+      "timestamp": "2026-08-29T02:29:13.484553Z",
       "links": [
         {
           "label": "Source",
           "url": "https://nypost.com/2026/08/26/ticket-sales/get-discounted-tickets-to-see-bts-arirang-tour-concerts-at-sofi-stadium/"
         }
       ]
-    },
-    {
-      "title": "USA TODAY showers praise on Seahawks' Lumen Field in stadium ranking",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "There's no place like home.. and for the Seahawks, USA TODAY agrees!",
-      "timestamp": "2026-08-28T19:38:38.001638Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://seahawkswire.usatoday.com/story/sports/nfl/seahawks/2026/08/26/lumen-field-claims-top-spot-in-usa-todays-nfl-stadium-ranking/91475634007/"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Aug 28",
+      "date": "Aug 29",
       "loc": "Global",
       "event": "India beat Germany 3-1 to secure fifth place at FIH Women's Hockey World Cup 2026",
       "type": "News",
@@ -288,7 +274,7 @@
       ]
     },
     {
-      "date": "Aug 28",
+      "date": "Aug 29",
       "loc": "Global",
       "event": "India vs Germany Hockey WC Live: Marijne\u2019s side look to end campaign on high",
       "type": "News",
@@ -303,7 +289,7 @@
       ]
     },
     {
-      "date": "Aug 28",
+      "date": "Aug 29",
       "loc": "Seattle",
       "event": "\u2018Raucous and Loud\u2019: Lumen Field named No. 1 stadium in the NFL",
       "type": "News",
@@ -318,7 +304,7 @@
       ]
     },
     {
-      "date": "Aug 28",
+      "date": "Aug 29",
       "loc": "Global",
       "event": "Bengaluru To Host India-Panama Football Match",
       "type": "News",
@@ -333,7 +319,7 @@
       ]
     },
     {
-      "date": "Aug 28",
+      "date": "Aug 29",
       "loc": "Global",
       "event": "Where to watch Cowboys stadium volleyball: Schedule, times, channels, streaming for Spikes Under the Lights at AT&T",
       "type": "News",
@@ -348,7 +334,7 @@
       ]
     },
     {
-      "date": "Aug 28",
+      "date": "Aug 29",
       "loc": "Global",
       "event": "New York City area saw $3.5 billion in economic impact from Fifa World Cup",
       "type": "News",
@@ -363,7 +349,7 @@
       ]
     },
     {
-      "date": "Aug 28",
+      "date": "Aug 29",
       "loc": "Global",
       "event": "FIFA World Cup Adds $3.5 Billion to New York and New Jersey Economies",
       "type": "News",
@@ -378,7 +364,7 @@
       ]
     },
     {
-      "date": "Aug 28",
+      "date": "Aug 29",
       "loc": "Global",
       "event": "FIFA World Cup Adds $3.5 Billion to New York and New Jersey Economies",
       "type": "News",
@@ -393,7 +379,7 @@
       ]
     },
     {
-      "date": "Aug 28",
+      "date": "Aug 29",
       "loc": "Los Angeles",
       "event": "How much are last-minute tickets to see BTS at SoFi Stadium?",
       "type": "News",
@@ -406,22 +392,7 @@
           "url": "https://nypost.com/2026/08/26/ticket-sales/get-discounted-tickets-to-see-bts-arirang-tour-concerts-at-sofi-stadium/"
         }
       ]
-    },
-    {
-      "date": "Aug 28",
-      "loc": "Seattle",
-      "event": "USA TODAY showers praise on Seahawks' Lumen Field in stadium ranking",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://seahawkswire.usatoday.com/story/sports/nfl/seahawks/2026/08/26/lumen-field-claims-top-spot-in-usa-todays-nfl-stadium-ranking/91475634007/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-28T19:38:38.001965Z"
+  "lastUpdated": "2026-08-29T02:29:13.484720Z"
 }
