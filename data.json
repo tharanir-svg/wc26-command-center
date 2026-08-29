@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 5
+    "p3": 4
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Now through August 30, Fanatics takes an extra 25% off 2026 World Cup sale and clearance products with promo code \"LEMON\". Some exclusions and terms apply. These styles will go fast, so get them now before they're gone. Shipping varies by product and location\u2026",
-      "timestamp": "2026-08-29T20:07:53.260682Z",
+      "timestamp": "2026-08-29T22:50:53.645585Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Now through August 30, Fanatics takes an extra 25% off 2026 World Cup sale and clearance products with promo code \"LEMON\". Some exclusions and terms apply. These styles will go fast, so get them now before they're gone. Shipping varies by product and location\u2026",
-      "timestamp": "2026-08-29T20:07:53.260732Z",
+      "timestamp": "2026-08-29T22:50:53.645653Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Now through August 30, Fanatics takes an extra 25% off 2026 World Cup sale and clearance products with promo code \"LEMON\". Some exclusions and terms apply. These styles will go fast, so get them now before they're gone. Shipping varies by product and location\u2026",
-      "timestamp": "2026-08-29T20:07:53.260757Z",
+      "timestamp": "2026-08-29T22:50:53.645693Z",
       "links": [
         {
           "label": "Source",
@@ -178,25 +178,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Anchored by veteran host Mike Hill, the episode brings together some of the most compelling feature stories from across FOX Sports' FIFA World Cup 2026 coverage, including the stars who took the world stage to the communities that made the historic tournament\u2026",
-      "timestamp": "2026-08-29T20:07:53.261316Z",
+      "timestamp": "2026-08-29T22:50:53.646451Z",
       "links": [
         {
           "label": "Source",
           "url": "http://www.thefutoncritic.com/news/2026/08/28/fox-sports-award-winning-series-voices-returns-with-all-new-episode-united-by-the-beautiful-game-sunday-august-30-on-fox-822512/20260828fox01/"
-        }
-      ]
-    },
-    {
-      "title": "India beat Germany 3-1 to secure fifth place at FIH Women's Hockey World Cup 2026",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Indian women's hockey team produced a stunning second-half comeback to defeat Germany 3-1 and secure fifth place at the FIH Women's Hockey World Cup 2026 at the Wagener Stadium in Amstelveen on Thursday.",
-      "timestamp": "2026-08-29T20:07:53.261942Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/hockey/india-beat-germany-3-1-to-secure-fifth-place-at-fih-womens-hockey-world-cup-2026/articleshow/133572955.cms"
         }
       ]
     }
@@ -261,22 +247,7 @@
           "url": "http://www.thefutoncritic.com/news/2026/08/28/fox-sports-award-winning-series-voices-returns-with-all-new-episode-united-by-the-beautiful-game-sunday-august-30-on-fox-822512/20260828fox01/"
         }
       ]
-    },
-    {
-      "date": "Aug 29",
-      "loc": "Global",
-      "event": "India beat Germany 3-1 to secure fifth place at FIH Women's Hockey World Cup 2026",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://economictimes.indiatimes.com/news/sports/hockey/india-beat-germany-3-1-to-secure-fifth-place-at-fih-womens-hockey-world-cup-2026/articleshow/133572955.cms"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-29T20:07:53.262215Z"
+  "lastUpdated": "2026-08-29T22:50:53.647388Z"
 }
