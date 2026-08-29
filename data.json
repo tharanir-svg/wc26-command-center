@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "FOX Sports' Award-Winning Series \"Voices\" Returns with All-New Episode \"United by the Beautiful Game\" Sunday, August 30 on FOX",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Anchored by veteran host Mike Hill, the episode brings together some of the most compelling feature stories from across FOX Sports' FIFA World Cup 2026 coverage, including the stars who took the world stage to the communities that made the historic tournament\u2026",
+      "timestamp": "2026-08-29T09:26:08.321550Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.thefutoncritic.com/news/2026/08/28/fox-sports-award-winning-series-voices-returns-with-all-new-episode-united-by-the-beautiful-game-sunday-august-30-on-fox-822512/20260828fox01/"
+        }
+      ]
+    },
+    {
       "title": "India beat Germany 3-1 to secure fifth place at FIH Women's Hockey World Cup 2026",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Indian women's hockey team produced a stunning second-half comeback to defeat Germany 3-1 and secure fifth place at the FIH Women's Hockey World Cup 2026 at the Wagener Stadium in Amstelveen on Thursday.",
-      "timestamp": "2026-08-29T02:29:13.483268Z",
+      "timestamp": "2026-08-29T09:26:08.322175Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India vs Germany Live Score, Hockey World Cup 2026: India may have missed out on a place in the Women\u2019s Hockey World Cup semifinals, but their campai",
-      "timestamp": "2026-08-29T02:29:13.483705Z",
+      "timestamp": "2026-08-29T09:26:08.322537Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The reigning Super Bowl champion Seahawks now have another title to their name, as USA Today ranked Lumen Field the No. 1 stadium in the NFL out of 30 stadiums.",
-      "timestamp": "2026-08-29T02:29:13.483811Z",
+      "timestamp": "2026-08-29T09:26:08.322630Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Indian senior men's football team will play an international friendly against Panama at the Sree Kanteerava Stadium in Bengaluru on September 26. This match against a FIFA World Cup-playing nation will be a significant test for the Blue Tigers, marking th\u2026",
-      "timestamp": "2026-08-29T02:29:13.483844Z",
+      "timestamp": "2026-08-29T09:26:08.322660Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's everything you need to know about Spikes Under the Lights at AT&T Stadium, including TV channel and live stream for each match.",
-      "timestamp": "2026-08-29T02:29:13.484123Z",
+      "timestamp": "2026-08-29T09:26:08.322936Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The global sporting event generated $1.9 billion in direct spending on lodging, restaurants, bars, shopping and transportation in the states",
-      "timestamp": "2026-08-29T02:29:13.484169Z",
+      "timestamp": "2026-08-29T09:26:08.322979Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup 2026 generated $3.5 billion in total economic impact across New York and New Jersey, New York Gov. Kathy Hochul said in a Wednesday (Aug. 26) press release.\nCiting a study conducted by Tourism Economics, an Oxford Economics company, Hochul \u2026",
-      "timestamp": "2026-08-29T02:29:13.484295Z",
+      "timestamp": "2026-08-29T09:26:08.323136Z",
       "links": [
         {
           "label": "Source",
@@ -234,30 +248,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup 2026 generated $3.5 billion in total economic impact across New York and New Jersey, New York Gov. Kathy Hochul said in a Wednesday (Aug. 26) press release. Citing a study conducted by Tourism Economics, an Oxford Economics company, Hochul \u2026",
-      "timestamp": "2026-08-29T02:29:13.484319Z",
+      "timestamp": "2026-08-29T09:26:08.323181Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.pymnts.com/economy/2026/fifa-world-cup-adds-3-5-billion-to-new-york-and-new-jersey-economies/"
         }
       ]
-    },
-    {
-      "title": "How much are last-minute tickets to see BTS at SoFi Stadium?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Bangtan Boys have four shows at the Rams and Chargers' home from Sept. 1-6.",
-      "timestamp": "2026-08-29T02:29:13.484553Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/08/26/ticket-sales/get-discounted-tickets-to-see-bts-arirang-tour-concerts-at-sofi-stadium/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 29",
+      "loc": "Global",
+      "event": "FOX Sports' Award-Winning Series \"Voices\" Returns with All-New Episode \"United by the Beautiful Game\" Sunday, August 30 on FOX",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.thefutoncritic.com/news/2026/08/28/fox-sports-award-winning-series-voices-returns-with-all-new-episode-united-by-the-beautiful-game-sunday-august-30-on-fox-822512/20260828fox01/"
+        }
+      ]
+    },
     {
       "date": "Aug 29",
       "loc": "Global",
@@ -377,22 +392,7 @@
           "url": "https://www.pymnts.com/economy/2026/fifa-world-cup-adds-3-5-billion-to-new-york-and-new-jersey-economies/"
         }
       ]
-    },
-    {
-      "date": "Aug 29",
-      "loc": "Los Angeles",
-      "event": "How much are last-minute tickets to see BTS at SoFi Stadium?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/08/26/ticket-sales/get-discounted-tickets-to-see-bts-arirang-tour-concerts-at-sofi-stadium/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-29T02:29:13.484720Z"
+  "lastUpdated": "2026-08-29T09:26:08.323315Z"
 }
