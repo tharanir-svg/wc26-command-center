@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 9
+    "p3": 5
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Anchored by veteran host Mike Hill, the episode brings together some of the most compelling feature stories from across FOX Sports' FIFA World Cup 2026 coverage, including the stars who took the world stage to the communities that made the historic tournament\u2026",
-      "timestamp": "2026-08-29T09:26:08.321550Z",
+      "timestamp": "2026-08-29T14:43:20.480775Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Indian women's hockey team produced a stunning second-half comeback to defeat Germany 3-1 and secure fifth place at the FIH Women's Hockey World Cup 2026 at the Wagener Stadium in Amstelveen on Thursday.",
-      "timestamp": "2026-08-29T09:26:08.322175Z",
+      "timestamp": "2026-08-29T14:43:20.481440Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India vs Germany Live Score, Hockey World Cup 2026: India may have missed out on a place in the Women\u2019s Hockey World Cup semifinals, but their campai",
-      "timestamp": "2026-08-29T09:26:08.322537Z",
+      "timestamp": "2026-08-29T14:43:20.481841Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The reigning Super Bowl champion Seahawks now have another title to their name, as USA Today ranked Lumen Field the No. 1 stadium in the NFL out of 30 stadiums.",
-      "timestamp": "2026-08-29T09:26:08.322630Z",
+      "timestamp": "2026-08-29T14:43:20.481978Z",
       "links": [
         {
           "label": "Source",
@@ -192,67 +192,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Indian senior men's football team will play an international friendly against Panama at the Sree Kanteerava Stadium in Bengaluru on September 26. This match against a FIFA World Cup-playing nation will be a significant test for the Blue Tigers, marking th\u2026",
-      "timestamp": "2026-08-29T09:26:08.322660Z",
+      "timestamp": "2026-08-29T14:43:20.482013Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.rediff.com/sports/report/bengaluru-to-host-india-panama-mens-football-friendly/20260827.htm"
-        }
-      ]
-    },
-    {
-      "title": "Where to watch Cowboys stadium volleyball: Schedule, times, channels, streaming for Spikes Under the Lights at AT&T",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Here's everything you need to know about Spikes Under the Lights at AT&T Stadium, including TV channel and live stream for each match.",
-      "timestamp": "2026-08-29T09:26:08.322936Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/college/news/watch-cowboys-stadium-volleyball-schedule-times-channels-streaming/c901834c51841d94748cdc6e"
-        }
-      ]
-    },
-    {
-      "title": "New York City area saw $3.5 billion in economic impact from Fifa World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The global sporting event generated $1.9 billion in direct spending on lodging, restaurants, bars, shopping and transportation in the states",
-      "timestamp": "2026-08-29T09:26:08.322979Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.business-standard.com/sports/fifa-world-cup/new-york-city-area-saw-3-5-billion-in-economic-impact-from-fifa-world-cup-126082700128_1.html"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup Adds $3.5 Billion to New York and New Jersey Economies",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The FIFA World Cup 2026 generated $3.5 billion in total economic impact across New York and New Jersey, New York Gov. Kathy Hochul said in a Wednesday (Aug. 26) press release.\nCiting a study conducted by Tourism Economics, an Oxford Economics company, Hochul \u2026",
-      "timestamp": "2026-08-29T09:26:08.323136Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/ea9151ec28295907"
-        }
-      ]
-    },
-    {
-      "title": "FIFA World Cup Adds $3.5 Billion to New York and New Jersey Economies",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The FIFA World Cup 2026 generated $3.5 billion in total economic impact across New York and New Jersey, New York Gov. Kathy Hochul said in a Wednesday (Aug. 26) press release. Citing a study conducted by Tourism Economics, an Oxford Economics company, Hochul \u2026",
-      "timestamp": "2026-08-29T09:26:08.323181Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.pymnts.com/economy/2026/fifa-world-cup-adds-3-5-billion-to-new-york-and-new-jersey-economies/"
         }
       ]
     }
@@ -332,67 +276,7 @@
           "url": "https://www.rediff.com/sports/report/bengaluru-to-host-india-panama-mens-football-friendly/20260827.htm"
         }
       ]
-    },
-    {
-      "date": "Aug 29",
-      "loc": "Global",
-      "event": "Where to watch Cowboys stadium volleyball: Schedule, times, channels, streaming for Spikes Under the Lights at AT&T",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/college/news/watch-cowboys-stadium-volleyball-schedule-times-channels-streaming/c901834c51841d94748cdc6e"
-        }
-      ]
-    },
-    {
-      "date": "Aug 29",
-      "loc": "Global",
-      "event": "New York City area saw $3.5 billion in economic impact from Fifa World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.business-standard.com/sports/fifa-world-cup/new-york-city-area-saw-3-5-billion-in-economic-impact-from-fifa-world-cup-126082700128_1.html"
-        }
-      ]
-    },
-    {
-      "date": "Aug 29",
-      "loc": "Global",
-      "event": "FIFA World Cup Adds $3.5 Billion to New York and New Jersey Economies",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/ea9151ec28295907"
-        }
-      ]
-    },
-    {
-      "date": "Aug 29",
-      "loc": "Global",
-      "event": "FIFA World Cup Adds $3.5 Billion to New York and New Jersey Economies",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.pymnts.com/economy/2026/fifa-world-cup-adds-3-5-billion-to-new-york-and-new-jersey-economies/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-29T09:26:08.323315Z"
+  "lastUpdated": "2026-08-29T14:43:20.482258Z"
 }
