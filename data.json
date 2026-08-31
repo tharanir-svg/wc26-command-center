@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 4
+    "p3": 5
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Casemiro makes profound admission after Lionel Messi scores four goals at 39 years old in MLS game",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Inter Miami midfielder Casemiro was left in awe of Lionel Messi after the 39-year-old Argentine legend scored four goals in their latest 7-1 win over CF Montreal. Messi proved at the 2026 FIFA World Cup that he is still one of the best players in the world, c\u2026",
+      "timestamp": "2026-08-31T08:57:04.988824Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/casemiro-makes-profound-admission-after-lionel-messi-scores-four-goals-at-39-years-old-in-mls-game/"
+        }
+      ]
+    },
+    {
       "title": "Morocco Is Building the Largest Soccer Stadium in the World for the 2030 FIFA World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Morocco Is Building the Largest Soccer Stadium in the World for the 2030 FIFA World Cup\nThe 2026 FIFA World Cup has come to an end, but preparations for the next edition of the tournament are already underway. Morocco will host the World Cup for the first tim\u2026",
-      "timestamp": "2026-08-31T02:52:16.836774Z",
+      "timestamp": "2026-08-31T08:57:04.989453Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Now through August 30, Fanatics takes an extra 25% off 2026 World Cup sale and clearance products with promo code \"LEMON\". Some exclusions and terms apply. These styles will go fast, so get them now before they're gone. Shipping varies by product and location\u2026",
-      "timestamp": "2026-08-31T02:52:16.837564Z",
+      "timestamp": "2026-08-31T08:57:04.990302Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Now through August 30, Fanatics takes an extra 25% off 2026 World Cup sale and clearance products with promo code \"LEMON\". Some exclusions and terms apply. These styles will go fast, so get them now before they're gone. Shipping varies by product and location\u2026",
-      "timestamp": "2026-08-31T02:52:16.837596Z",
+      "timestamp": "2026-08-31T08:57:04.990346Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Now through August 30, Fanatics takes an extra 25% off 2026 World Cup sale and clearance products with promo code \"LEMON\". Some exclusions and terms apply. These styles will go fast, so get them now before they're gone. Shipping varies by product and location\u2026",
-      "timestamp": "2026-08-31T02:52:16.837620Z",
+      "timestamp": "2026-08-31T08:57:04.990379Z",
       "links": [
         {
           "label": "Source",
@@ -188,6 +202,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 31",
+      "loc": "Global",
+      "event": "Casemiro makes profound admission after Lionel Messi scores four goals at 39 years old in MLS game",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/casemiro-makes-profound-admission-after-lionel-messi-scores-four-goals-at-39-years-old-in-mls-game/"
+        }
+      ]
+    },
     {
       "date": "Aug 31",
       "loc": "Global",
@@ -249,5 +278,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-31T02:52:16.838185Z"
+  "lastUpdated": "2026-08-31T08:57:04.990575Z"
 }
