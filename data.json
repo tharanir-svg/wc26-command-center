@@ -5,9 +5,9 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 0,
+    "p1": 1,
     "p2": 0,
-    "p3": 5
+    "p3": 2
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Cavan Sullivan achieves latest MLS feat in Union win",
+      "risk": "high",
+      "severityText": "P1 CRITICAL",
+      "status": "VERIFIED",
+      "description": "Cavan Sullivan is picking up steam ahead of the U.S. Men\u2019s National Team\u2019s first camp post-FIFA World Cup. Sullivan scored the Union\u2019s second goal on Saturday night in an eventual 3-1 MLS victory over rivals New York Red Bulls. The 16-year-old attacker made i\u2026",
+      "timestamp": "2026-08-31T16:33:00.544697Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sbisoccer.com/2026/08/cavan-sullivan-achieves-latest-mls-feat-in-union-win"
+        }
+      ]
+    },
+    {
       "title": "Casemiro makes profound admission after Lionel Messi scores four goals at 39 years old in MLS game",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Inter Miami midfielder Casemiro was left in awe of Lionel Messi after the 39-year-old Argentine legend scored four goals in their latest 7-1 win over CF Montreal. Messi proved at the 2026 FIFA World Cup that he is still one of the best players in the world, c\u2026",
-      "timestamp": "2026-08-31T08:57:04.988824Z",
+      "timestamp": "2026-08-31T16:33:00.545175Z",
       "links": [
         {
           "label": "Source",
@@ -150,58 +164,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Morocco Is Building the Largest Soccer Stadium in the World for the 2030 FIFA World Cup\nThe 2026 FIFA World Cup has come to an end, but preparations for the next edition of the tournament are already underway. Morocco will host the World Cup for the first tim\u2026",
-      "timestamp": "2026-08-31T08:57:04.989453Z",
+      "timestamp": "2026-08-31T16:33:00.545708Z",
       "links": [
         {
           "label": "Source",
           "url": "https://mymodernmet.com/grand-stade-hassan-ii-casablanca/"
         }
       ]
-    },
-    {
-      "title": "2026 World Cup Sale and Clearance Deals at Fanatics: Up to 50% of + Extra 25% off + shipping varies",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Now through August 30, Fanatics takes an extra 25% off 2026 World Cup sale and clearance products with promo code \"LEMON\". Some exclusions and terms apply. These styles will go fast, so get them now before they're gone. Shipping varies by product and location\u2026",
-      "timestamp": "2026-08-31T08:57:04.990302Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/2026-World-Cup-Sale-and-Clearance-Deals-at-Fanatics-Up-to-50-of-Extra-25-off-shipping-varies/22109943.html"
-        }
-      ]
-    },
-    {
-      "title": "2026 World Cup Sale and Clearance Deals at Fanatics: Up to 50% of + Extra 25% of + shipping varies",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Now through August 30, Fanatics takes an extra 25% off 2026 World Cup sale and clearance products with promo code \"LEMON\". Some exclusions and terms apply. These styles will go fast, so get them now before they're gone. Shipping varies by product and location\u2026",
-      "timestamp": "2026-08-31T08:57:04.990346Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/2026-World-Cup-Sale-and-Clearance-Deals-at-Fanatics-Up-to-50-of-Extra-25-of-shipping-varies/22109943.html"
-        }
-      ]
-    },
-    {
-      "title": "2026 World Cup Sale and Clearance Deals at Fanatics: Up to 50% of + Extra 25% off + shipping varies",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Now through August 30, Fanatics takes an extra 25% off 2026 World Cup sale and clearance products with promo code \"LEMON\". Some exclusions and terms apply. These styles will go fast, so get them now before they're gone. Shipping varies by product and location\u2026",
-      "timestamp": "2026-08-31T08:57:04.990379Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/2026-World-Cup-Sale-and-Clearance-Deals-at-Fanatics-Up-to-50-of-Extra-25-off-shipping-varies/22109943.html"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Aug 31",
+      "loc": "Global",
+      "event": "Cavan Sullivan achieves latest MLS feat in Union win",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "high",
+      "impact": "P1 CRITICAL",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sbisoccer.com/2026/08/cavan-sullivan-achieves-latest-mls-feat-in-union-win"
+        }
+      ]
+    },
     {
       "date": "Aug 31",
       "loc": "Global",
@@ -231,52 +218,7 @@
           "url": "https://mymodernmet.com/grand-stade-hassan-ii-casablanca/"
         }
       ]
-    },
-    {
-      "date": "Aug 31",
-      "loc": "Global",
-      "event": "2026 World Cup Sale and Clearance Deals at Fanatics: Up to 50% of + Extra 25% off + shipping varies",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/2026-World-Cup-Sale-and-Clearance-Deals-at-Fanatics-Up-to-50-of-Extra-25-off-shipping-varies/22109943.html"
-        }
-      ]
-    },
-    {
-      "date": "Aug 31",
-      "loc": "Global",
-      "event": "2026 World Cup Sale and Clearance Deals at Fanatics: Up to 50% of + Extra 25% of + shipping varies",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/2026-World-Cup-Sale-and-Clearance-Deals-at-Fanatics-Up-to-50-of-Extra-25-of-shipping-varies/22109943.html"
-        }
-      ]
-    },
-    {
-      "date": "Aug 31",
-      "loc": "Global",
-      "event": "2026 World Cup Sale and Clearance Deals at Fanatics: Up to 50% of + Extra 25% off + shipping varies",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/2026-World-Cup-Sale-and-Clearance-Deals-at-Fanatics-Up-to-50-of-Extra-25-off-shipping-varies/22109943.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-31T08:57:04.990575Z"
+  "lastUpdated": "2026-08-31T16:33:00.546330Z"
 }
