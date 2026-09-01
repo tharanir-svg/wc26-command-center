@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 1,
     "p2": 0,
-    "p3": 4
+    "p3": 6
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "FIFA World Cup 2026 Los Angeles Drawstring Backsack for $4 + free shipping w/ Prime",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "This FIFA World Cup 2026 drawstring backsack is $4, down from its $20 regular price at Amazon. It matches the lowest price this bag has hit on Amazon. The bag includes a zippered front pocket and is made from durable polyester with a nylon lining. Buy Now at \u2026",
+      "timestamp": "2026-09-01T15:14:49.165214Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dealnews.com/FIFA-World-Cup-2026-Los-Angeles-Drawstring-Backsack-for-4-free-shipping-w-Prime/22123833.html"
+        }
+      ]
+    },
+    {
+      "title": "Jazwares FIFA World Cup 2026 9\" Black Plush Soccer Ball Toy for $3 + free shipping w/ Prime",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "This Jazwares plush soccer ball is $3, down from its $15 regular price. It matches the lowest price this item has hit on Amazon. The 9\" plush is an officially licensed FIFA World Cup 2026 collectible, made of polyester and designed for kids ages 3 and up. Buy\u2026",
+      "timestamp": "2026-09-01T15:14:49.165282Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dealnews.com/Jazwares-FIFA-World-Cup-2026-9-Black-Plush-Soccer-Ball-Toy-for-3-free-shipping-w-Prime/22123831.html"
+        }
+      ]
+    },
+    {
       "title": "2026 FIFA World Cup Lapel Pin - Premium Zinc Alloy, Officially Licensed Collectible Souvenir $2.60 + Free Shipping w/ Prime or on $35+ (0 replies)",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Amazon [amazon.com] has 2026 FIFA World Cup Lapel Pin - Premium Zinc Alloy, Officially Licensed Collectible Souvenir for $2.60. Shipping is free w/ Prime or on $35+.\n\nAvailable Countries:France [amazo",
-      "timestamp": "2026-09-01T10:34:32.720636Z",
+      "timestamp": "2026-09-01T15:14:49.165418Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Amazon [amazon.com] has *FIFA World Cup 2026 Unisex Adult Official Country Wordmark Logo Bucket Hats (Various Countries)* starting at *$9.99*. Shipping is free w/ Prime or on $35+.\u200b[LIST][*]Brazil...",
-      "timestamp": "2026-09-01T10:34:32.720718Z",
+      "timestamp": "2026-09-01T15:14:49.165491Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "most variations \n \nhttps://www.amazon.com/dp/B0G53S4NXF?th=1",
-      "timestamp": "2026-09-01T10:34:32.720782Z",
+      "timestamp": "2026-09-01T15:14:49.165565Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +206,7 @@
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "Cavan Sullivan is picking up steam ahead of the U.S. Men\u2019s National Team\u2019s first camp post-FIFA World Cup. Sullivan scored the Union\u2019s second goal on Saturday night in an eventual 3-1 MLS victory over rivals New York Red Bulls. The 16-year-old attacker made i\u2026",
-      "timestamp": "2026-09-01T10:34:32.721284Z",
+      "timestamp": "2026-09-01T15:14:49.166194Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Inter Miami midfielder Casemiro was left in awe of Lionel Messi after the 39-year-old Argentine legend scored four goals in their latest 7-1 win over CF Montreal. Messi proved at the 2026 FIFA World Cup that he is still one of the best players in the world, c\u2026",
-      "timestamp": "2026-09-01T10:34:32.721651Z",
+      "timestamp": "2026-09-01T15:14:49.166715Z",
       "links": [
         {
           "label": "Source",
@@ -202,6 +230,36 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 01",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026 Los Angeles Drawstring Backsack for $4 + free shipping w/ Prime",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dealnews.com/FIFA-World-Cup-2026-Los-Angeles-Drawstring-Backsack-for-4-free-shipping-w-Prime/22123833.html"
+        }
+      ]
+    },
+    {
+      "date": "Sep 01",
+      "loc": "Global",
+      "event": "Jazwares FIFA World Cup 2026 9\" Black Plush Soccer Ball Toy for $3 + free shipping w/ Prime",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dealnews.com/Jazwares-FIFA-World-Cup-2026-9-Black-Plush-Soccer-Ball-Toy-for-3-free-shipping-w-Prime/22123831.html"
+        }
+      ]
+    },
     {
       "date": "Sep 01",
       "loc": "Global",
@@ -278,5 +336,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-01T10:34:32.722072Z"
+  "lastUpdated": "2026-09-01T15:14:49.166883Z"
 }
