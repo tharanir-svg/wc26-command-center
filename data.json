@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 1,
     "p2": 0,
-    "p3": 2
+    "p3": 4
   },
   "watchlist": [
     {
@@ -131,12 +131,54 @@
   ],
   "risks": [
     {
+      "title": "2026 FIFA World Cup Lapel Pin - Premium Zinc Alloy, Officially Licensed Collectible Souvenir $2.60 + Free Shipping w/ Prime or on $35+ (0 replies)",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Amazon [amazon.com] has 2026 FIFA World Cup Lapel Pin - Premium Zinc Alloy, Officially Licensed Collectible Souvenir for $2.60. Shipping is free w/ Prime or on $35+.\n\nAvailable Countries:France [amazo",
+      "timestamp": "2026-09-01T10:34:32.720636Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slickdeals.net/f/19947864-2026-fifa-world-cup-lapel-pin-premium-zinc-alloy-officially-licensed-collectible-souvenir-2-60-free-shipping-w-prime-or-on-35"
+        }
+      ]
+    },
+    {
+      "title": "FIFA World Cup 2026 Unisex Adult Official Country Wordmark Logo Bucket Hat: Mexico, Brazil, Argentina & More $9.99 + Free Shipping w/ Prime or on $35+",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Amazon [amazon.com] has *FIFA World Cup 2026 Unisex Adult Official Country Wordmark Logo Bucket Hats (Various Countries)* starting at *$9.99*. Shipping is free w/ Prime or on $35+.\u200b[LIST][*]Brazil...",
+      "timestamp": "2026-09-01T10:34:32.720718Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slickdeals.net/f/19947738-fifa-world-cup-2026-unisex-adult-official-country-wordmark-logo-bucket-hat-mexico-brazil-argentina-more-9-99-free-shipping-w-prime-or-on-35"
+        }
+      ]
+    },
+    {
+      "title": "HONAV FIFA World Cup Dallas Host City 17\" Fan Chain \u2013 Durable FIFA Lanyard, Lightweight & Comfortable, Officially Licensed Design \u2013 for $8",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "most variations \n \nhttps://www.amazon.com/dp/B0G53S4NXF?th=1",
+      "timestamp": "2026-09-01T10:34:32.720782Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slickdeals.net/f/19947612-honav-fifa-world-cup-dallas-host-city-17-fan-chain-durable-fifa-lanyard-lightweight-comfortable-officially-licensed-design-for-8"
+        }
+      ]
+    },
+    {
       "title": "Cavan Sullivan achieves latest MLS feat in Union win",
       "risk": "high",
       "severityText": "P1 CRITICAL",
       "status": "VERIFIED",
       "description": "Cavan Sullivan is picking up steam ahead of the U.S. Men\u2019s National Team\u2019s first camp post-FIFA World Cup. Sullivan scored the Union\u2019s second goal on Saturday night in an eventual 3-1 MLS victory over rivals New York Red Bulls. The 16-year-old attacker made i\u2026",
-      "timestamp": "2026-09-01T05:46:51.842534Z",
+      "timestamp": "2026-09-01T10:34:32.721284Z",
       "links": [
         {
           "label": "Source",
@@ -150,30 +192,61 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Inter Miami midfielder Casemiro was left in awe of Lionel Messi after the 39-year-old Argentine legend scored four goals in their latest 7-1 win over CF Montreal. Messi proved at the 2026 FIFA World Cup that he is still one of the best players in the world, c\u2026",
-      "timestamp": "2026-09-01T05:46:51.843112Z",
+      "timestamp": "2026-09-01T10:34:32.721651Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.hitc.com/casemiro-makes-profound-admission-after-lionel-messi-scores-four-goals-at-39-years-old-in-mls-game/"
         }
       ]
-    },
-    {
-      "title": "Morocco Is Building the Largest Soccer Stadium in the World for the 2030 FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Morocco Is Building the Largest Soccer Stadium in the World for the 2030 FIFA World Cup\nThe 2026 FIFA World Cup has come to an end, but preparations for the next edition of the tournament are already underway. Morocco will host the World Cup for the first tim\u2026",
-      "timestamp": "2026-09-01T05:46:51.843843Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://mymodernmet.com/grand-stade-hassan-ii-casablanca/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 01",
+      "loc": "Global",
+      "event": "2026 FIFA World Cup Lapel Pin - Premium Zinc Alloy, Officially Licensed Collectible Souvenir $2.60 + Free Shipping w/ Prime or on $35+ (0 replies)",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slickdeals.net/f/19947864-2026-fifa-world-cup-lapel-pin-premium-zinc-alloy-officially-licensed-collectible-souvenir-2-60-free-shipping-w-prime-or-on-35"
+        }
+      ]
+    },
+    {
+      "date": "Sep 01",
+      "loc": "Global",
+      "event": "FIFA World Cup 2026 Unisex Adult Official Country Wordmark Logo Bucket Hat: Mexico, Brazil, Argentina & More $9.99 + Free Shipping w/ Prime or on $35+",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slickdeals.net/f/19947738-fifa-world-cup-2026-unisex-adult-official-country-wordmark-logo-bucket-hat-mexico-brazil-argentina-more-9-99-free-shipping-w-prime-or-on-35"
+        }
+      ]
+    },
+    {
+      "date": "Sep 01",
+      "loc": "Dallas",
+      "event": "HONAV FIFA World Cup Dallas Host City 17\" Fan Chain \u2013 Durable FIFA Lanyard, Lightweight & Comfortable, Officially Licensed Design \u2013 for $8",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slickdeals.net/f/19947612-honav-fifa-world-cup-dallas-host-city-17-fan-chain-durable-fifa-lanyard-lightweight-comfortable-officially-licensed-design-for-8"
+        }
+      ]
+    },
     {
       "date": "Sep 01",
       "loc": "Global",
@@ -203,22 +276,7 @@
           "url": "https://www.hitc.com/casemiro-makes-profound-admission-after-lionel-messi-scores-four-goals-at-39-years-old-in-mls-game/"
         }
       ]
-    },
-    {
-      "date": "Sep 01",
-      "loc": "Global",
-      "event": "Morocco Is Building the Largest Soccer Stadium in the World for the 2030 FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://mymodernmet.com/grand-stade-hassan-ii-casablanca/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-01T05:46:51.844104Z"
+  "lastUpdated": "2026-09-01T10:34:32.722072Z"
 }
