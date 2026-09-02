@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 2
   },
   "watchlist": [
     {
@@ -131,44 +131,30 @@
   ],
   "risks": [
     {
+      "title": "BTS at SoFi Stadium: How to Get Tickets for Their Sold-Out Los Angeles Shows",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "If you missed your chance to buy tickets for BTS\u2019s Inglewood shows, fret not: there are still a few ways to get in before they hit the stage.\nBTS at SoFi Stadium: How to Get Tickets for Their Sold-Out Los Angeles Shows\nConsequence Staff",
+      "timestamp": "2026-09-02T18:59:53.007688Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consequence.net/2026/09/bts-sofi-los-angeles-tickets/"
+        }
+      ]
+    },
+    {
       "title": "Lionel Messi retires from international soccer after leading Argentina to 2026 FIFA World Cup final",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi officially announced Monday he was retiring from international soccer. Messi has been the face of Argentina soccer since he started playing for the squad in 2005 when he was just 18 years old. \"It was a decision that hurt \u2014 and still hurts deeply\u2026",
-      "timestamp": "2026-09-02T15:23:40.812097Z",
+      "timestamp": "2026-09-02T18:59:53.009187Z",
       "links": [
         {
           "label": "Source",
           "url": "https://freerepublic.com/focus/f-chat/4393816/posts"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi retires from international soccer after leading Argentina to 2026 FIFA World Cup final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi revealed the emotional decision to retire from Argentina's national team after six World Cups and 98 international goals scored.",
-      "timestamp": "2026-09-02T15:23:40.812954Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxnews.com/outkick-sports/lionel-messi-retires-international-soccer-leading-argentina-2026-fifa-world-cup-final"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi retires from Argentina via letter written after World Cup Final loss",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi has officially announced his retirement from the Argentina national team, with the Inter Miami forward sharing a heartfelt statement on social media written following their 2026 FIFA World Cup Final defeat",
-      "timestamp": "2026-09-02T15:23:40.812986Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/lionel-messi-argentina-retires-announcement-2004829"
         }
       ]
     }
@@ -176,6 +162,21 @@
   "timeline": [
     {
       "date": "Sep 02",
+      "loc": "Los Angeles",
+      "event": "BTS at SoFi Stadium: How to Get Tickets for Their Sold-Out Los Angeles Shows",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consequence.net/2026/09/bts-sofi-los-angeles-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Sep 02",
       "loc": "Global",
       "event": "Lionel Messi retires from international soccer after leading Argentina to 2026 FIFA World Cup final",
       "type": "News",
@@ -188,37 +189,7 @@
           "url": "https://freerepublic.com/focus/f-chat/4393816/posts"
         }
       ]
-    },
-    {
-      "date": "Sep 02",
-      "loc": "Global",
-      "event": "Lionel Messi retires from international soccer after leading Argentina to 2026 FIFA World Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxnews.com/outkick-sports/lionel-messi-retires-international-soccer-leading-argentina-2026-fifa-world-cup-final"
-        }
-      ]
-    },
-    {
-      "date": "Sep 02",
-      "loc": "Global",
-      "event": "Lionel Messi retires from Argentina via letter written after World Cup Final loss",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/lionel-messi-argentina-retires-announcement-2004829"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-02T15:23:40.813216Z"
+  "lastUpdated": "2026-09-02T18:59:53.010194Z"
 }
