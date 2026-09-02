@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 4
+    "p3": 3
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi officially announced Monday he was retiring from international soccer. Messi has been the face of Argentina soccer since he started playing for the squad in 2005 when he was just 18 years old. \"It was a decision that hurt \u2014 and still hurts deeply\u2026",
-      "timestamp": "2026-09-02T11:46:27.562675Z",
+      "timestamp": "2026-09-02T15:23:40.812097Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi revealed the emotional decision to retire from Argentina's national team after six World Cups and 98 international goals scored.",
-      "timestamp": "2026-09-02T11:46:27.563459Z",
+      "timestamp": "2026-09-02T15:23:40.812954Z",
       "links": [
         {
           "label": "Source",
@@ -164,25 +164,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi has officially announced his retirement from the Argentina national team, with the Inter Miami forward sharing a heartfelt statement on social media written following their 2026 FIFA World Cup Final defeat",
-      "timestamp": "2026-09-02T11:46:27.563489Z",
+      "timestamp": "2026-09-02T15:23:40.812986Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.alloutsoccer.com/news/lionel-messi-argentina-retires-announcement-2004829"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi announces retirement from Argentina following 2026 World Cup final loss",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "An era has come to an end: Lionel Messi has officially confirmed his retirement from the Argentina national team following a heartbreaking loss in the 2026 World Cup final. \nOn Instagram, Lionel Messi published a message confirming his retirement from the Arg\u2026",
-      "timestamp": "2026-09-02T11:46:27.563571Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/lionel-messi-announces-retirement-from-argentina-following-2026-world-cup-final-loss/"
         }
       ]
     }
@@ -232,22 +218,7 @@
           "url": "https://www.alloutsoccer.com/news/lionel-messi-argentina-retires-announcement-2004829"
         }
       ]
-    },
-    {
-      "date": "Sep 02",
-      "loc": "Global",
-      "event": "Lionel Messi announces retirement from Argentina following 2026 World Cup final loss",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/lionel-messi-announces-retirement-from-argentina-following-2026-world-cup-final-loss/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-02T11:46:27.564010Z"
+  "lastUpdated": "2026-09-02T15:23:40.813216Z"
 }
