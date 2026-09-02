@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 2
+    "p3": 3
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Chiefs heiress Gracie Hunt wrestles the franchise's attention back from Taylor Swift with engagement party",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Gracie Hunt and fianc\u00e9 Derek celebrated their engagement party at Arrowhead Stadium, the place where the Kansas City Chiefs heiress' love story began.",
+      "timestamp": "2026-09-02T23:37:32.264187Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/outkick-sports/chiefs-heiress-gracie-hunt-wrestles-franchises-attention-back-taylor-swift-engagement-party"
+        }
+      ]
+    },
+    {
       "title": "BTS at SoFi Stadium: How to Get Tickets for Their Sold-Out Los Angeles Shows",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "If you missed your chance to buy tickets for BTS\u2019s Inglewood shows, fret not: there are still a few ways to get in before they hit the stage.\nBTS at SoFi Stadium: How to Get Tickets for Their Sold-Out Los Angeles Shows\nConsequence Staff",
-      "timestamp": "2026-09-02T21:37:28.533163Z",
+      "timestamp": "2026-09-02T23:37:32.264463Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi officially announced Monday he was retiring from international soccer. Messi has been the face of Argentina soccer since he started playing for the squad in 2005 when he was just 18 years old. \"It was a decision that hurt \u2014 and still hurts deeply\u2026",
-      "timestamp": "2026-09-02T21:37:28.534203Z",
+      "timestamp": "2026-09-02T23:37:32.265254Z",
       "links": [
         {
           "label": "Source",
@@ -160,6 +174,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 02",
+      "loc": "Kansas City",
+      "event": "Chiefs heiress Gracie Hunt wrestles the franchise's attention back from Taylor Swift with engagement party",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/outkick-sports/chiefs-heiress-gracie-hunt-wrestles-franchises-attention-back-taylor-swift-engagement-party"
+        }
+      ]
+    },
     {
       "date": "Sep 02",
       "loc": "Los Angeles",
@@ -191,5 +220,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-02T21:37:28.534704Z"
+  "lastUpdated": "2026-09-02T23:37:32.265488Z"
 }
