@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Lionel Messi Retirement: The 21-Year Argentina Journey From Heartbreak To Glory",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "In June 2016, inside MetLife Stadium, Lionel Messi sat devastated after Argentina\u2019s penalty shootout defeat to Chile. He had just ballooned his penalty into the New Jersey night sky, suffered a third consecutive major-final defeat with Argentina, and announce\u2026",
+      "timestamp": "2026-09-03T18:54:58.929087Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.stadiumrant.com/lionel-messi-retirement-the-21-year-argentina-journey-from-heartbreak-to-glory/"
+        }
+      ]
+    },
+    {
       "title": "sportiq-mcp 0.3.2",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "MCP server for FIFA World Cup 2026 football, Formula 1, and IPL cricket intelligence tools.",
-      "timestamp": "2026-09-03T15:16:51.168676Z",
+      "timestamp": "2026-09-03T18:54:58.929246Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Borussia Dortmund defender Nico Schlotterbeck has taken to the training field for the first time since sustaining an ankle injury at the 2026 FIFA World Cup. The 26-year-old centre-back suffered an in...",
-      "timestamp": "2026-09-03T15:16:51.168737Z",
+      "timestamp": "2026-09-03T18:54:58.929276Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "USMNT star Folarin Balogun\u2019s failed transfer to Everton has fans buzzing with Donald Trump jokes. Folarin Balogun made headlines during the 2026 FIFA World Cup when US President Donald Trump played a role in overturning his red card against Bosnia and Herzego\u2026",
-      "timestamp": "2026-09-03T15:16:51.169190Z",
+      "timestamp": "2026-09-03T18:54:58.929634Z",
       "links": [
         {
           "label": "Source",
@@ -178,30 +192,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Gracie Hunt and fianc\u00e9 Derek celebrated their engagement party at Arrowhead Stadium, the place where the Kansas City Chiefs heiress' love story began.",
-      "timestamp": "2026-09-03T15:16:51.169934Z",
+      "timestamp": "2026-09-03T18:54:58.930277Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.foxnews.com/outkick-sports/chiefs-heiress-gracie-hunt-wrestles-franchises-attention-back-taylor-swift-engagement-party"
         }
       ]
-    },
-    {
-      "title": "BTS at SoFi Stadium: How to Get Tickets for Their Sold-Out Los Angeles Shows",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "If you missed your chance to buy tickets for BTS\u2019s Inglewood shows, fret not: there are still a few ways to get in before they hit the stage.\nBTS at SoFi Stadium: How to Get Tickets for Their Sold-Out Los Angeles Shows\nConsequence Staff",
-      "timestamp": "2026-09-03T15:16:51.170321Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consequence.net/2026/09/bts-sofi-los-angeles-tickets/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 03",
+      "loc": "New York / New Jersey",
+      "event": "Lionel Messi Retirement: The 21-Year Argentina Journey From Heartbreak To Glory",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.stadiumrant.com/lionel-messi-retirement-the-21-year-argentina-journey-from-heartbreak-to-glory/"
+        }
+      ]
+    },
     {
       "date": "Sep 03",
       "loc": "Global",
@@ -261,22 +276,7 @@
           "url": "https://www.foxnews.com/outkick-sports/chiefs-heiress-gracie-hunt-wrestles-franchises-attention-back-taylor-swift-engagement-party"
         }
       ]
-    },
-    {
-      "date": "Sep 03",
-      "loc": "Los Angeles",
-      "event": "BTS at SoFi Stadium: How to Get Tickets for Their Sold-Out Los Angeles Shows",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consequence.net/2026/09/bts-sofi-los-angeles-tickets/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-03T15:16:51.170748Z"
+  "lastUpdated": "2026-09-03T18:54:58.930649Z"
 }
