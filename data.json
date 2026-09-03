@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 2
+    "p3": 3
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Soccer fans all make the same Donald Trump joke after Folarin Balogun transfer hitch",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "USMNT star Folarin Balogun\u2019s failed transfer to Everton has fans buzzing with Donald Trump jokes. Folarin Balogun made headlines during the 2026 FIFA World Cup when US President Donald Trump played a role in overturning his red card against Bosnia and Herzego\u2026",
+      "timestamp": "2026-09-03T11:46:17.623188Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/soccer-fans-all-make-the-same-donald-trump-joke-after-folarin-balogun-transfer-hitch/"
+        }
+      ]
+    },
+    {
       "title": "Chiefs heiress Gracie Hunt wrestles the franchise's attention back from Taylor Swift with engagement party",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Gracie Hunt and fianc\u00e9 Derek celebrated their engagement party at Arrowhead Stadium, the place where the Kansas City Chiefs heiress' love story began.",
-      "timestamp": "2026-09-03T06:32:52.462812Z",
+      "timestamp": "2026-09-03T11:46:17.623803Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "If you missed your chance to buy tickets for BTS\u2019s Inglewood shows, fret not: there are still a few ways to get in before they hit the stage.\nBTS at SoFi Stadium: How to Get Tickets for Their Sold-Out Los Angeles Shows\nConsequence Staff",
-      "timestamp": "2026-09-03T06:32:52.463154Z",
+      "timestamp": "2026-09-03T11:46:17.624092Z",
       "links": [
         {
           "label": "Source",
@@ -160,6 +174,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 03",
+      "loc": "Global",
+      "event": "Soccer fans all make the same Donald Trump joke after Folarin Balogun transfer hitch",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/soccer-fans-all-make-the-same-donald-trump-joke-after-folarin-balogun-transfer-hitch/"
+        }
+      ]
+    },
     {
       "date": "Sep 03",
       "loc": "Kansas City",
@@ -191,5 +220,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-03T06:32:52.464024Z"
+  "lastUpdated": "2026-09-03T11:46:17.624680Z"
 }
