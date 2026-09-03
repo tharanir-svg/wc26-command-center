@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 2
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Gracie Hunt and fianc\u00e9 Derek celebrated their engagement party at Arrowhead Stadium, the place where the Kansas City Chiefs heiress' love story began.",
-      "timestamp": "2026-09-03T01:36:23.910543Z",
+      "timestamp": "2026-09-03T06:32:52.462812Z",
       "links": [
         {
           "label": "Source",
@@ -150,25 +150,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "If you missed your chance to buy tickets for BTS\u2019s Inglewood shows, fret not: there are still a few ways to get in before they hit the stage.\nBTS at SoFi Stadium: How to Get Tickets for Their Sold-Out Los Angeles Shows\nConsequence Staff",
-      "timestamp": "2026-09-03T01:36:23.910815Z",
+      "timestamp": "2026-09-03T06:32:52.463154Z",
       "links": [
         {
           "label": "Source",
           "url": "https://consequence.net/2026/09/bts-sofi-los-angeles-tickets/"
-        }
-      ]
-    },
-    {
-      "title": "Lionel Messi retires from international soccer after leading Argentina to 2026 FIFA World Cup final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi officially announced Monday he was retiring from international soccer. Messi has been the face of Argentina soccer since he started playing for the squad in 2005 when he was just 18 years old. \"It was a decision that hurt \u2014 and still hurts deeply\u2026",
-      "timestamp": "2026-09-03T01:36:23.911620Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://freerepublic.com/focus/f-chat/4393816/posts"
         }
       ]
     }
@@ -203,22 +189,7 @@
           "url": "https://consequence.net/2026/09/bts-sofi-los-angeles-tickets/"
         }
       ]
-    },
-    {
-      "date": "Sep 03",
-      "loc": "Global",
-      "event": "Lionel Messi retires from international soccer after leading Argentina to 2026 FIFA World Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://freerepublic.com/focus/f-chat/4393816/posts"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-03T01:36:23.911777Z"
+  "lastUpdated": "2026-09-03T06:32:52.464024Z"
 }
