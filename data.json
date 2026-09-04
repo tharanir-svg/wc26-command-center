@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 5
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "USA's Next Generation: 12 Youngsters In The Early Mix For The 2030 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Left off the USA's 2026 World Cup roster, these 12 Americans are in the early mix for 2030.",
+      "timestamp": "2026-09-04T21:05:09.117914Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/usas-next-generation-12-youngsters-early-mix-2030-world-cup"
+        }
+      ]
+    },
+    {
+      "title": "2026 World Cup winner announces shock retirement from international football with Spain",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "A shocking retirement announcement has rocked the football world, with Spanish star Marcos Llorente announcing his retirement from international football, leaving La Roja fans in disbelief. The 31-year-old announced on social media on Thursday that he is reti\u2026",
+      "timestamp": "2026-09-04T21:05:09.118136Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/2026-world-cup-winner-announces-shock-retirement-from-international-football-with-spain/"
+        }
+      ]
+    },
+    {
       "title": "Lionel Messi Retirement: The 21-Year Argentina Journey From Heartbreak To Glory",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In June 2016, inside MetLife Stadium, Lionel Messi sat devastated after Argentina\u2019s penalty shootout defeat to Chile. He had just ballooned his penalty into the New Jersey night sky, suffered a third consecutive major-final defeat with Argentina, and announce\u2026",
-      "timestamp": "2026-09-04T18:35:54.665203Z",
+      "timestamp": "2026-09-04T21:05:09.119342Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "MCP server for FIFA World Cup 2026 football, Formula 1, and IPL cricket intelligence tools.",
-      "timestamp": "2026-09-04T18:35:54.665325Z",
+      "timestamp": "2026-09-04T21:05:09.119487Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Borussia Dortmund defender Nico Schlotterbeck has taken to the training field for the first time since sustaining an ankle injury at the 2026 FIFA World Cup. The 26-year-old centre-back suffered an in...",
-      "timestamp": "2026-09-04T18:35:54.665352Z",
+      "timestamp": "2026-09-04T21:05:09.119529Z",
       "links": [
         {
           "label": "Source",
@@ -174,6 +202,36 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 04",
+      "loc": "Global",
+      "event": "USA's Next Generation: 12 Youngsters In The Early Mix For The 2030 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/usas-next-generation-12-youngsters-early-mix-2030-world-cup"
+        }
+      ]
+    },
+    {
+      "date": "Sep 04",
+      "loc": "Global",
+      "event": "2026 World Cup winner announces shock retirement from international football with Spain",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/2026-world-cup-winner-announces-shock-retirement-from-international-football-with-spain/"
+        }
+      ]
+    },
     {
       "date": "Sep 04",
       "loc": "New York / New Jersey",
@@ -220,5 +278,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-04T18:35:54.665855Z"
+  "lastUpdated": "2026-09-04T21:05:09.119747Z"
 }
