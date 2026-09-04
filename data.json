@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 4
+    "p3": 3
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In June 2016, inside MetLife Stadium, Lionel Messi sat devastated after Argentina\u2019s penalty shootout defeat to Chile. He had just ballooned his penalty into the New Jersey night sky, suffered a third consecutive major-final defeat with Argentina, and announce\u2026",
-      "timestamp": "2026-09-04T15:12:08.522295Z",
+      "timestamp": "2026-09-04T18:35:54.665203Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "MCP server for FIFA World Cup 2026 football, Formula 1, and IPL cricket intelligence tools.",
-      "timestamp": "2026-09-04T15:12:08.522403Z",
+      "timestamp": "2026-09-04T18:35:54.665325Z",
       "links": [
         {
           "label": "Source",
@@ -164,25 +164,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Borussia Dortmund defender Nico Schlotterbeck has taken to the training field for the first time since sustaining an ankle injury at the 2026 FIFA World Cup. The 26-year-old centre-back suffered an in...",
-      "timestamp": "2026-09-04T15:12:08.522426Z",
+      "timestamp": "2026-09-04T18:35:54.665352Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.getfootballnewsgermany.com/2026/borussia-dortmund-receive-injury-boost-after-star-defender-returns-to-training/"
-        }
-      ]
-    },
-    {
-      "title": "Soccer fans all make the same Donald Trump joke after Folarin Balogun transfer hitch",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "USMNT star Folarin Balogun\u2019s failed transfer to Everton has fans buzzing with Donald Trump jokes. Folarin Balogun made headlines during the 2026 FIFA World Cup when US President Donald Trump played a role in overturning his red card against Bosnia and Herzego\u2026",
-      "timestamp": "2026-09-04T15:12:08.522713Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/soccer-fans-all-make-the-same-donald-trump-joke-after-folarin-balogun-transfer-hitch/"
         }
       ]
     }
@@ -232,22 +218,7 @@
           "url": "https://www.getfootballnewsgermany.com/2026/borussia-dortmund-receive-injury-boost-after-star-defender-returns-to-training/"
         }
       ]
-    },
-    {
-      "date": "Sep 04",
-      "loc": "Global",
-      "event": "Soccer fans all make the same Donald Trump joke after Folarin Balogun transfer hitch",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/soccer-fans-all-make-the-same-donald-trump-joke-after-folarin-balogun-transfer-hitch/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-04T15:12:08.523014Z"
+  "lastUpdated": "2026-09-04T18:35:54.665855Z"
 }
