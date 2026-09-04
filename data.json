@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 5
+    "p3": 4
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In June 2016, inside MetLife Stadium, Lionel Messi sat devastated after Argentina\u2019s penalty shootout defeat to Chile. He had just ballooned his penalty into the New Jersey night sky, suffered a third consecutive major-final defeat with Argentina, and announce\u2026",
-      "timestamp": "2026-09-03T23:35:52.332904Z",
+      "timestamp": "2026-09-04T01:29:51.354532Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "MCP server for FIFA World Cup 2026 football, Formula 1, and IPL cricket intelligence tools.",
-      "timestamp": "2026-09-03T23:35:52.333001Z",
+      "timestamp": "2026-09-04T01:29:51.354666Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Borussia Dortmund defender Nico Schlotterbeck has taken to the training field for the first time since sustaining an ankle injury at the 2026 FIFA World Cup. The 26-year-old centre-back suffered an in...",
-      "timestamp": "2026-09-03T23:35:52.333023Z",
+      "timestamp": "2026-09-04T01:29:51.354696Z",
       "links": [
         {
           "label": "Source",
@@ -178,32 +178,18 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "USMNT star Folarin Balogun\u2019s failed transfer to Everton has fans buzzing with Donald Trump jokes. Folarin Balogun made headlines during the 2026 FIFA World Cup when US President Donald Trump played a role in overturning his red card against Bosnia and Herzego\u2026",
-      "timestamp": "2026-09-03T23:35:52.333285Z",
+      "timestamp": "2026-09-04T01:29:51.355016Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.hitc.com/soccer-fans-all-make-the-same-donald-trump-joke-after-folarin-balogun-transfer-hitch/"
         }
       ]
-    },
-    {
-      "title": "Chiefs heiress Gracie Hunt wrestles the franchise's attention back from Taylor Swift with engagement party",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Gracie Hunt and fianc\u00e9 Derek celebrated their engagement party at Arrowhead Stadium, the place where the Kansas City Chiefs heiress' love story began.",
-      "timestamp": "2026-09-03T23:35:52.333759Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxnews.com/outkick-sports/chiefs-heiress-gracie-hunt-wrestles-franchises-attention-back-taylor-swift-engagement-party"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Sep 03",
+      "date": "Sep 04",
       "loc": "New York / New Jersey",
       "event": "Lionel Messi Retirement: The 21-Year Argentina Journey From Heartbreak To Glory",
       "type": "News",
@@ -218,7 +204,7 @@
       ]
     },
     {
-      "date": "Sep 03",
+      "date": "Sep 04",
       "loc": "Global",
       "event": "sportiq-mcp 0.3.2",
       "type": "News",
@@ -233,7 +219,7 @@
       ]
     },
     {
-      "date": "Sep 03",
+      "date": "Sep 04",
       "loc": "Global",
       "event": "Borussia Dortmund receive injury boost after star defender returns to training",
       "type": "News",
@@ -248,7 +234,7 @@
       ]
     },
     {
-      "date": "Sep 03",
+      "date": "Sep 04",
       "loc": "Global",
       "event": "Soccer fans all make the same Donald Trump joke after Folarin Balogun transfer hitch",
       "type": "News",
@@ -261,22 +247,7 @@
           "url": "https://www.hitc.com/soccer-fans-all-make-the-same-donald-trump-joke-after-folarin-balogun-transfer-hitch/"
         }
       ]
-    },
-    {
-      "date": "Sep 03",
-      "loc": "Kansas City",
-      "event": "Chiefs heiress Gracie Hunt wrestles the franchise's attention back from Taylor Swift with engagement party",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxnews.com/outkick-sports/chiefs-heiress-gracie-hunt-wrestles-franchises-attention-back-taylor-swift-engagement-party"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-03T23:35:52.333845Z"
+  "lastUpdated": "2026-09-04T01:29:51.355789Z"
 }
