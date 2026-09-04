@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 5
+    "p3": 3
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Left off the USA's 2026 World Cup roster, these 12 Americans are in the early mix for 2030.",
-      "timestamp": "2026-09-04T21:05:09.117914Z",
+      "timestamp": "2026-09-04T23:27:50.328921Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A shocking retirement announcement has rocked the football world, with Spanish star Marcos Llorente announcing his retirement from international football, leaving La Roja fans in disbelief. The 31-year-old announced on social media on Thursday that he is reti\u2026",
-      "timestamp": "2026-09-04T21:05:09.118136Z",
+      "timestamp": "2026-09-04T23:27:50.329158Z",
       "links": [
         {
           "label": "Source",
@@ -164,39 +164,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In June 2016, inside MetLife Stadium, Lionel Messi sat devastated after Argentina\u2019s penalty shootout defeat to Chile. He had just ballooned his penalty into the New Jersey night sky, suffered a third consecutive major-final defeat with Argentina, and announce\u2026",
-      "timestamp": "2026-09-04T21:05:09.119342Z",
+      "timestamp": "2026-09-04T23:27:50.330570Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.stadiumrant.com/lionel-messi-retirement-the-21-year-argentina-journey-from-heartbreak-to-glory/"
-        }
-      ]
-    },
-    {
-      "title": "sportiq-mcp 0.3.2",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "MCP server for FIFA World Cup 2026 football, Formula 1, and IPL cricket intelligence tools.",
-      "timestamp": "2026-09-04T21:05:09.119487Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://pypi.org/project/sportiq-mcp/0.3.2/"
-        }
-      ]
-    },
-    {
-      "title": "Borussia Dortmund receive injury boost after star defender returns to training",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Borussia Dortmund defender Nico Schlotterbeck has taken to the training field for the first time since sustaining an ankle injury at the 2026 FIFA World Cup. The 26-year-old centre-back suffered an in...",
-      "timestamp": "2026-09-04T21:05:09.119529Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.getfootballnewsgermany.com/2026/borussia-dortmund-receive-injury-boost-after-star-defender-returns-to-training/"
         }
       ]
     }
@@ -246,37 +218,7 @@
           "url": "https://www.stadiumrant.com/lionel-messi-retirement-the-21-year-argentina-journey-from-heartbreak-to-glory/"
         }
       ]
-    },
-    {
-      "date": "Sep 04",
-      "loc": "Global",
-      "event": "sportiq-mcp 0.3.2",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://pypi.org/project/sportiq-mcp/0.3.2/"
-        }
-      ]
-    },
-    {
-      "date": "Sep 04",
-      "loc": "Global",
-      "event": "Borussia Dortmund receive injury boost after star defender returns to training",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.getfootballnewsgermany.com/2026/borussia-dortmund-receive-injury-boost-after-star-defender-returns-to-training/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-04T21:05:09.119747Z"
+  "lastUpdated": "2026-09-04T23:27:50.330767Z"
 }
