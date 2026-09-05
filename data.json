@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Lionel Messi gets new Inter Miami teammate who sparked huge backlash during World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "A new teammate has joined Lionel Messi at Inter Miami who created huge outrage among French football fans during the 2026 FIFA World Cup. Midfield star Matias Galarza of Paraguay has joined Inter Miami from Argentinian club River Plate on loan until the end o\u2026",
+      "timestamp": "2026-09-05T01:31:21.696620Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/lionel-messi-gets-new-inter-miami-teammate-who-sparked-huge-backlash-during-world-cup/"
+        }
+      ]
+    },
+    {
       "title": "USA's Next Generation: 12 Youngsters In The Early Mix For The 2030 World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Left off the USA's 2026 World Cup roster, these 12 Americans are in the early mix for 2030.",
-      "timestamp": "2026-09-04T23:27:50.328921Z",
+      "timestamp": "2026-09-05T01:31:21.696817Z",
       "links": [
         {
           "label": "Source",
@@ -150,32 +164,33 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A shocking retirement announcement has rocked the football world, with Spanish star Marcos Llorente announcing his retirement from international football, leaving La Roja fans in disbelief. The 31-year-old announced on social media on Thursday that he is reti\u2026",
-      "timestamp": "2026-09-04T23:27:50.329158Z",
+      "timestamp": "2026-09-05T01:31:21.696988Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.hitc.com/2026-world-cup-winner-announces-shock-retirement-from-international-football-with-spain/"
         }
       ]
-    },
-    {
-      "title": "Lionel Messi Retirement: The 21-Year Argentina Journey From Heartbreak To Glory",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "In June 2016, inside MetLife Stadium, Lionel Messi sat devastated after Argentina\u2019s penalty shootout defeat to Chile. He had just ballooned his penalty into the New Jersey night sky, suffered a third consecutive major-final defeat with Argentina, and announce\u2026",
-      "timestamp": "2026-09-04T23:27:50.330570Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.stadiumrant.com/lionel-messi-retirement-the-21-year-argentina-journey-from-heartbreak-to-glory/"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Sep 04",
+      "date": "Sep 05",
+      "loc": "Global",
+      "event": "Lionel Messi gets new Inter Miami teammate who sparked huge backlash during World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/lionel-messi-gets-new-inter-miami-teammate-who-sparked-huge-backlash-during-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Sep 05",
       "loc": "Global",
       "event": "USA's Next Generation: 12 Youngsters In The Early Mix For The 2030 World Cup",
       "type": "News",
@@ -190,7 +205,7 @@
       ]
     },
     {
-      "date": "Sep 04",
+      "date": "Sep 05",
       "loc": "Global",
       "event": "2026 World Cup winner announces shock retirement from international football with Spain",
       "type": "News",
@@ -203,22 +218,7 @@
           "url": "https://www.hitc.com/2026-world-cup-winner-announces-shock-retirement-from-international-football-with-spain/"
         }
       ]
-    },
-    {
-      "date": "Sep 04",
-      "loc": "New York / New Jersey",
-      "event": "Lionel Messi Retirement: The 21-Year Argentina Journey From Heartbreak To Glory",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.stadiumrant.com/lionel-messi-retirement-the-21-year-argentina-journey-from-heartbreak-to-glory/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-04T23:27:50.330767Z"
+  "lastUpdated": "2026-09-05T01:31:21.698295Z"
 }
