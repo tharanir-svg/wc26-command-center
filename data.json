@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 6
   },
   "watchlist": [
     {
@@ -131,12 +131,54 @@
   ],
   "risks": [
     {
+      "title": "How to watch FIBA Women's Basketball World Cup 2026: FREE live streams, TV channels, schedule",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "All the ways to watch FIBA Women's Basketball World Cup 2026 live streams online \u2013 including for FREE \u2013 with all eyes on Caitlin Clark and Angel Reese.",
+      "timestamp": "2026-09-05T06:21:48.730432Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/how-to-watch/basketball/fiba-womens-basketball-world-cup-2026-free"
+        }
+      ]
+    },
+    {
+      "title": "How Telemundo Retained The Fans They Brought In For The World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "According to Telemundo, one out of every two people who watched the 2026 FIFA World Cup this year tuned into the network\u2019s Spanish-language broadcasts rather than the English-language version on Fox. That level of viewership is a huge feat, considering that H\u2026",
+      "timestamp": "2026-09-05T06:21:48.730538Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.adexchanger.com/ctv-roundup/for-telemundo-marketing-isnt-a-one-way-street-anymore/"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine, Poland explore joint FIFA World Cup bid",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Kyiv hopes to repeat its successful Euro 2012 partnership with Warsaw, according to the country's sports minister.",
+      "timestamp": "2026-09-05T06:21:48.730666Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.politico.eu/article/ukraine-poland-explore-joint-fifa-world-cup-bid/"
+        }
+      ]
+    },
+    {
       "title": "Lionel Messi gets new Inter Miami teammate who sparked huge backlash during World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A new teammate has joined Lionel Messi at Inter Miami who created huge outrage among French football fans during the 2026 FIFA World Cup. Midfield star Matias Galarza of Paraguay has joined Inter Miami from Argentinian club River Plate on loan until the end o\u2026",
-      "timestamp": "2026-09-05T01:31:21.696620Z",
+      "timestamp": "2026-09-05T06:21:48.730825Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Left off the USA's 2026 World Cup roster, these 12 Americans are in the early mix for 2030.",
-      "timestamp": "2026-09-05T01:31:21.696817Z",
+      "timestamp": "2026-09-05T06:21:48.730979Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A shocking retirement announcement has rocked the football world, with Spanish star Marcos Llorente announcing his retirement from international football, leaving La Roja fans in disbelief. The 31-year-old announced on social media on Thursday that he is reti\u2026",
-      "timestamp": "2026-09-05T01:31:21.696988Z",
+      "timestamp": "2026-09-05T06:21:48.731140Z",
       "links": [
         {
           "label": "Source",
@@ -174,6 +216,51 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 05",
+      "loc": "Global",
+      "event": "How to watch FIBA Women's Basketball World Cup 2026: FREE live streams, TV channels, schedule",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/how-to-watch/basketball/fiba-womens-basketball-world-cup-2026-free"
+        }
+      ]
+    },
+    {
+      "date": "Sep 05",
+      "loc": "Global",
+      "event": "How Telemundo Retained The Fans They Brought In For The World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.adexchanger.com/ctv-roundup/for-telemundo-marketing-isnt-a-one-way-street-anymore/"
+        }
+      ]
+    },
+    {
+      "date": "Sep 05",
+      "loc": "Global",
+      "event": "Ukraine, Poland explore joint FIFA World Cup bid",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.politico.eu/article/ukraine-poland-explore-joint-fifa-world-cup-bid/"
+        }
+      ]
+    },
     {
       "date": "Sep 05",
       "loc": "Global",
@@ -220,5 +307,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-05T01:31:21.698295Z"
+  "lastUpdated": "2026-09-05T06:21:48.732268Z"
 }
