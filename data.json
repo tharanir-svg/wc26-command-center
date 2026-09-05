@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "India Vs Panama Friendly Moved To September 25",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "India's international football friendly against Panama in Bengaluru has been advanced by a day to September 25 due to the Bengaluru Marathon. The match at Sree Kanteerava Stadium will be a significant test for the Blue Tigers against a 2026 World Cup particip\u2026",
+      "timestamp": "2026-09-05T18:37:23.417960Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/india-panama-football-friendly-rescheduled-in-bengaluru/20260904.htm"
+        }
+      ]
+    },
+    {
       "title": "How to watch FIBA Women's Basketball World Cup 2026: FREE live streams, TV channels, schedule",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch FIBA Women's Basketball World Cup 2026 live streams online \u2013 including for FREE \u2013 with all eyes on Caitlin Clark and Angel Reese.",
-      "timestamp": "2026-09-05T16:18:50.862069Z",
+      "timestamp": "2026-09-05T18:37:23.418608Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "According to Telemundo, one out of every two people who watched the 2026 FIFA World Cup this year tuned into the network\u2019s Spanish-language broadcasts rather than the English-language version on Fox. That level of viewership is a huge feat, considering that H\u2026",
-      "timestamp": "2026-09-05T16:18:50.862166Z",
+      "timestamp": "2026-09-05T18:37:23.418679Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kyiv hopes to repeat its successful Euro 2012 partnership with Warsaw, according to the country's sports minister.",
-      "timestamp": "2026-09-05T16:18:50.862255Z",
+      "timestamp": "2026-09-05T18:37:23.418756Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A new teammate has joined Lionel Messi at Inter Miami who created huge outrage among French football fans during the 2026 FIFA World Cup. Midfield star Matias Galarza of Paraguay has joined Inter Miami from Argentinian club River Plate on loan until the end o\u2026",
-      "timestamp": "2026-09-05T16:18:50.862411Z",
+      "timestamp": "2026-09-05T18:37:23.418881Z",
       "links": [
         {
           "label": "Source",
@@ -192,30 +206,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Left off the USA's 2026 World Cup roster, these 12 Americans are in the early mix for 2030.",
-      "timestamp": "2026-09-05T16:18:50.862562Z",
+      "timestamp": "2026-09-05T18:37:23.419010Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.foxsports.com/stories/soccer/usas-next-generation-12-youngsters-early-mix-2030-world-cup"
         }
       ]
-    },
-    {
-      "title": "2026 World Cup winner announces shock retirement from international football with Spain",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "A shocking retirement announcement has rocked the football world, with Spanish star Marcos Llorente announcing his retirement from international football, leaving La Roja fans in disbelief. The 31-year-old announced on social media on Thursday that he is reti\u2026",
-      "timestamp": "2026-09-05T16:18:50.862716Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/2026-world-cup-winner-announces-shock-retirement-from-international-football-with-spain/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 05",
+      "loc": "Global",
+      "event": "India Vs Panama Friendly Moved To September 25",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/india-panama-football-friendly-rescheduled-in-bengaluru/20260904.htm"
+        }
+      ]
+    },
     {
       "date": "Sep 05",
       "loc": "Global",
@@ -290,22 +305,7 @@
           "url": "https://www.foxsports.com/stories/soccer/usas-next-generation-12-youngsters-early-mix-2030-world-cup"
         }
       ]
-    },
-    {
-      "date": "Sep 05",
-      "loc": "Global",
-      "event": "2026 World Cup winner announces shock retirement from international football with Spain",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/2026-world-cup-winner-announces-shock-retirement-from-international-football-with-spain/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-05T16:18:50.863030Z"
+  "lastUpdated": "2026-09-05T18:37:23.419243Z"
 }
