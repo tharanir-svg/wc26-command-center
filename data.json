@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 5
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India's international football friendly against Panama in Bengaluru has been advanced by a day to September 25 due to the Bengaluru Marathon. The match at Sree Kanteerava Stadium will be a significant test for the Blue Tigers against a 2026 World Cup particip\u2026",
-      "timestamp": "2026-09-05T18:37:23.417960Z",
+      "timestamp": "2026-09-05T20:45:38.333515Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch FIBA Women's Basketball World Cup 2026 live streams online \u2013 including for FREE \u2013 with all eyes on Caitlin Clark and Angel Reese.",
-      "timestamp": "2026-09-05T18:37:23.418608Z",
+      "timestamp": "2026-09-05T20:45:38.334367Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "According to Telemundo, one out of every two people who watched the 2026 FIFA World Cup this year tuned into the network\u2019s Spanish-language broadcasts rather than the English-language version on Fox. That level of viewership is a huge feat, considering that H\u2026",
-      "timestamp": "2026-09-05T18:37:23.418679Z",
+      "timestamp": "2026-09-05T20:45:38.334453Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Kyiv hopes to repeat its successful Euro 2012 partnership with Warsaw, according to the country's sports minister.",
-      "timestamp": "2026-09-05T18:37:23.418756Z",
+      "timestamp": "2026-09-05T20:45:38.334556Z",
       "links": [
         {
           "label": "Source",
@@ -192,25 +192,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A new teammate has joined Lionel Messi at Inter Miami who created huge outrage among French football fans during the 2026 FIFA World Cup. Midfield star Matias Galarza of Paraguay has joined Inter Miami from Argentinian club River Plate on loan until the end o\u2026",
-      "timestamp": "2026-09-05T18:37:23.418881Z",
+      "timestamp": "2026-09-05T20:45:38.334737Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.hitc.com/lionel-messi-gets-new-inter-miami-teammate-who-sparked-huge-backlash-during-world-cup/"
-        }
-      ]
-    },
-    {
-      "title": "USA's Next Generation: 12 Youngsters In The Early Mix For The 2030 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Left off the USA's 2026 World Cup roster, these 12 Americans are in the early mix for 2030.",
-      "timestamp": "2026-09-05T18:37:23.419010Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/usas-next-generation-12-youngsters-early-mix-2030-world-cup"
         }
       ]
     }
@@ -290,22 +276,7 @@
           "url": "https://www.hitc.com/lionel-messi-gets-new-inter-miami-teammate-who-sparked-huge-backlash-during-world-cup/"
         }
       ]
-    },
-    {
-      "date": "Sep 05",
-      "loc": "Global",
-      "event": "USA's Next Generation: 12 Youngsters In The Early Mix For The 2030 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/usas-next-generation-12-youngsters-early-mix-2030-world-cup"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-05T18:37:23.419243Z"
+  "lastUpdated": "2026-09-05T20:45:38.335115Z"
 }
