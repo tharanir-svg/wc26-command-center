@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 4
+    "p3": 3
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India's international football friendly against Panama in Bengaluru has been advanced by a day to September 25 due to the Bengaluru Marathon. The match at Sree Kanteerava Stadium will be a significant test for the Blue Tigers against a 2026 World Cup particip\u2026",
-      "timestamp": "2026-09-06T05:11:45.972901Z",
+      "timestamp": "2026-09-06T09:44:09.545671Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch FIBA Women's Basketball World Cup 2026 live streams online \u2013 including for FREE \u2013 with all eyes on Caitlin Clark and Angel Reese.",
-      "timestamp": "2026-09-06T05:11:45.973630Z",
+      "timestamp": "2026-09-06T09:44:09.546512Z",
       "links": [
         {
           "label": "Source",
@@ -164,25 +164,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "According to Telemundo, one out of every two people who watched the 2026 FIFA World Cup this year tuned into the network\u2019s Spanish-language broadcasts rather than the English-language version on Fox. That level of viewership is a huge feat, considering that H\u2026",
-      "timestamp": "2026-09-06T05:11:45.973704Z",
+      "timestamp": "2026-09-06T09:44:09.546596Z",
       "links": [
         {
           "label": "Source",
           "url": "http://www.adexchanger.com/ctv-roundup/for-telemundo-marketing-isnt-a-one-way-street-anymore/"
-        }
-      ]
-    },
-    {
-      "title": "Ukraine, Poland explore joint FIFA World Cup bid",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Kyiv hopes to repeat its successful Euro 2012 partnership with Warsaw, according to the country's sports minister.",
-      "timestamp": "2026-09-06T05:11:45.973791Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.politico.eu/article/ukraine-poland-explore-joint-fifa-world-cup-bid/"
         }
       ]
     }
@@ -232,22 +218,7 @@
           "url": "http://www.adexchanger.com/ctv-roundup/for-telemundo-marketing-isnt-a-one-way-street-anymore/"
         }
       ]
-    },
-    {
-      "date": "Sep 06",
-      "loc": "Global",
-      "event": "Ukraine, Poland explore joint FIFA World Cup bid",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.politico.eu/article/ukraine-poland-explore-joint-fifa-world-cup-bid/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-06T05:11:45.973992Z"
+  "lastUpdated": "2026-09-06T09:44:09.546865Z"
 }
