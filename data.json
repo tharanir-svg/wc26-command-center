@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 1
   },
   "watchlist": [
     {
@@ -136,39 +136,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India's international football friendly against Panama in Bengaluru has been advanced by a day to September 25 due to the Bengaluru Marathon. The match at Sree Kanteerava Stadium will be a significant test for the Blue Tigers against a 2026 World Cup particip\u2026",
-      "timestamp": "2026-09-06T09:44:09.545671Z",
+      "timestamp": "2026-09-06T13:12:49.820582Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.rediff.com/sports/report/india-panama-football-friendly-rescheduled-in-bengaluru/20260904.htm"
-        }
-      ]
-    },
-    {
-      "title": "How to watch FIBA Women's Basketball World Cup 2026: FREE live streams, TV channels, schedule",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "All the ways to watch FIBA Women's Basketball World Cup 2026 live streams online \u2013 including for FREE \u2013 with all eyes on Caitlin Clark and Angel Reese.",
-      "timestamp": "2026-09-06T09:44:09.546512Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/how-to-watch/basketball/fiba-womens-basketball-world-cup-2026-free"
-        }
-      ]
-    },
-    {
-      "title": "How Telemundo Retained The Fans They Brought In For The World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "According to Telemundo, one out of every two people who watched the 2026 FIFA World Cup this year tuned into the network\u2019s Spanish-language broadcasts rather than the English-language version on Fox. That level of viewership is a huge feat, considering that H\u2026",
-      "timestamp": "2026-09-06T09:44:09.546596Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.adexchanger.com/ctv-roundup/for-telemundo-marketing-isnt-a-one-way-street-anymore/"
         }
       ]
     }
@@ -188,37 +160,7 @@
           "url": "https://www.rediff.com/sports/report/india-panama-football-friendly-rescheduled-in-bengaluru/20260904.htm"
         }
       ]
-    },
-    {
-      "date": "Sep 06",
-      "loc": "Global",
-      "event": "How to watch FIBA Women's Basketball World Cup 2026: FREE live streams, TV channels, schedule",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/how-to-watch/basketball/fiba-womens-basketball-world-cup-2026-free"
-        }
-      ]
-    },
-    {
-      "date": "Sep 06",
-      "loc": "Global",
-      "event": "How Telemundo Retained The Fans They Brought In For The World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.adexchanger.com/ctv-roundup/for-telemundo-marketing-isnt-a-one-way-street-anymore/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-06T09:44:09.546865Z"
+  "lastUpdated": "2026-09-06T13:12:49.821484Z"
 }
