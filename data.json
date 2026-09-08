@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 2
+    "p3": 3
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Lionel Messi\u2019s Inter Miami teammate Rodrigo De Paul opens up on Argentina retirement",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Inter Miami's Rodrigo De Paul shared his feelings on Lionel Messi's retirement from Argentina national team. \nLionel Messi\u2018s retirement announcement from international soccer sent shockwaves through Argentina following the team\u2019s 2026 World Cup final defeat. \u2026",
+      "timestamp": "2026-09-08T01:33:28.366939Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/lionel-messis-inter-miami-teammate-rodrigo-de-paul-opens-up-on-argentina-retirement/"
+        }
+      ]
+    },
+    {
       "title": "NFL has grand expectations for SoFi Stadium's first 'full-on' Super Bowl",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In February 2027, SoFi Stadium will play host to Super Bowl LXI, and the NFL is excited about the possibilities after the stadium's first Super Bowl was limited by COVID restrictions.",
-      "timestamp": "2026-09-07T23:04:09.616846Z",
+      "timestamp": "2026-09-08T01:33:28.367522Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By Ari LiljenwallThe MLS Secondary Transfer Window is over, and with it came 12 signings who competed at the 2026 FIFA World Cup this summer.From new Designated Players to familiar names, here's the f...",
-      "timestamp": "2026-09-07T23:04:09.617156Z",
+      "timestamp": "2026-09-08T01:33:28.367800Z",
       "links": [
         {
           "label": "Source",
@@ -161,7 +175,22 @@
   ],
   "timeline": [
     {
-      "date": "Sep 07",
+      "date": "Sep 08",
+      "loc": "Global",
+      "event": "Lionel Messi\u2019s Inter Miami teammate Rodrigo De Paul opens up on Argentina retirement",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/lionel-messis-inter-miami-teammate-rodrigo-de-paul-opens-up-on-argentina-retirement/"
+        }
+      ]
+    },
+    {
+      "date": "Sep 08",
       "loc": "Los Angeles",
       "event": "NFL has grand expectations for SoFi Stadium's first 'full-on' Super Bowl",
       "type": "News",
@@ -176,7 +205,7 @@
       ]
     },
     {
-      "date": "Sep 07",
+      "date": "Sep 08",
       "loc": "Global",
       "event": "World Cup to MLS: 12 summer signings you need to know",
       "type": "News",
@@ -191,5 +220,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-07T23:04:09.617986Z"
+  "lastUpdated": "2026-09-08T01:33:28.368614Z"
 }
