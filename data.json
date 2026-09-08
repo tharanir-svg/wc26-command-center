@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 4
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Official 2026 FIFA World Cup 30\u2032\u2032X60\u2032\u2032 Emblem Black Velvet Towel For $6.60 From Amazon",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "30\u2032\u2032X60\u2032\u2032 Official 2026 FIFA World Cup Emblem Black Velvet Towel For $11 From Amazon -Clip the $4.40 off coupon on the product page. OFFICIALLY AUTHORIZED FIFA 2026 EDITION COLLECTABLE \u2013 Help us Celebrate the largest FIFA World Cup ever, hosted across the USA\u2026",
+      "timestamp": "2026-09-08T22:03:37.964967Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dansdeals.com/shopping-deals/amazon/official-2026-fifa-world-cup-30\u2032\u2032x60\u2032\u2032-emblem-black-velvet-towel-for-6-60-from-amazon/"
+        }
+      ]
+    },
+    {
       "title": "Lionel Messi\u2019s Inter Miami teammate Rodrigo De Paul opens up on Argentina retirement",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Inter Miami's Rodrigo De Paul shared his feelings on Lionel Messi's retirement from Argentina national team. \nLionel Messi\u2018s retirement announcement from international soccer sent shockwaves through Argentina following the team\u2019s 2026 World Cup final defeat. \u2026",
-      "timestamp": "2026-09-08T19:01:22.809599Z",
+      "timestamp": "2026-09-08T22:03:37.965546Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In February 2027, SoFi Stadium will play host to Super Bowl LXI, and the NFL is excited about the possibilities after the stadium's first Super Bowl was limited by COVID restrictions.",
-      "timestamp": "2026-09-08T19:01:22.810197Z",
+      "timestamp": "2026-09-08T22:03:37.966088Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By Ari LiljenwallThe MLS Secondary Transfer Window is over, and with it came 12 signings who competed at the 2026 FIFA World Cup this summer.From new Designated Players to familiar names, here's the f...",
-      "timestamp": "2026-09-08T19:01:22.810483Z",
+      "timestamp": "2026-09-08T22:03:37.966355Z",
       "links": [
         {
           "label": "Source",
@@ -174,6 +188,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 08",
+      "loc": "Global",
+      "event": "Official 2026 FIFA World Cup 30\u2032\u2032X60\u2032\u2032 Emblem Black Velvet Towel For $6.60 From Amazon",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dansdeals.com/shopping-deals/amazon/official-2026-fifa-world-cup-30\u2032\u2032x60\u2032\u2032-emblem-black-velvet-towel-for-6-60-from-amazon/"
+        }
+      ]
+    },
     {
       "date": "Sep 08",
       "loc": "Global",
@@ -220,5 +249,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-08T19:01:22.810823Z"
+  "lastUpdated": "2026-09-08T22:03:37.966615Z"
 }
