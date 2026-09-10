@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 5
+    "p3": 6
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Fans Are Loving Jameis Winston\u2019s New Ad Inspired by Giants QB\u2019s Controversial Past",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Jameis Winston is never not a fun person. The New York Giants quarterback has turned a lot of heads in the NFL offseason, especially during his time as a reporter for the 2026 FIFA World Cup. And just days before the Giants kick off their 2026 NFL campaign, W\u2026",
+      "timestamp": "2026-09-10T15:16:14.726709Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/fans-loving-jameis-winston-ad-130243458.html"
+        }
+      ]
+    },
+    {
       "title": "How to Watch the 2026 FIFA U-20 Women's World Cup Live Without Cable (Even for Free)",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Can't get enough competitive soccer? Don't miss a second of the action from the U-20 Women's World Cup, happening now. Here's how to tune in.\nThis summer, the footballing community came together for the 2026 FIFA World Cup. For an entire month this summer, mi\u2026",
-      "timestamp": "2026-09-10T11:53:32.768966Z",
+      "timestamp": "2026-09-10T15:16:14.726882Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "France Football revealed this Tuesday (8) the nominees for the 2026 Ballon d'Or.After a great FIFA World Cup, Lionel Messi will once again compete for the award he has won 8 times.Vin\u00edcius J\u00fanior wi...",
-      "timestamp": "2026-09-10T11:53:32.769644Z",
+      "timestamp": "2026-09-10T15:16:14.727528Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Just days after finishing up with the 2026 FIFA World Cup in Mexico, Canada, and the USA , Erling Haaland underwent a major physical transformation . Now sporting a shaved head and a different look, Haaland is underway the 2026-2027 Premier League season. Als\u2026",
-      "timestamp": "2026-09-10T11:53:32.769757Z",
+      "timestamp": "2026-09-10T15:16:14.727635Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The much-anticipated 2026 Ballon d'Or ceremony is set to take place in London on October 26. This esteemed award will recognize outstanding performances spanning from August 2025 to July 2026. The forthcoming FIFA World Cup, hosted in North America, is expect\u2026",
-      "timestamp": "2026-09-10T11:53:32.769792Z",
+      "timestamp": "2026-09-10T15:16:14.727669Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Noahkai Banks is one player that many U.S. Men\u2019s National Team fans were hoping to see at the 2026 FIFA World Cup and although Banks hasn\u2019t committed his future yet on the international level, U.S. Soccer has stayed in contact with him and many others. USMNT \u2026",
-      "timestamp": "2026-09-10T11:53:32.769844Z",
+      "timestamp": "2026-09-10T15:16:14.727724Z",
       "links": [
         {
           "label": "Source",
@@ -202,6 +216,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 10",
+      "loc": "Global",
+      "event": "Fans Are Loving Jameis Winston\u2019s New Ad Inspired by Giants QB\u2019s Controversial Past",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/fans-loving-jameis-winston-ad-130243458.html"
+        }
+      ]
+    },
     {
       "date": "Sep 10",
       "loc": "Global",
@@ -278,5 +307,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-10T11:53:32.770611Z"
+  "lastUpdated": "2026-09-10T15:16:14.728288Z"
 }
