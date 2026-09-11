@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 4
+    "p3": 3
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "While including Raphinha and leaving Neymar and Casemiro out, head coach Carlo Ancelotti has dropped a total of 15 players from his 2026 World Cup squad for the upcoming international window. \nCarlo Ancelotti has initiated the blueprint for his second World C\u2026",
-      "timestamp": "2026-09-11T01:35:21.763778Z",
+      "timestamp": "2026-09-11T06:40:57.744718Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jameis Winston is never not a fun person. The New York Giants quarterback has turned a lot of heads in the NFL offseason, especially during his time as a reporter for the 2026 FIFA World Cup. And just days before the Giants kick off their 2026 NFL campaign, W\u2026",
-      "timestamp": "2026-09-11T01:35:21.764528Z",
+      "timestamp": "2026-09-11T06:40:57.745567Z",
       "links": [
         {
           "label": "Source",
@@ -164,25 +164,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Can't get enough competitive soccer? Don't miss a second of the action from the U-20 Women's World Cup, happening now. Here's how to tune in.\nThis summer, the footballing community came together for the 2026 FIFA World Cup. For an entire month this summer, mi\u2026",
-      "timestamp": "2026-09-11T01:35:21.764686Z",
+      "timestamp": "2026-09-11T06:40:57.745722Z",
       "links": [
         {
           "label": "Source",
           "url": "https://uk.pcmag.com/video-streaming-services/167154/how-to-watch-the-2026-fifa-u-20-womens-world-cup-live-without-cable-even-for-free"
-        }
-      ]
-    },
-    {
-      "title": "Vini and Messi in the mix! See the Ballon d'Or 2026 nominees \ufe0f",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "France Football revealed this Tuesday (8) the nominees for the 2026 Ballon d'Or.After a great FIFA World Cup, Lionel Messi will once again compete for the award he has won 8 times.Vin\u00edcius J\u00fanior wi...",
-      "timestamp": "2026-09-11T01:35:21.765317Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/vini-and-messi-in-the-mix-see-the-ballon-dor-2026-nominees-43423447"
         }
       ]
     }
@@ -232,22 +218,7 @@
           "url": "https://uk.pcmag.com/video-streaming-services/167154/how-to-watch-the-2026-fifa-u-20-womens-world-cup-live-without-cable-even-for-free"
         }
       ]
-    },
-    {
-      "date": "Sep 11",
-      "loc": "Global",
-      "event": "Vini and Messi in the mix! See the Ballon d'Or 2026 nominees \ufe0f",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/vini-and-messi-in-the-mix-see-the-ballon-dor-2026-nominees-43423447"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-11T01:35:21.765451Z"
+  "lastUpdated": "2026-09-11T06:40:57.746391Z"
 }
