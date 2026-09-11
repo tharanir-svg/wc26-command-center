@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 4
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "\u2018Our President\u2026\u2019 Mauricio Pochettino reflects on \u2018very supportive\u2019 conversation with Donald Trump",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Mauricio Pochettino gave his thoughts on Donald Trump and how interacting with the President of the United States was as an experience. Trump was a very involved figure during the 2026 FIFA World Cup, going out of his way to help the USMNT at the tournament.",
+      "timestamp": "2026-09-11T11:51:51.825990Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/our-president-mauricio-pochettino-reflects-on-very-supportive-conversation-with-donald-trump/"
+        }
+      ]
+    },
+    {
       "title": "Neymar and Casemiro out, Raphinha in: Carlo Ancelotti drops 15 players from Brazil\u2019s 2026 World Cup squad for rebuild",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "While including Raphinha and leaving Neymar and Casemiro out, head coach Carlo Ancelotti has dropped a total of 15 players from his 2026 World Cup squad for the upcoming international window. \nCarlo Ancelotti has initiated the blueprint for his second World C\u2026",
-      "timestamp": "2026-09-11T06:40:57.744718Z",
+      "timestamp": "2026-09-11T11:51:51.826306Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Jameis Winston is never not a fun person. The New York Giants quarterback has turned a lot of heads in the NFL offseason, especially during his time as a reporter for the 2026 FIFA World Cup. And just days before the Giants kick off their 2026 NFL campaign, W\u2026",
-      "timestamp": "2026-09-11T06:40:57.745567Z",
+      "timestamp": "2026-09-11T11:51:51.827066Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Can't get enough competitive soccer? Don't miss a second of the action from the U-20 Women's World Cup, happening now. Here's how to tune in.\nThis summer, the footballing community came together for the 2026 FIFA World Cup. For an entire month this summer, mi\u2026",
-      "timestamp": "2026-09-11T06:40:57.745722Z",
+      "timestamp": "2026-09-11T11:51:51.827219Z",
       "links": [
         {
           "label": "Source",
@@ -174,6 +188,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 11",
+      "loc": "Global",
+      "event": "\u2018Our President\u2026\u2019 Mauricio Pochettino reflects on \u2018very supportive\u2019 conversation with Donald Trump",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hitc.com/our-president-mauricio-pochettino-reflects-on-very-supportive-conversation-with-donald-trump/"
+        }
+      ]
+    },
     {
       "date": "Sep 11",
       "loc": "Global",
@@ -220,5 +249,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-11T06:40:57.746391Z"
+  "lastUpdated": "2026-09-11T11:51:51.827666Z"
 }
