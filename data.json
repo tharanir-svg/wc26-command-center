@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 1,
-    "p3": 2
+    "p3": 1
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Rookie star Caleb Downs is going to have a lot of eyes on him when he takes the field at AT&T Stadium this season. But the young gun did not have to wait long to find out the venue\u2019s flaws.",
-      "timestamp": "2026-09-12T14:26:24.756415Z",
+      "timestamp": "2026-09-12T17:28:10.106038Z",
       "links": [
         {
           "label": "Source",
@@ -150,25 +150,11 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Brentford striker Igor Thiago led the line for Brazil as Carlo Ancelotti\u2019s side began their 2026 FIFA World Cup campaign with a 1-1 draw against Morocco in New York.The Bees no.9 was named in the st...",
-      "timestamp": "2026-09-12T14:26:24.757326Z",
+      "timestamp": "2026-09-12T17:28:10.107066Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.brentfordfc.com/en/news/article/international-igor-thiago-brazil-1-morocco-1-group-c-2026-fifa-world-cup"
-        }
-      ]
-    },
-    {
-      "title": "\u2018Our President\u2026\u2019 Mauricio Pochettino reflects on \u2018very supportive\u2019 conversation with Donald Trump",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Mauricio Pochettino gave his thoughts on Donald Trump and how interacting with the President of the United States was as an experience. Trump was a very involved figure during the 2026 FIFA World Cup, going out of his way to help the USMNT at the tournament.",
-      "timestamp": "2026-09-12T14:26:24.757827Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/our-president-mauricio-pochettino-reflects-on-very-supportive-conversation-with-donald-trump/"
         }
       ]
     }
@@ -203,22 +189,7 @@
           "url": "https://www.brentfordfc.com/en/news/article/international-igor-thiago-brazil-1-morocco-1-group-c-2026-fifa-world-cup"
         }
       ]
-    },
-    {
-      "date": "Sep 12",
-      "loc": "Global",
-      "event": "\u2018Our President\u2026\u2019 Mauricio Pochettino reflects on \u2018very supportive\u2019 conversation with Donald Trump",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/our-president-mauricio-pochettino-reflects-on-very-supportive-conversation-with-donald-trump/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-12T14:26:24.757953Z"
+  "lastUpdated": "2026-09-12T17:28:10.107481Z"
 }
