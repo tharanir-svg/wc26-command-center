@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 1
+    "p3": 2
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Chiefs Owner Hints at Major Identity Change as Franchise Prepares to Leave Arrowhead After 54 years",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The Kansas City Chiefs are embarking on a dramatic chapter in franchise history by leaving the storied Arrowhead Stadium behind after 54 seasons and moving to a brand-new, domed venue in Wyandotte County, Kansas. This is not the only thing that is changing fo\u2026",
+      "timestamp": "2026-09-13T12:21:29.594388Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/chiefs-owner-hints-major-identity-110442520.html"
+        }
+      ]
+    },
+    {
       "title": "\u201cThis Is Bad\u201d: CeeDee Lamb Sounds Alarm for Caleb Downs Over Major Cowboys Stadium Issue",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Rookie star Caleb Downs is going to have a lot of eyes on him when he takes the field at AT&T Stadium this season. But the young gun did not have to wait long to find out the venue\u2019s flaws.",
-      "timestamp": "2026-09-13T06:50:01.387236Z",
+      "timestamp": "2026-09-13T12:21:29.595321Z",
       "links": [
         {
           "label": "Source",
@@ -146,6 +160,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 13",
+      "loc": "Kansas City",
+      "event": "Chiefs Owner Hints at Major Identity Change as Franchise Prepares to Leave Arrowhead After 54 years",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/chiefs-owner-hints-major-identity-110442520.html"
+        }
+      ]
+    },
     {
       "date": "Sep 13",
       "loc": "Global",
@@ -162,5 +191,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-13T06:50:01.388042Z"
+  "lastUpdated": "2026-09-13T12:21:29.596154Z"
 }
