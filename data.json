@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 1
+    "p3": 2
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "How Soccer.com\u2019s World Cup lift could extend to Cyber 5",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Months after the 2026 FIFA World Cup final \u2014 the event with the biggest impact on Soccer.com sales \u2014 the retailer is planning for the Cyber 5. The five-day period from Thanksgiving through Cyber Monday generates traffic increases for the retailer, as do other\u2026",
+      "timestamp": "2026-09-15T12:15:57.527442Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.digitalcommerce360.com/2026/09/14/soccer-com-cyber-5-peak-sales/"
+        }
+      ]
+    },
+    {
       "title": "Chiefs Owner Hints at Major Identity Change as Franchise Prepares to Leave Arrowhead After 54 years",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Kansas City Chiefs are embarking on a dramatic chapter in franchise history by leaving the storied Arrowhead Stadium behind after 54 seasons and moving to a brand-new, domed venue in Wyandotte County, Kansas. This is not the only thing that is changing fo\u2026",
-      "timestamp": "2026-09-15T06:49:04.702244Z",
+      "timestamp": "2026-09-15T12:15:57.528958Z",
       "links": [
         {
           "label": "Source",
@@ -146,6 +160,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 15",
+      "loc": "Global",
+      "event": "How Soccer.com\u2019s World Cup lift could extend to Cyber 5",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.digitalcommerce360.com/2026/09/14/soccer-com-cyber-5-peak-sales/"
+        }
+      ]
+    },
     {
       "date": "Sep 15",
       "loc": "Kansas City",
@@ -162,5 +191,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-15T06:49:04.702928Z"
+  "lastUpdated": "2026-09-15T12:15:57.529358Z"
 }
