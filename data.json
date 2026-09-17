@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 1
   },
   "watchlist": [
     {
@@ -136,39 +136,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The United States will start its Concacaf Nations League journey at the quarterfinal stage in November.",
-      "timestamp": "2026-09-17T12:15:01.171903Z",
+      "timestamp": "2026-09-17T17:18:36.189618Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.usatoday.com/story/sports/soccer/usmnt/2026/09/15/usmnt-concacaf-nations-league-home-match-location/91774999007/"
-        }
-      ]
-    },
-    {
-      "title": "adidas Fall Kickoff Men's Accessories Deals: Up to 60% off + extra 15% off + Free shipping",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Promo code \"DN15\" takes an extra 15% off men's accessories at adidas, stacking on top of markdowns already reaching 60% off on items like the FIFA World Cup 26 Trionda Pro Ball, the official match ball of the 2026 tournament. We've pictured the adidas Creator\u2026",
-      "timestamp": "2026-09-17T12:15:01.172221Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/adidas-Fall-Kickoff-Mens-Accessories-Deals-Up-to-60-off-extra-15-off-Free-shipping/22184832.html"
-        }
-      ]
-    },
-    {
-      "title": "How LA28 Will Turn Sofi Stadium Into Swimming\u2019s Biggest Stage",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "From FIFA World Cup soccer to two Olympic-size swimming pools and the LA28 Opening Ceremony, Otto Benedict and his team will transform SoFi Stadium.",
-      "timestamp": "2026-09-17T12:15:01.172322Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/timgenske/2026/09/15/how-la28-will-turn-sofi-stadium-into-swimmings-biggest-stage/"
         }
       ]
     }
@@ -188,37 +160,7 @@
           "url": "https://www.usatoday.com/story/sports/soccer/usmnt/2026/09/15/usmnt-concacaf-nations-league-home-match-location/91774999007/"
         }
       ]
-    },
-    {
-      "date": "Sep 17",
-      "loc": "Global",
-      "event": "adidas Fall Kickoff Men's Accessories Deals: Up to 60% off + extra 15% off + Free shipping",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/adidas-Fall-Kickoff-Mens-Accessories-Deals-Up-to-60-off-extra-15-off-Free-shipping/22184832.html"
-        }
-      ]
-    },
-    {
-      "date": "Sep 17",
-      "loc": "Los Angeles",
-      "event": "How LA28 Will Turn Sofi Stadium Into Swimming\u2019s Biggest Stage",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.forbes.com/sites/timgenske/2026/09/15/how-la28-will-turn-sofi-stadium-into-swimmings-biggest-stage/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-17T12:15:01.172760Z"
+  "lastUpdated": "2026-09-17T17:18:36.189976Z"
 }
