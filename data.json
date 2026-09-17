@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 5
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The United States will start its Concacaf Nations League journey at the quarterfinal stage in November.",
-      "timestamp": "2026-09-16T23:18:01.160271Z",
+      "timestamp": "2026-09-17T01:54:15.249705Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Promo code \"DN15\" takes an extra 15% off men's accessories at adidas, stacking on top of markdowns already reaching 60% off on items like the FIFA World Cup 26 Trionda Pro Ball, the official match ball of the 2026 tournament. We've pictured the adidas Creator\u2026",
-      "timestamp": "2026-09-16T23:18:01.160569Z",
+      "timestamp": "2026-09-17T01:54:15.250170Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "From FIFA World Cup soccer to two Olympic-size swimming pools and the LA28 Opening Ceremony, Otto Benedict and his team will transform SoFi Stadium.",
-      "timestamp": "2026-09-16T23:18:01.160681Z",
+      "timestamp": "2026-09-17T01:54:15.250329Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With the 2030 FIFA World Cup cycle almost upon us, here\u2019s my best educated guess for the U.S. men's national team roster.",
-      "timestamp": "2026-09-16T23:18:01.161233Z",
+      "timestamp": "2026-09-17T01:54:15.251204Z",
       "links": [
         {
           "label": "Source",
@@ -192,32 +192,18 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Arsenal icon Patrick Vieira has been appointed as the new head coach of Senegal after the Lions let go of Pape Thiaw following their FIFA World Cup Round of 32 exit",
-      "timestamp": "2026-09-16T23:18:01.161287Z",
+      "timestamp": "2026-09-17T01:54:15.251279Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.alloutsoccer.com/news/arsenal-patrick-vieira-senegal-statement-2024403"
         }
       ]
-    },
-    {
-      "title": "Estadio AKRON Receives Commemorative Plaque for the 2026 FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The World Cup chapter at Estadio AKRON came to a golden close this Monday with the unveiling of a commemorative plaque recognizing the Casa de los Mexicanos as a host venue for the 2026 FIFA World Cup...",
-      "timestamp": "2026-09-16T23:18:01.161326Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://ncache.chivasdecorazon.com.mx/es/noticias/41449/El-Estadio-AKRON-recibi-la-placa-conmemorativa-por-la-Copa-Mundial-de-la-FIFA-2026"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Sep 16",
+      "date": "Sep 17",
       "loc": "Global",
       "event": "Site revealed for USMNT's first official match after 2026 World Cup",
       "type": "News",
@@ -232,7 +218,7 @@
       ]
     },
     {
-      "date": "Sep 16",
+      "date": "Sep 17",
       "loc": "Global",
       "event": "adidas Fall Kickoff Men's Accessories Deals: Up to 60% off + extra 15% off + Free shipping",
       "type": "News",
@@ -247,7 +233,7 @@
       ]
     },
     {
-      "date": "Sep 16",
+      "date": "Sep 17",
       "loc": "Los Angeles",
       "event": "How LA28 Will Turn Sofi Stadium Into Swimming\u2019s Biggest Stage",
       "type": "News",
@@ -262,7 +248,7 @@
       ]
     },
     {
-      "date": "Sep 16",
+      "date": "Sep 17",
       "loc": "Global",
       "event": "USA Roster Prediction: Will Christian Pulisic Make The First Post-World Cup Roster?",
       "type": "News",
@@ -277,7 +263,7 @@
       ]
     },
     {
-      "date": "Sep 16",
+      "date": "Sep 17",
       "loc": "Global",
       "event": "Arsenal icon Patrick Vieira releases statement after being appointed national team boss",
       "type": "News",
@@ -290,22 +276,7 @@
           "url": "https://www.alloutsoccer.com/news/arsenal-patrick-vieira-senegal-statement-2024403"
         }
       ]
-    },
-    {
-      "date": "Sep 16",
-      "loc": "Global",
-      "event": "Estadio AKRON Receives Commemorative Plaque for the 2026 FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://ncache.chivasdecorazon.com.mx/es/noticias/41449/El-Estadio-AKRON-recibi-la-placa-conmemorativa-por-la-Copa-Mundial-de-la-FIFA-2026"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-16T23:18:01.161508Z"
+  "lastUpdated": "2026-09-17T01:54:15.251458Z"
 }
