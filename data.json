@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 2
+    "p3": 5
   },
   "watchlist": [
     {
@@ -131,12 +131,54 @@
   ],
   "risks": [
     {
+      "title": "Sullivan, Hall, Albert headline USMNT roster for September-October friendlies",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The U.S. Men\u2019s National Team\u2019s first post-FIFA World Cup roster has been revealed with Mauricio Pochettino rewarding several of MLS\u2019 top young talents.\u00a0 Cavan Sullivan, Julian Hall, and Mathis Albert headlined Pochettino\u2019s 28-player roster for September and O\u2026",
+      "timestamp": "2026-09-18T15:15:18.689351Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sbisoccer.com/2026/09/sullivan-hall-albert-headline-usmnt-roster-for-september-october-friendlies"
+        }
+      ]
+    },
+    {
+      "title": "The 2027 FIVB Women's Volleyball World Cup American Host Cities Revealed",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Omaha, Nebraska and Orlando, Florida Will Host Pool Play, With Anaheim, California Hosting the Quarterfinal, Semifinal, and Final Matches LAUSANNE, Switzerland, Sept. 17, 2026 /PRNewswire/ -- The FIVB today revealed the American host cities and venues for the\u2026",
+      "timestamp": "2026-09-18T15:15:18.689407Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/the-2027-fivb-womens-volleyball-world-cup-american-host-cities-revealed-302882137.html"
+        }
+      ]
+    },
+    {
+      "title": "When does Thomas Tuchel name his England squad for the Nations League?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Thomas Tuchel will name his England squad for the autumn internationals on Friday morning.Tuchel will name his first England squad since a semi-final exit at the 2026 World Cup in the summer, as the T...",
+      "timestamp": "2026-09-18T15:15:18.689512Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.footballmuse.com/news/when-does-thomas-tuchel-name-his-england-squad-for-the-nations-league"
+        }
+      ]
+    },
+    {
       "title": "Joao Pedro suffers injury setback ahead of Brazil return following Ancelotti\u2019s 2026 World Cup snub",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Expected to return after being excluded from the 2026 World Cup roster by Carlo Ancelotti, Joao Pedro won't be able to make a return to the Brazil national team due to an injury. \nJoao Pedro was poised to become a cornerstone of Brazil\u2018s generational transiti\u2026",
-      "timestamp": "2026-09-18T11:54:55.632846Z",
+      "timestamp": "2026-09-18T15:15:18.690402Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "US investor Deelip Mhaske denies forging documents in FIFA World Cup 2026 India media rights bid; FIR filed after due diligence flagged unverifiable papers.",
-      "timestamp": "2026-09-18T11:54:55.632960Z",
+      "timestamp": "2026-09-18T15:15:18.690497Z",
       "links": [
         {
           "label": "Source",
@@ -160,6 +202,51 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 18",
+      "loc": "Global",
+      "event": "Sullivan, Hall, Albert headline USMNT roster for September-October friendlies",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sbisoccer.com/2026/09/sullivan-hall-albert-headline-usmnt-roster-for-september-october-friendlies"
+        }
+      ]
+    },
+    {
+      "date": "Sep 18",
+      "loc": "Global",
+      "event": "The 2027 FIVB Women's Volleyball World Cup American Host Cities Revealed",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/the-2027-fivb-womens-volleyball-world-cup-american-host-cities-revealed-302882137.html"
+        }
+      ]
+    },
+    {
+      "date": "Sep 18",
+      "loc": "Global",
+      "event": "When does Thomas Tuchel name his England squad for the Nations League?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.footballmuse.com/news/when-does-thomas-tuchel-name-his-england-squad-for-the-nations-league"
+        }
+      ]
+    },
     {
       "date": "Sep 18",
       "loc": "Global",
@@ -191,5 +278,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-18T11:54:55.633883Z"
+  "lastUpdated": "2026-09-18T15:15:18.691065Z"
 }
