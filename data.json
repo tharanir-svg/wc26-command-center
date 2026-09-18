@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 5
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "As fans tune in to see the U.S. men's national team compete in official matches for the first time since the 2026 FIFA World Cup, a number of new faces will be present, while many familiar faces are absent from the USMNT group.",
-      "timestamp": "2026-09-18T21:18:01.235352Z",
+      "timestamp": "2026-09-18T23:40:21.146417Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "USMNT coach Mauricio Pochettino unveils roster for fall friendlies, including 16-year-old Cavan Sullivan.",
-      "timestamp": "2026-09-18T21:18:01.235405Z",
+      "timestamp": "2026-09-18T23:40:21.146461Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The U.S. Men\u2019s National Team\u2019s first post-FIFA World Cup roster has been revealed with Mauricio Pochettino rewarding several of MLS\u2019 top young talents.\u00a0 Cavan Sullivan, Julian Hall, and Mathis Albert headlined Pochettino\u2019s 28-player roster for September and O\u2026",
-      "timestamp": "2026-09-18T21:18:01.235737Z",
+      "timestamp": "2026-09-18T23:40:21.146782Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Omaha, Nebraska and Orlando, Florida Will Host Pool Play, With Anaheim, California Hosting the Quarterfinal, Semifinal, and Final Matches LAUSANNE, Switzerland, Sept. 17, 2026 /PRNewswire/ -- The FIVB today revealed the American host cities and venues for the\u2026",
-      "timestamp": "2026-09-18T21:18:01.235776Z",
+      "timestamp": "2026-09-18T23:40:21.146816Z",
       "links": [
         {
           "label": "Source",
@@ -192,25 +192,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Thomas Tuchel will name his England squad for the autumn internationals on Friday morning.Tuchel will name his first England squad since a semi-final exit at the 2026 World Cup in the summer, as the T...",
-      "timestamp": "2026-09-18T21:18:01.235885Z",
+      "timestamp": "2026-09-18T23:40:21.146919Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.footballmuse.com/news/when-does-thomas-tuchel-name-his-england-squad-for-the-nations-league"
-        }
-      ]
-    },
-    {
-      "title": "Joao Pedro suffers injury setback ahead of Brazil return following Ancelotti\u2019s 2026 World Cup snub",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Expected to return after being excluded from the 2026 World Cup roster by Carlo Ancelotti, Joao Pedro won't be able to make a return to the Brazil national team due to an injury. \nJoao Pedro was poised to become a cornerstone of Brazil\u2018s generational transiti\u2026",
-      "timestamp": "2026-09-18T21:18:01.236909Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/joao-pedro-suffers-injury-setback-ahead-of-brazil-return-following-ancelottis-2026-world-cup-snub/"
         }
       ]
     }
@@ -290,22 +276,7 @@
           "url": "https://www.footballmuse.com/news/when-does-thomas-tuchel-name-his-england-squad-for-the-nations-league"
         }
       ]
-    },
-    {
-      "date": "Sep 18",
-      "loc": "Global",
-      "event": "Joao Pedro suffers injury setback ahead of Brazil return following Ancelotti\u2019s 2026 World Cup snub",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/joao-pedro-suffers-injury-setback-ahead-of-brazil-return-following-ancelottis-2026-world-cup-snub/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-18T21:18:01.237094Z"
+  "lastUpdated": "2026-09-18T23:40:21.147995Z"
 }
