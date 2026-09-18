@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 7
+    "p3": 6
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "As fans tune in to see the U.S. men's national team compete in official matches for the first time since the 2026 FIFA World Cup, a number of new faces will be present, while many familiar faces are absent from the USMNT group.",
-      "timestamp": "2026-09-18T18:39:55.178206Z",
+      "timestamp": "2026-09-18T21:18:01.235352Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "USMNT coach Mauricio Pochettino unveils roster for fall friendlies, including 16-year-old Cavan Sullivan.",
-      "timestamp": "2026-09-18T18:39:55.178273Z",
+      "timestamp": "2026-09-18T21:18:01.235405Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The U.S. Men\u2019s National Team\u2019s first post-FIFA World Cup roster has been revealed with Mauricio Pochettino rewarding several of MLS\u2019 top young talents.\u00a0 Cavan Sullivan, Julian Hall, and Mathis Albert headlined Pochettino\u2019s 28-player roster for September and O\u2026",
-      "timestamp": "2026-09-18T18:39:55.178585Z",
+      "timestamp": "2026-09-18T21:18:01.235737Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Omaha, Nebraska and Orlando, Florida Will Host Pool Play, With Anaheim, California Hosting the Quarterfinal, Semifinal, and Final Matches LAUSANNE, Switzerland, Sept. 17, 2026 /PRNewswire/ -- The FIVB today revealed the American host cities and venues for the\u2026",
-      "timestamp": "2026-09-18T18:39:55.178618Z",
+      "timestamp": "2026-09-18T21:18:01.235776Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Thomas Tuchel will name his England squad for the autumn internationals on Friday morning.Tuchel will name his first England squad since a semi-final exit at the 2026 World Cup in the summer, as the T...",
-      "timestamp": "2026-09-18T18:39:55.178718Z",
+      "timestamp": "2026-09-18T21:18:01.235885Z",
       "links": [
         {
           "label": "Source",
@@ -206,25 +206,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Expected to return after being excluded from the 2026 World Cup roster by Carlo Ancelotti, Joao Pedro won't be able to make a return to the Brazil national team due to an injury. \nJoao Pedro was poised to become a cornerstone of Brazil\u2018s generational transiti\u2026",
-      "timestamp": "2026-09-18T18:39:55.179596Z",
+      "timestamp": "2026-09-18T21:18:01.236909Z",
       "links": [
         {
           "label": "Source",
           "url": "https://worldsoccertalk.com/news/joao-pedro-suffers-injury-setback-ahead-of-brazil-return-following-ancelottis-2026-world-cup-snub/"
-        }
-      ]
-    },
-    {
-      "title": "FIFA media rights: US investor denies forgery allegations",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "US investor Deelip Mhaske denies forging documents in FIFA World Cup 2026 India media rights bid; FIR filed after due diligence flagged unverifiable papers.",
-      "timestamp": "2026-09-18T18:39:55.179731Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/city/hyderabad/fifa-media-rights-us-investor-denies-forgery-allegations/articleshow/134295343.cms"
         }
       ]
     }
@@ -319,22 +305,7 @@
           "url": "https://worldsoccertalk.com/news/joao-pedro-suffers-injury-setback-ahead-of-brazil-return-following-ancelottis-2026-world-cup-snub/"
         }
       ]
-    },
-    {
-      "date": "Sep 18",
-      "loc": "Global",
-      "event": "FIFA media rights: US investor denies forgery allegations",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/city/hyderabad/fifa-media-rights-us-investor-denies-forgery-allegations/articleshow/134295343.cms"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-18T18:39:55.179995Z"
+  "lastUpdated": "2026-09-18T21:18:01.237094Z"
 }
