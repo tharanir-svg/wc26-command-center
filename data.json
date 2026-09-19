@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Zidane explains Real Madrid midfielder\u2019s exclusion from France squad: \u2018For his recovery process\u2026\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Former Real Madrid player, manager, and club legend Zinedine Zidane is now the head coach of the France national team.Having taken over the reins from Didier Deschamps after the 2026 FIFA World Cup, t...",
+      "timestamp": "2026-09-19T19:38:11.461156Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/zidane-explains-real-madrid-midfielders-exclusion-from-france-squad-for-his-recovery-process/"
+        }
+      ]
+    },
+    {
       "title": "AT&T and Dallas Cowboys Extend One of Sports' Most Iconic Partnerships",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "AT&T's network connects America's Team to what's next in sports and entertainment at AT&T Stadium Key Takeaways: AT&T and the Dallas Cowboys extend their partnership to power the next generation of technology, experiences and innovation at AT&T Stadium. AT&T \u2026",
-      "timestamp": "2026-09-19T17:30:39.025497Z",
+      "timestamp": "2026-09-19T19:38:11.461249Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "It is the dawn of a new era for the France national team as Zinedine Zidane has taken over as new manager from Didier Deschamps following the 2026 FIFA World Cup.Now, the Real Madrid legend has announ...",
-      "timestamp": "2026-09-19T17:30:39.025572Z",
+      "timestamp": "2026-09-19T19:38:11.461290Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain names 26-man Nations League squad with Fermin Lopez and Dean Huijsen returning after missing the 2026 World Cup, retaining 22 players from\nThe post Spain includes Fermin Lopez and Dean Huijsen in Nations League squad after World Cup absence appeared fir\u2026",
-      "timestamp": "2026-09-19T17:30:39.025854Z",
+      "timestamp": "2026-09-19T19:38:11.461513Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "1Manchester United midfielder Kobbie Mainoo has held his own this season despite the club investing over \u00a3150 million in the middle of the park this summer. The Red Devils signed Andrey Santos, Youri...",
-      "timestamp": "2026-09-19T17:30:39.026072Z",
+      "timestamp": "2026-09-19T19:38:11.461699Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Can't get enough competitive soccer? Don't miss a second of the action from the U-20 Women's World Cup, happening now. Here's how to tune in.\nThis summer, the footballing community came together for the 2026 FIFA World Cup. For an entire month this summer, mi\u2026",
-      "timestamp": "2026-09-19T17:30:39.026178Z",
+      "timestamp": "2026-09-19T19:38:11.461791Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With the 2026 FIFA World Cup in the rear view mirror, Cristiano Ronaldo and Portugal begin the 2030 cycle with four UEFA Nations League group stage matches.",
-      "timestamp": "2026-09-19T17:30:39.026445Z",
+      "timestamp": "2026-09-19T19:38:11.462030Z",
       "links": [
         {
           "label": "Source",
@@ -220,30 +234,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "As fans tune in to see the U.S. men's national team compete in official matches for the first time since the 2026 FIFA World Cup, a number of new faces will be present, while many familiar faces are absent from the USMNT group.",
-      "timestamp": "2026-09-19T17:30:39.027077Z",
+      "timestamp": "2026-09-19T19:38:11.462586Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.sportingnews.com/us/soccer/news/why-christian-pulisic-left-usmnt-roster-pochettino-ac-milan/c9b5e4234d7627c34ada2eda"
         }
       ]
-    },
-    {
-      "title": "Cavan Sullivan among newcomers to USMNT roster for first camp since 2026 World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "USMNT coach Mauricio Pochettino unveils roster for fall friendlies, including 16-year-old Cavan Sullivan.",
-      "timestamp": "2026-09-19T17:30:39.027101Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.timesunion.com/sports/article/usmnt-roster-cavan-sullivan-pochettino-soccer-22435764.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 19",
+      "loc": "Global",
+      "event": "Zidane explains Real Madrid midfielder\u2019s exclusion from France squad: \u2018For his recovery process\u2026\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/zidane-explains-real-madrid-midfielders-exclusion-from-france-squad-for-his-recovery-process/"
+        }
+      ]
+    },
     {
       "date": "Sep 19",
       "loc": "Dallas",
@@ -348,22 +363,7 @@
           "url": "https://www.sportingnews.com/us/soccer/news/why-christian-pulisic-left-usmnt-roster-pochettino-ac-milan/c9b5e4234d7627c34ada2eda"
         }
       ]
-    },
-    {
-      "date": "Sep 19",
-      "loc": "Global",
-      "event": "Cavan Sullivan among newcomers to USMNT roster for first camp since 2026 World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.timesunion.com/sports/article/usmnt-roster-cavan-sullivan-pochettino-soccer-22435764.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-19T17:30:39.027397Z"
+  "lastUpdated": "2026-09-19T19:38:11.462670Z"
 }
