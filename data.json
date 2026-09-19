@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 5
+    "p3": 6
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Portugal roster for 2026 UEFA Nations League: Cristiano Ronaldo expected to be called in for fall matches",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "With the 2026 FIFA World Cup in the rear view mirror, Cristiano Ronaldo and Portugal begin the 2030 cycle with four UEFA Nations League group stage matches.",
+      "timestamp": "2026-09-19T11:38:49.855462Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/portugal-roster-2026-nations-league-ronaldo-fall-matches/2f8183deb1a45a253af7994d"
+        }
+      ]
+    },
+    {
       "title": "Why was Christian Pulisic left off USMNT roster? Mauricio Pochettino leaves AC Milan star home to recover fitness",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "As fans tune in to see the U.S. men's national team compete in official matches for the first time since the 2026 FIFA World Cup, a number of new faces will be present, while many familiar faces are absent from the USMNT group.",
-      "timestamp": "2026-09-19T06:44:01.760380Z",
+      "timestamp": "2026-09-19T11:38:49.855978Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "USMNT coach Mauricio Pochettino unveils roster for fall friendlies, including 16-year-old Cavan Sullivan.",
-      "timestamp": "2026-09-19T06:44:01.760423Z",
+      "timestamp": "2026-09-19T11:38:49.855998Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The U.S. Men\u2019s National Team\u2019s first post-FIFA World Cup roster has been revealed with Mauricio Pochettino rewarding several of MLS\u2019 top young talents.\u00a0 Cavan Sullivan, Julian Hall, and Mathis Albert headlined Pochettino\u2019s 28-player roster for September and O\u2026",
-      "timestamp": "2026-09-19T06:44:01.760720Z",
+      "timestamp": "2026-09-19T11:38:49.856257Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Omaha, Nebraska and Orlando, Florida Will Host Pool Play, With Anaheim, California Hosting the Quarterfinal, Semifinal, and Final Matches LAUSANNE, Switzerland, Sept. 17, 2026 /PRNewswire/ -- The FIVB today revealed the American host cities and venues for the\u2026",
-      "timestamp": "2026-09-19T06:44:01.760753Z",
+      "timestamp": "2026-09-19T11:38:49.856284Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Thomas Tuchel will name his England squad for the autumn internationals on Friday morning.Tuchel will name his first England squad since a semi-final exit at the 2026 World Cup in the summer, as the T...",
-      "timestamp": "2026-09-19T06:44:01.760851Z",
+      "timestamp": "2026-09-19T11:38:49.856370Z",
       "links": [
         {
           "label": "Source",
@@ -202,6 +216,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 19",
+      "loc": "Global",
+      "event": "Portugal roster for 2026 UEFA Nations League: Cristiano Ronaldo expected to be called in for fall matches",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/portugal-roster-2026-nations-league-ronaldo-fall-matches/2f8183deb1a45a253af7994d"
+        }
+      ]
+    },
     {
       "date": "Sep 19",
       "loc": "Global",
@@ -278,5 +307,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-19T06:44:01.761569Z"
+  "lastUpdated": "2026-09-19T11:38:49.856783Z"
 }
