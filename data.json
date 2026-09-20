@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Ex-Mexico manager Javier Aguirre nearing La Liga return with Valencia, per reports",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "After leading Mexico during the 2026 World Cup, veteran manager Javier Aguirre is set for a return to Spain.",
+      "timestamp": "2026-09-20T19:06:26.262068Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/2026/09/19/javier-aguirre-mexico-next-job-valencia-la-liga-rescue/91845695007/"
+        }
+      ]
+    },
+    {
       "title": "Cowboys news: Jerry Jones still won't make change to glaring Dallas stadium issue",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Dallas Cowboys will have to keep dealing with the sunlight issue at AT&T Stadium after owner and general manager Jerry Jones indicated that no window tinting changes are planned for Sunday\u2019s home opener against the Washington Commanders . During a Friday \u2026",
-      "timestamp": "2026-09-20T16:32:22.859937Z",
+      "timestamp": "2026-09-20T19:06:26.262575Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With the first international window since the 2026 World Cup approaching, many of the world's top teams are in transition. Here are their rosters.",
-      "timestamp": "2026-09-20T16:32:22.860144Z",
+      "timestamp": "2026-09-20T19:06:26.262776Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Former Real Madrid player, manager, and club legend Zinedine Zidane is now the head coach of the France national team.Having taken over the reins from Didier Deschamps after the 2026 FIFA World Cup, t...",
-      "timestamp": "2026-09-20T16:32:22.860220Z",
+      "timestamp": "2026-09-20T19:06:26.262850Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "AT&T's network connects America's Team to what's next in sports and entertainment at AT&T Stadium Key Takeaways: AT&T and the Dallas Cowboys extend their partnership to power the next generation of technology, experiences and innovation at AT&T Stadium. AT&T \u2026",
-      "timestamp": "2026-09-20T16:32:22.860299Z",
+      "timestamp": "2026-09-20T19:06:26.262932Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "It is the dawn of a new era for the France national team as Zinedine Zidane has taken over as new manager from Didier Deschamps following the 2026 FIFA World Cup.Now, the Real Madrid legend has announ...",
-      "timestamp": "2026-09-20T16:32:22.860341Z",
+      "timestamp": "2026-09-20T19:06:26.262973Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain names 26-man Nations League squad with Fermin Lopez and Dean Huijsen returning after missing the 2026 World Cup, retaining 22 players from\nThe post Spain includes Fermin Lopez and Dean Huijsen in Nations League squad after World Cup absence appeared fir\u2026",
-      "timestamp": "2026-09-20T16:32:22.860570Z",
+      "timestamp": "2026-09-20T19:06:26.263200Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "1Manchester United midfielder Kobbie Mainoo has held his own this season despite the club investing over \u00a3150 million in the middle of the park this summer. The Red Devils signed Andrey Santos, Youri...",
-      "timestamp": "2026-09-20T16:32:22.860788Z",
+      "timestamp": "2026-09-20T19:06:26.263393Z",
       "links": [
         {
           "label": "Source",
@@ -234,30 +248,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Can't get enough competitive soccer? Don't miss a second of the action from the U-20 Women's World Cup, happening now. Here's how to tune in.\nThis summer, the footballing community came together for the 2026 FIFA World Cup. For an entire month this summer, mi\u2026",
-      "timestamp": "2026-09-20T16:32:22.860888Z",
+      "timestamp": "2026-09-20T19:06:26.263487Z",
       "links": [
         {
           "label": "Source",
           "url": "https://uk.pcmag.com/video-streaming-services/167154/how-to-watch-2026-fifa-u20-womens-world-cup-quarterfinals-live-for-free"
         }
       ]
-    },
-    {
-      "title": "Portugal roster for 2026 UEFA Nations League: Cristiano Ronaldo expected to be called in for fall matches",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "With the 2026 FIFA World Cup in the rear view mirror, Cristiano Ronaldo and Portugal begin the 2030 cycle with four UEFA Nations League group stage matches.",
-      "timestamp": "2026-09-20T16:32:22.861160Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/portugal-roster-2026-nations-league-ronaldo-fall-matches/2f8183deb1a45a253af7994d"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 20",
+      "loc": "Global",
+      "event": "Ex-Mexico manager Javier Aguirre nearing La Liga return with Valencia, per reports",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/soccer/2026/09/19/javier-aguirre-mexico-next-job-valencia-la-liga-rescue/91845695007/"
+        }
+      ]
+    },
     {
       "date": "Sep 20",
       "loc": "Dallas",
@@ -377,22 +392,7 @@
           "url": "https://uk.pcmag.com/video-streaming-services/167154/how-to-watch-2026-fifa-u20-womens-world-cup-quarterfinals-live-for-free"
         }
       ]
-    },
-    {
-      "date": "Sep 20",
-      "loc": "Global",
-      "event": "Portugal roster for 2026 UEFA Nations League: Cristiano Ronaldo expected to be called in for fall matches",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/soccer/news/portugal-roster-2026-nations-league-ronaldo-fall-matches/2f8183deb1a45a253af7994d"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-20T16:32:22.861326Z"
+  "lastUpdated": "2026-09-20T19:06:26.263813Z"
 }
