@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 4
+    "p3": 7
   },
   "watchlist": [
     {
@@ -131,12 +131,54 @@
   ],
   "risks": [
     {
+      "title": "World Cup-winning Spain coach Luis de la Fuente rewarded with four-year contract extension until 2032",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Spain have extended head coach Luis de la Fuente's contract until 2032 following his successful leadership of the national team to the 2026 FIFA World Cup title. The new deal, approved by the RFEF, keeps the 65-year-old in charge through Euro 2028, the 2030 W\u2026",
+      "timestamp": "2026-09-22T17:22:31.514119Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/world-cup-winning-spain-coach-luis-de-la-fuente-rewarded-with-four-year-contract-extension-until-2032/articleshow/134393942.cms"
+        }
+      ]
+    },
+    {
+      "title": "Every MLS call-up: September & October 2026 international window",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "By MLSsoccer staffThe first international break since the 2026\u00a0FIFA World Cup features an expanded window, with countries playing up to four games from late September and early October.Dozens of MLS ...",
+      "timestamp": "2026-09-22T17:22:31.514216Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.mlssoccer.com/news/every-mls-call-up-september-october-2026-international-window"
+        }
+      ]
+    },
+    {
+      "title": "How to Watch the 2026 FIFA U-20 Women's World Cup Semifinals Live Without Cable (Even for Free)",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Can't get enough competitive soccer? Don't miss a second of the action from the U-20 Women's World Cup, happening now. Here's how to tune in.\nThis summer, the footballing community came together for the 2026 FIFA World Cup. For an entire month this summer, mi\u2026",
+      "timestamp": "2026-09-22T17:22:31.514507Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/167154/how-to-watch-2026-fifa-u20-womens-world-cup-semifinals-live-for-free"
+        }
+      ]
+    },
+    {
       "title": "Junk food ads flooded 2026 World Cup matches \u2014 Report",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A study reveals football fans were exposed to over 65,000 junk food and drink ads during the 2026 FIFA World Cup, with Coca-Cola being the most frequent.\n\nRead More: https://punchng.com/junk-food-ads-flooded-2026-world-cup-matches-report/",
-      "timestamp": "2026-09-22T12:08:32.054696Z",
+      "timestamp": "2026-09-22T17:22:31.515021Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Fans heading to MetLife Stadium are in for a game-day nightmare.\u00a0 The New York Giants and New York Jets share the East Rutherford venue as their home field \u2014 and it\u2019s home to some of the worst overall traffic conditions on NFL game days, according to a recent\u2026",
-      "timestamp": "2026-09-22T12:08:32.055124Z",
+      "timestamp": "2026-09-22T17:22:31.515664Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Panama's squad, featuring fourteen players from the FIFA World Cup 2026, has arrived in Bengaluru. Under coach Thomas Christiansen's leadership, the team has undergone significant restructuring following their World Cup journey. This new lineup includes seaso\u2026",
-      "timestamp": "2026-09-22T12:08:32.055338Z",
+      "timestamp": "2026-09-22T17:22:31.516012Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After leading Mexico during the 2026 World Cup, veteran manager Javier Aguirre is set for a return to Spain.",
-      "timestamp": "2026-09-22T12:08:32.055659Z",
+      "timestamp": "2026-09-22T17:22:31.516552Z",
       "links": [
         {
           "label": "Source",
@@ -188,6 +230,51 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 22",
+      "loc": "Global",
+      "event": "World Cup-winning Spain coach Luis de la Fuente rewarded with four-year contract extension until 2032",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/world-cup-winning-spain-coach-luis-de-la-fuente-rewarded-with-four-year-contract-extension-until-2032/articleshow/134393942.cms"
+        }
+      ]
+    },
+    {
+      "date": "Sep 22",
+      "loc": "Global",
+      "event": "Every MLS call-up: September & October 2026 international window",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.mlssoccer.com/news/every-mls-call-up-september-october-2026-international-window"
+        }
+      ]
+    },
+    {
+      "date": "Sep 22",
+      "loc": "Global",
+      "event": "How to Watch the 2026 FIFA U-20 Women's World Cup Semifinals Live Without Cable (Even for Free)",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/167154/how-to-watch-2026-fifa-u20-womens-world-cup-semifinals-live-for-free"
+        }
+      ]
+    },
     {
       "date": "Sep 22",
       "loc": "Global",
@@ -249,5 +336,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-22T12:08:32.056277Z"
+  "lastUpdated": "2026-09-22T17:22:31.516823Z"
 }
