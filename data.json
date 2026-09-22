@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": " What should Brazil's line-up be for the 1st post-World Cup friendly?",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "After the disappointment of the 2026 FIFA World Cup, it is time to begin a new cycle in pursuit of a sixth title in 2030.For the friendlies against Australia and India, in September and October 2026, ...",
+      "timestamp": "2026-09-22T20:31:28.957366Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/what-should-brazils-line-up-be-for-the-1st-post-world-cup-friendly-43500914"
+        }
+      ]
+    },
+    {
       "title": "World Cup-winning Spain coach Luis de la Fuente rewarded with four-year contract extension until 2032",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain have extended head coach Luis de la Fuente's contract until 2032 following his successful leadership of the national team to the 2026 FIFA World Cup title. The new deal, approved by the RFEF, keeps the 65-year-old in charge through Euro 2028, the 2030 W\u2026",
-      "timestamp": "2026-09-22T17:22:31.514119Z",
+      "timestamp": "2026-09-22T20:31:28.957483Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By MLSsoccer staffThe first international break since the 2026\u00a0FIFA World Cup features an expanded window, with countries playing up to four games from late September and early October.Dozens of MLS ...",
-      "timestamp": "2026-09-22T17:22:31.514216Z",
+      "timestamp": "2026-09-22T20:31:28.957514Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Can't get enough competitive soccer? Don't miss a second of the action from the U-20 Women's World Cup, happening now. Here's how to tune in.\nThis summer, the footballing community came together for the 2026 FIFA World Cup. For an entire month this summer, mi\u2026",
-      "timestamp": "2026-09-22T17:22:31.514507Z",
+      "timestamp": "2026-09-22T20:31:28.957717Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A study reveals football fans were exposed to over 65,000 junk food and drink ads during the 2026 FIFA World Cup, with Coca-Cola being the most frequent.\n\nRead More: https://punchng.com/junk-food-ads-flooded-2026-world-cup-matches-report/",
-      "timestamp": "2026-09-22T17:22:31.515021Z",
+      "timestamp": "2026-09-22T20:31:28.958064Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Fans heading to MetLife Stadium are in for a game-day nightmare.\u00a0 The New York Giants and New York Jets share the East Rutherford venue as their home field \u2014 and it\u2019s home to some of the worst overall traffic conditions on NFL game days, according to a recent\u2026",
-      "timestamp": "2026-09-22T17:22:31.515664Z",
+      "timestamp": "2026-09-22T20:31:28.958490Z",
       "links": [
         {
           "label": "Source",
@@ -206,30 +220,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Panama's squad, featuring fourteen players from the FIFA World Cup 2026, has arrived in Bengaluru. Under coach Thomas Christiansen's leadership, the team has undergone significant restructuring following their World Cup journey. This new lineup includes seaso\u2026",
-      "timestamp": "2026-09-22T17:22:31.516012Z",
+      "timestamp": "2026-09-22T20:31:28.958722Z",
       "links": [
         {
           "label": "Source",
           "url": "https://timesofindia.indiatimes.com/sports/tennis/davis-cup-exhausted-sumit-nagal-falls-to-kwon-as-india-lose-1-3-to-korea/articleshow/134362922.cms"
         }
       ]
-    },
-    {
-      "title": "Ex-Mexico manager Javier Aguirre nearing La Liga return with Valencia, per reports",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "After leading Mexico during the 2026 World Cup, veteran manager Javier Aguirre is set for a return to Spain.",
-      "timestamp": "2026-09-22T17:22:31.516552Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/2026/09/19/javier-aguirre-mexico-next-job-valencia-la-liga-rescue/91845695007/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 22",
+      "loc": "Global",
+      "event": " What should Brazil's line-up be for the 1st post-World Cup friendly?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://onefootball.com/en/news/what-should-brazils-line-up-be-for-the-1st-post-world-cup-friendly-43500914"
+        }
+      ]
+    },
     {
       "date": "Sep 22",
       "loc": "Global",
@@ -319,22 +334,7 @@
           "url": "https://timesofindia.indiatimes.com/sports/tennis/davis-cup-exhausted-sumit-nagal-falls-to-kwon-as-india-lose-1-3-to-korea/articleshow/134362922.cms"
         }
       ]
-    },
-    {
-      "date": "Sep 22",
-      "loc": "Global",
-      "event": "Ex-Mexico manager Javier Aguirre nearing La Liga return with Valencia, per reports",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/soccer/2026/09/19/javier-aguirre-mexico-next-job-valencia-la-liga-rescue/91845695007/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-22T17:22:31.516823Z"
+  "lastUpdated": "2026-09-22T20:31:28.959228Z"
 }
