@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 5
+    "p3": 4
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A study reveals football fans were exposed to over 65,000 junk food and drink ads during the 2026 FIFA World Cup, with Coca-Cola being the most frequent.\n\nRead More: https://punchng.com/junk-food-ads-flooded-2026-world-cup-matches-report/",
-      "timestamp": "2026-09-22T06:53:53.981573Z",
+      "timestamp": "2026-09-22T12:08:32.054696Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Fans heading to MetLife Stadium are in for a game-day nightmare.\u00a0 The New York Giants and New York Jets share the East Rutherford venue as their home field \u2014 and it\u2019s home to some of the worst overall traffic conditions on NFL game days, according to a recent\u2026",
-      "timestamp": "2026-09-22T06:53:53.982011Z",
+      "timestamp": "2026-09-22T12:08:32.055124Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Panama's squad, featuring fourteen players from the FIFA World Cup 2026, has arrived in Bengaluru. Under coach Thomas Christiansen's leadership, the team has undergone significant restructuring following their World Cup journey. This new lineup includes seaso\u2026",
-      "timestamp": "2026-09-22T06:53:53.982230Z",
+      "timestamp": "2026-09-22T12:08:32.055338Z",
       "links": [
         {
           "label": "Source",
@@ -178,25 +178,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After leading Mexico during the 2026 World Cup, veteran manager Javier Aguirre is set for a return to Spain.",
-      "timestamp": "2026-09-22T06:53:53.982552Z",
+      "timestamp": "2026-09-22T12:08:32.055659Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.usatoday.com/story/sports/soccer/2026/09/19/javier-aguirre-mexico-next-job-valencia-la-liga-rescue/91845695007/"
-        }
-      ]
-    },
-    {
-      "title": "Cowboys news: Jerry Jones still won't make change to glaring Dallas stadium issue",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The Dallas Cowboys will have to keep dealing with the sunlight issue at AT&T Stadium after owner and general manager Jerry Jones indicated that no window tinting changes are planned for Sunday\u2019s home opener against the Washington Commanders . During a Friday \u2026",
-      "timestamp": "2026-09-22T06:53:53.983033Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://clutchpoints.com/nfl/dallas-cowboys/cowboys-news-jerry-jones-still-wont-make-change-to-glaring-dallas-stadium-issue"
         }
       ]
     }
@@ -261,22 +247,7 @@
           "url": "https://www.usatoday.com/story/sports/soccer/2026/09/19/javier-aguirre-mexico-next-job-valencia-la-liga-rescue/91845695007/"
         }
       ]
-    },
-    {
-      "date": "Sep 22",
-      "loc": "Dallas",
-      "event": "Cowboys news: Jerry Jones still won't make change to glaring Dallas stadium issue",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://clutchpoints.com/nfl/dallas-cowboys/cowboys-news-jerry-jones-still-wont-make-change-to-glaring-dallas-stadium-issue"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-22T06:53:53.983355Z"
+  "lastUpdated": "2026-09-22T12:08:32.056277Z"
 }
