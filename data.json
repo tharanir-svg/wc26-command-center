@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 7
+    "p3": 8
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "How Small Businesses Can Turn Lessons From the World Cup Into NFL Wins",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "For small businesses, the FIFA World Cup 2026 was the ultimate stress test. The ones that passed are heading into the NFL Season with a smarter playbook.",
+      "timestamp": "2026-09-23T12:21:29.747743Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.entrepreneur.com/building-a-business/how-small-businesses-can-turn-lessons-from-the-world-cup-into-nfl-wins"
+        }
+      ]
+    },
+    {
+      "title": "Coca-Cola and Zepto Turn Spain's FIFA World Cup Victory Into a collectible Piece of History",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Coca-Cola and Zepto Turn Spain's FIFA World Cup Victory Into a collectible Piece of History",
+      "timestamp": "2026-09-23T12:21:29.747941Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/coca-cola-and-zepto-turn-spains-fifa-world-cup-victory-into-a-collectible-piece-of-history/article71495013.ece"
+        }
+      ]
+    },
+    {
       "title": "Fresh from summer moves, Berhalter, Reyna back in USMNT mix",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Sebastian Berhalter and Gio Reyna were both in different club situations during the 2026 FIFA World Cup but plenty has changed for both since.\u00a0 Both Berhalter and Reyna are back with the U.S. Men\u2019s National Team this month for their first international action\u2026",
-      "timestamp": "2026-09-23T06:52:15.853947Z",
+      "timestamp": "2026-09-23T12:21:29.748340Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After the disappointment of the 2026 FIFA World Cup, it is time to begin a new cycle in pursuit of a sixth title in 2030.For the friendlies against Australia and India, in September and October 2026, ...",
-      "timestamp": "2026-09-23T06:52:15.854114Z",
+      "timestamp": "2026-09-23T12:21:29.748500Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain have extended head coach Luis de la Fuente's contract until 2032 following his successful leadership of the national team to the 2026 FIFA World Cup title. The new deal, approved by the RFEF, keeps the 65-year-old in charge through Euro 2028, the 2030 W\u2026",
-      "timestamp": "2026-09-23T06:52:15.854191Z",
+      "timestamp": "2026-09-23T12:21:29.748675Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By MLSsoccer staffThe first international break since the 2026\u00a0FIFA World Cup features an expanded window, with countries playing up to four games from late September and early October.Dozens of MLS ...",
-      "timestamp": "2026-09-23T06:52:15.854219Z",
+      "timestamp": "2026-09-23T12:21:29.748712Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Can't get enough competitive soccer? Don't miss a second of the action from the U-20 Women's World Cup, happening now. Here's how to tune in.\nThis summer, the footballing community came together for the 2026 FIFA World Cup. For an entire month this summer, mi\u2026",
-      "timestamp": "2026-09-23T06:52:15.854402Z",
+      "timestamp": "2026-09-23T12:21:29.748903Z",
       "links": [
         {
           "label": "Source",
@@ -206,30 +234,46 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A study reveals football fans were exposed to over 65,000 junk food and drink ads during the 2026 FIFA World Cup, with Coca-Cola being the most frequent.\n\nRead More: https://punchng.com/junk-food-ads-flooded-2026-world-cup-matches-report/",
-      "timestamp": "2026-09-23T06:52:15.854711Z",
+      "timestamp": "2026-09-23T12:21:29.749240Z",
       "links": [
         {
           "label": "Source",
           "url": "https://punchng.com/junk-food-ads-flooded-2026-world-cup-matches-report/"
         }
       ]
-    },
-    {
-      "title": "GIANT GRIDLOCK: MetLife Stadium game-day traffic ranked among worst in NFL",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Fans heading to MetLife Stadium are in for a game-day nightmare.\u00a0 The New York Giants and New York Jets share the East Rutherford venue as their home field \u2014 and it\u2019s home to some of the worst overall traffic conditions on NFL game days, according to a recent\u2026",
-      "timestamp": "2026-09-23T06:52:15.855110Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/09/20/lifestyle/metlife-stadium-traffic-giants-jets-game-day-gridlock-ranked-6th-worst-in-nfl/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 23",
+      "loc": "Global",
+      "event": "How Small Businesses Can Turn Lessons From the World Cup Into NFL Wins",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.entrepreneur.com/building-a-business/how-small-businesses-can-turn-lessons-from-the-world-cup-into-nfl-wins"
+        }
+      ]
+    },
+    {
+      "date": "Sep 23",
+      "loc": "Global",
+      "event": "Coca-Cola and Zepto Turn Spain's FIFA World Cup Victory Into a collectible Piece of History",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/coca-cola-and-zepto-turn-spains-fifa-world-cup-victory-into-a-collectible-piece-of-history/article71495013.ece"
+        }
+      ]
+    },
     {
       "date": "Sep 23",
       "loc": "Global",
@@ -319,22 +363,7 @@
           "url": "https://punchng.com/junk-food-ads-flooded-2026-world-cup-matches-report/"
         }
       ]
-    },
-    {
-      "date": "Sep 23",
-      "loc": "New York / New Jersey",
-      "event": "GIANT GRIDLOCK: MetLife Stadium game-day traffic ranked among worst in NFL",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://nypost.com/2026/09/20/lifestyle/metlife-stadium-traffic-giants-jets-game-day-gridlock-ranked-6th-worst-in-nfl/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-23T06:52:15.855465Z"
+  "lastUpdated": "2026-09-23T12:21:29.749748Z"
 }
