@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 8
+    "p3": 9
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "SUN CRUISER ANNOUNCED AS A PROUD PARTNER OF METLIFE STADIUM, NEW YORK GIANTS AND NEW YORK JETS",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Evolving Trends and Fan Adoption Leads to Multi-Year Partnership in Ready-to-Drink Spirits EAST RUTHERFORD, N.J., Sept. 22, 2026 /PRNewswire/ -- MetLife Stadium announced a new multi-year partnership with Sun Cruiser, elevating one of the industry's fastest-g\u2026",
+      "timestamp": "2026-09-23T17:30:58.641409Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/sun-cruiser-announced-as-a-proud-partner-of-metlife-stadium-new-york-giants-and-new-york-jets-302886408.html"
+        }
+      ]
+    },
+    {
       "title": "How Small Businesses Can Turn Lessons From the World Cup Into NFL Wins",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "For small businesses, the FIFA World Cup 2026 was the ultimate stress test. The ones that passed are heading into the NFL Season with a smarter playbook.",
-      "timestamp": "2026-09-23T12:21:29.747743Z",
+      "timestamp": "2026-09-23T17:30:58.641663Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Coca-Cola and Zepto Turn Spain's FIFA World Cup Victory Into a collectible Piece of History",
-      "timestamp": "2026-09-23T12:21:29.747941Z",
+      "timestamp": "2026-09-23T17:30:58.641811Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Sebastian Berhalter and Gio Reyna were both in different club situations during the 2026 FIFA World Cup but plenty has changed for both since.\u00a0 Both Berhalter and Reyna are back with the U.S. Men\u2019s National Team this month for their first international action\u2026",
-      "timestamp": "2026-09-23T12:21:29.748340Z",
+      "timestamp": "2026-09-23T17:30:58.642174Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After the disappointment of the 2026 FIFA World Cup, it is time to begin a new cycle in pursuit of a sixth title in 2030.For the friendlies against Australia and India, in September and October 2026, ...",
-      "timestamp": "2026-09-23T12:21:29.748500Z",
+      "timestamp": "2026-09-23T17:30:58.642334Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Spain have extended head coach Luis de la Fuente's contract until 2032 following his successful leadership of the national team to the 2026 FIFA World Cup title. The new deal, approved by the RFEF, keeps the 65-year-old in charge through Euro 2028, the 2030 W\u2026",
-      "timestamp": "2026-09-23T12:21:29.748675Z",
+      "timestamp": "2026-09-23T17:30:58.642413Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By MLSsoccer staffThe first international break since the 2026\u00a0FIFA World Cup features an expanded window, with countries playing up to four games from late September and early October.Dozens of MLS ...",
-      "timestamp": "2026-09-23T12:21:29.748712Z",
+      "timestamp": "2026-09-23T17:30:58.642439Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Can't get enough competitive soccer? Don't miss a second of the action from the U-20 Women's World Cup, happening now. Here's how to tune in.\nThis summer, the footballing community came together for the 2026 FIFA World Cup. For an entire month this summer, mi\u2026",
-      "timestamp": "2026-09-23T12:21:29.748903Z",
+      "timestamp": "2026-09-23T17:30:58.642617Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A study reveals football fans were exposed to over 65,000 junk food and drink ads during the 2026 FIFA World Cup, with Coca-Cola being the most frequent.\n\nRead More: https://punchng.com/junk-food-ads-flooded-2026-world-cup-matches-report/",
-      "timestamp": "2026-09-23T12:21:29.749240Z",
+      "timestamp": "2026-09-23T17:30:58.643003Z",
       "links": [
         {
           "label": "Source",
@@ -244,6 +258,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 23",
+      "loc": "New York / New Jersey",
+      "event": "SUN CRUISER ANNOUNCED AS A PROUD PARTNER OF METLIFE STADIUM, NEW YORK GIANTS AND NEW YORK JETS",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/sun-cruiser-announced-as-a-proud-partner-of-metlife-stadium-new-york-giants-and-new-york-jets-302886408.html"
+        }
+      ]
+    },
     {
       "date": "Sep 23",
       "loc": "Global",
@@ -365,5 +394,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-23T12:21:29.749748Z"
+  "lastUpdated": "2026-09-23T17:30:58.643204Z"
 }
