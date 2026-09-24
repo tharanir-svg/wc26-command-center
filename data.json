@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 4
+    "p3": 3
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Mexico national team has not headed north for nearly a decade but is set to visit Estadio BBVA for November's Concacaf Nations League home match.",
-      "timestamp": "2026-09-24T20:49:53.206405Z",
+      "timestamp": "2026-09-24T23:35:48.301401Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "European soccer leader Aleksander Ceferin said Wednesday it is \u201cour work\u201d to repair the unity and trust broken by FIFA President Gianni Infantino\u2019s failed World Cup sell-off plan. The UEFA president, in rare public comments two months into the divisive global\u2026",
-      "timestamp": "2026-09-24T20:49:53.206564Z",
+      "timestamp": "2026-09-24T23:35:48.301611Z",
       "links": [
         {
           "label": "Source",
@@ -164,25 +164,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Madrid Mayor Jose Luis Martinez-Almeida says he is not optimistic that the 2030 FIFA World Cup final will be played in the Spanish capital.Almeida said Morocco is making a clear political and institut...",
-      "timestamp": "2026-09-24T20:49:53.207060Z",
+      "timestamp": "2026-09-24T23:35:48.302275Z",
       "links": [
         {
           "label": "Source",
           "url": "https://footballtoday.com/2026/09/23/mayor-of-madrid-warns-of-consequences-if-2030-world-cup-final-is-not-held-in-spanish-capital/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mayor-of-madrid-warns-of-consequences-if-2030-world-cup-final-is-not-held-in-spanish-capital"
-        }
-      ]
-    },
-    {
-      "title": "SUN CRUISER ANNOUNCED AS A PROUD PARTNER OF METLIFE STADIUM, NEW YORK GIANTS AND NEW YORK JETS",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Evolving Trends and Fan Adoption Leads to Multi-Year Partnership in Ready-to-Drink Spirits EAST RUTHERFORD, N.J., Sept. 22, 2026 /PRNewswire/ -- MetLife Stadium announced a new multi-year partnership with Sun Cruiser, elevating one of the industry's fastest-g\u2026",
-      "timestamp": "2026-09-24T20:49:53.207735Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.prnewswire.com/news-releases/sun-cruiser-announced-as-a-proud-partner-of-metlife-stadium-new-york-giants-and-new-york-jets-302886408.html"
         }
       ]
     }
@@ -232,22 +218,7 @@
           "url": "https://footballtoday.com/2026/09/23/mayor-of-madrid-warns-of-consequences-if-2030-world-cup-final-is-not-held-in-spanish-capital/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mayor-of-madrid-warns-of-consequences-if-2030-world-cup-final-is-not-held-in-spanish-capital"
         }
       ]
-    },
-    {
-      "date": "Sep 24",
-      "loc": "New York / New Jersey",
-      "event": "SUN CRUISER ANNOUNCED AS A PROUD PARTNER OF METLIFE STADIUM, NEW YORK GIANTS AND NEW YORK JETS",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.prnewswire.com/news-releases/sun-cruiser-announced-as-a-proud-partner-of-metlife-stadium-new-york-giants-and-new-york-jets-302886408.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-24T20:49:53.207924Z"
+  "lastUpdated": "2026-09-24T23:35:48.303173Z"
 }
