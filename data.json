@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "European soccer's Ceferin cites need to repair trust broken by Infantino's FIFA World Cup plan",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "European soccer leader Aleksander Ceferin said Wednesday it is \u201cour work\u201d to repair the unity and trust broken by FIFA President Gianni Infantino\u2019s failed World Cup sell-off plan. The UEFA president, in rare public comments two months into the divisive global\u2026",
+      "timestamp": "2026-09-24T17:36:03.731905Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/european-soccers-ceferin-cites-repair-170315098.html"
+        }
+      ]
+    },
+    {
       "title": "Mayor of Madrid warns of \u2018consequences\u2019 if 2030 World Cup final is not held in Spanish capital",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Madrid Mayor Jose Luis Martinez-Almeida says he is not optimistic that the 2030 FIFA World Cup final will be played in the Spanish capital.Almeida said Morocco is making a clear political and institut...",
-      "timestamp": "2026-09-24T12:21:08.699250Z",
+      "timestamp": "2026-09-24T17:36:03.732497Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Evolving Trends and Fan Adoption Leads to Multi-Year Partnership in Ready-to-Drink Spirits EAST RUTHERFORD, N.J., Sept. 22, 2026 /PRNewswire/ -- MetLife Stadium announced a new multi-year partnership with Sun Cruiser, elevating one of the industry's fastest-g\u2026",
-      "timestamp": "2026-09-24T12:21:08.700248Z",
+      "timestamp": "2026-09-24T17:36:03.733148Z",
       "links": [
         {
           "label": "Source",
@@ -164,30 +178,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "For small businesses, the FIFA World Cup 2026 was the ultimate stress test. The ones that passed are heading into the NFL Season with a smarter playbook.",
-      "timestamp": "2026-09-24T12:21:08.700602Z",
+      "timestamp": "2026-09-24T17:36:03.733480Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.entrepreneur.com/building-a-business/how-small-businesses-can-turn-lessons-from-the-world-cup-into-nfl-wins"
         }
       ]
-    },
-    {
-      "title": "Coca-Cola and Zepto Turn Spain's FIFA World Cup Victory Into a collectible Piece of History",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Coca-Cola and Zepto Turn Spain's FIFA World Cup Victory Into a collectible Piece of History",
-      "timestamp": "2026-09-24T12:21:08.700859Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/coca-cola-and-zepto-turn-spains-fifa-world-cup-victory-into-a-collectible-piece-of-history/article71495013.ece"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 24",
+      "loc": "Global",
+      "event": "European soccer's Ceferin cites need to repair trust broken by Infantino's FIFA World Cup plan",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/european-soccers-ceferin-cites-repair-170315098.html"
+        }
+      ]
+    },
     {
       "date": "Sep 24",
       "loc": "Global",
@@ -232,22 +247,7 @@
           "url": "https://www.entrepreneur.com/building-a-business/how-small-businesses-can-turn-lessons-from-the-world-cup-into-nfl-wins"
         }
       ]
-    },
-    {
-      "date": "Sep 24",
-      "loc": "Global",
-      "event": "Coca-Cola and Zepto Turn Spain's FIFA World Cup Victory Into a collectible Piece of History",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/coca-cola-and-zepto-turn-spains-fifa-world-cup-victory-into-a-collectible-piece-of-history/article71495013.ece"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-24T12:21:08.701579Z"
+  "lastUpdated": "2026-09-24T17:36:03.733697Z"
 }
