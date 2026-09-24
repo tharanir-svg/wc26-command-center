@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 7
+    "p3": 4
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Mayor of Madrid warns of \u2018consequences\u2019 if 2030 World Cup final is not held in Spanish capital",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Madrid Mayor Jose Luis Martinez-Almeida says he is not optimistic that the 2030 FIFA World Cup final will be played in the Spanish capital.Almeida said Morocco is making a clear political and institut...",
+      "timestamp": "2026-09-24T12:21:08.699250Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/09/23/mayor-of-madrid-warns-of-consequences-if-2030-world-cup-final-is-not-held-in-spanish-capital/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mayor-of-madrid-warns-of-consequences-if-2030-world-cup-final-is-not-held-in-spanish-capital"
+        }
+      ]
+    },
+    {
       "title": "SUN CRUISER ANNOUNCED AS A PROUD PARTNER OF METLIFE STADIUM, NEW YORK GIANTS AND NEW YORK JETS",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Evolving Trends and Fan Adoption Leads to Multi-Year Partnership in Ready-to-Drink Spirits EAST RUTHERFORD, N.J., Sept. 22, 2026 /PRNewswire/ -- MetLife Stadium announced a new multi-year partnership with Sun Cruiser, elevating one of the industry's fastest-g\u2026",
-      "timestamp": "2026-09-24T06:49:45.642042Z",
+      "timestamp": "2026-09-24T12:21:08.700248Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "For small businesses, the FIFA World Cup 2026 was the ultimate stress test. The ones that passed are heading into the NFL Season with a smarter playbook.",
-      "timestamp": "2026-09-24T06:49:45.642258Z",
+      "timestamp": "2026-09-24T12:21:08.700602Z",
       "links": [
         {
           "label": "Source",
@@ -164,72 +178,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Coca-Cola and Zepto Turn Spain's FIFA World Cup Victory Into a collectible Piece of History",
-      "timestamp": "2026-09-24T06:49:45.642378Z",
+      "timestamp": "2026-09-24T12:21:08.700859Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.thehindubusinessline.com/brandhub/pr-release/coca-cola-and-zepto-turn-spains-fifa-world-cup-victory-into-a-collectible-piece-of-history/article71495013.ece"
         }
       ]
-    },
-    {
-      "title": "Fresh from summer moves, Berhalter, Reyna back in USMNT mix",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Sebastian Berhalter and Gio Reyna were both in different club situations during the 2026 FIFA World Cup but plenty has changed for both since.\u00a0 Both Berhalter and Reyna are back with the U.S. Men\u2019s National Team this month for their first international action\u2026",
-      "timestamp": "2026-09-24T06:49:45.642678Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sbisoccer.com/2026/09/fresh-from-summer-moves-berhalter-reyna-back-in-usmnt-mix"
-        }
-      ]
-    },
-    {
-      "title": " What should Brazil's line-up be for the 1st post-World Cup friendly?",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "After the disappointment of the 2026 FIFA World Cup, it is time to begin a new cycle in pursuit of a sixth title in 2030.For the friendlies against Australia and India, in September and October 2026, ...",
-      "timestamp": "2026-09-24T06:49:45.642838Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/what-should-brazils-line-up-be-for-the-1st-post-world-cup-friendly-43500914"
-        }
-      ]
-    },
-    {
-      "title": "World Cup-winning Spain coach Luis de la Fuente rewarded with four-year contract extension until 2032",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Spain have extended head coach Luis de la Fuente's contract until 2032 following his successful leadership of the national team to the 2026 FIFA World Cup title. The new deal, approved by the RFEF, keeps the 65-year-old in charge through Euro 2028, the 2030 W\u2026",
-      "timestamp": "2026-09-24T06:49:45.642919Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/world-cup-winning-spain-coach-luis-de-la-fuente-rewarded-with-four-year-contract-extension-until-2032/articleshow/134393942.cms"
-        }
-      ]
-    },
-    {
-      "title": "Every MLS call-up: September & October 2026 international window",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "By MLSsoccer staffThe first international break since the 2026\u00a0FIFA World Cup features an expanded window, with countries playing up to four games from late September and early October.Dozens of MLS ...",
-      "timestamp": "2026-09-24T06:49:45.642949Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.mlssoccer.com/news/every-mls-call-up-september-october-2026-international-window"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 24",
+      "loc": "Global",
+      "event": "Mayor of Madrid warns of \u2018consequences\u2019 if 2030 World Cup final is not held in Spanish capital",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://footballtoday.com/2026/09/23/mayor-of-madrid-warns-of-consequences-if-2030-world-cup-final-is-not-held-in-spanish-capital/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mayor-of-madrid-warns-of-consequences-if-2030-world-cup-final-is-not-held-in-spanish-capital"
+        }
+      ]
+    },
     {
       "date": "Sep 24",
       "loc": "New York / New Jersey",
@@ -274,67 +247,7 @@
           "url": "https://www.thehindubusinessline.com/brandhub/pr-release/coca-cola-and-zepto-turn-spains-fifa-world-cup-victory-into-a-collectible-piece-of-history/article71495013.ece"
         }
       ]
-    },
-    {
-      "date": "Sep 24",
-      "loc": "Global",
-      "event": "Fresh from summer moves, Berhalter, Reyna back in USMNT mix",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sbisoccer.com/2026/09/fresh-from-summer-moves-berhalter-reyna-back-in-usmnt-mix"
-        }
-      ]
-    },
-    {
-      "date": "Sep 24",
-      "loc": "Global",
-      "event": " What should Brazil's line-up be for the 1st post-World Cup friendly?",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://onefootball.com/en/news/what-should-brazils-line-up-be-for-the-1st-post-world-cup-friendly-43500914"
-        }
-      ]
-    },
-    {
-      "date": "Sep 24",
-      "loc": "Global",
-      "event": "World Cup-winning Spain coach Luis de la Fuente rewarded with four-year contract extension until 2032",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/world-cup-winning-spain-coach-luis-de-la-fuente-rewarded-with-four-year-contract-extension-until-2032/articleshow/134393942.cms"
-        }
-      ]
-    },
-    {
-      "date": "Sep 24",
-      "loc": "Global",
-      "event": "Every MLS call-up: September & October 2026 international window",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.mlssoccer.com/news/every-mls-call-up-september-october-2026-international-window"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-24T06:49:45.643111Z"
+  "lastUpdated": "2026-09-24T12:21:08.701579Z"
 }
