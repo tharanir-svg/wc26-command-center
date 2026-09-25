@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 4
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "The World Cup Rewrote a City\u2019s Spending Habits",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The World Cup gave small businesses in host cities a sales bump. That, at least, was a relatively predictable outcome. But findings shared in the September 2026 edition of the SMB Growth Report from PYMNTS Intelligence reveal that the bigger surprise is\u00a0who d\u2026",
+      "timestamp": "2026-09-25T08:13:23.266821Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.pymnts.com/smbs/2026/the-world-cup-rewrote-a-citys-spending-habits/"
+        }
+      ]
+    },
+    {
       "title": "Mexico national team to make long-awaited Monterrey return",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Mexico national team has not headed north for nearly a decade but is set to visit Estadio BBVA for November's Concacaf Nations League home match.",
-      "timestamp": "2026-09-25T02:02:07.239907Z",
+      "timestamp": "2026-09-25T08:13:23.267424Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "European soccer leader Aleksander Ceferin said Wednesday it is \u201cour work\u201d to repair the unity and trust broken by FIFA President Gianni Infantino\u2019s failed World Cup sell-off plan. The UEFA president, in rare public comments two months into the divisive global\u2026",
-      "timestamp": "2026-09-25T02:02:07.240040Z",
+      "timestamp": "2026-09-25T08:13:23.267563Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Madrid Mayor Jose Luis Martinez-Almeida says he is not optimistic that the 2030 FIFA World Cup final will be played in the Spanish capital.Almeida said Morocco is making a clear political and institut...",
-      "timestamp": "2026-09-25T02:02:07.240439Z",
+      "timestamp": "2026-09-25T08:13:23.268028Z",
       "links": [
         {
           "label": "Source",
@@ -174,6 +188,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 25",
+      "loc": "Global",
+      "event": "The World Cup Rewrote a City\u2019s Spending Habits",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.pymnts.com/smbs/2026/the-world-cup-rewrote-a-citys-spending-habits/"
+        }
+      ]
+    },
     {
       "date": "Sep 25",
       "loc": "Monterrey",
@@ -220,5 +249,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-25T02:02:07.240942Z"
+  "lastUpdated": "2026-09-25T08:13:23.268350Z"
 }
