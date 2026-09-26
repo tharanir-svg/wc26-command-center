@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 1
+    "p3": 2
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Record-breaking Bellingham voted England men's player of the year",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "LONDON, Sept 25 : Jude Bellingham has been named England men's player of the year for a second successive season after a standout campaign in which he scored a record seven goals at the 2026 World Cup, the Football Association said on Friday.The 23-year-old R\u2026",
+      "timestamp": "2026-09-26T14:46:32.759849Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.channelnewsasia.com/sport/record-breaking-bellingham-voted-england-mens-player-year-6411001"
+        }
+      ]
+    },
+    {
       "title": "Watch Son Heung-min's incredible free kick in South Korea's return from World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Son Heung-min inches closer to history with a free kick in South Korea's first match since the 2026 World Cup.",
-      "timestamp": "2026-09-26T10:20:56.614347Z",
+      "timestamp": "2026-09-26T14:46:32.760378Z",
       "links": [
         {
           "label": "Source",
@@ -146,6 +160,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 26",
+      "loc": "Global",
+      "event": "Record-breaking Bellingham voted England men's player of the year",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.channelnewsasia.com/sport/record-breaking-bellingham-voted-england-mens-player-year-6411001"
+        }
+      ]
+    },
     {
       "date": "Sep 26",
       "loc": "Global",
@@ -162,5 +191,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-26T10:20:56.615582Z"
+  "lastUpdated": "2026-09-26T14:46:32.761056Z"
 }
