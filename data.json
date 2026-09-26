@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 0,
-    "p3": 1
+    "p2": 1,
+    "p3": 2
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "David Beckham Earnings Boom Amid FIFA World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The soccer star and Inter Miami owner saw revenue and profits at his brand business soar even ahead of the 2026 FIFA World Cup.",
+      "timestamp": "2026-09-26T21:38:27.069660Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.hollywoodreporter.com/business/business-news/david-beckham-business-booming-world-cup-1236710198/"
+        }
+      ]
+    },
+    {
+      "title": "Mauricio Pochettino admits \u2018regret\u2019 regarding Folarin Balogun\u2019s World Cup suspension controversy",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "U.S. Men's National Team boss Mauricio Pochettino has admitted to 'regretting' how he handled the controversy surrounding striker Folarin Balogun after his one-match ban was suspended during the FIFA World Cup",
+      "timestamp": "2026-09-26T21:38:27.069873Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/pochettino-regret-balogun-world-cup-2040258"
+        }
+      ]
+    },
+    {
       "title": "Record-breaking Bellingham voted England men's player of the year",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "LONDON, Sept 25 : Jude Bellingham has been named England men's player of the year for a second successive season after a standout campaign in which he scored a record seven goals at the 2026 World Cup, the Football Association said on Friday.The 23-year-old R\u2026",
-      "timestamp": "2026-09-26T18:06:18.764430Z",
+      "timestamp": "2026-09-26T21:38:27.070965Z",
       "links": [
         {
           "label": "Source",
@@ -146,6 +174,36 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 26",
+      "loc": "Global",
+      "event": "David Beckham Earnings Boom Amid FIFA World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://www.hollywoodreporter.com/business/business-news/david-beckham-business-booming-world-cup-1236710198/"
+        }
+      ]
+    },
+    {
+      "date": "Sep 26",
+      "loc": "Global",
+      "event": "Mauricio Pochettino admits \u2018regret\u2019 regarding Folarin Balogun\u2019s World Cup suspension controversy",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.alloutsoccer.com/news/pochettino-regret-balogun-world-cup-2040258"
+        }
+      ]
+    },
     {
       "date": "Sep 26",
       "loc": "Global",
@@ -162,5 +220,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-26T18:06:18.765308Z"
+  "lastUpdated": "2026-09-26T21:38:27.071252Z"
 }
