@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Canada build on World Cup progress as road to 2030 begins",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "By Ben SteinerJesse Marsch and the Canadian men\u2019s national team are staying on track.As national teams reconvene for the first international window since the 2026 FIFA World Cup, many are treating i...",
+      "timestamp": "2026-09-26T23:56:56.242302Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.mlssoccer.com/news/canada-build-on-world-cup-progress-as-road-to-2030-begins"
+        }
+      ]
+    },
+    {
       "title": "David Beckham Earnings Boom Amid FIFA World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The soccer star and Inter Miami owner saw revenue and profits at his brand business soar even ahead of the 2026 FIFA World Cup.",
-      "timestamp": "2026-09-26T21:38:27.069660Z",
+      "timestamp": "2026-09-26T23:56:56.242697Z",
       "links": [
         {
           "label": "Source",
@@ -150,30 +164,31 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "U.S. Men's National Team boss Mauricio Pochettino has admitted to 'regretting' how he handled the controversy surrounding striker Folarin Balogun after his one-match ban was suspended during the FIFA World Cup",
-      "timestamp": "2026-09-26T21:38:27.069873Z",
+      "timestamp": "2026-09-26T23:56:56.242867Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.alloutsoccer.com/news/pochettino-regret-balogun-world-cup-2040258"
         }
       ]
-    },
-    {
-      "title": "Record-breaking Bellingham voted England men's player of the year",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "LONDON, Sept 25 : Jude Bellingham has been named England men's player of the year for a second successive season after a standout campaign in which he scored a record seven goals at the 2026 World Cup, the Football Association said on Friday.The 23-year-old R\u2026",
-      "timestamp": "2026-09-26T21:38:27.070965Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.channelnewsasia.com/sport/record-breaking-bellingham-voted-england-mens-player-year-6411001"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 26",
+      "loc": "Global",
+      "event": "Canada build on World Cup progress as road to 2030 begins",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.mlssoccer.com/news/canada-build-on-world-cup-progress-as-road-to-2030-begins"
+        }
+      ]
+    },
     {
       "date": "Sep 26",
       "loc": "Global",
@@ -203,22 +218,7 @@
           "url": "https://www.alloutsoccer.com/news/pochettino-regret-balogun-world-cup-2040258"
         }
       ]
-    },
-    {
-      "date": "Sep 26",
-      "loc": "Global",
-      "event": "Record-breaking Bellingham voted England men's player of the year",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.channelnewsasia.com/sport/record-breaking-bellingham-voted-england-mens-player-year-6411001"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-26T21:38:27.071252Z"
+  "lastUpdated": "2026-09-26T23:56:56.244056Z"
 }
