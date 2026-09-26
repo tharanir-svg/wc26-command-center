@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 2
+    "p3": 1
   },
   "watchlist": [
     {
@@ -136,25 +136,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Son Heung-min inches closer to history with a free kick in South Korea's first match since the 2026 World Cup.",
-      "timestamp": "2026-09-26T05:38:07.492959Z",
+      "timestamp": "2026-09-26T10:20:56.614347Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.usatoday.com/story/sports/soccer/2026/09/24/son-heung-min-goal-free-kick-south-korea-game/91930967007/"
-        }
-      ]
-    },
-    {
-      "title": "Coca-Cola launches golden can for Spain World Cup win: All you need to know",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The special-edition can is part of Coca-Cola's 'Own a Piece of History' campaign and features the FIFA World Cup Trophy along with the date of Spain's historic victory",
-      "timestamp": "2026-09-26T05:38:07.494139Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.business-standard.com/sports/business/coca-cola-launches-golden-can-for-spain-world-cup-win-all-you-need-to-know-126092401012_1.html"
         }
       ]
     }
@@ -174,22 +160,7 @@
           "url": "https://www.usatoday.com/story/sports/soccer/2026/09/24/son-heung-min-goal-free-kick-south-korea-game/91930967007/"
         }
       ]
-    },
-    {
-      "date": "Sep 26",
-      "loc": "Global",
-      "event": "Coca-Cola launches golden can for Spain World Cup win: All you need to know",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.business-standard.com/sports/business/coca-cola-launches-golden-can-for-spain-world-cup-win-all-you-need-to-know-126092401012_1.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-26T05:38:07.494659Z"
+  "lastUpdated": "2026-09-26T10:20:56.615582Z"
 }
