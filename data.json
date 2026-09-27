@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 9
+    "p3": 8
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In the months between the 2024 Euros and the 2026 FIFA World Cup, there was a malaise that gripped the French public, who became less enamoured and more ambivalent towards their national football team...",
-      "timestamp": "2026-09-27T14:21:01.298185Z",
+      "timestamp": "2026-09-27T18:41:34.842657Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After a historic showing at the 2026 FIFA World Cup, Jesse Marsch and Canada officially turn the page to the 2030 cycle as they take on Chile in an international friendly from Toronto on Saturday.",
-      "timestamp": "2026-09-27T14:21:01.298333Z",
+      "timestamp": "2026-09-27T18:41:34.842814Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Two months ago, the price point for a ticket for a specific event at MetLife Stadium landed as high as $39,704.",
-      "timestamp": "2026-09-27T14:21:01.298485Z",
+      "timestamp": "2026-09-27T18:41:34.842980Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Speaking in an exclusive interview with The Guardian, Lamine Yamal has opened up on his exchange with former FC Barcelona captain and club legend after the 2026 FIFA World Cup final.Following the fina...",
-      "timestamp": "2026-09-27T14:21:01.298589Z",
+      "timestamp": "2026-09-27T18:41:34.843091Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Can't get enough competitive soccer? Don't miss North Korea vs. Spain in the U-20 Women's World Cup final, happening now. Here's how to tune in.\nIt wasn't that long ago that the entire footballing community came together for the 2026 FIFA World Cup. Now, we'r\u2026",
-      "timestamp": "2026-09-27T14:21:01.298716Z",
+      "timestamp": "2026-09-27T18:41:34.843218Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Three Lions\u2019 first game after the 2026 FIFA World Cup will see them face world champions Spain at Wembley on Saturday evening. Here\u2019s how to watch it",
-      "timestamp": "2026-09-27T14:21:01.298956Z",
+      "timestamp": "2026-09-27T18:41:34.843493Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lainergie via Amazon [amazon.com] has *3-Pack 4\" Lainergie FIFA World Cup 2026 Mascot Vinyl Figurine Set (Zayu, Maple & Clutch)* on sale for *$9.99*. Shipping is free w/ Prime or on orders $35+. \n...",
-      "timestamp": "2026-09-27T14:21:01.299221Z",
+      "timestamp": "2026-09-27T18:41:34.843828Z",
       "links": [
         {
           "label": "Source",
@@ -234,25 +234,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By Ben SteinerJesse Marsch and the Canadian men\u2019s national team are staying on track.As national teams reconvene for the first international window since the 2026 FIFA World Cup, many are treating i...",
-      "timestamp": "2026-09-27T14:21:01.299286Z",
+      "timestamp": "2026-09-27T18:41:34.844073Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.mlssoccer.com/news/canada-build-on-world-cup-progress-as-road-to-2030-begins"
-        }
-      ]
-    },
-    {
-      "title": "David Beckham Earnings Boom Amid FIFA World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The soccer star and Inter Miami owner saw revenue and profits at his brand business soar even ahead of the 2026 FIFA World Cup.",
-      "timestamp": "2026-09-27T14:21:01.299657Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.hollywoodreporter.com/business/business-news/david-beckham-business-booming-world-cup-1236710198/"
         }
       ]
     }
@@ -377,22 +363,7 @@
           "url": "https://www.mlssoccer.com/news/canada-build-on-world-cup-progress-as-road-to-2030-begins"
         }
       ]
-    },
-    {
-      "date": "Sep 27",
-      "loc": "Global",
-      "event": "David Beckham Earnings Boom Amid FIFA World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "http://www.hollywoodreporter.com/business/business-news/david-beckham-business-booming-world-cup-1236710198/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-27T14:21:01.299924Z"
+  "lastUpdated": "2026-09-27T18:41:34.844313Z"
 }
