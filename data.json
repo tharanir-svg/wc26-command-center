@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 1,
-    "p3": 3
+    "p3": 4
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "How to watch England v Spain in Nations League 2026, channel and kick off time",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The Three Lions\u2019 first game after the 2026 FIFA World Cup will see them face world champions Spain at Wembley on Saturday evening. Here\u2019s how to watch it",
+      "timestamp": "2026-09-27T08:36:34.388434Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.timeout.com/london/news/how-to-watch-england-v-spain-nations-league-2026-channel-and-kick-off-time-092626"
+        }
+      ]
+    },
+    {
       "title": "3-Pack 4\" Lainergie FIFA World Cup 2026 Mascot Vinyl Figurine Set (Zayu, Maple & Clutch) $9.99 + Free Shipping w/ Prime or on $35+",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lainergie via Amazon [amazon.com] has *3-Pack 4\" Lainergie FIFA World Cup 2026 Mascot Vinyl Figurine Set (Zayu, Maple & Clutch)* on sale for *$9.99*. Shipping is free w/ Prime or on orders $35+. \n...",
-      "timestamp": "2026-09-27T02:39:01.722434Z",
+      "timestamp": "2026-09-27T08:36:34.388842Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By Ben SteinerJesse Marsch and the Canadian men\u2019s national team are staying on track.As national teams reconvene for the first international window since the 2026 FIFA World Cup, many are treating i...",
-      "timestamp": "2026-09-27T02:39:01.722526Z",
+      "timestamp": "2026-09-27T08:36:34.388938Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The soccer star and Inter Miami owner saw revenue and profits at his brand business soar even ahead of the 2026 FIFA World Cup.",
-      "timestamp": "2026-09-27T02:39:01.722898Z",
+      "timestamp": "2026-09-27T08:36:34.389395Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "U.S. Men's National Team boss Mauricio Pochettino has admitted to 'regretting' how he handled the controversy surrounding striker Folarin Balogun after his one-match ban was suspended during the FIFA World Cup",
-      "timestamp": "2026-09-27T02:39:01.723061Z",
+      "timestamp": "2026-09-27T08:36:34.389610Z",
       "links": [
         {
           "label": "Source",
@@ -188,6 +202,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 27",
+      "loc": "Global",
+      "event": "How to watch England v Spain in Nations League 2026, channel and kick off time",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.timeout.com/london/news/how-to-watch-england-v-spain-nations-league-2026-channel-and-kick-off-time-092626"
+        }
+      ]
+    },
     {
       "date": "Sep 27",
       "loc": "Global",
@@ -249,5 +278,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-27T02:39:01.724154Z"
+  "lastUpdated": "2026-09-27T08:36:34.390606Z"
 }
