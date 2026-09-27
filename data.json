@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 1,
-    "p3": 2
+    "p3": 3
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "3-Pack 4\" Lainergie FIFA World Cup 2026 Mascot Vinyl Figurine Set (Zayu, Maple & Clutch) $9.99 + Free Shipping w/ Prime or on $35+",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lainergie via Amazon [amazon.com] has *3-Pack 4\" Lainergie FIFA World Cup 2026 Mascot Vinyl Figurine Set (Zayu, Maple & Clutch)* on sale for *$9.99*. Shipping is free w/ Prime or on orders $35+. \n...",
+      "timestamp": "2026-09-27T02:39:01.722434Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slickdeals.net/f/20062938-3-pack-4-lainergie-fifa-world-cup-2026-mascot-vinyl-figurine-set-zayu-maple-clutch-9-99-free-shipping-w-prime-or-on-35"
+        }
+      ]
+    },
+    {
       "title": "Canada build on World Cup progress as road to 2030 begins",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By Ben SteinerJesse Marsch and the Canadian men\u2019s national team are staying on track.As national teams reconvene for the first international window since the 2026 FIFA World Cup, many are treating i...",
-      "timestamp": "2026-09-26T23:56:56.242302Z",
+      "timestamp": "2026-09-27T02:39:01.722526Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The soccer star and Inter Miami owner saw revenue and profits at his brand business soar even ahead of the 2026 FIFA World Cup.",
-      "timestamp": "2026-09-26T23:56:56.242697Z",
+      "timestamp": "2026-09-27T02:39:01.722898Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "U.S. Men's National Team boss Mauricio Pochettino has admitted to 'regretting' how he handled the controversy surrounding striker Folarin Balogun after his one-match ban was suspended during the FIFA World Cup",
-      "timestamp": "2026-09-26T23:56:56.242867Z",
+      "timestamp": "2026-09-27T02:39:01.723061Z",
       "links": [
         {
           "label": "Source",
@@ -175,7 +189,22 @@
   ],
   "timeline": [
     {
-      "date": "Sep 26",
+      "date": "Sep 27",
+      "loc": "Global",
+      "event": "3-Pack 4\" Lainergie FIFA World Cup 2026 Mascot Vinyl Figurine Set (Zayu, Maple & Clutch) $9.99 + Free Shipping w/ Prime or on $35+",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slickdeals.net/f/20062938-3-pack-4-lainergie-fifa-world-cup-2026-mascot-vinyl-figurine-set-zayu-maple-clutch-9-99-free-shipping-w-prime-or-on-35"
+        }
+      ]
+    },
+    {
+      "date": "Sep 27",
       "loc": "Global",
       "event": "Canada build on World Cup progress as road to 2030 begins",
       "type": "News",
@@ -190,7 +219,7 @@
       ]
     },
     {
-      "date": "Sep 26",
+      "date": "Sep 27",
       "loc": "Global",
       "event": "David Beckham Earnings Boom Amid FIFA World Cup",
       "type": "News",
@@ -205,7 +234,7 @@
       ]
     },
     {
-      "date": "Sep 26",
+      "date": "Sep 27",
       "loc": "Global",
       "event": "Mauricio Pochettino admits \u2018regret\u2019 regarding Folarin Balogun\u2019s World Cup suspension controversy",
       "type": "News",
@@ -220,5 +249,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-26T23:56:56.244056Z"
+  "lastUpdated": "2026-09-27T02:39:01.724154Z"
 }
