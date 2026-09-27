@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 1,
-    "p3": 4
+    "p2": 0,
+    "p3": 9
   },
   "watchlist": [
     {
@@ -131,12 +131,82 @@
   ],
   "risks": [
     {
+      "title": "Zidane fever grips France",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "In the months between the 2024 Euros and the 2026 FIFA World Cup, there was a malaise that gripped the French public, who became less enamoured and more ambivalent towards their national football team...",
+      "timestamp": "2026-09-27T14:21:01.298185Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.getfootballnewsfrance.com/2026/zidane-fever-grips-france/"
+        }
+      ]
+    },
+    {
+      "title": "Where to watch Canada vs. Chile live stream, TV channel, start time for CanMNT international friendly match",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "After a historic showing at the 2026 FIFA World Cup, Jesse Marsch and Canada officially turn the page to the 2030 cycle as they take on Chile in an international friendly from Toronto on Saturday.",
+      "timestamp": "2026-09-27T14:21:01.298333Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/ca/soccer/news/watch-canada-vs-chile-live-stream-tv-channel-time-canmnt-friendly/76db758acf971c0272c4c741"
+        }
+      ]
+    },
+    {
+      "title": "Titans-Giants tickets are available for as little as $17",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Two months ago, the price point for a ticket for a specific event at MetLife Stadium landed as high as $39,704.",
+      "timestamp": "2026-09-27T14:21:01.298485Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-giants-tickets-are-available-for-as-little-as-17"
+        }
+      ]
+    },
+    {
+      "title": "Lamine Yamal reveals what he told Messi after World Cup final: \u2018I said thank you for everything\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Speaking in an exclusive interview with The Guardian, Lamine Yamal has opened up on his exchange with former FC Barcelona captain and club legend after the 2026 FIFA World Cup final.Following the fina...",
+      "timestamp": "2026-09-27T14:21:01.298589Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/lamine-yamal-reveals-what-he-told-messi-after-world-cup-final-i-said-thank-you-for-everything/"
+        }
+      ]
+    },
+    {
+      "title": "How to Watch the 2026 FIFA U-20 Women's World Cup Bronze Final Live Without Cable (Even for Free)",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Can't get enough competitive soccer? Don't miss North Korea vs. Spain in the U-20 Women's World Cup final, happening now. Here's how to tune in.\nIt wasn't that long ago that the entire footballing community came together for the 2026 FIFA World Cup. Now, we'r\u2026",
+      "timestamp": "2026-09-27T14:21:01.298716Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/167154/how-to-watch-2026-fifa-u20-womens-world-cup-bronze-final-live-for-free"
+        }
+      ]
+    },
+    {
       "title": "How to watch England v Spain in Nations League 2026, channel and kick off time",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The Three Lions\u2019 first game after the 2026 FIFA World Cup will see them face world champions Spain at Wembley on Saturday evening. Here\u2019s how to watch it",
-      "timestamp": "2026-09-27T08:36:34.388434Z",
+      "timestamp": "2026-09-27T14:21:01.298956Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lainergie via Amazon [amazon.com] has *3-Pack 4\" Lainergie FIFA World Cup 2026 Mascot Vinyl Figurine Set (Zayu, Maple & Clutch)* on sale for *$9.99*. Shipping is free w/ Prime or on orders $35+. \n...",
-      "timestamp": "2026-09-27T08:36:34.388842Z",
+      "timestamp": "2026-09-27T14:21:01.299221Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By Ben SteinerJesse Marsch and the Canadian men\u2019s national team are staying on track.As national teams reconvene for the first international window since the 2026 FIFA World Cup, many are treating i...",
-      "timestamp": "2026-09-27T08:36:34.388938Z",
+      "timestamp": "2026-09-27T14:21:01.299286Z",
       "links": [
         {
           "label": "Source",
@@ -178,30 +248,91 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The soccer star and Inter Miami owner saw revenue and profits at his brand business soar even ahead of the 2026 FIFA World Cup.",
-      "timestamp": "2026-09-27T08:36:34.389395Z",
+      "timestamp": "2026-09-27T14:21:01.299657Z",
       "links": [
         {
           "label": "Source",
           "url": "http://www.hollywoodreporter.com/business/business-news/david-beckham-business-booming-world-cup-1236710198/"
         }
       ]
-    },
-    {
-      "title": "Mauricio Pochettino admits \u2018regret\u2019 regarding Folarin Balogun\u2019s World Cup suspension controversy",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "U.S. Men's National Team boss Mauricio Pochettino has admitted to 'regretting' how he handled the controversy surrounding striker Folarin Balogun after his one-match ban was suspended during the FIFA World Cup",
-      "timestamp": "2026-09-27T08:36:34.389610Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/pochettino-regret-balogun-world-cup-2040258"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 27",
+      "loc": "Global",
+      "event": "Zidane fever grips France",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.getfootballnewsfrance.com/2026/zidane-fever-grips-france/"
+        }
+      ]
+    },
+    {
+      "date": "Sep 27",
+      "loc": "Global",
+      "event": "Where to watch Canada vs. Chile live stream, TV channel, start time for CanMNT international friendly match",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/ca/soccer/news/watch-canada-vs-chile-live-stream-tv-channel-time-canmnt-friendly/76db758acf971c0272c4c741"
+        }
+      ]
+    },
+    {
+      "date": "Sep 27",
+      "loc": "New York / New Jersey",
+      "event": "Titans-Giants tickets are available for as little as $17",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-giants-tickets-are-available-for-as-little-as-17"
+        }
+      ]
+    },
+    {
+      "date": "Sep 27",
+      "loc": "Global",
+      "event": "Lamine Yamal reveals what he told Messi after World Cup final: \u2018I said thank you for everything\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/lamine-yamal-reveals-what-he-told-messi-after-world-cup-final-i-said-thank-you-for-everything/"
+        }
+      ]
+    },
+    {
+      "date": "Sep 27",
+      "loc": "Global",
+      "event": "How to Watch the 2026 FIFA U-20 Women's World Cup Bronze Final Live Without Cable (Even for Free)",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/167154/how-to-watch-2026-fifa-u20-womens-world-cup-bronze-final-live-for-free"
+        }
+      ]
+    },
     {
       "date": "Sep 27",
       "loc": "Global",
@@ -261,22 +392,7 @@
           "url": "http://www.hollywoodreporter.com/business/business-news/david-beckham-business-booming-world-cup-1236710198/"
         }
       ]
-    },
-    {
-      "date": "Sep 27",
-      "loc": "Global",
-      "event": "Mauricio Pochettino admits \u2018regret\u2019 regarding Folarin Balogun\u2019s World Cup suspension controversy",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.alloutsoccer.com/news/pochettino-regret-balogun-world-cup-2040258"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-27T08:36:34.390606Z"
+  "lastUpdated": "2026-09-27T14:21:01.299924Z"
 }
