@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 2
+    "p3": 4
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "USMNT Veterans \u2018Deserve Massive Credit\u2019 In Win Over Peru",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "ORLANDO, Fla. \u2013 The new cycle and road to the 2030 FIFA World Cup got off to a winning start for the U.S. Men\u2019s National Team with a 4-1 victory over CONMEBOL side Peru in the opening match of a f...",
+      "timestamp": "2026-09-28T20:17:03.926199Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ussoccer.com/stories/on-the-pitch/2026/09/usmnt/veterans-deserve-massive-credit-in-win-over-peru"
+        }
+      ]
+    },
+    {
+      "title": "Amazon - Lainergie FIFA World Cup 2026 Mascot Vinyl Figurine Set 3-Pack $9.99",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "No special codes or coupons are required. Get this FIFA World Cup mascot figurine set while supplies last.",
+      "timestamp": "2026-09-28T20:17:03.926325Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dealcatcher.com/deals/games-entertainment/toys-hobbies/lainergie-fifa-world-cup-mascot-vinyl-figurine-set-407862"
+        }
+      ]
+    },
+    {
       "title": "The Kids Are Alright: 4 Takeaways As Youngsters Shine In USA's Return To Action",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In its first game since the 2026 FIFA World Cup, the U.S. men's national team routed Peru 4-1 in an exhibition match in Orlando.",
-      "timestamp": "2026-09-28T13:01:57.909501Z",
+      "timestamp": "2026-09-28T20:17:03.926960Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mexico face Colombia at M&T Bank Stadium in Baltimore on Saturday, September 26, 2026, marking their first fixture following the 2026 World Cup and the kickoff of Mexico's 2026 MexTour. Here is all the information you need to watch the match live in the Unite\u2026",
-      "timestamp": "2026-09-28T13:01:57.909713Z",
+      "timestamp": "2026-09-28T20:17:03.927109Z",
       "links": [
         {
           "label": "Source",
@@ -160,6 +188,36 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 28",
+      "loc": "Global",
+      "event": "USMNT Veterans \u2018Deserve Massive Credit\u2019 In Win Over Peru",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.ussoccer.com/stories/on-the-pitch/2026/09/usmnt/veterans-deserve-massive-credit-in-win-over-peru"
+        }
+      ]
+    },
+    {
+      "date": "Sep 28",
+      "loc": "Global",
+      "event": "Amazon - Lainergie FIFA World Cup 2026 Mascot Vinyl Figurine Set 3-Pack $9.99",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dealcatcher.com/deals/games-entertainment/toys-hobbies/lainergie-fifa-world-cup-mascot-vinyl-figurine-set-407862"
+        }
+      ]
+    },
     {
       "date": "Sep 28",
       "loc": "Global",
@@ -191,5 +249,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-28T13:01:57.910599Z"
+  "lastUpdated": "2026-09-28T20:17:03.927503Z"
 }
