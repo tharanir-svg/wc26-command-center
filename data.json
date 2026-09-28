@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 2
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In its first game since the 2026 FIFA World Cup, the U.S. men's national team routed Peru 4-1 in an exhibition match in Orlando.",
-      "timestamp": "2026-09-28T05:59:59.001419Z",
+      "timestamp": "2026-09-28T13:01:57.909501Z",
       "links": [
         {
           "label": "Source",
@@ -150,67 +150,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mexico face Colombia at M&T Bank Stadium in Baltimore on Saturday, September 26, 2026, marking their first fixture following the 2026 World Cup and the kickoff of Mexico's 2026 MexTour. Here is all the information you need to watch the match live in the Unite\u2026",
-      "timestamp": "2026-09-28T05:59:59.001665Z",
+      "timestamp": "2026-09-28T13:01:57.909713Z",
       "links": [
         {
           "label": "Source",
           "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-mexico-vs-colombia-match-in-the-usa-live-stream-and-tv-for-2026-international-friendly/"
-        }
-      ]
-    },
-    {
-      "title": "Zidane fever grips France",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "In the months between the 2024 Euros and the 2026 FIFA World Cup, there was a malaise that gripped the French public, who became less enamoured and more ambivalent towards their national football team...",
-      "timestamp": "2026-09-28T05:59:59.002417Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.getfootballnewsfrance.com/2026/zidane-fever-grips-france/"
-        }
-      ]
-    },
-    {
-      "title": "Where to watch Canada vs. Chile live stream, TV channel, start time for CanMNT international friendly match",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "After a historic showing at the 2026 FIFA World Cup, Jesse Marsch and Canada officially turn the page to the 2030 cycle as they take on Chile in an international friendly from Toronto on Saturday.",
-      "timestamp": "2026-09-28T05:59:59.002550Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/ca/soccer/news/watch-canada-vs-chile-live-stream-tv-channel-time-canmnt-friendly/76db758acf971c0272c4c741"
-        }
-      ]
-    },
-    {
-      "title": "Titans-Giants tickets are available for as little as $17",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Two months ago, the price point for a ticket for a specific event at MetLife Stadium landed as high as $39,704.",
-      "timestamp": "2026-09-28T05:59:59.002738Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-giants-tickets-are-available-for-as-little-as-17"
-        }
-      ]
-    },
-    {
-      "title": "Lamine Yamal reveals what he told Messi after World Cup final: \u2018I said thank you for everything\u2019",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Speaking in an exclusive interview with The Guardian, Lamine Yamal has opened up on his exchange with former FC Barcelona captain and club legend after the 2026 FIFA World Cup final.Following the fina...",
-      "timestamp": "2026-09-28T05:59:59.002879Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/lamine-yamal-reveals-what-he-told-messi-after-world-cup-final-i-said-thank-you-for-everything/"
         }
       ]
     }
@@ -245,67 +189,7 @@
           "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-mexico-vs-colombia-match-in-the-usa-live-stream-and-tv-for-2026-international-friendly/"
         }
       ]
-    },
-    {
-      "date": "Sep 28",
-      "loc": "Global",
-      "event": "Zidane fever grips France",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.getfootballnewsfrance.com/2026/zidane-fever-grips-france/"
-        }
-      ]
-    },
-    {
-      "date": "Sep 28",
-      "loc": "Global",
-      "event": "Where to watch Canada vs. Chile live stream, TV channel, start time for CanMNT international friendly match",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/ca/soccer/news/watch-canada-vs-chile-live-stream-tv-channel-time-canmnt-friendly/76db758acf971c0272c4c741"
-        }
-      ]
-    },
-    {
-      "date": "Sep 28",
-      "loc": "New York / New Jersey",
-      "event": "Titans-Giants tickets are available for as little as $17",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-giants-tickets-are-available-for-as-little-as-17"
-        }
-      ]
-    },
-    {
-      "date": "Sep 28",
-      "loc": "Global",
-      "event": "Lamine Yamal reveals what he told Messi after World Cup final: \u2018I said thank you for everything\u2019",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/lamine-yamal-reveals-what-he-told-messi-after-world-cup-final-i-said-thank-you-for-everything/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-28T05:59:59.003073Z"
+  "lastUpdated": "2026-09-28T13:01:57.910599Z"
 }
