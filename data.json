@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 4
+    "p3": 5
   },
   "watchlist": [
     {
@@ -131,12 +131,54 @@
   ],
   "risks": [
     {
+      "title": "From Match Day to Monday Morning: Three Enterprise AI Lessons from the World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The FIFA World Cup 2026 shows what it takes to move enterprise AI beyond pilots and into resilient, integrated, real-world operations at scale.",
+      "timestamp": "2026-09-29T13:26:48.227930Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://me.pcmag.com/en/artificial-intelligence-5/38172/from-match-day-to-monday-morning-three-enterprise-ai-lessons-from-the-world-cup"
+        }
+      ]
+    },
+    {
+      "title": "Passport Helps Host Cities Keep Parking and Curb Operations Moving During FIFA World Cup 2026",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "New data finds Los Angeles market saw 100% increase in activity on match days CHARLOTTE, N.C., Sept. 28, 2026 /PRNewswire/ -- Passport, the most trusted technology partner for innovative curb management solutions, today released new data showing how cities ac\u2026",
+      "timestamp": "2026-09-29T13:26:48.228012Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/passport-helps-host-cities-keep-parking-and-curb-operations-moving-during-fifa-world-cup-2026-302890497.html"
+        }
+      ]
+    },
+    {
+      "title": "FIFA 2026 World Cup Official Mascot 4\" Figurines Set for $10 + free shipping w/ Prime",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "This officially licensed FIFA World Cup 2026 mascot set is $16 off the regular price of $26, matching its all-time low on Amazon. It includes all three mascots, Clutch, Zayu, and Maple, each with its own display case, for one collector's set price. Buy Now at\u2026",
+      "timestamp": "2026-09-29T13:26:48.228124Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dealnews.com/FIFA-2026-World-Cup-Official-Mascot-4-Figurines-Set-for-10-free-shipping-w-Prime/22223115.html"
+        }
+      ]
+    },
+    {
       "title": "USMNT Veterans \u2018Deserve Massive Credit\u2019 In Win Over Peru",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "ORLANDO, Fla. \u2013 The new cycle and road to the 2030 FIFA World Cup got off to a winning start for the U.S. Men\u2019s National Team with a 4-1 victory over CONMEBOL side Peru in the opening match of a f...",
-      "timestamp": "2026-09-29T06:18:08.809561Z",
+      "timestamp": "2026-09-29T13:26:48.228988Z",
       "links": [
         {
           "label": "Source",
@@ -150,44 +192,61 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "No special codes or coupons are required. Get this FIFA World Cup mascot figurine set while supplies last.",
-      "timestamp": "2026-09-29T06:18:08.809700Z",
+      "timestamp": "2026-09-29T13:26:48.229126Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.dealcatcher.com/deals/games-entertainment/toys-hobbies/lainergie-fifa-world-cup-mascot-vinyl-figurine-set-407862"
         }
       ]
-    },
-    {
-      "title": "The Kids Are Alright: 4 Takeaways As Youngsters Shine In USA's Return To Action",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "In its first game since the 2026 FIFA World Cup, the U.S. men's national team routed Peru 4-1 in an exhibition match in Orlando.",
-      "timestamp": "2026-09-29T06:18:08.810467Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/usmnt-cavan-sullivan-peru-friendly-world-cup"
-        }
-      ]
-    },
-    {
-      "title": "How to watch Mexico vs Colombia match in the USA: Live Stream and TV for 2026 International friendly",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Mexico face Colombia at M&T Bank Stadium in Baltimore on Saturday, September 26, 2026, marking their first fixture following the 2026 World Cup and the kickoff of Mexico's 2026 MexTour. Here is all the information you need to watch the match live in the Unite\u2026",
-      "timestamp": "2026-09-29T06:18:08.810721Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-mexico-vs-colombia-match-in-the-usa-live-stream-and-tv-for-2026-international-friendly/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 29",
+      "loc": "Global",
+      "event": "From Match Day to Monday Morning: Three Enterprise AI Lessons from the World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://me.pcmag.com/en/artificial-intelligence-5/38172/from-match-day-to-monday-morning-three-enterprise-ai-lessons-from-the-world-cup"
+        }
+      ]
+    },
+    {
+      "date": "Sep 29",
+      "loc": "Global",
+      "event": "Passport Helps Host Cities Keep Parking and Curb Operations Moving During FIFA World Cup 2026",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/passport-helps-host-cities-keep-parking-and-curb-operations-moving-during-fifa-world-cup-2026-302890497.html"
+        }
+      ]
+    },
+    {
+      "date": "Sep 29",
+      "loc": "Global",
+      "event": "FIFA 2026 World Cup Official Mascot 4\" Figurines Set for $10 + free shipping w/ Prime",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dealnews.com/FIFA-2026-World-Cup-Official-Mascot-4-Figurines-Set-for-10-free-shipping-w-Prime/22223115.html"
+        }
+      ]
+    },
     {
       "date": "Sep 29",
       "loc": "Global",
@@ -217,37 +276,7 @@
           "url": "https://www.dealcatcher.com/deals/games-entertainment/toys-hobbies/lainergie-fifa-world-cup-mascot-vinyl-figurine-set-407862"
         }
       ]
-    },
-    {
-      "date": "Sep 29",
-      "loc": "Global",
-      "event": "The Kids Are Alright: 4 Takeaways As Youngsters Shine In USA's Return To Action",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/usmnt-cavan-sullivan-peru-friendly-world-cup"
-        }
-      ]
-    },
-    {
-      "date": "Sep 29",
-      "loc": "Global",
-      "event": "How to watch Mexico vs Colombia match in the USA: Live Stream and TV for 2026 International friendly",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-mexico-vs-colombia-match-in-the-usa-live-stream-and-tv-for-2026-international-friendly/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-29T06:18:08.810929Z"
+  "lastUpdated": "2026-09-29T13:26:48.229845Z"
 }
