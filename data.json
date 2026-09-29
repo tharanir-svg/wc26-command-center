@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 5
+    "p3": 7
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "Wissa spoils Zimbabwe homecoming as DR Congo win AFCON qualifier",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Yoane Wissa scored the first goal and created the second as the Democratic Republic of Congo spoilt a Zimbabwe homecoming by winning a 2027 Africa Cup of Nations qualifier 2-1 in Harare on Monday.DR Congo, last-32 losers to England at the 2026 World Cup, went\u2026",
+      "timestamp": "2026-09-29T18:55:15.362615Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/wissa-spoils-zimbabwe-homecoming-dr-184030678.html"
+        }
+      ]
+    },
+    {
+      "title": "Barcelona VP strongly believes Camp Nou will host 2030 World Cup final: \u2018It\u2019s very possible\u2019",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The venue for the 2030 FIFA World Cup final remains a major topic of debate. The tournament will be hosted jointly by Spain and Morocco, with both nations vying to host the showpiece event.Reports hav...",
+      "timestamp": "2026-09-29T18:55:15.362841Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelona-vp-strongly-believes-camp-nou-will-host-2030-world-cup-final-its-very-possible/"
+        }
+      ]
+    },
+    {
       "title": "From Match Day to Monday Morning: Three Enterprise AI Lessons from the World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup 2026 shows what it takes to move enterprise AI beyond pilots and into resilient, integrated, real-world operations at scale.",
-      "timestamp": "2026-09-29T13:26:48.227930Z",
+      "timestamp": "2026-09-29T18:55:15.363198Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "New data finds Los Angeles market saw 100% increase in activity on match days CHARLOTTE, N.C., Sept. 28, 2026 /PRNewswire/ -- Passport, the most trusted technology partner for innovative curb management solutions, today released new data showing how cities ac\u2026",
-      "timestamp": "2026-09-29T13:26:48.228012Z",
+      "timestamp": "2026-09-29T18:55:15.363271Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This officially licensed FIFA World Cup 2026 mascot set is $16 off the regular price of $26, matching its all-time low on Amazon. It includes all three mascots, Clutch, Zayu, and Maple, each with its own display case, for one collector's set price. Buy Now at\u2026",
-      "timestamp": "2026-09-29T13:26:48.228124Z",
+      "timestamp": "2026-09-29T18:55:15.363413Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "ORLANDO, Fla. \u2013 The new cycle and road to the 2030 FIFA World Cup got off to a winning start for the U.S. Men\u2019s National Team with a 4-1 victory over CONMEBOL side Peru in the opening match of a f...",
-      "timestamp": "2026-09-29T13:26:48.228988Z",
+      "timestamp": "2026-09-29T18:55:15.364539Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "No special codes or coupons are required. Get this FIFA World Cup mascot figurine set while supplies last.",
-      "timestamp": "2026-09-29T13:26:48.229126Z",
+      "timestamp": "2026-09-29T18:55:15.364734Z",
       "links": [
         {
           "label": "Source",
@@ -202,6 +230,36 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Sep 29",
+      "loc": "Global",
+      "event": "Wissa spoils Zimbabwe homecoming as DR Congo win AFCON qualifier",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/wissa-spoils-zimbabwe-homecoming-dr-184030678.html"
+        }
+      ]
+    },
+    {
+      "date": "Sep 29",
+      "loc": "Global",
+      "event": "Barcelona VP strongly believes Camp Nou will host 2030 World Cup final: \u2018It\u2019s very possible\u2019",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelona-vp-strongly-believes-camp-nou-will-host-2030-world-cup-final-its-very-possible/"
+        }
+      ]
+    },
     {
       "date": "Sep 29",
       "loc": "Global",
@@ -278,5 +336,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-29T13:26:48.229845Z"
+  "lastUpdated": "2026-09-29T18:55:15.365225Z"
 }
