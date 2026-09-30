@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 4
+    "p3": 2
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Aymeric Laporte has offered a glowing assessment of Barcelona defender Pau Cubarsi after the pair formed one of Spain\u2019s most effective defensive partnerships during their 2026 FIFA World Cup campaig...",
-      "timestamp": "2026-09-30T19:40:25.109901Z",
+      "timestamp": "2026-09-30T23:14:27.078378Z",
       "links": [
         {
           "label": "Source",
@@ -150,39 +150,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Cape Verde goalkeeper Vozinha is speaking out about his newfound fame following the 2026 FIFA World Cup, revealing that he longs for the days before millions knew his name.",
-      "timestamp": "2026-09-30T19:40:25.110171Z",
+      "timestamp": "2026-09-30T23:14:27.078527Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.today.com/news/sports/vozinha-cape-verde-goalkeeper-fame-rcna600387"
-        }
-      ]
-    },
-    {
-      "title": "Wissa spoils Zimbabwe homecoming as DR Congo win AFCON qualifier",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Yoane Wissa scored the first goal and created the second as the Democratic Republic of Congo spoilt a Zimbabwe homecoming by winning a 2027 Africa Cup of Nations qualifier 2-1 in Harare on Monday.DR Congo, last-32 losers to England at the 2026 World Cup, went\u2026",
-      "timestamp": "2026-09-30T19:40:25.110583Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/wissa-spoils-zimbabwe-homecoming-dr-184030678.html"
-        }
-      ]
-    },
-    {
-      "title": "Barcelona VP strongly believes Camp Nou will host 2030 World Cup final: \u2018It\u2019s very possible\u2019",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The venue for the 2030 FIFA World Cup final remains a major topic of debate. The tournament will be hosted jointly by Spain and Morocco, with both nations vying to host the showpiece event.Reports hav...",
-      "timestamp": "2026-09-30T19:40:25.110814Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelona-vp-strongly-believes-camp-nou-will-host-2030-world-cup-final-its-very-possible/"
         }
       ]
     }
@@ -217,37 +189,7 @@
           "url": "https://www.today.com/news/sports/vozinha-cape-verde-goalkeeper-fame-rcna600387"
         }
       ]
-    },
-    {
-      "date": "Sep 30",
-      "loc": "Global",
-      "event": "Wissa spoils Zimbabwe homecoming as DR Congo win AFCON qualifier",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sports.yahoo.com/articles/wissa-spoils-zimbabwe-homecoming-dr-184030678.html"
-        }
-      ]
-    },
-    {
-      "date": "Sep 30",
-      "loc": "Global",
-      "event": "Barcelona VP strongly believes Camp Nou will host 2030 World Cup final: \u2018It\u2019s very possible\u2019",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/barcelona-vp-strongly-believes-camp-nou-will-host-2030-world-cup-final-its-very-possible/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-30T19:40:25.111038Z"
+  "lastUpdated": "2026-09-30T23:14:27.078864Z"
 }
