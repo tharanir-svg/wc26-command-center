@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 7
+    "p3": 4
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Aymeric Laporte has offered a glowing assessment of Barcelona defender Pau Cubarsi after the pair formed one of Spain\u2019s most effective defensive partnerships during their 2026 FIFA World Cup campaig...",
-      "timestamp": "2026-09-30T14:17:03.976994Z",
+      "timestamp": "2026-09-30T19:40:25.109901Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Cape Verde goalkeeper Vozinha is speaking out about his newfound fame following the 2026 FIFA World Cup, revealing that he longs for the days before millions knew his name.",
-      "timestamp": "2026-09-30T14:17:03.977159Z",
+      "timestamp": "2026-09-30T19:40:25.110171Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Yoane Wissa scored the first goal and created the second as the Democratic Republic of Congo spoilt a Zimbabwe homecoming by winning a 2027 Africa Cup of Nations qualifier 2-1 in Harare on Monday.DR Congo, last-32 losers to England at the 2026 World Cup, went\u2026",
-      "timestamp": "2026-09-30T14:17:03.977409Z",
+      "timestamp": "2026-09-30T19:40:25.110583Z",
       "links": [
         {
           "label": "Source",
@@ -178,53 +178,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The venue for the 2030 FIFA World Cup final remains a major topic of debate. The tournament will be hosted jointly by Spain and Morocco, with both nations vying to host the showpiece event.Reports hav...",
-      "timestamp": "2026-09-30T14:17:03.977519Z",
+      "timestamp": "2026-09-30T19:40:25.110814Z",
       "links": [
         {
           "label": "Source",
           "url": "https://barcauniversal.com/barcelona-vp-strongly-believes-camp-nou-will-host-2030-world-cup-final-its-very-possible/"
-        }
-      ]
-    },
-    {
-      "title": "From Match Day to Monday Morning: Three Enterprise AI Lessons from the World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The FIFA World Cup 2026 shows what it takes to move enterprise AI beyond pilots and into resilient, integrated, real-world operations at scale.",
-      "timestamp": "2026-09-30T14:17:03.977734Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://me.pcmag.com/en/artificial-intelligence-5/38172/from-match-day-to-monday-morning-three-enterprise-ai-lessons-from-the-world-cup"
-        }
-      ]
-    },
-    {
-      "title": "Passport Helps Host Cities Keep Parking and Curb Operations Moving During FIFA World Cup 2026",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "New data finds Los Angeles market saw 100% increase in activity on match days CHARLOTTE, N.C., Sept. 28, 2026 /PRNewswire/ -- Passport, the most trusted technology partner for innovative curb management solutions, today released new data showing how cities ac\u2026",
-      "timestamp": "2026-09-30T14:17:03.977774Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.prnewswire.com/news-releases/passport-helps-host-cities-keep-parking-and-curb-operations-moving-during-fifa-world-cup-2026-302890497.html"
-        }
-      ]
-    },
-    {
-      "title": "FIFA 2026 World Cup Official Mascot 4\" Figurines Set for $10 + free shipping w/ Prime",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "This officially licensed FIFA World Cup 2026 mascot set is $16 off the regular price of $26, matching its all-time low on Amazon. It includes all three mascots, Clutch, Zayu, and Maple, each with its own display case, for one collector's set price. Buy Now at\u2026",
-      "timestamp": "2026-09-30T14:17:03.977858Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/FIFA-2026-World-Cup-Official-Mascot-4-Figurines-Set-for-10-free-shipping-w-Prime/22223115.html"
         }
       ]
     }
@@ -289,52 +247,7 @@
           "url": "https://barcauniversal.com/barcelona-vp-strongly-believes-camp-nou-will-host-2030-world-cup-final-its-very-possible/"
         }
       ]
-    },
-    {
-      "date": "Sep 30",
-      "loc": "Global",
-      "event": "From Match Day to Monday Morning: Three Enterprise AI Lessons from the World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://me.pcmag.com/en/artificial-intelligence-5/38172/from-match-day-to-monday-morning-three-enterprise-ai-lessons-from-the-world-cup"
-        }
-      ]
-    },
-    {
-      "date": "Sep 30",
-      "loc": "Global",
-      "event": "Passport Helps Host Cities Keep Parking and Curb Operations Moving During FIFA World Cup 2026",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.prnewswire.com/news-releases/passport-helps-host-cities-keep-parking-and-curb-operations-moving-during-fifa-world-cup-2026-302890497.html"
-        }
-      ]
-    },
-    {
-      "date": "Sep 30",
-      "loc": "Global",
-      "event": "FIFA 2026 World Cup Official Mascot 4\" Figurines Set for $10 + free shipping w/ Prime",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/FIFA-2026-World-Cup-Official-Mascot-4-Figurines-Set-for-10-free-shipping-w-Prime/22223115.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-09-30T14:17:03.978173Z"
+  "lastUpdated": "2026-09-30T19:40:25.111038Z"
 }
