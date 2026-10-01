@@ -131,25 +131,36 @@
   ],
   "risks": [
     {
-      "title": "No active World Cup security issues detected",
+      "title": "Dhorasoo Sees India's World Cup Dream As Achievable",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "No verified FIFA World Cup 2026 operational, transportation or security disruptions detected.",
-      "timestamp": "2026-10-01T09:28:01.692034Z",
-      "links": []
+      "description": "Vikash Dhorasoo, the first Indian-origin player in a FIFA World Cup, expresses strong belief in India's potential to reach football's biggest stage. Visiting India for a friendly match against Brazil, Dhorasoo highlights the importance of method, clear object\u2026",
+      "timestamp": "2026-10-01T16:43:08.619683Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/vikash-dhorasoo-india-brazil-match-a-new-story-for-indian-football/20260930.htm"
+        }
+      ]
     }
   ],
   "timeline": [
     {
       "date": "Oct 01",
       "loc": "Global",
-      "event": "Monitoring cycle completed",
-      "type": "System",
+      "event": "Dhorasoo Sees India's World Cup Dream As Achievable",
+      "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
-      "impact": "P3 ADVISORY"
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rediff.com/sports/report/vikash-dhorasoo-india-brazil-match-a-new-story-for-indian-football/20260930.htm"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-10-01T09:28:01.692219Z"
+  "lastUpdated": "2026-10-01T16:43:08.621286Z"
 }
