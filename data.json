@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 2
+    "p3": 1
   },
   "watchlist": [
     {
@@ -131,65 +131,25 @@
   ],
   "risks": [
     {
-      "title": "Aymeric Laporte explains what makes Barcelona star Pau Cubarsi so special: \u2018Doesn\u2019t make mistakes for a player his age\u2019",
+      "title": "No active World Cup security issues detected",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "Aymeric Laporte has offered a glowing assessment of Barcelona defender Pau Cubarsi after the pair formed one of Spain\u2019s most effective defensive partnerships during their 2026 FIFA World Cup campaig...",
-      "timestamp": "2026-10-01T02:35:06.034219Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/aymeric-laporte-explains-what-makes-barcelona-star-pau-cubarsi-so-special-doesnt-make-mistakes-for-a-player-his-age/"
-        }
-      ]
-    },
-    {
-      "title": "Cape Verde Goalkeeper Vozinha Wishes He Could Return to Life Before World Cup Fame",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Cape Verde goalkeeper Vozinha is speaking out about his newfound fame following the 2026 FIFA World Cup, revealing that he longs for the days before millions knew his name.",
-      "timestamp": "2026-10-01T02:35:06.034419Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.today.com/news/sports/vozinha-cape-verde-goalkeeper-fame-rcna600387"
-        }
-      ]
+      "description": "No verified FIFA World Cup 2026 operational, transportation or security disruptions detected.",
+      "timestamp": "2026-10-01T09:28:01.692034Z",
+      "links": []
     }
   ],
   "timeline": [
     {
       "date": "Oct 01",
       "loc": "Global",
-      "event": "Aymeric Laporte explains what makes Barcelona star Pau Cubarsi so special: \u2018Doesn\u2019t make mistakes for a player his age\u2019",
-      "type": "News",
+      "event": "Monitoring cycle completed",
+      "type": "System",
       "confidence": "Confirmed",
       "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/aymeric-laporte-explains-what-makes-barcelona-star-pau-cubarsi-so-special-doesnt-make-mistakes-for-a-player-his-age/"
-        }
-      ]
-    },
-    {
-      "date": "Oct 01",
-      "loc": "Global",
-      "event": "Cape Verde Goalkeeper Vozinha Wishes He Could Return to Life Before World Cup Fame",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.today.com/news/sports/vozinha-cape-verde-goalkeeper-fame-rcna600387"
-        }
-      ]
+      "impact": "P3 ADVISORY"
     }
   ],
-  "lastUpdated": "2026-10-01T02:35:06.034761Z"
+  "lastUpdated": "2026-10-01T09:28:01.692219Z"
 }
