@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 4
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "Lamine Yamal shares what he told Messi after beating Argentina",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "mrogowski_photography/Depositphotos Lamine Yamal and Lionel Messi meet after final Lamine Yamal Nasraoui Ebana, Spain\u2019s 19-year-old forward, and Lionel Messi, Argentina\u2019s captain, met on the field at MetLife Stadium in East Rutherford, New Jersey, after the 2\u2026",
+      "timestamp": "2026-10-02T19:35:12.798215Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://gamedaychatter.com/lamine-yamal-shares-what-he-told-messi-after-beating-argentina/"
+        }
+      ]
+    },
+    {
+      "title": "RFEF president insists 2030 World Cup final will be hosted in Madrid or Barcelona",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Speaking to the media this week ahead of the Spain U-20s match against Mexico, the president of the Spanish Football Federation (RFEF), Rafael Louzan, addressed the topic of the 2030 FIFA World Cup fi...",
+      "timestamp": "2026-10-02T19:35:12.798568Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/rfef-president-insists-2030-world-cup-final-will-be-hosted-in-madrid-or-barcelona/"
+        }
+      ]
+    },
+    {
       "title": "USMNT star who stayed silent during Donald Trump's World Cup call retires",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "U.S. Men's National Team legend Tim Ream has announced his retirement from international soccer, just months after he stayed silent during President Donald Trump's phone call to the team ahead of their FIFA World Cup opener",
-      "timestamp": "2026-10-02T14:11:47.430220Z",
+      "timestamp": "2026-10-02T19:35:12.799458Z",
       "links": [
         {
           "label": "Source",
@@ -150,30 +178,46 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Having had to face the disappointment of missing out on Spain\u2019s 2026 FIFA World Cup triumph, Real Madrid defender is back in the national team setup.The 20-year-old starlet has made a positive start...",
-      "timestamp": "2026-10-02T14:11:47.430445Z",
+      "timestamp": "2026-10-02T19:35:12.799737Z",
       "links": [
         {
           "label": "Source",
           "url": "https://madriduniversal.com/report-inside-the-work-behind-real-madrid-stars-resurgence-after-world-cup-disappointment/"
         }
       ]
-    },
-    {
-      "title": "Dhorasoo Sees India's World Cup Dream As Achievable",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Vikash Dhorasoo, the first Indian-origin player in a FIFA World Cup, expresses strong belief in India's potential to reach football's biggest stage. Visiting India for a friendly match against Brazil, Dhorasoo highlights the importance of method, clear object\u2026",
-      "timestamp": "2026-10-02T14:11:47.430828Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/vikash-dhorasoo-india-brazil-match-a-new-story-for-indian-football/20260930.htm"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 02",
+      "loc": "New York / New Jersey",
+      "event": "Lamine Yamal shares what he told Messi after beating Argentina",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://gamedaychatter.com/lamine-yamal-shares-what-he-told-messi-after-beating-argentina/"
+        }
+      ]
+    },
+    {
+      "date": "Oct 02",
+      "loc": "Global",
+      "event": "RFEF president insists 2030 World Cup final will be hosted in Madrid or Barcelona",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/rfef-president-insists-2030-world-cup-final-will-be-hosted-in-madrid-or-barcelona/"
+        }
+      ]
+    },
     {
       "date": "Oct 02",
       "loc": "Global",
@@ -203,22 +247,7 @@
           "url": "https://madriduniversal.com/report-inside-the-work-behind-real-madrid-stars-resurgence-after-world-cup-disappointment/"
         }
       ]
-    },
-    {
-      "date": "Oct 02",
-      "loc": "Global",
-      "event": "Dhorasoo Sees India's World Cup Dream As Achievable",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rediff.com/sports/report/vikash-dhorasoo-india-brazil-match-a-new-story-for-indian-football/20260930.htm"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-02T14:11:47.431172Z"
+  "lastUpdated": "2026-10-02T19:35:12.799888Z"
 }
