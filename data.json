@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 4
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "FIFA World Cup Matches Bring $850 Million to Bay Area, Report Says",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The FIFA World Cup brought matches, team base camps and fan watch parties and events to the region.",
+      "timestamp": "2026-10-03T02:27:42.621078Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.kqed.org/news/12102374/fifa-world-cup-matches-bring-850-million-to-bay-area-report-says"
+        }
+      ]
+    },
+    {
       "title": "Montreal, Quebec City named Canada's co-host cities for 2027 women's volleyball World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Montreal and Quebec City were announced Thursday as Canada's co-host cities of the 2027 FIVB Women's Volleyball World Cup, which will be played in North America for the first time.",
-      "timestamp": "2026-10-02T23:19:35.843246Z",
+      "timestamp": "2026-10-03T02:27:42.621186Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "mrogowski_photography/Depositphotos Lamine Yamal and Lionel Messi meet after final Lamine Yamal Nasraoui Ebana, Spain\u2019s 19-year-old forward, and Lionel Messi, Argentina\u2019s captain, met on the field at MetLife Stadium in East Rutherford, New Jersey, after the 2\u2026",
-      "timestamp": "2026-10-02T23:19:35.843731Z",
+      "timestamp": "2026-10-03T02:27:42.621564Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Speaking to the media this week ahead of the Spain U-20s match against Mexico, the president of the Spanish Football Federation (RFEF), Rafael Louzan, addressed the topic of the 2030 FIFA World Cup fi...",
-      "timestamp": "2026-10-02T23:19:35.844082Z",
+      "timestamp": "2026-10-03T02:27:42.621866Z",
       "links": [
         {
           "label": "Source",
@@ -175,7 +189,22 @@
   ],
   "timeline": [
     {
-      "date": "Oct 02",
+      "date": "Oct 03",
+      "loc": "Global",
+      "event": "FIFA World Cup Matches Bring $850 Million to Bay Area, Report Says",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.kqed.org/news/12102374/fifa-world-cup-matches-bring-850-million-to-bay-area-report-says"
+        }
+      ]
+    },
+    {
+      "date": "Oct 03",
       "loc": "Global",
       "event": "Montreal, Quebec City named Canada's co-host cities for 2027 women's volleyball World Cup",
       "type": "News",
@@ -190,7 +219,7 @@
       ]
     },
     {
-      "date": "Oct 02",
+      "date": "Oct 03",
       "loc": "New York / New Jersey",
       "event": "Lamine Yamal shares what he told Messi after beating Argentina",
       "type": "News",
@@ -205,7 +234,7 @@
       ]
     },
     {
-      "date": "Oct 02",
+      "date": "Oct 03",
       "loc": "Global",
       "event": "RFEF president insists 2030 World Cup final will be hosted in Madrid or Barcelona",
       "type": "News",
@@ -220,5 +249,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-02T23:19:35.845289Z"
+  "lastUpdated": "2026-10-03T02:27:42.622869Z"
 }
