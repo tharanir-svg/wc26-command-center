@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 2
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mexican boxing star Sa\u00fal \"Canelo\" \u00c1lvarez has revealed that he has a venue in mind for his farewell fight.",
-      "timestamp": "2026-10-03T20:14:56.056604Z",
+      "timestamp": "2026-10-03T23:23:47.048607Z",
       "links": [
         {
           "label": "Source",
@@ -150,25 +150,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The FIFA World Cup brought matches, team base camps and fan watch parties and events to the region.",
-      "timestamp": "2026-10-03T20:14:56.057633Z",
+      "timestamp": "2026-10-03T23:23:47.049433Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.kqed.org/news/12102374/fifa-world-cup-matches-bring-850-million-to-bay-area-report-says"
-        }
-      ]
-    },
-    {
-      "title": "Montreal, Quebec City named Canada's co-host cities for 2027 women's volleyball World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Montreal and Quebec City were announced Thursday as Canada's co-host cities of the 2027 FIVB Women's Volleyball World Cup, which will be played in North America for the first time.",
-      "timestamp": "2026-10-03T20:14:56.057769Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbc.ca/sports/olympics/summer/volleyball/montreal-quebec-city-women-volleyball-world-cup-2027-9.7366225"
         }
       ]
     }
@@ -203,22 +189,7 @@
           "url": "https://www.kqed.org/news/12102374/fifa-world-cup-matches-bring-850-million-to-bay-area-report-says"
         }
       ]
-    },
-    {
-      "date": "Oct 03",
-      "loc": "Global",
-      "event": "Montreal, Quebec City named Canada's co-host cities for 2027 women's volleyball World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.cbc.ca/sports/olympics/summer/volleyball/montreal-quebec-city-women-volleyball-world-cup-2027-9.7366225"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-03T20:14:56.058125Z"
+  "lastUpdated": "2026-10-03T23:23:47.049576Z"
 }
