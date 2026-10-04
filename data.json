@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 2
+    "p3": 1
   },
   "watchlist": [
     {
@@ -136,32 +136,18 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mexican boxing star Sa\u00fal \"Canelo\" \u00c1lvarez has revealed that he has a venue in mind for his farewell fight.",
-      "timestamp": "2026-10-03T23:23:47.048607Z",
+      "timestamp": "2026-10-04T02:56:59.989956Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.usatoday.com/story/sports/boxing/2026/10/02/canelo-alvarez-wants-final-fight-estadio-azteca-mexico/92055887007/"
         }
       ]
-    },
-    {
-      "title": "FIFA World Cup Matches Bring $850 Million to Bay Area, Report Says",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The FIFA World Cup brought matches, team base camps and fan watch parties and events to the region.",
-      "timestamp": "2026-10-03T23:23:47.049433Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.kqed.org/news/12102374/fifa-world-cup-matches-bring-850-million-to-bay-area-report-says"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Oct 03",
+      "date": "Oct 04",
       "loc": "Mexico City",
       "event": "Canelo Alvarez envisions final fight of career at Mexico's Estadio Azteca",
       "type": "News",
@@ -174,22 +160,7 @@
           "url": "https://www.usatoday.com/story/sports/boxing/2026/10/02/canelo-alvarez-wants-final-fight-estadio-azteca-mexico/92055887007/"
         }
       ]
-    },
-    {
-      "date": "Oct 03",
-      "loc": "Global",
-      "event": "FIFA World Cup Matches Bring $850 Million to Bay Area, Report Says",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.kqed.org/news/12102374/fifa-world-cup-matches-bring-850-million-to-bay-area-report-says"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-03T23:23:47.049576Z"
+  "lastUpdated": "2026-10-04T02:56:59.990862Z"
 }
