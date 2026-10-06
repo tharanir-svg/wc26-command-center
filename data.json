@@ -6,7 +6,7 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 1,
+    "p2": 0,
     "p3": 2
   },
   "watchlist": [
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Plans for one of the hosts most ambitious venues for 2034, a futuristic elevated football stadium have been scrapped, worrying fans and pouring \u00a32billion down the drain in the process.",
-      "timestamp": "2026-10-06T16:18:45.092891Z",
+      "timestamp": "2026-10-06T21:18:59.227445Z",
       "links": [
         {
           "label": "Source",
@@ -150,25 +150,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Barcelona\u2019s Spotify Camp Nou has emerged as a potential contender to host the 2030 FIFA World Cup final, according to SPORT, adding a third major venue to a race that had largely been viewed as a co...",
-      "timestamp": "2026-10-06T16:18:45.093550Z",
+      "timestamp": "2026-10-06T21:18:59.228041Z",
       "links": [
         {
           "label": "Source",
           "url": "https://barcauniversal.com/barcelonas-spotify-camp-nou-enters-three-way-race-for-2030-world-cup-final/"
-        }
-      ]
-    },
-    {
-      "title": "Exclusive-Saudi Arabia quietly shelving NEOM Stadium, one of 2034 World Cup venues",
-      "risk": "medium",
-      "severityText": "P2 DISRUPTION",
-      "status": "VERIFIED",
-      "description": "RIYADH/DUBAI, Oct 4 : Saudi Arabia is quietly shelving plans to build one of its most ambitious stadiums for the 2034 FIFA World Cup, two sources familiar with the matter said, after delays and downscaling of the futuristic development housing it.The NEOM Sta\u2026",
-      "timestamp": "2026-10-06T16:18:45.094549Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.channelnewsasia.com/sport/exclusive-saudi-arabia-quietly-shelving-neom-stadium-one-2034-world-cup-venues-6430556"
         }
       ]
     }
@@ -203,22 +189,7 @@
           "url": "https://barcauniversal.com/barcelonas-spotify-camp-nou-enters-three-way-race-for-2030-world-cup-final/"
         }
       ]
-    },
-    {
-      "date": "Oct 06",
-      "loc": "Global",
-      "event": "Exclusive-Saudi Arabia quietly shelving NEOM Stadium, one of 2034 World Cup venues",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "medium",
-      "impact": "P2 DISRUPTION",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.channelnewsasia.com/sport/exclusive-saudi-arabia-quietly-shelving-neom-stadium-one-2034-world-cup-venues-6430556"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-06T16:18:45.094734Z"
+  "lastUpdated": "2026-10-06T21:18:59.228950Z"
 }
