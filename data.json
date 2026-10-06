@@ -5,7 +5,7 @@
     "hostCities": 16
   },
   "metrics": {
-    "p1": 1,
+    "p1": 0,
     "p2": 1,
     "p3": 0
   },
@@ -136,32 +136,18 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "RIYADH/DUBAI, Oct 4 : Saudi Arabia is quietly shelving plans to build one of its most ambitious stadiums for the 2034 FIFA World Cup, two sources familiar with the matter said, after delays and downscaling of the futuristic development housing it.The NEOM Sta\u2026",
-      "timestamp": "2026-10-05T22:56:49.287735Z",
+      "timestamp": "2026-10-06T02:35:49.794367Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.channelnewsasia.com/sport/exclusive-saudi-arabia-quietly-shelving-neom-stadium-one-2034-world-cup-venues-6430556"
         }
       ]
-    },
-    {
-      "title": "Roberto Alvarado\u2019s other side: FIFA highlights his impact at the World Cup",
-      "risk": "high",
-      "severityText": "P1 CRITICAL",
-      "status": "VERIFIED",
-      "description": "FIFA took a closer look at Roberto Alvarado. As part of the governing body\u2019s extensive tactical analysis of the 2026 FIFA World Cup, the Guadalajara attacking midfielder appears as one of the exampl...",
-      "timestamp": "2026-10-05T22:56:49.288736Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://ncache.chivasdecorazon.com.mx/es/noticias/41550/La-otra-versin-del-Piojo-Alvarado-FIFA-destaca-su-impacto-en-el-Mundial"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Oct 05",
+      "date": "Oct 06",
       "loc": "Global",
       "event": "Exclusive-Saudi Arabia quietly shelving NEOM Stadium, one of 2034 World Cup venues",
       "type": "News",
@@ -174,22 +160,7 @@
           "url": "https://www.channelnewsasia.com/sport/exclusive-saudi-arabia-quietly-shelving-neom-stadium-one-2034-world-cup-venues-6430556"
         }
       ]
-    },
-    {
-      "date": "Oct 05",
-      "loc": "Global",
-      "event": "Roberto Alvarado\u2019s other side: FIFA highlights his impact at the World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "high",
-      "impact": "P1 CRITICAL",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://ncache.chivasdecorazon.com.mx/es/noticias/41550/La-otra-versin-del-Piojo-Alvarado-FIFA-destaca-su-impacto-en-el-Mundial"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-05T22:56:49.288871Z"
+  "lastUpdated": "2026-10-06T02:35:49.795243Z"
 }
