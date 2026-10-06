@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 1,
-    "p3": 1
+    "p3": 2
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Saudi Arabia to ABANDON their \u00a32BILLION one-of-a-kind World Cup stadium plan to host football at 350 metres above ground level amid spiralling costs",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Plans for one of the hosts most ambitious venues for 2034, a futuristic elevated football stadium have been scrapped, worrying fans and pouring \u00a32billion down the drain in the process.",
+      "timestamp": "2026-10-06T16:18:45.092891Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-16184249/Saudi-Arabia-ABANDON-2BILLION-one-kind-World-Cup-stadium-plan-host-football-350-metres-ground-level-amid-spiralling-costs.html"
+        }
+      ]
+    },
+    {
       "title": "Barcelona\u2019s Spotify Camp Nou enters three-way race for 2030 World Cup final",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Barcelona\u2019s Spotify Camp Nou has emerged as a potential contender to host the 2030 FIFA World Cup final, according to SPORT, adding a third major venue to a race that had largely been viewed as a co...",
-      "timestamp": "2026-10-06T09:28:35.091750Z",
+      "timestamp": "2026-10-06T16:18:45.093550Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "RIYADH/DUBAI, Oct 4 : Saudi Arabia is quietly shelving plans to build one of its most ambitious stadiums for the 2034 FIFA World Cup, two sources familiar with the matter said, after delays and downscaling of the futuristic development housing it.The NEOM Sta\u2026",
-      "timestamp": "2026-10-06T09:28:35.092661Z",
+      "timestamp": "2026-10-06T16:18:45.094549Z",
       "links": [
         {
           "label": "Source",
@@ -160,6 +174,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 06",
+      "loc": "Global",
+      "event": "Saudi Arabia to ABANDON their \u00a32BILLION one-of-a-kind World Cup stadium plan to host football at 350 metres above ground level amid spiralling costs",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dailymail.com/sport/football/article-16184249/Saudi-Arabia-ABANDON-2BILLION-one-kind-World-Cup-stadium-plan-host-football-350-metres-ground-level-amid-spiralling-costs.html"
+        }
+      ]
+    },
     {
       "date": "Oct 06",
       "loc": "Global",
@@ -191,5 +220,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-06T09:28:35.093376Z"
+  "lastUpdated": "2026-10-06T16:18:45.094734Z"
 }
