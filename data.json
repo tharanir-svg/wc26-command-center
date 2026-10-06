@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 1,
-    "p3": 0
+    "p3": 1
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Barcelona\u2019s Spotify Camp Nou enters three-way race for 2030 World Cup final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Barcelona\u2019s Spotify Camp Nou has emerged as a potential contender to host the 2030 FIFA World Cup final, according to SPORT, adding a third major venue to a race that had largely been viewed as a co...",
+      "timestamp": "2026-10-06T09:28:35.091750Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelonas-spotify-camp-nou-enters-three-way-race-for-2030-world-cup-final/"
+        }
+      ]
+    },
+    {
       "title": "Exclusive-Saudi Arabia quietly shelving NEOM Stadium, one of 2034 World Cup venues",
       "risk": "medium",
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "RIYADH/DUBAI, Oct 4 : Saudi Arabia is quietly shelving plans to build one of its most ambitious stadiums for the 2034 FIFA World Cup, two sources familiar with the matter said, after delays and downscaling of the futuristic development housing it.The NEOM Sta\u2026",
-      "timestamp": "2026-10-06T02:35:49.794367Z",
+      "timestamp": "2026-10-06T09:28:35.092661Z",
       "links": [
         {
           "label": "Source",
@@ -146,6 +160,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 06",
+      "loc": "Global",
+      "event": "Barcelona\u2019s Spotify Camp Nou enters three-way race for 2030 World Cup final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/barcelonas-spotify-camp-nou-enters-three-way-race-for-2030-world-cup-final/"
+        }
+      ]
+    },
     {
       "date": "Oct 06",
       "loc": "Global",
@@ -162,5 +191,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-06T02:35:49.795243Z"
+  "lastUpdated": "2026-10-06T09:28:35.093376Z"
 }
