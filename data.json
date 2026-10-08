@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Canada's shortcomings laid bare in loss to USMNT",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "By Ben SteinerCanada\u2019s rise to relevance in global soccer has happened at breakneck pace.In a decade, the team went from a relative afterthought to qualifying for the 2026 FIFA World Cup Round of 16...",
+      "timestamp": "2026-10-08T06:43:24.898870Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.mlssoccer.com/news/canada-s-shortcomings-laid-bare-in-loss-to-usmnt"
+        }
+      ]
+    },
+    {
       "title": "298-Piece LEGO Editions FIFA World Cup 2026 Official Emblem $17.49 + Free Store Pickup at Target or FS on $35+",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Target [target.com] has *LEGO Editions FIFA World Cup 2026 Official Emblem Kids' Building Set (43032*) for *$17.49*. Select free store pickup where available. Otherwise, shipping is free w/ Target...",
-      "timestamp": "2026-10-08T00:29:20.118426Z",
+      "timestamp": "2026-10-08T06:43:24.900193Z",
       "links": [
         {
           "label": "Source",
@@ -150,30 +164,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India face two-time FIFA World Cup champions Uruguay in Kolkata on Tuesday, October 6, with the Vivekananda Yuba Bharati Krirangan hosting the final",
-      "timestamp": "2026-10-08T00:29:20.118577Z",
+      "timestamp": "2026-10-08T06:43:24.900405Z",
       "links": [
         {
           "label": "Source",
           "url": "https://timesofindia.indiatimes.com/sports/football/india-vs-uruguay-live-score-ind-vs-uru-football-match-today-playing-xi-lineups-live-streaming-results/liveblog/134740517.cms"
         }
       ]
-    },
-    {
-      "title": "Donald Trump\u2019s Folarin Balogun intervention reminded Canada head coach why everyone \u2018hates America\u2019",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Canada head coach Jesse Marsch can\u2019t forget Donald Trump overturning Folarin Balogun\u2019s red card. The 2026 FIFA World Cup saw the USMNT reach the Round of 16, where the hosts were eliminated following a 4-1 defeat against Belgium.",
-      "timestamp": "2026-10-08T00:29:20.118656Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/donald-trumps-folarin-balogun-intervention-reminded-canada-head-coach-why-everyone-hates-america/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 08",
+      "loc": "Global",
+      "event": "Canada's shortcomings laid bare in loss to USMNT",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.mlssoccer.com/news/canada-s-shortcomings-laid-bare-in-loss-to-usmnt"
+        }
+      ]
+    },
     {
       "date": "Oct 08",
       "loc": "Global",
@@ -203,22 +218,7 @@
           "url": "https://timesofindia.indiatimes.com/sports/football/india-vs-uruguay-live-score-ind-vs-uru-football-match-today-playing-xi-lineups-live-streaming-results/liveblog/134740517.cms"
         }
       ]
-    },
-    {
-      "date": "Oct 08",
-      "loc": "Global",
-      "event": "Donald Trump\u2019s Folarin Balogun intervention reminded Canada head coach why everyone \u2018hates America\u2019",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hitc.com/donald-trumps-folarin-balogun-intervention-reminded-canada-head-coach-why-everyone-hates-america/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-08T00:29:20.119174Z"
+  "lastUpdated": "2026-10-08T06:43:24.900610Z"
 }
