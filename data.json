@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 4
+    "p3": 3
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Target [target.com] has *LEGO Editions FIFA World Cup 2026 Official Emblem Kids' Building Set (43032*) for *$17.49*. Select free store pickup where available. Otherwise, shipping is free w/ Target...",
-      "timestamp": "2026-10-07T20:14:13.699994Z",
+      "timestamp": "2026-10-08T00:29:20.118426Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "India face two-time FIFA World Cup champions Uruguay in Kolkata on Tuesday, October 6, with the Vivekananda Yuba Bharati Krirangan hosting the final",
-      "timestamp": "2026-10-07T20:14:13.700147Z",
+      "timestamp": "2026-10-08T00:29:20.118577Z",
       "links": [
         {
           "label": "Source",
@@ -164,32 +164,18 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Canada head coach Jesse Marsch can\u2019t forget Donald Trump overturning Folarin Balogun\u2019s red card. The 2026 FIFA World Cup saw the USMNT reach the Round of 16, where the hosts were eliminated following a 4-1 defeat against Belgium.",
-      "timestamp": "2026-10-07T20:14:13.700221Z",
+      "timestamp": "2026-10-08T00:29:20.118656Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.hitc.com/donald-trumps-folarin-balogun-intervention-reminded-canada-head-coach-why-everyone-hates-america/"
         }
       ]
-    },
-    {
-      "title": "Saudi Arabia to ABANDON their \u00a32BILLION one-of-a-kind World Cup stadium plan to host football at 350 metres above ground level amid spiralling costs",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Plans for one of the hosts most ambitious venues for 2034, a futuristic elevated football stadium have been scrapped, worrying fans and pouring \u00a32billion down the drain in the process.",
-      "timestamp": "2026-10-07T20:14:13.700866Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-16184249/Saudi-Arabia-ABANDON-2BILLION-one-kind-World-Cup-stadium-plan-host-football-350-metres-ground-level-amid-spiralling-costs.html"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Oct 07",
+      "date": "Oct 08",
       "loc": "Global",
       "event": "298-Piece LEGO Editions FIFA World Cup 2026 Official Emblem $17.49 + Free Store Pickup at Target or FS on $35+",
       "type": "News",
@@ -204,7 +190,7 @@
       ]
     },
     {
-      "date": "Oct 07",
+      "date": "Oct 08",
       "loc": "Global",
       "event": "India vs Uruguay: Blue Tigers face two-time world champions in Kolkata test",
       "type": "News",
@@ -219,7 +205,7 @@
       ]
     },
     {
-      "date": "Oct 07",
+      "date": "Oct 08",
       "loc": "Global",
       "event": "Donald Trump\u2019s Folarin Balogun intervention reminded Canada head coach why everyone \u2018hates America\u2019",
       "type": "News",
@@ -232,22 +218,7 @@
           "url": "https://www.hitc.com/donald-trumps-folarin-balogun-intervention-reminded-canada-head-coach-why-everyone-hates-america/"
         }
       ]
-    },
-    {
-      "date": "Oct 07",
-      "loc": "Global",
-      "event": "Saudi Arabia to ABANDON their \u00a32BILLION one-of-a-kind World Cup stadium plan to host football at 350 metres above ground level amid spiralling costs",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dailymail.com/sport/football/article-16184249/Saudi-Arabia-ABANDON-2BILLION-one-kind-World-Cup-stadium-plan-host-football-350-metres-ground-level-amid-spiralling-costs.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-07T20:14:13.701026Z"
+  "lastUpdated": "2026-10-08T00:29:20.119174Z"
 }
