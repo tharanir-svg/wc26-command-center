@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 4
   },
   "watchlist": [
     {
@@ -131,49 +131,108 @@
   ],
   "risks": [
     {
+      "title": "Amazon - FIFA World Cup 2026 Men's Official Country Short Sleeve Performance Polo Jersey Portugal $14.99",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "No special codes or coupons are required. Get this official Portugal polo jersey while supplies last.",
+      "timestamp": "2026-10-09T19:05:19.856857Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dealcatcher.com/deals/clothing-accessories/mens/fifa-world-cup-official-country-short-sleeve-performance-polo-jersey-portugal-420565"
+        }
+      ]
+    },
+    {
+      "title": "Canelo reveals where he wants his retirement fight, and it's not Estadio Azteca",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Canelo \u00c1lvarez set the record straight on retirement fight speculation and explained why Guadalajara is his preferred finale.",
+      "timestamp": "2026-10-09T19:05:19.857103Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/boxing/2026/10/08/canelo-alvarez-retirement-fight-guadalajara-estadio-azteca/92151628007/"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Messi gets criticism for final Argentina match from Benin manager",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Lionel Messi has now finally retired from international soccer. After successfully winning the 2022 FIFA World Cup in Qatar and taking his team to another final in the USA , Messi has now hung up his boots. While he failed to deliver another World Cup to Arge\u2026",
+      "timestamp": "2026-10-09T19:05:19.857189Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://clutchpoints.com/soccer/lionel-messi-criticism-final-argentina-match-benin-manager"
+        }
+      ]
+    },
+    {
       "title": "Manchester City ruled out summer move for Barcelona midfielder after reviewing medical report",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FC Barcelona midfielder Frenkie de Jong has taken an important step in his recovery from the injury to the medial collateral ligament in his right knee at the 2026 FIFA World Cup.The Barcelona ace has...",
-      "timestamp": "2026-10-09T13:53:20.145433Z",
+      "timestamp": "2026-10-09T19:05:19.857497Z",
       "links": [
         {
           "label": "Source",
           "url": "https://barcauniversal.com/manchester-city-ruled-out-summer-move-for-barcelona-midfielder-after-reviewing-medical-report/"
         }
       ]
-    },
-    {
-      "title": "Football legend Thierry Henry joins Samsung\u2019s latest Galaxy Z8 campaign across Europe",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The partnership between Samsung and football legend Thierry Henry has entered a new phase. The collaboration kicked off this past spring, before Samsung started selling its latest TVs globally ahead of the FIFA World Cup 2026. Now, Samsung and Thierry Henry a\u2026",
-      "timestamp": "2026-10-09T13:53:20.146439Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sammobile.com/news/football-legend-thierry-henry-joins-samsung-latest-galaxy-z8-campaign-across-europe/"
-        }
-      ]
-    },
-    {
-      "title": "RB Leipzig\u2019s Christoph Baumgartner works towards comeback",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "After sustaining a thigh injury which required surgery just weeks before the 2026 FIFA World Cup, RB Leipzig\u2019s Christoph Baumgartner is working on his comeback.On Tuesday, the Bundesliga side confir...",
-      "timestamp": "2026-10-09T13:53:20.146728Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.getfootballnewsgermany.com/2026/rb-leipzigs-christoph-baumgartner-works-towards-comeback/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 09",
+      "loc": "Global",
+      "event": "Amazon - FIFA World Cup 2026 Men's Official Country Short Sleeve Performance Polo Jersey Portugal $14.99",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dealcatcher.com/deals/clothing-accessories/mens/fifa-world-cup-official-country-short-sleeve-performance-polo-jersey-portugal-420565"
+        }
+      ]
+    },
+    {
+      "date": "Oct 09",
+      "loc": "Mexico City",
+      "event": "Canelo reveals where he wants his retirement fight, and it's not Estadio Azteca",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.usatoday.com/story/sports/boxing/2026/10/08/canelo-alvarez-retirement-fight-guadalajara-estadio-azteca/92151628007/"
+        }
+      ]
+    },
+    {
+      "date": "Oct 09",
+      "loc": "Global",
+      "event": "Lionel Messi gets criticism for final Argentina match from Benin manager",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://clutchpoints.com/soccer/lionel-messi-criticism-final-argentina-match-benin-manager"
+        }
+      ]
+    },
     {
       "date": "Oct 09",
       "loc": "Global",
@@ -188,37 +247,7 @@
           "url": "https://barcauniversal.com/manchester-city-ruled-out-summer-move-for-barcelona-midfielder-after-reviewing-medical-report/"
         }
       ]
-    },
-    {
-      "date": "Oct 09",
-      "loc": "Global",
-      "event": "Football legend Thierry Henry joins Samsung\u2019s latest Galaxy Z8 campaign across Europe",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sammobile.com/news/football-legend-thierry-henry-joins-samsung-latest-galaxy-z8-campaign-across-europe/"
-        }
-      ]
-    },
-    {
-      "date": "Oct 09",
-      "loc": "Global",
-      "event": "RB Leipzig\u2019s Christoph Baumgartner works towards comeback",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.getfootballnewsgermany.com/2026/rb-leipzigs-christoph-baumgartner-works-towards-comeback/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-09T13:53:20.147027Z"
+  "lastUpdated": "2026-10-09T19:05:19.858607Z"
 }
