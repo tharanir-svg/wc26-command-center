@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Manchester City ruled out summer move for Barcelona midfielder after reviewing medical report",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "FC Barcelona midfielder Frenkie de Jong has taken an important step in his recovery from the injury to the medial collateral ligament in his right knee at the 2026 FIFA World Cup.The Barcelona ace has...",
+      "timestamp": "2026-10-09T13:53:20.145433Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/manchester-city-ruled-out-summer-move-for-barcelona-midfielder-after-reviewing-medical-report/"
+        }
+      ]
+    },
+    {
       "title": "Football legend Thierry Henry joins Samsung\u2019s latest Galaxy Z8 campaign across Europe",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The partnership between Samsung and football legend Thierry Henry has entered a new phase. The collaboration kicked off this past spring, before Samsung started selling its latest TVs globally ahead of the FIFA World Cup 2026. Now, Samsung and Thierry Henry a\u2026",
-      "timestamp": "2026-10-09T06:50:39.464783Z",
+      "timestamp": "2026-10-09T13:53:20.146439Z",
       "links": [
         {
           "label": "Source",
@@ -150,30 +164,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After sustaining a thigh injury which required surgery just weeks before the 2026 FIFA World Cup, RB Leipzig\u2019s Christoph Baumgartner is working on his comeback.On Tuesday, the Bundesliga side confir...",
-      "timestamp": "2026-10-09T06:50:39.465042Z",
+      "timestamp": "2026-10-09T13:53:20.146728Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.getfootballnewsgermany.com/2026/rb-leipzigs-christoph-baumgartner-works-towards-comeback/"
         }
       ]
-    },
-    {
-      "title": "Canada's shortcomings laid bare in loss to USMNT",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "By Ben SteinerCanada\u2019s rise to relevance in global soccer has happened at breakneck pace.In a decade, the team went from a relative afterthought to qualifying for the 2026 FIFA World Cup Round of 16...",
-      "timestamp": "2026-10-09T06:50:39.465449Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.mlssoccer.com/news/canada-s-shortcomings-laid-bare-in-loss-to-usmnt"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 09",
+      "loc": "Global",
+      "event": "Manchester City ruled out summer move for Barcelona midfielder after reviewing medical report",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://barcauniversal.com/manchester-city-ruled-out-summer-move-for-barcelona-midfielder-after-reviewing-medical-report/"
+        }
+      ]
+    },
     {
       "date": "Oct 09",
       "loc": "Global",
@@ -203,22 +218,7 @@
           "url": "https://www.getfootballnewsgermany.com/2026/rb-leipzigs-christoph-baumgartner-works-towards-comeback/"
         }
       ]
-    },
-    {
-      "date": "Oct 09",
-      "loc": "Global",
-      "event": "Canada's shortcomings laid bare in loss to USMNT",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.mlssoccer.com/news/canada-s-shortcomings-laid-bare-in-loss-to-usmnt"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-09T06:50:39.465897Z"
+  "lastUpdated": "2026-10-09T13:53:20.147027Z"
 }
