@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 4
+    "p3": 5
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Canelo reveals where he wants his retirement fight, and it's not Estadio Azteca",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Canelo \u00c1lvarez set the record straight on retirement fight speculation and explained why Guadalajara is his preferred finale.",
+      "timestamp": "2026-10-09T23:36:42.736244Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://mmajunkie.usatoday.com/story/sports/boxing/2026/10/08/where-does-canelo-want-his-final-fight-answer-might-surprise-you/92155647007/"
+        }
+      ]
+    },
+    {
       "title": "Amazon - FIFA World Cup 2026 Men's Official Country Short Sleeve Performance Polo Jersey Portugal $14.99",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "No special codes or coupons are required. Get this official Portugal polo jersey while supplies last.",
-      "timestamp": "2026-10-09T19:05:19.856857Z",
+      "timestamp": "2026-10-09T23:36:42.736479Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Canelo \u00c1lvarez set the record straight on retirement fight speculation and explained why Guadalajara is his preferred finale.",
-      "timestamp": "2026-10-09T19:05:19.857103Z",
+      "timestamp": "2026-10-09T23:36:42.736731Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi has now finally retired from international soccer. After successfully winning the 2022 FIFA World Cup in Qatar and taking his team to another final in the USA , Messi has now hung up his boots. While he failed to deliver another World Cup to Arge\u2026",
-      "timestamp": "2026-10-09T19:05:19.857189Z",
+      "timestamp": "2026-10-09T23:36:42.736830Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FC Barcelona midfielder Frenkie de Jong has taken an important step in his recovery from the injury to the medial collateral ligament in his right knee at the 2026 FIFA World Cup.The Barcelona ace has...",
-      "timestamp": "2026-10-09T19:05:19.857497Z",
+      "timestamp": "2026-10-09T23:36:42.737116Z",
       "links": [
         {
           "label": "Source",
@@ -188,6 +202,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 09",
+      "loc": "Mexico City",
+      "event": "Canelo reveals where he wants his retirement fight, and it's not Estadio Azteca",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://mmajunkie.usatoday.com/story/sports/boxing/2026/10/08/where-does-canelo-want-his-final-fight-answer-might-surprise-you/92155647007/"
+        }
+      ]
+    },
     {
       "date": "Oct 09",
       "loc": "Global",
@@ -249,5 +278,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-09T19:05:19.858607Z"
+  "lastUpdated": "2026-10-09T23:36:42.738065Z"
 }
