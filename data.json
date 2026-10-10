@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 5
+    "p3": 6
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Official: Montella sacked by Turkiye after winless Nations League start",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Montella had served as head coach of the Turkiye national team since September 2023, successfully qualifying for both EURO 2024 and the 2026 World Cup. Their",
+      "timestamp": "2026-10-10T19:34:35.233530Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/official-montella-sacked-by-turkiye/"
+        }
+      ]
+    },
+    {
       "title": "Canelo reveals where he wants his retirement fight, and it's not Estadio Azteca",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Canelo \u00c1lvarez set the record straight on retirement fight speculation and explained why Guadalajara is his preferred finale.",
-      "timestamp": "2026-10-10T15:35:39.494371Z",
+      "timestamp": "2026-10-10T19:34:35.233783Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "No special codes or coupons are required. Get this official Portugal polo jersey while supplies last.",
-      "timestamp": "2026-10-10T15:35:39.494642Z",
+      "timestamp": "2026-10-10T19:34:35.233939Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Canelo \u00c1lvarez set the record straight on retirement fight speculation and explained why Guadalajara is his preferred finale.",
-      "timestamp": "2026-10-10T15:35:39.494918Z",
+      "timestamp": "2026-10-10T19:34:35.234102Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi has now finally retired from international soccer. After successfully winning the 2022 FIFA World Cup in Qatar and taking his team to another final in the USA , Messi has now hung up his boots. While he failed to deliver another World Cup to Arge\u2026",
-      "timestamp": "2026-10-10T15:35:39.495016Z",
+      "timestamp": "2026-10-10T19:34:35.234163Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FC Barcelona midfielder Frenkie de Jong has taken an important step in his recovery from the injury to the medial collateral ligament in his right knee at the 2026 FIFA World Cup.The Barcelona ace has...",
-      "timestamp": "2026-10-10T15:35:39.495329Z",
+      "timestamp": "2026-10-10T19:34:35.234397Z",
       "links": [
         {
           "label": "Source",
@@ -202,6 +216,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 10",
+      "loc": "Global",
+      "event": "Official: Montella sacked by Turkiye after winless Nations League start",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/official-montella-sacked-by-turkiye/"
+        }
+      ]
+    },
     {
       "date": "Oct 10",
       "loc": "Mexico City",
@@ -278,5 +307,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-10T15:35:39.495974Z"
+  "lastUpdated": "2026-10-10T19:34:35.234813Z"
 }
