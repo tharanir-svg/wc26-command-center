@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 5
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Montella had served as head coach of the Turkiye national team since September 2023, successfully qualifying for both EURO 2024 and the 2026 World Cup. Their",
-      "timestamp": "2026-10-11T01:32:56.163505Z",
+      "timestamp": "2026-10-11T07:54:13.499637Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Canelo \u00c1lvarez set the record straight on retirement fight speculation and explained why Guadalajara is his preferred finale.",
-      "timestamp": "2026-10-11T01:32:56.163817Z",
+      "timestamp": "2026-10-11T07:54:13.499898Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "No special codes or coupons are required. Get this official Portugal polo jersey while supplies last.",
-      "timestamp": "2026-10-11T01:32:56.164018Z",
+      "timestamp": "2026-10-11T07:54:13.500075Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Canelo \u00c1lvarez set the record straight on retirement fight speculation and explained why Guadalajara is his preferred finale.",
-      "timestamp": "2026-10-11T01:32:56.164220Z",
+      "timestamp": "2026-10-11T07:54:13.500254Z",
       "links": [
         {
           "label": "Source",
@@ -192,25 +192,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Lionel Messi has now finally retired from international soccer. After successfully winning the 2022 FIFA World Cup in Qatar and taking his team to another final in the USA , Messi has now hung up his boots. While he failed to deliver another World Cup to Arge\u2026",
-      "timestamp": "2026-10-11T01:32:56.164299Z",
+      "timestamp": "2026-10-11T07:54:13.500322Z",
       "links": [
         {
           "label": "Source",
           "url": "https://clutchpoints.com/soccer/lionel-messi-criticism-final-argentina-match-benin-manager"
-        }
-      ]
-    },
-    {
-      "title": "Manchester City ruled out summer move for Barcelona midfielder after reviewing medical report",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "FC Barcelona midfielder Frenkie de Jong has taken an important step in his recovery from the injury to the medial collateral ligament in his right knee at the 2026 FIFA World Cup.The Barcelona ace has...",
-      "timestamp": "2026-10-11T01:32:56.164617Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/manchester-city-ruled-out-summer-move-for-barcelona-midfielder-after-reviewing-medical-report/"
         }
       ]
     }
@@ -290,22 +276,7 @@
           "url": "https://clutchpoints.com/soccer/lionel-messi-criticism-final-argentina-match-benin-manager"
         }
       ]
-    },
-    {
-      "date": "Oct 11",
-      "loc": "Global",
-      "event": "Manchester City ruled out summer move for Barcelona midfielder after reviewing medical report",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://barcauniversal.com/manchester-city-ruled-out-summer-move-for-barcelona-midfielder-after-reviewing-medical-report/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-11T01:32:56.164869Z"
+  "lastUpdated": "2026-10-11T07:54:13.500707Z"
 }
