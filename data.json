@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 5
+    "p3": 4
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Montella had served as head coach of the Turkiye national team since September 2023, successfully qualifying for both EURO 2024 and the 2026 World Cup. Their",
-      "timestamp": "2026-10-11T23:14:48.774803Z",
+      "timestamp": "2026-10-12T02:45:55.060171Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Canelo \u00c1lvarez set the record straight on retirement fight speculation and explained why Guadalajara is his preferred finale.",
-      "timestamp": "2026-10-11T23:14:48.775105Z",
+      "timestamp": "2026-10-12T02:45:55.060475Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "No special codes or coupons are required. Get this official Portugal polo jersey while supplies last.",
-      "timestamp": "2026-10-11T23:14:48.775299Z",
+      "timestamp": "2026-10-12T02:45:55.060687Z",
       "links": [
         {
           "label": "Source",
@@ -178,32 +178,18 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Canelo \u00c1lvarez set the record straight on retirement fight speculation and explained why Guadalajara is his preferred finale.",
-      "timestamp": "2026-10-11T23:14:48.775607Z",
+      "timestamp": "2026-10-12T02:45:55.060978Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.usatoday.com/story/sports/boxing/2026/10/08/canelo-alvarez-retirement-fight-guadalajara-estadio-azteca/92151628007/"
         }
       ]
-    },
-    {
-      "title": "Lionel Messi gets criticism for final Argentina match from Benin manager",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Lionel Messi has now finally retired from international soccer. After successfully winning the 2022 FIFA World Cup in Qatar and taking his team to another final in the USA , Messi has now hung up his boots. While he failed to deliver another World Cup to Arge\u2026",
-      "timestamp": "2026-10-11T23:14:48.775743Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://clutchpoints.com/soccer/lionel-messi-criticism-final-argentina-match-benin-manager"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Oct 11",
+      "date": "Oct 12",
       "loc": "Global",
       "event": "Official: Montella sacked by Turkiye after winless Nations League start",
       "type": "News",
@@ -218,7 +204,7 @@
       ]
     },
     {
-      "date": "Oct 11",
+      "date": "Oct 12",
       "loc": "Mexico City",
       "event": "Canelo reveals where he wants his retirement fight, and it's not Estadio Azteca",
       "type": "News",
@@ -233,7 +219,7 @@
       ]
     },
     {
-      "date": "Oct 11",
+      "date": "Oct 12",
       "loc": "Global",
       "event": "Amazon - FIFA World Cup 2026 Men's Official Country Short Sleeve Performance Polo Jersey Portugal $14.99",
       "type": "News",
@@ -248,7 +234,7 @@
       ]
     },
     {
-      "date": "Oct 11",
+      "date": "Oct 12",
       "loc": "Mexico City",
       "event": "Canelo reveals where he wants his retirement fight, and it's not Estadio Azteca",
       "type": "News",
@@ -261,22 +247,7 @@
           "url": "https://www.usatoday.com/story/sports/boxing/2026/10/08/canelo-alvarez-retirement-fight-guadalajara-estadio-azteca/92151628007/"
         }
       ]
-    },
-    {
-      "date": "Oct 11",
-      "loc": "Global",
-      "event": "Lionel Messi gets criticism for final Argentina match from Benin manager",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://clutchpoints.com/soccer/lionel-messi-criticism-final-argentina-match-benin-manager"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-11T23:14:48.775880Z"
+  "lastUpdated": "2026-10-12T02:45:55.061207Z"
 }
