@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 2
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Montella had served as head coach of the Turkiye national team since September 2023, successfully qualifying for both EURO 2024 and the 2026 World Cup. Their",
-      "timestamp": "2026-10-12T09:50:41.477019Z",
+      "timestamp": "2026-10-12T19:25:54.392813Z",
       "links": [
         {
           "label": "Source",
@@ -150,25 +150,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Canelo \u00c1lvarez set the record straight on retirement fight speculation and explained why Guadalajara is his preferred finale.",
-      "timestamp": "2026-10-12T09:50:41.477367Z",
+      "timestamp": "2026-10-12T19:25:54.393169Z",
       "links": [
         {
           "label": "Source",
           "url": "https://mmajunkie.usatoday.com/story/sports/boxing/2026/10/08/where-does-canelo-want-his-final-fight-answer-might-surprise-you/92155647007/"
-        }
-      ]
-    },
-    {
-      "title": "Amazon - FIFA World Cup 2026 Men's Official Country Short Sleeve Performance Polo Jersey Portugal $14.99",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "No special codes or coupons are required. Get this official Portugal polo jersey while supplies last.",
-      "timestamp": "2026-10-12T09:50:41.477589Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealcatcher.com/deals/clothing-accessories/mens/fifa-world-cup-official-country-short-sleeve-performance-polo-jersey-portugal-420565"
         }
       ]
     }
@@ -203,22 +189,7 @@
           "url": "https://mmajunkie.usatoday.com/story/sports/boxing/2026/10/08/where-does-canelo-want-his-final-fight-answer-might-surprise-you/92155647007/"
         }
       ]
-    },
-    {
-      "date": "Oct 12",
-      "loc": "Global",
-      "event": "Amazon - FIFA World Cup 2026 Men's Official Country Short Sleeve Performance Polo Jersey Portugal $14.99",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealcatcher.com/deals/clothing-accessories/mens/fifa-world-cup-official-country-short-sleeve-performance-polo-jersey-portugal-420565"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-12T09:50:41.477869Z"
+  "lastUpdated": "2026-10-12T19:25:54.393471Z"
 }
