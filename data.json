@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 4
+    "p3": 3
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Montella had served as head coach of the Turkiye national team since September 2023, successfully qualifying for both EURO 2024 and the 2026 World Cup. Their",
-      "timestamp": "2026-10-12T02:45:55.060171Z",
+      "timestamp": "2026-10-12T09:50:41.477019Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Canelo \u00c1lvarez set the record straight on retirement fight speculation and explained why Guadalajara is his preferred finale.",
-      "timestamp": "2026-10-12T02:45:55.060475Z",
+      "timestamp": "2026-10-12T09:50:41.477367Z",
       "links": [
         {
           "label": "Source",
@@ -164,25 +164,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "No special codes or coupons are required. Get this official Portugal polo jersey while supplies last.",
-      "timestamp": "2026-10-12T02:45:55.060687Z",
+      "timestamp": "2026-10-12T09:50:41.477589Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.dealcatcher.com/deals/clothing-accessories/mens/fifa-world-cup-official-country-short-sleeve-performance-polo-jersey-portugal-420565"
-        }
-      ]
-    },
-    {
-      "title": "Canelo reveals where he wants his retirement fight, and it's not Estadio Azteca",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Canelo \u00c1lvarez set the record straight on retirement fight speculation and explained why Guadalajara is his preferred finale.",
-      "timestamp": "2026-10-12T02:45:55.060978Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/boxing/2026/10/08/canelo-alvarez-retirement-fight-guadalajara-estadio-azteca/92151628007/"
         }
       ]
     }
@@ -232,22 +218,7 @@
           "url": "https://www.dealcatcher.com/deals/clothing-accessories/mens/fifa-world-cup-official-country-short-sleeve-performance-polo-jersey-portugal-420565"
         }
       ]
-    },
-    {
-      "date": "Oct 12",
-      "loc": "Mexico City",
-      "event": "Canelo reveals where he wants his retirement fight, and it's not Estadio Azteca",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.usatoday.com/story/sports/boxing/2026/10/08/canelo-alvarez-retirement-fight-guadalajara-estadio-azteca/92151628007/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-12T02:45:55.061207Z"
+  "lastUpdated": "2026-10-12T09:50:41.477869Z"
 }
