@@ -131,35 +131,50 @@
   ],
   "risks": [
     {
+      "title": "New Independent Economic Study: Sticker Mule Has Generated $2.7 Billion in Economic Impact for New York State and Supported 9,500 Jobs",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Epsilon Economics, the firm behind economic impact studies of the Super Bowl, the Oscars, and the FIFA World Cup, finds the Amsterdam-based manufacturer has paid $681.5 million in wages and generated $49.5 million in state tax revenue since 2016 AMSTERDAM, N.\u2026",
+      "timestamp": "2026-10-13T08:33:45.282219Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/new-independent-economic-study-sticker-mule-has-generated-2-7-billion-in-economic-impact-for-new-york-state-and-supported-9-500-jobs-302905246.html"
+        }
+      ]
+    },
+    {
       "title": "Official: Montella sacked by Turkiye after winless Nations League start",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Montella had served as head coach of the Turkiye national team since September 2023, successfully qualifying for both EURO 2024 and the 2026 World Cup. Their",
-      "timestamp": "2026-10-13T01:40:02.162754Z",
+      "timestamp": "2026-10-13T08:33:45.283338Z",
       "links": [
         {
           "label": "Source",
           "url": "https://football-italia.net/official-montella-sacked-by-turkiye/"
         }
       ]
-    },
-    {
-      "title": "Canelo reveals where he wants his retirement fight, and it's not Estadio Azteca",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Canelo \u00c1lvarez set the record straight on retirement fight speculation and explained why Guadalajara is his preferred finale.",
-      "timestamp": "2026-10-13T01:40:02.163123Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://mmajunkie.usatoday.com/story/sports/boxing/2026/10/08/where-does-canelo-want-his-final-fight-answer-might-surprise-you/92155647007/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 13",
+      "loc": "Global",
+      "event": "New Independent Economic Study: Sticker Mule Has Generated $2.7 Billion in Economic Impact for New York State and Supported 9,500 Jobs",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.prnewswire.com/news-releases/new-independent-economic-study-sticker-mule-has-generated-2-7-billion-in-economic-impact-for-new-york-state-and-supported-9-500-jobs-302905246.html"
+        }
+      ]
+    },
     {
       "date": "Oct 13",
       "loc": "Global",
@@ -174,22 +189,7 @@
           "url": "https://football-italia.net/official-montella-sacked-by-turkiye/"
         }
       ]
-    },
-    {
-      "date": "Oct 13",
-      "loc": "Mexico City",
-      "event": "Canelo reveals where he wants his retirement fight, and it's not Estadio Azteca",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://mmajunkie.usatoday.com/story/sports/boxing/2026/10/08/where-does-canelo-want-his-final-fight-answer-might-surprise-you/92155647007/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-13T01:40:02.163369Z"
+  "lastUpdated": "2026-10-13T08:33:45.283750Z"
 }
