@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "How much money does Gianni Infantino make at FIFA? Breaking down president's salary after reports of secret payments",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Ever since the conclusion of the 2026 FIFA World Cup this past summer, the heat has been on Gianni Infantino's position as FIFA president.",
+      "timestamp": "2026-10-14T19:45:28.383534Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/how-much-money-gianni-infantino-make-fifa-president-salary/c266dceb32121656ecdc5a34"
+        }
+      ]
+    },
+    {
       "title": "Netflix wins Spanish rights to 2030 World Cup in ground-breaking deal",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "MIPCOM: Netflix has acquired the rights to the 2030 Fifa World Cup in Spain and Andorra, in an unprecedented deal for the streaming platform that will allow it to carry all 104 matches of the tournamen...",
-      "timestamp": "2026-10-14T15:33:45.956614Z",
+      "timestamp": "2026-10-14T19:45:28.383776Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Netflix has landed the exclusive streaming rights to broadcast all 104 matches of the 2030 FIFA World Cup to fans in Spain and Andorra.",
-      "timestamp": "2026-10-14T15:33:45.956789Z",
+      "timestamp": "2026-10-14T19:45:28.383911Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A few days ago, soccer legend Lionel Messi retired from international soccer. He hung up his boots after securing several international trophies for his team, including the 2022 FIFA World Cup and a spot in the 2026 FIFA World Cup finals. After securing a nom\u2026",
-      "timestamp": "2026-10-14T15:33:45.956828Z",
+      "timestamp": "2026-10-14T19:45:28.383944Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In a significant statement of intent about its live ambitions, Netflix will exclusively stream every FIFA World Cup 2030 game live in Spain and Andorra. With defending FIFA World Cup 2026 champions Spain serving as one of the competition\u2019s three host nations \u2026",
-      "timestamp": "2026-10-14T15:33:45.956895Z",
+      "timestamp": "2026-10-14T19:45:28.384004Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In a significant statement of intent about its live ambitions, Netflix will exclusively stream every FIFA World Cup 2030 game live in Spain and Andorra. With defending FIFA World Cup 2026 champions Spain serving as one of the competition\u2019s three host nations \u2026",
-      "timestamp": "2026-10-14T15:33:45.956920Z",
+      "timestamp": "2026-10-14T19:45:28.384027Z",
       "links": [
         {
           "label": "Source",
@@ -206,30 +220,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Olivia Holdt scored twice and had an assist to lead Denmark to a 4-3 victory over Canada in a women's international soccer friendly on Monday at BMO Field in Toronto.",
-      "timestamp": "2026-10-14T15:33:45.957352Z",
+      "timestamp": "2026-10-14T19:45:28.384399Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.cbc.ca/sports/soccer/canada-denmark-toronto-friendly-recap-oct-12-9.7378021"
         }
       ]
-    },
-    {
-      "title": "New Independent Economic Study: Sticker Mule Has Generated $2.7 Billion in Economic Impact for New York State and Supported 9,500 Jobs",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Epsilon Economics, the firm behind economic impact studies of the Super Bowl, the Oscars, and the FIFA World Cup, finds the Amsterdam-based manufacturer has paid $681.5 million in wages and generated $49.5 million in state tax revenue since 2016 AMSTERDAM, N.\u2026",
-      "timestamp": "2026-10-14T15:33:45.958103Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.prnewswire.com/news-releases/new-independent-economic-study-sticker-mule-has-generated-2-7-billion-in-economic-impact-for-new-york-state-and-supported-9-500-jobs-302905246.html"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 14",
+      "loc": "Global",
+      "event": "How much money does Gianni Infantino make at FIFA? Breaking down president's salary after reports of secret payments",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/how-much-money-gianni-infantino-make-fifa-president-salary/c266dceb32121656ecdc5a34"
+        }
+      ]
+    },
     {
       "date": "Oct 14",
       "loc": "Global",
@@ -319,22 +334,7 @@
           "url": "https://www.cbc.ca/sports/soccer/canada-denmark-toronto-friendly-recap-oct-12-9.7378021"
         }
       ]
-    },
-    {
-      "date": "Oct 14",
-      "loc": "Global",
-      "event": "New Independent Economic Study: Sticker Mule Has Generated $2.7 Billion in Economic Impact for New York State and Supported 9,500 Jobs",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.prnewswire.com/news-releases/new-independent-economic-study-sticker-mule-has-generated-2-7-billion-in-economic-impact-for-new-york-state-and-supported-9-500-jobs-302905246.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-14T15:33:45.958405Z"
+  "lastUpdated": "2026-10-14T19:45:28.385207Z"
 }
