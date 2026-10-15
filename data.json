@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 7
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Saudi set to drop plans for five 2034 World Cup stadiums",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The proposed cuts would leave the kingdom with 10 match venues as it scales back spending on major domestic projects.",
+      "timestamp": "2026-10-15T15:21:50.663170Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.semafor.com/article/10/14/2026/saudi-set-to-drop-plans-for-five-2034-world-cup-stadiums"
+        }
+      ]
+    },
+    {
       "title": "How much money does Gianni Infantino make at FIFA? Breaking down president's salary after reports of secret payments",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ever since the conclusion of the 2026 FIFA World Cup this past summer, the heat has been on Gianni Infantino's position as FIFA president.",
-      "timestamp": "2026-10-15T10:24:19.600655Z",
+      "timestamp": "2026-10-15T15:21:50.663961Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "MIPCOM: Netflix has acquired the rights to the 2030 Fifa World Cup in Spain and Andorra, in an unprecedented deal for the streaming platform that will allow it to carry all 104 matches of the tournamen...",
-      "timestamp": "2026-10-15T10:24:19.600916Z",
+      "timestamp": "2026-10-15T15:21:50.664180Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Netflix has landed the exclusive streaming rights to broadcast all 104 matches of the 2030 FIFA World Cup to fans in Spain and Andorra.",
-      "timestamp": "2026-10-15T10:24:19.601051Z",
+      "timestamp": "2026-10-15T15:21:50.664310Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A few days ago, soccer legend Lionel Messi retired from international soccer. He hung up his boots after securing several international trophies for his team, including the 2022 FIFA World Cup and a spot in the 2026 FIFA World Cup finals. After securing a nom\u2026",
-      "timestamp": "2026-10-15T10:24:19.601084Z",
+      "timestamp": "2026-10-15T15:21:50.664342Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In a significant statement of intent about its live ambitions, Netflix will exclusively stream every FIFA World Cup 2030 game live in Spain and Andorra. With defending FIFA World Cup 2026 champions Spain serving as one of the competition\u2019s three host nations \u2026",
-      "timestamp": "2026-10-15T10:24:19.601143Z",
+      "timestamp": "2026-10-15T15:21:50.664403Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "In a significant statement of intent about its live ambitions, Netflix will exclusively stream every FIFA World Cup 2030 game live in Spain and Andorra. With defending FIFA World Cup 2026 champions Spain serving as one of the competition\u2019s three host nations \u2026",
-      "timestamp": "2026-10-15T10:24:19.601167Z",
+      "timestamp": "2026-10-15T15:21:50.664424Z",
       "links": [
         {
           "label": "Source",
@@ -216,6 +230,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 15",
+      "loc": "Global",
+      "event": "Saudi set to drop plans for five 2034 World Cup stadiums",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.semafor.com/article/10/14/2026/saudi-set-to-drop-plans-for-five-2034-world-cup-stadiums"
+        }
+      ]
+    },
     {
       "date": "Oct 15",
       "loc": "Global",
@@ -307,5 +336,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-15T10:24:19.601723Z"
+  "lastUpdated": "2026-10-15T15:21:50.664671Z"
 }
