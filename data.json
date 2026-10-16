@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 7
+    "p3": 8
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Cristiano Ronaldo accused of special treatment from FIFA as ex-England boss Gareth Southgate questions 2026 World Cup ban reprieve",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The controversy concerns Ronaldo\u2019s suspension ahead of the 2026 World Cup, raising questions about whether soccer\u2019s biggest stars are held to the same standards as everyone else. \nCristiano Ronaldo has found himself at the center of a fresh debate over fairne\u2026",
+      "timestamp": "2026-10-16T19:04:02.033788Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-accused-of-special-treatment-from-fifa-as-ex-england-boss-gareth-southgate-questions-2026-world-cup-ban-reprieve/"
+        }
+      ]
+    },
+    {
       "title": "How to watch Rugby League World Cup 2026 on 7plus \u2014 it's *FREE*",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's how you can stream every match of the Rugby League World Cup for free from anywhere in the world.",
-      "timestamp": "2026-10-16T15:02:05.187109Z",
+      "timestamp": "2026-10-16T19:04:02.034224Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Australia vs New Zealand for free online from anywhere as the Rugby League World Cup 2026 gets underway at Allianz Stadium, Sydney.",
-      "timestamp": "2026-10-16T15:02:05.187173Z",
+      "timestamp": "2026-10-16T19:04:02.034246Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Rugby League World Cup 2026 for free from anywhere, with full TV channels, broadcast details and schedule provided.",
-      "timestamp": "2026-10-16T15:02:05.187288Z",
+      "timestamp": "2026-10-16T19:04:02.034330Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By Alex RuizAntoine Griezmann is a FIFA World Cup winner and now an MLS record holder.Making his latest case to be named MLS Newcomer of the Year, the Orlando City superstar became the first player in...",
-      "timestamp": "2026-10-16T15:02:05.187328Z",
+      "timestamp": "2026-10-16T19:04:02.034360Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Rugby League World Cup 2026 live streams: Full schedule and how to watch details for the tournament.",
-      "timestamp": "2026-10-16T15:02:05.187389Z",
+      "timestamp": "2026-10-16T19:04:02.034420Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Gianni Infantino has been under heavy fire since the end of the 2026 FIFA World Cup, and he hopes an increased financial distribution to member nations after a successful World Cup will help his station.",
-      "timestamp": "2026-10-16T15:02:05.187438Z",
+      "timestamp": "2026-10-16T19:04:02.034460Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The proposed cuts would leave the kingdom with 10 match venues as it scales back spending on major domestic projects.",
-      "timestamp": "2026-10-16T15:02:05.187758Z",
+      "timestamp": "2026-10-16T19:04:02.034726Z",
       "links": [
         {
           "label": "Source",
@@ -230,6 +244,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 16",
+      "loc": "Global",
+      "event": "Cristiano Ronaldo accused of special treatment from FIFA as ex-England boss Gareth Southgate questions 2026 World Cup ban reprieve",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-accused-of-special-treatment-from-fifa-as-ex-england-boss-gareth-southgate-questions-2026-world-cup-ban-reprieve/"
+        }
+      ]
+    },
     {
       "date": "Oct 16",
       "loc": "Global",
@@ -336,5 +365,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-16T15:02:05.188542Z"
+  "lastUpdated": "2026-10-16T19:04:02.035243Z"
 }
