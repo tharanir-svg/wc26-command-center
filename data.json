@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 5
+    "p3": 6
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "How to watch Rugby League World Cup 2026: FREE live streams",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "All the ways to watch Rugby League World Cup 2026 for free from anywhere, with full TV channels, broadcast details and schedule provided.",
+      "timestamp": "2026-10-16T05:11:36.097003Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/how-to-watch/rugby-league-world-cup-2026-free-streams-tv-channels-schedule"
+        }
+      ]
+    },
+    {
+      "title": "Antoine Griezmann soars into MLS history books",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "By Alex RuizAntoine Griezmann is a FIFA World Cup winner and now an MLS record holder.Making his latest case to be named MLS Newcomer of the Year, the Orlando City superstar became the first player in...",
+      "timestamp": "2026-10-16T05:11:36.097068Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.mlssoccer.com/news/antoine-griezmann-soars-into-mls-history-books"
+        }
+      ]
+    },
+    {
       "title": "Where to watch Rugby League World Cup 2026: TV channel, live stream, schedule for tournament",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Rugby League World Cup 2026 live streams: Full schedule and how to watch details for the tournament.",
-      "timestamp": "2026-10-16T00:50:38.949553Z",
+      "timestamp": "2026-10-16T05:11:36.097135Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Gianni Infantino has been under heavy fire since the end of the 2026 FIFA World Cup, and he hopes an increased financial distribution to member nations after a successful World Cup will help his station.",
-      "timestamp": "2026-10-16T00:50:38.949631Z",
+      "timestamp": "2026-10-16T05:11:36.097185Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The proposed cuts would leave the kingdom with 10 match venues as it scales back spending on major domestic projects.",
-      "timestamp": "2026-10-16T00:50:38.949954Z",
+      "timestamp": "2026-10-16T05:11:36.097547Z",
       "links": [
         {
           "label": "Source",
@@ -178,30 +206,46 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ever since the conclusion of the 2026 FIFA World Cup this past summer, the heat has been on Gianni Infantino's position as FIFA president.",
-      "timestamp": "2026-10-16T00:50:38.950719Z",
+      "timestamp": "2026-10-16T05:11:36.098308Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.sportingnews.com/us/soccer/news/how-much-money-gianni-infantino-make-fifa-president-salary/c266dceb32121656ecdc5a34"
         }
       ]
-    },
-    {
-      "title": "Netflix wins Spanish rights to 2030 World Cup in ground-breaking deal",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "MIPCOM: Netflix has acquired the rights to the 2030 Fifa World Cup in Spain and Andorra, in an unprecedented deal for the streaming platform that will allow it to carry all 104 matches of the tournamen...",
-      "timestamp": "2026-10-16T00:50:38.950938Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.c21media.net/news/netflix-wins-spanish-rights-to-2030-world-cup-in-ground-breaking-deal/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 16",
+      "loc": "Global",
+      "event": "How to watch Rugby League World Cup 2026: FREE live streams",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/how-to-watch/rugby-league-world-cup-2026-free-streams-tv-channels-schedule"
+        }
+      ]
+    },
+    {
+      "date": "Oct 16",
+      "loc": "Global",
+      "event": "Antoine Griezmann soars into MLS history books",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.mlssoccer.com/news/antoine-griezmann-soars-into-mls-history-books"
+        }
+      ]
+    },
     {
       "date": "Oct 16",
       "loc": "Global",
@@ -261,22 +305,7 @@
           "url": "https://www.sportingnews.com/us/soccer/news/how-much-money-gianni-infantino-make-fifa-president-salary/c266dceb32121656ecdc5a34"
         }
       ]
-    },
-    {
-      "date": "Oct 16",
-      "loc": "Global",
-      "event": "Netflix wins Spanish rights to 2030 World Cup in ground-breaking deal",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.c21media.net/news/netflix-wins-spanish-rights-to-2030-world-cup-in-ground-breaking-deal/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-16T00:50:38.951149Z"
+  "lastUpdated": "2026-10-16T05:11:36.098612Z"
 }
