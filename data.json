@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 5
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "Where to watch Rugby League World Cup 2026: TV channel, live stream, schedule for tournament",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Rugby League World Cup 2026 live streams: Full schedule and how to watch details for the tournament.",
+      "timestamp": "2026-10-16T00:50:38.949553Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/rugby-league/news/watch-rugby-league-world-cup-2026-tv-channel-live-stream-schedule/5cfc41cfe5512fd1a9c068e4"
+        }
+      ]
+    },
+    {
+      "title": "How much money does FIFA pay to member associations? Gianni Infantino reportedly has plan to distribute $6 billion",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Gianni Infantino has been under heavy fire since the end of the 2026 FIFA World Cup, and he hopes an increased financial distribution to member nations after a successful World Cup will help his station.",
+      "timestamp": "2026-10-16T00:50:38.949631Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/how-much-money-fifa-pay-member-associations-infantino-6-billion/93d563a3bf8ea233aa01aaad"
+        }
+      ]
+    },
+    {
       "title": "Saudi set to drop plans for five 2034 World Cup stadiums",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The proposed cuts would leave the kingdom with 10 match venues as it scales back spending on major domestic projects.",
-      "timestamp": "2026-10-15T22:42:50.138156Z",
+      "timestamp": "2026-10-16T00:50:38.949954Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ever since the conclusion of the 2026 FIFA World Cup this past summer, the heat has been on Gianni Infantino's position as FIFA president.",
-      "timestamp": "2026-10-15T22:42:50.139415Z",
+      "timestamp": "2026-10-16T00:50:38.950719Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "MIPCOM: Netflix has acquired the rights to the 2030 Fifa World Cup in Spain and Andorra, in an unprecedented deal for the streaming platform that will allow it to carry all 104 matches of the tournamen...",
-      "timestamp": "2026-10-15T22:42:50.139786Z",
+      "timestamp": "2026-10-16T00:50:38.950938Z",
       "links": [
         {
           "label": "Source",
@@ -175,7 +203,37 @@
   ],
   "timeline": [
     {
-      "date": "Oct 15",
+      "date": "Oct 16",
+      "loc": "Global",
+      "event": "Where to watch Rugby League World Cup 2026: TV channel, live stream, schedule for tournament",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/rugby-league/news/watch-rugby-league-world-cup-2026-tv-channel-live-stream-schedule/5cfc41cfe5512fd1a9c068e4"
+        }
+      ]
+    },
+    {
+      "date": "Oct 16",
+      "loc": "Global",
+      "event": "How much money does FIFA pay to member associations? Gianni Infantino reportedly has plan to distribute $6 billion",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.sportingnews.com/us/soccer/news/how-much-money-fifa-pay-member-associations-infantino-6-billion/93d563a3bf8ea233aa01aaad"
+        }
+      ]
+    },
+    {
+      "date": "Oct 16",
       "loc": "Global",
       "event": "Saudi set to drop plans for five 2034 World Cup stadiums",
       "type": "News",
@@ -190,7 +248,7 @@
       ]
     },
     {
-      "date": "Oct 15",
+      "date": "Oct 16",
       "loc": "Global",
       "event": "How much money does Gianni Infantino make at FIFA? Breaking down president's salary after reports of secret payments",
       "type": "News",
@@ -205,7 +263,7 @@
       ]
     },
     {
-      "date": "Oct 15",
+      "date": "Oct 16",
       "loc": "Global",
       "event": "Netflix wins Spanish rights to 2030 World Cup in ground-breaking deal",
       "type": "News",
@@ -220,5 +278,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-15T22:42:50.140196Z"
+  "lastUpdated": "2026-10-16T00:50:38.951149Z"
 }
