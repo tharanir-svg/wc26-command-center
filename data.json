@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 10
+    "p3": 8
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This Panini 2026 FIFA World Cup Sticker Collection Box is $78.32, down from its $99.99 list price. Each box contains 50 sealed packs and includes an Amazon-exclusive Orange Parallel sticker not found in boxes sold elsewhere.\u00a0 Buy Now at Amazon",
-      "timestamp": "2026-10-17T18:54:17.838660Z",
+      "timestamp": "2026-10-17T21:04:28.473820Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Nielsen's Fan Insights data showed that US soccer fandom grew 27 per cent between 2022 and 2026, adding 16 million fans over five years",
-      "timestamp": "2026-10-17T18:54:17.838814Z",
+      "timestamp": "2026-10-17T21:04:28.473960Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Samoa vs France live streams for free from anywhere in the world in both sides' Rugby League World Cup 2026 opener.",
-      "timestamp": "2026-10-17T18:54:17.838849Z",
+      "timestamp": "2026-10-17T21:04:28.473988Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The chair of England\u2019s Football Association, Debbie Hewitt, has questioned whether or not Gianni Infantino is 'fit to be President' following the Swiss executive's apology at a Council meeting for the FIFA Forward Enterprise plan",
-      "timestamp": "2026-10-17T18:54:17.838933Z",
+      "timestamp": "2026-10-17T21:04:28.474063Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The controversy concerns Ronaldo\u2019s suspension ahead of the 2026 World Cup, raising questions about whether soccer\u2019s biggest stars are held to the same standards as everyone else. \nCristiano Ronaldo has found himself at the center of a fresh debate over fairne\u2026",
-      "timestamp": "2026-10-17T18:54:17.839079Z",
+      "timestamp": "2026-10-17T21:04:28.474187Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's how you can stream every match of the Rugby League World Cup for free from anywhere in the world.",
-      "timestamp": "2026-10-17T18:54:17.839553Z",
+      "timestamp": "2026-10-17T21:04:28.474614Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Australia vs New Zealand for free online from anywhere as the Rugby League World Cup 2026 gets underway at Allianz Stadium, Sydney.",
-      "timestamp": "2026-10-17T18:54:17.839579Z",
+      "timestamp": "2026-10-17T21:04:28.474635Z",
       "links": [
         {
           "label": "Source",
@@ -234,39 +234,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Rugby League World Cup 2026 for free from anywhere, with full TV channels, broadcast details and schedule provided.",
-      "timestamp": "2026-10-17T18:54:17.839719Z",
+      "timestamp": "2026-10-17T21:04:28.474733Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.techradar.com/how-to-watch/rugby-league-world-cup-2026-free-streams-tv-channels-schedule"
-        }
-      ]
-    },
-    {
-      "title": "Antoine Griezmann soars into MLS history books",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "By Alex RuizAntoine Griezmann is a FIFA World Cup winner and now an MLS record holder.Making his latest case to be named MLS Newcomer of the Year, the Orlando City superstar became the first player in...",
-      "timestamp": "2026-10-17T18:54:17.839771Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.mlssoccer.com/news/antoine-griezmann-soars-into-mls-history-books"
-        }
-      ]
-    },
-    {
-      "title": "Where to watch Rugby League World Cup 2026: TV channel, live stream, schedule for tournament",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Rugby League World Cup 2026 live streams: Full schedule and how to watch details for the tournament.",
-      "timestamp": "2026-10-17T18:54:17.839856Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/rugby-league/news/watch-rugby-league-world-cup-2026-tv-channel-live-stream-schedule/5cfc41cfe5512fd1a9c068e4"
         }
       ]
     }
@@ -391,37 +363,7 @@
           "url": "https://www.techradar.com/how-to-watch/rugby-league-world-cup-2026-free-streams-tv-channels-schedule"
         }
       ]
-    },
-    {
-      "date": "Oct 17",
-      "loc": "Global",
-      "event": "Antoine Griezmann soars into MLS history books",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.mlssoccer.com/news/antoine-griezmann-soars-into-mls-history-books"
-        }
-      ]
-    },
-    {
-      "date": "Oct 17",
-      "loc": "Global",
-      "event": "Where to watch Rugby League World Cup 2026: TV channel, live stream, schedule for tournament",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.sportingnews.com/us/rugby-league/news/watch-rugby-league-world-cup-2026-tv-channel-live-stream-schedule/5cfc41cfe5512fd1a9c068e4"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-17T18:54:17.840008Z"
+  "lastUpdated": "2026-10-17T21:04:28.474883Z"
 }
