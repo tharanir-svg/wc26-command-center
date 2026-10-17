@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 10
+    "p3": 11
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "US soccer fandom jumps to 75.2 million after World Cup 2026: Nielsen report",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Nielsen's Fan Insights data showed that US soccer fandom grew 27 per cent between 2022 and 2026, adding 16 million fans over five years",
+      "timestamp": "2026-10-17T09:45:46.026239Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.business-standard.com/sports/business/us-soccer-fandom-jumps-to-75-2-million-after-world-cup-2026-nielsen-report-126101600304_1.html"
+        }
+      ]
+    },
+    {
       "title": "How to watch Samoa vs France for FREE: Live streams for Rugby League World Cup 2026 game",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Samoa vs France live streams for free from anywhere in the world in both sides' Rugby League World Cup 2026 opener.",
-      "timestamp": "2026-10-17T05:06:25.532472Z",
+      "timestamp": "2026-10-17T09:45:46.026296Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The chair of England\u2019s Football Association, Debbie Hewitt, has questioned whether or not Gianni Infantino is 'fit to be President' following the Swiss executive's apology at a Council meeting for the FIFA Forward Enterprise plan",
-      "timestamp": "2026-10-17T05:06:25.532556Z",
+      "timestamp": "2026-10-17T09:45:46.026383Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The controversy concerns Ronaldo\u2019s suspension ahead of the 2026 World Cup, raising questions about whether soccer\u2019s biggest stars are held to the same standards as everyone else. \nCristiano Ronaldo has found himself at the center of a fresh debate over fairne\u2026",
-      "timestamp": "2026-10-17T05:06:25.532682Z",
+      "timestamp": "2026-10-17T09:45:46.026534Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's how you can stream every match of the Rugby League World Cup for free from anywhere in the world.",
-      "timestamp": "2026-10-17T05:06:25.533025Z",
+      "timestamp": "2026-10-17T09:45:46.027005Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Australia vs New Zealand for free online from anywhere as the Rugby League World Cup 2026 gets underway at Allianz Stadium, Sydney.",
-      "timestamp": "2026-10-17T05:06:25.533041Z",
+      "timestamp": "2026-10-17T09:45:46.027029Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Rugby League World Cup 2026 for free from anywhere, with full TV channels, broadcast details and schedule provided.",
-      "timestamp": "2026-10-17T05:06:25.533112Z",
+      "timestamp": "2026-10-17T09:45:46.027126Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By Alex RuizAntoine Griezmann is a FIFA World Cup winner and now an MLS record holder.Making his latest case to be named MLS Newcomer of the Year, the Orlando City superstar became the first player in...",
-      "timestamp": "2026-10-17T05:06:25.533138Z",
+      "timestamp": "2026-10-17T09:45:46.027180Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Rugby League World Cup 2026 live streams: Full schedule and how to watch details for the tournament.",
-      "timestamp": "2026-10-17T05:06:25.533179Z",
+      "timestamp": "2026-10-17T09:45:46.027238Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Gianni Infantino has been under heavy fire since the end of the 2026 FIFA World Cup, and he hopes an increased financial distribution to member nations after a successful World Cup will help his station.",
-      "timestamp": "2026-10-17T05:06:25.533210Z",
+      "timestamp": "2026-10-17T09:45:46.027283Z",
       "links": [
         {
           "label": "Source",
@@ -262,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The proposed cuts would leave the kingdom with 10 match venues as it scales back spending on major domestic projects.",
-      "timestamp": "2026-10-17T05:06:25.533434Z",
+      "timestamp": "2026-10-17T09:45:46.027630Z",
       "links": [
         {
           "label": "Source",
@@ -272,6 +286,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 17",
+      "loc": "Global",
+      "event": "US soccer fandom jumps to 75.2 million after World Cup 2026: Nielsen report",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.business-standard.com/sports/business/us-soccer-fandom-jumps-to-75-2-million-after-world-cup-2026-nielsen-report-126101600304_1.html"
+        }
+      ]
+    },
     {
       "date": "Oct 17",
       "loc": "Global",
@@ -423,5 +452,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-17T05:06:25.533741Z"
+  "lastUpdated": "2026-10-17T09:45:46.027979Z"
 }
