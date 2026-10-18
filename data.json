@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 7
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Accommodating Colby Donovan and Alistair Johnston in a Celtic starting XI",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Could Colby Donovan\u2019s strength and enthusiasm see him grab a midfield role for Celtic?Alistair Johnston of Canada arrives before the FIFA World Cup 2026 Group B match between Canada and Qatar at BC ...",
+      "timestamp": "2026-10-18T14:56:07.931486Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://celticshorts.com/2026/10/accommodating-colby-donovan-and-alistair-johnston-in-a-celtic-starting-xi/"
+        }
+      ]
+    },
+    {
       "title": "How to watch England vs Tonga for FREE: Live Streams",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch England vs Tonga live streams for free from anywhere as Brian McDermott's men begin their Rugby League World Cup 2026 campaign.",
-      "timestamp": "2026-10-18T11:47:39.802147Z",
+      "timestamp": "2026-10-18T14:56:07.931756Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This Panini 2026 FIFA World Cup Sticker Collection Box is $78.32, down from its $99.99 list price. Each box contains 50 sealed packs and includes an Amazon-exclusive Orange Parallel sticker not found in boxes sold elsewhere.\u00a0 Buy Now at Amazon",
-      "timestamp": "2026-10-18T11:47:39.802786Z",
+      "timestamp": "2026-10-18T14:56:07.932358Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Nielsen's Fan Insights data showed that US soccer fandom grew 27 per cent between 2022 and 2026, adding 16 million fans over five years",
-      "timestamp": "2026-10-18T11:47:39.802921Z",
+      "timestamp": "2026-10-18T14:56:07.932488Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Samoa vs France live streams for free from anywhere in the world in both sides' Rugby League World Cup 2026 opener.",
-      "timestamp": "2026-10-18T11:47:39.802952Z",
+      "timestamp": "2026-10-18T14:56:07.932523Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The chair of England\u2019s Football Association, Debbie Hewitt, has questioned whether or not Gianni Infantino is 'fit to be President' following the Swiss executive's apology at a Council meeting for the FIFA Forward Enterprise plan",
-      "timestamp": "2026-10-18T11:47:39.803032Z",
+      "timestamp": "2026-10-18T14:56:07.932605Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The controversy concerns Ronaldo\u2019s suspension ahead of the 2026 World Cup, raising questions about whether soccer\u2019s biggest stars are held to the same standards as everyone else. \nCristiano Ronaldo has found himself at the center of a fresh debate over fairne\u2026",
-      "timestamp": "2026-10-18T11:47:39.803181Z",
+      "timestamp": "2026-10-18T14:56:07.932763Z",
       "links": [
         {
           "label": "Source",
@@ -216,6 +230,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 18",
+      "loc": "Global",
+      "event": "Accommodating Colby Donovan and Alistair Johnston in a Celtic starting XI",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://celticshorts.com/2026/10/accommodating-colby-donovan-and-alistair-johnston-in-a-celtic-starting-xi/"
+        }
+      ]
+    },
     {
       "date": "Oct 18",
       "loc": "Global",
@@ -307,5 +336,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-18T11:47:39.803704Z"
+  "lastUpdated": "2026-10-18T14:56:07.933223Z"
 }
