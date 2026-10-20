@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 4
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "How to Watch the PSG vs. Barcelona Champions League Game Live For Free",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "This fixture has a history of intense drama and nail-biting finishes. Will Tuesday\u2019s clash be another classic? Watch PSG vs. Barca live with a streaming subscription or a VPN to find out.\nRemember the euphoria you experienced during the 2026 FIFA World Cup th\u2026",
+      "timestamp": "2026-10-20T18:08:42.788946Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/168008/how-to-watch-the-psg-vs-barcelona-champions-league-game-live-for-free"
+        }
+      ]
+    },
+    {
       "title": "How to watch Fiji vs Cook Islands for FREE: Live streams for Rugby League World Cup 2026 game",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Fiji vs Cook Islands live streams for free from anywhere in the world in both sides' Rugby League World Cup 2026 opener.",
-      "timestamp": "2026-10-20T13:53:45.183902Z",
+      "timestamp": "2026-10-20T18:08:42.789966Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Could Colby Donovan\u2019s strength and enthusiasm see him grab a midfield role for Celtic?Alistair Johnston of Canada arrives before the FIFA World Cup 2026 Group B match between Canada and Qatar at BC ...",
-      "timestamp": "2026-10-20T13:53:45.184121Z",
+      "timestamp": "2026-10-20T18:08:42.790178Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch England vs Tonga live streams for free from anywhere as Brian McDermott's men begin their Rugby League World Cup 2026 campaign.",
-      "timestamp": "2026-10-20T13:53:45.184336Z",
+      "timestamp": "2026-10-20T18:08:42.790399Z",
       "links": [
         {
           "label": "Source",
@@ -174,6 +188,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 20",
+      "loc": "Global",
+      "event": "How to Watch the PSG vs. Barcelona Champions League Game Live For Free",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://uk.pcmag.com/video-streaming-services/168008/how-to-watch-the-psg-vs-barcelona-champions-league-game-live-for-free"
+        }
+      ]
+    },
     {
       "date": "Oct 20",
       "loc": "Global",
@@ -220,5 +249,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-20T13:53:45.185004Z"
+  "lastUpdated": "2026-10-20T18:08:42.790815Z"
 }
