@@ -6,8 +6,8 @@
   },
   "metrics": {
     "p1": 0,
-    "p2": 0,
-    "p3": 4
+    "p2": 1,
+    "p3": 5
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "Display your soccer pride with LEGO\u2019s FIFA World Cup trophy down at a new $160 Amazon low ($40 off)",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Soccer fans can currently score the LEGO Editions FIFA World Cup Official Trophy down at $159.99 shipped at Amazon. Down from $200, this particular set hit the market in March, and since then we\u2019ve seen it keeping to its full price until the top of this month\u2026",
+      "timestamp": "2026-10-20T21:57:07.003059Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://9to5toys.com/2026/10/19/lego-fifa-world-cup-official-trophy/"
+        }
+      ]
+    },
+    {
+      "title": "Why did Luis Su\u00e1rez\u2019s 2014 World Cup controversy become so infamous?",
+      "risk": "medium",
+      "severityText": "P2 DISRUPTION",
+      "status": "VERIFIED",
+      "description": "Maxisports/Depositphotos Luis Su\u00e1rez\u2019s 2014 World Cup incident Luis Alberto Su\u00e1rez D\u00edaz, a striker for Uruguay, bit Italian defender Giorgio Chiellini during a FIFA World Cup match on June 24, 2014, at Arena das Dunas in Natal, Brazil. The incident occurred i\u2026",
+      "timestamp": "2026-10-20T21:57:07.003195Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://gamedaychatter.com/why-did-luis-suarezs-2014-world-cup-controversy-become-so-infamous/"
+        }
+      ]
+    },
+    {
       "title": "How to Watch the PSG vs. Barcelona Champions League Game Live For Free",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This fixture has a history of intense drama and nail-biting finishes. Will Tuesday\u2019s clash be another classic? Watch PSG vs. Barca live with a streaming subscription or a VPN to find out.\nRemember the euphoria you experienced during the 2026 FIFA World Cup th\u2026",
-      "timestamp": "2026-10-20T18:08:42.788946Z",
+      "timestamp": "2026-10-20T21:57:07.003235Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Fiji vs Cook Islands live streams for free from anywhere in the world in both sides' Rugby League World Cup 2026 opener.",
-      "timestamp": "2026-10-20T18:08:42.789966Z",
+      "timestamp": "2026-10-20T21:57:07.003971Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Could Colby Donovan\u2019s strength and enthusiasm see him grab a midfield role for Celtic?Alistair Johnston of Canada arrives before the FIFA World Cup 2026 Group B match between Canada and Qatar at BC ...",
-      "timestamp": "2026-10-20T18:08:42.790178Z",
+      "timestamp": "2026-10-20T21:57:07.004123Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch England vs Tonga live streams for free from anywhere as Brian McDermott's men begin their Rugby League World Cup 2026 campaign.",
-      "timestamp": "2026-10-20T18:08:42.790399Z",
+      "timestamp": "2026-10-20T21:57:07.004317Z",
       "links": [
         {
           "label": "Source",
@@ -188,6 +216,36 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 20",
+      "loc": "Global",
+      "event": "Display your soccer pride with LEGO\u2019s FIFA World Cup trophy down at a new $160 Amazon low ($40 off)",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "http://9to5toys.com/2026/10/19/lego-fifa-world-cup-official-trophy/"
+        }
+      ]
+    },
+    {
+      "date": "Oct 20",
+      "loc": "Global",
+      "event": "Why did Luis Su\u00e1rez\u2019s 2014 World Cup controversy become so infamous?",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "medium",
+      "impact": "P2 DISRUPTION",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://gamedaychatter.com/why-did-luis-suarezs-2014-world-cup-controversy-become-so-infamous/"
+        }
+      ]
+    },
     {
       "date": "Oct 20",
       "loc": "Global",
@@ -249,5 +307,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-20T18:08:42.790815Z"
+  "lastUpdated": "2026-10-20T21:57:07.004546Z"
 }
