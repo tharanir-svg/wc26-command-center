@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "2026 FIFA World Cup 4\" 3D Trophy Replica for $20 + free shipping w/ Prime",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "This officially authorized 2026 FIFA World Cup trophy replica is $10 off its regular price of $30. It's made from zinc alloy with a polished gold-tone finish and sits on a high-gloss acrylic base featuring the 2026 FIFA logo in gold foil. Buy Now at Amazon",
+      "timestamp": "2026-10-21T10:40:14.503457Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dealnews.com/2026-FIFA-World-Cup-4-3-D-Trophy-Replica-for-20-free-shipping-w-Prime/22299058.html"
+        }
+      ]
+    },
+    {
       "title": "Display your soccer pride with LEGO\u2019s FIFA World Cup trophy down at a new $160 Amazon low ($40 off)",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Soccer fans can currently score the LEGO Editions FIFA World Cup Official Trophy down at $159.99 shipped at Amazon. Down from $200, this particular set hit the market in March, and since then we\u2019ve seen it keeping to its full price until the top of this month\u2026",
-      "timestamp": "2026-10-21T05:25:44.910622Z",
+      "timestamp": "2026-10-21T10:40:14.503788Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Maxisports/Depositphotos Luis Su\u00e1rez\u2019s 2014 World Cup incident Luis Alberto Su\u00e1rez D\u00edaz, a striker for Uruguay, bit Italian defender Giorgio Chiellini during a FIFA World Cup match on June 24, 2014, at Arena das Dunas in Natal, Brazil. The incident occurred i\u2026",
-      "timestamp": "2026-10-21T05:25:44.910770Z",
+      "timestamp": "2026-10-21T10:40:14.503896Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This fixture has a history of intense drama and nail-biting finishes. Will Tuesday\u2019s clash be another classic? Watch PSG vs. Barca live with a streaming subscription or a VPN to find out.\nRemember the euphoria you experienced during the 2026 FIFA World Cup th\u2026",
-      "timestamp": "2026-10-21T05:25:44.910824Z",
+      "timestamp": "2026-10-21T10:40:14.503944Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Fiji vs Cook Islands live streams for free from anywhere in the world in both sides' Rugby League World Cup 2026 opener.",
-      "timestamp": "2026-10-21T05:25:44.911855Z",
+      "timestamp": "2026-10-21T10:40:14.504852Z",
       "links": [
         {
           "label": "Source",
@@ -192,30 +206,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Could Colby Donovan\u2019s strength and enthusiasm see him grab a midfield role for Celtic?Alistair Johnston of Canada arrives before the FIFA World Cup 2026 Group B match between Canada and Qatar at BC ...",
-      "timestamp": "2026-10-21T05:25:44.912073Z",
+      "timestamp": "2026-10-21T10:40:14.505114Z",
       "links": [
         {
           "label": "Source",
           "url": "https://celticshorts.com/2026/10/accommodating-colby-donovan-and-alistair-johnston-in-a-celtic-starting-xi/"
         }
       ]
-    },
-    {
-      "title": "How to watch England vs Tonga for FREE: Live Streams",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "All the ways to watch England vs Tonga live streams for free from anywhere as Brian McDermott's men begin their Rugby League World Cup 2026 campaign.",
-      "timestamp": "2026-10-21T05:25:44.912404Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/how-to-watch/rugby/england-vs-tonga-rugby-league-world-cup-2026-free"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 21",
+      "loc": "Global",
+      "event": "2026 FIFA World Cup 4\" 3D Trophy Replica for $20 + free shipping w/ Prime",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.dealnews.com/2026-FIFA-World-Cup-4-3-D-Trophy-Replica-for-20-free-shipping-w-Prime/22299058.html"
+        }
+      ]
+    },
     {
       "date": "Oct 21",
       "loc": "Global",
@@ -290,22 +305,7 @@
           "url": "https://celticshorts.com/2026/10/accommodating-colby-donovan-and-alistair-johnston-in-a-celtic-starting-xi/"
         }
       ]
-    },
-    {
-      "date": "Oct 21",
-      "loc": "Global",
-      "event": "How to watch England vs Tonga for FREE: Live Streams",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/how-to-watch/rugby/england-vs-tonga-rugby-league-world-cup-2026-free"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-21T05:25:44.912566Z"
+  "lastUpdated": "2026-10-21T10:40:14.505350Z"
 }
