@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 1,
-    "p3": 8
+    "p3": 10
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "Pochettino: US Fans Finally Grasp Soccer's Scale at World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "After the United States opened the 2026 World Cup with a 4-1 win over Paraguay in front of 70,492 fans at SoFi Stadium, head coach Mauricio Pochettino didn't start with the scoreline. He started with ...",
+      "timestamp": "2026-10-22T20:52:53.862983Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://pitchside-us.com/pochettino-usa-fans-world-cup-opener-paraguay/"
+        }
+      ]
+    },
+    {
+      "title": "Janelle Prieto",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Janelle Prieto joins \u00a1HOLA! Am\u00e9ricas' Latina Powerhouse 100 of 2026, honored in Sports for showcasing Miami's authentic culture during the FIFA World Cup.",
+      "timestamp": "2026-10-22T20:52:53.863111Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hola.com/us/latinapowerhouse/20261021924424/janelle-prieto-latina-powerhouse-2026-sports/"
+        }
+      ]
+    },
+    {
       "title": "World Aquatics names 2027 Swimming World Cup hosts",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Oct 21 : World Aquatics on Wednesday named Berlin, Paris and London as the host cities for the 2027 Swimming World Cup, with the three-stop series also offering direct qualification opportunities for the Los Angeles 2028 Olympics.\u2022 Berlin will host the openin\u2026",
-      "timestamp": "2026-10-22T17:41:00.365317Z",
+      "timestamp": "2026-10-22T20:52:53.863212Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "U.S. Soccer has reported surging stadium attendance and television audiences across the first six senior national team fixtures held since the 2026 FIFA World Cup. Over 165,000 supporters turned out to watch the men's and women's sides in action during the au\u2026",
-      "timestamp": "2026-10-22T17:41:00.365488Z",
+      "timestamp": "2026-10-22T20:52:53.863388Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Official Cervezas of MetLife Stadium to Continue Enhancing the Fan Experience with a New Beer Garden Sponsorship, Expanded Activations, and Premium Hospitality EAST RUTHERFORD, N.J., Oct. 20, 2026 /PRNewswire/ -- MetLife Stadium, the New York Jets and the New\u2026",
-      "timestamp": "2026-10-22T17:41:00.365736Z",
+      "timestamp": "2026-10-22T20:52:53.863700Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This fixture has a history of intense drama and nail-biting finishes. Will today's clash be another classic? Watch PSG vs. Barca live with a streaming subscription or a VPN to find out.\nRemember the euphoria you experienced during the 2026 FIFA World Cup this\u2026",
-      "timestamp": "2026-10-22T17:41:00.365964Z",
+      "timestamp": "2026-10-22T20:52:53.863994Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "2026 Ballon d\u2019Or contender Lamine Yamal has managed to register more wins at LA\u2019s SoFi Stadium than the two star starting QBs playing in that stadium for the NFL. Justin Herbert and Matthew Stafford entered the 2026 NFL season with big expectations on their s\u2026",
-      "timestamp": "2026-10-22T17:41:00.366013Z",
+      "timestamp": "2026-10-22T20:52:53.864059Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This officially authorized 2026 FIFA World Cup trophy replica is $10 off its regular price of $30. It's made from zinc alloy with a polished gold-tone finish and sits on a high-gloss acrylic base featuring the 2026 FIFA logo in gold foil. Buy Now at Amazon",
-      "timestamp": "2026-10-22T17:41:00.366050Z",
+      "timestamp": "2026-10-22T20:52:53.864097Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Soccer fans can currently score the LEGO Editions FIFA World Cup Official Trophy down at $159.99 shipped at Amazon. Down from $200, this particular set hit the market in March, and since then we\u2019ve seen it keeping to its full price until the top of this month\u2026",
-      "timestamp": "2026-10-22T17:41:00.366259Z",
+      "timestamp": "2026-10-22T20:52:53.864353Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +262,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Maxisports/Depositphotos Luis Su\u00e1rez\u2019s 2014 World Cup incident Luis Alberto Su\u00e1rez D\u00edaz, a striker for Uruguay, bit Italian defender Giorgio Chiellini during a FIFA World Cup match on June 24, 2014, at Arena das Dunas in Natal, Brazil. The incident occurred i\u2026",
-      "timestamp": "2026-10-22T17:41:00.366337Z",
+      "timestamp": "2026-10-22T20:52:53.864510Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +276,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This fixture has a history of intense drama and nail-biting finishes. Will Tuesday\u2019s clash be another classic? Watch PSG vs. Barca live with a streaming subscription or a VPN to find out.\nRemember the euphoria you experienced during the 2026 FIFA World Cup th\u2026",
-      "timestamp": "2026-10-22T17:41:00.366371Z",
+      "timestamp": "2026-10-22T20:52:53.864591Z",
       "links": [
         {
           "label": "Source",
@@ -258,6 +286,36 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 22",
+      "loc": "Los Angeles",
+      "event": "Pochettino: US Fans Finally Grasp Soccer's Scale at World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://pitchside-us.com/pochettino-usa-fans-world-cup-opener-paraguay/"
+        }
+      ]
+    },
+    {
+      "date": "Oct 22",
+      "loc": "Global",
+      "event": "Janelle Prieto",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.hola.com/us/latinapowerhouse/20261021924424/janelle-prieto-latina-powerhouse-2026-sports/"
+        }
+      ]
+    },
     {
       "date": "Oct 22",
       "loc": "Global",
@@ -394,5 +452,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-22T17:41:00.366756Z"
+  "lastUpdated": "2026-10-22T20:52:53.864906Z"
 }
