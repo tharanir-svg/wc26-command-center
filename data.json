@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 1,
-    "p3": 6
+    "p3": 7
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "U.S. Soccer celebrates record-breaking crowds and TV viewership as more than 165,000 fans attend first senior matches following 2026 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "U.S. Soccer has reported surging stadium attendance and television audiences across the first six senior national team fixtures held since the 2026 FIFA World Cup. Over 165,000 supporters turned out to watch the men's and women's sides in action during the au\u2026",
+      "timestamp": "2026-10-22T12:33:03.281365Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.goal.com/en-us/lists/us-soccer-record-crowds-tv-viewership-fans-matches-2026-world-cup/blt925a5eb694d1308d"
+        }
+      ]
+    },
+    {
       "title": "MetLife Stadium, New York Giants and New York Jets Extend Long-Term Partnership with Corona\u00ae and Modelo\u00ae",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Official Cervezas of MetLife Stadium to Continue Enhancing the Fan Experience with a New Beer Garden Sponsorship, Expanded Activations, and Premium Hospitality EAST RUTHERFORD, N.J., Oct. 20, 2026 /PRNewswire/ -- MetLife Stadium, the New York Jets and the New\u2026",
-      "timestamp": "2026-10-22T06:41:43.731128Z",
+      "timestamp": "2026-10-22T12:33:03.281663Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This fixture has a history of intense drama and nail-biting finishes. Will today's clash be another classic? Watch PSG vs. Barca live with a streaming subscription or a VPN to find out.\nRemember the euphoria you experienced during the 2026 FIFA World Cup this\u2026",
-      "timestamp": "2026-10-22T06:41:43.731469Z",
+      "timestamp": "2026-10-22T12:33:03.281904Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "2026 Ballon d\u2019Or contender Lamine Yamal has managed to register more wins at LA\u2019s SoFi Stadium than the two star starting QBs playing in that stadium for the NFL. Justin Herbert and Matthew Stafford entered the 2026 NFL season with big expectations on their s\u2026",
-      "timestamp": "2026-10-22T06:41:43.731544Z",
+      "timestamp": "2026-10-22T12:33:03.281962Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This officially authorized 2026 FIFA World Cup trophy replica is $10 off its regular price of $30. It's made from zinc alloy with a polished gold-tone finish and sits on a high-gloss acrylic base featuring the 2026 FIFA logo in gold foil. Buy Now at Amazon",
-      "timestamp": "2026-10-22T06:41:43.731586Z",
+      "timestamp": "2026-10-22T12:33:03.281995Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Soccer fans can currently score the LEGO Editions FIFA World Cup Official Trophy down at $159.99 shipped at Amazon. Down from $200, this particular set hit the market in March, and since then we\u2019ve seen it keeping to its full price until the top of this month\u2026",
-      "timestamp": "2026-10-22T06:41:43.731887Z",
+      "timestamp": "2026-10-22T12:33:03.282230Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P2 DISRUPTION",
       "status": "VERIFIED",
       "description": "Maxisports/Depositphotos Luis Su\u00e1rez\u2019s 2014 World Cup incident Luis Alberto Su\u00e1rez D\u00edaz, a striker for Uruguay, bit Italian defender Giorgio Chiellini during a FIFA World Cup match on June 24, 2014, at Arena das Dunas in Natal, Brazil. The incident occurred i\u2026",
-      "timestamp": "2026-10-22T06:41:43.732010Z",
+      "timestamp": "2026-10-22T12:33:03.282315Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This fixture has a history of intense drama and nail-biting finishes. Will Tuesday\u2019s clash be another classic? Watch PSG vs. Barca live with a streaming subscription or a VPN to find out.\nRemember the euphoria you experienced during the 2026 FIFA World Cup th\u2026",
-      "timestamp": "2026-10-22T06:41:43.732061Z",
+      "timestamp": "2026-10-22T12:33:03.282353Z",
       "links": [
         {
           "label": "Source",
@@ -230,6 +244,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 22",
+      "loc": "San Francisco Bay Area",
+      "event": "U.S. Soccer celebrates record-breaking crowds and TV viewership as more than 165,000 fans attend first senior matches following 2026 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.goal.com/en-us/lists/us-soccer-record-crowds-tv-viewership-fans-matches-2026-world-cup/blt925a5eb694d1308d"
+        }
+      ]
+    },
     {
       "date": "Oct 22",
       "loc": "New York / New Jersey",
@@ -336,5 +365,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-22T06:41:43.732805Z"
+  "lastUpdated": "2026-10-22T12:33:03.282837Z"
 }
