@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 4
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "MCP server for FIFA World Cup 2026 football, Formula 1, and IPL cricket intelligence tools.",
-      "timestamp": "2026-10-24T19:06:18.250587Z",
+      "timestamp": "2026-10-24T22:00:41.768522Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Tonga vs Lebanon live streams for free from anywhere as the Pacific Islanders eye another victory at Rugby League World Cup 2026.",
-      "timestamp": "2026-10-24T19:06:18.250870Z",
+      "timestamp": "2026-10-24T22:00:41.768979Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "adidas via eBay has adidas Men's FIFA World Cup 26 Host City Los Angeles Cap for $18 - 40% off with auto-applied coupon code OCTOBER40 in cart = $10.80. Shipping is free.\n\nadidas via ShopSimon ha",
-      "timestamp": "2026-10-24T19:06:18.251216Z",
+      "timestamp": "2026-10-24T22:00:41.769573Z",
       "links": [
         {
           "label": "Source",
@@ -178,39 +178,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Telemundo and Peacock benefited from Spanish-language World Cup rights with $224 million in ad revenue in Q3.",
-      "timestamp": "2026-10-24T19:06:18.251517Z",
+      "timestamp": "2026-10-24T22:00:41.770031Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.adweek.com/convergent-tv/2026-fifa-world-cup-provided-a-big-kick-to-nbcu-ad-sales/"
-        }
-      ]
-    },
-    {
-      "title": "adidas men FIFA World Cup 26 Host City Los Angeles Cap $10.8",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "adidas men FIFA World Cup 26 Host City Los Angeles Cap $10.80\n\nApply code OCTOBER40 at checkout.\n\nFree shipping.\n\nDetailsShell: 100% Polyester(100% Recycled) / Sweatband: 100% Polyester(100% Recycled)",
-      "timestamp": "2026-10-24T19:06:18.251758Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slickdeals.net/f/20189628-adidas-men-fifa-world-cup-26-host-city-los-angeles-cap-10-8"
-        }
-      ]
-    },
-    {
-      "title": "Pochettino: US Fans Finally Grasp Soccer's Scale at World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "After the United States opened the 2026 World Cup with a 4-1 win over Paraguay in front of 70,492 fans at SoFi Stadium, head coach Mauricio Pochettino didn't start with the scoreline. He started with ...",
-      "timestamp": "2026-10-24T19:06:18.251805Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://pitchside-us.com/pochettino-usa-fans-world-cup-opener-paraguay/"
         }
       ]
     }
@@ -275,37 +247,7 @@
           "url": "https://www.adweek.com/convergent-tv/2026-fifa-world-cup-provided-a-big-kick-to-nbcu-ad-sales/"
         }
       ]
-    },
-    {
-      "date": "Oct 24",
-      "loc": "Global",
-      "event": "adidas men FIFA World Cup 26 Host City Los Angeles Cap $10.8",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slickdeals.net/f/20189628-adidas-men-fifa-world-cup-26-host-city-los-angeles-cap-10-8"
-        }
-      ]
-    },
-    {
-      "date": "Oct 24",
-      "loc": "Los Angeles",
-      "event": "Pochettino: US Fans Finally Grasp Soccer's Scale at World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://pitchside-us.com/pochettino-usa-fans-world-cup-opener-paraguay/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-24T19:06:18.252011Z"
+  "lastUpdated": "2026-10-24T22:00:41.770529Z"
 }
