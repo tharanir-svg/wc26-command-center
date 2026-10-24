@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 8
+    "p3": 6
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "MCP server for FIFA World Cup 2026 football, Formula 1, and IPL cricket intelligence tools.",
-      "timestamp": "2026-10-24T16:18:14.388046Z",
+      "timestamp": "2026-10-24T19:06:18.250587Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Tonga vs Lebanon live streams for free from anywhere as the Pacific Islanders eye another victory at Rugby League World Cup 2026.",
-      "timestamp": "2026-10-24T16:18:14.388332Z",
+      "timestamp": "2026-10-24T19:06:18.250870Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "adidas via eBay has adidas Men's FIFA World Cup 26 Host City Los Angeles Cap for $18 - 40% off with auto-applied coupon code OCTOBER40 in cart = $10.80. Shipping is free.\n\nadidas via ShopSimon ha",
-      "timestamp": "2026-10-24T16:18:14.388734Z",
+      "timestamp": "2026-10-24T19:06:18.251216Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Telemundo and Peacock benefited from Spanish-language World Cup rights with $224 million in ad revenue in Q3.",
-      "timestamp": "2026-10-24T16:18:14.389029Z",
+      "timestamp": "2026-10-24T19:06:18.251517Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "adidas men FIFA World Cup 26 Host City Los Angeles Cap $10.80\n\nApply code OCTOBER40 at checkout.\n\nFree shipping.\n\nDetailsShell: 100% Polyester(100% Recycled) / Sweatband: 100% Polyester(100% Recycled)",
-      "timestamp": "2026-10-24T16:18:14.389225Z",
+      "timestamp": "2026-10-24T19:06:18.251758Z",
       "links": [
         {
           "label": "Source",
@@ -206,39 +206,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After the United States opened the 2026 World Cup with a 4-1 win over Paraguay in front of 70,492 fans at SoFi Stadium, head coach Mauricio Pochettino didn't start with the scoreline. He started with ...",
-      "timestamp": "2026-10-24T16:18:14.389250Z",
+      "timestamp": "2026-10-24T19:06:18.251805Z",
       "links": [
         {
           "label": "Source",
           "url": "https://pitchside-us.com/pochettino-usa-fans-world-cup-opener-paraguay/"
-        }
-      ]
-    },
-    {
-      "title": "Janelle Prieto",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Janelle Prieto joins \u00a1HOLA! Am\u00e9ricas' Latina Powerhouse 100 of 2026, honored in Sports for showcasing Miami's authentic culture during the FIFA World Cup.",
-      "timestamp": "2026-10-24T16:18:14.389389Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hola.com/us/latinapowerhouse/20261021924424/janelle-prieto-latina-powerhouse-2026-sports/"
-        }
-      ]
-    },
-    {
-      "title": "World Aquatics names 2027 Swimming World Cup hosts",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Oct 21 : World Aquatics on Wednesday named Berlin, Paris and London as the host cities for the 2027 Swimming World Cup, with the three-stop series also offering direct qualification opportunities for the Los Angeles 2028 Olympics.\u2022 Berlin will host the openin\u2026",
-      "timestamp": "2026-10-24T16:18:14.389525Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.channelnewsasia.com/sport/world-aquatics-names-2027-swimming-world-cup-hosts-6479636"
         }
       ]
     }
@@ -333,37 +305,7 @@
           "url": "https://pitchside-us.com/pochettino-usa-fans-world-cup-opener-paraguay/"
         }
       ]
-    },
-    {
-      "date": "Oct 24",
-      "loc": "Global",
-      "event": "Janelle Prieto",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.hola.com/us/latinapowerhouse/20261021924424/janelle-prieto-latina-powerhouse-2026-sports/"
-        }
-      ]
-    },
-    {
-      "date": "Oct 24",
-      "loc": "Global",
-      "event": "World Aquatics names 2027 Swimming World Cup hosts",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.channelnewsasia.com/sport/world-aquatics-names-2027-swimming-world-cup-hosts-6479636"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-24T16:18:14.389712Z"
+  "lastUpdated": "2026-10-24T19:06:18.252011Z"
 }
