@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 4
+    "p3": 6
   },
   "watchlist": [
     {
@@ -131,12 +131,54 @@
   ],
   "risks": [
     {
+      "title": "How to watch Alpine Ski World Cup 2026/27: FREE live streams, TV channels, schedule",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "All the ways to watch Alpine Ski World Cup 2026/27 live streams for free from anywhere in the world, with TV channels and the season schedule included.",
+      "timestamp": "2026-10-25T05:24:34.694212Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/entertainment/sport/watch-alpine-ski-world-cup-2026-27"
+        }
+      ]
+    },
+    {
+      "title": "How to watch England vs France: FREE live streams, TV channels and kick-off time for Rugby League World Cup 2026",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "All the ways to watch England vs France live streams for free from anywhere in the world as Brian McDermott seeks a first Rugby League World Cup 2026 win.",
+      "timestamp": "2026-10-25T05:24:34.694260Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/entertainment/rugby/watch-england-vs-france-free-rugby-league-world-cup-2026"
+        }
+      ]
+    },
+    {
+      "title": "How to watch Papua New Guinea vs Samoa for FREE: Live streams for Rugby League World Cup 2026 game",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "All the ways to watch Papua New Guinea vs Samoa live streams for free from anywhere in the world with Toa Samoa in rampant mood after thrashing the French.",
+      "timestamp": "2026-10-25T05:24:34.694341Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/entertainment/rugby/watch-papua-new-guinea-vs-samoa-rugby-league-world-cup-2026-free"
+        }
+      ]
+    },
+    {
       "title": "sportiq-mcp 0.4.0",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "MCP server for FIFA World Cup 2026 football, Formula 1, and IPL cricket intelligence tools.",
-      "timestamp": "2026-10-25T00:36:21.515427Z",
+      "timestamp": "2026-10-25T05:24:34.694901Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Tonga vs Lebanon live streams for free from anywhere as the Pacific Islanders eye another victory at Rugby League World Cup 2026.",
-      "timestamp": "2026-10-25T00:36:21.515858Z",
+      "timestamp": "2026-10-25T05:24:34.695182Z",
       "links": [
         {
           "label": "Source",
@@ -164,30 +206,61 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "adidas via eBay has adidas Men's FIFA World Cup 26 Host City Los Angeles Cap for $18 - 40% off with auto-applied coupon code OCTOBER40 in cart = $10.80. Shipping is free.\n\nadidas via ShopSimon ha",
-      "timestamp": "2026-10-25T00:36:21.516438Z",
+      "timestamp": "2026-10-25T05:24:34.695532Z",
       "links": [
         {
           "label": "Source",
           "url": "https://slickdeals.net/f/20189628-adidas-men-fifa-world-cup-26-host-city-los-angeles-cap-10-8-at-adidas-via-ebay"
         }
       ]
-    },
-    {
-      "title": "2026 FIFA World Cup Provided a Big Kick to NBCU Ad Sales",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Telemundo and Peacock benefited from Spanish-language World Cup rights with $224 million in ad revenue in Q3.",
-      "timestamp": "2026-10-25T00:36:21.516899Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.adweek.com/convergent-tv/2026-fifa-world-cup-provided-a-big-kick-to-nbcu-ad-sales/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 25",
+      "loc": "Global",
+      "event": "How to watch Alpine Ski World Cup 2026/27: FREE live streams, TV channels, schedule",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/entertainment/sport/watch-alpine-ski-world-cup-2026-27"
+        }
+      ]
+    },
+    {
+      "date": "Oct 25",
+      "loc": "Global",
+      "event": "How to watch England vs France: FREE live streams, TV channels and kick-off time for Rugby League World Cup 2026",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/entertainment/rugby/watch-england-vs-france-free-rugby-league-world-cup-2026"
+        }
+      ]
+    },
+    {
+      "date": "Oct 25",
+      "loc": "Global",
+      "event": "How to watch Papua New Guinea vs Samoa for FREE: Live streams for Rugby League World Cup 2026 game",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/entertainment/rugby/watch-papua-new-guinea-vs-samoa-rugby-league-world-cup-2026-free"
+        }
+      ]
+    },
     {
       "date": "Oct 25",
       "loc": "Global",
@@ -232,22 +305,7 @@
           "url": "https://slickdeals.net/f/20189628-adidas-men-fifa-world-cup-26-host-city-los-angeles-cap-10-8-at-adidas-via-ebay"
         }
       ]
-    },
-    {
-      "date": "Oct 25",
-      "loc": "Global",
-      "event": "2026 FIFA World Cup Provided a Big Kick to NBCU Ad Sales",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.adweek.com/convergent-tv/2026-fifa-world-cup-provided-a-big-kick-to-nbcu-ad-sales/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-25T00:36:21.517328Z"
+  "lastUpdated": "2026-10-25T05:24:34.696068Z"
 }
