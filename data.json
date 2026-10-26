@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 5
+    "p3": 6
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "How to watch New Zealand vs Cook Islands for FREE: Live streams for Rugby League World Cup 2026 game",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "All the ways to watch New Zealand vs Cook Islands live streams for free from anywhere in the world to see how Kiwis will respond after gutting Australia loss.",
+      "timestamp": "2026-10-26T05:28:58.563415Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/entertainment/rugby/watch-new-zealand-vs-cook-islands-rugby-league-world-cup-2026-free"
+        }
+      ]
+    },
+    {
       "title": "How to watch Alpine Ski World Cup 2026/27: FREE live streams, TV channels, schedule",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Alpine Ski World Cup 2026/27 live streams for free from anywhere in the world, with TV channels and the season schedule included.",
-      "timestamp": "2026-10-26T00:46:55.665591Z",
+      "timestamp": "2026-10-26T05:28:58.563801Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch England vs France live streams for free from anywhere in the world as Brian McDermott seeks a first Rugby League World Cup 2026 win.",
-      "timestamp": "2026-10-26T00:46:55.665638Z",
+      "timestamp": "2026-10-26T05:28:58.563820Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Papua New Guinea vs Samoa live streams for free from anywhere in the world with Toa Samoa in rampant mood after thrashing the French.",
-      "timestamp": "2026-10-26T00:46:55.665702Z",
+      "timestamp": "2026-10-26T05:28:58.563872Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "MCP server for FIFA World Cup 2026 football, Formula 1, and IPL cricket intelligence tools.",
-      "timestamp": "2026-10-26T00:46:55.666134Z",
+      "timestamp": "2026-10-26T05:28:58.564238Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Tonga vs Lebanon live streams for free from anywhere as the Pacific Islanders eye another victory at Rugby League World Cup 2026.",
-      "timestamp": "2026-10-26T00:46:55.666352Z",
+      "timestamp": "2026-10-26T05:28:58.564458Z",
       "links": [
         {
           "label": "Source",
@@ -202,6 +216,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 26",
+      "loc": "Global",
+      "event": "How to watch New Zealand vs Cook Islands for FREE: Live streams for Rugby League World Cup 2026 game",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/entertainment/rugby/watch-new-zealand-vs-cook-islands-rugby-league-world-cup-2026-free"
+        }
+      ]
+    },
     {
       "date": "Oct 26",
       "loc": "Global",
@@ -278,5 +307,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-26T00:46:55.666709Z"
+  "lastUpdated": "2026-10-26T05:28:58.564707Z"
 }
