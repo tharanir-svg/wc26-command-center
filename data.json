@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 7
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "How to watch Australia vs Fiji: FREE live streams, TV channels and kick-off time for Rugby League World Cup 2026",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "All the ways to watch Australia vs Fiji live streams for free from anywhere in the world as Pool A's unbeaten sides meet at the Rugby League World Cup 2026.",
+      "timestamp": "2026-10-26T11:36:31.851584Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/entertainment/rugby/watch-australia-vs-fiji-free-rugby-league-world-cup-2026"
+        }
+      ]
+    },
+    {
       "title": "How to watch New Zealand vs Cook Islands for FREE: Live streams for Rugby League World Cup 2026 game",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch New Zealand vs Cook Islands live streams for free from anywhere in the world to see how Kiwis will respond after gutting Australia loss.",
-      "timestamp": "2026-10-26T05:28:58.563415Z",
+      "timestamp": "2026-10-26T11:36:31.851687Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Alpine Ski World Cup 2026/27 live streams for free from anywhere in the world, with TV channels and the season schedule included.",
-      "timestamp": "2026-10-26T05:28:58.563801Z",
+      "timestamp": "2026-10-26T11:36:31.852065Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch England vs France live streams for free from anywhere in the world as Brian McDermott seeks a first Rugby League World Cup 2026 win.",
-      "timestamp": "2026-10-26T05:28:58.563820Z",
+      "timestamp": "2026-10-26T11:36:31.852084Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Papua New Guinea vs Samoa live streams for free from anywhere in the world with Toa Samoa in rampant mood after thrashing the French.",
-      "timestamp": "2026-10-26T05:28:58.563872Z",
+      "timestamp": "2026-10-26T11:36:31.852139Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "MCP server for FIFA World Cup 2026 football, Formula 1, and IPL cricket intelligence tools.",
-      "timestamp": "2026-10-26T05:28:58.564238Z",
+      "timestamp": "2026-10-26T11:36:31.852557Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Tonga vs Lebanon live streams for free from anywhere as the Pacific Islanders eye another victory at Rugby League World Cup 2026.",
-      "timestamp": "2026-10-26T05:28:58.564458Z",
+      "timestamp": "2026-10-26T11:36:31.852800Z",
       "links": [
         {
           "label": "Source",
@@ -216,6 +230,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 26",
+      "loc": "Global",
+      "event": "How to watch Australia vs Fiji: FREE live streams, TV channels and kick-off time for Rugby League World Cup 2026",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/entertainment/rugby/watch-australia-vs-fiji-free-rugby-league-world-cup-2026"
+        }
+      ]
+    },
     {
       "date": "Oct 26",
       "loc": "Global",
@@ -307,5 +336,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-26T05:28:58.564707Z"
+  "lastUpdated": "2026-10-26T11:36:31.852982Z"
 }
