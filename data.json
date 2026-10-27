@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 7
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Derek Rae reflects on his storied career calling soccer in the United States",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "From the Miracle of Istanbul to the biggest stages in world soccer, Derek Rae has spent more than four decades bringing the sport\u2019s most memorable moments to life. He has worked professionally at every men\u2019s FIFA World Cup since 1990 and commentated on every \u2026",
+      "timestamp": "2026-10-27T18:24:08.513476Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://awfulannouncing.com/soccer/derek-rae-career-broadcasting-soccer-united-states.html"
+        }
+      ]
+    },
+    {
       "title": "adidas Men's FIFA World Cup 26 Host City Los Angeles Cap for $11 + free shipping",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ending today, the adidas Men's FIFA World Cup 26 Host City Los Angeles Cap drops to $10.80 via promo code \"OCTOBER40\".\u00a0 That's a $7 low.\u00a0 Shipping is free. Buy Now at eBay",
-      "timestamp": "2026-10-27T12:47:31.128230Z",
+      "timestamp": "2026-10-27T18:24:08.513763Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Australia vs Fiji live streams for free from anywhere in the world as Pool A's unbeaten sides meet at the Rugby League World Cup 2026.",
-      "timestamp": "2026-10-27T12:47:31.128396Z",
+      "timestamp": "2026-10-27T18:24:08.513978Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch New Zealand vs Cook Islands live streams for free from anywhere in the world to see how Kiwis will respond after gutting Australia loss.",
-      "timestamp": "2026-10-27T12:47:31.128455Z",
+      "timestamp": "2026-10-27T18:24:08.514056Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Alpine Ski World Cup 2026/27 live streams for free from anywhere in the world, with TV channels and the season schedule included.",
-      "timestamp": "2026-10-27T12:47:31.128796Z",
+      "timestamp": "2026-10-27T18:24:08.514476Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch England vs France live streams for free from anywhere in the world as Brian McDermott seeks a first Rugby League World Cup 2026 win.",
-      "timestamp": "2026-10-27T12:47:31.128813Z",
+      "timestamp": "2026-10-27T18:24:08.514497Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Papua New Guinea vs Samoa live streams for free from anywhere in the world with Toa Samoa in rampant mood after thrashing the French.",
-      "timestamp": "2026-10-27T12:47:31.128865Z",
+      "timestamp": "2026-10-27T18:24:08.514564Z",
       "links": [
         {
           "label": "Source",
@@ -216,6 +230,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 27",
+      "loc": "Global",
+      "event": "Derek Rae reflects on his storied career calling soccer in the United States",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://awfulannouncing.com/soccer/derek-rae-career-broadcasting-soccer-united-states.html"
+        }
+      ]
+    },
     {
       "date": "Oct 27",
       "loc": "Global",
@@ -307,5 +336,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-27T12:47:31.129261Z"
+  "lastUpdated": "2026-10-27T18:24:08.514987Z"
 }
