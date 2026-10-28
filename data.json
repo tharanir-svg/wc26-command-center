@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 7
+    "p3": 5
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "From the Miracle of Istanbul to the biggest stages in world soccer, Derek Rae has spent more than four decades bringing the sport\u2019s most memorable moments to life. He has worked professionally at every men\u2019s FIFA World Cup since 1990 and commentated on every \u2026",
-      "timestamp": "2026-10-28T01:50:00.660787Z",
+      "timestamp": "2026-10-28T07:34:47.642616Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ending today, the adidas Men's FIFA World Cup 26 Host City Los Angeles Cap drops to $10.80 via promo code \"OCTOBER40\".\u00a0 That's a $7 low.\u00a0 Shipping is free. Buy Now at eBay",
-      "timestamp": "2026-10-28T01:50:00.661083Z",
+      "timestamp": "2026-10-28T07:34:47.642939Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Australia vs Fiji live streams for free from anywhere in the world as Pool A's unbeaten sides meet at the Rugby League World Cup 2026.",
-      "timestamp": "2026-10-28T01:50:00.661283Z",
+      "timestamp": "2026-10-28T07:34:47.643151Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch New Zealand vs Cook Islands live streams for free from anywhere in the world to see how Kiwis will respond after gutting Australia loss.",
-      "timestamp": "2026-10-28T01:50:00.661357Z",
+      "timestamp": "2026-10-28T07:34:47.643231Z",
       "links": [
         {
           "label": "Source",
@@ -192,39 +192,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Alpine Ski World Cup 2026/27 live streams for free from anywhere in the world, with TV channels and the season schedule included.",
-      "timestamp": "2026-10-28T01:50:00.661818Z",
+      "timestamp": "2026-10-28T07:34:47.643747Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.techradar.com/entertainment/sport/watch-alpine-ski-world-cup-2026-27"
-        }
-      ]
-    },
-    {
-      "title": "How to watch England vs France: FREE live streams, TV channels and kick-off time for Rugby League World Cup 2026",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "All the ways to watch England vs France live streams for free from anywhere in the world as Brian McDermott seeks a first Rugby League World Cup 2026 win.",
-      "timestamp": "2026-10-28T01:50:00.661846Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/entertainment/rugby/watch-england-vs-france-free-rugby-league-world-cup-2026"
-        }
-      ]
-    },
-    {
-      "title": "How to watch Papua New Guinea vs Samoa for FREE: Live streams for Rugby League World Cup 2026 game",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "All the ways to watch Papua New Guinea vs Samoa live streams for free from anywhere in the world with Toa Samoa in rampant mood after thrashing the French.",
-      "timestamp": "2026-10-28T01:50:00.661921Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/entertainment/rugby/watch-papua-new-guinea-vs-samoa-rugby-league-world-cup-2026-free"
         }
       ]
     }
@@ -304,37 +276,7 @@
           "url": "https://www.techradar.com/entertainment/sport/watch-alpine-ski-world-cup-2026-27"
         }
       ]
-    },
-    {
-      "date": "Oct 28",
-      "loc": "Global",
-      "event": "How to watch England vs France: FREE live streams, TV channels and kick-off time for Rugby League World Cup 2026",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/entertainment/rugby/watch-england-vs-france-free-rugby-league-world-cup-2026"
-        }
-      ]
-    },
-    {
-      "date": "Oct 28",
-      "loc": "Global",
-      "event": "How to watch Papua New Guinea vs Samoa for FREE: Live streams for Rugby League World Cup 2026 game",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/entertainment/rugby/watch-papua-new-guinea-vs-samoa-rugby-league-world-cup-2026-free"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-28T01:50:00.662152Z"
+  "lastUpdated": "2026-10-28T07:34:47.643936Z"
 }
