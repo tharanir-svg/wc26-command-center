@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "No player better than Messi at 2026 World Cup \u2014 Yamal",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Barcelona forward Lamine Yamal has declared that no player performed better than Lionel Messi at the 2026 FIFA World Cup, while thanking the Argentine legend for calling and offering him support after a \u201cdifficult night\u201d. Yamal made the remarks in separate Fa\u2026",
+      "timestamp": "2026-10-29T09:23:27.072196Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/no-player-better-than-messi-at-2026-world-cup-yamal/"
+        }
+      ]
+    },
+    {
       "title": "Derek Rae reflects on his storied career calling soccer in the United States",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "From the Miracle of Istanbul to the biggest stages in world soccer, Derek Rae has spent more than four decades bringing the sport\u2019s most memorable moments to life. He has worked professionally at every men\u2019s FIFA World Cup since 1990 and commentated on every \u2026",
-      "timestamp": "2026-10-29T02:59:49.952831Z",
+      "timestamp": "2026-10-29T09:23:27.073340Z",
       "links": [
         {
           "label": "Source",
@@ -150,30 +164,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ending today, the adidas Men's FIFA World Cup 26 Host City Los Angeles Cap drops to $10.80 via promo code \"OCTOBER40\".\u00a0 That's a $7 low.\u00a0 Shipping is free. Buy Now at eBay",
-      "timestamp": "2026-10-29T02:59:49.953159Z",
+      "timestamp": "2026-10-29T09:23:27.073678Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.dealnews.com/adidas-Mens-FIFA-World-Cup-26-Host-City-Los-Angeles-Cap-for-11-free-shipping/22313843.html"
         }
       ]
-    },
-    {
-      "title": "How to watch Australia vs Fiji: FREE live streams, TV channels and kick-off time for Rugby League World Cup 2026",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "All the ways to watch Australia vs Fiji live streams for free from anywhere in the world as Pool A's unbeaten sides meet at the Rugby League World Cup 2026.",
-      "timestamp": "2026-10-29T02:59:49.953513Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/entertainment/rugby/watch-australia-vs-fiji-free-rugby-league-world-cup-2026"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 29",
+      "loc": "Global",
+      "event": "No player better than Messi at 2026 World Cup \u2014 Yamal",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/no-player-better-than-messi-at-2026-world-cup-yamal/"
+        }
+      ]
+    },
     {
       "date": "Oct 29",
       "loc": "Global",
@@ -203,22 +218,7 @@
           "url": "https://www.dealnews.com/adidas-Mens-FIFA-World-Cup-26-Host-City-Los-Angeles-Cap-for-11-free-shipping/22313843.html"
         }
       ]
-    },
-    {
-      "date": "Oct 29",
-      "loc": "Global",
-      "event": "How to watch Australia vs Fiji: FREE live streams, TV channels and kick-off time for Rugby League World Cup 2026",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/entertainment/rugby/watch-australia-vs-fiji-free-rugby-league-world-cup-2026"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-29T02:59:49.953649Z"
+  "lastUpdated": "2026-10-29T09:23:27.074008Z"
 }
