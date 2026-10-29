@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 4
+    "p3": 3
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "From the Miracle of Istanbul to the biggest stages in world soccer, Derek Rae has spent more than four decades bringing the sport\u2019s most memorable moments to life. He has worked professionally at every men\u2019s FIFA World Cup since 1990 and commentated on every \u2026",
-      "timestamp": "2026-10-28T23:41:12.744101Z",
+      "timestamp": "2026-10-29T02:59:49.952831Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Ending today, the adidas Men's FIFA World Cup 26 Host City Los Angeles Cap drops to $10.80 via promo code \"OCTOBER40\".\u00a0 That's a $7 low.\u00a0 Shipping is free. Buy Now at eBay",
-      "timestamp": "2026-10-28T23:41:12.744335Z",
+      "timestamp": "2026-10-29T02:59:49.953159Z",
       "links": [
         {
           "label": "Source",
@@ -164,32 +164,18 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Australia vs Fiji live streams for free from anywhere in the world as Pool A's unbeaten sides meet at the Rugby League World Cup 2026.",
-      "timestamp": "2026-10-28T23:41:12.744521Z",
+      "timestamp": "2026-10-29T02:59:49.953513Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.techradar.com/entertainment/rugby/watch-australia-vs-fiji-free-rugby-league-world-cup-2026"
         }
       ]
-    },
-    {
-      "title": "How to watch New Zealand vs Cook Islands for FREE: Live streams for Rugby League World Cup 2026 game",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "All the ways to watch New Zealand vs Cook Islands live streams for free from anywhere in the world to see how Kiwis will respond after gutting Australia loss.",
-      "timestamp": "2026-10-28T23:41:12.744590Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/entertainment/rugby/watch-new-zealand-vs-cook-islands-rugby-league-world-cup-2026-free"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Oct 28",
+      "date": "Oct 29",
       "loc": "Global",
       "event": "Derek Rae reflects on his storied career calling soccer in the United States",
       "type": "News",
@@ -204,7 +190,7 @@
       ]
     },
     {
-      "date": "Oct 28",
+      "date": "Oct 29",
       "loc": "Global",
       "event": "adidas Men's FIFA World Cup 26 Host City Los Angeles Cap for $11 + free shipping",
       "type": "News",
@@ -219,7 +205,7 @@
       ]
     },
     {
-      "date": "Oct 28",
+      "date": "Oct 29",
       "loc": "Global",
       "event": "How to watch Australia vs Fiji: FREE live streams, TV channels and kick-off time for Rugby League World Cup 2026",
       "type": "News",
@@ -232,22 +218,7 @@
           "url": "https://www.techradar.com/entertainment/rugby/watch-australia-vs-fiji-free-rugby-league-world-cup-2026"
         }
       ]
-    },
-    {
-      "date": "Oct 28",
-      "loc": "Global",
-      "event": "How to watch New Zealand vs Cook Islands for FREE: Live streams for Rugby League World Cup 2026 game",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/entertainment/rugby/watch-new-zealand-vs-cook-islands-rugby-league-world-cup-2026-free"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-28T23:41:12.744714Z"
+  "lastUpdated": "2026-10-29T02:59:49.953649Z"
 }
