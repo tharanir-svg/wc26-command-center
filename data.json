@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 5
   },
   "watchlist": [
     {
@@ -131,12 +131,54 @@
   ],
   "risks": [
     {
+      "title": "The Moments that Made the 2026 Red Sox: The Scottish Invasion of Fenway",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "This chapter of the 2026 Boston Red Sox story actually begins back in 2025\u2014Friday, December 5, to be exact. Ironically enough, it begins with a New York Yankee: Aaron Judge. Number 99 was in Washington, D.C. for the draw of the 2026 FIFA World Cup that day. B\u2026",
+      "timestamp": "2026-10-29T16:28:10.876908Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.overthemonster.com/red-sox-comentary/110935/the-moments-that-made-the-2026-red-sox-the-scottish-invasion-of-fenway"
+        }
+      ]
+    },
+    {
+      "title": "Lamine Yamal breaks silence after losing Ballon d\u2019Or; Father reportedly involved in violent airport incident",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "After a successful 2025-26 LaLiga season and a 2026 FIFA World Cup campaign, Spain\u2019s Lamine Yamal was a heavy favorite to win this year\u2019s Ballon d\u2019Or . However, an even better performance from England captain Harry Kane in the Bundesliga, German domestic tour\u2026",
+      "timestamp": "2026-10-29T16:28:10.876986Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://clutchpoints.com/soccer/lamine-yamal-breaks-silence-losing-ballon-dor-father-involved-airport-incident"
+        }
+      ]
+    },
+    {
+      "title": "McDonald's surprise exit from the FIFA World Cup shows how big brands are rethinking sports sponsorships",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "McDonald's decision to leave FIFA shows how global brands are reassessing the cost, clutter and return on sport's biggest sponsorships.",
+      "timestamp": "2026-10-29T16:28:10.877063Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.businessinsider.com/mcdonalds-fifa-exit-tests-value-of-big-sports-sponsorships-2026-10#article"
+        }
+      ]
+    },
+    {
       "title": "No player better than Messi at 2026 World Cup \u2014 Yamal",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Barcelona forward Lamine Yamal has declared that no player performed better than Lionel Messi at the 2026 FIFA World Cup, while thanking the Argentine legend for calling and offering him support after a \u201cdifficult night\u201d. Yamal made the remarks in separate Fa\u2026",
-      "timestamp": "2026-10-29T09:23:27.072196Z",
+      "timestamp": "2026-10-29T16:28:10.877127Z",
       "links": [
         {
           "label": "Source",
@@ -150,30 +192,61 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "From the Miracle of Istanbul to the biggest stages in world soccer, Derek Rae has spent more than four decades bringing the sport\u2019s most memorable moments to life. He has worked professionally at every men\u2019s FIFA World Cup since 1990 and commentated on every \u2026",
-      "timestamp": "2026-10-29T09:23:27.073340Z",
+      "timestamp": "2026-10-29T16:28:10.878276Z",
       "links": [
         {
           "label": "Source",
           "url": "https://awfulannouncing.com/soccer/derek-rae-career-broadcasting-soccer-united-states.html"
         }
       ]
-    },
-    {
-      "title": "adidas Men's FIFA World Cup 26 Host City Los Angeles Cap for $11 + free shipping",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Ending today, the adidas Men's FIFA World Cup 26 Host City Los Angeles Cap drops to $10.80 via promo code \"OCTOBER40\".\u00a0 That's a $7 low.\u00a0 Shipping is free. Buy Now at eBay",
-      "timestamp": "2026-10-29T09:23:27.073678Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/adidas-Mens-FIFA-World-Cup-26-Host-City-Los-Angeles-Cap-for-11-free-shipping/22313843.html"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 29",
+      "loc": "Global",
+      "event": "The Moments that Made the 2026 Red Sox: The Scottish Invasion of Fenway",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.overthemonster.com/red-sox-comentary/110935/the-moments-that-made-the-2026-red-sox-the-scottish-invasion-of-fenway"
+        }
+      ]
+    },
+    {
+      "date": "Oct 29",
+      "loc": "Global",
+      "event": "Lamine Yamal breaks silence after losing Ballon d\u2019Or; Father reportedly involved in violent airport incident",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://clutchpoints.com/soccer/lamine-yamal-breaks-silence-losing-ballon-dor-father-involved-airport-incident"
+        }
+      ]
+    },
+    {
+      "date": "Oct 29",
+      "loc": "Global",
+      "event": "McDonald's surprise exit from the FIFA World Cup shows how big brands are rethinking sports sponsorships",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.businessinsider.com/mcdonalds-fifa-exit-tests-value-of-big-sports-sponsorships-2026-10#article"
+        }
+      ]
+    },
     {
       "date": "Oct 29",
       "loc": "Global",
@@ -203,22 +276,7 @@
           "url": "https://awfulannouncing.com/soccer/derek-rae-career-broadcasting-soccer-united-states.html"
         }
       ]
-    },
-    {
-      "date": "Oct 29",
-      "loc": "Global",
-      "event": "adidas Men's FIFA World Cup 26 Host City Los Angeles Cap for $11 + free shipping",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/adidas-Mens-FIFA-World-Cup-26-Host-City-Los-Angeles-Cap-for-11-free-shipping/22313843.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-29T09:23:27.074008Z"
+  "lastUpdated": "2026-10-29T16:28:10.878678Z"
 }
