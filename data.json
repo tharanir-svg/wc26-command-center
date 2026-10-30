@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "\u201cYou Have the Money\u201d: Matthew Stafford\u2019s Wife Kelly Makes Emotional Plea to NFL Over Rams QB\u2019s Safety",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "For decades, NFL players have been asking the officials to switch to grass playing surfaces instead of artificial turf. The debate became a lot louder in the offseason after multiple stadiums decided to use grass to host FIFA World Cup 2026, and reverted to a\u2026",
+      "timestamp": "2026-10-30T07:47:17.046478Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.essentiallysports.com/nfl-active-news-you-have-the-money-matthew-staffords-wife-kelly-makes-emotional-plea-to-nfl-over-rams-qbs-safety/"
+        }
+      ]
+    },
+    {
       "title": "FIFA raked in astonishing $5 billion from extortionate World Cup ticket prices in USA",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA raked in billions of dollars from ticket and hospitality sales during the 2026 World Cup in the United States, Canada and Mexico.",
-      "timestamp": "2026-10-30T01:22:59.799571Z",
+      "timestamp": "2026-10-30T07:47:17.046700Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "On Wednesday, Nov. 11, Hub's Jon Giegengack, Omdia's Tim Westcott, Genius Sports' Tony Marlow, and sports and media tech advisor Carlos De Marchis will join MTech Sport's Matt Stagg for the Streaming Media Connect panel \"Global Sports Streaming Industry Lesso\u2026",
-      "timestamp": "2026-10-30T01:22:59.799696Z",
+      "timestamp": "2026-10-30T07:47:17.046810Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This chapter of the 2026 Boston Red Sox story actually begins back in 2025\u2014Friday, December 5, to be exact. Ironically enough, it begins with a New York Yankee: Aaron Judge. Number 99 was in Washington, D.C. for the draw of the 2026 FIFA World Cup that day. B\u2026",
-      "timestamp": "2026-10-30T01:22:59.799791Z",
+      "timestamp": "2026-10-30T07:47:17.046914Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After a successful 2025-26 LaLiga season and a 2026 FIFA World Cup campaign, Spain\u2019s Lamine Yamal was a heavy favorite to win this year\u2019s Ballon d\u2019Or . However, an even better performance from England captain Harry Kane in the Bundesliga, German domestic tour\u2026",
-      "timestamp": "2026-10-30T01:22:59.799830Z",
+      "timestamp": "2026-10-30T07:47:17.046959Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "McDonald's decision to leave FIFA shows how global brands are reassessing the cost, clutter and return on sport's biggest sponsorships.",
-      "timestamp": "2026-10-30T01:22:59.799880Z",
+      "timestamp": "2026-10-30T07:47:17.047027Z",
       "links": [
         {
           "label": "Source",
@@ -206,30 +220,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Barcelona forward Lamine Yamal has declared that no player performed better than Lionel Messi at the 2026 FIFA World Cup, while thanking the Argentine legend for calling and offering him support after a \u201cdifficult night\u201d. Yamal made the remarks in separate Fa\u2026",
-      "timestamp": "2026-10-30T01:22:59.799926Z",
+      "timestamp": "2026-10-30T07:47:17.047080Z",
       "links": [
         {
           "label": "Source",
           "url": "https://punchng.com/no-player-better-than-messi-at-2026-world-cup-yamal/"
         }
       ]
-    },
-    {
-      "title": "Derek Rae reflects on his storied career calling soccer in the United States",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "From the Miracle of Istanbul to the biggest stages in world soccer, Derek Rae has spent more than four decades bringing the sport\u2019s most memorable moments to life. He has worked professionally at every men\u2019s FIFA World Cup since 1990 and commentated on every \u2026",
-      "timestamp": "2026-10-30T01:22:59.800804Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/derek-rae-career-broadcasting-soccer-united-states.html"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 30",
+      "loc": "Global",
+      "event": "\u201cYou Have the Money\u201d: Matthew Stafford\u2019s Wife Kelly Makes Emotional Plea to NFL Over Rams QB\u2019s Safety",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.essentiallysports.com/nfl-active-news-you-have-the-money-matthew-staffords-wife-kelly-makes-emotional-plea-to-nfl-over-rams-qbs-safety/"
+        }
+      ]
+    },
     {
       "date": "Oct 30",
       "loc": "Global",
@@ -319,22 +334,7 @@
           "url": "https://punchng.com/no-player-better-than-messi-at-2026-world-cup-yamal/"
         }
       ]
-    },
-    {
-      "date": "Oct 30",
-      "loc": "Global",
-      "event": "Derek Rae reflects on his storied career calling soccer in the United States",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://awfulannouncing.com/soccer/derek-rae-career-broadcasting-soccer-united-states.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-30T01:22:59.800938Z"
+  "lastUpdated": "2026-10-30T07:47:17.048062Z"
 }
