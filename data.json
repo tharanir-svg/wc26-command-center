@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 9
+    "p3": 10
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Watch England vs Papua New Guinea for FREE: Live streams",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "All the ways to watch England vs Papua New Guinea for free from anywhere as Brian McDermott's side aim to keep their Rugby League World Cup 2026 hopes alive.",
+      "timestamp": "2026-10-31T08:58:59.830136Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/entertainment/rugby/watch-england-vs-papua-new-guinea-free-rugby-league-world-cup-2026"
+        }
+      ]
+    },
+    {
       "title": "Ancelotti picks Brazil squad on Thursday for final 2026 break; react ",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Coach Carlo Ancelotti will announce his second Brazil squad since the end of the 2026 World Cup this Thursday at 3 p.m. (Bras\u00edlia time). The announcement will take place at the headquarters of the Br...",
-      "timestamp": "2026-10-31T02:51:18.986793Z",
+      "timestamp": "2026-10-31T08:58:59.830654Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "South Africa names Durban as host city for its 2036 and 2040 bids to bring the Olympics to Africa for the first time.",
-      "timestamp": "2026-10-31T02:51:18.986846Z",
+      "timestamp": "2026-10-31T08:58:59.830702Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "For decades, NFL players have been asking the officials to switch to grass playing surfaces instead of artificial turf. The debate became a lot louder in the offseason after multiple stadiums decided to use grass to host FIFA World Cup 2026, and reverted to a\u2026",
-      "timestamp": "2026-10-31T02:51:18.986923Z",
+      "timestamp": "2026-10-31T08:58:59.830792Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "FIFA raked in billions of dollars from ticket and hospitality sales during the 2026 World Cup in the United States, Canada and Mexico.",
-      "timestamp": "2026-10-31T02:51:18.987085Z",
+      "timestamp": "2026-10-31T08:58:59.831006Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "On Wednesday, Nov. 11, Hub's Jon Giegengack, Omdia's Tim Westcott, Genius Sports' Tony Marlow, and sports and media tech advisor Carlos De Marchis will join MTech Sport's Matt Stagg for the Streaming Media Connect panel \"Global Sports Streaming Industry Lesso\u2026",
-      "timestamp": "2026-10-31T02:51:18.987177Z",
+      "timestamp": "2026-10-31T08:58:59.831131Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "This chapter of the 2026 Boston Red Sox story actually begins back in 2025\u2014Friday, December 5, to be exact. Ironically enough, it begins with a New York Yankee: Aaron Judge. Number 99 was in Washington, D.C. for the draw of the 2026 FIFA World Cup that day. B\u2026",
-      "timestamp": "2026-10-31T02:51:18.987265Z",
+      "timestamp": "2026-10-31T08:58:59.831266Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "After a successful 2025-26 LaLiga season and a 2026 FIFA World Cup campaign, Spain\u2019s Lamine Yamal was a heavy favorite to win this year\u2019s Ballon d\u2019Or . However, an even better performance from England captain Harry Kane in the Bundesliga, German domestic tour\u2026",
-      "timestamp": "2026-10-31T02:51:18.987303Z",
+      "timestamp": "2026-10-31T08:58:59.831322Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "McDonald's decision to leave FIFA shows how global brands are reassessing the cost, clutter and return on sport's biggest sponsorships.",
-      "timestamp": "2026-10-31T02:51:18.987360Z",
+      "timestamp": "2026-10-31T08:58:59.831398Z",
       "links": [
         {
           "label": "Source",
@@ -248,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Barcelona forward Lamine Yamal has declared that no player performed better than Lionel Messi at the 2026 FIFA World Cup, while thanking the Argentine legend for calling and offering him support after a \u201cdifficult night\u201d. Yamal made the remarks in separate Fa\u2026",
-      "timestamp": "2026-10-31T02:51:18.987402Z",
+      "timestamp": "2026-10-31T08:58:59.831458Z",
       "links": [
         {
           "label": "Source",
@@ -258,6 +272,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Oct 31",
+      "loc": "Global",
+      "event": "Watch England vs Papua New Guinea for FREE: Live streams",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/entertainment/rugby/watch-england-vs-papua-new-guinea-free-rugby-league-world-cup-2026"
+        }
+      ]
+    },
     {
       "date": "Oct 31",
       "loc": "Global",
@@ -394,5 +423,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-31T02:51:18.987916Z"
+  "lastUpdated": "2026-10-31T08:58:59.832004Z"
 }
