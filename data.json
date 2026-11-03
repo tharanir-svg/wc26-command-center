@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Report: Napoli eyeing opportunity for Barcelona and 2026 World Cup winning midfielder",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Monday\u2019s reports claim that Napoli are eyeing an ambitious January transfer for Barcelona midfielder and 2026 World Cup winner Gavi, whose opportunities at",
+      "timestamp": "2026-11-03T18:06:16.147357Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/napoli-eye-opportunity-barcelona-midfielder/"
+        }
+      ]
+    },
+    {
       "title": "Watch Tonga vs Samoa: FREE live streams and TV channels",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Tonga vs Samoa live streams for free from anywhere in a deciding Pools B & C clash at Rugby League World Cup 2026.",
-      "timestamp": "2026-11-03T10:09:51.606545Z",
+      "timestamp": "2026-11-03T18:06:16.148053Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Australia vs Cook Islands live streams for free from anywhere in this Pool A finale at Rugby League World Cup 2026.",
-      "timestamp": "2026-11-03T10:09:51.606938Z",
+      "timestamp": "2026-11-03T18:06:16.148422Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch New Zealand vs Fiji live streams for free from anywhere in a winner-takes-all Pool A clash at Rugby League World Cup 2026.",
-      "timestamp": "2026-11-03T10:09:51.607083Z",
+      "timestamp": "2026-11-03T18:06:16.148561Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "By Charles BoehmThe New England Revolution, who will welcome Lionel Messi and Inter Miami CF to a packed Gillette Stadium for this weekend\u2019s Sunday Night Soccer presented by Continental Tire showcas...",
-      "timestamp": "2026-11-03T10:09:51.607162Z",
+      "timestamp": "2026-11-03T18:06:16.148668Z",
       "links": [
         {
           "label": "Source",
@@ -192,30 +206,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Zee Entertainment Enterprises reported a 40% decline in consolidated net profit for the quarter ended September 30, 2026. Operating revenue increased by 13%, largely due to growth in subscription revenue supported by the FIFA World Cup 2026. Total expenditure\u2026",
-      "timestamp": "2026-11-03T10:09:51.607285Z",
+      "timestamp": "2026-11-03T18:06:16.148863Z",
       "links": [
         {
           "label": "Source",
           "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/zee-entertainment-q2-profit-drops-40-to-rs-46-crore-as-ebitda-margin-contracts-to-3-2/articleshow/135369566.cms"
         }
       ]
-    },
-    {
-      "title": "Amazon - Outerstuff Unisex Adult Brazil FIFA World Cup 2026 Flatbrim Snapback Cap $9.42",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "No special codes or coupons are required. Get this snapback cap while supplies last.",
-      "timestamp": "2026-11-03T10:09:51.607371Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealcatcher.com/deals/clothing-accessories/bags-luggage/outerstuff-unisex-adult-brazil-fifa-world-cup-flatbrim-snapback-cap-443591"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Nov 03",
+      "loc": "Global",
+      "event": "Report: Napoli eyeing opportunity for Barcelona and 2026 World Cup winning midfielder",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/napoli-eye-opportunity-barcelona-midfielder/"
+        }
+      ]
+    },
     {
       "date": "Nov 03",
       "loc": "Global",
@@ -290,22 +305,7 @@
           "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/zee-entertainment-q2-profit-drops-40-to-rs-46-crore-as-ebitda-margin-contracts-to-3-2/articleshow/135369566.cms"
         }
       ]
-    },
-    {
-      "date": "Nov 03",
-      "loc": "Global",
-      "event": "Amazon - Outerstuff Unisex Adult Brazil FIFA World Cup 2026 Flatbrim Snapback Cap $9.42",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealcatcher.com/deals/clothing-accessories/bags-luggage/outerstuff-unisex-adult-brazil-fifa-world-cup-flatbrim-snapback-cap-443591"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-11-03T10:09:51.607832Z"
+  "lastUpdated": "2026-11-03T18:06:16.148997Z"
 }
