@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 2
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "https://instagram.com/p/DfPlAlzDThx The English player, Real Madrid midfielder, 2026 FIFA World Cup\u2122 breakthrough star and Erling Haaland's omega stars in the new Calvin Klein underwear campaign.Jude Bellingham, for your eyes only. https://t.co/0pYaYdHdy9\r\n\u2014 \u2026",
-      "timestamp": "2026-11-04T11:38:36.840550Z",
+      "timestamp": "2026-11-04T18:55:01.693358Z",
       "links": [
         {
           "label": "Source",
@@ -150,25 +150,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Monday\u2019s reports claim that Napoli are eyeing an ambitious January transfer for Barcelona midfielder and 2026 World Cup winner Gavi, whose opportunities at",
-      "timestamp": "2026-11-04T11:38:36.840779Z",
+      "timestamp": "2026-11-04T18:55:01.693617Z",
       "links": [
         {
           "label": "Source",
           "url": "https://football-italia.net/napoli-eye-opportunity-barcelona-midfielder/"
-        }
-      ]
-    },
-    {
-      "title": "Watch Tonga vs Samoa: FREE live streams and TV channels",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "All the ways to watch Tonga vs Samoa live streams for free from anywhere in a deciding Pools B & C clash at Rugby League World Cup 2026.",
-      "timestamp": "2026-11-04T11:38:36.841290Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/entertainment/rugby/tonga-vs-samoa-free-rugby-league-world-cup-2026"
         }
       ]
     }
@@ -203,22 +189,7 @@
           "url": "https://football-italia.net/napoli-eye-opportunity-barcelona-midfielder/"
         }
       ]
-    },
-    {
-      "date": "Nov 04",
-      "loc": "Global",
-      "event": "Watch Tonga vs Samoa: FREE live streams and TV channels",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/entertainment/rugby/tonga-vs-samoa-free-rugby-league-world-cup-2026"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-11-04T11:38:36.841515Z"
+  "lastUpdated": "2026-11-04T18:55:01.694185Z"
 }
