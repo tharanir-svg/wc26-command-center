@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 1
+    "p3": 2
   },
   "watchlist": [
     {
@@ -131,16 +131,30 @@
   ],
   "risks": [
     {
-      "title": "Jude Bellingham for Calvin Klein",
+      "title": "Cristiano Ronaldo was given special treatment at 2026 World Cup as ex-Portugal assistant boss Ricardo Carvalho reveals what he would have done differently",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "https://instagram.com/p/DfPlAlzDThx The English player, Real Madrid midfielder, 2026 FIFA World Cup\u2122 breakthrough star and Erling Haaland's omega stars in the new Calvin Klein underwear campaign.Jude Bellingham, for your eyes only. https://t.co/0pYaYdHdy9\r\n\u2014 \u2026",
-      "timestamp": "2026-11-05T12:55:05.577636Z",
+      "description": "Former assistant coach Ricardo Carvalho has now offered insight into those discussions, revealing that he had a different approach in mind when it came to managing the veteran forward. \nCristiano Ronaldo\u2019s importance to Portugal has rarely been questioned, bu\u2026",
+      "timestamp": "2026-11-05T20:20:31.996752Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://ohnotheydidnt.livejournal.com/133098147.html"
+          "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-was-given-special-treatment-at-2026-world-cup-as-ex-portugal-assistant-boss-ricardo-carvalho-reveals-what-he-would-have-done-differently/"
+        }
+      ]
+    },
+    {
+      "title": "Kanye West Announces 2027 Concert at Mexico City\u2019s Iconic Estadio Azteca",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The March 2027 concert follows Ye's first Mexican performances in more than 17 years, held earlier this year at Plaza de Toros M\u00e9xico.\nKanye West Announces 2027 Concert at Mexico City\u2019s Iconic Estadio Azteca\nPedro Camacho",
+      "timestamp": "2026-11-05T20:20:31.997170Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consequence.net/2026/11/kanye-west-concert-mexico-estadio-azteca/"
         }
       ]
     }
@@ -149,7 +163,7 @@
     {
       "date": "Nov 05",
       "loc": "Global",
-      "event": "Jude Bellingham for Calvin Klein",
+      "event": "Cristiano Ronaldo was given special treatment at 2026 World Cup as ex-Portugal assistant boss Ricardo Carvalho reveals what he would have done differently",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
@@ -157,10 +171,25 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://ohnotheydidnt.livejournal.com/133098147.html"
+          "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-was-given-special-treatment-at-2026-world-cup-as-ex-portugal-assistant-boss-ricardo-carvalho-reveals-what-he-would-have-done-differently/"
+        }
+      ]
+    },
+    {
+      "date": "Nov 05",
+      "loc": "Mexico City",
+      "event": "Kanye West Announces 2027 Concert at Mexico City\u2019s Iconic Estadio Azteca",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://consequence.net/2026/11/kanye-west-concert-mexico-estadio-azteca/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-11-05T12:55:05.577934Z"
+  "lastUpdated": "2026-11-05T20:20:31.998965Z"
 }
