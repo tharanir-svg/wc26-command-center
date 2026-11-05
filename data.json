@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 2
+    "p3": 1
   },
   "watchlist": [
     {
@@ -136,25 +136,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "https://instagram.com/p/DfPlAlzDThx The English player, Real Madrid midfielder, 2026 FIFA World Cup\u2122 breakthrough star and Erling Haaland's omega stars in the new Calvin Klein underwear campaign.Jude Bellingham, for your eyes only. https://t.co/0pYaYdHdy9\r\n\u2014 \u2026",
-      "timestamp": "2026-11-05T04:59:04.185293Z",
+      "timestamp": "2026-11-05T12:55:05.577636Z",
       "links": [
         {
           "label": "Source",
           "url": "https://ohnotheydidnt.livejournal.com/133098147.html"
-        }
-      ]
-    },
-    {
-      "title": "Report: Napoli eyeing opportunity for Barcelona and 2026 World Cup winning midfielder",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Monday\u2019s reports claim that Napoli are eyeing an ambitious January transfer for Barcelona midfielder and 2026 World Cup winner Gavi, whose opportunities at",
-      "timestamp": "2026-11-05T04:59:04.185530Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://football-italia.net/napoli-eye-opportunity-barcelona-midfielder/"
         }
       ]
     }
@@ -174,22 +160,7 @@
           "url": "https://ohnotheydidnt.livejournal.com/133098147.html"
         }
       ]
-    },
-    {
-      "date": "Nov 05",
-      "loc": "Global",
-      "event": "Report: Napoli eyeing opportunity for Barcelona and 2026 World Cup winning midfielder",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://football-italia.net/napoli-eye-opportunity-barcelona-midfielder/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-11-05T04:59:04.185862Z"
+  "lastUpdated": "2026-11-05T12:55:05.577934Z"
 }
