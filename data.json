@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 2
+    "p3": 3
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "How to watch Wheelchair Rugby League World Cup 2026: live streams",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "All the ways to watch the Wheelchair Rugby League World Cup 2026 for free from anywhere, with full TV channels, broadcast details.",
+      "timestamp": "2026-11-06T16:21:55.458067Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/entertainment/rugby/how-to-watch-wheelchair-rugby-league-world-cup-2026-for-free-live-stream-online-from-anywhere"
+        }
+      ]
+    },
+    {
       "title": "Cristiano Ronaldo was given special treatment at 2026 World Cup as ex-Portugal assistant boss Ricardo Carvalho reveals what he would have done differently",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Former assistant coach Ricardo Carvalho has now offered insight into those discussions, revealing that he had a different approach in mind when it came to managing the veteran forward. \nCristiano Ronaldo\u2019s importance to Portugal has rarely been questioned, bu\u2026",
-      "timestamp": "2026-11-06T08:36:45.105469Z",
+      "timestamp": "2026-11-06T16:21:55.458408Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The March 2027 concert follows Ye's first Mexican performances in more than 17 years, held earlier this year at Plaza de Toros M\u00e9xico.\nKanye West Announces 2027 Concert at Mexico City\u2019s Iconic Estadio Azteca\nPedro Camacho",
-      "timestamp": "2026-11-06T08:36:45.105720Z",
+      "timestamp": "2026-11-06T16:21:55.458674Z",
       "links": [
         {
           "label": "Source",
@@ -160,6 +174,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Nov 06",
+      "loc": "Global",
+      "event": "How to watch Wheelchair Rugby League World Cup 2026: live streams",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/entertainment/rugby/how-to-watch-wheelchair-rugby-league-world-cup-2026-for-free-live-stream-online-from-anywhere"
+        }
+      ]
+    },
     {
       "date": "Nov 06",
       "loc": "Global",
@@ -191,5 +220,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-06T08:36:45.106696Z"
+  "lastUpdated": "2026-11-06T16:21:55.459412Z"
 }
