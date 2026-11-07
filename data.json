@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 1
   },
   "watchlist": [
     {
@@ -136,39 +136,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch the Wheelchair Rugby League World Cup 2026 for free from anywhere, with full TV channels, broadcast details.",
-      "timestamp": "2026-11-07T07:52:37.804330Z",
+      "timestamp": "2026-11-07T14:26:01.946218Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.techradar.com/entertainment/rugby/how-to-watch-wheelchair-rugby-league-world-cup-2026-for-free-live-stream-online-from-anywhere"
-        }
-      ]
-    },
-    {
-      "title": "Cristiano Ronaldo was given special treatment at 2026 World Cup as ex-Portugal assistant boss Ricardo Carvalho reveals what he would have done differently",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Former assistant coach Ricardo Carvalho has now offered insight into those discussions, revealing that he had a different approach in mind when it came to managing the veteran forward. \nCristiano Ronaldo\u2019s importance to Portugal has rarely been questioned, bu\u2026",
-      "timestamp": "2026-11-07T07:52:37.804674Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-was-given-special-treatment-at-2026-world-cup-as-ex-portugal-assistant-boss-ricardo-carvalho-reveals-what-he-would-have-done-differently/"
-        }
-      ]
-    },
-    {
-      "title": "Kanye West Announces 2027 Concert at Mexico City\u2019s Iconic Estadio Azteca",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The March 2027 concert follows Ye's first Mexican performances in more than 17 years, held earlier this year at Plaza de Toros M\u00e9xico.\nKanye West Announces 2027 Concert at Mexico City\u2019s Iconic Estadio Azteca\nPedro Camacho",
-      "timestamp": "2026-11-07T07:52:37.804923Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consequence.net/2026/11/kanye-west-concert-mexico-estadio-azteca/"
         }
       ]
     }
@@ -188,37 +160,7 @@
           "url": "https://www.techradar.com/entertainment/rugby/how-to-watch-wheelchair-rugby-league-world-cup-2026-for-free-live-stream-online-from-anywhere"
         }
       ]
-    },
-    {
-      "date": "Nov 07",
-      "loc": "Global",
-      "event": "Cristiano Ronaldo was given special treatment at 2026 World Cup as ex-Portugal assistant boss Ricardo Carvalho reveals what he would have done differently",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-was-given-special-treatment-at-2026-world-cup-as-ex-portugal-assistant-boss-ricardo-carvalho-reveals-what-he-would-have-done-differently/"
-        }
-      ]
-    },
-    {
-      "date": "Nov 07",
-      "loc": "Mexico City",
-      "event": "Kanye West Announces 2027 Concert at Mexico City\u2019s Iconic Estadio Azteca",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://consequence.net/2026/11/kanye-west-concert-mexico-estadio-azteca/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-11-07T07:52:37.805153Z"
+  "lastUpdated": "2026-11-07T14:26:01.946764Z"
 }
