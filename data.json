@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 2
+    "p3": 4
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "FIFA Rejects Leandro Paredes' Appeal But Reduces Ban for Another Argentine Ahead of CAS Battle",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Argentina\u2019s players were already heartbroken after their 1-0 defeat to Spain in the 2026 FIFA World Cup final on July 19. But tensions between the two sides escalated after the final whistle, leading to a physical confrontation.",
+      "timestamp": "2026-11-08T09:37:06.616762Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.essentiallysports.com/us-sports-news-soccer-news-fifa-rejects-leandro-paredes-appeal-but-reduces-ban-for-another-argentine-ahead-of-cas-battle/"
+        }
+      ]
+    },
+    {
+      "title": "Watch New Zealand vs Tonga: FREE live streams and TV channels",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "All the ways to watch New Zealand vs Tonga live streams for free from anywhere in a fascinating semi-final at the Rugby League World Cup 2026.",
+      "timestamp": "2026-11-08T09:37:06.616841Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/entertainment/rugby/new-zealand-vs-tonga-free-rugby-league-world-cup-2026-semi-final"
+        }
+      ]
+    },
+    {
       "title": "Outerstuff FIFA World Cup 2026 Mens Host City Short Sleeve T-Shirt from $8 (Various Styles) + Free Shipping w/ Prime or on $35+",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Amazon [amazon.com] has Outerstuff FIFA World Cup 2026 Mens Host City Short Sleeve T-Shirt (100% Polyester) from $8. Shipping is free w/ Prime or on $35+.\n\nAvailable options:AtlantaMedium [amazon.com]",
-      "timestamp": "2026-11-08T02:50:03.106539Z",
+      "timestamp": "2026-11-08T09:37:06.617362Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "No special codes or coupons are required. Get this trucker hat while supplies last.",
-      "timestamp": "2026-11-08T02:50:03.106579Z",
+      "timestamp": "2026-11-08T09:37:06.617383Z",
       "links": [
         {
           "label": "Source",
@@ -160,6 +188,36 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Nov 08",
+      "loc": "Global",
+      "event": "FIFA Rejects Leandro Paredes' Appeal But Reduces Ban for Another Argentine Ahead of CAS Battle",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.essentiallysports.com/us-sports-news-soccer-news-fifa-rejects-leandro-paredes-appeal-but-reduces-ban-for-another-argentine-ahead-of-cas-battle/"
+        }
+      ]
+    },
+    {
+      "date": "Nov 08",
+      "loc": "Global",
+      "event": "Watch New Zealand vs Tonga: FREE live streams and TV channels",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.techradar.com/entertainment/rugby/new-zealand-vs-tonga-free-rugby-league-world-cup-2026-semi-final"
+        }
+      ]
+    },
     {
       "date": "Nov 08",
       "loc": "Global",
@@ -191,5 +249,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-08T02:50:03.107607Z"
+  "lastUpdated": "2026-11-08T09:37:06.618337Z"
 }
