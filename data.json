@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 4
+    "p3": 5
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "FIFA reduce Molina ban after Argentina brawl during 2026 World Cup final",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Roma full-back Nahuel Molina has seen his international ban reduced by FIFA after an appeal from the Argentine Federation following the post-match brawl that",
+      "timestamp": "2026-11-08T16:24:02.490928Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/fifa-reduce-molina-ban-after-argentina-appeal/"
+        }
+      ]
+    },
+    {
       "title": "FIFA Rejects Leandro Paredes' Appeal But Reduces Ban for Another Argentine Ahead of CAS Battle",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina\u2019s players were already heartbroken after their 1-0 defeat to Spain in the 2026 FIFA World Cup final on July 19. But tensions between the two sides escalated after the final whistle, leading to a physical confrontation.",
-      "timestamp": "2026-11-08T09:37:06.616762Z",
+      "timestamp": "2026-11-08T16:24:02.491185Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch New Zealand vs Tonga live streams for free from anywhere in a fascinating semi-final at the Rugby League World Cup 2026.",
-      "timestamp": "2026-11-08T09:37:06.616841Z",
+      "timestamp": "2026-11-08T16:24:02.491243Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Amazon [amazon.com] has Outerstuff FIFA World Cup 2026 Mens Host City Short Sleeve T-Shirt (100% Polyester) from $8. Shipping is free w/ Prime or on $35+.\n\nAvailable options:AtlantaMedium [amazon.com]",
-      "timestamp": "2026-11-08T09:37:06.617362Z",
+      "timestamp": "2026-11-08T16:24:02.491799Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "No special codes or coupons are required. Get this trucker hat while supplies last.",
-      "timestamp": "2026-11-08T09:37:06.617383Z",
+      "timestamp": "2026-11-08T16:24:02.491819Z",
       "links": [
         {
           "label": "Source",
@@ -188,6 +202,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Nov 08",
+      "loc": "Global",
+      "event": "FIFA reduce Molina ban after Argentina brawl during 2026 World Cup final",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://football-italia.net/fifa-reduce-molina-ban-after-argentina-appeal/"
+        }
+      ]
+    },
     {
       "date": "Nov 08",
       "loc": "Global",
@@ -249,5 +278,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-08T09:37:06.618337Z"
+  "lastUpdated": "2026-11-08T16:24:02.492629Z"
 }
