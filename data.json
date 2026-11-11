@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 5
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With promo code \"COZY\", this adidas Originals France jersey drops to $38, down from $90. The design references Marseille's past as a World Cup host city. adidas adiClub members get free shipping on all orders (it's free to join). Buy Now at adidas\r\n Features\r\u2026",
-      "timestamp": "2026-11-10T21:29:21.774415Z",
+      "timestamp": "2026-11-11T01:31:01.450291Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "No special codes or coupons are required. Get this graphic t-shirt while supplies last.",
-      "timestamp": "2026-11-10T21:29:21.774651Z",
+      "timestamp": "2026-11-11T01:31:01.450600Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Australia vs Samoa live streams for free from anywhere in a mouthwatering semi-final from Sydney at the Rugby League World Cup 2026.",
-      "timestamp": "2026-11-10T21:29:21.775137Z",
+      "timestamp": "2026-11-11T01:31:01.451232Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Roma full-back Nahuel Molina has seen his international ban reduced by FIFA after an appeal from the Argentine Federation following the post-match brawl that",
-      "timestamp": "2026-11-10T21:29:21.775552Z",
+      "timestamp": "2026-11-11T01:31:01.451754Z",
       "links": [
         {
           "label": "Source",
@@ -192,32 +192,18 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Argentina\u2019s players were already heartbroken after their 1-0 defeat to Spain in the 2026 FIFA World Cup final on July 19. But tensions between the two sides escalated after the final whistle, leading to a physical confrontation.",
-      "timestamp": "2026-11-10T21:29:21.775822Z",
+      "timestamp": "2026-11-11T01:31:01.452137Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.essentiallysports.com/us-sports-news-soccer-news-fifa-rejects-leandro-paredes-appeal-but-reduces-ban-for-another-argentine-ahead-of-cas-battle/"
         }
       ]
-    },
-    {
-      "title": "Watch New Zealand vs Tonga: FREE live streams and TV channels",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "All the ways to watch New Zealand vs Tonga live streams for free from anywhere in a fascinating semi-final at the Rugby League World Cup 2026.",
-      "timestamp": "2026-11-10T21:29:21.775890Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/entertainment/rugby/new-zealand-vs-tonga-free-rugby-league-world-cup-2026-semi-final"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Nov 10",
+      "date": "Nov 11",
       "loc": "Global",
       "event": "adidas Men's Originals France Graphic Jersey for $38 + Free shipping",
       "type": "News",
@@ -232,7 +218,7 @@
       ]
     },
     {
-      "date": "Nov 10",
+      "date": "Nov 11",
       "loc": "Global",
       "event": "Amazon - Outerstuff Men's FIFA World Cup 2026 Host City Graphic T-Shirt (Toronto) $14.17",
       "type": "News",
@@ -247,7 +233,7 @@
       ]
     },
     {
-      "date": "Nov 10",
+      "date": "Nov 11",
       "loc": "Global",
       "event": "Watch Australia vs Samoa: FREE live streams and TV channels",
       "type": "News",
@@ -262,7 +248,7 @@
       ]
     },
     {
-      "date": "Nov 10",
+      "date": "Nov 11",
       "loc": "Global",
       "event": "FIFA reduce Molina ban after Argentina brawl during 2026 World Cup final",
       "type": "News",
@@ -277,7 +263,7 @@
       ]
     },
     {
-      "date": "Nov 10",
+      "date": "Nov 11",
       "loc": "Global",
       "event": "FIFA Rejects Leandro Paredes' Appeal But Reduces Ban for Another Argentine Ahead of CAS Battle",
       "type": "News",
@@ -290,22 +276,7 @@
           "url": "https://www.essentiallysports.com/us-sports-news-soccer-news-fifa-rejects-leandro-paredes-appeal-but-reduces-ban-for-another-argentine-ahead-of-cas-battle/"
         }
       ]
-    },
-    {
-      "date": "Nov 10",
-      "loc": "Global",
-      "event": "Watch New Zealand vs Tonga: FREE live streams and TV channels",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/entertainment/rugby/new-zealand-vs-tonga-free-rugby-league-world-cup-2026-semi-final"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-11-10T21:29:21.776047Z"
+  "lastUpdated": "2026-11-11T01:31:01.452320Z"
 }
