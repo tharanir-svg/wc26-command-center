@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Reports: Mauricio Pochettino favorited to take over at Manchester United",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Mauricio Pochettino committed his future to U.S. Soccer heading into the 2030 FIFA World Cup cycle but reportedly could be on the way out before qualifying even begins.\u00a0 Pochettino is favorited to take over as manager of English Premier League club Manchester\u2026",
+      "timestamp": "2026-11-11T16:41:08.469698Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sbisoccer.com/2026/11/reports-mauricio-pochettino-favorited-to-take-over-at-manchester-united"
+        }
+      ]
+    },
+    {
       "title": "adidas Men's Originals France Graphic Jersey for $38 + Free shipping",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With promo code \"COZY\", this adidas Originals France jersey drops to $38, down from $90. The design references Marseille's past as a World Cup host city. adidas adiClub members get free shipping on all orders (it's free to join). Buy Now at adidas\r\n Features\r\u2026",
-      "timestamp": "2026-11-11T08:29:14.255148Z",
+      "timestamp": "2026-11-11T16:41:08.469990Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "No special codes or coupons are required. Get this graphic t-shirt while supplies last.",
-      "timestamp": "2026-11-11T08:29:14.255340Z",
+      "timestamp": "2026-11-11T16:41:08.470194Z",
       "links": [
         {
           "label": "Source",
@@ -164,30 +178,31 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Australia vs Samoa live streams for free from anywhere in a mouthwatering semi-final from Sydney at the Rugby League World Cup 2026.",
-      "timestamp": "2026-11-11T08:29:14.255719Z",
+      "timestamp": "2026-11-11T16:41:08.470631Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.techradar.com/entertainment/rugby/australia-vs-samoa-free-rugby-league-world-cup-2026-semi-final"
         }
       ]
-    },
-    {
-      "title": "FIFA reduce Molina ban after Argentina brawl during 2026 World Cup final",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Roma full-back Nahuel Molina has seen his international ban reduced by FIFA after an appeal from the Argentine Federation following the post-match brawl that",
-      "timestamp": "2026-11-11T08:29:14.256076Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://football-italia.net/fifa-reduce-molina-ban-after-argentina-appeal/"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Nov 11",
+      "loc": "Global",
+      "event": "Reports: Mauricio Pochettino favorited to take over at Manchester United",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sbisoccer.com/2026/11/reports-mauricio-pochettino-favorited-to-take-over-at-manchester-united"
+        }
+      ]
+    },
     {
       "date": "Nov 11",
       "loc": "Global",
@@ -232,22 +247,7 @@
           "url": "https://www.techradar.com/entertainment/rugby/australia-vs-samoa-free-rugby-league-world-cup-2026-semi-final"
         }
       ]
-    },
-    {
-      "date": "Nov 11",
-      "loc": "Global",
-      "event": "FIFA reduce Molina ban after Argentina brawl during 2026 World Cup final",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://football-italia.net/fifa-reduce-molina-ban-after-argentina-appeal/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-11-11T08:29:14.256301Z"
+  "lastUpdated": "2026-11-11T16:41:08.471021Z"
 }
