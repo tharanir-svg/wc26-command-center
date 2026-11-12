@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 4
+    "p3": 3
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mauricio Pochettino committed his future to U.S. Soccer heading into the 2030 FIFA World Cup cycle but reportedly could be on the way out before qualifying even begins.\u00a0 Pochettino is favorited to take over as manager of English Premier League club Manchester\u2026",
-      "timestamp": "2026-11-11T23:08:58.708234Z",
+      "timestamp": "2026-11-12T04:28:17.884002Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +150,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With promo code \"COZY\", this adidas Originals France jersey drops to $38, down from $90. The design references Marseille's past as a World Cup host city. adidas adiClub members get free shipping on all orders (it's free to join). Buy Now at adidas\r\n Features\r\u2026",
-      "timestamp": "2026-11-11T23:08:58.708581Z",
+      "timestamp": "2026-11-12T04:28:17.884410Z",
       "links": [
         {
           "label": "Source",
@@ -164,32 +164,18 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "No special codes or coupons are required. Get this graphic t-shirt while supplies last.",
-      "timestamp": "2026-11-11T23:08:58.708798Z",
+      "timestamp": "2026-11-12T04:28:17.884686Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.dealcatcher.com/deals/clothing-accessories/mens/outerstuff-fifa-world-cup-host-city-graphic-t-shirt-454168"
         }
       ]
-    },
-    {
-      "title": "Watch Australia vs Samoa: FREE live streams and TV channels",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "All the ways to watch Australia vs Samoa live streams for free from anywhere in a mouthwatering semi-final from Sydney at the Rugby League World Cup 2026.",
-      "timestamp": "2026-11-11T23:08:58.709387Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/entertainment/rugby/australia-vs-samoa-free-rugby-league-world-cup-2026-semi-final"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Nov 11",
+      "date": "Nov 12",
       "loc": "Global",
       "event": "Reports: Mauricio Pochettino favorited to take over at Manchester United",
       "type": "News",
@@ -204,7 +190,7 @@
       ]
     },
     {
-      "date": "Nov 11",
+      "date": "Nov 12",
       "loc": "Global",
       "event": "adidas Men's Originals France Graphic Jersey for $38 + Free shipping",
       "type": "News",
@@ -219,7 +205,7 @@
       ]
     },
     {
-      "date": "Nov 11",
+      "date": "Nov 12",
       "loc": "Global",
       "event": "Amazon - Outerstuff Men's FIFA World Cup 2026 Host City Graphic T-Shirt (Toronto) $14.17",
       "type": "News",
@@ -232,22 +218,7 @@
           "url": "https://www.dealcatcher.com/deals/clothing-accessories/mens/outerstuff-fifa-world-cup-host-city-graphic-t-shirt-454168"
         }
       ]
-    },
-    {
-      "date": "Nov 11",
-      "loc": "Global",
-      "event": "Watch Australia vs Samoa: FREE live streams and TV channels",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.techradar.com/entertainment/rugby/australia-vs-samoa-free-rugby-league-world-cup-2026-semi-final"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-11-11T23:08:58.709554Z"
+  "lastUpdated": "2026-11-12T04:28:17.885540Z"
 }
