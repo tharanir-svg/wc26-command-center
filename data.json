@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 5
+    "p3": 8
   },
   "watchlist": [
     {
@@ -131,12 +131,68 @@
   ],
   "risks": [
     {
+      "title": "US joint bid lists Atlanta as host city for 2031 FIFA Women\u2019s World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Could Atlanta host another World Cup? It\u2019s a possibility after the U.S. Soccer Federation submitted a bid to host the 2031 FIFA Women\u2019s World Cup, with Atlanta as principal location.",
+      "timestamp": "2026-11-13T02:11:32.793663Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/us-joint-bid-lists-atlanta-005001013.html"
+        }
+      ]
+    },
+    {
+      "title": "Team USA withdraws from FIFA U-17 World Cup amid State Department travel warning in Middle East",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "U.S. Soccer pulled its U-17 men's team from the FIFA World Cup in Qatar, citing a State Department Level 3 travel advisory over armed conflict risks.",
+      "timestamp": "2026-11-13T02:11:32.793712Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/outkick-sports/team-usa-withdraws-fifa-u-17-world-cup-state-department-travel-warning-middle-east"
+        }
+      ]
+    },
+    {
+      "title": "San Diego could host FIFA Women's World Cup up to quarterfinals",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "San Diego was included as one of 20 potential host cities in the United States, Mexico, Costa Rica and Jamaica joint bid to for the 2031 competition.",
+      "timestamp": "2026-11-13T02:11:32.793737Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.kpbs.org/news/arts-culture/2026/11/11/san-diego-could-host-fifa-womens-world-cup-up-to-quarterfinals"
+        }
+      ]
+    },
+    {
+      "title": "US pulls out from U-17 World Cup in Qatar\u00a0 \u2014 Reports",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The United States has reportedly withdrawn its U-17 team from the 2026 World Cup in Qatar over security concerns linked to the conflict involving Iran.\n\nRead More: https://punchng.com/us-pulls-out-from-u-17-world-cup-in-qatar-reports/",
+      "timestamp": "2026-11-13T02:11:32.793828Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/us-pulls-out-from-u-17-world-cup-in-qatar-reports/"
+        }
+      ]
+    },
+    {
       "title": "McTominay reveals he underwent heart shock procedure during World Cup with Scotland",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Napoli midfielder Scott McTominay has revealed the cardiac problems that prompted his surgery started playing for Scotland at the 2026 World Cup. \u2018I got the shock on my heart two days before the Haiti game.\u2019",
-      "timestamp": "2026-11-12T21:10:01.298894Z",
+      "timestamp": "2026-11-13T02:11:32.794183Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "How to Get This Deal\n\n- Enter code SHOPBRANDS20 at checkout.\n- Free shipping is included.",
-      "timestamp": "2026-11-12T21:10:01.298987Z",
+      "timestamp": "2026-11-13T02:11:32.794236Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The USMNT soccer team is set to receive a major setback after Mauricio Pochettino was approached by English football giants Manchester United. Pochettino led the USMNT at the 2026 FIFA World Cup and has a record of 21 wins, one draw and 13 defeats in 35 games\u2026",
-      "timestamp": "2026-11-12T21:10:01.299034Z",
+      "timestamp": "2026-11-13T02:11:32.794268Z",
       "links": [
         {
           "label": "Source",
@@ -178,32 +234,78 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mauricio Pochettino committed his future to U.S. Soccer heading into the 2030 FIFA World Cup cycle but reportedly could be on the way out before qualifying even begins.\u00a0 Pochettino is favorited to take over as manager of English Premier League club Manchester\u2026",
-      "timestamp": "2026-11-12T21:10:01.299954Z",
+      "timestamp": "2026-11-13T02:11:32.795102Z",
       "links": [
         {
           "label": "Source",
           "url": "https://sbisoccer.com/2026/11/reports-mauricio-pochettino-favorited-to-take-over-at-manchester-united"
         }
       ]
-    },
-    {
-      "title": "adidas Men's Originals France Graphic Jersey for $38 + Free shipping",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "With promo code \"COZY\", this adidas Originals France jersey drops to $38, down from $90. The design references Marseille's past as a World Cup host city. adidas adiClub members get free shipping on all orders (it's free to join). Buy Now at adidas\r\n Features\r\u2026",
-      "timestamp": "2026-11-12T21:10:01.300355Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/adidas-Mens-Originals-France-Graphic-Jersey-for-38-Free-shipping/22370789.html"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Nov 12",
+      "date": "Nov 13",
+      "loc": "Global",
+      "event": "US joint bid lists Atlanta as host city for 2031 FIFA Women\u2019s World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/articles/us-joint-bid-lists-atlanta-005001013.html"
+        }
+      ]
+    },
+    {
+      "date": "Nov 13",
+      "loc": "Global",
+      "event": "Team USA withdraws from FIFA U-17 World Cup amid State Department travel warning in Middle East",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxnews.com/outkick-sports/team-usa-withdraws-fifa-u-17-world-cup-state-department-travel-warning-middle-east"
+        }
+      ]
+    },
+    {
+      "date": "Nov 13",
+      "loc": "Global",
+      "event": "San Diego could host FIFA Women's World Cup up to quarterfinals",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.kpbs.org/news/arts-culture/2026/11/11/san-diego-could-host-fifa-womens-world-cup-up-to-quarterfinals"
+        }
+      ]
+    },
+    {
+      "date": "Nov 13",
+      "loc": "Global",
+      "event": "US pulls out from U-17 World Cup in Qatar\u00a0 \u2014 Reports",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://punchng.com/us-pulls-out-from-u-17-world-cup-in-qatar-reports/"
+        }
+      ]
+    },
+    {
+      "date": "Nov 13",
       "loc": "Global",
       "event": "McTominay reveals he underwent heart shock procedure during World Cup with Scotland",
       "type": "News",
@@ -218,7 +320,7 @@
       ]
     },
     {
-      "date": "Nov 12",
+      "date": "Nov 13",
       "loc": "Global",
       "event": "eBay - Adidas Men's FIFA World Cup 26 Host City Los Angeles Cap $11.20",
       "type": "News",
@@ -233,7 +335,7 @@
       ]
     },
     {
-      "date": "Nov 12",
+      "date": "Nov 13",
       "loc": "Global",
       "event": "USMNT\u2019s Mauricio Pochettino \u2018close\u2019 to ditching US for Manchester United",
       "type": "News",
@@ -248,7 +350,7 @@
       ]
     },
     {
-      "date": "Nov 12",
+      "date": "Nov 13",
       "loc": "Global",
       "event": "Reports: Mauricio Pochettino favorited to take over at Manchester United",
       "type": "News",
@@ -261,22 +363,7 @@
           "url": "https://sbisoccer.com/2026/11/reports-mauricio-pochettino-favorited-to-take-over-at-manchester-united"
         }
       ]
-    },
-    {
-      "date": "Nov 12",
-      "loc": "Global",
-      "event": "adidas Men's Originals France Graphic Jersey for $38 + Free shipping",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealnews.com/adidas-Mens-Originals-France-Graphic-Jersey-for-38-Free-shipping/22370789.html"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-11-12T21:10:01.300516Z"
+  "lastUpdated": "2026-11-13T02:11:32.795413Z"
 }
