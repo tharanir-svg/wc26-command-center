@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 7
+    "p3": 6
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "U.S. Soccer pulls USMNT U-17\u2019s from FIFA World Cup in Qatar due to safety concerns",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The U.S. Under-17 Men\u2019s National Team will play no part in the upcoming FIFA U-17 World Cup in Qatar. U.S. Soccer has pulled its squad from the tournament due to safety concerns, FIFA announced Thursday. \u201cFIFA understood that U.S. Soccer\u2019s decision was made i\u2026",
+      "timestamp": "2026-11-13T18:10:41.657187Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sbisoccer.com/2026/11/u-s-soccer-pulls-usmnt-u-17s-from-fifa-world-cup-in-qatar-due-to-safety-concerns"
+        }
+      ]
+    },
+    {
+      "title": "FIFA delegation visits the Santiago Bernabeu as 2030 World Cup final hosting decision looms",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The 2030 edition of the FIFA World Cup will take place in the Iberian peninsula, with three nations Spain, Portugal and Morocco set to host the event.While that much is confirmed, the host stadium for...",
+      "timestamp": "2026-11-13T18:10:41.657358Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/fifa-delegation-visits-the-santiago-bernabeu-as-2030-world-cup-final-hosting-decision-looms/"
+        }
+      ]
+    },
+    {
       "title": "US joint bid lists Atlanta as host city for 2031 FIFA Women\u2019s World Cup",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Could Atlanta host another World Cup? It\u2019s a possibility after the U.S. Soccer Federation submitted a bid to host the 2031 FIFA Women\u2019s World Cup, with Atlanta as principal location.",
-      "timestamp": "2026-11-13T10:08:57.864445Z",
+      "timestamp": "2026-11-13T18:10:41.657877Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "U.S. Soccer pulled its U-17 men's team from the FIFA World Cup in Qatar, citing a State Department Level 3 travel advisory over armed conflict risks.",
-      "timestamp": "2026-11-13T10:08:57.864498Z",
+      "timestamp": "2026-11-13T18:10:41.657894Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "San Diego was included as one of 20 potential host cities in the United States, Mexico, Costa Rica and Jamaica joint bid to for the 2031 competition.",
-      "timestamp": "2026-11-13T10:08:57.864525Z",
+      "timestamp": "2026-11-13T18:10:41.657909Z",
       "links": [
         {
           "label": "Source",
@@ -178,58 +206,46 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The United States has reportedly withdrawn its U-17 team from the 2026 World Cup in Qatar over security concerns linked to the conflict involving Iran.\n\nRead More: https://punchng.com/us-pulls-out-from-u-17-world-cup-in-qatar-reports/",
-      "timestamp": "2026-11-13T10:08:57.864618Z",
+      "timestamp": "2026-11-13T18:10:41.657980Z",
       "links": [
         {
           "label": "Source",
           "url": "https://punchng.com/us-pulls-out-from-u-17-world-cup-in-qatar-reports/"
         }
       ]
-    },
-    {
-      "title": "McTominay reveals he underwent heart shock procedure during World Cup with Scotland",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Napoli midfielder Scott McTominay has revealed the cardiac problems that prompted his surgery started playing for Scotland at the 2026 World Cup. \u2018I got the shock on my heart two days before the Haiti game.\u2019",
-      "timestamp": "2026-11-13T10:08:57.865020Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://football-italia.net/mctominay-reveals-heart-shock-scotland-world/"
-        }
-      ]
-    },
-    {
-      "title": "eBay - Adidas Men's FIFA World Cup 26 Host City Los Angeles Cap $11.20",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "How to Get This Deal\n\n- Enter code SHOPBRANDS20 at checkout.\n- Free shipping is included.",
-      "timestamp": "2026-11-13T10:08:57.865077Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealcatcher.com/deals/clothing-accessories/mens/adidas-fifa-world-cup-host-city-los-angeles-cap-457934"
-        }
-      ]
-    },
-    {
-      "title": "USMNT\u2019s Mauricio Pochettino \u2018close\u2019 to ditching US for Manchester United",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The USMNT soccer team is set to receive a major setback after Mauricio Pochettino was approached by English football giants Manchester United. Pochettino led the USMNT at the 2026 FIFA World Cup and has a record of 21 wins, one draw and 13 defeats in 35 games\u2026",
-      "timestamp": "2026-11-13T10:08:57.865109Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://clutchpoints.com/soccer/usmnts-mauricio-pochettino-close-to-ditching-us-for-manchester-united"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Nov 13",
+      "loc": "Global",
+      "event": "U.S. Soccer pulls USMNT U-17\u2019s from FIFA World Cup in Qatar due to safety concerns",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sbisoccer.com/2026/11/u-s-soccer-pulls-usmnt-u-17s-from-fifa-world-cup-in-qatar-due-to-safety-concerns"
+        }
+      ]
+    },
+    {
+      "date": "Nov 13",
+      "loc": "Global",
+      "event": "FIFA delegation visits the Santiago Bernabeu as 2030 World Cup final hosting decision looms",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://madriduniversal.com/fifa-delegation-visits-the-santiago-bernabeu-as-2030-world-cup-final-hosting-decision-looms/"
+        }
+      ]
+    },
     {
       "date": "Nov 13",
       "loc": "Global",
@@ -289,52 +305,7 @@
           "url": "https://punchng.com/us-pulls-out-from-u-17-world-cup-in-qatar-reports/"
         }
       ]
-    },
-    {
-      "date": "Nov 13",
-      "loc": "Global",
-      "event": "McTominay reveals he underwent heart shock procedure during World Cup with Scotland",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://football-italia.net/mctominay-reveals-heart-shock-scotland-world/"
-        }
-      ]
-    },
-    {
-      "date": "Nov 13",
-      "loc": "Global",
-      "event": "eBay - Adidas Men's FIFA World Cup 26 Host City Los Angeles Cap $11.20",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.dealcatcher.com/deals/clothing-accessories/mens/adidas-fifa-world-cup-host-city-los-angeles-cap-457934"
-        }
-      ]
-    },
-    {
-      "date": "Nov 13",
-      "loc": "Global",
-      "event": "USMNT\u2019s Mauricio Pochettino \u2018close\u2019 to ditching US for Manchester United",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://clutchpoints.com/soccer/usmnts-mauricio-pochettino-close-to-ditching-us-for-manchester-united"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-11-13T10:08:57.865815Z"
+  "lastUpdated": "2026-11-13T18:10:41.658371Z"
 }
