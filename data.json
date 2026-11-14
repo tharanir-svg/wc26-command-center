@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 2
+    "p3": 1
   },
   "watchlist": [
     {
@@ -131,65 +131,25 @@
   ],
   "risks": [
     {
-      "title": "U.S. Soccer pulls USMNT U-17\u2019s from FIFA World Cup in Qatar due to safety concerns",
+      "title": "No active World Cup security issues detected",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "The U.S. Under-17 Men\u2019s National Team will play no part in the upcoming FIFA U-17 World Cup in Qatar. U.S. Soccer has pulled its squad from the tournament due to safety concerns, FIFA announced Thursday. \u201cFIFA understood that U.S. Soccer\u2019s decision was made i\u2026",
-      "timestamp": "2026-11-14T04:27:15.087007Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sbisoccer.com/2026/11/u-s-soccer-pulls-usmnt-u-17s-from-fifa-world-cup-in-qatar-due-to-safety-concerns"
-        }
-      ]
-    },
-    {
-      "title": "FIFA delegation visits the Santiago Bernabeu as 2030 World Cup final hosting decision looms",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The 2030 edition of the FIFA World Cup will take place in the Iberian peninsula, with three nations Spain, Portugal and Morocco set to host the event.While that much is confirmed, the host stadium for...",
-      "timestamp": "2026-11-14T04:27:15.087177Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://madriduniversal.com/fifa-delegation-visits-the-santiago-bernabeu-as-2030-world-cup-final-hosting-decision-looms/"
-        }
-      ]
+      "description": "No verified FIFA World Cup 2026 operational, transportation or security disruptions detected.",
+      "timestamp": "2026-11-14T17:21:17.562334Z",
+      "links": []
     }
   ],
   "timeline": [
     {
       "date": "Nov 14",
       "loc": "Global",
-      "event": "U.S. Soccer pulls USMNT U-17\u2019s from FIFA World Cup in Qatar due to safety concerns",
-      "type": "News",
+      "event": "Monitoring cycle completed",
+      "type": "System",
       "confidence": "Confirmed",
       "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://sbisoccer.com/2026/11/u-s-soccer-pulls-usmnt-u-17s-from-fifa-world-cup-in-qatar-due-to-safety-concerns"
-        }
-      ]
-    },
-    {
-      "date": "Nov 14",
-      "loc": "Global",
-      "event": "FIFA delegation visits the Santiago Bernabeu as 2030 World Cup final hosting decision looms",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://madriduniversal.com/fifa-delegation-visits-the-santiago-bernabeu-as-2030-world-cup-final-hosting-decision-looms/"
-        }
-      ]
+      "impact": "P3 ADVISORY"
     }
   ],
-  "lastUpdated": "2026-11-14T04:27:15.087589Z"
+  "lastUpdated": "2026-11-14T17:21:17.562494Z"
 }
