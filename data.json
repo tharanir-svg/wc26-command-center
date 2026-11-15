@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 1
+    "p3": 2
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Canada top Guatemala in Nations League opener",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "By Dylan ButlerIn their first competitive match since co-hosting the 2026 FIFA World Cup, Canada raced out to a three-goal lead and held on for a 3-2 win over Guatemala in the opening leg of the Conca...",
+      "timestamp": "2026-11-15T08:29:42.337943Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.mlssoccer.com/news/canada-top-guatemala-in-nations-league"
+        }
+      ]
+    },
+    {
       "title": "Patrick Mahomes and Brittany Mahomes' $325 million KC Current investment got an unexpected boost as Netherlands chose women's team training facility",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Patrick Mahomes and Brittany Mahomes' KC Current ownership gained international attention when the Netherlands men's national team selected the club's Riverside training facility as its 2026 FIFA World Cup base camp. The decision highlighted the value of the \u2026",
-      "timestamp": "2026-11-15T01:21:31.829611Z",
+      "timestamp": "2026-11-15T08:29:42.338104Z",
       "links": [
         {
           "label": "Source",
@@ -146,6 +160,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Nov 15",
+      "loc": "Global",
+      "event": "Canada top Guatemala in Nations League opener",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.mlssoccer.com/news/canada-top-guatemala-in-nations-league"
+        }
+      ]
+    },
     {
       "date": "Nov 15",
       "loc": "Global",
@@ -162,5 +191,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-15T01:21:31.831150Z"
+  "lastUpdated": "2026-11-15T08:29:42.339544Z"
 }
