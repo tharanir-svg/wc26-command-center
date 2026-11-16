@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 4
+    "p3": 2
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "All the ways to watch Australia vs New Zealand live streams for free from anywhere in the massive Rugby League World Cup 2026 final we all wanted.",
-      "timestamp": "2026-11-16T07:23:35.252664Z",
+      "timestamp": "2026-11-16T17:32:13.150934Z",
       "links": [
         {
           "label": "Source",
@@ -150,39 +150,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Here's how you can stream the final match of the Women's Rugby League World Cup 2026 for free from anywhere in the world.",
-      "timestamp": "2026-11-16T07:23:35.252751Z",
+      "timestamp": "2026-11-16T17:32:13.151042Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.techradar.com/entertainment/how-to-watch-womens-rugby-league-world-cup-2026-final-free"
-        }
-      ]
-    },
-    {
-      "title": "Canada top Guatemala in Nations League opener",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "By Dylan ButlerIn their first competitive match since co-hosting the 2026 FIFA World Cup, Canada raced out to a three-goal lead and held on for a 3-2 win over Guatemala in the opening leg of the Conca...",
-      "timestamp": "2026-11-16T07:23:35.253601Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.mlssoccer.com/news/canada-top-guatemala-in-nations-league"
-        }
-      ]
-    },
-    {
-      "title": "Patrick Mahomes and Brittany Mahomes' $325 million KC Current investment got an unexpected boost as Netherlands chose women's team training facility",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Patrick Mahomes and Brittany Mahomes' KC Current ownership gained international attention when the Netherlands men's national team selected the club's Riverside training facility as its 2026 FIFA World Cup base camp. The decision highlighted the value of the \u2026",
-      "timestamp": "2026-11-16T07:23:35.253727Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/nfl/news/patrick-mahomes-and-brittany-mahomes-325-million-kc-current-investment-got-an-unexpected-boost-as-netherlands-chose-womens-team-training-facility/articleshow/135818933.cms"
         }
       ]
     }
@@ -217,37 +189,7 @@
           "url": "https://www.techradar.com/entertainment/how-to-watch-womens-rugby-league-world-cup-2026-final-free"
         }
       ]
-    },
-    {
-      "date": "Nov 16",
-      "loc": "Global",
-      "event": "Canada top Guatemala in Nations League opener",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.mlssoccer.com/news/canada-top-guatemala-in-nations-league"
-        }
-      ]
-    },
-    {
-      "date": "Nov 16",
-      "loc": "Global",
-      "event": "Patrick Mahomes and Brittany Mahomes' $325 million KC Current investment got an unexpected boost as Netherlands chose women's team training facility",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://timesofindia.indiatimes.com/sports/nfl/news/patrick-mahomes-and-brittany-mahomes-325-million-kc-current-investment-got-an-unexpected-boost-as-netherlands-chose-womens-team-training-facility/articleshow/135818933.cms"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-11-16T07:23:35.254081Z"
+  "lastUpdated": "2026-11-16T17:32:13.152205Z"
 }
