@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 2
+    "p3": 3
   },
   "watchlist": [
     {
@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Canada eye Nations League glory after fantastic 2026 finale",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "By Ben SteinerTORONTO - In a sense, the remarkable story of Canada's historic 2026 men's national team began and ended at Toronto FC\u2019s BMO Field.On the same pitch where their record-breaking\u00a0run to...",
+      "timestamp": "2026-11-18T09:18:49.866534Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.mlssoccer.com/news/canada-eye-nations-league-glory-after-fantastic-2026-finale"
+        }
+      ]
+    },
+    {
       "title": "Fire Engulfs Tent Outside MetLife Stadium After Jets' Loss to Bills as Black Smoke Billows Over Meadowlands",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "An unoccupied post-game tent outside MetLife Stadium was destroyed by fire after the Jets' loss to the Bills. No one was injured, and authorities are investigating the cause.",
-      "timestamp": "2026-11-18T01:23:00.874313Z",
+      "timestamp": "2026-11-18T09:18:49.867556Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Wild scenes unfolded outside the stadium - the home of the NFL's New York Jets and Giants - as a blaze suddenly broke out in the grounds surrounding the venue in East Rutherford, New Jersey.",
-      "timestamp": "2026-11-18T01:23:00.874407Z",
+      "timestamp": "2026-11-18T09:18:49.867627Z",
       "links": [
         {
           "label": "Source",
@@ -160,6 +174,21 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Nov 18",
+      "loc": "Toronto",
+      "event": "Canada eye Nations League glory after fantastic 2026 finale",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.mlssoccer.com/news/canada-eye-nations-league-glory-after-fantastic-2026-finale"
+        }
+      ]
+    },
     {
       "date": "Nov 18",
       "loc": "New York / New Jersey",
@@ -191,5 +220,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-18T01:23:00.874823Z"
+  "lastUpdated": "2026-11-18T09:18:49.867880Z"
 }
