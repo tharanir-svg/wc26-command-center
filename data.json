@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 3
+    "p3": 5
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "YouTube bows out of World Cup rights race; Netflix might step up",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "YouTube was an official \"Preferred Platform\" for the 2026 FIFA World Cup, and it worked to make the partnership a high scorer. It tapped creators to film YouTube isn't alone: Apple, ESPN, NBC, and the newly formed Skydance have also declined to bid. Between t\u2026",
+      "timestamp": "2026-11-21T22:29:03.288745Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.tubefilter.com/2026/11/20/youtube-fifa-world-cup-streaming-rights-netflix-bid/"
+        }
+      ]
+    },
+    {
+      "title": "Mauricio Pochettino Compares Coaching USA At 2026 World Cup To Managing Man United",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Mauricio Pochettino believes the experience of coaching the United States at the World Cup stands him in good stead for taking over Manchester United and trying to resurrect one of soccer's fallen giants.",
+      "timestamp": "2026-11-21T22:29:03.288852Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/mauricio-pochettino-compares-coaching-usa-2026-world-cup-managing-man-united"
+        }
+      ]
+    },
+    {
       "title": "adidas men FIFA World Cup 26 Host City Mexico City Cap $11.5",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "adidas men FIFA World Cup 26 Host City Mexico City Cap *$11.50* \n \nApply code *EXTRA50SALE* at checkout. \n \nFree shipping. \n \nhttps://www.ebay.com/itm/960213447633",
-      "timestamp": "2026-11-21T17:47:55.501629Z",
+      "timestamp": "2026-11-21T22:29:03.289670Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 25-day tournament will feature 48 teams, with Dominican Republic replacing USA as FIFA plays down security concerns.",
-      "timestamp": "2026-11-21T17:47:55.501766Z",
+      "timestamp": "2026-11-21T22:29:03.289775Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The USMNT's 2026 World Cup didn't just rewrite the program's record book. It rewrote the US television ratings book, too. Pochettino's side went 2-0-1 in the group stage, won a World Cup knockout matc...",
-      "timestamp": "2026-11-21T17:47:55.501983Z",
+      "timestamp": "2026-11-21T22:29:03.290005Z",
       "links": [
         {
           "label": "Source",
@@ -174,6 +202,36 @@
     }
   ],
   "timeline": [
+    {
+      "date": "Nov 21",
+      "loc": "Global",
+      "event": "YouTube bows out of World Cup rights race; Netflix might step up",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.tubefilter.com/2026/11/20/youtube-fifa-world-cup-streaming-rights-netflix-bid/"
+        }
+      ]
+    },
+    {
+      "date": "Nov 21",
+      "loc": "Global",
+      "event": "Mauricio Pochettino Compares Coaching USA At 2026 World Cup To Managing Man United",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.foxsports.com/stories/soccer/mauricio-pochettino-compares-coaching-usa-2026-world-cup-managing-man-united"
+        }
+      ]
+    },
     {
       "date": "Nov 21",
       "loc": "Global",
@@ -220,5 +278,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-21T17:47:55.502456Z"
+  "lastUpdated": "2026-11-21T22:29:03.290205Z"
 }
