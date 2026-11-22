@@ -131,12 +131,26 @@
   ],
   "risks": [
     {
+      "title": "Outerstuff Men's FIFA World Cup 2026 Host City T-Shirt (Various) from $6.32 + Free Shipping w/ Prime or on $35+",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Amazon [amazon.com] has Outerstuff Men's FIFA World Cup 2026 Host City T-Shirt (Various) on sale from $6.32. Shipping is free w/ Prime or on orders $35+.\n\nAvailable options:SmallLos Angeles [amaz",
+      "timestamp": "2026-11-22T02:41:56.114656Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slickdeals.net/f/20360766-outerstuff-men-s-fifa-world-cup-2026-host-city-t-shirt-various-from-6-32-free-shipping-w-prime-or-on-35"
+        }
+      ]
+    },
+    {
       "title": "YouTube bows out of World Cup rights race; Netflix might step up",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "YouTube was an official \"Preferred Platform\" for the 2026 FIFA World Cup, and it worked to make the partnership a high scorer. It tapped creators to film YouTube isn't alone: Apple, ESPN, NBC, and the newly formed Skydance have also declined to bid. Between t\u2026",
-      "timestamp": "2026-11-21T22:29:03.288745Z",
+      "timestamp": "2026-11-22T02:41:56.114782Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +164,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Mauricio Pochettino believes the experience of coaching the United States at the World Cup stands him in good stead for taking over Manchester United and trying to resurrect one of soccer's fallen giants.",
-      "timestamp": "2026-11-21T22:29:03.288852Z",
+      "timestamp": "2026-11-22T02:41:56.114875Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "adidas men FIFA World Cup 26 Host City Mexico City Cap *$11.50* \n \nApply code *EXTRA50SALE* at checkout. \n \nFree shipping. \n \nhttps://www.ebay.com/itm/960213447633",
-      "timestamp": "2026-11-21T22:29:03.289670Z",
+      "timestamp": "2026-11-22T02:41:56.115851Z",
       "links": [
         {
           "label": "Source",
@@ -178,32 +192,33 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The 25-day tournament will feature 48 teams, with Dominican Republic replacing USA as FIFA plays down security concerns.",
-      "timestamp": "2026-11-21T22:29:03.289775Z",
+      "timestamp": "2026-11-22T02:41:56.116006Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.aljazeera.com/sports/2026/11/19/fifa-under-17-world-cup-2026-gets-under-way-in-qatar-despite-usa-withdrawal"
         }
       ]
-    },
-    {
-      "title": "USMNT's Record World Cup Run Pulled In 30M+ US Viewers",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The USMNT's 2026 World Cup didn't just rewrite the program's record book. It rewrote the US television ratings book, too. Pochettino's side went 2-0-1 in the group stage, won a World Cup knockout matc...",
-      "timestamp": "2026-11-21T22:29:03.290005Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://pitchside-us.com/usmnt-world-cup-2026-viewership-record-us-sports/"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Nov 21",
+      "date": "Nov 22",
+      "loc": "Global",
+      "event": "Outerstuff Men's FIFA World Cup 2026 Host City T-Shirt (Various) from $6.32 + Free Shipping w/ Prime or on $35+",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://slickdeals.net/f/20360766-outerstuff-men-s-fifa-world-cup-2026-host-city-t-shirt-various-from-6-32-free-shipping-w-prime-or-on-35"
+        }
+      ]
+    },
+    {
+      "date": "Nov 22",
       "loc": "Global",
       "event": "YouTube bows out of World Cup rights race; Netflix might step up",
       "type": "News",
@@ -218,7 +233,7 @@
       ]
     },
     {
-      "date": "Nov 21",
+      "date": "Nov 22",
       "loc": "Global",
       "event": "Mauricio Pochettino Compares Coaching USA At 2026 World Cup To Managing Man United",
       "type": "News",
@@ -233,7 +248,7 @@
       ]
     },
     {
-      "date": "Nov 21",
+      "date": "Nov 22",
       "loc": "Global",
       "event": "adidas men FIFA World Cup 26 Host City Mexico City Cap $11.5",
       "type": "News",
@@ -248,7 +263,7 @@
       ]
     },
     {
-      "date": "Nov 21",
+      "date": "Nov 22",
       "loc": "Global",
       "event": "FIFA Under-17 World Cup 2026 gets under way in Qatar despite USA withdrawal",
       "type": "News",
@@ -261,22 +276,7 @@
           "url": "https://www.aljazeera.com/sports/2026/11/19/fifa-under-17-world-cup-2026-gets-under-way-in-qatar-despite-usa-withdrawal"
         }
       ]
-    },
-    {
-      "date": "Nov 21",
-      "loc": "San Francisco Bay Area",
-      "event": "USMNT's Record World Cup Run Pulled In 30M+ US Viewers",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://pitchside-us.com/usmnt-world-cup-2026-viewership-record-us-sports/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-11-21T22:29:03.290205Z"
+  "lastUpdated": "2026-11-22T02:41:56.116448Z"
 }
