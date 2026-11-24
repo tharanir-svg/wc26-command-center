@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 8
+    "p3": 10
   },
   "watchlist": [
     {
@@ -131,12 +131,110 @@
   ],
   "risks": [
     {
+      "title": "Belfast set to be a host city for Women\u2019s World Cup in 2035",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Bid lists 22 stadiums as potential venues with Windsor Park included",
+      "timestamp": "2026-11-24T22:53:12.670404Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.irishtimes.com/sport/soccer/2026/11/23/belfast-set-to-be-a-host-city-for-womens-world-cup-in-2035/"
+        }
+      ]
+    },
+    {
+      "title": "How the 2026 World Cup sparked a massive football explosion across America",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "A new Seton Hall Sports Poll reveals that the 2026 FIFA World Cup significantly boosted football interest across the United States. Driven by record television audiences and strong engagement among younger demographics, the tournament has left a lasting mark \u2026",
+      "timestamp": "2026-11-24T22:53:12.670491Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.goal.com/en-us/news/2026-world-cup-boosts-us-football-interest-poll/blt48839c417acc8422"
+        }
+      ]
+    },
+    {
+      "title": "Belfast set to be a host city for Women\u2019s World Cup in 2025",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Bid lists 22 stadiums as potential venues with Windsor Park included",
+      "timestamp": "2026-11-24T22:53:12.670515Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.irishtimes.com/sport/soccer/2026/11/23/belfast-set-to-be-a-host-city-for-womens-world-cup-in-2025/"
+        }
+      ]
+    },
+    {
+      "title": "Belfast among host cities for 2035 Women's Fifa World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Windsor Park is among the stadiums that will host games at the World Cup in nine years time.",
+      "timestamp": "2026-11-24T22:53:12.670599Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.the42.ie/2035-womens-world-cup-7235220-Nov2026/"
+        }
+      ]
+    },
+    {
+      "title": "How A Wounded Trump And Fractious Spanish Politics Are Shaping FIFA\u2019s 2030 World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "With a decision yet to be made on where the 2030 FIFA World Cup final will be staged, Spain and Morocco are positioning themselves as hosts, amid network of complex geopolitical issues.",
+      "timestamp": "2026-11-24T22:53:12.670685Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/simonchadwick/2026/11/23/how-a-wounded-trump-and-fractious-spanish-politics-are--shaping-fifas-2030-world-cup/"
+        }
+      ]
+    },
+    {
+      "title": "Women's World Cup returns to U.S. in 2031 with bigger ambitions and fierce competition among host cities",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The tournament has grown dramatically since the U.S. last hosted in 2003. Now, with 48 teams, 104 matches and millions of fans expected, the race for hosting rights is taking shape.",
+      "timestamp": "2026-11-24T22:53:12.670825Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/womens-world-cup-returns-to-us-in-2031-with-bigger-ambitions-and-fierce-competition-among-host-cities-152810812.html"
+        }
+      ]
+    },
+    {
+      "title": "Belfast confirmed as host city for 2035 Women's World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "Belfast has been confirmed as a host city of the 2035 Women's World Cup after a joint bid from England, Northern Ireland, Scotland and Wales was rubber stamped.",
+      "timestamp": "2026-11-24T22:53:12.670865Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rte.ie/sport/soccer/2026/1123/1600338-belfast-confirmed-as-host-city-for-2035-womens-world-cup/"
+        }
+      ]
+    },
+    {
       "title": "Celtic urged to consider Dundee United\u2019s Zidane Iqbal for January move",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Celtic has been urged to consider a move for Dundee United midfielder Zidane Iqbal by a BBC Sports Scotland pundit\u2026Zidane Iqbal of Iraq arrives at the stadium before the FIFA World Cup 2026 Group I ...",
-      "timestamp": "2026-11-24T12:58:44.560135Z",
+      "timestamp": "2026-11-24T22:53:12.671073Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "New Zealand defender Tim Payne has turned his 2026 World Cup internet fame into South American silverware after Club Olimpia clinched the Paraguayan Clausura title on Sunday. Having already lifted the Apertura earlier this year, the historic Asuncion side com\u2026",
-      "timestamp": "2026-11-24T12:58:44.560214Z",
+      "timestamp": "2026-11-24T22:53:12.671126Z",
       "links": [
         {
           "label": "Source",
@@ -164,86 +262,121 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Belfast is expected to be confirmed as a host city of the 2035 Women's World Cup with a specially arranged virtual Congress of FIFA's member nations set to take place on Monday.",
-      "timestamp": "2026-11-24T12:58:44.560555Z",
+      "timestamp": "2026-11-24T22:53:12.671461Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.rte.ie/sport/soccer/2026/1122/1600198-belfast-to-be-confirmed-as-womens-world-cup-host-city/"
         }
       ]
-    },
-    {
-      "title": "Atelier Sportif FIFA World Cup 2026 Edition Glass Tumbler - 4PK 16oz - $7.99",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "https://www.amazon.com/dp/B0H2BJJVX1",
-      "timestamp": "2026-11-24T12:58:44.560756Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slickdeals.net/f/20366031-atelier-sportif-fifa-world-cup-2026-edition-glass-tumbler-4pk-16oz-7-99"
-        }
-      ]
-    },
-    {
-      "title": "Homeowners Near Stadiums Are Renting Out Their Driveways on Game Days. Here\u2019s What a Parking Spot Actually Earns",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "The post Homeowners Near Stadiums Are Renting Out Their Driveways on Game Days. Here\u2019s What a Parking Spot Actually Earns. appeared first on 24/7 Wall St..\nWhen World Cup matches came to Gillette Stadium in Foxborough, Massachusetts, homeowners in neighboring\u2026",
-      "timestamp": "2026-11-24T12:58:44.561057Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/cfe98ce3121a988a"
-        }
-      ]
-    },
-    {
-      "title": "Outerstuff Men's FIFA World Cup 2026 Host City T-Shirt (Various) from $6.32 + Free Shipping w/ Prime or on $35+",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Amazon [amazon.com] has Outerstuff Men's FIFA World Cup 2026 Host City T-Shirt (Various) on sale from $6.32. Shipping is free w/ Prime or on orders $35+.\n\nAvailable options:SmallLos Angeles [amaz",
-      "timestamp": "2026-11-24T12:58:44.561389Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slickdeals.net/f/20360766-outerstuff-men-s-fifa-world-cup-2026-host-city-t-shirt-various-from-6-32-free-shipping-w-prime-or-on-35"
-        }
-      ]
-    },
-    {
-      "title": "YouTube bows out of World Cup rights race; Netflix might step up",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "YouTube was an official \"Preferred Platform\" for the 2026 FIFA World Cup, and it worked to make the partnership a high scorer. It tapped creators to film YouTube isn't alone: Apple, ESPN, NBC, and the newly formed Skydance have also declined to bid. Between t\u2026",
-      "timestamp": "2026-11-24T12:58:44.561516Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.tubefilter.com/2026/11/20/youtube-fifa-world-cup-streaming-rights-netflix-bid/"
-        }
-      ]
-    },
-    {
-      "title": "Mauricio Pochettino Compares Coaching USA At 2026 World Cup To Managing Man United",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Mauricio Pochettino believes the experience of coaching the United States at the World Cup stands him in good stead for taking over Manchester United and trying to resurrect one of soccer's fallen giants.",
-      "timestamp": "2026-11-24T12:58:44.561644Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/mauricio-pochettino-compares-coaching-usa-2026-world-cup-managing-man-united"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "Nov 24",
+      "loc": "Global",
+      "event": "Belfast set to be a host city for Women\u2019s World Cup in 2035",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.irishtimes.com/sport/soccer/2026/11/23/belfast-set-to-be-a-host-city-for-womens-world-cup-in-2035/"
+        }
+      ]
+    },
+    {
+      "date": "Nov 24",
+      "loc": "San Francisco Bay Area",
+      "event": "How the 2026 World Cup sparked a massive football explosion across America",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.goal.com/en-us/news/2026-world-cup-boosts-us-football-interest-poll/blt48839c417acc8422"
+        }
+      ]
+    },
+    {
+      "date": "Nov 24",
+      "loc": "Global",
+      "event": "Belfast set to be a host city for Women\u2019s World Cup in 2025",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.irishtimes.com/sport/soccer/2026/11/23/belfast-set-to-be-a-host-city-for-womens-world-cup-in-2025/"
+        }
+      ]
+    },
+    {
+      "date": "Nov 24",
+      "loc": "Global",
+      "event": "Belfast among host cities for 2035 Women's Fifa World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.the42.ie/2035-womens-world-cup-7235220-Nov2026/"
+        }
+      ]
+    },
+    {
+      "date": "Nov 24",
+      "loc": "Global",
+      "event": "How A Wounded Trump And Fractious Spanish Politics Are Shaping FIFA\u2019s 2030 World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.forbes.com/sites/simonchadwick/2026/11/23/how-a-wounded-trump-and-fractious-spanish-politics-are--shaping-fifas-2030-world-cup/"
+        }
+      ]
+    },
+    {
+      "date": "Nov 24",
+      "loc": "Global",
+      "event": "Women's World Cup returns to U.S. in 2031 with bigger ambitions and fierce competition among host cities",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://sports.yahoo.com/soccer/article/womens-world-cup-returns-to-us-in-2031-with-bigger-ambitions-and-fierce-competition-among-host-cities-152810812.html"
+        }
+      ]
+    },
+    {
+      "date": "Nov 24",
+      "loc": "Global",
+      "event": "Belfast confirmed as host city for 2035 Women's World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.rte.ie/sport/soccer/2026/1123/1600338-belfast-confirmed-as-host-city-for-2035-womens-world-cup/"
+        }
+      ]
+    },
     {
       "date": "Nov 24",
       "loc": "Global",
@@ -288,82 +421,7 @@
           "url": "https://www.rte.ie/sport/soccer/2026/1122/1600198-belfast-to-be-confirmed-as-womens-world-cup-host-city/"
         }
       ]
-    },
-    {
-      "date": "Nov 24",
-      "loc": "Global",
-      "event": "Atelier Sportif FIFA World Cup 2026 Edition Glass Tumbler - 4PK 16oz - $7.99",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slickdeals.net/f/20366031-atelier-sportif-fifa-world-cup-2026-edition-glass-tumbler-4pk-16oz-7-99"
-        }
-      ]
-    },
-    {
-      "date": "Nov 24",
-      "loc": "Boston",
-      "event": "Homeowners Near Stadiums Are Renting Out Their Driveways on Game Days. Here\u2019s What a Parking Spot Actually Earns",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://biztoc.com/x/cfe98ce3121a988a"
-        }
-      ]
-    },
-    {
-      "date": "Nov 24",
-      "loc": "Global",
-      "event": "Outerstuff Men's FIFA World Cup 2026 Host City T-Shirt (Various) from $6.32 + Free Shipping w/ Prime or on $35+",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://slickdeals.net/f/20360766-outerstuff-men-s-fifa-world-cup-2026-host-city-t-shirt-various-from-6-32-free-shipping-w-prime-or-on-35"
-        }
-      ]
-    },
-    {
-      "date": "Nov 24",
-      "loc": "Global",
-      "event": "YouTube bows out of World Cup rights race; Netflix might step up",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.tubefilter.com/2026/11/20/youtube-fifa-world-cup-streaming-rights-netflix-bid/"
-        }
-      ]
-    },
-    {
-      "date": "Nov 24",
-      "loc": "Global",
-      "event": "Mauricio Pochettino Compares Coaching USA At 2026 World Cup To Managing Man United",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.foxsports.com/stories/soccer/mauricio-pochettino-compares-coaching-usa-2026-world-cup-managing-man-united"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-11-24T12:58:44.561782Z"
+  "lastUpdated": "2026-11-24T22:53:12.671743Z"
 }
