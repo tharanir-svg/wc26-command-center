@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 10
+    "p3": 11
   },
   "watchlist": [
     {
@@ -131,12 +131,40 @@
   ],
   "risks": [
     {
+      "title": "Chicago making case to become US host city for 2031 FIFA Women's World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "The road to the 2031 FIFA Women's World Cup is officially underway, and Chicago wants to be part of it.",
+      "timestamp": "2026-11-25T05:05:29.176568Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://abc7chicago.com/post/chicago-making-case-become-us-host-city-2031-fifa-womens-world-cup-soldier-field-hosted-games-1999/20072589/"
+        }
+      ]
+    },
+    {
+      "title": "Los Angeles named candidate host city for 2031 Women\u2019s World Cup",
+      "risk": "low",
+      "severityText": "P3 ADVISORY",
+      "status": "VERIFIED",
+      "description": "LOS ANGELES \u2014 The region that hosted the 1999 and 2003 Women\u2019s World Cup finals is in contention to welcome the tournament back in 2031.",
+      "timestamp": "2026-11-25T05:05:29.176639Z",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thesportingtribune.com/2026/11/23/los-angeles-named-host-candidate-city-for-2031-womens-world-cup"
+        }
+      ]
+    },
+    {
       "title": "Belfast set to be a host city for Women\u2019s World Cup in 2035",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Bid lists 22 stadiums as potential venues with Windsor Park included",
-      "timestamp": "2026-11-24T22:53:12.670404Z",
+      "timestamp": "2026-11-25T05:05:29.177095Z",
       "links": [
         {
           "label": "Source",
@@ -150,7 +178,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "A new Seton Hall Sports Poll reveals that the 2026 FIFA World Cup significantly boosted football interest across the United States. Driven by record television audiences and strong engagement among younger demographics, the tournament has left a lasting mark \u2026",
-      "timestamp": "2026-11-24T22:53:12.670491Z",
+      "timestamp": "2026-11-25T05:05:29.177149Z",
       "links": [
         {
           "label": "Source",
@@ -164,7 +192,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Bid lists 22 stadiums as potential venues with Windsor Park included",
-      "timestamp": "2026-11-24T22:53:12.670515Z",
+      "timestamp": "2026-11-25T05:05:29.177165Z",
       "links": [
         {
           "label": "Source",
@@ -178,7 +206,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Windsor Park is among the stadiums that will host games at the World Cup in nine years time.",
-      "timestamp": "2026-11-24T22:53:12.670599Z",
+      "timestamp": "2026-11-25T05:05:29.177227Z",
       "links": [
         {
           "label": "Source",
@@ -192,7 +220,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "With a decision yet to be made on where the 2030 FIFA World Cup final will be staged, Spain and Morocco are positioning themselves as hosts, amid network of complex geopolitical issues.",
-      "timestamp": "2026-11-24T22:53:12.670685Z",
+      "timestamp": "2026-11-25T05:05:29.177296Z",
       "links": [
         {
           "label": "Source",
@@ -206,7 +234,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The tournament has grown dramatically since the U.S. last hosted in 2003. Now, with 48 teams, 104 matches and millions of fans expected, the race for hosting rights is taking shape.",
-      "timestamp": "2026-11-24T22:53:12.670825Z",
+      "timestamp": "2026-11-25T05:05:29.177407Z",
       "links": [
         {
           "label": "Source",
@@ -220,7 +248,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Belfast has been confirmed as a host city of the 2035 Women's World Cup after a joint bid from England, Northern Ireland, Scotland and Wales was rubber stamped.",
-      "timestamp": "2026-11-24T22:53:12.670865Z",
+      "timestamp": "2026-11-25T05:05:29.177438Z",
       "links": [
         {
           "label": "Source",
@@ -234,7 +262,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "Celtic has been urged to consider a move for Dundee United midfielder Zidane Iqbal by a BBC Sports Scotland pundit\u2026Zidane Iqbal of Iraq arrives at the stadium before the FIFA World Cup 2026 Group I ...",
-      "timestamp": "2026-11-24T22:53:12.671073Z",
+      "timestamp": "2026-11-25T05:05:29.177612Z",
       "links": [
         {
           "label": "Source",
@@ -248,32 +276,48 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "New Zealand defender Tim Payne has turned his 2026 World Cup internet fame into South American silverware after Club Olimpia clinched the Paraguayan Clausura title on Sunday. Having already lifted the Apertura earlier this year, the historic Asuncion side com\u2026",
-      "timestamp": "2026-11-24T22:53:12.671126Z",
+      "timestamp": "2026-11-25T05:05:29.177654Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.goal.com/en-us/news/tim-payne-world-cup-internet-fame-club-olimpia-2026-domestic-double/bltcafb0da6683fbfb9"
         }
       ]
-    },
-    {
-      "title": "Belfast to be confirmed as Women's World Cup host city",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Belfast is expected to be confirmed as a host city of the 2035 Women's World Cup with a specially arranged virtual Congress of FIFA's member nations set to take place on Monday.",
-      "timestamp": "2026-11-24T22:53:12.671461Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rte.ie/sport/soccer/2026/1122/1600198-belfast-to-be-confirmed-as-womens-world-cup-host-city/"
-        }
-      ]
     }
   ],
   "timeline": [
     {
-      "date": "Nov 24",
+      "date": "Nov 25",
+      "loc": "Global",
+      "event": "Chicago making case to become US host city for 2031 FIFA Women's World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://abc7chicago.com/post/chicago-making-case-become-us-host-city-2031-fifa-womens-world-cup-soldier-field-hosted-games-1999/20072589/"
+        }
+      ]
+    },
+    {
+      "date": "Nov 25",
+      "loc": "Global",
+      "event": "Los Angeles named candidate host city for 2031 Women\u2019s World Cup",
+      "type": "News",
+      "confidence": "Confirmed",
+      "risk": "low",
+      "impact": "P3 ADVISORY",
+      "links": [
+        {
+          "label": "Source",
+          "url": "https://www.thesportingtribune.com/2026/11/23/los-angeles-named-host-candidate-city-for-2031-womens-world-cup"
+        }
+      ]
+    },
+    {
+      "date": "Nov 25",
       "loc": "Global",
       "event": "Belfast set to be a host city for Women\u2019s World Cup in 2035",
       "type": "News",
@@ -288,7 +332,7 @@
       ]
     },
     {
-      "date": "Nov 24",
+      "date": "Nov 25",
       "loc": "San Francisco Bay Area",
       "event": "How the 2026 World Cup sparked a massive football explosion across America",
       "type": "News",
@@ -303,7 +347,7 @@
       ]
     },
     {
-      "date": "Nov 24",
+      "date": "Nov 25",
       "loc": "Global",
       "event": "Belfast set to be a host city for Women\u2019s World Cup in 2025",
       "type": "News",
@@ -318,7 +362,7 @@
       ]
     },
     {
-      "date": "Nov 24",
+      "date": "Nov 25",
       "loc": "Global",
       "event": "Belfast among host cities for 2035 Women's Fifa World Cup",
       "type": "News",
@@ -333,7 +377,7 @@
       ]
     },
     {
-      "date": "Nov 24",
+      "date": "Nov 25",
       "loc": "Global",
       "event": "How A Wounded Trump And Fractious Spanish Politics Are Shaping FIFA\u2019s 2030 World Cup",
       "type": "News",
@@ -348,7 +392,7 @@
       ]
     },
     {
-      "date": "Nov 24",
+      "date": "Nov 25",
       "loc": "Global",
       "event": "Women's World Cup returns to U.S. in 2031 with bigger ambitions and fierce competition among host cities",
       "type": "News",
@@ -363,7 +407,7 @@
       ]
     },
     {
-      "date": "Nov 24",
+      "date": "Nov 25",
       "loc": "Global",
       "event": "Belfast confirmed as host city for 2035 Women's World Cup",
       "type": "News",
@@ -378,7 +422,7 @@
       ]
     },
     {
-      "date": "Nov 24",
+      "date": "Nov 25",
       "loc": "Global",
       "event": "Celtic urged to consider Dundee United\u2019s Zidane Iqbal for January move",
       "type": "News",
@@ -393,7 +437,7 @@
       ]
     },
     {
-      "date": "Nov 24",
+      "date": "Nov 25",
       "loc": "Global",
       "event": "Tim Payne turns World Cup internet fame into South American silverware as Club Olimpia clinch 2026 domestic double",
       "type": "News",
@@ -406,22 +450,7 @@
           "url": "https://www.goal.com/en-us/news/tim-payne-world-cup-internet-fame-club-olimpia-2026-domestic-double/bltcafb0da6683fbfb9"
         }
       ]
-    },
-    {
-      "date": "Nov 24",
-      "loc": "Global",
-      "event": "Belfast to be confirmed as Women's World Cup host city",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.rte.ie/sport/soccer/2026/1122/1600198-belfast-to-be-confirmed-as-womens-world-cup-host-city/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-11-24T22:53:12.671743Z"
+  "lastUpdated": "2026-11-25T05:05:29.178041Z"
 }
