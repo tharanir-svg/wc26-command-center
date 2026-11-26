@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 6
+    "p3": 2
   },
   "watchlist": [
     {
@@ -136,7 +136,7 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "The road to the 2031 FIFA Women's World Cup is officially underway, and Chicago wants to be part of it.",
-      "timestamp": "2026-11-26T08:57:45.233706Z",
+      "timestamp": "2026-11-26T18:45:35.236775Z",
       "links": [
         {
           "label": "Source",
@@ -150,67 +150,11 @@
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
       "description": "LOS ANGELES \u2014 The region that hosted the 1999 and 2003 Women\u2019s World Cup finals is in contention to welcome the tournament back in 2031.",
-      "timestamp": "2026-11-26T08:57:45.233753Z",
+      "timestamp": "2026-11-26T18:45:35.236839Z",
       "links": [
         {
           "label": "Source",
           "url": "https://www.thesportingtribune.com/2026/11/23/los-angeles-named-host-candidate-city-for-2031-womens-world-cup"
-        }
-      ]
-    },
-    {
-      "title": "Belfast set to be a host city for Women\u2019s World Cup in 2035",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Bid lists 22 stadiums as potential venues with Windsor Park included",
-      "timestamp": "2026-11-26T08:57:45.234135Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.irishtimes.com/sport/soccer/2026/11/23/belfast-set-to-be-a-host-city-for-womens-world-cup-in-2035/"
-        }
-      ]
-    },
-    {
-      "title": "How the 2026 World Cup sparked a massive football explosion across America",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "A new Seton Hall Sports Poll reveals that the 2026 FIFA World Cup significantly boosted football interest across the United States. Driven by record television audiences and strong engagement among younger demographics, the tournament has left a lasting mark \u2026",
-      "timestamp": "2026-11-26T08:57:45.234207Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.goal.com/en-us/news/2026-world-cup-boosts-us-football-interest-poll/blt48839c417acc8422"
-        }
-      ]
-    },
-    {
-      "title": "Belfast set to be a host city for Women\u2019s World Cup in 2025",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Bid lists 22 stadiums as potential venues with Windsor Park included",
-      "timestamp": "2026-11-26T08:57:45.234223Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.irishtimes.com/sport/soccer/2026/11/23/belfast-set-to-be-a-host-city-for-womens-world-cup-in-2025/"
-        }
-      ]
-    },
-    {
-      "title": "Belfast among host cities for 2035 Women's Fifa World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "Windsor Park is among the stadiums that will host games at the World Cup in nine years time.",
-      "timestamp": "2026-11-26T08:57:45.234287Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.the42.ie/2035-womens-world-cup-7235220-Nov2026/"
         }
       ]
     }
@@ -245,67 +189,7 @@
           "url": "https://www.thesportingtribune.com/2026/11/23/los-angeles-named-host-candidate-city-for-2031-womens-world-cup"
         }
       ]
-    },
-    {
-      "date": "Nov 26",
-      "loc": "Global",
-      "event": "Belfast set to be a host city for Women\u2019s World Cup in 2035",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.irishtimes.com/sport/soccer/2026/11/23/belfast-set-to-be-a-host-city-for-womens-world-cup-in-2035/"
-        }
-      ]
-    },
-    {
-      "date": "Nov 26",
-      "loc": "San Francisco Bay Area",
-      "event": "How the 2026 World Cup sparked a massive football explosion across America",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.goal.com/en-us/news/2026-world-cup-boosts-us-football-interest-poll/blt48839c417acc8422"
-        }
-      ]
-    },
-    {
-      "date": "Nov 26",
-      "loc": "Global",
-      "event": "Belfast set to be a host city for Women\u2019s World Cup in 2025",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.irishtimes.com/sport/soccer/2026/11/23/belfast-set-to-be-a-host-city-for-womens-world-cup-in-2025/"
-        }
-      ]
-    },
-    {
-      "date": "Nov 26",
-      "loc": "Global",
-      "event": "Belfast among host cities for 2035 Women's Fifa World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.the42.ie/2035-womens-world-cup-7235220-Nov2026/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-11-26T08:57:45.234419Z"
+  "lastUpdated": "2026-11-26T18:45:35.237258Z"
 }
