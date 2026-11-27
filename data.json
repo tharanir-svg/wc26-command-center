@@ -7,7 +7,7 @@
   "metrics": {
     "p1": 0,
     "p2": 0,
-    "p3": 2
+    "p3": 1
   },
   "watchlist": [
     {
@@ -131,30 +131,16 @@
   ],
   "risks": [
     {
-      "title": "Chicago making case to become US host city for 2031 FIFA Women's World Cup",
+      "title": "Bono Bowl Review: U2 Delivers Halftime Goods & Hits On Netflix & NFL\u2019s First Thanksgiving Eve Game, With A Little Help From Dolly Parton",
       "risk": "low",
       "severityText": "P3 ADVISORY",
       "status": "VERIFIED",
-      "description": "The road to the 2031 FIFA Women's World Cup is officially underway, and Chicago wants to be part of it.",
-      "timestamp": "2026-11-27T01:58:12.213172Z",
+      "description": "No matter how many hits and tricks U2 pulled out of the hat at L.A.\u2019s SoFi Stadium, today\u2019s Bono Bowl on Netflix was always going to live in the shadow of the streamer\u2019s square dancing filled Beyonc\u00e9 Bowl from Christmas Day 2024. Accepting the inevitable, the\u2026",
+      "timestamp": "2026-11-27T10:26:09.333399Z",
       "links": [
         {
           "label": "Source",
-          "url": "https://abc7chicago.com/post/chicago-making-case-become-us-host-city-2031-fifa-womens-world-cup-soldier-field-hosted-games-1999/20072589/"
-        }
-      ]
-    },
-    {
-      "title": "Los Angeles named candidate host city for 2031 Women\u2019s World Cup",
-      "risk": "low",
-      "severityText": "P3 ADVISORY",
-      "status": "VERIFIED",
-      "description": "LOS ANGELES \u2014 The region that hosted the 1999 and 2003 Women\u2019s World Cup finals is in contention to welcome the tournament back in 2031.",
-      "timestamp": "2026-11-27T01:58:12.213273Z",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thesportingtribune.com/2026/11/23/los-angeles-named-host-candidate-city-for-2031-womens-world-cup"
+          "url": "https://deadline.com/2026/11/u2-halftime-show-performance-review-thanksgiving-eve-1237233462/"
         }
       ]
     }
@@ -162,8 +148,8 @@
   "timeline": [
     {
       "date": "Nov 27",
-      "loc": "Global",
-      "event": "Chicago making case to become US host city for 2031 FIFA Women's World Cup",
+      "loc": "Los Angeles",
+      "event": "Bono Bowl Review: U2 Delivers Halftime Goods & Hits On Netflix & NFL\u2019s First Thanksgiving Eve Game, With A Little Help From Dolly Parton",
       "type": "News",
       "confidence": "Confirmed",
       "risk": "low",
@@ -171,25 +157,10 @@
       "links": [
         {
           "label": "Source",
-          "url": "https://abc7chicago.com/post/chicago-making-case-become-us-host-city-2031-fifa-womens-world-cup-soldier-field-hosted-games-1999/20072589/"
-        }
-      ]
-    },
-    {
-      "date": "Nov 27",
-      "loc": "Global",
-      "event": "Los Angeles named candidate host city for 2031 Women\u2019s World Cup",
-      "type": "News",
-      "confidence": "Confirmed",
-      "risk": "low",
-      "impact": "P3 ADVISORY",
-      "links": [
-        {
-          "label": "Source",
-          "url": "https://www.thesportingtribune.com/2026/11/23/los-angeles-named-host-candidate-city-for-2031-womens-world-cup"
+          "url": "https://deadline.com/2026/11/u2-halftime-show-performance-review-thanksgiving-eve-1237233462/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-11-27T01:58:12.213777Z"
+  "lastUpdated": "2026-11-27T10:26:09.334708Z"
 }
